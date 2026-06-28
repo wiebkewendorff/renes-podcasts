@@ -1,12 +1,26 @@
 ﻿name: Update content API
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "docs/api/feeds.json"
+      - "scripts/**"
+      - "package.json"
+      - "package-lock.json"
+
   schedule:
     - cron: "0 5 * * *"
+
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-content-api
+  cancel-in-progress: true
 
 jobs:
   update:
@@ -25,12 +39,13 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Update content API
         run: npm run update
 
-      - name: Commit API changes
+      - name: Commit generated API
+        shell: bash
         run: |
           if git diff --quiet -- docs/api; then
             echo "No API changes detected."
@@ -39,6 +54,9 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add docs/api
+
           git commit -m "Update content API"
+
           git push
