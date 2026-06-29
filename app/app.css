@@ -1,0 +1,197 @@
+/* Globale Resets & Barrierefreiheit */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #7cd1e8;
+    color: #ffffff;
+    overflow-x: hidden;
+}
+
+/* Header-Bereich */
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    position: relative;
+    height: 20vh;
+}
+
+.logo-placeholder {
+    width: 100px;
+    height: 100px;
+    background: white;
+    color: #333;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: normal;
+}
+
+/* Große Buttons */
+.circle-btn {
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.circle-btn:active {
+    transform: scale(0.95);
+}
+
+.random-btn {
+    width: 120px;
+    height: 120px;
+    background-color: #e3be4d;
+    color: #222; /* Dunkler Text für besseren Kontrast */
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Kategorien Grid */
+.category-selection {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.category-grid {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 1400px;
+    padding: 0 50px;
+}
+
+.category-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.category-label {
+    font-size: 2.8rem;
+    min-height: 60px;
+}
+
+.cat-btn {
+    width: 220px;
+    height: 220px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+/* Episoden-Bereich unten */
+.episode-section {
+    min-height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 40px;
+    transition: background-color 0.5s ease;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.section-content {
+    width: 100%;
+    max-width: 1000px;
+}
+
+/* Episoden-Kacheln/Zeilen */
+.episode-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.episode-card {
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 20px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Fokus-Zustand: Wenn ein anderer Player läuft, wird diese Karte halbtransparent */
+.episode-card.disabled {
+    opacity: 0.2;
+    pointer-events: none; /* Verhindert Klicks komplett */
+}
+
+.episode-info {
+    flex: 1;
+}
+
+.episode-title {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.episode-meta {
+    font-size: 1.4rem;
+    opacity: 0.9;
+}
+
+/* Große, einfach zu bedienende Steuerelemente */
+.controls {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-end;
+}
+
+.play-stop-btn {
+    padding: 20px 50px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: #ffffff;
+    color: #333333;
+    min-width: 180px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.play-stop-btn.playing {
+    background-color: #ff3333;
+    color: white;
+}
+
+.source-link {
+    color: #ffffff;
+    font-size: 1.2rem;
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+.source-link:hover {
+    opacity: 1;
+}

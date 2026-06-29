@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Renés Podcasts</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="logo-placeholder">now and then</div>
+        <h1>Renès Podcasts</h1>
+        <button id="btn-random" class="circle-btn random-btn">zufall</button>
+    </header>
+
+    <main class="category-selection">
+        <div class="category-grid">
+            <div class="category-item">
+                <span class="category-label">politik</span>
+                <button class="circle-btn cat-btn" data-category="politik" style="background-color: #a84343;"></button>
+            </div>
+            <div class="category-item">
+                <span class="category-label" id="label-history">geschichte</span>
+                <button class="circle-btn cat-btn" data-category="geschichte" style="background-color: #3b52ab;"></button>
+            </div>
+            <div class="category-item">
+                <span class="category-label">kunst</span>
+                <button class="circle-btn cat-btn" data-category="kunst" style="background-color: #5ce676;"></button>
+            </div>
+            <div class="category-item">
+                <span class="category-label">musik</span>
+                <button class="circle-btn cat-btn" data-category="musik" style="background-color: #b55ce6;"></button>
+            </div>
+        </div>
+    </main>
+
+    <section id="episode-section" class="episode-section hidden">
+        <div class="section-content">
+            <div id="episode-list" class="episode-list">
+                </div>
+        </div>
+    </section>
+
+    <audio id="global-player" preload="none"></audio>
+
+    <script src="app.js"></script>
+</body>
+</html>
