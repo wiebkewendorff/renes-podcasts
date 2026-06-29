@@ -167,102 +167,6 @@
     "language": "de"
   },
   {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3981702",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Künstliches Leben: So sollen neue Zellen im Labor entstehen",
-    "summary": "Künstliches Leben zu erschaffen ist eine große Herausforderung. Denn wo das Leben herkommt und wann es überhaupt beginnt, gibt Forschenden bis heute Rätsel auf. Doch neue Ansätze sind vielversprechend. Im Zentrum steht dabei der sogenannte Bottom-up-Ansatz: Statt bestehende Zellen genetisch zu verändern (Top-down), werden hier Zellen von Grund auf aus einzelnen Molekülen aufgebaut. Ziel ist es, ein System zu entwickeln, das sich selbst vervielfältigen und evolvieren kann — ein möglicher Übergang von unbelebter zu lebendiger Materie. Genutzt werden dafür vor allem DNA und RNA. Während DNA als stabiler Informationsträger dient, ermöglicht RNA durch ihre vielseitigen Faltungsstrukturen komplexe Funktionen. Mithilfe von Computerdesign werden RNA-Sequenzen so entworfen, dass sie sich zu gewünschten Nanostrukturen falten. Fachleute nennen diese Technik „Origami“. Dieses Verfahren funktioniert unter physiologischen Bedingungen und ist gut skalierbar, etwa durch Produktion in Bakterien. Künstliches Leben als Chance Ein zentraler Vorteil des Bottom-up-Ansatzes liegt darin, dass er Lösungen ermöglicht, die die natürliche Evolution nie hervorgebracht hat. Evolution verläuft zufällig und ist durch bestehende Organismen und Umweltbedingungen eingeschränkt. Im Labor hingegen können gezielt neue Systeme entwickelt und durch gerichtete Evolution optimiert werden. Langfristig möchte man künstliche Minimalzellen entwickeln, die grundlegende Eigenschaften des Lebens besitzen. Diese wären deutlich einfacher als heutige Zellen, könnten aber als Ausgangspunkt für neue Formen von Leben dienen. Anwendungen reichen von medizinischen Therapien bis hin zu neuartigen biotechnologischen Systemen. Frank Schubert ist Biologe und Redakteur bei Spektrum der Wissenschaft . Im Gespräch mit detektor.fm -Moderator Marc Zimmer erklärt er, wie die neuen Ansätze für künstliches Leben aussehen, warum sie so revolutionär sind und welche Hürden es für die Forschung derzeit noch gibt.",
-    "date": "2026-06-26T03:24:02.000Z",
-    "url": "https://feedpress.me/link/19604/17368213/spektrum-podcast-kuenstliches-leben",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626spektrum-podcastkuenstlichesleben.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626spektrum-podcastkuenstlichesleben.63.mp3",
-    "duration": "21 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3995031",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Serious Play: Wenn Sebastian Kurz eine Ente baut",
-    "summary": "Ernsthaft spielen mit Klemmbausteinen Viele Organisationen müssen sich verändern. Denn der Markt, die Mitarbeitenden, die Mitbewerber und der technische Stand entwickeln sich ständig weiter. Unternehmen müssen darauf reagieren und sich an neue Gegebenheiten anpassen. Doch wie gestalten sie den Wandel? Wie findet man den richtigen Kurs und wie lassen sich verschiedene Handlungsoptionen gewichten? Eine mögliche Antwort darauf kann Lego Serious Play sein. Die Methode nimmt das Spiel mit Klemmbausteinen ernst und macht Strukturen, Konflikte und Lösungen im Wortsinn greifbar. Eric Hofmann ist „Lego Serious Play Facilitator“ und begleitet Unternehmen in der Anwendung. Eric Hofmann leitet Spielrunden Der Vorteil von Serious Play: Durch den spielerischen Umgang mit Klemmbausteinen treten auch Strukturen, Haltungen und Vorbehalte zutage, die sich nicht sofort verbalisieren lassen. Laut Hofmann braucht es etwas Geschick, auch zögerlich Teilnehmende zur Mitarbeit zu bewegen. Denn nicht bei allen ist das Spielerische positiv konnotiert. Wenn aber Organisationen erst einmal angeleitet ins Spielen kommen, kann die Methode einiges bewegen. Über den Reiz des ernsthaften Spiels mit Klemmbausteinen und darüber, wie man mit den Ergebnissen dann umgeht, spricht detektor.fm -Moderator Christian Bollert in dieser neuen Folge des „brand eins Podcasts“ mit Eric Hofmann .",
-    "date": "2026-06-26T03:00:45.000Z",
-    "url": "https://feedpress.me/link/19604/17368214/brand-eins-podcast-eric-hofmann",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626brandeins-podcasterichofmann.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626brandeins-podcasterichofmann.63.mp3",
-    "duration": "28 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3995269",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interview: Was ist die Zukunft der Eurobike, Philipp Ferger?",
-    "summary": "In dieser Ausgabe von „Antritt“ geht es mit Philipp Ferger um die Eurobike 2026 und die Zukunft der Messe. Leitmesse mit bewegter Geschichte Seit den Neunzigerjahren gibt es die Fahrradmesse Eurobike. Gegründet in Friedrichshafen am Bodensee, ist sie schnell zur Leitmesse der globalen Fahrradbranche aufgestiegen und damit auch an die Grenzen der Messeinfrastruktur vor Ort gestoßen. Nach einer Unterbrechung durch die COVID-19-Pandemie ging es 2022 neu in Frankfurt am Main auf dem dortigen Messegelände weiter. Der Umzug hat die Messe erreichbarer gemacht, Termin und Kosten vor Ort sind seitdem aber immer wieder Thema der Kritik gewesen. Über die Jahre hat die Eurobike einige wichtige Aussteller verloren, und spätestens 2025 ist spürbar gewesen, dass Teile der Fahrradbranche sich eine andere Ausrichtung wünschen und das mit Nachdruck formulieren. Neuer Messechef Philipp Ferger mit neuem Plan Seit Januar 2026 hat die Eurobike mit Philipp Ferger einen neuen Chef, der auch gleich vor einigen Herausforderungen steht. So hat nur wenige Tage vor Eröffnung der Zweiradindustrieverband ZIV eine neue Messe ab Herbst 2027 angekündigt. Die Eurobike wird im kommenden Jahr auf einen ähnlich gelagerten Herbsttermin umziehen und dann voraussichtlich nur noch alle zwei Jahre stattfinden. Für Philipp Ferger ist die aktuelle Ausgabe dementsprechend auch eine Übergangsveranstaltung. Christian und Gerolf sind für diese Ausgabe nach Frankfurt gefahren und haben mit Philipp Ferger über die aktuelle Ausgabe der Messe, den Konflikt innerhalb der Branche und die Potenziale für die Zukunft gesprochen. Antritt bei Steady und Apple Rückenwind geben In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.",
-    "date": "2026-06-26T03:00:14.000Z",
-    "url": "https://feedpress.me/link/19604/17368215/antritt-philipp-ferger-ueber-die-eurobike-2026-und-die-zukunft",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625antritteurobike.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625antritteurobike.63.mp3",
-    "duration": "45 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3992733",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Demokratiebildung in Sachsen-Anhalt: Wie lernen wir Demokratie?",
-    "summary": "Warum Sachsen-Anhalt Demokratiebildung braucht Demokratie ist keine Selbstverständlichkeit und kein in Stein gemeißelter Zustand, sondern eine fortwährende Entwicklung. Demokratie braucht Einsatz. Für diesen Einsatz für die Demokratie braucht es erst mal ein Verständnis für Demokratie und demokratische Prozesse. Fachleute sagen: Es braucht Demokratiebildung. Gestrichene Förderung: Demokratiebildung in Gefahr Aber was, wenn das Vertrauen in politische Institutionen und die Demokratie schwindet? Politikwissenschaftler beobachten schon länger eine Zunahme feindseliger Stimmung gegen demokratische Parteien. Die Zustimmung zu autoritären Vorstellungen wächst. Förderungen für Demokratiebildung werden teilweise gestrichen und infrage gestellt, wie im Fall von „Demokratie leben“ in Salzwedel. Der Politikwissenschaftler Benjamin Höhne erklärt, dass Demokratiebildung seit dem Einzug der AfD in den Landtag gezielt ins Visier genommen werde. Laut Pascal Begrich vom Miteinander e. V. hängt die zivilgesellschaftliche Demokratiearbeit in Sachsen-Anhalt stark von öffentlicher Förderung ab. Sie befände sich daher in einer prekären Lage. Wie funktioniert Demokratiebildung? Damit Demokratiebildung richtig funktioniert, muss sie Menschen auf eine praktische Weise erreichen und ihnen das Gefühl von Selbstwirksamkeit vermitteln. Politikwissenschaftler Benjamin Höhne erklärt, rein theoretische Vermittlung von Demokratie sei der falsche Weg. Stattdessen müsse auch an Schulen ein Fokus darauf gelegt werden, Demokratie erfahrbar zu machen. Kinderbürgermeister und Zuversicht In dieser Podcastfolge tauchen Katja und Leonard ein in die Demokratiebildung in Sachsen-Anhalt. Sie schauen sich mit dem Kinderbürgermeisterprojekt von Spora Demokratiebildung in der Praxis an, diskutieren mit Expertinnen und Experten über die Bedeutung von Demokratiearbeit und die richtigen Ansätze für Demokratiebildung. Außerdem werfen sie einen Blick in die Zukunft und finden heraus, warum Pascal Begrich trotz aller Angriffe auf Demokratiearbeit zuversichtlich bleibt. All das gibt es in der neuen Folge von DAZWISCHEN. Der DAZWISCHEN-Podcast Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema. Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.",
-    "date": "2026-06-25T13:00:54.000Z",
-    "url": "https://feedpress.me/link/19604/17367819/dazwischen-demokratiebildung-sachsen-anhalt",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625-03dazwischendemokratiebildung.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625-03dazwischendemokratiebildung.63.mp3",
-    "duration": "37 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeitzeichen:23762ea971dee8dc6a3873c9760a65f3",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -281,30 +185,6 @@
     ],
     "category": [
       "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3989709",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Geothermie - Der Energie-Schatz unter unseren Füßen",
-    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem GFZ Helmholtz-Zentrum für Geoforschung Geothermie: Unerschöpfliche Heizung aus der Tiefe Rund 99 Prozent unserer Erde sind heißer als 100 Grad Celsius. Diese Energie ist grundlastfähig, also rund um die Uhr verfügbar, und macht uns theoretisch unabhängig von geopolitischen Abhängigkeiten. Dabei ist Geothermie eigentlich eine ganze Technologiefamilie. Während kleine Anlagen für Wohnhäuser bekannt sind, liegt der Fokus der Forschung heute auf der industriellen Nutzung für großflächige Fernwärmenetze. Wärmewende: Energieunabhängig durch Erdwärme Doch warum heizen wir nicht schon längst überall mit Erdwärme? Ein zentrales Hindernis ist das sogenannte Fündigkeitsrisiko. Da Bohrungen in drei bis vier Kilometern Tiefe extrem kostspielig sind, müssen Stadtwerke und Investoren vorab sicher sein, dass sie dort auch tatsächlich heißes Wasser in ausreichender Menge fördern können. Das GFZ nutzt seit 25 Jahren die Forschungsplattform Groß Schönebeck als Feldlabor, um genau diese Unsicherheiten durch innovative Methoden und ein tieferes Verständnis des Untergrunds zu reduzieren. Fündigkeitsrisiko und hohe Investitionskosten Ein besonders innovativer Ansatz zur Kostensenkung ist das Projekt „TRANSGEO“. Hier untersuchen Forschende, ob zehntausende bereits vorhandene, aber stillgelegte Bohrungen der Öl- und Gasindustrie für die Geothermie „recycelt“ werden können. Das spart Zeit und immense Investitionskosten. Zudem zeigt das Beispiel Berlin-Adlershof, wie der Untergrund als saisonaler Speicher dienen kann: Industrielle Überschusswärme aus dem Sommer wird tief im Boden für den kalten Winter zwischengelagert. Innovation: Recycling von Bohrlöchern und Wärmespeicher Die Herausforderung besteht nun darin, die Prozesse im Untergrund optimal mit den Versorgungsnetzen an der Oberfläche zu synchronisieren. Damit der Umstieg gelingt, müssen Wissenschaft und Energieversorger in den kommenden Jahren noch enger zusammenarbeiten.",
-    "date": "2026-06-25T03:30:08.000Z",
-    "url": "https://feedpress.me/link/19604/17367684/forschungsquartett-geothermie",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260616fqgeothermie.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260616fqgeothermie.63.mp3",
-    "duration": "14 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
       "Bildung"
     ],
     "language": "de"
@@ -358,30 +238,6 @@
     "language": "de"
   },
   {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3960680",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Warum sind manche stressanfälliger als andere?",
-    "summary": "Die Biologie des Stress Wenn Stress entsteht, läuft im Körper ein fein abgestimmtes biologisches Programm ab. Zunächst aktiviert sich innerhalb von Sekunden das sympathische Nervensystem. Adrenalin und Noradrenalin werden ausgeschüttet: Herzschlag und Blutdruck steigen, Energie wird mobilisiert. Kurz darauf folgt die sogenannte HPA-Achse, die über Cortisol wirkt — ein Hormon, das längerfristige Anpassungen steuert. Es beeinflusst unter anderem Immunsystem, Gedächtnis und Stoffwechsel. Problematisch wird es, wenn diese Systeme dauerhaft aktiv bleiben. Denn dann kann Stress zu Schlafproblemen, Verdauungsbeschwerden, erhöhter Infektanfälligkeit oder psychischen Symptomen führen; Depressionen oder Angststörungen können die Folge sein. Allerdings spielt Stress auch bei vielen anderen Krankheiten eine Rolle, etwa bei Diabetes, Bluthochdruck oder Adipositas. Kontrollierbarer vs. unkontrollierbarer Stress Zwar wirkt die Stressreaktion als körperliches Notfallprotokoll aus der Steinzeit heute nicht immer adäquat. Denn lebensbedrohliche Gefahren — etwa durch wilde Tiere — erleben wir weit seltener. Trotzdem ist die biologische Stressreaktion für unseren Alltag absolut notwendig. Ob Stress uns krank macht, hängt stark davon ab, ob wir eine Situation kontrollieren können. Bei planbaren Belastungen kann Stress sogar leistungsfördernd wirken, denn er ermöglicht eine erhöhte Konzentration. Chronischer, unkontrollierbarer Stress hat hingegen schnell negative Folgen. Das lässt sich auch im Rückblick auf die Corona-Pandemie gut nachvollziehen: Global kämpften die Menschen mit unerwartetem und anhaltendem Stress — die Folge: deutlich mehr Fälle von Angststörungen und Depressionen. Als die Situation durch Masken und Impfstoffe kontrollierbarer wurde, flachte auch die Erkrankungsrate wieder ab. Wer ist stressanfällig? Mathias Schmidt vom Max-Planck-Institut für Psychiatrie in München weiß, dass nicht jeder Mensch gleich auf Stress reagiert. Mit seinem Team untersucht er, welche genetischen Varianten zu einem sogenannten polygenen Risiko führen. Besonders spannend ist dabei ein Protein, das in Schmidts Forschung eine zentrale Rolle spielt: FKBP51. Es beeinflusst, wie empfindlich Zellen auf das Stresshormon Cortisol reagieren. Veränderungen in diesem System können dazu beitragen, dass Stress schlechter verarbeitet wird. Auch frühkindliche Erfahrungen, insbesondere Traumata, beeinflussen stark, wie gut wir als Erwachsene mit Stress umgehen können. Aber auch Umweltbedingungen, soziale Beziehungen und der Lebensstil haben Auswirkungen darauf, wie schnell uns Stress krank macht. Genau hier setzt Schmidts Stressforschung an: Ziel ist es, künftig besser vorherzusagen, wer besonders stressgefährdet ist. Statt „One-size-fits-all“-Therapien könnten künftig gezielt passende Medikamente für bestimmte Stress- und Depressionsprofile eingesetzt werden. In dieser Folge „Ach, Mensch!“ spricht detektor.fm -Moderatorin Jessica Hughes mit Dr. Mathias Schmidt über seine neuesten Forschungserkenntnisse und wie Behandlungen in Zukunft individueller gestaltet werden könnten.",
-    "date": "2026-06-24T03:00:13.000Z",
-    "url": "https://feedpress.me/link/19604/17366362/ach-mensch-mathias-schmidt",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260624-01achmenschstressresilienz-mathiasschmidt.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260624-01achmenschstressresilienz-mathiasschmidt.63.mp3",
-    "duration": "43 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-439900452114515",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -430,30 +286,6 @@
     "language": "de"
   },
   {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3985526",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Auf den Spuren der fahrradgerechten Stadt",
-    "summary": "Verkehrssektor als Sorgenkind der Klimapolitik Der Verkehrs- ist neben dem Gebäudesektor das Sorgenkind der deutschen Klimapolitik: Der CO2-Ausstoß im Verkehrssektor liegt bei rund 146 Millionen Tonnen CO2 pro Jahr. Seit den 1990er-Jahren stagniert dieser Wert, obwohl die Fahrzeuge in den vergangenen Jahrzehnten emissionsärmer geworden sind. Der Grund: mehr Verkehr — technische Fortschritte werden durch stetig wachsende Verkehrsleistungen fast vollständig aufgezehrt. Das ist mit Blick auf ambitionierte Klimaziele ein Problem. Die Lösung dafür liegt in der Verkehrswende. Der Journalist Ingwar Perowanowitsch macht mit seiner Arbeit sichtbar, wie die Verkehrswende in der Praxis aussehen kann. Mit dem Fahrrad der Verkehrswende auf der Spur Ingwar Perowanowitsch ist für seinen Film „Cycling Cities“ mit dem Fahrrad durch Europa gefahren: Von Freiburg über Paris, Utrecht, Amsterdam bis nach Kopenhagen hat er sich Beispiele für eine gelungene Verkehrswende angesehen. Als Positivbeispiel gilt dabei Paris: Die Hauptstadt Frankreichs hat in den vergangenen Jahren geschafft, was in Berlin in weiter Ferne scheint: Das Auto wurde zurückgedrängt, um Platz für andere Verkehrsformen zu machen. Davon profitieren die Bewohnerinnen und Bewohner der Stadt, denn die Luftqualität in Paris hat sich deutlich verbessert. Während 2019 noch 400.000 Menschen im Großraum Paris einer über den Grenzwerten liegenden Belastung von Stickstoffdioxid ausgesetzt waren, sank die Zahl bis 2023 auf 5.000. Paris hat dafür massiv Parkplätze abgebaut und die Flächen „in Parks und Plätze umgewandelt“, wie Perowanowitsch erzählt. Ähnlich sei es auch in den anderen Städten gewesen, die er besucht hat. Was die „Cycling Cities“ sonst noch gemein haben, das verrät Journalist Ingwar Perowanowitsch im Interview mit detektor.fm- Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“.",
-    "date": "2026-06-23T03:30:02.000Z",
-    "url": "https://feedpress.me/link/19604/17365706/mission-energiewende-verkehrswende",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260623missionenergiewendecyclingcities.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260623missionenergiewendecyclingcities.63.mp3",
-    "duration": "32 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-687281034860527",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -475,6 +307,167 @@
     "category": [
       "Musik",
       "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:34f15036a966d9f91af77ed9ba2e4f4d",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Forty Elephants: Eine Frauenbande mischt Londons Unterwelt auf",
+    "summary": "Am 22.6.1896 wird Alice Diamond geboren: Mit 18 wird sie Anführerin der Forty Elephants, die Frauenbande räumt Luxusläden aus und dominiert lange Londons Unterwelt. In diesem Zeitzeichen erzählt Christopher Heimer: wie Alice Diamond zu ihrem Spitznamen \"Diamond Annie\" kommt, wie die Bandenchefin London in Reviere aufteilt und ihre Diebinnen mit fast militärischer Präzision organisiert, mit welchen verblüffenden Methoden sie Polizei und Kaufhausdetektive täuschen. Als Alice Diamond am 22. Juni 1896 im Lambeth Workhouse Hospital geboren wird, deutet wenig darauf hin, dass sie einmal die berühmteste Verbrecherin Großbritanniens werden soll. Doch die Tochter eines Kleinkriminellen wächst in einer Welt auf, die von Armut, Wohnungsnot und Gewalt geprägt ist. Schon als junge Frau schließt sie sich den Forty Elephants an: einer außergewöhnlichen Bande, die ausschließlich aus Frauen besteht. Mit Eleganz, Disziplin und ausgeklügelten Tricks stehlen die Mitglieder Schmuck, Pelze und Luxuswaren aus den vornehmen Geschäften Londons. Unter Alice Diamonds Führung entwickelt sich die Gruppe zu einem der erfolgreichsten kriminellen Netzwerke ihrer Zeit. Das sind unsere wichtigsten Quellen und Interviewpartner: Paul Schilling, Filmregisseur (\"Forty Elephants\") Brian McDonald: Alice Diamond and the Forty Elephants, Wrea Green 2015 Emily Jane Burgess: Alice Diamond, giant-queen of the terrors: Female gangsterism, violence and criminal mythmaking in the late-nineteenth and early twentieth-century London ‘underworld‘, Abingdon 2025 Erin Bledsoe: The Forty Elephants, Ashland 2022 Weiterführende Links: Zeitzeichen: Der Gangsterboss, der das Verbrechen organisierte Zeitzeichen: Wie der Fall Vera Brühne zum Justiz-Krimi wurde Zeitzeichen: Boudicca - wie die keltische Rebellin London niederbrannte Zeitzeichen: Warhol-Attentäterin, radikale Feministin - Valerie Solanas Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob? Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in ARD Sounds und überall da, wo es Podcasts gibt. Die Macher hinter diesem Zeitzeichen: Autor: Christopher Heimer Redaktion: Matti Hesse",
+    "date": "2026-06-22T04:00:26.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-forty-elephants-eine-frauenbande-mischt-londons-unterwelt-auf-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-alice-diamond-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/17/8dd5c901-7299-4f43-8dc9-9de80e26c169/8dd5c901-7299-4f43-8dc9-9de80e26c169_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:848abeacc4a012f3f18a3aa45c6bc892",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Freistadt Christiania: Ein fast wahr gewordener Hippietraum?",
+    "summary": "Die Hippie-Kommune Christiania ist weltberühmt: Für Autonomie und Drogenverkauf in der Pusher Street. Im Juni 2011 wird das Experiment legalisiert - doch zu welchem Preis? In diesem Zeitzeichen erzählt Merle Schaack: wie aus einer Hippie-Siedlung mitten in Kopenhagen eine selbstverwaltete \"Freistadt\" entsteht, warum Eigentum, Konsensdemokratie und Gemeinschaft hier radikal neu gedacht werden, wieso Drogenhandel und Gewalt das Experiment immer wieder bedrohen, wie ein Rechtsstreit über Jahre das Ende von Christiania heraufbeschwört, dass eine Stiftung die Rettung für die alternative Lebensform wird. Ein verwunschenes Gelände, auf dem einst Waffen lagerten, wird Anfang der 1970er Jahre zum Experimentierfeld: Menschen ziehen ein, bauen Hütten, schaffen sich eine Welt jenseits klassischer Besitzverhältnisse. Entscheidungen fallen im Konsens, die Gemeinschaft steht über allem. Ein Lebensentwurf zwischen Utopie und Chaos. Doch der Traum gerät unter Druck. Konflikte mit Staat und Polizei, Drogenhandel und organisierte Kriminalität bedrohen die Freistadt. Nach jahrelangem juristischen Ringen kommt es 2011 zum entscheidenden Wendepunkt: Christiania bekommt eine legale Grundlage - und muss sich zugleich an neue Regeln anpassen. Das sind unsere wichtigsten Quellen und Interviewpartner: Knud Foldschack (Anwalt und \"Architekt\" der Stiftung \"Fonden Fristaden Christiania\") Mette Prag (Bewohnerin und Mitglied des Stiftungsvorstands) Nina Pontoppidan (Bewohnerin und Guide) Irma Clausen (ehemalige Bewohnerin) Offizielle Website der Freistadt Christiania Weiterführende Links: Zeitzeichen 26.09.1971: Ausruf der \"Freistadt Christiania\" Deutschlandfunk Kultur: Europas größtes alternatives Wohnprojekt Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob? Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in ARD Sounds und überall da, wo es Podcasts gibt. Die Macherinnen und Macher hinter diesem Zeitzeichen: Autorin: Merle Schaack Redaktion: Matti Hesse",
+    "date": "2026-06-21T04:00:57.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-freistadt-christiania-ein-fast-wahr-gewordener-hippietraum-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-republik-christiania-kopenhagen-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/11/c28ec6db-e364-4646-a216-413394ceffaf/c28ec6db-e364-4646-a216-413394ceffaf_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:c4710dbde727a44a2619767a91ecda3e",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Der Priester, der den Urknall entdeckte: George Lemaître",
+    "summary": "Als Lemaître (gest. am 20.6.1966) sein Modell des Urknalls vorstellt, sieht der Papst darin einen Gottesbeweis. In der Wissenschaft wird er erst verspottet - und dann gefeiert. In diesem Zeitzeichen erzählt Ralph Erdenberger: wie ein katholischer Priester die Urknall-Theorie entwickelt und damit die Kosmologie revolutioniert, warum Lemaître Wissenschaft und Religion strikt trennt - trotz seiner doppelten Berufung, weshalb seine Idee zunächst übersehen wird, während andere Forscher berühmt werden, wie die Entdeckung der kosmischen Hintergrundstrahlung ihm posthum recht gibt, warum der \"Anfang von allem\" bis heute ein ungelöstes Rätsel bleibt. Ein Universum, das sich ausdehnt, Galaxien, die auseinanderdriften, und ein Anfangspunkt, in dem alles enthalten ist: Georges Lemaître denkt das Weltall radikal neu. Als Priester und Physiker verfolgt er zwei Wege zur Wahrheit, ohne sie zu vermischen. Seine Theorie vom \"Uratom\" legt den Grundstein für das, was später Urknall genannt wird. Doch die Anerkennung kommt spät. Während andere Forscher Ruhm ernten, bleibt Lemaître lange im Schatten. Selbst als die Kirche seine Ideen als Beweis für Gott deuten will, widerspricht er entschieden. Für ihn bleibt der Glaube unabhängig von der Wissenschaft. Am Ende bestätigt ein kosmisches Echo seine Theorie. Doch die größte Frage bleibt offen: Was geschah vor dem Anfang? Das ist unsere wichtigste Interviewpartnerin: Dr . Susanne Hüttemeister (Astrophysikerin und Leiterin Planetarium Bochum) Weiterführende Links: Zeitzeichen 17.07.1894: Geburtstag von Georges Lemaître Zeitzeichen 23.11.1951: Papst Pius XII .: Urknall ist Schöpfung Unser Hörtipp: WDR 5 Alles in Butter, der Genuss-Podcast Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob? Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in ARD Sounds und überall da, wo es Podcasts gibt . Die Macherinnen und Macher hinter diesem Zeitzeichen: Autor: Ralph Erdenberger Redaktion: Carolin Rückl und Sefa Inci Suvak",
+    "date": "2026-06-20T04:00:00.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-priester-der-den-urknall-entdeckte-george-lemaitre-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-george-lemaitre-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/10/6cb06d58-b5ed-43ac-a4c4-6b0a2015129d/6cb06d58-b5ed-43ac-a4c4-6b0a2015129d_MP3-128.mp3",
+    "duration": "16 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "30-minuten-kunst:f517dfdedd19ab2ea5f3a02e030c71b2",
+    "source": "30-minuten-kunst",
+    "sourceTitle": "30 Minuten Kunst",
+    "type": "rss",
+    "title": "Majestätsbeleidigung auf der Leinwand?",
+    "summary": "Warum Hermione von Preuschen weit mehr war als die Malerin eines Skandalbildes Ein Skelett im Purpurmantel, eine zurückgewiesene Einreichung bei der Berliner Akademie und eine Künstlerin, die daraufhin ihre eigene Ausstellung organisiert: „Mors Imperator“ war 1887 weit mehr als ein Bild. Es wurde zum Kunstskandal, zum Publikumserfolg und zum Ausgangspunkt für die öffentliche Karriere von Hermione von Preuschen, die sich auch als Schriftstellerin, Weltreisende und Frauenrechtlerin einen Namen machte. Das Bild ist bis zum 15.11.2026 in der Berliner Alten Nationalgalerie ausgestellt und ich konnte mit der Kuratorin der Ausstellung, Dr. Birgit Verwiebe, über das fantastische Werk einer beeindruckenden Künstlerin sprechen. Link zur Ausstellung und zum Bild: https://www.smb.museum/ausstellungen/detail/skandal/ In diesem Podcast steckt jede Menge Herzblut. Deshalb meine Bitte: Unterstützen Sie mich und den Podcast. Bitte fördern Sie uns hier: https://steadyhq.com/de/30-minuten-kunst/about Oder überweisen Sie einen Betrag Ihrer Wahl auf das Konto: DE15 1203 0000 1082 0466 97 IBAN: BYLADEM1001 Repro-Credits: Ausstellungsansicht / Foto: J. Trocha",
+    "date": "2026-06-18T07:00:00.000Z",
+    "url": "https://30-minuten-kunst.podigee.io/128-neue-episode",
+    "image": "https://images.podigee-cdn.net/0x,sbizpvNWNlbWfhX3wtXbWPK_ezyxKRjnzJnxxRQz_jB4=/https://main.podigee-cdn.net/uploads/u26284/93952afa-96f2-4902-a193-4dfbd99d523f.jpeg",
+    "audio": "https://audio.podigee-cdn.net/2523357-m-7911db9b4cbf04ecd8f3c5045283903f.mp3?source=feed",
+    "duration": "25 Min",
+    "tags": [
+      "kunst",
+      "kultur",
+      "bildung"
+    ],
+    "category": [
+      "Kunst",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-klassik-drastisch:https-podcast-mp3-dradio-de-podcast-2026-06-06-serie-klassik-drastisch-80-sofia-gubaidulina-drk-20260606-1653-b7d0db06-mp3-refid-klassik-drastisch-106",
+    "source": "dlf-klassik-drastisch",
+    "sourceTitle": "Klassik drastisch – Deutschlandfunk Kultur",
+    "type": "rss",
+    "title": "Sofia Gubaidulina",
+    "summary": "Ranisch, Axel; Striesow, Devid",
+    "date": "2026-06-06T14:52:32.000Z",
+    "url": "https://www.deutschlandfunkkultur.de/serie-klassik-drastisch-80-sofia-gubaidulina-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_9/0b/FILE_90b45a2399a3e1b3d54542d5bbf5e51c/dlfk-echtzeit-podcast-kachel-2000x2000px-srgb-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/06/serie_klassik_drastisch_80_sofia_gubaidulina_drk_20260606_1653_b7d0db06.mp3?refId=klassik-drastisch-106",
+    "duration": "9 Min",
+    "tags": [
+      "klassik",
+      "kultur",
+      "musikgeschichte",
+      "impulse"
+    ],
+    "category": [
+      "Musik"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-klassik-drastisch:https-podcast-mp3-dradio-de-podcast-2026-06-06-serie-klassik-drastisch-79-georg-friedrich-haendel-drk-20260606-1650-72cd3881-mp3-refid-klassik-drastisch-106",
+    "source": "dlf-klassik-drastisch",
+    "sourceTitle": "Klassik drastisch – Deutschlandfunk Kultur",
+    "type": "rss",
+    "title": "Georg Friedrich Händel",
+    "summary": "Ranisch, Axel; Striesow, Devid www.deutschlandfunkkultur.de, Echtzeit",
+    "date": "2026-06-06T14:50:15.000Z",
+    "url": "https://www.deutschlandfunkkultur.de/serie-klassik-drastisch-79-georg-friedrich-haendel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_9/0b/FILE_90b45a2399a3e1b3d54542d5bbf5e51c/dlfk-echtzeit-podcast-kachel-2000x2000px-srgb-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/06/serie_klassik_drastisch_79_georg_friedrich_haendel_drk_20260606_1650_72cd3881.mp3?refId=klassik-drastisch-106",
+    "duration": "6 Min",
+    "tags": [
+      "klassik",
+      "kultur",
+      "musikgeschichte",
+      "impulse"
+    ],
+    "category": [
+      "Musik"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-klassik-drastisch:https-podcast-mp3-dradio-de-podcast-2026-06-06-serie-klassik-drastisch-78-jean-fery-rebel-drk-20260606-1648-32ca2742-mp3-refid-klassik-drastisch-106",
+    "source": "dlf-klassik-drastisch",
+    "sourceTitle": "Klassik drastisch – Deutschlandfunk Kultur",
+    "type": "rss",
+    "title": "Jean-Féry Rebel",
+    "summary": "Ranisch, Axel; Striesow, Devid www.deutschlandfunkkultur.de, Echtzeit",
+    "date": "2026-06-06T14:48:50.000Z",
+    "url": "https://www.deutschlandfunkkultur.de/serie-klassik-drastisch-78-jean-f-ry-rebel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_9/0b/FILE_90b45a2399a3e1b3d54542d5bbf5e51c/dlfk-echtzeit-podcast-kachel-2000x2000px-srgb-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/06/serie_klassik_drastisch_78_jean_fery_rebel_drk_20260606_1648_32ca2742.mp3?refId=klassik-drastisch-106",
+    "duration": "7 Min",
+    "tags": [
+      "klassik",
+      "kultur",
+      "musikgeschichte",
+      "impulse"
+    ],
+    "category": [
+      "Musik"
     ],
     "language": "de"
   }
