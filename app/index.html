@@ -43,6 +43,28 @@
         </div>
     </section>
 
+    <!--
+      DESIGN-TEMPLATE: Aufbau einer Episoden-Karte.
+      Ohne Code-Kenntnisse anpassbar: Texte/Reihenfolge frei aendern.
+      Platzhalter NICHT loeschen: data-field="title|meta|summary|image|link" und die Buttons.
+    -->
+    <template id="episode-card-template">
+        <article class="episode-card">
+            <div class="card-main">
+                <div class="episode-info">
+                    <h3 class="episode-title" data-field="title"></h3>
+                    <p class="episode-meta" data-field="meta"></p>
+                </div>
+                <button class="circle-btn play-stop-btn" type="button">HÖREN</button>
+            </div>
+            <div class="episode-detail">
+                <img class="episode-image" data-field="image" alt="">
+                <p class="episode-summary" data-field="summary"></p>
+                <a class="source-link" data-field="link" target="_blank" rel="noopener">Zur Originalseite</a>
+            </div>
+        </article>
+    </template>
+
     <audio id="global-player" preload="none"></audio>
 
     <script src="app.js"></script>

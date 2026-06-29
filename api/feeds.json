@@ -59,5 +59,25 @@
     "image": "https://detektor.fm/wp-content/uploads/2021/04/spektrum-der-wissenschaft-podcast-detektorfm-logo.jpg",
     "enabled": true,
     "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-klassik-drastisch",
+    "title": "Klassik drastisch – Deutschlandfunk Kultur",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunkkultur.de/klassik-drastisch-106.html",
+    "feed": "https://www.deutschlandfunkkultur.de/klassik-drastisch-106.xml",
+    "language": "de",
+    "category": [
+      "Musik"
+    ],
+    "tags": [
+      "klassik",
+      "kultur",
+      "musikgeschichte",
+      "impulse"
+    ],
+    "image": "https://www.deutschlandfunkkultur.de/assets/images/deutschlandfunk-kultur-logo.jpg",
+    "enabled": true,
+    "maxEpisodes": 10
   }
 ]

@@ -133,6 +133,7 @@ function goBack() {
 function renderEpisodes(episodes) {
     renderedEpisodes = episodes;
     episodeList.innerHTML = "";
+    const template = document.getElementById("episode-card-template");
     episodes.forEach((ep, index) => {
         const title = ep.title || "Hörbeitrag ohne Titel";
         const host = ep.sourceTitle || ep.source || "Unbekannter Sender";
@@ -140,23 +141,22 @@ function renderEpisodes(episodes) {
         const image = ep.image || "";
         const link = ep.url || "";
 
-        const card = document.createElement("div");
-        card.className = "episode-card";
+        const card = template.content.firstElementChild.cloneNode(true);
         card.id = `ep-card-${index}`;
-        card.innerHTML = `
-            <div class="card-main">
-                <div class="episode-info">
-                    <h3 class="episode-title">${title}</h3>
-                    <p class="episode-meta">${host}</p>
-                </div>
-                <button class="circle-btn play-stop-btn" data-index="${index}" aria-label="Abspielen: ${title}">HÖREN</button>
-            </div>
-            <div class="episode-detail">
-                ${image ? `<img class="episode-image" src="${image}" alt="">` : ""}
-                <p class="episode-summary">${summary}</p>
-                ${link ? `<a href="${link}" target="_blank" rel="noopener" class="source-link">Zur Originalseite</a>` : ""}
-            </div>
-        `;
+        card.querySelector('[data-field="title"]').textContent = title;
+        card.querySelector('[data-field="meta"]').textContent = host;
+        card.querySelector('[data-field="summary"]').textContent = summary;
+
+        const img = card.querySelector('[data-field="image"]');
+        if (image) { img.src = image; } else { img.remove(); }
+
+        const a = card.querySelector('[data-field="link"]');
+        if (link) { a.href = link; } else { a.remove(); }
+
+        const btn = card.querySelector(".play-stop-btn");
+        btn.dataset.index = index;
+        btn.setAttribute("aria-label", `Abspielen: ${title}`);
+
         card.addEventListener("click", (e) => {
             if (e.target.closest(".play-stop-btn") || e.target.closest(".source-link")) return;
             const open = card.classList.contains("expanded");

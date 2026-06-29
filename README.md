@@ -2,7 +2,7 @@
 
 `selected-podcasts` ist ein statischer Podcast- und Feed-Aggregator fuer GitHub Pages.
 
-Das Frontend in `app/` ist nur eine Demo. Der eigentliche Zweck des Repositories ist die erzeugte JSON-API unter `api/`, die andere Webseiten direkt per `fetch()` nutzen koennen.
+Das barrierearme Frontend in `app/` richtet sich an aeltere Nutzer (grosse runde Flaechen, ein Player, wenig Klicks). Daneben dient die erzeugte JSON-API unter `api/` anderen Webseiten zur direkten Nutzung per `fetch()`. Eine ausfuehrliche Projekt- und Design-Dokumentation liegt in `docs/README.md`.
 
 ## API-Endpunkte
 
@@ -95,6 +95,8 @@ npm run dev
 ```
 
 `npm run dev` startet einen kleinen lokalen HTTP-Server fuer das Repo-Root und liefert `app/index.html` unter `/`.
+
+Designer koennen die Episoden-Karte ohne Code im `<template id="episode-card-template">` in `app/index.html` anpassen. Hintergrund und Layout-Begruendungen: `docs/README.md`.
 
 ## GitHub Pages
 
