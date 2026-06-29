@@ -88,6 +88,98 @@
     "language": "de"
   },
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3981702",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Spektrum der Wissenschaft – Der Podcast | Künstliches Leben: So sollen neue Zellen im Labor entstehen",
+    "summary": "Künstliches Leben zu erschaffen ist eine große Herausforderung. Denn wo das Leben herkommt und wann es überhaupt beginnt, gibt Forschenden bis heute Rätsel auf. Doch neue Ansätze sind vielversprechend. Im Zentrum steht dabei der sogenannte Bottom-up-Ansatz: Statt bestehende Zellen genetisch zu verändern (Top-down), werden hier Zellen von Grund auf aus einzelnen Molekülen aufgebaut. Ziel ist es, ein System zu entwickeln, das sich selbst vervielfältigen und evolvieren kann — ein möglicher Übergang von unbelebter zu lebendiger Materie. Genutzt werden dafür vor allem DNA und RNA. Während DNA als stabiler Informationsträger dient, ermöglicht RNA durch ihre vielseitigen Faltungsstrukturen komplexe Funktionen. Mithilfe von Computerdesign werden RNA-Sequenzen so entworfen, dass sie sich zu gewünschten Nanostrukturen falten. Fachleute nennen diese Technik „Origami“. Dieses Verfahren funktioniert unter physiologischen Bedingungen und ist gut skalierbar, etwa durch Produktion in Bakterien. Künstliches Leben als Chance Ein zentraler Vorteil des Bottom-up-Ansatzes liegt darin, dass er Lösungen ermöglicht, die die natürliche Evolution nie hervorgebracht hat. Evolution verläuft zufällig und ist durch bestehende Organismen und Umweltbedingungen eingeschränkt. Im Labor hingegen können gezielt neue Systeme entwickelt und durch gerichtete Evolution optimiert werden. Langfristig möchte man künstliche Minimalzellen entwickeln, die grundlegende Eigenschaften des Lebens besitzen. Diese wären deutlich einfacher als heutige Zellen, könnten aber als Ausgangspunkt für neue Formen von Leben dienen. Anwendungen reichen von medizinischen Therapien bis hin zu neuartigen biotechnologischen Systemen. Frank Schubert ist Biologe und Redakteur bei Spektrum der Wissenschaft . Im Gespräch mit detektor.fm -Moderator Marc Zimmer erklärt er, wie die neuen Ansätze für künstliches Leben aussehen, warum sie so revolutionär sind und welche Hürden es für die Forschung derzeit noch gibt.",
+    "date": "2026-06-26T03:24:02.000Z",
+    "url": "https://feedpress.me/link/19604/17368213/spektrum-podcast-kuenstliches-leben",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626spektrum-podcastkuenstlichesleben.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626spektrum-podcastkuenstlichesleben.63.mp3",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Politik",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3995031",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "brand eins-Podcast | Serious Play: Wenn Sebastian Kurz eine Ente baut",
+    "summary": "Ernsthaft spielen mit Klemmbausteinen Viele Organisationen müssen sich verändern. Denn der Markt, die Mitarbeitenden, die Mitbewerber und der technische Stand entwickeln sich ständig weiter. Unternehmen müssen darauf reagieren und sich an neue Gegebenheiten anpassen. Doch wie gestalten sie den Wandel? Wie findet man den richtigen Kurs und wie lassen sich verschiedene Handlungsoptionen gewichten? Eine mögliche Antwort darauf kann Lego Serious Play sein. Die Methode nimmt das Spiel mit Klemmbausteinen ernst und macht Strukturen, Konflikte und Lösungen im Wortsinn greifbar. Eric Hofmann ist „Lego Serious Play Facilitator“ und begleitet Unternehmen in der Anwendung. Eric Hofmann leitet Spielrunden Der Vorteil von Serious Play: Durch den spielerischen Umgang mit Klemmbausteinen treten auch Strukturen, Haltungen und Vorbehalte zutage, die sich nicht sofort verbalisieren lassen. Laut Hofmann braucht es etwas Geschick, auch zögerlich Teilnehmende zur Mitarbeit zu bewegen. Denn nicht bei allen ist das Spielerische positiv konnotiert. Wenn aber Organisationen erst einmal angeleitet ins Spielen kommen, kann die Methode einiges bewegen. Über den Reiz des ernsthaften Spiels mit Klemmbausteinen und darüber, wie man mit den Ergebnissen dann umgeht, spricht detektor.fm -Moderator Christian Bollert in dieser neuen Folge des „brand eins Podcasts“ mit Eric Hofmann .",
+    "date": "2026-06-26T03:00:45.000Z",
+    "url": "https://feedpress.me/link/19604/17368214/brand-eins-podcast-eric-hofmann",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626brandeins-podcasterichofmann.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626brandeins-podcasterichofmann.63.mp3",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Politik",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3995269",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Antritt | Interview: Was ist die Zukunft der Eurobike, Philipp Ferger?",
+    "summary": "In dieser Ausgabe von „Antritt“ geht es mit Philipp Ferger um die Eurobike 2026 und die Zukunft der Messe. Leitmesse mit bewegter Geschichte Seit den Neunzigerjahren gibt es die Fahrradmesse Eurobike. Gegründet in Friedrichshafen am Bodensee, ist sie schnell zur Leitmesse der globalen Fahrradbranche aufgestiegen und damit auch an die Grenzen der Messeinfrastruktur vor Ort gestoßen. Nach einer Unterbrechung durch die COVID-19-Pandemie ging es 2022 neu in Frankfurt am Main auf dem dortigen Messegelände weiter. Der Umzug hat die Messe erreichbarer gemacht, Termin und Kosten vor Ort sind seitdem aber immer wieder Thema der Kritik gewesen. Über die Jahre hat die Eurobike einige wichtige Aussteller verloren, und spätestens 2025 ist spürbar gewesen, dass Teile der Fahrradbranche sich eine andere Ausrichtung wünschen und das mit Nachdruck formulieren. Neuer Messechef Philipp Ferger mit neuem Plan Seit Januar 2026 hat die Eurobike mit Philipp Ferger einen neuen Chef, der auch gleich vor einigen Herausforderungen steht. So hat nur wenige Tage vor Eröffnung der Zweiradindustrieverband ZIV eine neue Messe ab Herbst 2027 angekündigt. Die Eurobike wird im kommenden Jahr auf einen ähnlich gelagerten Herbsttermin umziehen und dann voraussichtlich nur noch alle zwei Jahre stattfinden. Für Philipp Ferger ist die aktuelle Ausgabe dementsprechend auch eine Übergangsveranstaltung. Christian und Gerolf sind für diese Ausgabe nach Frankfurt gefahren und haben mit Philipp Ferger über die aktuelle Ausgabe der Messe, den Konflikt innerhalb der Branche und die Potenziale für die Zukunft gesprochen. Antritt bei Steady und Apple Rückenwind geben In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.",
+    "date": "2026-06-26T03:00:14.000Z",
+    "url": "https://feedpress.me/link/19604/17368215/antritt-philipp-ferger-ueber-die-eurobike-2026-und-die-zukunft",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625antritteurobike.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625antritteurobike.63.mp3",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Politik",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3992733",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "DAZWISCHEN Der Sachsen-Anhalt-Podcast | Demokratiebildung in Sachsen-Anhalt: Wie lernen wir Demokratie?",
+    "summary": "Warum Sachsen-Anhalt Demokratiebildung braucht Demokratie ist keine Selbstverständlichkeit und kein in Stein gemeißelter Zustand, sondern eine fortwährende Entwicklung. Demokratie braucht Einsatz. Für diesen Einsatz für die Demokratie braucht es erst mal ein Verständnis für Demokratie und demokratische Prozesse. Fachleute sagen: Es braucht Demokratiebildung. Gestrichene Förderung: Demokratiebildung in Gefahr Aber was, wenn das Vertrauen in politische Institutionen und die Demokratie schwindet? Politikwissenschaftler beobachten schon länger eine Zunahme feindseliger Stimmung gegen demokratische Parteien. Die Zustimmung zu autoritären Vorstellungen wächst. Förderungen für Demokratiebildung werden teilweise gestrichen und infrage gestellt, wie im Fall von „Demokratie leben“ in Salzwedel. Der Politikwissenschaftler Benjamin Höhne erklärt, dass Demokratiebildung seit dem Einzug der AfD in den Landtag gezielt ins Visier genommen werde. Laut Pascal Begrich vom Miteinander e. V. hängt die zivilgesellschaftliche Demokratiearbeit in Sachsen-Anhalt stark von öffentlicher Förderung ab. Sie befände sich daher in einer prekären Lage. Wie funktioniert Demokratiebildung? Damit Demokratiebildung richtig funktioniert, muss sie Menschen auf eine praktische Weise erreichen und ihnen das Gefühl von Selbstwirksamkeit vermitteln. Politikwissenschaftler Benjamin Höhne erklärt, rein theoretische Vermittlung von Demokratie sei der falsche Weg. Stattdessen müsse auch an Schulen ein Fokus darauf gelegt werden, Demokratie erfahrbar zu machen. Kinderbürgermeister und Zuversicht In dieser Podcastfolge tauchen Katja und Leonard ein in die Demokratiebildung in Sachsen-Anhalt. Sie schauen sich mit dem Kinderbürgermeisterprojekt von Spora Demokratiebildung in der Praxis an, diskutieren mit Expertinnen und Experten über die Bedeutung von Demokratiearbeit und die richtigen Ansätze für Demokratiebildung. Außerdem werfen sie einen Blick in die Zukunft und finden heraus, warum Pascal Begrich trotz aller Angriffe auf Demokratiearbeit zuversichtlich bleibt. All das gibt es in der neuen Folge von DAZWISCHEN. Der DAZWISCHEN-Podcast Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema. Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.",
+    "date": "2026-06-25T13:00:54.000Z",
+    "url": "https://feedpress.me/link/19604/17367819/dazwischen-demokratiebildung-sachsen-anhalt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625-03dazwischendemokratiebildung.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625-03dazwischendemokratiebildung.63.mp3",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Politik",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:23762ea971dee8dc6a3873c9760a65f3",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -110,111 +202,24 @@
     "language": "de"
   },
   {
-    "id": "zeitzeichen:3d497cacc6426de464b7e4578072b84a",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3989709",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Der perfekte Faschist und seine jüdische Frau",
-    "summary": "Als die Jüdin Lilliana Weinman und der Faschisten Attilio Teruzzi am 24. Juni 1926 heiraten, liegt Rom dem Paar zu Füßen. Doch bald beginnt ein erbitterter Kampf. In diesem Zeitzeichen erzählt Anja Reinhard: wie unterschiedlich Weinman und Teruzzi aufwachsen, was Teruzzi an der Amerikanerin fasziniert, warum eine Scheidung nicht möglich ist und woran eine Annulierung der Ehe scheitert, wie eine Kiste voller Familienpapiere das faschistische Liebesdrama aufdeckt. Die Hochzeit von Lilliana Weinman und Attilio Teruzzi am 24. Juni 1926 in Rom ist ein spektakuläres gesellschaftliches Ereignis. Die gesamte faschistische Funktionselite ist anwesend, Trauzeuge Benito Mussolini inklusive. Die Ehe der gefeierten amerikanischen Opernsängerin und dem hochdekorierten Kriegsveteranen gilt als schillernd - dass Lilliana Jüdin ist, interessiert da noch niemanden. Doch mit dem Machtaufstieg des Faschismus verändert sich auch das Frauenbild. Lillianas Eigenständigkeit, ihr Glamour und ihre Freiheit werden zum Problem. Teruzzi fordert die Scheidung - seine Frau und die katholische Kirche aber denken gar nicht daran, dem zuzustimmen. Was folgt ist ein erbitterter, 18 Jahre andauernder Gerichtsstreit. Das sind unsere wichtigsten Quellen und Interviewpartner: Victoria de Grazia, Autorin des Buches \"Der perfekte Faschist\" Sven Reichardt, Historiker und Faschismusforscher Victoria de Grazia: Der perfekte Faschist. Eine Geschichte von Liebe, Macht und Gewalt. Berlin 2024 Hans Woller: \"Geschichte Italiens im 20. Jahrhundert\". München 2010 Antonio Scurati: \"M. Der Sohn des Jahrhunderts\" (Roman). Stuttgart 2020 Sven Reichardt: \"Faschistische Kampfbünde. Gewalt und Gemeinschaft im italienischen Squadrismus und in der deutschen SA\". Köln 2009 Weiterführende Links: Zeitzeichen: 30. Oktober 1922 - Mussolini wird Italiens Ministerpräsident Stichtag: 19. Januar 1941 - Hitler trifft Mussolini auf dem Obersalzberg Unser Hörtipp: \"Zeitenwende 1600 – Musik Macht Epoche\" Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob? Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in ARD Sounds und überall da, wo es Podcasts gibt . Die Macherinnen hinter diesem Zeitzeichen: Autorin: Anja Reinhard Redaktion: Sefa Inci Suvak",
-    "date": "2026-06-24T04:00:32.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-perfekte-faschist-und-seine-juedische-frau-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/lilliana-weinman-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/10/7fdd50be-8c3c-412e-a1bc-9d465bc0af96/7fdd50be-8c3c-412e-a1bc-9d465bc0af96_MP3-128.mp3",
+    "title": "Forschungsquartett | Geothermie - Der Energie-Schatz unter unseren Füßen",
+    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem GFZ Helmholtz-Zentrum für Geoforschung Geothermie: Unerschöpfliche Heizung aus der Tiefe Rund 99 Prozent unserer Erde sind heißer als 100 Grad Celsius. Diese Energie ist grundlastfähig, also rund um die Uhr verfügbar, und macht uns theoretisch unabhängig von geopolitischen Abhängigkeiten. Dabei ist Geothermie eigentlich eine ganze Technologiefamilie. Während kleine Anlagen für Wohnhäuser bekannt sind, liegt der Fokus der Forschung heute auf der industriellen Nutzung für großflächige Fernwärmenetze. Wärmewende: Energieunabhängig durch Erdwärme Doch warum heizen wir nicht schon längst überall mit Erdwärme? Ein zentrales Hindernis ist das sogenannte Fündigkeitsrisiko. Da Bohrungen in drei bis vier Kilometern Tiefe extrem kostspielig sind, müssen Stadtwerke und Investoren vorab sicher sein, dass sie dort auch tatsächlich heißes Wasser in ausreichender Menge fördern können. Das GFZ nutzt seit 25 Jahren die Forschungsplattform Groß Schönebeck als Feldlabor, um genau diese Unsicherheiten durch innovative Methoden und ein tieferes Verständnis des Untergrunds zu reduzieren. Fündigkeitsrisiko und hohe Investitionskosten Ein besonders innovativer Ansatz zur Kostensenkung ist das Projekt „TRANSGEO“. Hier untersuchen Forschende, ob zehntausende bereits vorhandene, aber stillgelegte Bohrungen der Öl- und Gasindustrie für die Geothermie „recycelt“ werden können. Das spart Zeit und immense Investitionskosten. Zudem zeigt das Beispiel Berlin-Adlershof, wie der Untergrund als saisonaler Speicher dienen kann: Industrielle Überschusswärme aus dem Sommer wird tief im Boden für den kalten Winter zwischengelagert. Innovation: Recycling von Bohrlöchern und Wärmespeicher Die Herausforderung besteht nun darin, die Prozesse im Untergrund optimal mit den Versorgungsnetzen an der Oberfläche zu synchronisieren. Damit der Umstieg gelingt, müssen Wissenschaft und Energieversorger in den kommenden Jahren noch enger zusammenarbeiten.",
+    "date": "2026-06-25T03:30:08.000Z",
+    "url": "https://feedpress.me/link/19604/17367684/forschungsquartett-geothermie",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260616fqgeothermie.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260616fqgeothermie.63.mp3",
     "tags": [
-      "geschichte",
+      "wissenschaft",
+      "forschung",
       "bildung",
-      "zeitgeschichte"
+      "gesellschaft"
     ],
     "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:12295499ab27ce184d4df745dfc8463f",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Brexit: Als Populismus europäische Geschichte schrieb",
-    "summary": "Am 23. Juni 2016 stimmen die Briten für den Brexit. Der Entscheidung gehen politische Machtkämpfe, populistische Versprechen, die Angst vor Migration und jahrelange Kulturkämpfe voraus. In diesem Zeitzeichen erzählt Wolfgang Meyer: wie Premierminister David Cameron mit einem Referendum ein politisches Risiko eingeht und sich dabei verzockt, mit welchem Slogan Nigel Farage und die Brexit-Befürworter Millionen Menschen überzeugen, und warum viele Britinnen und Briten den Austritt aus der EU heute kritisch sehen. Am 23. Juni 2016 stimmt eine knappe Mehrheit der Britinnen und Briten für den Austritt aus der Europäischen Union. 51,9 Prozent votieren für \"Leave\", 48,1 Prozent für \"Remain\". Das Referendum spaltet das Land: Jung steht gegen Alt, Schottland und Nordirland gegen England, Stadt gegen Land. Doch der Brexit beginnt nicht erst 2016. Das Verhältnis Großbritanniens zu Europa ist seit dem Beitritt zur Europäischen Gemeinschaft 1973 von Skepsis geprägt. Politiker wie Margaret Thatcher warnen vor einem europäischen Superstaat, Nigel Farage macht den EU-Austritt zum politischen Projekt. David Cameron will mit der Ankündigung eines Referendums seine konservative Partei befrieden. Stattdessen löst er eine Entwicklung aus, die das Land dauerhaft verändert. Das sind unsere wichtigsten Quellen und Interviewpartner: Dr. Nicolai von Ondarza, Stiftung Wissenschaft und Politik, Berlin Electoral Commission: Official result of the EU referendum, 24.06.2016. Europäischer Rat / EU-UK Summit: Strategic Partnership / Reset, 19.05.2025. House of Commons Library: Brexit timeline; End of transition period; Trade and Cooperation Agreement Stiftung Wissenschaft und Politik (SWP): Veröffentlichungen und Expertise von Dr. Nicolai von Ondarza zu EU, Großbritannien und Post-Brexit-Beziehungen. Deutsche Welle (DW): Das Leben nach der EU: Brexit-Verlierer und Gewinner (Dokumentation) Weiterführende Links: Einigung zum Beitritt Großbritanniens zur EG (am 23.06.1971) Charles de Gaulle, frz. Staatspräsident (Todestag 9.11.1970) Vom Versager zum Retter vor den Nazis: Winston Churchill Margaret Thatcher, brit. Regierungschefin (Todestag, 08.04.2013) Wiener Kongress: Als Europas Landkarte neu gezeichnet wurde Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob? Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in ARD Sounds und überall da, wo es Podcasts gibt. Die Macherinnen und Macher hinter diesem Zeitzeichen: Autor: Wolfgang Meyer Redaktion: Sefa Inci Suvak",
-    "date": "2026-06-23T04:00:24.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-brexit-als-populismus-europaeische-geschichte-schrieb-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-brexit-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/24/ba715aca-7285-4bf9-9169-09cec8efc2c7/ba715aca-7285-4bf9-9169-09cec8efc2c7_MP3-128.mp3",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:34f15036a966d9f91af77ed9ba2e4f4d",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Forty Elephants: Eine Frauenbande mischt Londons Unterwelt auf",
-    "summary": "Am 22.6.1896 wird Alice Diamond geboren: Mit 18 wird sie Anführerin der Forty Elephants, die Frauenbande räumt Luxusläden aus und dominiert lange Londons Unterwelt. In diesem Zeitzeichen erzählt Christopher Heimer: wie Alice Diamond zu ihrem Spitznamen \"Diamond Annie\" kommt, wie die Bandenchefin London in Reviere aufteilt und ihre Diebinnen mit fast militärischer Präzision organisiert, mit welchen verblüffenden Methoden sie Polizei und Kaufhausdetektive täuschen. Als Alice Diamond am 22. Juni 1896 im Lambeth Workhouse Hospital geboren wird, deutet wenig darauf hin, dass sie einmal die berühmteste Verbrecherin Großbritanniens werden soll. Doch die Tochter eines Kleinkriminellen wächst in einer Welt auf, die von Armut, Wohnungsnot und Gewalt geprägt ist. Schon als junge Frau schließt sie sich den Forty Elephants an: einer außergewöhnlichen Bande, die ausschließlich aus Frauen besteht. Mit Eleganz, Disziplin und ausgeklügelten Tricks stehlen die Mitglieder Schmuck, Pelze und Luxuswaren aus den vornehmen Geschäften Londons. Unter Alice Diamonds Führung entwickelt sich die Gruppe zu einem der erfolgreichsten kriminellen Netzwerke ihrer Zeit. Das sind unsere wichtigsten Quellen und Interviewpartner: Paul Schilling, Filmregisseur (\"Forty Elephants\") Brian McDonald: Alice Diamond and the Forty Elephants, Wrea Green 2015 Emily Jane Burgess: Alice Diamond, giant-queen of the terrors: Female gangsterism, violence and criminal mythmaking in the late-nineteenth and early twentieth-century London ‘underworld‘, Abingdon 2025 Erin Bledsoe: The Forty Elephants, Ashland 2022 Weiterführende Links: Zeitzeichen: Der Gangsterboss, der das Verbrechen organisierte Zeitzeichen: Wie der Fall Vera Brühne zum Justiz-Krimi wurde Zeitzeichen: Boudicca - wie die keltische Rebellin London niederbrannte Zeitzeichen: Warhol-Attentäterin, radikale Feministin - Valerie Solanas Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob? Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in ARD Sounds und überall da, wo es Podcasts gibt. Die Macher hinter diesem Zeitzeichen: Autor: Christopher Heimer Redaktion: Matti Hesse",
-    "date": "2026-06-22T04:00:26.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-forty-elephants-eine-frauenbande-mischt-londons-unterwelt-auf-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-alice-diamond-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/17/8dd5c901-7299-4f43-8dc9-9de80e26c169/8dd5c901-7299-4f43-8dc9-9de80e26c169_MP3-128.mp3",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:848abeacc4a012f3f18a3aa45c6bc892",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Freistadt Christiania: Ein fast wahr gewordener Hippietraum?",
-    "summary": "Die Hippie-Kommune Christiania ist weltberühmt: Für Autonomie und Drogenverkauf in der Pusher Street. Im Juni 2011 wird das Experiment legalisiert - doch zu welchem Preis? In diesem Zeitzeichen erzählt Merle Schaack: wie aus einer Hippie-Siedlung mitten in Kopenhagen eine selbstverwaltete \"Freistadt\" entsteht, warum Eigentum, Konsensdemokratie und Gemeinschaft hier radikal neu gedacht werden, wieso Drogenhandel und Gewalt das Experiment immer wieder bedrohen, wie ein Rechtsstreit über Jahre das Ende von Christiania heraufbeschwört, dass eine Stiftung die Rettung für die alternative Lebensform wird. Ein verwunschenes Gelände, auf dem einst Waffen lagerten, wird Anfang der 1970er Jahre zum Experimentierfeld: Menschen ziehen ein, bauen Hütten, schaffen sich eine Welt jenseits klassischer Besitzverhältnisse. Entscheidungen fallen im Konsens, die Gemeinschaft steht über allem. Ein Lebensentwurf zwischen Utopie und Chaos. Doch der Traum gerät unter Druck. Konflikte mit Staat und Polizei, Drogenhandel und organisierte Kriminalität bedrohen die Freistadt. Nach jahrelangem juristischen Ringen kommt es 2011 zum entscheidenden Wendepunkt: Christiania bekommt eine legale Grundlage - und muss sich zugleich an neue Regeln anpassen. Das sind unsere wichtigsten Quellen und Interviewpartner: Knud Foldschack (Anwalt und \"Architekt\" der Stiftung \"Fonden Fristaden Christiania\") Mette Prag (Bewohnerin und Mitglied des Stiftungsvorstands) Nina Pontoppidan (Bewohnerin und Guide) Irma Clausen (ehemalige Bewohnerin) Offizielle Website der Freistadt Christiania Weiterführende Links: Zeitzeichen 26.09.1971: Ausruf der \"Freistadt Christiania\" Deutschlandfunk Kultur: Europas größtes alternatives Wohnprojekt Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob? Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in ARD Sounds und überall da, wo es Podcasts gibt. Die Macherinnen und Macher hinter diesem Zeitzeichen: Autorin: Merle Schaack Redaktion: Matti Hesse",
-    "date": "2026-06-21T04:00:57.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-freistadt-christiania-ein-fast-wahr-gewordener-hippietraum-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-republik-christiania-kopenhagen-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/11/c28ec6db-e364-4646-a216-413394ceffaf/c28ec6db-e364-4646-a216-413394ceffaf_MP3-128.mp3",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:c4710dbde727a44a2619767a91ecda3e",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Der Priester, der den Urknall entdeckte: George Lemaître",
-    "summary": "Als Lemaître (gest. am 20.6.1966) sein Modell des Urknalls vorstellt, sieht der Papst darin einen Gottesbeweis. In der Wissenschaft wird er erst verspottet - und dann gefeiert. In diesem Zeitzeichen erzählt Ralph Erdenberger: wie ein katholischer Priester die Urknall-Theorie entwickelt und damit die Kosmologie revolutioniert, warum Lemaître Wissenschaft und Religion strikt trennt - trotz seiner doppelten Berufung, weshalb seine Idee zunächst übersehen wird, während andere Forscher berühmt werden, wie die Entdeckung der kosmischen Hintergrundstrahlung ihm posthum recht gibt, warum der \"Anfang von allem\" bis heute ein ungelöstes Rätsel bleibt. Ein Universum, das sich ausdehnt, Galaxien, die auseinanderdriften, und ein Anfangspunkt, in dem alles enthalten ist: Georges Lemaître denkt das Weltall radikal neu. Als Priester und Physiker verfolgt er zwei Wege zur Wahrheit, ohne sie zu vermischen. Seine Theorie vom \"Uratom\" legt den Grundstein für das, was später Urknall genannt wird. Doch die Anerkennung kommt spät. Während andere Forscher Ruhm ernten, bleibt Lemaître lange im Schatten. Selbst als die Kirche seine Ideen als Beweis für Gott deuten will, widerspricht er entschieden. Für ihn bleibt der Glaube unabhängig von der Wissenschaft. Am Ende bestätigt ein kosmisches Echo seine Theorie. Doch die größte Frage bleibt offen: Was geschah vor dem Anfang? Das ist unsere wichtigste Interviewpartnerin: Dr . Susanne Hüttemeister (Astrophysikerin und Leiterin Planetarium Bochum) Weiterführende Links: Zeitzeichen 17.07.1894: Geburtstag von Georges Lemaître Zeitzeichen 23.11.1951: Papst Pius XII .: Urknall ist Schöpfung Unser Hörtipp: WDR 5 Alles in Butter, der Genuss-Podcast Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob? Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in ARD Sounds und überall da, wo es Podcasts gibt . Die Macherinnen und Macher hinter diesem Zeitzeichen: Autor: Ralph Erdenberger Redaktion: Carolin Rückl und Sefa Inci Suvak",
-    "date": "2026-06-20T04:00:00.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-priester-der-den-urknall-entdeckte-george-lemaitre-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-george-lemaitre-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/10/6cb06d58-b5ed-43ac-a4c4-6b0a2015129d/6cb06d58-b5ed-43ac-a4c4-6b0a2015129d_MP3-128.mp3",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
+      "Politik",
       "Bildung"
     ],
     "language": "de"
