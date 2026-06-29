@@ -66,6 +66,77 @@ rutscht der Play/Stop-Button unter den Titel, statt abgeschnitten zu werden.
   unter `.cat-btn`, `.play-stop-btn`, `.random-btn`, Breakpoints am Dateiende.
 - **Texte/Logo/Titel:** direkt im Markup von `app/index.html`.
 
+
+## 4a. Feeds konfigurieren (config/feeds.json)
+
+Die Datei `config/feeds.json` definiert alle Podcast-Quellen, die die App
+abspielt. Ein Beispiel-Eintrag:
+
+```json
+{
+  "id": "zeitzeichen",
+  "title": "WDR Zeitzeichen",
+  "type": "rss",
+  "homepage": "https://www1.wdr.de/mediathek/audio/zeitzeichen/zeitzeichen-podcast-100.html",
+  "feed": "https://www1.wdr.de/mediathek/audio/zeitzeichen/zeitzeichen-podcast-100.podcast",
+  "language": "de",
+  "category": ["Geschichte", "Bildung"],
+  "tags": ["geschichte", "bildung", "zeitgeschichte"],
+  "image": "https://...",
+  "enabled": true,
+  "maxEpisodes": 10,
+  "titleReplace": [
+    { "pattern": "^\\s*Serie\\s+Klassik\\s+drastisch\\s+#\\d+:\\s*", "replace": "" }
+  ]
+}
+```
+
+**Felder:**
+- `id`: eindeutiger Bezeichner (ohne Leerzeichen, Bindestriche ok)
+- `title`: Name des Podcasts (wird in der App gezeigt)
+- `type`: `"rss"`, `"atom"` oder `"jsonfeed"`
+- `feed`: die Feed-URL (RSS, Atom oder JSON Feed)
+- `homepage`: optionale Projekt-Homepage
+- `language`: Sprache (default `"de"`)
+- `category`: Array von Kategorien (Großbuchstaben, z. B. `["Musik", "Kultur"]`)
+- `tags`: Array von Tags (Kleinbuchstaben, werden mit Themen in `config/topics.json` abgeglichen)
+- `image`: optionale Cover-URL; wird als Fallback in Episoden gezeigt
+- `enabled`: `true`/`false` – deaktiviert diese Quelle ohne sie zu löschen
+- `maxEpisodes`: wie viele neueste Episoden pro Abruf verarbeiten (default 10)
+- `titleReplace`: optionales Array von Regex-Regeln zum Kürzen von Titeln (s. u.)
+
+### Titel kürzen mit titleReplace
+
+Viele Feeds enthalten serientypische Präfixe wie „Serie Klassik drastisch #79:"
+oder senderinterne Marker wie „| Spektrum". Die `titleReplace`-Regeln schneiden
+diese Teile automatisch ab:
+
+```json
+"titleReplace": [
+  { "pattern": "^\\s*Serie\\s+Klassik\\s+drastisch\\s+#\\d+:\\s*", "replace": "", "flags": "i" }
+]
+```
+
+**Aufbau einer Regel:**
+- `pattern`: Regex-Muster (z. B. `"^\\|\\s*"` entfernt alles vor dem ersten `|`)
+- `replace`: was eingesetzt wird (meist leer `""` zum Löschen)
+- `flags`: optional, Regex-Flags (default `"i"` = case-insensitive)
+
+Beispiele:
+- `{ "pattern": "^\\s*Serie\\s+Klassik\\s+drastisch\\s+#\\d+:\\s*", "replace": "" }`
+  → „Serie Klassik drastisch #79: Georg Friedrich Händel" wird zu „Georg Friedrich Händel"
+- `{ "pattern": "^.*\\|\\s*", "replace": "" }`
+  → „detektor.fm – Spektrum | Künstliches Leben" wird zu „Künstliches Leben"
+
+Die Regeln werden in der Reihenfolge angewendet, bevor der Titel in die API geschrieben wird.
+
+### Episode-Dauer
+
+Die App versucht, die Episoden-Dauer aus den Feed-Metadaten auszulesen
+(`itunes:duration` in RSS/Atom). Diese wird formatiert als z. B. „28 Min"
+oder „1 Std 14 Min" und unter dem Quellentitel angezeigt. Dauer ist nicht
+erforderlich – fehlt sie, wird sie einfach nicht gezeigt.
+
 ## 4. Weitere Feeds hinzufügen
 
 1. Eintrag in `config/feeds.json` ergänzen (RSS/Atom/JSON-Feed), z. B. `tags`

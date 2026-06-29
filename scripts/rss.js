@@ -51,6 +51,7 @@ export function parseRss(xml, feedUrl) {
     date: parseDate(textValue(block, ["pubDate", "published", "updated", "dc:date"])),
     url: resolveMaybeUrl(feedUrl, textValue(block, ["link"])),
     audio: resolveMaybeUrl(feedUrl, attrValue(block, ["enclosure", "media:content"], "url")),
+    duration: textValue(block, ["itunes:duration", "duration"]),
     image: resolveMaybeUrl(feedUrl, attrValue(block, ["media:thumbnail", "media:content"], "url") || attrValue(block, ["itunes:image"], "href") || feedImage),
     tags: [],
     category: [],

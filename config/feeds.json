@@ -58,7 +58,13 @@
     ],
     "image": "https://detektor.fm/wp-content/uploads/2021/04/spektrum-der-wissenschaft-podcast-detektorfm-logo.jpg",
     "enabled": true,
-    "maxEpisodes": 10
+    "maxEpisodes": 10,
+    "titleReplace": [
+      {
+        "pattern": "^.*\\|\\s*",
+        "replace": ""
+      }
+    ]
   },
   {
     "id": "dlf-klassik-drastisch",
@@ -78,6 +84,12 @@
     ],
     "image": "https://www.deutschlandfunkkultur.de/assets/images/deutschlandfunk-kultur-logo.jpg",
     "enabled": true,
-    "maxEpisodes": 10
+    "maxEpisodes": 10,
+    "titleReplace": [
+      {
+        "pattern": "^\\s*Serie\\s+Klassik\\s+drastisch\\s+#\\d+:\\s*",
+        "replace": ""
+      }
+    ]
   }
 ]

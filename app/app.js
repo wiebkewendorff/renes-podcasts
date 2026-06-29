@@ -172,6 +172,8 @@ function renderEpisodes(episodes) {
         card.id = `ep-card-${index}`;
         card.querySelector('[data-field="title"]').textContent = title;
         card.querySelector('[data-field="meta"]').textContent = host;
+        const durEl = card.querySelector('[data-field="duration"]');
+        if (durEl) { if (ep.duration) durEl.textContent = ep.duration; else durEl.remove(); }
         card.querySelector('[data-field="summary"]').textContent = summary;
         const img = card.querySelector('[data-field="image"]');
         if (image) { img.src = image; } else { img.remove(); }

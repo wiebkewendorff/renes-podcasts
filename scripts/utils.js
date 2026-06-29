@@ -27,6 +27,42 @@ export function stripHtml(value) {
   return normalizeWhitespace(decodeHtmlEntities(text));
 }
 
+
+export function formatDuration(value) {
+  const raw = String(value ?? "").trim();
+  if (!raw) return "";
+  let seconds = 0;
+  if (/^\d+$/.test(raw)) {
+    seconds = Number(raw);
+  } else if (raw.includes(":")) {
+    const parts = raw.split(":").map((p) => Number(p) || 0);
+    while (parts.length < 3) parts.unshift(0);
+    seconds = parts[0] * 3600 + parts[1] * 60 + parts[2];
+  } else {
+    return "";
+  }
+  if (!Number.isFinite(seconds) || seconds <= 0) return "";
+  const h = Math.floor(seconds / 3600);
+  const m = Math.round((seconds % 3600) / 60);
+  if (h > 0) return m > 0 ? `${h} Std ${m} Min` : `${h} Std`;
+  return `${Math.max(1, m)} Min`;
+}
+
+export function applyTitleReplacers(title, replacers) {
+  if (!Array.isArray(replacers)) return title;
+  let result = String(title ?? "");
+  for (const rule of replacers) {
+    if (!rule || !rule.pattern) continue;
+    try {
+      const flags = typeof rule.flags === "string" ? rule.flags : "i";
+      result = result.replace(new RegExp(rule.pattern, flags), rule.replace ?? "");
+    } catch {
+      // ungueltiges Muster ignorieren
+    }
+  }
+  return normalizeWhitespace(result);
+}
+
 export function escapeRegExp(value) {
   return String(value ?? "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }

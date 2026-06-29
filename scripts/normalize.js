@@ -1,4 +1,4 @@
-﻿import { normalizeWhitespace, slugify, toIsoDate } from "./utils.js";
+﻿import { applyTitleReplacers, formatDuration, normalizeWhitespace, slugify, toIsoDate } from "./utils.js";
 
 function asArray(value) {
   if (Array.isArray(value)) {
@@ -27,6 +27,7 @@ export function normalizeSource(input) {
     category: asArray(input.category),
     tags: lowerTags(input.tags),
     image: normalizeWhitespace(input.image),
+    titleReplace: Array.isArray(input.titleReplace) ? input.titleReplace : [],
     enabled: input.enabled !== false,
     maxEpisodes: Number.isFinite(Number(input.maxEpisodes)) ? Math.max(1, Math.trunc(Number(input.maxEpisodes))) : 10,
   };
@@ -35,7 +36,7 @@ export function normalizeSource(input) {
 export function normalizeEntry(source, entry, index) {
   const date = toIsoDate(entry.date) || new Date().toISOString();
   const url = normalizeWhitespace(entry.url || entry.link || source.homepage || source.feed);
-  const title = normalizeWhitespace(entry.title) || `${source.title} ${index + 1}`;
+  const title = applyTitleReplacers(normalizeWhitespace(entry.title), source.titleReplace) || `${source.title} ${index + 1}`;
   const sourceTags = lowerTags(source.tags);
   const entryTags = lowerTags(entry.tags);
   const category = [...new Set([...asArray(source.category), ...asArray(entry.category)])];
@@ -53,6 +54,7 @@ export function normalizeEntry(source, entry, index) {
     url,
     image: normalizeWhitespace(entry.image || source.image),
     audio: normalizeWhitespace(entry.audio),
+    duration: formatDuration(entry.duration),
     tags,
     category,
     language: source.language,
