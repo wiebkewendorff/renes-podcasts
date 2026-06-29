@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url";
 import { readFile } from "node:fs/promises";
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
-const docsDir = path.resolve(scriptDir, "..", "docs");
+const rootDir = path.resolve(scriptDir, "..");
 const requestedPort = Number.parseInt(process.env.PORT || "4173", 10);
 const maxPortAttempts = 20;
 
@@ -19,10 +19,13 @@ const mimeTypes = new Map([
 
 function resolveRequestPath(urlPath) {
   const requestedPath = decodeURIComponent(urlPath || "/");
-  const normalized = requestedPath === "/" ? "/index.html" : requestedPath;
-  const targetPath = path.normalize(path.join(docsDir, normalized));
+  let normalized = requestedPath === "/" ? "/index.html" : requestedPath;
+  if (normalized.endsWith("/")) {
+    normalized += "index.html";
+  }
+  const targetPath = path.normalize(path.join(rootDir, normalized));
 
-  if (!targetPath.startsWith(docsDir)) {
+  if (!targetPath.startsWith(rootDir)) {
     return null;
   }
 
@@ -81,4 +84,4 @@ async function listenOnAvailablePort(startPort) {
 }
 
 const { port } = await listenOnAvailablePort(requestedPort);
-console.log(`Serving ${docsDir} at http://localhost:${port}`);
+console.log(`Serving ${rootDir} at http://localhost:${port}`);

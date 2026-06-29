@@ -9,8 +9,8 @@ import { createFallbackImage, readJsonFile, uniqueBy, writeJsonFile } from "./ut
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(scriptDir, "..");
-const apiDir = path.join(repoRoot, "docs", "api");
-const feedsPath = path.join(apiDir, "feeds.json");
+const apiDir = path.join(repoRoot, "api");
+const feedsPath = path.join(repoRoot, "config", "feeds.json");
 const requestTimeoutMs = 20000;
 
 async function readFeedText(source) {
@@ -122,14 +122,14 @@ async function cleanGeneratedDirectories() {
 async function main() {
   const sourceConfig = await readJsonFile(feedsPath, []);
   if (!Array.isArray(sourceConfig)) {
-    throw new Error("docs/api/feeds.json must contain an array of source definitions.");
+    throw new Error("config/feeds.json must contain an array of source definitions.");
   }
 
   const sources = sourceConfig.map(normalizeSource);
   const entries = await collectEntries(sources);
 
   await cleanGeneratedDirectories();
-  await writeJsonFile(feedsPath, sources.map(publicSource));
+  await writeJsonFile(path.join(apiDir, "feeds.json"), sources.map(publicSource));
   await writeJsonFile(path.join(apiDir, "podcasts.json"), entries);
   await writeJsonFile(path.join(apiDir, "latest.json"), entries.slice(0, 10));
   await writeJsonFile(path.join(apiDir, "latest-5.json"), entries.slice(0, 5));

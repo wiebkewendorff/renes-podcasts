@@ -2,14 +2,14 @@
 
 `selected-podcasts` ist ein statischer Podcast- und Feed-Aggregator fuer GitHub Pages.
 
-Die Website in `docs/` ist nur eine Demo. Der eigentliche Zweck des Repositories ist die erzeugte JSON-API unter `docs/api/`, die andere Webseiten direkt per `fetch()` nutzen koennen.
+Das Frontend in `app/` ist nur eine Demo. Der eigentliche Zweck des Repositories ist die erzeugte JSON-API unter `api/`, die andere Webseiten direkt per `fetch()` nutzen koennen.
 
 ## API-Endpunkte
 
 Nach `npm run update` werden diese Dateien erzeugt:
 
 ```text
-docs/api/
+api/
 ├── feeds.json
 ├── podcasts.json
 ├── latest.json
@@ -58,7 +58,7 @@ Alle Feed-Typen werden auf ein gemeinsames Format normalisiert:
 
 ## Quellen konfigurieren
 
-Quellen werden in `docs/api/feeds.json` gepflegt:
+Quellen werden in `config/feeds.json` gepflegt (Eingabe). Die normalisierte oeffentliche Liste landet als `api/feeds.json`:
 
 ```json
 {
@@ -94,14 +94,14 @@ npm run update
 npm run dev
 ```
 
-`npm run dev` startet einen kleinen lokalen HTTP-Server fuer `docs/`.
+`npm run dev` startet einen kleinen lokalen HTTP-Server fuer das Repo-Root und liefert `app/index.html` unter `/`.
 
 ## GitHub Pages
 
 1. Repository zu GitHub pushen.
 2. In **Settings > Pages** die Quelle auf **Deploy from a branch** setzen.
 3. Branch auswaehlen.
-4. Ordner **/docs** auswaehlen.
+4. Ordner **/ (root)** auswaehlen.
 5. Speichern.
 
 Die geplante Pages-URL ist:
@@ -125,7 +125,7 @@ Der Workflow:
 - verwendet Node 22
 - fuehrt `npm install` aus
 - startet `npm run update`
-- committed nur, wenn sich Dateien unter `docs/api/` geaendert haben
+- committed nur, wenn sich Dateien unter `api/` geaendert haben
 
 ## Architektur
 
