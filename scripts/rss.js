@@ -24,6 +24,19 @@ function textValue(block, names) {
   return "";
 }
 
+
+
+function htmlValue(block, names) {
+  for (const name of names) {
+    const match = block.match(textPattern(name));
+    if (match) {
+      const cdata = /<\!\[CDATA\[([\s\S]*?)\]\]>/gi;
+      const raw = match[1].replace(cdata, (_, c) => c).trim();
+      if (raw) return raw;
+    }
+  }
+  return "";
+}
 function attrValue(block, names, attributeName) {
   for (const name of names) {
     const tagMatch = block.match(new RegExp(String.raw`<${escapeRegExp(name)}\b([^>]*)\/?>`, "i"));
@@ -47,7 +60,7 @@ export function parseRss(xml, feedUrl) {
   return [...channel.matchAll(blockPattern("item"))].map(([block]) => ({
     id: textValue(block, ["guid"]) || textValue(block, ["link"]),
     title: textValue(block, ["title"]),
-    summary: textValue(block, ["content:encoded", "description", "summary", "subtitle"]),
+    summary: htmlValue(block, ["content:encoded", "description", "summary", "subtitle"]),
     date: parseDate(textValue(block, ["pubDate", "published", "updated", "dc:date"])),
     url: resolveMaybeUrl(feedUrl, textValue(block, ["link"])),
     audio: resolveMaybeUrl(feedUrl, attrValue(block, ["enclosure", "media:content"], "url")),

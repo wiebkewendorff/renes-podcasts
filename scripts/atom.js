@@ -24,6 +24,19 @@ function textValue(block, names) {
   return "";
 }
 
+
+
+function htmlValue(block, names) {
+  for (const name of names) {
+    const match = block.match(textPattern(name));
+    if (match) {
+      const cdata = /<\!\[CDATA\[([\s\S]*?)\]\]>/gi;
+      const raw = match[1].replace(cdata, (_, c) => c).trim();
+      if (raw) return raw;
+    }
+  }
+  return "";
+}
 function attrValue(tag, attributeName) {
   const match = tag.match(new RegExp(String.raw`${escapeRegExp(attributeName)}\s*=\s*(["'])(.*?)\1`, "i"));
   return match ? stripHtml(match[2]) : "";
@@ -48,7 +61,7 @@ export function parseAtom(xml, feedUrl) {
   return [...feed.matchAll(blockPattern("entry"))].map(([block]) => ({
     id: textValue(block, ["id"]) || atomLink(block, feedUrl),
     title: textValue(block, ["title"]),
-    summary: textValue(block, ["summary", "content"]),
+    summary: htmlValue(block, ["content", "summary"]),
     date: parseDate(textValue(block, ["published", "updated", "issued"])),
     url: atomLink(block, feedUrl),
     audio: enclosure(block, feedUrl),
