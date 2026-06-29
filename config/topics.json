@@ -1,8 +1,8 @@
 ﻿[
   { "id": "politik", "label": "politik", "color": "#a84343", "tags": ["politik"] },
   { "id": "geschichte", "label": "geschichte", "color": "#3b52ab", "tags": ["geschichte", "zeitgeschichte"] },
-  { "id": "kunst", "label": "kunst", "color": "#5ce676", "tags": ["kunst", "kultur"] },
   { "id": "musik", "label": "musik", "color": "#b55ce6", "tags": ["musik"] },
+  { "id": "kunst", "label": "kunst", "color": "#5ce676", "tags": ["kunst", "kultur"] },
   { "id": "bildung", "label": "bildung", "color": "#d98a3b", "tags": ["bildung"] },
   { "id": "wissen", "label": "wissen", "color": "#3bb5b5", "tags": ["wissen", "wissenschaft"] },
   { "id": "natur", "label": "natur", "color": "#4caf50", "tags": ["natur", "umwelt"] },

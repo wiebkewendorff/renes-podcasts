@@ -1,14 +1,16 @@
 ﻿// API: vollstaendiger Datensatz, damit jedes Thema genug Episoden hat
 const PODCASTS_URL = "../api/podcasts.json";
 const TOPICS_URL = "../config/topics.json";
-const RANDOM_COLOR = "#e3be4d"; // Hintergrundfarbe des Zufall-Buttons
+const RANDOM_COLOR = "#e3be4d";
 const EPISODES_PER_TOPIC = 3;
 const VISIBLE_TOPICS = 4;
 const FALLBACK_PALETTE = ["#7a5ce6", "#2c8c8c", "#c0562d", "#5a7d2c", "#a83a72", "#3a72a8"];
+const HEARD_KEY = "renes-podcasts-heard";       // localStorage: gehoerte Episoden
+const HEARD_COOLDOWN_DAYS = 21;                  // so lange werden gehoerte ausgeblendet
 
 let podcastData = [];
-let topics = [];          // bevorzugte Themen aus config/topics.json
-let activeTopics = [];     // tatsaechlich angezeigte 4 Themen (mit Inhalt)
+let topics = [];
+let activeTopics = [];
 let renderedEpisodes = [];
 let autoplay = false;
 const audioPlayer = document.getElementById("global-player");
@@ -16,7 +18,24 @@ const episodeSection = document.getElementById("episode-section");
 const episodeList = document.getElementById("episode-list");
 const categoryGrid = document.getElementById("category-grid");
 
-// --- Multimodales Feedback: kurzer Ton bei Klick (einmaliger AudioContext) ---
+// --- gehoerte Episoden merken (Karenzzeit) ---
+function loadHeard() {
+    try { return JSON.parse(localStorage.getItem(HEARD_KEY) || "{}"); } catch { return {}; }
+}
+function markHeard(id) {
+    if (!id) return;
+    const heard = loadHeard();
+    heard[id] = Date.now();
+    try { localStorage.setItem(HEARD_KEY, JSON.stringify(heard)); } catch { /* ignore */ }
+}
+function recentlyHeard(id) {
+    const heard = loadHeard();
+    const ts = heard[id];
+    if (!ts) return false;
+    return (Date.now() - ts) < HEARD_COOLDOWN_DAYS * 86400000;
+}
+
+// --- Multimodales Feedback ---
 let audioCtx = null;
 function playFeedbackSound(type = "click") {
     if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
@@ -27,17 +46,13 @@ function playFeedbackSound(type = "click") {
     osc.connect(gain); gain.connect(audioCtx.destination);
     if (type === "stop") {
         osc.type = "sine";
-        osc.frequency.setValueAtTime(400, t);
-        osc.frequency.linearRampToValueAtTime(200, t + 0.12);
-        gain.gain.setValueAtTime(0.25, t);
-        gain.gain.exponentialRampToValueAtTime(0.01, t + 0.12);
+        osc.frequency.setValueAtTime(400, t); osc.frequency.linearRampToValueAtTime(200, t + 0.12);
+        gain.gain.setValueAtTime(0.25, t); gain.gain.exponentialRampToValueAtTime(0.01, t + 0.12);
         osc.start(t); osc.stop(t + 0.12);
     } else {
         osc.type = "sine";
-        osc.frequency.setValueAtTime(300, t);
-        osc.frequency.exponentialRampToValueAtTime(520, t + 0.09);
-        gain.gain.setValueAtTime(0.25, t);
-        gain.gain.exponentialRampToValueAtTime(0.01, t + 0.09);
+        osc.frequency.setValueAtTime(300, t); osc.frequency.exponentialRampToValueAtTime(520, t + 0.09);
+        gain.gain.setValueAtTime(0.25, t); gain.gain.exponentialRampToValueAtTime(0.01, t + 0.09);
         osc.start(t); osc.stop(t + 0.09);
     }
 }
@@ -51,6 +66,7 @@ async function fetchPodcasts() {
         if (!pRes.ok) throw new Error(`API ${pRes.status}`);
         podcastData = await pRes.json();
         topics = tRes.ok ? await tRes.json() : [];
+        assignPrimaryTopics();
         initApp();
     } catch (error) {
         console.error("Fehler beim Laden der Daten:", error);
@@ -63,35 +79,31 @@ function tagsOf(item) {
     return [...tags, ...cats].map(t => String(t).toLowerCase());
 }
 
-function topicMatches(item, topic) {
-    const set = tagsOf(item);
-    return topic.tags.some(t => set.includes(String(t).toLowerCase()));
+// Jede Episode wird GENAU einem Thema zugeordnet (erstes passendes Topic in
+// Reihenfolge der topics.json), damit keine Episode doppelt erscheint.
+function assignPrimaryTopics() {
+    podcastData.forEach(it => {
+        const set = tagsOf(it);
+        const hit = topics.find(t => t.tags.some(x => set.includes(String(x).toLowerCase())));
+        it._primary = hit ? hit.id : (set[0] || "");
+    });
 }
 
-function countEpisodes(topic) {
-    return podcastData.filter(it => topicMatches(it, topic)).length;
+function topicEpisodes(topic) {
+    return podcastData.filter(it => it._primary === topic.id);
 }
 
-// Waehlt 4 Themen, die garantiert Episoden haben. Reicht die Wunschliste nicht,
-// werden zufaellige Themen aus den vorhandenen Feed-Tags ergaenzt.
 function buildActiveTopics() {
-    const used = new Set();
-    const result = topics.filter(t => countEpisodes(t) > 0).slice(0, VISIBLE_TOPICS);
-    result.forEach(t => used.add(t.id));
-
+    const result = topics.filter(t => topicEpisodes(t).length > 0).slice(0, VISIBLE_TOPICS);
+    const used = new Set(result.map(t => t.id));
     if (result.length < VISIBLE_TOPICS) {
-        const allTags = [...new Set(podcastData.flatMap(tagsOf))]
-            .filter(tag => !result.some(t => t.tags.map(x => x.toLowerCase()).includes(tag)));
-        for (let i = allTags.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [allTags[i], allTags[j]] = [allTags[j], allTags[i]];
-        }
+        const extra = [...new Set(podcastData.map(it => it._primary).filter(Boolean))].filter(id => !used.has(id));
+        for (let i = extra.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [extra[i], extra[j]] = [extra[j], extra[i]]; }
         let p = 0;
-        for (const tag of allTags) {
+        for (const id of extra) {
             if (result.length >= VISIBLE_TOPICS) break;
-            if (used.has(tag)) continue;
-            result.push({ id: tag, label: tag, color: FALLBACK_PALETTE[p % FALLBACK_PALETTE.length], tags: [tag] });
-            used.add(tag); p++;
+            result.push({ id, label: id, color: FALLBACK_PALETTE[p % FALLBACK_PALETTE.length], tags: [id] });
+            used.add(id); p++;
         }
     }
     return result.slice(0, VISIBLE_TOPICS);
@@ -123,15 +135,29 @@ function initApp() {
     });
 }
 
+function shuffle(arr) {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+    return a;
+}
+
+// Auswahl: zufaellig mischen (auch aeltere Lieblinge erscheinen), gehoerte ausblenden.
+// Bleiben zu wenige uebrig, werden gehoerte wieder zugelassen.
+function pickEpisodes(pool, count) {
+    let fresh = pool.filter(ep => !recentlyHeard(ep.id));
+    if (fresh.length < count) fresh = pool;
+    return shuffle(fresh).slice(0, count);
+}
+
 function showTopic(topic) {
     stopGlobalAudio();
     autoplay = false;
-    const filtered = podcastData.filter(it => topicMatches(it, topic)).slice(0, EPISODES_PER_TOPIC);
-    if (filtered.length === 0) {
+    const selection = pickEpisodes(topicEpisodes(topic), EPISODES_PER_TOPIC);
+    if (selection.length === 0) {
         renderedEpisodes = [];
         episodeList.innerHTML = `<p class="empty-note">Keine aktuellen Episoden zu diesem Thema gefunden.</p>`;
     } else {
-        renderEpisodes(filtered);
+        renderEpisodes(selection);
     }
     openSection(topic.color || "#7cd1e8");
 }
@@ -139,10 +165,10 @@ function showTopic(topic) {
 function showRandom() {
     stopGlobalAudio();
     autoplay = true;
-    const shuffled = [...podcastData].sort(() => Math.random() - 0.5).slice(0, 5);
-    renderEpisodes(shuffled);
+    const selection = pickEpisodes(podcastData, 5);
+    renderEpisodes(selection);
     openSection(RANDOM_COLOR);
-    if (shuffled.length) setTimeout(() => playEpisode(0), 100);
+    if (selection.length) setTimeout(() => playEpisode(0), 100);
 }
 
 function openSection(bgColor) {
@@ -202,6 +228,7 @@ function renderEpisodes(episodes) {
 function playEpisode(index) {
     const ep = renderedEpisodes[index];
     if (!ep) return;
+    markHeard(ep.id); // gemerkt: wird Karenzzeit lang seltener gezeigt
     const url = ep.audio || ep.url;
     const cards = document.querySelectorAll(".episode-card");
     cards.forEach((c, i) => c.classList.toggle("disabled", i !== index));

@@ -91,5 +91,27 @@
         "replace": ""
       }
     ]
+  },
+  {
+    "id": "ndr-being-the-beatles",
+    "title": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "homepage": "https://www.ndr.de/kultur/musik/pop/being-the-beatles-eine-pop-revolution,beingthebeatles-100.html",
+    "feed": "https://www.ndr.de/ndrimages/podcast/podcast4532.xml", 
+    "language": "de",
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "image": "https://www.ndr.de/kultur/musik/pop/beingthebeatles-100~_v-Podcast.jpg",
+    "enabled": true,
+    "maxEpisodes": 6
   }
 ]

@@ -39,3 +39,9 @@ Einige YAML-Parser und KI-Editoren interpretieren `on` nach YAML 1.1 als Boolean
 - Zielgruppe: ältere Nutzer mit Zittern + Information-Overload; große runde Ziele, ein Player, wenig Klicks, Zufall spielt sofort.
 - Dokumentation liegt in `docs/README.md` (kein Deploy-Ordner mehr, nur Projektdoku).
 - Themen kommen aus `config/topics.json` (4–8 Wunsch-Topics mit label/color/tags); App lädt `api/podcasts.json` (voller Satz), zeigt 4 Topics mit Inhalt, überspringt leere und füllt sonst mit zufälligen vorhandenen Feed-Tags auf.
+
+## 7. Auswahl & Wiederholung (app.js)
+
+- Jede Episode gehoert genau EINEM Thema (erstes passendes Topic in topics.json) -> keine Doppelanzeige.
+- Auswahl pro Thema wird zufaellig gemischt, nicht nur "neueste" -> auch aeltere Lieblinge erscheinen.
+- Gehoerte Episoden werden 21 Tage ausgeblendet (localStorage); reicht der Rest nicht, werden sie wieder zugelassen.
