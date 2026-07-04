@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:1fb3f2162ae1d4f1ce3077f1e41933d3",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Warum die Flugzeugentführer von Entebbe ihre Geiseln trennten",
+    "summary": "<p>Palästinenser und Deutsche entführen ein Flugzeug nach Uganda. Die Geiseln werden in zwei Gruppen geteilt. Dann startet Israel am 4.7.1976 eine Befreiungsaktion.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martin Herzog:</strong><br><ul><li>warum die Flugzeugentführung eng mit internationalen Terrornetzwerken und dem Nahostkonflikt verknüpft ist,</li><li>wie genau die Geiseln in Uganda voneinander getrennt werden,</li><li>weshalb die Auswahl der Geiseln nicht nur ideologisch, sondern auch strategisch motiviert ist,</li><li>wie eine spektakuläre Militäraktion Israels das Drama beendet,</li><li>wieso das Ereignis später von der \"Landshut\"-Entführung in der Erinnerung überlagert wird.</li></ul><br>Ende Juni 1976 entführen palästinensische und deutsche Terroristen eine Air-France-Maschine auf dem Weg von Tel Aviv nach Paris. Das Flugzeug wird nach Uganda umgeleitet. Auf dem Flughafen von Entebbe beginnt für die Passagiere eine beklemmende Situation: Die deutschen Entführer teilen sie in zwei Gruppen – Israelis und andere Staatsangehörige. Das erinnert die jüdischen Geiseln an die NS-Zeit.<br><br>Während Verhandlungen laufen, plant Israel im Geheimen eine Befreiung. Am 4. Juli 1976 endet die Krise in einer dramatischen Militäraktion, die weltweit Aufsehen erregt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Robert Wolff (Historiker, Landeszentrale für politische Bildung Hessen)</li><li>Robert Wolff: Im Schatten der \"Landshut\" - Die Geschichte der Flugzeugentführung nach Entebbe. Erscheint 2027</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>DLF: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:21b1d3476bc61680/\" rel=\"noopener\" target=\"_blank\">50 Jahre Entebbe - Wie verbreitet war der Antisemitismus in der radikalen Linken?</a></li><li>Zeitzeichen 13.10.1977: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-entfuehrung-lufthansa-maschine-landshut-100.html\" rel=\"noopener\" target=\"_blank\">Die Entführung der Lufthansa-Maschine \"Landshut\"</a></li></ul><br><strong>Unser</strong> <strong>Hörtipp:</strong><br>Vom Geschichtspodcast \"<a href=\"https://1.ard.de/zeitkapsel-2?cp\" rel=\"noopener\" target=\"_blank\">Zeitkapsel: Achim, wie hast du Menschen aus der DDR geschmuggelt?</a>\" gibt es jetzt alle Folgen in ARD Sounds und überall, wo es Podcasts gibt.<br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martin Herzog<br>Redaktion: Jakob Schiffer und Sefa Inci Suvak",
+    "date": "2026-07-04T04:00:56.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-warum-die-flugzeugentfuehrer-von-entebbe-ihre-geiseln-trennten-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-operation-entebbe-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/23/d5860350-8606-4504-bb96-b73cef39202f/d5860350-8606-4504-bb96-b73cef39202f_MP3-128.mp3",
+    "duration": "16 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-3987111",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -458,29 +481,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-melitta-schenk-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/12/9611c9bd-727f-4b1a-b4bd-934efc3853d6/9611c9bd-727f-4b1a-b4bd-934efc3853d6_MP3-128.mp3",
     "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:3d497cacc6426de464b7e4578072b84a",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Der perfekte Faschist und seine jüdische Frau",
-    "summary": "<p>Als die Jüdin Lilliana Weinman und der Faschisten Attilio Teruzzi am 24. Juni 1926 heiraten, liegt Rom dem Paar zu Füßen. Doch bald beginnt ein erbitterter Kampf.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Anja Reinhard:</strong><br><ul><li>wie unterschiedlich Weinman und Teruzzi aufwachsen,</li><li>was Teruzzi an der Amerikanerin fasziniert,</li><li>warum eine Scheidung nicht möglich ist und woran eine Annulierung der Ehe scheitert,</li><li>wie eine Kiste voller Familienpapiere das faschistische Liebesdrama aufdeckt.</li></ul><br>Die Hochzeit von Lilliana Weinman und Attilio Teruzzi am 24. Juni 1926 in Rom ist ein spektakuläres gesellschaftliches Ereignis. Die gesamte faschistische Funktionselite ist anwesend, Trauzeuge Benito Mussolini inklusive. Die Ehe der gefeierten amerikanischen Opernsängerin und dem hochdekorierten Kriegsveteranen gilt als schillernd - dass Lilliana Jüdin ist, interessiert da noch niemanden.<br><br>Doch mit dem Machtaufstieg des Faschismus verändert sich auch das Frauenbild. Lillianas Eigenständigkeit, ihr Glamour und ihre Freiheit werden zum Problem. Teruzzi fordert die Scheidung - seine Frau und die katholische Kirche aber denken gar nicht daran, dem zuzustimmen. Was folgt ist ein erbitterter, 18 Jahre andauernder Gerichtsstreit.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Victoria de Grazia, Autorin des Buches \"Der perfekte Faschist\"</li><li>Sven Reichardt, Historiker und Faschismusforscher</li><li>Victoria de Grazia: Der perfekte Faschist. Eine Geschichte von Liebe, Macht und Gewalt. Berlin 2024 </li><li>Hans Woller: \"Geschichte Italiens im 20. Jahrhundert\". München 2010</li><li>Antonio Scurati: \"M. Der Sohn des Jahrhunderts\" (Roman). Stuttgart 2020</li><li>Sven Reichardt: \"Faschistische Kampfbünde. Gewalt und Gemeinschaft im italienischen Squadrismus und in der deutschen SA\". Köln 2009</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-mussolini-100.html\" rel=\"noopener\" target=\"_blank\">30. Oktober 1922 - Mussolini wird Italiens Ministerpräsident</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag5214.html\" rel=\"noopener\" target=\"_blank\">19. Januar 1941 - Hitler trifft Mussolini auf dem Obersalzberg</a></li></ul><br><strong>Unser Hörtipp: </strong><strong>\"Zeitenwende 1600 – Musik Macht Epoche\" </strong><strong><br><br>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Anja Reinhard<br>Redaktion: Sefa Inci Suvak",
-    "date": "2026-06-24T04:00:32.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-perfekte-faschist-und-seine-juedische-frau-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/lilliana-weinman-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/10/7fdd50be-8c3c-412e-a1bc-9d465bc0af96/7fdd50be-8c3c-412e-a1bc-9d465bc0af96_MP3-128.mp3",
-    "duration": "16 Min",
     "tags": [
       "geschichte",
       "bildung",

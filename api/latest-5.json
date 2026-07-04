@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:1fb3f2162ae1d4f1ce3077f1e41933d3",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Warum die Flugzeugentführer von Entebbe ihre Geiseln trennten",
+    "summary": "<p>Palästinenser und Deutsche entführen ein Flugzeug nach Uganda. Die Geiseln werden in zwei Gruppen geteilt. Dann startet Israel am 4.7.1976 eine Befreiungsaktion.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martin Herzog:</strong><br><ul><li>warum die Flugzeugentführung eng mit internationalen Terrornetzwerken und dem Nahostkonflikt verknüpft ist,</li><li>wie genau die Geiseln in Uganda voneinander getrennt werden,</li><li>weshalb die Auswahl der Geiseln nicht nur ideologisch, sondern auch strategisch motiviert ist,</li><li>wie eine spektakuläre Militäraktion Israels das Drama beendet,</li><li>wieso das Ereignis später von der \"Landshut\"-Entführung in der Erinnerung überlagert wird.</li></ul><br>Ende Juni 1976 entführen palästinensische und deutsche Terroristen eine Air-France-Maschine auf dem Weg von Tel Aviv nach Paris. Das Flugzeug wird nach Uganda umgeleitet. Auf dem Flughafen von Entebbe beginnt für die Passagiere eine beklemmende Situation: Die deutschen Entführer teilen sie in zwei Gruppen – Israelis und andere Staatsangehörige. Das erinnert die jüdischen Geiseln an die NS-Zeit.<br><br>Während Verhandlungen laufen, plant Israel im Geheimen eine Befreiung. Am 4. Juli 1976 endet die Krise in einer dramatischen Militäraktion, die weltweit Aufsehen erregt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Robert Wolff (Historiker, Landeszentrale für politische Bildung Hessen)</li><li>Robert Wolff: Im Schatten der \"Landshut\" - Die Geschichte der Flugzeugentführung nach Entebbe. Erscheint 2027</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>DLF: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:21b1d3476bc61680/\" rel=\"noopener\" target=\"_blank\">50 Jahre Entebbe - Wie verbreitet war der Antisemitismus in der radikalen Linken?</a></li><li>Zeitzeichen 13.10.1977: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-entfuehrung-lufthansa-maschine-landshut-100.html\" rel=\"noopener\" target=\"_blank\">Die Entführung der Lufthansa-Maschine \"Landshut\"</a></li></ul><br><strong>Unser</strong> <strong>Hörtipp:</strong><br>Vom Geschichtspodcast \"<a href=\"https://1.ard.de/zeitkapsel-2?cp\" rel=\"noopener\" target=\"_blank\">Zeitkapsel: Achim, wie hast du Menschen aus der DDR geschmuggelt?</a>\" gibt es jetzt alle Folgen in ARD Sounds und überall, wo es Podcasts gibt.<br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martin Herzog<br>Redaktion: Jakob Schiffer und Sefa Inci Suvak",
+    "date": "2026-07-04T04:00:56.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-warum-die-flugzeugentfuehrer-von-entebbe-ihre-geiseln-trennten-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-operation-entebbe-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/23/d5860350-8606-4504-bb96-b73cef39202f/d5860350-8606-4504-bb96-b73cef39202f_MP3-128.mp3",
+    "duration": "16 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-3987111",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -82,30 +105,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1783/24/010726antrittdirkluede.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1783/24/010726antrittdirkluede.63.mp3",
     "duration": "1 Std 26 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4000563",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Juli 2026: Großes „Spektrum-Podcast“-Jubiläum!",
-    "summary": "Wissenschaft zum Hören\n<p>Seit mehr als sieben Jahren bringt der „Spektrum-Podcast“ aktuelle Forschung verständlich und unterhaltsam auf die Ohren. Jede Woche tauscht sich <em>detektor.fm</em>-Moderator Marc Zimmer mit Redakteurinnen und Redakteuren von <em>Spektrum der Wissenschaft</em> über neueste Forschungsthemen- und entwicklungen aus. Dabei geht es sowohl um moderne Medizin als auch um die Weiten des Kosmos. Mit mehreren hunderttausend regelmäßigen Hörerinnen und Hörern zählt der „Spektrum-Podcast“ heute zu einem der erfolgreichsten Wissenschaftspodcasts Deutschlands.</p>\nDie Anfänge des „Spektrum-Podcasts“\n<p>Aus einem monatlichen Format wurde schnell ein wöchentliches, mit dem <em>Spektrum der Wissenschaft</em> und <em>detektor.fm</em> heute eine wesentlich größere Zielgruppe erreichen. Wissenschaft auf die Ohren — damit können sehr viele Menschen in Deutschland etwas anfangen, weiß der heutige Chefredakteur des Verlags Daniel Lingenhöhl. Besonders hängengeblieben ist ihm dabei die „Spektrum-Podcast“-Folge „Wie Sport unser Gehirn beflügelt“ mit der Hirnforscherin Anna von Hopffgarten.  </p>\n<p>Mittlerweile sind durch die gute Zusammenarbeit auch weitere Kooperationen entstanden: Im Podcast „Die großen Fragen der Wissenschaft“ gehen Redakteurin Katharina Menne und der ehemalige <em>Spektrum der Wissenschaft</em>-Chefredakteur Carsten Könneker den größten Rätseln der Wissenschaft auf den Grund. In „Geschichten aus der Mathematik“ erzählen Manon Bischoff von <em>Spektrum der Wissenschaft</em> und Mathematiker Demian Nahuel Goos <em>detektor.fm</em>-Moderatorin Rabea Schloz in jeder Folge eine spannende und konfliktreiche Geschichte aus der Mathematik.</p>\nTipps für den Juli\n<p>In dieser Ausgabe von „detektor.fm-destilliert“ spricht <strong>Christian Bollert</strong> mit  <strong>Daniel Lingenhöhl</strong> über den Erfolg des „Spektrum-Podcasts“, Hörtipps des Monats und liefert einen Ausblick auf die 300. „Spektrum-Podcast“-Folge – mit neuem Sound, frischem Cover und besonderen Beiträgen aus der Redaktion sowie der Community.  </p>\n<p>Wer kein Highlight von <em>detektor.fm</em> verpassen will: Über alle Neuigkeiten informiert einmal pro Monat der <em>detektor.fm</em>-Newsletter.</p>",
-    "date": "2026-07-03T03:00:18.000Z",
-    "url": "https://feedpress.me/link/19604/17372084/destilliert-juli-2026-grosses-spektrum-podcast-jubilaeum",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260703destilliertjuli.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260703destilliertjuli.63.mp3",
-    "duration": "19 Min",
     "tags": [
       "wissenschaft",
       "forschung",
