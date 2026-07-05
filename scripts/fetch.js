@@ -21,7 +21,7 @@ async function readFeedText(source) {
     const response = await fetch(source.feed, {
       signal: controller.signal,
       headers: {
-        "user-agent": "selected-podcasts/1.0 (+https://johappel.github.io/selected-podcasts/)",
+        "user-agent": "selected-podcasts/1.0 (+https://wiebkewendorff.github.io/selected-podcasts/)",
         accept: "application/feed+json, application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.1",
       },
     });
