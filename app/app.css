@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    background-color: #7cd1e8;
+    background-color: #512e38;
     color: #ffffff;
     overflow-x: hidden;
 }
@@ -76,11 +76,13 @@ h1 {
 }
 
 .category-grid {
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
-    max-width: 1400px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(220px, 1fr));
+    gap: 34px 28px;
+    width: min(100%, 1200px);
     padding: 0 50px;
+    justify-items: center;
+    align-items: start;
 }
 
 .category-item {
@@ -88,6 +90,7 @@ h1 {
     flex-direction: column;
     align-items: center;
     gap: 20px;
+    width: 100%;
 }
 
 .category-label {
@@ -99,6 +102,7 @@ h1 {
     width: 220px;
     height: 220px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    margin-bottom: -14px;
 }
 
 /* Episoden-Bereich unten */
@@ -241,8 +245,8 @@ h1 {
 .back-btn {
     width: 120px;
     height: 120px;
-    background-color: #7cd1e8;
-    color: #222;
+    background-color: #512e38;
+    color: #ffffff;
     font-size: 1.4rem;
     font-weight: bold;
     margin-bottom: 40px;
@@ -344,7 +348,7 @@ h1 {
     text-decoration-thickness: 3px;
 }
 
-/* --- Responsive Kategorie-Anordnung: 2x2 statt abgeschnitten --- */
+/* --- Responsive Kategorie-Anordnung: 3x2 bzw. 2 Spalten statt abgeschnitten --- */
 @media (max-width: 1200px) {
     .category-selection {
         height: auto;

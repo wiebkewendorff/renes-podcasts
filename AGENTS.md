@@ -35,10 +35,10 @@ Einige YAML-Parser und KI-Editoren interpretieren `on` nach YAML 1.1 als Boolean
 - `app/index.html` enthält ein editierbares `<template id="episode-card-template">` für die Episoden-Karte; Designer ändern HTML, Code bleibt unberührt. Platzhalter `data-field="title|meta|summary|image|link"` und die Buttons müssen erhalten bleiben.
 - `app/app.js` klont das Template (kein innerHTML-Markup mehr), bindet Play/Stop, Auto-Expand (Bild+Beschreibung), Zufall-Sequenz-Autoplay und Sound-Feedback.
 - Themenfarben sind in `index.html` (style) und `app.js` (`colors`) gespiegelt; Zufall-Farbe `#e3be4d`.
-- Responsiv: Themen 2x2 unter 1200/760px; Detailbereich bricht Play/Stop unter den Titel (<900px).
+- Responsiv: Themen 3x2 auf großen Screens, darunter 2 Spalten unter 1200/760px; Detailbereich bricht Play/Stop unter den Titel (<900px).
 - Zielgruppe: ältere Nutzer mit Zittern + Information-Overload; große runde Ziele, ein Player, wenig Klicks, Zufall spielt sofort.
 - Dokumentation liegt in `docs/README.md` (kein Deploy-Ordner mehr, nur Projektdoku).
-- Themen kommen aus `config/topics.json` (4–8 Wunsch-Topics mit label/color/tags); App lädt `api/podcasts.json` (voller Satz), zeigt 4 Topics mit Inhalt, überspringt leere und füllt sonst mit zufälligen vorhandenen Feed-Tags auf.
+- Themen kommen aus `config/topics.json` (4–8 Wunsch-Topics mit label/color/tags); App lädt `api/podcasts.json` (voller Satz), zeigt 6 Topics mit Inhalt, überspringt leere und füllt sonst mit zufälligen vorhandenen Feed-Tags auf.
 
 ## 7. Auswahl & Wiederholung (app.js)
 

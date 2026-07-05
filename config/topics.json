@@ -1,9 +1,9 @@
 ﻿[
-  { "id": "gesellschaft", "label": "Gesellschaft", "color": "#ff8702", "tags": ["gesellschaft"] },
-  { "id": "geschichte", "label": "Geschichte", "color": "#ad4b62", "tags": ["geschichte", "zeitgeschichte"] },
-  { "id": "musikkunst", "label": "Kunst & Musik", "color": "#315dd5", "tags": ["musik","kunst","klassik"] },
+  { "id": "gesellschaft", "label": "Gesellschaft", "color": "#ff6c00", "tags": ["gesellschaft"] },
+  { "id": "wissen", "label": "Wissenschaft", "color": "#02c484", "tags": ["wissen", "wissenschaft"] },
   { "id": "kultur", "label": "Kultur", "color": "#11147a", "tags": ["kultur"] },
-  { "id": "wissen", "label": "Wissenschaft", "color": "#22a470", "tags": ["wissen", "wissenschaft"] },
   { "id": "lyrik", "label": "Literatur & Lyrik", "color": "#ffc412", "tags": ["literatur"] },
+  { "id": "geschichte", "label": "Geschichte", "color": "#c80000", "tags": ["geschichte", "zeitgeschichte"] },
+  { "id": "musikkunst", "label": "Kunst & Musik", "color": "#315dd5", "tags": ["musik","kunst","klassik"] },
   { "id": "sport", "label": "sport", "color": "#e0556a", "tags": ["sport"] }
 ]
