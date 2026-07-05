@@ -1,141 +1,16 @@
 [
   {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-04-geistersuche-im-internet-andreas-spechtls-neues-bandprojekt-dlf-20260704-1530-727b23eb-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geistersuche im Internet - Andreas Spechtls neues Bandprojekt Weird Eerie",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-04T13:30:19.000Z",
-    "url": "https://www.deutschlandfunk.de/geistersuche-im-internet-andreas-spechtls-neues-bandprojekt-weird-eerie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/geistersuche_im_internet_andreas_spechtls_neues_bandprojekt_dlf_20260704_1530_727b23eb.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-04-rapper-fatoni-und-die-kunst-des-durchhaltens-dlf-20260704-1515-f97953a7-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rapper Fatoni und die Kunst des Durchhaltens",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-04T13:15:03.000Z",
-    "url": "https://www.deutschlandfunk.de/rapper-fatoni-und-die-kunst-des-durchhaltens-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/rapper_fatoni_und_die_kunst_des_durchhaltens_dlf_20260704_1515_f97953a7.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-04-confessions-ii-von-madonna-neue-beichten-von-der-pop-ikone-dlf-20260704-1506-9d7bf99f-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Confessions II\" von Madonna: Neue Beichten von der Pop-Ikone",
-    "summary": "Müller, Tobi www.deutschlandfunk.de, Corso",
-    "date": "2026-07-04T13:06:16.000Z",
-    "url": "https://www.deutschlandfunk.de/confessions-ii-von-madonna-neue-beichten-von-der-pop-ikone-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/confessions_ii_von_madonna_neue_beichten_von_der_pop_ikone_dlf_20260704_1506_9d7bf99f.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-03-wild-wild-west-der-us-mythos-der-new-frontier-in-der-dlf-20260703-1515-3f3ed4d2-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wild Wild West - Der US-Mythos der New Frontier in der Popkultur",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-03T13:15:54.000Z",
-    "url": "https://www.deutschlandfunk.de/wild-wild-west-der-us-mythos-der-new-frontier-in-der-popkultur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/wild_wild_west_der_us_mythos_der_new_frontier_in_der_dlf_20260703_1515_3f3ed4d2.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-03-berlin-fashon-week-gestartet-erste-eindruecke-dlf-20260703-1505-023eefe3-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Berlin Fashon Week gestartet - Erste Eindrücke",
-    "summary": "Schildbach, Linda www.deutschlandfunk.de, Corso",
-    "date": "2026-07-03T13:05:30.000Z",
-    "url": "https://www.deutschlandfunk.de/berlin-fashon-week-gestartet-erste-eindruecke-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/berlin_fashon_week_gestartet_erste_eindruecke_dlf_20260703_1505_023eefe3.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3987111",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3981702",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "High ohne Drogen: Kann man das Bewusstsein verändern?",
-    "summary": "<p>Der Mensch versucht schon immer, sein Bewusstsein gezielt zu verändern. Bereits seit Jahrtausenden sind Atemtechniken, Hypnose, Meditation oder bestimmte Rituale gebräuchlich, um veränderte Bewusstseinszustände zu erleben — ganz ohne psychoaktive Substanzen.</p>\n<p>Solche Praktiken existieren in vielen Kulturen, etwa in schamanischen Ritualen, hinduistischen Gesängen oder Trancetänzen. Heute erleben Methoden wie Breathwork, Yoga und Hypnose einen Boom.</p>\n<p>Breathwork, das ist eine bewusste Atemarbeit, häufig verbunden mit intensiver Hyperventilation. Durch schnelles, tiefes Atmen sinkt der Kohlendioxidgehalt im Blut. Dadurch verändern sich Blutfluss und Sauerstoffversorgung im Gehirn.</p>\nBewusstsein ohne Drogen verändern\n<p>Solche Techniken können teils psychedelisch wirkende Erfahrungen auslösen. Teilnehmende berichten von einem veränderten Bewusstsein, von Ego-Auflösung, intensiven Emotionen oder einem Gefühl tiefer Verbundenheit. Hirnscans zeigen Parallelen zu psychedelischen Zuständen: Bestimmte Hirnregionen, die mit Körperwahrnehmung, Emotionen und Gedächtnis zusammenhängen, verändern ihre Aktivität.</p>\n<p>Ähnliche Erfahrungen gibt es im Bereich Hypnose. Als Zustand intensiver Konzentration und veränderter Wahrnehmung zeigt sich in Studien, dass Hypnose tatsächlich Wahrnehmung und Verhalten beeinflussen kann. Hirnforschende vermuten, dass dabei mehrere Netzwerke im Gehirn zusammenspielen, die Aufmerksamkeit, Selbstwahrnehmung und Reizverarbeitung steuern.</p>\n<p>Doch hier bleiben noch viele Fragen offen. Insgesamt steht die Forschung in diesem Bereich noch am Anfang. Viele Studien haben kleine Stichproben und liefern uneinheitliche Ergebnisse. Dabei wären gesicherte Erkenntnisse hochinteressant: Neurowissenschaft und Psychologie versuchen zu verstehen, was genau im Gehirn passiert und ob diese Techniken therapeutisches Potenzial haben — etwa bei Depressionen, Angststörungen oder Traumata. Gleichzeitig warnen die Forschenden davor, die bisherigen Ergebnisse zu überschätzen. Vieles sei faszinierend, aber noch nicht ausreichend verstanden.</p>\n<p><strong>Anna Lorenzen</strong> ist Redakteurin bei <em>Spektrum der Wissenschaft</em>. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt sie, wie Menschen ihr Bewusstsein gezielt und ohne Drogen verändern. Sie geht dabei auch auf Gefahren und Grenzen dieser Techniken ein.</p>",
-    "date": "2026-07-03T04:02:37.000Z",
-    "url": "https://feedpress.me/link/19604/17372081/spektrum-podcast-bewusstsein-high-drogen",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260703spektrumhighohnedrogen.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260703spektrumhighohnedrogen.63.mp3",
-    "duration": "12 Min",
+    "title": "Künstliches Leben: So sollen neue Zellen im Labor entstehen",
+    "summary": "<p>Künstliches Leben zu erschaffen ist eine große Herausforderung. Denn wo das Leben herkommt und wann es überhaupt beginnt, gibt Forschenden bis heute Rätsel auf. Doch neue Ansätze sind vielversprechend.</p>\n<p>Im Zentrum steht dabei der sogenannte Bottom-up-Ansatz: Statt bestehende Zellen genetisch zu verändern (Top-down), werden hier Zellen von Grund auf aus einzelnen Molekülen aufgebaut. Ziel ist es, ein System zu entwickeln, das sich selbst vervielfältigen und evolvieren kann — ein möglicher Übergang von unbelebter zu lebendiger Materie.</p>\n<p>Genutzt werden dafür vor allem DNA und RNA. Während DNA als stabiler Informationsträger dient, ermöglicht RNA durch ihre vielseitigen Faltungsstrukturen komplexe Funktionen. Mithilfe von Computerdesign werden RNA-Sequenzen so entworfen, dass sie sich zu gewünschten Nanostrukturen falten. Fachleute nennen diese Technik „Origami“. Dieses Verfahren funktioniert unter physiologischen Bedingungen und ist gut skalierbar, etwa durch Produktion in Bakterien.</p>\nKünstliches Leben als Chance\n<p>Ein zentraler Vorteil des Bottom-up-Ansatzes liegt darin, dass er Lösungen ermöglicht, die die natürliche Evolution nie hervorgebracht hat. Evolution verläuft zufällig und ist durch bestehende Organismen und Umweltbedingungen eingeschränkt. Im Labor hingegen können gezielt neue Systeme entwickelt und durch gerichtete Evolution optimiert werden.</p>\n<p>Langfristig möchte man künstliche Minimalzellen entwickeln, die grundlegende Eigenschaften des Lebens besitzen. Diese wären deutlich einfacher als heutige Zellen, könnten aber als Ausgangspunkt für neue Formen von Leben dienen. Anwendungen reichen von medizinischen Therapien bis hin zu neuartigen biotechnologischen Systemen.</p>\n<p><strong>Frank Schubert</strong> ist Biologe und Redakteur bei <em>Spektrum der Wissenschaft</em>. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt er, wie die neuen Ansätze für künstliches Leben aussehen, warum sie so revolutionär sind und welche Hürden es für die Forschung derzeit noch gibt.</p>",
+    "date": "2026-06-26T03:24:02.000Z",
+    "url": "https://feedpress.me/link/19604/17368213/spektrum-podcast-kuenstliches-leben",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626spektrum-podcastkuenstlichesleben.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626spektrum-podcastkuenstlichesleben.63.mp3",
+    "duration": "21 Min",
     "tags": [
       "wissenschaft",
       "forschung",
@@ -143,1505 +18,224 @@
       "gesellschaft"
     ],
     "category": [
-      "Wissenschaft",
+      "Politik",
       "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4000739",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3995031",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Rüdiger, der Multi-Roboter",
-    "summary": "<b>Betonentfernung ist ein Knochenjob</b>\n<p>Häuser, Tunnel, Mauern, Brücken — vieles besteht aus Beton. Der Baustoff gilt als stabil, doch er hält nicht ewig. Umwelt und Zeit setzen ihm zu, weshalb er regelmäßig saniert werden muss. Dafür müssen Arbeiterinnen und Arbeiter beschädigte Schichten abtragen und dann mit neuem Material auffüllen. Dieses Abtragen ist Schwerstarbeit, die langfristig die Gesundheit gefährden kann. <strong>Lena-Marie Pätzmann</strong> vom Münchener Startup Sitegeist Robotics beschreibt die mühsame Tätigkeit so:</p>\nRüdiger soll den Job machen\n<p>Sitegeist Robotics entwickelt einen Roboter, der mehrere Aufgaben auf der Baustelle übernehmen kann. Die Prototypen, genannt „Rüdiger“, sollen modular funktionieren und lassen sich auch für andere Arbeiten im Bau einsetzen. Denn nicht nur die körperliche Belastung spricht dafür, Roboter einzusetzen. Die Baubranche leidet unter Fachkräftemangel, während viele Bauwerke in Deutschland — oft aus Beton — dringend saniert werden müssen. Roboter könnten den Sanierungsfortschritt beschleunigen.</p>\n<p>Über die Chancen der Robotik in der Baubranche und die ganz konkreten Hürden und Perspektiven in der Entwicklung spricht <em>detektor.fm</em>-Moderator Christian Bollert in dieser neuen Folge des „brand eins Podcasts“ mit <strong>Lena-Marie Pätzmann</strong>.</p>",
-    "date": "2026-07-03T03:00:53.000Z",
-    "url": "https://feedpress.me/link/19604/17372082/brand-eins-podcast-lena-marie-paetzmann-sitegeist",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260702brandeinslena-mariepaetzmannsitegeist.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260702brandeinslena-mariepaetzmannsitegeist.63.mp3",
-    "duration": "30 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:987231a8-6f23-4738-8809-57030320ca44",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interview: Wie baut man (einarmige) Federgabeln, Dirk Lüde?",
-    "summary": "<p> </p>\n<p> </p>",
-    "date": "2026-07-03T03:00:40.000Z",
-    "url": "https://feedpress.me/link/19604/17372083/antritt-dirk-luede-ueber-lefty-entwicklung-bei-cannondale",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1783/24/010726antrittdirkluede.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1783/24/010726antrittdirkluede.63.mp3",
-    "duration": "1 Std 26 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4000563",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Juli 2026: Großes „Spektrum-Podcast“-Jubiläum!",
-    "summary": "Wissenschaft zum Hören\n<p>Seit mehr als sieben Jahren bringt der „Spektrum-Podcast“ aktuelle Forschung verständlich und unterhaltsam auf die Ohren. Jede Woche tauscht sich <em>detektor.fm</em>-Moderator Marc Zimmer mit Redakteurinnen und Redakteuren von <em>Spektrum der Wissenschaft</em> über neueste Forschungsthemen- und entwicklungen aus. Dabei geht es sowohl um moderne Medizin als auch um die Weiten des Kosmos. Mit mehreren hunderttausend regelmäßigen Hörerinnen und Hörern zählt der „Spektrum-Podcast“ heute zu einem der erfolgreichsten Wissenschaftspodcasts Deutschlands.</p>\nDie Anfänge des „Spektrum-Podcasts“\n<p>Aus einem monatlichen Format wurde schnell ein wöchentliches, mit dem <em>Spektrum der Wissenschaft</em> und <em>detektor.fm</em> heute eine wesentlich größere Zielgruppe erreichen. Wissenschaft auf die Ohren — damit können sehr viele Menschen in Deutschland etwas anfangen, weiß der heutige Chefredakteur des Verlags Daniel Lingenhöhl. Besonders hängengeblieben ist ihm dabei die „Spektrum-Podcast“-Folge „Wie Sport unser Gehirn beflügelt“ mit der Hirnforscherin Anna von Hopffgarten.  </p>\n<p>Mittlerweile sind durch die gute Zusammenarbeit auch weitere Kooperationen entstanden: Im Podcast „Die großen Fragen der Wissenschaft“ gehen Redakteurin Katharina Menne und der ehemalige <em>Spektrum der Wissenschaft</em>-Chefredakteur Carsten Könneker den größten Rätseln der Wissenschaft auf den Grund. In „Geschichten aus der Mathematik“ erzählen Manon Bischoff von <em>Spektrum der Wissenschaft</em> und Mathematiker Demian Nahuel Goos <em>detektor.fm</em>-Moderatorin Rabea Schloz in jeder Folge eine spannende und konfliktreiche Geschichte aus der Mathematik.</p>\nTipps für den Juli\n<p>In dieser Ausgabe von „detektor.fm-destilliert“ spricht <strong>Christian Bollert</strong> mit  <strong>Daniel Lingenhöhl</strong> über den Erfolg des „Spektrum-Podcasts“, Hörtipps des Monats und liefert einen Ausblick auf die 300. „Spektrum-Podcast“-Folge – mit neuem Sound, frischem Cover und besonderen Beiträgen aus der Redaktion sowie der Community.  </p>\n<p>Wer kein Highlight von <em>detektor.fm</em> verpassen will: Über alle Neuigkeiten informiert einmal pro Monat der <em>detektor.fm</em>-Newsletter.</p>",
-    "date": "2026-07-03T03:00:18.000Z",
-    "url": "https://feedpress.me/link/19604/17372084/destilliert-juli-2026-grosses-spektrum-podcast-jubilaeum",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260703destilliertjuli.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260703destilliertjuli.63.mp3",
-    "duration": "19 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-02-der-film-23000-leben-eine-seenotretter-utopie-dlf-20260702-1510-0a22b0b4-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Film \"23.000 Leben\" - Eine Seenotretter-Utopie",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-02T13:10:25.000Z",
-    "url": "https://www.deutschlandfunk.de/der-film-23-000-leben-eine-seenotretter-utopie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/02/der_film_23000_leben_eine_seenotretter_utopie_dlf_20260702_1510_0a22b0b4.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-02-was-ist-antifaschistische-architektur-dlf-20260702-1505-ac0ff002-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Was ist antifaschistische Architektur?",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-02T13:05:35.000Z",
-    "url": "https://www.deutschlandfunk.de/was-ist-antifaschistische-architektur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/02/was_ist_antifaschistische_architektur_dlf_20260702_1505_ac0ff002.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-02-playstation-schafft-disk-ab-was-das-fuers-gaming-bedeutet-dlf-20260702-1505-4f0dd1ab-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Playstation schafft Disk ab - Was das fürs Gaming bedeutet",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-02T13:05:05.000Z",
-    "url": "https://www.deutschlandfunk.de/playstation-schafft-disk-ab-was-das-fuers-gaming-bedeutet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/02/playstation_schafft_disk_ab_was_das_fuers_gaming_bedeutet_dlf_20260702_1505_4f0dd1ab.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3999033",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Migration in Sachsen-Anhalt: Die Situation vor der Landtsagswahl",
-    "summary": "Sachsen-Anhalt streitet über Migration\n<p>Migration ist vor der Landtagswahl in Sachsen-Anhalt Topthema für viele Menschen. Etwa 192.000 Menschen ohne deutschen Pass leben in Sachsen-Anhalt. Die AfD sagt: zu viele. Sie fordert in ihrem Wahlprogramm unter anderem, das Grundrecht auf Asyl abzuschaffen, auf die Anwerbung „kulturfremder Fachkräfte“ zu verzichten und Remigration statt Integration. Andere Parteien sind uneins. Viele bewegen sich in ihren Maßnahmen zwischen der Anwerbung junger Fachkräfte, Maßnahmen zur Integration und Maßnahmen zur Begrenzung von Zuwanderung.</p>\nMigranten blicken mit Angst auf die Wahl\n<p>Viele Migrantinnen und Migranten sind besorgt über die aktuelle Situation und blicken ängstlich auf die anstehende Wahl. Sie berichten über eine stetig steigende Anzahl an Übergriffen und rassistischen Vorfällen. Undra Dreßler (SPD), Geschäftsführerin des Landesnetzwerks Migrantenorganisationen in Sachsen-Anhalt (LAMSA), berichtet davon, dass eine deutliche Mehrheit der befragten Mitglieder darüber nachdenkt, das Land zu verlassen.</p>\nHaustürgespräche für ein besseres Miteinander\n<p>Um dem Entgegenzutreten, hat LAMSA elf Forderungen an die Politik übergeben und versucht unter anderem mit Haustürgesprächen, in den Dialog zu treten, Vorurteile abzubauen und Menschen dazu zu bewegen, sich für die Demokratie einzusetzen und eine Partei aus dem demokratischen Spektrum zu wählen.</p>\nDie Lage der Migration bei DAZWISCHEN\n<p>In dieser Podcastfolge schauen Marie und Katja auf die Lage der Migration in Sachsen-Anhalt. Sie diskutieren über Probleme und Vorurteile, sprechen mit Betroffenen, begleiten Haustürgespräche und ordnen ein. Sie reflektieren dabei ihre Rolle als Journalistinnen und stellen sich einmal mehr die Frage: Wie kann ein gutes Zusammenleben in unserer Gesellschaft gelingen? Das alles in der neuen Folge von DAZWISCHEN.</p>\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</p>",
-    "date": "2026-07-02T13:00:11.000Z",
-    "url": "https://feedpress.me/link/19604/17371715/dazwischen-streit-um-migration-sachsen-anhalt",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260623dazwischenfolge15-migration.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260623dazwischenfolge15-migration.63.mp3",
-    "duration": "40 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-02-us-praesidenten-33-franklin-d-roosevelt-der-erneuerer-dlf-20260702-1300-78fdbd42-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Präsidenten (3/3) - Franklin D. Roosevelt: Der Erneuerer",
-    "summary": "Er bekämpfte die Weltwirtschaftskrise, die Nazis und die Kinderlähmung: Franklin D. Roosevelt war der einzige US-Präsident, der sich vier Mal wählen ließ. Die Weltordnung, die er erfunden hat, sollte er nicht mehr erleben. Er starb im Amt. Dritter Teil unserer Mini-Staffel über bedeutende US-Präsidenten.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:57) Franklin D. Roosevelt: Präsident im Rollstuhl<br>(07:00) Ungleiche Männer in gleicher Zeit: Roosevelt und Hitler<br>(13:30) Der einzige US-Präsident mit mehr als zwei Amtszeiten<br>(15:10) Roosevelts Rolle im Zweiten Weltkrieg<br>(22:05) Ideen für eine Weltordnung nach dem Weltkrieg<br>(25:40) Was von Roosevelt bleibt <br><br><strong>Unser Experte: </strong><br>Ronald D. Gerste beschäftigt sich als Historiker seit vielen Jahren mit der Geschichte der USA und vor allem mit US-Präsidenten. Er lebt und arbeitet in Washington D.C.. Autor unter anderem von: „Trinker, Cowboys, Sonderlinge. Die 12 seltsamsten Präsidenten der USA“ (Klett-Cotta, 2019).<br><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Produktion und Regie: Robert Hauspurg<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-trump-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über US-Präsidenten</li><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-geschichte-washington-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über George Washington </li><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-geschichte-lincoln-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Abraham Lincoln</li><li><a href=\"https://www.deutschlandfunk.de/kennedy-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über John F. Kennedy</li><li><a href=\"https://www.deutschlandfunk.de/nixon-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Richard Nixon</li><li><a href=\"https://www.deutschlandfunk.de/obama-praesident-usa-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Barack Obama</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://avalon.law.yale.edu/\" rel=\"noopener\" target=\"_blank\">The Avalon Project </a>mit historischen Dokumenten zur US-Geschichte</li><li><a href=\"https://www.fdrlibrary.org/fdr-biography\" rel=\"noopener\" target=\"_blank\">FDR Presidential Library</a> - Präsidentenbibliothek mit Materialien über Franklin Delano Roosevelt</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/zeitkapsel-2\" rel=\"noopener\" target=\"_blank\">Zeitkapsel:</a> \"Achim, wie hast Du Menschen aus der DDR geschmuggelt?\" <br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-07-02T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/us-praesidenten-geschichte-roosevelt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/4c/1f/19/89/4c1f1989-ee1e-4b96-a028-3dfeee0b4c96/franklin-d-roosevelt-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/02/us_praesidenten_33_franklin_d_roosevelt_der_erneuerer_dlf_20260702_1300_78fdbd42.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "31 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-alles-gesagt:337eca7c-9509-4e31-b7ae-c0b04c80a8b7",
-    "source": "zeit-alles-gesagt",
-    "sourceTitle": "Alles gesagt? – DIE ZEIT",
-    "type": "rss",
-    "title": "Lavinia Heisenberg, müssen wir Einstein neu denken?",
-    "summary": "<p>Sie gehört zu den profiliertesten Gravitationsforscherinnen ihrer Generation und befasst sich mit den größten Fragen der Physik: Wie funktioniert das Universum – und reicht Einsteins Relativitätstheorie wirklich aus, um es zu beschreiben? Jetzt ist die Physikerin Lavinia Heisenberg zu Gast im unendlichen Podcast. Sie spricht über ihre Forschung zur Schwerkraft, neue Perspektiven auf Einstein und darüber, ob Gravitonen womöglich eine Masse haben.<br><br>\nIm Gespräch erzählt Heisenberg, wie früh ihre Faszination für den Kosmos begann. Als Kind sei der Mond für sie eine Konstante gewesen, er habe sie durch verschiedene Lebensphasen und die vielen Umzüge begleitet, die sie damals erlebte. Früh stand für sie fest, dass sie Astronautin werden wollte. Beinahe wäre der Traum in Erfüllung gegangen: Sie bewarb sich für das ESA-Astronautenprogramm und kam unter die letzten 30.<br><br>\nAußerdem geht es um Heisenbergs Wissenschaft – um Gravitation, um die Grenzen bestehender Theorien und um ihre Lust, diese neu zu denken. Lavinia Heisenberg studierte Physik in Heidelberg, nachdem sie zuvor auch Medizin und Psychologie in Betracht gezogen hatte. Sie hat in vielen verschiedenen Ländern geforscht, spricht sechs Sprachen fließend und sagt selbst, dass man in jeder Sprache die Welt mit anderen Augen sieht.<br><br>\nHeisenberg spricht auch über ihren Weg durch eine Wissenschaft, in der Frauen bis heute unterrepräsentiert sind. Weil an ihrer Schule kein Physik-Leistungskurs zustande kam, musste sie sich zu Beginn des Studiums vieles selbst erarbeiten. Sie erzählt von Professoren, die ihr vom Fach abrieten. Aufhalten ließ sie sich davon nicht: Sie beendete ihr Studium als eine der Besten ihres Jahrgangs. Für schlechte Tage greift sie noch immer zu ihrer »Mondtherapie«, wie sie die Methode selbst lachend im Podcast nennt. Nach fünf Stunden und 43 Minuten beendet sie das Gespräch, denn das darf bei »Alles gesagt?« nur die Gästin.<br><br>\nProduktion: Pool Artists<br>\nRedaktion: Sophie Hübner, Hannah Schraven, Vincent Mank<br>\nFreie Mitarbeit: Svenja Heinrichs<br>\nGästemanagement: Paula Georgi, Anna Vahldick<br>\nFragen, Kritik, Anregungen? Schreiben Sie eine Mail an: allesgesagt@zeit.de</a>.</p>\n<p><p>Seit dem 15.01.2025 sind Teile des Archivs von <i>Alles gesagt?</i> nur noch exklusiv mit einem Digital- oder Podcastabo der ZEIT zu hören – auf <a href=\"https://www.zeit.de/alles-gesagt\" rel=\"noopener\" target=\"_blank\"><strong>zeit.de</strong></a><strong>, </strong>auf Apple Podcasts und auf Spotify. Ein kostenloses Probeabo können Sie <a href=\"https://www.zeit.de/mehr-hoeren\" rel=\"noopener\" target=\"_blank\">hier</a> abschließen. Wie Sie Ihr Abo mit Spotify oder Apple Podcasts verbinden, lesen Sie <a href=\"https://premium.zeit.de/faq/audio#Audio_Spotify\" rel=\"noopener\" target=\"_blank\">hie<strong>r</strong></a><strong>.</strong></p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcastabo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcastarchiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenl<strong>os testen</strong></a><strong>.</strong><br>Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Ange<strong>bot</strong></a><strong>. </strong></p>",
-    "date": "2026-07-02T03:55:00.000Z",
-    "url": "http://www.zeit.de/serie/alles-gesagt",
-    "image": "https://image.simplecastcdn.com/images/d51f2924-ec7a-47a6-bcfe-0645013e5925/2ba64ac6-36cb-4c7b-b41c-565848179b0b/property-201-wei-c3-9fes-20z-20-5.jpg",
-    "audio": "https://zeitonline.simplecastaudio.com/01b8f64d-b315-4918-bacd-dbcfa0b0069f/episodes/8dec33dc-32f2-4098-8bb0-1b7805e6e756/audio/128/default.mp3?aid=rss_feed&awCollectionId=01b8f64d-b315-4918-bacd-dbcfa0b0069f&awEpisodeId=8dec33dc-32f2-4098-8bb0-1b7805e6e756&feed=Y_bRXaw2",
-    "duration": "5 Std 43 Min",
-    "tags": [
-      "interview",
-      "gesellschaft",
-      "kultur",
-      "zeit",
-      "langform",
-      "bildung"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3990448",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Fettzellen: Mehr als faule Kalorienspeicher",
-    "summary": "Das Forschungsquartett – heute in Kooperation mit dem HI-MAG Leipzig, einem Institut von Helmholtz Munich und der Universitätsmedizin Leipzig\n<p>Lange Zeit galt Körperfett nur als lästiges Überbleibsel zu vieler Kalorien. Doch die moderne Wissenschaft räumt mit diesem Image gründlich auf. Fettzellen sind keineswegs nur passive Speicher, sondern hochspezialisierte Akteure in einem komplexen Kommunikationsnetzwerk, das unseren gesamten Körper beeinflusst.</p>\nFettzellen als Immunwächter\n<p>Bereits seit Mitte der 1990er-Jahre ist bekannt, dass Fettgewebe Hormone wie Leptin ausschüttet, die unseren Appetit regulieren. Doch die wahre Vielfalt offenbart sich erst jetzt durch modernste Analysen.</p>\n<p>Besonders spezialisierte Zellen schütten Proteine wie SAA1 aus, um bakterielle Bestandteile abzuwehren, die aus dem Darm in das Gewebe gelangen.</p>\nLandkarte des Fettdepots\n<p>Mithilfe der Einzelkern- und räumlichen Sequenzierung konnte das Team am HI-MAG zeigen, dass Fettzelle nicht gleich Fettzelle ist. Da Fettzellen für herkömmliche Analysen oft zu groß sind, untersuchen die Forscher und Forscherinnen gezielt deren Zellkerne. Das Ergebnis ist eine präzise „Landkarte“: Je nach Standort — ob unter der Haut oder direkt am Dickdarm — übernehmen die Zellen völlig unterschiedliche Aufgaben. Im sogenannten epiploischen Fett nahe dem Darm reagieren sie aktiv auf das Mikrobiom und können Entzündungsreaktionen direkt beeinflussen.</p>\nHoffnung auf Diabetestherapie\n<p>Dieses Wissen ist entscheidend für die Medizin der Zukunft. Wenn die Wissenschaft versteht, wie spezialisierte Zellen auf moderne Abnehmmedikamente reagieren, lassen sich Stoffwechselerkrankungen wie Typ-2-Diabetes gezielter behandeln. Die Forschungsgruppe untersucht derzeit sogar Proben von Kindern, um den exakten Zeitpunkt zu identifizieren, zu dem Fettgewebe beginnt, sich dauerhaft krankhaft zu verändern. Das Ziel ist eine anhaltende Verbesserung der Insulinantwort.</p>",
-    "date": "2026-07-02T03:30:56.000Z",
-    "url": "https://feedpress.me/link/19604/17371479/forschungsquartett-fettzellen",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260616forschungsquartettfettzelle.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260616forschungsquartettfettzelle.63.mp3",
-    "duration": "16 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3999096",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Wie ist die Sprache entstanden, Julia Fischer?",
-    "summary": "<strong>Was ist Sprache? </strong>\n<p>Affen warnen vor Feinden, Vögel singen, Hunde bellen — aber ist das schon Sprache? Für Primatenforscherin <strong>Julia Fischer</strong> beginnt Sprache bei der Semantik: der Fähigkeit, etwas frei zu bezeichnen. Beispielsweise heißt ein Gegenstand Tisch, Table oder vielleicht auch ganz anders, solange sich eine Sprachgemeinschaft darauf einigt. Das unterscheide menschliche Sprache von tierischer Kommunikation.</p>\n<strong>Sprache und Kommunikation</strong>\n<p>Tiere können sich auf vielfältige Weise verständigen. Doch für Julia Fischer ist das noch keine Sprache. Zwar können Tierlaute Informationen vermitteln, aber anders als bei menschlicher Sprache sind sie meist nicht frei vereinbart und lassen sich nach grammatischen Regeln nicht zu immer neuen Bedeutungen zusammensetzen.</p>\n<p>Wie diese Grenze zwischen Kommunikation und Sprache verläuft, untersucht die Biologin an Guineapavianen im Senegal. Sie analysiert, wie viel Verständigung unter den Tieren möglich ist, was Tiere wissen, welche Informationen sie aufnehmen oder auch weitergeben, was davon angeboren ist und wie sich kognitive Fähigkeiten unter dem Druck der Umwelt entwickelt haben.</p>\n<p>Aber wie wurde aus tierischer Kommunikation menschliche Sprache? Welche Rolle spielen Gene, Gesten und soziales Zusammenleben? Und lässt sich evolutionär rekonstruieren, wann der erste Satz gesprochen wurde? Darüber sprechen <strong>Katharina Menne</strong> und <strong>Carsten Könneker</strong> von <em>Spektrum der Wissenschaft</em> in dieser Folge von „Die großen Fragen der Wissenschaft“ mit <strong>Julia Fischer</strong>. Sie ist Professorin an der Universität Göttingen und leitet die Abteilung Kognitive Ethologie am Deutschen Primatenzentrum.</p>\n\n<p><em>Redaktion und Moderation: Katharina Menne und Carsten Könneker</em></p>\n<p><em>Redaktion detektor.fm: Stephan Ziegert</em></p>\n<p><em>Audioproduktion: Stanley Baldauf </em></p>",
-    "date": "2026-07-02T03:01:49.000Z",
-    "url": "https://feedpress.me/link/19604/17371480/die-grossen-fragen-der-wissenschaft-julia-fischer-sprache",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1782/12/02072026dgfdwwie-ist-sprache-entstandenjulia-fischer.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1782/12/02072026dgfdwwie-ist-sprache-entstandenjulia-fischer.63.mp3",
-    "duration": "1 Std 37 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-01-berlin-fashion-week-mehr-kreislauf-in-der-modewirtschaft-dlf-20260701-1516-072e987c-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Berlin Fashion Week - Mehr Kreislauf in der Modewirtschaft?",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-01T13:16:16.000Z",
-    "url": "https://www.deutschlandfunk.de/berlin-fashion-week-mehr-kreislauf-in-der-modewirtschaft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/01/berlin_fashion_week_mehr_kreislauf_in_der_modewirtschaft_dlf_20260701_1516_072e987c.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-01-so-schmecken-250-jahre-usa-washingtons-bier-rezept-in-nyc-dlf-20260701-1515-4126d8b7-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "So schmecken 250 Jahre USA - Washingtons Bier-Rezept in NYC nachgebraut",
-    "summary": "Ganslmeier, Martin www.deutschlandfunk.de, Corso",
-    "date": "2026-07-01T13:15:52.000Z",
-    "url": "https://www.deutschlandfunk.de/so-schmecken-250-jahre-usa-washingtons-bier-rezept-in-nyc-nachgebraut-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/01/so_schmecken_250_jahre_usa_washingtons_bier_rezept_in_nyc_dlf_20260701_1515_4126d8b7.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3995347",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Marjorie Rice und die verborgenen Muster der Geometrie",
-    "summary": "<p>Bald ist Weihnachten, für Marjorie Rice immer eine besonders stressige Zeit. Ein Familienfest vorzubereiten, ist immer viel Aufwand: für die fünf Kinder Geschenke kaufen, alles verpacken, Essen planen, einkaufen, zubereiten, das Haus schmücken. Und dann versucht Marjorie Rice nebenbei auch noch, neue mathematische Erkenntnisse zu gewinnen.</p>\nMarjorie Rice und ihre Küchenmathematik\n<p>Marjorie Rice ist keine studierte Mathematikerin; sie heiratet relativ schnell nach ihrem Schulabschluss, bekommt Kinder und wird Hausfrau. Aber ihre Faszination für Mathematik, die verliert sie auch Jahre später nicht. Als einer ihrer Söhne älter ist und die „Scientific American“ liest, liest Rice gerne mit. Vor allem die Mathe-Kolumne von Martin Gardner hat es ihr angetan.</p>\n<p>Jetzt also, kurz vor Weihnachten in den 1970er-Jahren in San Diego, beugt sich Marjorie Rice über ihre Küchentheke. Vor ihr ein Magazin und Papier, in der Hand ein Stift. Es hat doch tatsächlich jemand geschafft, ein neues Fünfeck zu entdecken, mit dem man eine unendliche Fläche lückenlos füllen kann. Bislang ist man davon ausgegangen, dass schon alle möglichen Formen gefunden wurden — Fehlanzeige. Und wenn die Mathecommunity einmal falsch gelegen hat, dann bestimmt auch ein zweites Mal, oder? Marjorie Rice macht es sich zur Aufgabe, auch ein neues Pentagon für die lückenlose Parkettierung zu finden.</p>\n<p>Tatsächlich findet sie sogar mehr als eine Form, und zwar ohne Mathestudium — also ohne große Vorkenntnisse oder gute Verbindungen in die akademische Welt. Die lassen jedoch nicht lange auf sich warten, als sich die Mathematikprofessorin Doris Schattschneider bei Marjorie Rice meldet.</p>\n<p>Was dann geschieht und was wir von Marjorie Rice über den Zugang zu Mathematik und die Geometrie lernen können, das bespricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit <strong>Manon Bischoff</strong> und <strong>Demian Nahuel Goos</strong> von <em>Spektrum der Wissenschaft</em>.</p>",
-    "date": "2026-07-01T04:38:42.000Z",
-    "url": "https://feedpress.me/link/19604/17370740/geschichten-aus-der-mathematik-marjorie-rice",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260701mathepodcastmarjorierice.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260701mathepodcastmarjorierice.63.mp3",
-    "duration": "42 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3998323",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Manifesta 16 Ruhr — Kunst in Kirchen",
-    "summary": "<p>Ohne das Ruhrgebiet und seine Arbeiterinnen und Arbeiter wäre das westdeutsche Wirtschaftswunder nicht möglich gewesen. Es wurden ab den 1950er-Jahren auch Menschen aus dem Ausland angeworben, unter anderem aus der Türkei und Italien. Schon im 19. Jahrhundert zogen außerdem tausende Menschen aus Polen ins Ruhrgebiet.</p>\nKirchen um die Ecke\n<p>Mitten hinein in die Arbeiterviertel wurden nach dem Zweiten Weltkrieg außerdem zahlreiche Kirchen gebaut. So nah an ihre Bewohnerinnen und Bewohner, dass sie mit Pantoffeln den Gottesdienst besuchen konnten — daher auch der Name „Pantoffelkirchen“. Heute ist ihr Schicksal ungewiss. In den kommenden Jahren, so die Recherchen der Manifesta, werden rund 20.000 Kirchen in Deutschland entweiht, umgewidmet oder abgerissen. Was können diese einstigen Orte der religiösen Einkehr und Begegnung darüber hinaus alles sein? Und welche Rolle spielt dabei die Kunst? Mit diesen Fragen setzt sich die Manifesta 16 im Ruhrgebiet auseinander. Denn — das haben die Recherchen der Manifesta auch ergeben — hier fehlt es oft an nichtkommerziellen Begegnungsorten.</p>\nKochen als Performance\n<p>Und so wird das Zusammenkommen in Kirchen zum Moment für die Kunst. „In einer Kirche in Bochum habe ich in einem Hinterzimmer acht türkische Frauen getroffen, die ein super Essen gekocht haben“, erzählt Elke Buhr im Podcast, „das war auch eine Kunstperformance.“</p>\n<p>Schon Monate vor Beginn der Manifesta hat die Künstlerin Havîn Al-Sîndy in mehreren Schulen in Duisburg mit den Jugendlichen und Kindern zum Mythos der Plage gearbeitet. Ausgangspunkt hierbei war unter anderem das Schicksal der Kurden. In einem festlichen Umzug, bei dem kurdische Lieder gesungen wurden, haben sie die gebastelten Heuschrecken dann zum Ausstellungsort getragen.</p>\nTee trinken in Gelsenkirchen\n<p>In Gelsenkirchen lädt das Bureau Baubotanik in der Kirche St. Bonifatius hingegen zum Teetrinken ein und in der entweihten St. Josef bekommen die Kirchenglocken eine neue Aufgabe. Eigentlich wollte der Kurator Gürsoy Doğtaş die vier Kirchen, die er in Gelsenkirchen bespielt, umbenennen — auch um diese einst religiösen Orte zugänglicher zu machen und ihre Wahrnehmung als christliche Orte für die Stadtbevölkerung umzudeuten. Denn in Gelsenkirchen leben viele Menschen muslimischer Prägung, türkisch ist hier die zweitgrößte Sprachgruppe. Namen wie etwa „St. Anna — Hatay Engin Musikhalle“ oder „St. Bonifatius — Ferdane Satır Teegarten“ sind auch ein politisches Statement. Ferdane Satır und sechs ihrer Familienmitglieder etwa wurden 1984 bei einem rassistischen Brandanschlag in Duisburg getötet.</p>\n<p>Als Hava Güleç nach Deutschland kam, brachte sie einen handgeschmiedeten Teigschaber und einen Pinsel mit, ebenfalls von Hand gefertigt. Diese unscheinbar wirkenden Werkzeuge erzählen von ihrem doppelten Leben — als Arbeiterin am Fließband und als Versorgerin ihrer Familie. Im Pfarrhaus der Thomaskirche wurde außerdem eine Weberei eingerichtet, die auf die Fertigkeiten der Menschen aufmerksam machen sollen, die sie aus ihrer Heimat nach Deutschland mitnahmen.</p>\n<p>In dieser Folge von „Kunst und Leben“, dem Podcast in Kooperation mit dem <em>Monopol</em>-Magazin, spricht <em>detektor.fm</em>-Moderatorin Sara-Marie Plekat mit <strong>Elke Buhr</strong> über die Manifesta 16 Ruhr. Außerdem ist der Kurator <strong>Gürsoy Doğtaş</strong> zu Gast. In seiner kuratorischen Arbeit beschäftigt er sich vor allem mit migrantischer Kunst und ehemaligen Gastarbeitern und Gastarbeiterinnen. In Gelsenkirchen zeigt er in vier Kirchen ihre Werke. Die Manifesta 16 Ruhr läuft noch bis zum 4. Oktober, Informationen zum Programm findet ihr auf ihrer Website.</p>",
-    "date": "2026-06-30T11:40:50.000Z",
-    "url": "https://feedpress.me/link/19604/17370267/monopol-podcast-manifesta-16-ruhr",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/30062026monopol-podcastmanifesta16elke.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/30062026monopol-podcastmanifesta16elke.63.mp3",
-    "duration": "34 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-16-regulierte-wahrheit-ueber-den-kampf-gegen-fakenews-dlf-20260616-1915-0a3cb568-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Regulierte Wahrheit - Über den Kampf gegen Fakenews",
-    "summary": "Was darf gesagt werden – und wer entscheidet darüber? Der Kampf gegen Desinformation ist ein globaler Konflikt, an dem die Zukunft der liberalen Demokratien hängt. Von Christian Jakob www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-30T05:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/regulierte-wahrheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/73/5b/42/5b/735b425b-82a7-40a5-895d-6397b0d4ac5a/bild-fuer-regulierte-wahrheit-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/16/regulierte_wahrheit_ueber_den_kampf_gegen_fakenews_dlf_20260616_1915_0a3cb568.mp3?refId=das-feature-104",
-    "duration": "44 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3997905",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Wie kommt die Energiewende ins Mietshaus?",
-    "summary": "Mieterstrom: Energiewende im Mehrfamilienhaus\n<p>Statistiken zufolge leben gut 44 Millionen Menschen in Deutschland zur Miete — sie bleiben bei der Energiewende noch weitestgehend außen vor. Der Grund liegt weniger in der Technik als in der Organisation: Vermieter und Vermieterinnen müssten plötzlich Aufgaben eines Stromversorgers übernehmen — von der Abrechnung über den Einbau intelligenter Stromzähler bis zur Kommunikation mit Netzbetreibern. Genau hier setzen spezialisierte Dienstleister an, die den gesamten Prozess übernehmen und Mieterstrommodelle wirtschaftlich umsetzbar machen. Davon profitieren beide Seiten: Die Vermietung erzielt zusätzliche Einnahmen, Mieterinnen und Mieter erhalten günstigeren Strom.</p>\nEnergy Sharing wird noch auf sich warten lassen\n<p>Seit Juni 2026 ist in Deutschland auch das sogenannte Energy Sharing gesetzlich möglich: Überschüssiger Solarstrom kann damit über Grundstücksgrenzen hinweg an Nachbarn und Nachbarinnen weitergegeben werden. Julian Schulz bewertet die Entwicklungen zwar grundsätzlich positiv, erwartet jedoch keinen schnellen Durchbruch.</p>\n<p>Besonders die Netzentgelte müssten reformiert werden, so Schulz, damit lokal geteilter Strom finanziell attraktiver wird. Zudem erschweren unterschiedliche Abläufe bei den zahlreichen Netzbetreibern eine schnelle Umsetzung neuer Modelle. Trotzdem sieht Schulz großes Potenzial: Mieterstrom und Energy Sharing könnten künftig entscheidend dazu beitragen, die Energiewende in den Gebäudebestand zu bringen und Klimaschutz, Wirtschaftlichkeit und soziale Teilhabe sinnvoll miteinander zu verbinden.</p>\n<p><strong>Julian Schulz </strong>hat 2021 das GreenTech-Start-up Metergrid gegründet und arbeitet seitdem jeden Tag daran, Solarstrom in Mietshäuser und Quartiere zu bringen. Warum er das Mieterstrom-Modell als „Win-Win-Win-Situation“ bezeichnet, das erfahrt ihr in dieser Folge von „Mission Energiewende“ mit <em>detektor.fm</em>-Moderatorin Ina Lebedjew.</p>",
-    "date": "2026-06-30T03:30:09.000Z",
-    "url": "https://feedpress.me/link/19604/17370121/mission-energiewende-mieterstrom",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260630missionenergiewendeenergysharing.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260630missionenergiewendeenergysharing.63.mp3",
-    "duration": "23 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-wie-war-das-noch-mal:bab33b17-1f92-4f18-b109-4fcbc57d1f10",
-    "source": "zeit-wie-war-das-noch-mal",
-    "sourceTitle": "Wie war das noch mal? – DIE ZEIT",
-    "type": "rss",
-    "title": "250 Jahre USA: Der talentierte Mister Hamilton",
-    "summary": "<p>Wieder und wieder bittet der junge Adjutant seinen Oberbefehlshaber George Washington, ihm ein Kommando zu übertragen. Der Unabhängigkeitskrieg der Amerikaner gegen das britische Empire geht ins fünfte, ins sechste Jahr, aber Washington bleibt unbeeindruckt. Er hat gute Verwendung für den jungen Mann, Alexander Hamilton ist sein Name, diktiert ihm Briefe, lässt ihn die Korrespondenz erledigen, politische Schreiben aufsetzen, diplomatische Noten verfassen. Aber ein Kommando gibt er ihm nicht.</p>\n<p>Bis sie sich Anfang 1781 zerstreiten. Da sieht Washington ein, dass Hamilton seinen Teil zum Freiheitskampf der Vereinigten Staaten beitragen will und muss – und schickt ihn mit einer Truppe in die Schlacht von Yorktown gegen die Briten. Es wird der Wendepunkt des Krieges. Die USA werden unabhängig. Hamilton ist einer der Kriegshelden.</p>\n<p>Das ist nur eine der vielen Geschichten, die es über Alexander Hamilton zu erzählen gibt, den vielleicht schillerndsten Charakter unter den Gründervätern der USA. Hamilton unterscheidet sich scharf von den Plantagenbaronen und Großstadtfürsten, von Washington, Jefferson, Franklin, Adams, die in der ersten Reihe der Urahnen der USA stehen. Hamilton stammt aus der Karibik, kommt als uneheliches Kind zur Welt, ist bald Vollwaise und verdient als Jugendlicher seinen Unterhalt als Schreiber im Hafenkontor. Nichts deutet darauf hin, dass er einmal der erste Finanzminister der USA werden wird.</p>\n<p>In der neuen Folge von <i>Wie war das noch mal?</i> erzählen wir die Geschichte Alexander Hamiltons, der als Außenseiter im Machtzentrum der jungen USA steht und der keinen Konflikt scheut. Wir zeichnen die tiefen politischen Konflikte nach, die er austrägt und die sich im Kern um das drehen, was die USA sein sollen und wollen: ein lockerer Bund souveräner Einzelstaaten – oder eine starke Republik mit Zentralregierung?</p>\n<p>Wir sprechen auch darüber, wie es kam, dass Hamilton vor einigen Jahren zum Helden eines gleichnamigen Broadway-Musicals avancierte und sogar Barack Obama sich am Ende seiner zweiten Amtszeit 2017 von einem Hamilton-Song aus dem Weißen Haus begleiten ließ. Das Musical präsentiert Hamilton als genialen Außenseiter, Aufsteiger und Revolutionär – als Mann von schwindelerregendem Ehrgeiz und ebenso großem Talent. Doch was ist da dran? Weshalb lohnt es sich gerade heute, im Jubiläumsjahr 2026, einen genaueren Blick auf ihn zu werfen? Und welches dunkle Geheimnis verbirgt sich hinter Hamiltons frühem und gewaltsamem Tod?</p>\n<p>Das aktuelle ZEIT Geschichte-Heft <i>250 Jahre USA. Die Geburt der Vereinigten Staaten – und der Angriff auf das Erbe der Gründerväter</i> bekommen Sie online im <a href=\"https://shop.zeit.de/sortiment/zeit-kiosk/zeit-magazine/zeit-geschichte\" rel=\"noopener\" target=\"_blank\">ZEIT Shop</a> oder im Handel. <a href=\"https://abo.zeit.de/zg-testen/?icode=01w0169k0575angaudall2110&utm_medium=audio&utm_source=zgpodcast&utm_campaign=zg_zon_podcast&utm_content=&wt_zmc=audall.int.zabo.zgpodcast.zg_zon_podcast....x\" rel=\"noopener\" target=\"_blank\">Unter diesem Link</a> können Sie eine Gratisausgabe von ZEIT Geschichte zum Testen bestellen.</p>\n<p><i>Die Redaktion erreichen Sie per Mail unter </i><i>zeitgeschichte@zeit.de</i></a><i>.</i></p>\n<p>Folgende Bücher haben wir für diese Sendung verwendet:</p>\n<p>Ron Chernow: <i>Alexander Hamilton</i>, Bloomsbury, London 2020</p>\n<p>Joseph J. Ellis: <i>Sie schufen Amerika. Die Gründergeneration von John Adams bis George Washington</i>, C. H. Beck, München 2002</p>\n<p>Den besonderen Auftritt der Hamilton-Besetzung im Weißen Haus ist in voller Länge auf <a href=\"https://www.youtube.com/watch?v=uV4UpCq2azs\" rel=\"noopener\" target=\"_blank\">YouTube</a>zu sehen. Außerdem gibt es dort auch Washingtons <a href=\"https://www.youtube.com/watch?v=wFEL_0UFgIs\" rel=\"noopener\" target=\"_blank\">Farewell Address</a>, gelesen von Barack Obama.</p>\n<p><p><a href=\"https://abo.zeit.de/zg-testen/?icode=01w0557k1001angaudall2403&utm_medium=audio&utm_source=shownotes&utm_campaign=standard&utm_content=01w0557k1001angaudall2403&wt_zmc=audall.Int.zabo.shownotes.standard.x\" rel=\"noopener\" target=\"_blank\"><i><strong>Hier</strong></i></a><i> können Sie eine aktuelle Gratisausgabe von ZEIT Geschichte zum Testen bestellen. Sie bekommen das Heft zum Bauernkrieg, aber auch viele andere, im Handel oder online im ZEIT Shop.</i></p><p>Vergünstigtes Podcast-Abo für ZEIT GESCHICHTE-Leser <a href=\"https://abo.zeit.de/podcast_8w_gratis_plusrabatt_zgpodcast/?icode=01w0813k1001angaudint2601&utm_medium=audio&utm_source=geschichtspodcast_redaktion&utm_campaign=Standard&utm_content=01w0813k1001angaudint2601&wt_zmc=audint.Int.zabo.geschichtspodcast_redaktion.Standard.x\" rel=\"noopener\" target=\"_blank\">zeit.de/abo-geschichte.</a><br> </p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen</a>. Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT</strong>. <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Angebot</a>. </p>",
-    "date": "2026-06-27T03:55:00.000Z",
-    "url": "https://www.zeit.de/serie/wie-war-das-nochmal",
-    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f57c3e5e-6f9d-47aa-90bc-0dec153dc682/3000x3000/wie-war-das-noch-mal.jpg?aid=rss_feed",
-    "audio": "https://zeitonline.simplecastaudio.com/4d384d00-4f76-41fc-ac1c-8ff9276a7999/episodes/4f2cdd85-1962-4057-bf41-b6ae0357fbae/audio/128/default.mp3?aid=rss_feed&awCollectionId=4d384d00-4f76-41fc-ac1c-8ff9276a7999&awEpisodeId=4f2cdd85-1962-4057-bf41-b6ae0357fbae&feed=DV4gq1zP",
-    "duration": "1 Std 9 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "bildung",
-      "zeit"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-06-25-jonas-panning-im-gespraech-mit-peer-steinbrueck-ehm-dlf-20260625-1915-a73a7fc2-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Peer Steinbrück - \"Die Menschen wollen wissen: Wo will die Politik mit mir hin?\"",
-    "summary": "Peer Steinbrück (SPD) ist für seine klaren Worte bekannt. Aus der Finanzkrise 2008 und Reformagenda 2010 zieht der ehemalige Bundesfinanzminister eine Lehre, die stärker beachtet werden sollte: Die Folgen von Krisen müssen klar kommuniziert werden. Panning, Jonas www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-06-25T17:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/jonas-panning-im-gespraech-mit-peer-steinbrueck-ehm-ministerpraesident-nrw-100.html",
-    "image": "https://bilder.deutschlandfunk.de/f9/b0/69/1e/f9b0691e-80a8-43ed-b3b8-36cf089e840b/peer-steinbrueck-spd-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/25/jonas_panning_im_gespraech_mit_peer_steinbrueck_ehm_dlf_20260625_1915_a73a7fc2.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-25-us-praesidenten-23-abraham-lincoln-der-retter-dlf-20260625-1300-572b2789-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Präsidenten (2/3) - Abraham Lincoln: Der Standhafte",
-    "summary": "Ohne Abraham Lincoln gäbe es die USA wahrscheinlich nicht mehr. Der 16. US-Präsident führte das Land durch den Bürgerkrieg und schaffte die Sklaverei ab. Sein höchstes Ziel aber war der Erhalt der Union. Dafür bezahlte er mit seinem Leben. Zweiter Teil unserer Mini-Staffel über bedeutende US-Präsidenten.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(01:55) Abraham Lincoln: Der Retter der USA? <br>(05:21) Ein Mann aus einfachen Verhältnissen <br>(12:00) Wie es zum amerikanischen Bürgerkrieg kam<br>(18:06) Die „Gettysburg-Address“ von 1863<br>(21:30) 1865: Abraham Lincoln stirbt nach einem Attentat<br><br><strong>Unser Experte: </strong><br>Ronald D. Gerste beschäftigt sich als Historiker seit vielen Jahren mit der Geschichte der USA und vor allem mit US-Präsidenten. Er lebt und arbeitet in Washington D.C.. Autor unter anderem von: „Trinker, Cowboys, Sonderlinge. Die 12 seltsamsten Präsidenten der USA“ (Klett-Cotta, 2019).<br><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Produktion und Regie: Robert Hauspurg<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-buergerkrieg-trump-sklaverei-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen </a>über die Spaltung der US-Gesellschaft</li><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-trump-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über US-Präsidenten</li><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-buergerkrieg-spaltung-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über den amerikanischen Bürgerkrieg</li><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-geschichte-washington-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über George Washington</li><li><a href=\"https://www.deutschlandfunk.de/kennedy-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über John F. Kennedy</li><li><a href=\"https://www.deutschlandfunk.de/nixon-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Richard Nixon</li><li><a href=\"https://www.deutschlandfunk.de/obama-praesident-usa-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Barack Obama</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.abrahamlincolnonline.org/lincoln/speeches/gettysburg.htm\" rel=\"noopener\" target=\"_blank\">Gettysburg Address</a> im Volltext (englisch) </li><li><a href=\"https://avalon.law.yale.edu/\" rel=\"noopener\" target=\"_blank\">The Avalon Project </a>mit historischen Dokumenten zur US-Geschichte</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/ns-cliquen-S3?pc=drig\" rel=\"noopener\" target=\"_blank\">NS-Cliquen</a> - Von Menschen und Mördern<br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-25T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-praesidenten-geschichte-lincoln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/82/e5/35/c3/82e535c3-7f53-4c8f-b2e8-ab3287d60e27/abraham-lincoln-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/25/us_praesidenten_23_abraham_lincoln_der_retter_dlf_20260625_1300_572b2789.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "title": "Serious Play: Wenn Sebastian Kurz eine Ente baut",
+    "summary": "<b>Ernsthaft spielen mit Klemmbausteinen</b>\n<p>Viele Organisationen müssen sich verändern. Denn der Markt, die Mitarbeitenden, die Mitbewerber und der technische Stand entwickeln sich ständig weiter. Unternehmen müssen darauf reagieren und sich an neue Gegebenheiten anpassen. Doch wie gestalten sie den Wandel? Wie findet man den richtigen Kurs und wie lassen sich verschiedene Handlungsoptionen gewichten? Eine mögliche Antwort darauf kann Lego Serious Play sein. Die Methode nimmt das Spiel mit Klemmbausteinen ernst und macht Strukturen, Konflikte und Lösungen im Wortsinn greifbar. <strong>Eric Hofmann</strong> ist „Lego Serious Play Facilitator“ und begleitet Unternehmen in der Anwendung.</p>\nEric Hofmann leitet Spielrunden\n<p>Der Vorteil von Serious Play: Durch den spielerischen Umgang mit Klemmbausteinen treten auch Strukturen, Haltungen und Vorbehalte zutage, die sich nicht sofort verbalisieren lassen. Laut Hofmann braucht es etwas Geschick, auch zögerlich Teilnehmende zur Mitarbeit zu bewegen. Denn nicht bei allen ist das Spielerische positiv konnotiert. Wenn aber Organisationen erst einmal angeleitet ins Spielen kommen, kann die Methode einiges bewegen.</p>\n<p>Über den Reiz des ernsthaften Spiels mit Klemmbausteinen und darüber, wie man mit den Ergebnissen dann umgeht, spricht <em>detektor.fm</em>-Moderator Christian Bollert in dieser neuen Folge des „brand eins Podcasts“ mit <strong>Eric Hofmann</strong>.</p>\n<p> </p>",
+    "date": "2026-06-26T03:00:45.000Z",
+    "url": "https://feedpress.me/link/19604/17368214/brand-eins-podcast-eric-hofmann",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626brandeins-podcasterichofmann.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260626brandeins-podcasterichofmann.63.mp3",
     "duration": "28 Min",
     "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
+      "wissenschaft",
+      "forschung",
       "bildung",
-      "deutschlandfunk"
+      "gesellschaft"
     ],
     "category": [
-      "Geschichte",
-      "Gesellschaft",
+      "Politik",
       "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2025-06-24-inside-private-equity-internationale-investoren-kaufen-dlf-20250624-1915-13243ff7-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3995269",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Inside „Private Equity“ - Wenn internationale Investoren deutsche Pflegeheime kaufen",
-    "summary": "Immer mehr Pflegeheime gehen pleite. Doch die private Alloheim-Gruppe kauft Seniorenheime auf, investiert Millionen in die Modernisierung der Heime und will in den nächsten Jahren 30 Neubauten stemmen. Internationale Investoren machen es möglich. Von Matthias Holland-Letz www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-23T17:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/inside-private-equity-100.html",
-    "image": "https://bilder.deutschlandfunk.de/81/06/52/f5/810652f5-665f-40b0-9b3c-854b035a707c/foto-inside-private-equity-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/06/24/inside_private_equity_internationale_investoren_kaufen_dlf_20250624_1915_13243ff7.mp3?refId=das-feature-104",
-    "duration": "42 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-27-hows-your-walk-with-the-lord-drk-20260627-1805-cb6ebfaf-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "How’s your walk with the Lord? - Spiritualität nach der Kirche",
-    "summary": "Nathan wächst als Mennonit in den USA auf. Vom praktizierten Glauben hat sich der heute in Köln lebende Musiker gelöst. Doch was ihn damals bewegt hat, ist nicht verschwunden. Ein Feature über Transformation – von Menschen und religiösen Gefühlen. Von Janko Hanushevsky und Nathan Bontrager www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-23T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/feature-hows-your-walk-with-the-lord-100.html",
-    "image": "https://bilder.deutschlandfunk.de/58/f2/0e/43/58f20e43-961b-43ac-9899-14cee5f7910c/hows-your-walk-with-the-lord-nathan-patagonien-bild-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/27/hows_your_walk_with_the_lord_drk_20260627_1805_cb6ebfaf.mp3?refId=das-feature-104",
-    "duration": "55 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-auch-das-noch:e8bc7bbf-eefe-4977-a50f-edff50bca587",
-    "source": "zeit-auch-das-noch",
-    "sourceTitle": "Auch das noch? – DIE ZEIT",
-    "type": "rss",
-    "title": "Wie machen Sie Hamburg klimaneutral, Frau Fegebank?",
-    "summary": "<p>Live von der Langen Nacht der ZEIT in Hamburg spricht Katharina Fegebank, Zweite Bürgermeisterin und Umweltsenatorin, über den Weg zur Klimaneutralität 2040. Sie erklärt, wie der Zukunftsentscheid der Bürgerinnen und Bürger den Kurs verschärft hat, warum vor allem Gebäude und Verkehr Probleme machen und weshalb Hamburg mit linearen Abbaupfaden seine eigenen Klimagesetze reißt. Fegebank bleibt dennoch »possibilistisch«: Sie setzt auf einen Hamburger Weg, Dialog mit Wirtschaft und Wohnungsbranche, Beispiele aus Dänemark – und viele innovative Klima-Ideen aus der Stadt.</p>\n<p>In jeder Folge von <i>Auch das noch</i> –<i> der freundliche Krisenpodcast</i> sprechen ZEIT-Politikredakteurin<a href=\"https://www.zeit.de/autoren/P/Petra_Pinzler/index.xml\" rel=\"noopener\" target=\"_blank\"> Petra Pinzler</a> und Wissenschaftsredakteur <a href=\"https://www.zeit.de/autoren/S/Stefan_Schmitt/index.xml\" rel=\"noopener\" target=\"_blank\">Stefan Schmitt</a> über eine Krise der Gegenwart: Es geht um die Klimakrise, das Artensterben, die Energiekrise und Kriege. Jedes Mal hilft eine Expertin oder ein Experte dabei, zu verstehen, wie alles zusammenhängt. Nicht um zu verzweifeln, sondern weil Verstehen der erste Schritt zur Lösung ist. Und um Lösungen geht es natürlich auch.</p>\n<p><strong>Korrektur:</strong></p>\n<p>Wir hatten bei der Live-Aufnahme versprochen, es hier nachzutragen. Die genaue Antwort von Katharina Fegebank auf die Frage des <i>Hamburger Abendblatts</i> nach ihren größten Schwächen lautete: »Harte Konflikte erschöpfen mich manchmal, weil ich vom Wesen her eigentlich Harmonie mag.« (Abendblatt, 5.2.2025, S. 11) – das haben wir in unserer Frage bei der Langen Nacht der ZEIT falsch zitiert, Pardon!</p>\n<p>Weitere Links zur Folge und zum Thema Klimaschutz und soziale Ungleichheit finden Sie <a href=\"https://www.zeit.de/wissenschaft/2026-06/katharina-fegebank-umweltsenatorin-hamburg-klimaneutral-krisenpodcast\" rel=\"noopener\" target=\"_blank\">hier</a>.</p>\n<p><i>Senden Sie Kritik und Anregungen gerne per E-Mail an </i><i>krisen@zeit.de</i></a><i>.</i></p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Doku-Podcasts, Bonusfolgen und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen.</a> Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht’s zum Angebot</a><strong>.</strong></p>",
-    "date": "2026-06-23T03:55:00.000Z",
-    "url": "https://www.zeit.de/auch-das-noch-krisenpodcast",
-    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f1e25ec7-2e55-45b6-a911-ce88f7d0b73e/3000x3000/auch-das-noch.jpg?aid=rss_feed",
-    "audio": "https://zeitonline.simplecastaudio.com/6debd049-34b3-4994-96b0-039fabb2761b/episodes/bd08007a-f13b-45fb-b71b-1cff56eb3bcf/audio/128/default.mp3?aid=rss_feed&awCollectionId=6debd049-34b3-4994-96b0-039fabb2761b&awEpisodeId=bd08007a-f13b-45fb-b71b-1cff56eb3bcf&feed=Sdxt6Bhy",
-    "duration": "60 Min",
-    "tags": [
-      "klima",
-      "krisen",
-      "umwelt",
-      "gesellschaft",
-      "politik",
-      "zeit"
-    ],
-    "category": [
-      "Öko-Wissenschaft",
-      "Gesellschaft",
-      "Politik"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-18-grosse-us-praesidenten-13-george-washington-der-erste-dlf-20260618-1300-38facf10-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Präsidenten (1/3) - George Washington: Der Vorbildliche",
-    "summary": "Er war der erste Präsident der noch blutjungen Vereinigten Staaten von Amerika: George Washington hat dieses Amt geprägt - durch Verfassungstreue und Verzicht nach zwei Amtszeiten. Seine Abschiedsbotschaft gehört zu den großen Texten der USA. Teil eins unserer zweiten Staffel über bedeutende US-Präsidenten.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(00:45) George Washington ist in den USA auch heute noch allgegenwärtig<br>(04:30) Gründervater und Sklavenhalter<br>(12:30) Oberbefehlshaber im Revolutionskrieg<br>(16:00) Wie Washington das Präsidentenamt prägte<br>(18:00) Die „Farewell Address“ von George Washington<br><br><strong>Unser Experte: </strong><br>Ronald D. Gerste beschäftigt sich als Historiker seit vielen Jahren mit US-Geschichte und vor allem mit US-Präsidenten. Er lebt und arbeitet in Washington D.C., Autor unter anderem von: „Trinker, Cowboys, Sonderlinge. Die 12 seltsamsten Präsidenten der USA“ (Klett-Cotta, 2019).<br><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Produktion und Regie: Robert Hauspurg<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/kennedy-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über John F. Kennedy</li><li><a href=\"https://www.deutschlandfunk.de/nixon-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Richard Nixon</li><li><a href=\"https://www.deutschlandfunk.de/obama-praesident-usa-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Barack Obama</li><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-trump-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über US-Präsidenten</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Senator <a href=\"https://www.c-span.org/clip/america-250/senator-tim-kaine-d-va-reads-george-washingtons-farewell-address-2026/5194172\" rel=\"noopener\" target=\"_blank\">Tim Kaine</a> trägt im Februar 2026 die \"Farewell Address\" von George Washington im US-Senat vor (Video)</li><li><a href=\"https://avalon.law.yale.edu/\" rel=\"noopener\" target=\"_blank\">The Avalon Project </a>mit historischen Dokumenten zur US-Geschichte</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/hexe-von-pendach?cp=derrestistgeschichte\" rel=\"noopener\" target=\"_blank\">Die Hexe von Pendach</a> - historische Mystery-Hörspielserie<br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-18T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-praesidenten-geschichte-washington-100.html",
-    "image": "https://bilder.deutschlandfunk.de/3b/77/e8/a9/3b77e8a9-6e50-4645-b6fe-71623fd86bdb/george-washington-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/18/grosse_us_praesidenten_13_george_washington_der_erste_dlf_20260618_1300_38facf10.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "25 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-20-utopia-und-lost-places-probewohnen-im-osten-deutschlands-drk-20260620-1805-1422bc87-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Utopia und Lost Places - Probewohnen in Eisenhüttenstadt und Guben",
-    "summary": "Zu DDR-Zeiten gehörten sie zu den sozialistischen Vorzeigestädten: Eisenhüttenstadt und Guben. Doch seit der Wende sind die Hälfte der Einwohner weggezogen. Mit Probewohn-Programmen wollen die Städte das Schrumpfen aufhalten. Von Alexa Hennings www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-16T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/utopia-und-lost-places-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6a/38/75/bf/6a3875bf-6d04-4f93-8bc4-68374a167945/utopia-und-lost-places-eisenhuettenstadt-kaufhaus-magnet-wandmosaik-bild-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/20/utopia_und_lost_places_probewohnen_im_osten_deutschlands_drk_20260620_1805_1422bc87.mp3?refId=das-feature-104",
-    "duration": "53 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-11-250-jahre-usa-44-wie-die-usa-zur-softpower-wurden-dlf-20260611-1256-49e6424c-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "250 Jahre USA (4/4) - Die freundliche Supermacht bringt Cola, Jazz und Freiheit",
-    "summary": "Die Dominanz der USA beruht nicht nur auf militärischer Stärke und Wirtschaftskraft, sondern auch auf kultureller Macht. Dazu gehören Hollywood und Rock ’n’ Roll, braune Limonade und Blue Jeans. Wird Donald Trump die „Soft Power“ der USA zerstören? Das ist die vierte Folge unserer Serie zum 250. Geburtstag der USA.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(03:30) 1990 prägt Joseph Nye den Begriff „Soft Power“<br>(11:30) Schon das Römische Reich war eine Soft Power<br>(15:10) Die Bedeutung der amerikanischen Soft Power nach 1945<br>(21:08) Auswärtige Kulturpolitik der USA mit Jazz<br>(23:30) 1965: US-Trompeter Louis Armstrong tourt durch die DDR<br>(35:00) Der Auslandsgeheimdienst CIA, der Antikommunismus und die Soft Power<br>(39:30) 1988: Bruce Springsteen tritt in der DDR auf <br>(41:45) Zerstört Donald Trump die Soft Power der USA? <br>  <br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li>Der Politikwissenschaftler <strong>Hendrik W. Ohnesorge </strong>forscht und lehrt an der Universität Bonn unter anderem zu Soft Power, den transatlantischen Beziehungen und charismatischer Führung.</li></ul><br><ul><li><strong>Reinhild Kreis </strong>ist Professorin für die Geschichte der Gegenwart an der Universität Siegen. Sie hat unter anderem zu den Amerika-Häusern in der Bundesrepublik gearbeitet.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Katharina Peetz und Robert Hauspurg<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-buergerkrieg-spaltung-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über den US-Bürgerkrieg</li><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-rassismus-sklaverei-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Rassismus in den USA </li><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-wahlsystem-trump-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über das amerikanische Wahlsystem</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Politikwissenschaftler <a href=\"https://www.youtube.com/watch?v=_58v19OtIIg\" rel=\"noopener\" target=\"_blank\">Joseph Nye </a>über sein Konzept der \"Soft Power\" (Video, englisch) </li><li>Artikel im <a href=\"https://www.rollingstone.de/bruce-springsteen-1988-ddr-weissensee-365943/\" rel=\"noopener\" target=\"_blank\">Rolling Stone </a>über Bruce Springsteens Konzert in der DDR 1988</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen. Mit Volker Depkat</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-11T11:04:00.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-soft-power-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e5/c4/f3/57/e5c4f357-9932-4258-adf6-d0e52d1f0ea3/drig-schwerpunkt-amerika-106-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/11/250_jahre_usa_44_wie_die_usa_zur_softpower_wurden_dlf_20260611_1256_49e6424c.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "48 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-11-250-jahre-usa-34-the-winner-takes-it-all-ist-waehlen-in-den-dlf-20260611-1257-1a38aaf8-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "250 Jahre USA (3/4) - Sind amerikanische Wahlen undemokratisch?",
-    "summary": "Gouverneure, Kongressabgeordnete und Sheriffs werden in den USA direkt gewählt. Doch ausgerechnet der Präsident kann es ohne Stimmenmehrheit ins Weiße Haus schaffen. Das Wahlrecht und das Zwei-Parteiensystem sind in den USA schon lange umkämpft. Folge drei unserer Reihe zum 250. Jahrestag der amerikanischen Unabhängigkeitserklärung. <br><br><strong>Das erwartet Euch in dieser Folge:</strong><br> <br>(03:24) Will Donald Trump das Wahlsystem kippen?<br>(04:20) Die Wahl des ersten US-Präsidenten George Washington 1789<br>(05:30) Die Erfindung des „Electoral College“<br>(07:24) Das Prinzip „The winner takes it all“ <br>(13:15) Wahlen im 19. Jahrhundert: Bestechung, Gewalt und Entertainment<br>(16:25) Schwarze US-Amerikaner werden beim Wählen diskriminiert<br>(25:05) Wie sich das Zwei-Parteiensystem in den USA entwickelt hat<br>(39:55) Der Zuschnitt der Wahlbezirke und „Gerrymandering“<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li>Die Historikerin <strong>Hedwig Richter</strong> ist Professorin für Neuere und Neueste Geschichte an der Universität der Bundeswehr München. Sie hat sich mit einer Forschungsarbeit über Wahlen in Preußen und den USA im 19. Jahrhundert habilitiert.</li></ul><br><ul><li><strong>Thomas Greven</strong> arbeitet als Politikwissenschaftler an der Freien Universität Berlin, er forscht unter anderem zur amerikanischen Parteiengeschichte.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Matthieu Praun und Carina Schroeder<br>Faktencheck: Kathrin Krautwasser und Florian Twente<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-buergerkrieg-spaltung-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den US-Bürgerkrieg</li><li>Der Rest ist Geschichte über Rassismus in den USA</li><li><a href=\"https://www.deutschlandfunk.de/wahlen-usa-trump-manipulation-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über das amerikanische Wahlsystem</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Informationen bei der <a href=\"https://www.bpb.de/themen/nordamerika/usa/10662/die-grundlagen-des-politischen-systems-der-usa/\" rel=\"noopener\" target=\"_blank\">Bundeszentrale für politische Bildung</a> über das politische System der USA</li><li>Artikel in <a href=\"https://www.das-parlament.de/aussen/welt/so-funktioniert-gerrymandering\" rel=\"noopener\" target=\"_blank\">Das Parlament</a> über \"Gerrymandering\", also den Zuschnitt von Wahlkreisen in den USA</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen. Mit Volker Depkat</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-11T11:03:00.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-geschichte-wahlsystem-trump-100.html",
-    "image": "https://bilder.deutschlandfunk.de/7e/a2/a8/05/7ea2a805-cff6-4266-a6d4-96a9668cb54f/drig-schwerpunkt-amerika-104-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/11/250_jahre_usa_34_the_winner_takes_it_all_ist_waehlen_in_den_dlf_20260611_1257_1a38aaf8.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "51 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-11-250-jahre-usa-24-das-rassistische-erbe-der-usa-dlf-20260611-1258-55890c1f-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "250 Jahre USA (2/4) - Das rassistische Erbe der USA",
-    "summary": "Die USA gelten als Einwanderungsland schlechthin. Doch es war von Anfang an umstritten, wer US-Bürger sein kann. Das betraf Schwarze und Indigene, irische Katholiken, Chinesen, Mexikaner und andere. Rassismus gehört zur US-Geschichte – und Gegenwart. Die zweite Folge unserer Reihe zu 250 Jahren USA. <br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:07) „All men are created equal“: Für wen gilt das Versprechen vom 4. Juli 1776?<br>(07:24) Sklaverei: Die Ursünde der amerikanischen Geschichte<br>(14:30) Das Ende der Sklaverei ist nicht das Ende des Rassismus<br>(15:36) Die Geschichte der Lynchmorde <br>(21:40) Civil Rights Act 1964 – Erfolg der Bürgerrechtsbewegung<br>(23:00) Vertreibung und Vernichtung der Indigenen<br>(26:50) Rassistische Diskriminierung von Hispanics<br>(31:22) Die Ablehnung katholischer Iren im 19. Jahrhundert<br>(36:40) Die Tradition des Antirassismus in den USA<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Heike Paul</strong> ist Professorin für Amerikanistik an der Universität Erlangen-Nürnberg. Sie forscht unter anderem zu amerikanischen Mythen und zur politischen Kultur in den USA.</li></ul><br><ul><li>Der Historiker <strong>Silvan Niedermeier</strong> forscht und lehrt an der Universität Erfurt zu Rassismus, Kolonialgeschichte und Geschichte der Gewalt in den USA.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Christian Röther und Thomas Ibrahim<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-buergerkrieg-spaltung-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den US-Bürgerkrieg </li><li><a href=\"https://www.deutschlandfunk.de/usa-soft-power-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Soft Power der USA</li><li><a href=\"https://www.deutschlandfunk.de/rassismus-usa-trump-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über Rassismus in den USA</li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li>Die <a href=\"https://www.youtube.com/watch?v=smEqnnklfYs\" rel=\"noopener\" target=\"_blank\">\"I have a dream\"-Rede</a> von Martin Luther King (Video) </li><li>US-Präsident <a href=\"https://www.lbjlibrary.org/object/video/excerpt-signing-civil-rights-act-1964\" rel=\"noopener\" target=\"_blank\">Lyndon B. Johnson</a> zum Civil Rights Act </li><li>Informationen zum <a href=\"https://www.mnhs.org/duluthlynchings\" rel=\"noopener\" target=\"_blank\">Lynchmord in Duluth, Minnesota</a></li><li>Das <a href=\"https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html\" rel=\"noopener\" target=\"_blank\">1619 Project</a> der New York Times</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><a href=\"https://www.deutschlandfunkkultur.de/kalenderblatt-102.html\" rel=\"noopener\" target=\"_blank\"><br>Das Kalenderblatt:</a> Jeden Tag ein Stück Geschichte<br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-11T11:02:00.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-geschichte-rassismus-sklaverei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/09/ab/b2/69/09abb269-9c74-4fdb-b4c1-e6864ee82940/drig-schwerpunkt-amerika-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/11/250_jahre_usa_24_das_rassistische_erbe_der_usa_dlf_20260611_1258_55890c1f.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "title": "Interview: Was ist die Zukunft der Eurobike, Philipp Ferger?",
+    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Philipp Ferger </strong>um die Eurobike 2026 und die Zukunft der Messe.</p>\nLeitmesse mit bewegter Geschichte\n<p>Seit den Neunzigerjahren gibt es die Fahrradmesse Eurobike. Gegründet in Friedrichshafen am Bodensee, ist sie schnell zur Leitmesse der globalen Fahrradbranche aufgestiegen und damit auch an die Grenzen der Messeinfrastruktur vor Ort gestoßen. Nach einer Unterbrechung durch die COVID-19-Pandemie ging es 2022 neu in Frankfurt am Main auf dem dortigen Messegelände weiter. Der Umzug hat die Messe erreichbarer gemacht, Termin und Kosten vor Ort sind seitdem aber immer wieder Thema der Kritik gewesen. Über die Jahre hat die Eurobike einige wichtige Aussteller verloren, und spätestens 2025 ist spürbar gewesen, dass Teile der Fahrradbranche sich eine andere Ausrichtung wünschen und das mit Nachdruck formulieren.</p>\nNeuer Messechef Philipp Ferger mit neuem Plan\n<p>Seit Januar 2026 hat die Eurobike mit Philipp Ferger einen neuen Chef, der auch gleich vor einigen Herausforderungen steht. So hat nur wenige Tage vor Eröffnung der Zweiradindustrieverband ZIV eine neue Messe ab Herbst 2027 angekündigt. Die Eurobike wird im kommenden Jahr auf einen ähnlich gelagerten Herbsttermin umziehen und dann voraussichtlich nur noch alle zwei Jahre stattfinden. Für Philipp Ferger ist die aktuelle Ausgabe dementsprechend auch eine Übergangsveranstaltung.</p>\n<p>Christian und Gerolf sind für diese Ausgabe nach Frankfurt gefahren und haben mit Philipp Ferger über die aktuelle Ausgabe der Messe, den Konflikt innerhalb der Branche und die Potenziale für die Zukunft gesprochen.</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>",
+    "date": "2026-06-26T03:00:14.000Z",
+    "url": "https://feedpress.me/link/19604/17368215/antritt-philipp-ferger-ueber-die-eurobike-2026-und-die-zukunft",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625antritteurobike.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625antritteurobike.63.mp3",
     "duration": "45 Min",
     "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
+      "wissenschaft",
+      "forschung",
       "bildung",
-      "deutschlandfunk"
+      "gesellschaft"
     ],
     "category": [
-      "Geschichte",
-      "Gesellschaft",
+      "Politik",
       "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-11-250-jahre-usa-gespaltenes-land-die-ewigen-wunden-des-dlf-20260611-1300-30ff4666-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3992733",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "250 Jahre USA (1/4) - Die ewigen Wunden des Bürgerkriegs",
-    "summary": "Im Bürgerkrieg kämpften Amerikaner gegen Amerikaner, Nordstaaten gegen Südstaaten - hunderttausende Menschen starben. Am Ende wurde die Sklaverei abgeschafft und die Abspaltung des Südens verhindert. Doch dieser Krieg prägt die USA bis heute. Folge eins unserer Serie zu 250 Jahren USA. <br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(02:40) Polarisierende Denkmäler für Generäle und Kompanien<br>(05:29) Die Schlacht von Gettysburg und ihre Bedeutung bis heute <br>(10:01) Der Weg in den amerikanischen Bürgerkrieg <br>(13:25) Amerikanische Unabhängigkeit: Kein gleiches Recht für alle <br>(17:57) Abraham Lincoln wird US-Präsident - und \"der Süden reagiert hysterisch\"<br>(23:11) 1861: An Fort Sumter beginnt der Bürgerkrieg <br>(27:50) Lincoln schafft die Sklaverei ab - und wird ermordet <br>(31:38) Konkurrierende Geschichtsbilder oder gemeinsames Gedenken?<br>(38:16) US-Kontroverse: \"Der Bürgerkrieg 2026\" <br>(41:46) Politische Lager der USA: \"Es gibt auch Gemeinsamkeiten\"<br><br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li>Die Journalistin <strong>Johanna Roth</strong> hat unter anderem für DIE ZEIT aus den USA berichtet. 2026 ist ihr Buch „This is America – is this America? 250 Jahre USA: Eine Idee und ihre Widersprüche“ (Pieper Verlag) erschienen. </li></ul><br><ul><li><strong>Michael Hochgeschwender</strong> ist Professor für Nordamerikanische Kulturgeschichte an der Ludwig-Maximilians-Universität München. Unter anderem hat er das Buch \"Der Amerikanische Bürgerkrieg\" (C.H.Beck Wissen) veröffentlicht. </li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Anja Reinhardt und Tim Baumann<br>Faktencheck: Kathrin Krautwasser und Carlotta Kallenbach<br>Redaktion: Christian Röther<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-rassismus-sklaverei-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Rassismus in den USA</li><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-wahlsystem-trump-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über das Wahlrecht in den USA</li><li><a href=\"https://www.deutschlandfunk.de/rassismus-usa-trump-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über \"White Supremacy\" in den USA </li></ul> <br><strong>Weiterführende Links:</strong><br><br><ul><li>Artikel der <a href=\"https://www.bpb.de/themen/nordamerika/usa/10595/der-buergerkrieg-und-das-erbe-der-sklaverei/\" rel=\"noopener\" target=\"_blank\">Bundeszentrale für politische Bildung</a> über den US-Bürgerkrieg und das Erbe der Sklaverei.</li><li>Die <a href=\"https://www.abrahamlincolnonline.org/lincoln/speeches/gettysburg.htm\" rel=\"noopener\" target=\"_blank\">Gettysburg Address</a> von Abraham Lincoln (englisch)</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen. Mit Volker Depkat</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-11T11:01:00.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-geschichte-buergerkrieg-spaltung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/78/a3/9e/5a/78a39e5a-a484-49c7-8d75-44b8eb6085ca/drig-schwerpunkt-amerika-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/11/250_jahre_usa_gespaltenes_land_die_ewigen_wunden_des_dlf_20260611_1300_30ff4666.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "47 Min",
+    "title": "Demokratiebildung in Sachsen-Anhalt: Wie lernen wir Demokratie?",
+    "summary": "Warum Sachsen-Anhalt Demokratiebildung braucht\n<p>Demokratie ist keine Selbstverständlichkeit und kein in Stein gemeißelter Zustand, sondern eine fortwährende Entwicklung. Demokratie braucht Einsatz.</p>\n<p>Für diesen Einsatz für die Demokratie braucht es erst mal ein Verständnis für Demokratie und demokratische Prozesse. Fachleute sagen: Es braucht Demokratiebildung.</p>\nGestrichene Förderung: Demokratiebildung in Gefahr\n<p>Aber was, wenn das Vertrauen in politische Institutionen und die Demokratie schwindet? Politikwissenschaftler beobachten schon länger eine Zunahme feindseliger Stimmung gegen demokratische Parteien. Die Zustimmung zu autoritären Vorstellungen wächst. Förderungen für Demokratiebildung werden teilweise gestrichen und infrage gestellt, wie im Fall von „Demokratie leben“ in Salzwedel. Der Politikwissenschaftler Benjamin Höhne erklärt, dass Demokratiebildung seit dem Einzug der AfD in den Landtag gezielt ins Visier genommen werde. Laut Pascal Begrich vom Miteinander e. V. hängt die zivilgesellschaftliche Demokratiearbeit in Sachsen-Anhalt stark von öffentlicher Förderung ab. Sie befände sich daher in einer prekären Lage.</p>\nWie funktioniert Demokratiebildung?\n<p>Damit Demokratiebildung richtig funktioniert, muss sie Menschen auf eine praktische Weise erreichen und ihnen das Gefühl von Selbstwirksamkeit vermitteln. Politikwissenschaftler Benjamin Höhne erklärt, rein theoretische Vermittlung von Demokratie sei der falsche Weg. Stattdessen müsse auch an Schulen ein Fokus darauf gelegt werden, Demokratie erfahrbar zu machen.</p>\nKinderbürgermeister und Zuversicht\n<p>In dieser Podcastfolge tauchen Katja und Leonard ein in die Demokratiebildung in Sachsen-Anhalt. Sie schauen sich mit dem Kinderbürgermeisterprojekt von Spora Demokratiebildung in der Praxis an, diskutieren mit Expertinnen und Experten über die Bedeutung von Demokratiearbeit und die richtigen Ansätze für Demokratiebildung. Außerdem werfen sie einen Blick in die Zukunft und finden heraus, warum Pascal Begrich trotz aller Angriffe auf Demokratiearbeit zuversichtlich bleibt. All das gibt es in der neuen Folge von DAZWISCHEN.</p>\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</p>",
+    "date": "2026-06-25T13:00:54.000Z",
+    "url": "https://feedpress.me/link/19604/17367819/dazwischen-demokratiebildung-sachsen-anhalt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625-03dazwischendemokratiebildung.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260625-03dazwischendemokratiebildung.63.mp3",
+    "duration": "37 Min",
     "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
+      "wissenschaft",
+      "forschung",
       "bildung",
-      "deutschlandfunk"
+      "gesellschaft"
     ],
     "category": [
-      "Geschichte",
-      "Gesellschaft",
+      "Politik",
       "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-11-doku-drops-13-kollision-drk-20260711-1805-973e91b1-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3989709",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "doku drops 13: Kollision - Jeden Monat neue Kurzdokus",
-    "summary": "Wenn zwei Galaxien kollidieren, prallen sie nicht wirklich aufeinander. Sie ordnen sie sich neu. Schwarze Löcher entstehen und um sie herum wirbeln neue Sterne. Und wenn Körper oder Weltanschauungen zusammenstoßen? Davon erzählen zwei neue Kurzdokus. Moderation: Judith Geffert www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-09T09:46:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/doku-drops-13-kollision-100.html",
-    "image": "https://bilder.deutschlandfunk.de/c0/cb/3b/e7/c0cb3be7-6af2-4e61-af85-6ed462206a04/doku-drops-13-kollision-bild-satt-gruen-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/doku_drops_13_kollision_drk_20260711_1805_973e91b1.mp3?refId=das-feature-104",
-    "duration": "26 Min",
+    "title": "Geothermie - Der Energie-Schatz unter unseren Füßen",
+    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem GFZ Helmholtz-Zentrum für Geoforschung\nGeothermie: Unerschöpfliche Heizung aus der Tiefe\n<p>Rund 99 Prozent unserer Erde sind heißer als 100 Grad Celsius. Diese Energie ist grundlastfähig, also rund um die Uhr verfügbar, und macht uns theoretisch unabhängig von geopolitischen Abhängigkeiten. Dabei ist Geothermie eigentlich eine ganze Technologiefamilie. Während kleine Anlagen für Wohnhäuser bekannt sind, liegt der Fokus der Forschung heute auf der industriellen Nutzung für großflächige Fernwärmenetze.</p>\n<strong>Wärmewende: Energieunabhängig durch Erdwärme</strong>\n<p>Doch warum heizen wir nicht schon längst überall mit Erdwärme? Ein zentrales Hindernis ist das sogenannte Fündigkeitsrisiko. Da Bohrungen in drei bis vier Kilometern Tiefe extrem kostspielig sind, müssen Stadtwerke und Investoren vorab sicher sein, dass sie dort auch tatsächlich heißes Wasser in ausreichender Menge fördern können. Das GFZ nutzt seit 25 Jahren die Forschungsplattform Groß Schönebeck als Feldlabor, um genau diese Unsicherheiten durch innovative Methoden und ein tieferes Verständnis des Untergrunds zu reduzieren.</p>\n<strong>Fündigkeitsrisiko und hohe Investitionskosten</strong>\n<p>Ein besonders innovativer Ansatz zur Kostensenkung ist das Projekt „TRANSGEO“. Hier untersuchen Forschende, ob zehntausende bereits vorhandene, aber stillgelegte Bohrungen der Öl- und Gasindustrie für die Geothermie „recycelt“ werden können. Das spart Zeit und immense Investitionskosten. Zudem zeigt das Beispiel Berlin-Adlershof, wie der Untergrund als saisonaler Speicher dienen kann: Industrielle Überschusswärme aus dem Sommer wird tief im Boden für den kalten Winter zwischengelagert.</p>\n<strong>Innovation: Recycling von Bohrlöchern und Wärmespeicher</strong>\n<p>Die Herausforderung besteht nun darin, die Prozesse im Untergrund optimal mit den Versorgungsnetzen an der Oberfläche zu synchronisieren. Damit der Umstieg gelingt, müssen Wissenschaft und Energieversorger in den kommenden Jahren noch enger zusammenarbeiten.</p>",
+    "date": "2026-06-25T03:30:08.000Z",
+    "url": "https://feedpress.me/link/19604/17367684/forschungsquartett-geothermie",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260616fqgeothermie.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/20260616fqgeothermie.63.mp3",
+    "duration": "14 Min",
     "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-04-waffentechnik-krieg-ist-auch-nicht-mehr-das-was-er-mal-war-dlf-20260604-1300-df90f6f0-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Waffentechnik - Krieg ist auch nicht mehr das, was er mal war",
-    "summary": "Früher haben sich Menschen mit Steinen und Schwertern bekriegt, später kamen Bomben und Panzer. Die Kriege von heute werden mit billigen Drohnen geführt. Neue Waffen verändern jeden Krieg – und meistens werfen sie ethische Fragen auf.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:30) Töten per Joystick in Afghanistan und Billig-Drohnen in der Ukraine<br>(05:50) Langsame Waffenentwicklung vor dem 19. Jahrhundert<br>(11:30) Industrialisierung im Deutsch-Französischen Krieg 1870/71<br>(14:00) 1915: Im Ersten Weltkrieg wird Giftgas eingesetzt<br>(19:00) Die Idee der „Hightech-Kriege“ nach 1945 <br>(23:15) Ethische Folgen der KI-Entwicklung: Wer entscheidet im Krieg?<br>(32:30) Hybride Kriegsführung<br>(39:00) Die Technologie-Sprünge werden schneller<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li>Der Historiker <strong>Sönke Neitzel</strong> hat an der Universität Potsdam den Lehrstuhl für Militärgeschichte und die Kulturgeschichte der Gewalt inne. Es ist die einzige Professur für Militärgeschichte in Deutschland.</li></ul><br><ul><li><strong>Herfried Münkler</strong> ist Politikwissenschaftler. Bis zu seiner Emeritierung 2018 lehrte er an der Humboldt-Universität in Berlin. Zahlreiche Veröffentlichungen zur Weltordnung, Kriegs- und Ideengeschichte.</li></ul> <br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Anja Reinhardt und Robert Hauspurg<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/atombombe-hiroshima-abschreckung-kalter-krieg-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Atombombe</li><li><a href=\"https://www.deutschlandfunk.de/reparationen-ukrainekrieg-russland-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Reparationen</li><li><a href=\"https://www.deutschlandfunk.de/wehrpflicht-warum-die-deutschen-sich-schwertun-mit-buergern-als-soldaten-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Wehrpflicht</li><li><a href=\"https://www.deutschlandfunk.de/usa-trump-militaer-krieg-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über die Militärmacht der USA </li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/ypern-1915\" rel=\"noopener\" target=\"_blank\">Deutsches Historisches Museum</a> über die Schlacht bei Ypern 1915 und den ersten Einsatz von Giftgas</li><li><a href=\"https://www.bpb.de/themen/europa/ukraine-analysen/nr-321/573073/analyse-drohnenkrieg-in-der-ukraine-das-zusammenspiel-von-high-und-low-tech/\" rel=\"noopener\" target=\"_blank\">Analyse der Bundeszentrale für politische Bildung</a> über Drohnenkrieg und -produktion in der Ukraine</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen:</a> Jeden Samstag eine neue Folge mit dem deutsch-amerikanischen Historiker Volker Depkat<br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-04T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/krieg-waffentechnik-drohnen-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/4b/9a/57/2b/4b9a572b-13bb-4f4c-8fc4-8d04ed3a0f0c/drohnen-urkaine-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/04/waffentechnik_krieg_ist_auch_nicht_mehr_das_was_er_mal_war_dlf_20260604_1300_df90f6f0.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "44 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
+      "wissenschaft",
+      "forschung",
       "bildung",
-      "deutschlandfunk"
+      "gesellschaft"
     ],
     "category": [
-      "Geschichte",
-      "Gesellschaft",
+      "Politik",
       "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-02-und-irgendwann-zuckte-noch-ein-ohr-vom-hin-und-wegschauen-im-dlf-20260602-1915-8650de7b-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3960680",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Und irgendwann zuckte noch ein Ohr - Vom Hin- und Wegschauen im Tierschutz",
-    "summary": "In einem bayerischen Dorf verenden vernachlässigte Rinder nicht im Verborgenen, hinter Stallmauern, sondern auf der Weide. Jeder kann das Leid der Tiere sehen. Auch die zuständigen Behörden, die über viele Jahre Hinweise aus der Bevölkerung erhalten. Von Rosie Füglein www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-02T06:11:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/und-irgendwann-zuckte-noch-ein-ohr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/17/91/34/b3/179134b3-a093-43d2-8eea-bb24d98cc5bd/bild-fuer-feature-und-irgendwann-zuckte-noch-ein-ohr-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/02/und_irgendwann_zuckte_noch_ein_ohr_vom_hin_und_wegschauen_im_dlf_20260602_1915_8650de7b.mp3?refId=das-feature-104",
-    "duration": "52 Min",
+    "title": "Warum sind manche stressanfälliger als andere?",
+    "summary": "Die Biologie des Stress\n<p>Wenn Stress entsteht, läuft im Körper ein fein abgestimmtes biologisches Programm ab. Zunächst aktiviert sich innerhalb von Sekunden das sympathische Nervensystem. Adrenalin und Noradrenalin werden ausgeschüttet: Herzschlag und Blutdruck steigen, Energie wird mobilisiert. Kurz darauf folgt die sogenannte HPA-Achse, die über Cortisol wirkt — ein Hormon, das längerfristige Anpassungen steuert. Es beeinflusst unter anderem Immunsystem, Gedächtnis und Stoffwechsel.</p>\n<p>Problematisch wird es, wenn diese Systeme dauerhaft aktiv bleiben. Denn dann kann Stress zu Schlafproblemen, Verdauungsbeschwerden, erhöhter Infektanfälligkeit oder psychischen Symptomen führen; Depressionen oder Angststörungen können die Folge sein. Allerdings spielt Stress auch bei vielen anderen Krankheiten eine Rolle, etwa bei Diabetes, Bluthochdruck oder Adipositas. </p>\nKontrollierbarer vs. unkontrollierbarer Stress\n<p>Zwar wirkt die Stressreaktion als körperliches Notfallprotokoll aus der Steinzeit heute nicht immer adäquat. Denn lebensbedrohliche Gefahren — etwa durch wilde Tiere — erleben wir weit seltener. Trotzdem ist die biologische Stressreaktion für unseren Alltag absolut notwendig.</p>\n<p>Ob Stress uns krank macht, hängt stark davon ab, ob wir eine Situation kontrollieren können. Bei planbaren Belastungen kann Stress sogar leistungsfördernd wirken, denn er ermöglicht eine erhöhte Konzentration. Chronischer, unkontrollierbarer Stress hat hingegen schnell negative Folgen. Das lässt sich auch im Rückblick auf die Corona-Pandemie gut nachvollziehen: Global kämpften die Menschen mit unerwartetem und anhaltendem Stress — die Folge: deutlich mehr Fälle von Angststörungen und Depressionen. Als die Situation durch Masken und Impfstoffe kontrollierbarer wurde, flachte auch die Erkrankungsrate wieder ab.</p>\nWer ist stressanfällig?\n<p>Mathias Schmidt vom Max-Planck-Institut für Psychiatrie in München weiß, dass nicht jeder Mensch gleich auf Stress reagiert. Mit seinem Team untersucht er, welche genetischen Varianten zu einem sogenannten polygenen Risiko führen. Besonders spannend ist dabei ein Protein, das in Schmidts Forschung eine zentrale Rolle spielt: FKBP51. Es beeinflusst, wie empfindlich Zellen auf das Stresshormon Cortisol reagieren. Veränderungen in diesem System können dazu beitragen, dass Stress schlechter verarbeitet wird.</p>\n<p>Auch frühkindliche Erfahrungen, insbesondere Traumata, beeinflussen stark, wie gut wir als Erwachsene mit Stress umgehen können. Aber auch Umweltbedingungen, soziale Beziehungen und der Lebensstil haben Auswirkungen darauf, wie schnell uns Stress krank macht.</p>\n<p>Genau hier setzt Schmidts Stressforschung an: Ziel ist es, künftig besser vorherzusagen, wer besonders stressgefährdet ist. Statt „One-size-fits-all“-Therapien könnten künftig gezielt passende Medikamente für bestimmte Stress- und Depressionsprofile eingesetzt werden.</p>\n<p>In dieser Folge „Ach, Mensch!“ spricht <em>detektor.fm</em>-Moderatorin Jessica Hughes mit<strong> Dr. Mathias Schmidt</strong> über seine neuesten Forschungserkenntnisse und wie Behandlungen in Zukunft individueller gestaltet werden könnten.</p>",
+    "date": "2026-06-24T03:00:13.000Z",
+    "url": "https://feedpress.me/link/19604/17366362/ach-mensch-mathias-schmidt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260624-01achmenschstressresilienz-mathiasschmidt.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260624-01achmenschstressresilienz-mathiasschmidt.63.mp3",
+    "duration": "43 Min",
     "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-29-ironwoman-mit-62-schwimmen-radfahren-laufen-leiden-dlf-20260529-2005-76eac3fa-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ironwoman mit 62 - Schwimmen, Radfahren, Laufen, Leiden",
-    "summary": "Ihr Mann nennt sie „die Maschine“: Die 62-jährige Anke Korn trainiert für den Ironman, einen der härtesten Triathlons der Welt. Bis zu 20 Stunden pro Woche, trotz Vollzeitjob. Was treibt sie an – und wie lange kann sie noch so weitermachen? Von Jessica Braun www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-29T18:05:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/ironwoman-mit-62-100.html",
-    "image": "https://bilder.deutschlandfunk.de/9e/40/94/56/9e409456-ab6d-4c87-a59c-1e8c7a4b314b/bild-fuer-ironwoman-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/29/ironwoman_mit_62_schwimmen_radfahren_laufen_leiden_dlf_20260529_2005_76eac3fa.mp3?refId=das-feature-104",
-    "duration": "55 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-05-28-zeitzeugen-im-gespraech-jean-claude-juncker-ehem-eu-dlf-20260528-1915-e6d05a43-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Jean-Claude Juncker - \"Immer war Krise und immer ist ein Fortschrittsschub gekommen\"",
-    "summary": "Jean-Claude Juncker ist bekannt als humorvoller Optimist und leidenschaftlicher Europäer. Dennoch blickt der frühere EU-Kommissionspräsident auch mit Sorge auf die Zukunft: Der Frieden auf dem Kontinent sei von außen, aber auch von innen bedroht. Küpper, Moritz www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-05-28T17:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/jean-claude-juncker-106.html",
-    "image": "https://bilder.deutschlandfunk.de/34/fe/63/6e/34fe636e-a36f-4eb5-b65c-099440fb15e2/jean-claude-juncker-108-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/28/zeitzeugen_im_gespraech_jean_claude_juncker_ehem_eu_dlf_20260528_1915_e6d05a43.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-05-28-krisen-und-kriege-muessen-wir-jetzt-alle-prepper-werden-dlf-20260528-1300-92f16d22-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kriege und Krisen - Müssen wir jetzt alle Prepper werden?",
-    "summary": "Konserven, Kurbelradio und Trinkwasser: Wer auf Stromausfälle oder Unwetter vorbereitet sein will, sollte einen Vorrat anlegen. Auch von der Möglichkeit eines Krieges sprechen Zivilschützer wieder. Das wurde lange vermieden.<br><br>Diese Folge haben wir beim am 9. Mai 2026 beim ARD Sounds Festival in Nürnberg aufgezeichnet. <br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(03:55) Katastrophenforschung hat wieder Konjunktur<br>(05:52) Wie Prepper denken<br>(12:10) Zivilschutz im Kalten Krieg <br>(15:40) „Jeder hat eine Chance“ – Broschüre in der Bundesrepublik von 1961<br>(20:30) Zivilschutz in der DDR<br>(25:00) Natursehnsucht der Prepper<br>(29:00) Nach 1990 war Katastrophenschutz aus der Mode<br>(33:00) Vorbereitet für den „Tag X“? <br>(39:40) Bedrohungen durch hybride Kriegsführung<br>(42:10) Wie viel Krisenvorsorge ist ratsam? <br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Gabriela Keller </strong>hat sich als Journalistin intensiv mit der Prepper-Szene beschäftigt. Sie ist die Autorin von „Bereit für den Untergang: Prepper“ (Das Neue Berlin, 2021).</li></ul><br><ul><li><strong>Martin Voß </strong>ist Professor für Krisen- und Katastrophenforschung an der Freien Universität Berlin und leitet dort die Katastrophenforschungsstelle.</li></ul> <br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler<br>Regie und Produktion: Carina Schroeder<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/wehrpflicht-warum-die-deutschen-sich-schwertun-mit-buergern-als-soldaten-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Wehrpflicht</li><li><a href=\"https://www.deutschlandfunk.de/reichsbuerger-geschichte-deutschland-demokratie-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Reichsbürger</li><li><a href=\"https://www.deutschlandfunk.de/der-neue-westen-2-wird-russland-uns-angreifen-100.html\" rel=\"noopener\" target=\"_blank\">Der neue Westen:</a> Wird Russland uns angreifen?</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Ratgeber-Checkliste/ratgeber-checkliste_node.html\" rel=\"noopener\" target=\"_blank\">Aktueller Ratgeber</a> des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBK) </li><li>BBK-<a href=\"https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Festschrift_BBK-50_PDF.pdf?__blob=publicationFile&v=2\" rel=\"noopener\" target=\"_blank\">Broschüre</a> zur Geschichte des Zivilschutzes in der Bundesrepublik</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/feuchtwanger-erfolg?cp=drig\" rel=\"noopener\" target=\"_blank\">Lion Feuchtwangers Zeitroman \"Erfolg\"</a> als achtteiliges Hörbuch in ARD Sounds<br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-05-28T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/preppen-kriege-krisen-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/a7/cd/ff/56/a7cdff56-c9cd-4f96-abca-f81e5b2c141b/prepper-schrank-lebensmittel-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/28/krisen_und_kriege_muessen_wir_jetzt_alle_prepper_werden_dlf_20260528_1300_92f16d22.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "48 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
+      "wissenschaft",
+      "forschung",
       "bildung",
-      "deutschlandfunk"
+      "gesellschaft"
     ],
     "category": [
-      "Geschichte",
-      "Gesellschaft",
+      "Politik",
       "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-26-verlorene-freiheit-afghaninnen-unter-der-taliban-herrschaft-dlf-20260526-1915-35621f95-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3985526",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Verlorene Freiheit - Afghaninnen unter der Taliban-Herrschaft",
-    "summary": "Zahra studiert, macht Kampfsport und finanziert ihre Familie mit. Dann ergreifen die Taliban die Macht. Von dem, was einmal ihr Leben war, ist heute nichts mehr übrig. Ein Feature über den Kampf afghanischer Frauen, nicht zu verschwinden. Von Vanessa Schlesier www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-26T07:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/feature-verlorene-freiheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/a4/08/52/22/a4085222-044e-4c2d-8862-08be05619bc3/bild-verlorene-freiheit-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/26/verlorene_freiheit_afghaninnen_unter_der_taliban_herrschaft_dlf_20260526_1915_35621f95.mp3?refId=das-feature-104",
-    "duration": "41 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-05-21-faszination-weltraum-der-mond-und-die-menschen-dlf-20260521-1300-5ae1f2b2-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Faszination Weltraum - Der Mond und die Menschen",
-    "summary": "Ein neuer Wettlauf zum Mond hat begonnen: Vier Astronauten haben ihn gerade umrundet, ein Deutscher könnte bald auf dem Erdtrabanten landen, und die Chinesen wollen auch hin. Die Mond-Sehnsucht der Menschen ist uralt – viel älter als die Raumfahrt.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:05) Das Geheimnis der „Himmelsscheibe von Nebra“<br>(14:13) Mond, Macht und Kalender-Wissen in der Bronze-Zeit<br>(18:30) Frühe Mondreisefantasien ab dem 17. Jahrhundert<br>(23:24) Astrokultur: Wie sich Menschen den Weltraum vorstellen<br>(30:44) Das „Space-Race“ im 20. Jahrhundert <br>(34:50) Weltraum-Ermüdung nach der ersten Mondlandung<br>(39:55) Uralte Zukunftsvision: eine Mondbasis<br><br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li><strong>Harald Meller</strong> ist Direktor des Landesmuseums für Vorgeschichte in Halle und Landesarchäologe in Sachsen-Anhalt. Er erforscht die Himmelsscheibe von Nebra, die 1999 in Sachsen-Anhalt gefunden wurde.</li></ul> <br><ul><li>Der Historiker <strong>Alexander Geppert </strong>forscht unter anderem zu Astrokultur. Er ist Professor an der New York University in den USA; zurzeit ist er Gastwissenschaftler am Hanse-Wissenschaftskolleg in Delmenhorst.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Matthieu Praun und Tim Baumann<br>Faktencheck: Kathrin Krautwasser und Florian Twente<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/tick-tack-wie-die-erfindung-der-zeit-die-welt-veraenderte-dlf-ea96cdef-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Kalender, Uhren und die Erfindung der Zeit</li><li><a href=\"https://www.deutschlandfunk.de/raumfahrt-geschichte-mondlandung-politik-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Macht und Politik in der Raumfahrt</li><li><a href=\"https://www.deutschlandfunk.de/trump-usa-expansion-imperialismus-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über Donald Trumps Expansionslust und die \"neue Frontier\"</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Informationen zur <a href=\"https://www.himmelsscheibe-erleben.de/arche-nebra/himmelsscheibe-von-nebra\" rel=\"noopener\" target=\"_blank\">Himmelsscheibe von Nebra</a></li><li>Artikel von Alexander Geppert in <a href=\"https://www.bpb.de/shop/zeitschriften/apuz/293686/phantasie-projekt-produkt/\" rel=\"noopener\" target=\"_blank\">Aus Politik und Zeitgeschichte</a> über Astrokultur</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/alles-geschichte-der-verbotene-vater\" rel=\"noopener\" target=\"_blank\">Der verbotene Vater</a>: Alles Geschichte - Der History-Podcast<br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-05-21T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/geschichte-mond-sehnsuchtsort-raumfahrt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/76/07/41/3a/7607413a-3481-4581-ac55-8fba778a127e/faszination-mond-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/21/faszination_weltraum_der_mond_und_die_menschen_dlf_20260521_1300_5ae1f2b2.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "46 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-19-schoene-neue-welt-von-peter-thiel-zur-ki-revolution-dlf-20260519-1915-1d24ff0a-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schöne Neue Welt - Von Peter Thiel zur KI-Revolution",
-    "summary": "Peter Thiel gibt keine Ruhe. In geheimnisumwitterten „Antichrist-Vorlesungen“ schart er Jünger auf der ganzen Welt um sich. Er investiert verstärkt in Militärtechnik, kämpft gegen die Besteuerung von Superreichen und pflegt sein politisches Netzwerk. Von Fritz Espenlaub, Jasmin Körber, Christian Schiffer und Klaus Uhrig www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-19T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/schoene-neue-welt-von-peter-thiel-zur-ki-revolution-100.html",
-    "image": "https://bilder.deutschlandfunk.de/77/00/fa/84/7700fa84-53c9-4347-8a93-a72694bbc43f/auf-dem-ard-sounds-festival-peter-thiel-story-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/19/schoene_neue_welt_von_peter_thiel_zur_ki_revolution_dlf_20260519_1915_1d24ff0a.mp3?refId=das-feature-104",
-    "duration": "44 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-23-eingraviert-christin-ihr-tattoostudio-und-der-krebs-drk-20260523-1805-2daab803-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Eingraviert - Christin, ihr Tattoostudio und der Krebs",
-    "summary": "In Christins Tattoostudio werden Lebens-, Leidens- und Verlustgeschichten auf die Haut graviert. Die Chefin bietet allen einen sicheren Ort. Doch als der Krebs kommt, braucht Christin selbst Hilfe. Von Gülseren Sengezer www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-19T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/feature-eingraviert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/68/bc/c8/48/68bcc848-38b1-4904-86ce-0cfe865c3184/eingraviert-tattoo-feature-bild-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/23/eingraviert_christin_ihr_tattoostudio_und_der_krebs_drk_20260523_1805_2daab803.mp3?refId=das-feature-104",
-    "duration": "54 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2025-11-27-dorothee-holz-im-gespraech-mit-dem-ehem-ministerpraes-des-dlf-20251127-1915-30755871-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ex-Verfassungsrichter Peter Müller - \"Ein Verbotsverfahren würde keinen AfD-Wähler zurückgewinnen\"",
-    "summary": "Peter Müller (CDU) macht sich Sorgen um die Akzeptanz von Rechtsstaat und Demokratie: \"Das Fundament ist aus dem Blick geraten.\" Außerdem erklärt der Ex-Verfassungsrichter, warum er gegen ein AfD-Verbotsverfahren ist. (Erstsendung am 27.11.25) Holz, Dorothee www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-04-25T09:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/dorothee-holz-im-gespraech-mit-dem-ehem-ministerpraes-des-saarlands-peter-mueller-100.html",
-    "image": "https://bilder.deutschlandfunk.de/d2/3b/97/07/d23b9707-5f75-410f-b2cb-f4b5a1ec0d56/peter-mueller-cdu-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/11/27/dorothee_holz_im_gespraech_mit_dem_ehem_ministerpraes_des_dlf_20251127_1915_30755871.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-03-26-zeitzeugen-im-gespraech-der-fotograf-thomas-struth-dlf-20260326-1915-3ef53cbd-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fotograf Thomas Struth - \"Ich empfinde mich nicht als Chronist\"",
-    "summary": "Seit mehr als 40 Jahren dokumentiert der Fotograf Thomas Struth die Welt um sich - von Straßenzügen, Architektur bis zu Familienporträts. Bei seiner Motivwahl interessiert ihn das Verhältnis zwischen Individuum, Gesellschaft und dem Unbewussten. Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-03-26T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-fotograf-thomas-struth-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_0/5a/FILE_05a0ba12a187a952b23a1f5a07672ef2/zeitzeugen-im-gespraech-108-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/03/26/zeitzeugen_im_gespraech_der_fotograf_thomas_struth_dlf_20260326_1915_3ef53cbd.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-02-26-zeitzeugen-im-gespraech-die-ehem-oesterr-aussenministerin-dlf-20260226-1915-9d97f9bf-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Benita Ferrero-Waldner - \"Ich hatte Angst, dass die Österreicher das nicht hinnehmen\"",
-    "summary": "Benita Ferrero-Waldner war Außenministerin in schwierigen Zeiten: Als ihre ÖVP 2000 eine Koalition mit der rechtspopulistischen FPÖ einging, ging die EU auf Distanz zum Mitgliedstaat Österreich - harte Lehrjahre für die leidenschaftliche Diplomatin. Michaelsen, Katrin www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-02-26T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-die-ehem-oesterr-aussenministerin-benita-ferrero-waldner-100.html",
-    "image": "https://bilder.deutschlandfunk.de/f2/b2/8c/36/f2b28c36-4918-43f6-89dd-68a008348df2/benita-ferrero-waldner-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/02/26/zeitzeugen_im_gespraech_die_ehem_oesterr_aussenministerin_dlf_20260226_1915_9d97f9bf.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-01-29-zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-dlf-20260129-1915-5f1a0c37-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ulrich Schneider - \"Wir waren nicht arm, aber wir waren deklassiert\"",
-    "summary": "Sein Ruf als \"bekanntester Soziallobbyist der Republik\" eilt Ulrich Schneider voraus. 25 Jahre war er beim Paritätischen Wohlfahrtsverband. Aus einfachen Verhältnissen stammend empören ihn bis heute soziale Ungerechtigkeit und knausrige Sozialpolitik. Becker, Birgid www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-01-29T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-gesamtverband-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b9/7b/ea/b0/b97beab0-7fe9-45c9-88fb-a6de401f7e4b/ulrich-schneider-ehemaliger-hauptgeschaeftsfuhrer-paritaetischer-wohlfahrtsverband-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/01/29/zeitzeugen_im_gespraech_ulrich_schneider_ehem_paritaetischer_dlf_20260129_1915_5f1a0c37.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2025-01-25-zeitzeugen-im-gespraech-der-kuenstler-klaus-staeck-dlf-20250125-1105-dda5d45f-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Klaus Staeck - \"Die Satire lebt mit dem Zweifel\"",
-    "summary": "Die Kunst- und Meinungsfreiheit zu verteidigen, war immer das Anliegen des Künstlers Klaus Staeck. Mit satirischen Plakaten wettert er gegen Politik und Wirtschaft. Das hat ihm nicht nur viele Schlagzeilen, sondern auch einige Prozesse eingebracht. (Erstsendung 25.1.15) Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2025-12-25T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-kuenstler-klaus-staeck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b7/c6/df/be/b7c6dfbe-4d8a-4d93-9c4d-0043f0d50626/klaus-staeck-104-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/01/25/zeitzeugen_im_gespraech_der_kuenstler_klaus_staeck_dlf_20250125_1105_dda5d45f.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-130-liter:https-podcast-mp3-dradio-de-podcast-2024-07-04-130-liter-66-wenn-das-trinkwasser-nicht-mehr-fuer-alle-dlf-20240704-1714-236047e2-mp3-refid-130-liter-streit-um-unser-trinkwasser-100",
-    "source": "dlf-130-liter",
-    "sourceTitle": "130 Liter – Streit um unser Trinkwasser",
-    "type": "rss",
-    "title": "Verteilungskampf - Wenn das Trinkwasser nicht mehr für alle reicht",
-    "summary": "Das Wasser wird knapp – auch in Berlin und Brandenburg. Mancherorts sind neue Bauprojekte nicht mehr möglich. Der Klimawandel und das Ende des Braunkohleabbaus werden zu noch mehr Trockenheit führen. Ist Wasser aus Elbe oder Ostsee eine Lösung? Roon, Anastasija; Jeske, Ann-Kathrin; Moritz, Alexander; Silke, Hasselmann",
-    "date": "2024-07-11T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/130-liter-6-6-wenn-das-trinkwasser-nicht-mehr-fuer-alle-reicht-dlf-236047e2-100.html",
-    "image": "https://bilder.deutschlandfunk.de/48/af/fb/72/48affb72-392e-4ef0-ae50-c7ae21348e52/130-liter-episode6-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2024/07/04/130_liter_66_wenn_das_trinkwasser_nicht_mehr_fuer_alle_dlf_20240704_1714_236047e2.mp3?refId=130-liter-streit-um-unser-trinkwasser-100",
-    "duration": "38 Min",
-    "tags": [
-      "wasser",
-      "trinkwasser",
-      "umwelt",
-      "klima",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Umwelt",
-      "Wissenschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-130-liter:https-podcast-mp3-dradio-de-podcast-2024-07-04-130-liter-56-wie-ein-landwirt-nitrat-im-wasser-bekaempft-dlf-20240704-1710-cf4614c4-mp3-refid-130-liter-streit-um-unser-trinkwasser-100",
-    "source": "dlf-130-liter",
-    "sourceTitle": "130 Liter – Streit um unser Trinkwasser",
-    "type": "rss",
-    "title": "Grundwasserschutz - Wie ein Landwirt Nitrat im Wasser bekämpft",
-    "summary": "Die Gülle aus Schweineställen belastet das Grundwasser mit Nitrat und gefährdet unsere Gesundheit. Schärfere Gesetze lindern das Problem, aber gelöst ist es auch nach Jahrzehnten nicht. Ein Landwirt aus Niedersachsen zeigt, wie es anders geht. Roon, Anastasija; Brandau, Bastian",
-    "date": "2024-07-11T13:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/130-liter-5-6-wie-ein-landwirt-nitrat-im-wasser-bekaempft-dlf-cf4614c4-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ba/be/d3/d8/babed3d8-d684-4f7c-b0f8-f4b7bf36d3e0/130-liter-episode5-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2024/07/04/130_liter_56_wie_ein_landwirt_nitrat_im_wasser_bekaempft_dlf_20240704_1710_cf4614c4.mp3?refId=130-liter-streit-um-unser-trinkwasser-100",
+    "title": "Auf den Spuren der fahrradgerechten Stadt",
+    "summary": "Verkehrssektor als Sorgenkind der Klimapolitik\n\nDer Verkehrs- ist neben dem Gebäudesektor das Sorgenkind der deutschen Klimapolitik: Der CO2-Ausstoß im Verkehrssektor liegt bei rund 146 Millionen Tonnen CO2 pro Jahr. Seit den 1990er-Jahren stagniert dieser Wert, obwohl die Fahrzeuge in den vergangenen Jahrzehnten emissionsärmer geworden sind. Der Grund: mehr Verkehr — technische Fortschritte werden durch stetig wachsende Verkehrsleistungen fast vollständig aufgezehrt. Das ist mit Blick auf ambitionierte Klimaziele ein Problem. Die Lösung dafür liegt in der Verkehrswende. Der Journalist Ingwar Perowanowitsch macht mit seiner Arbeit sichtbar, wie die Verkehrswende in der Praxis aussehen kann.\n\nMit dem Fahrrad der Verkehrswende auf der Spur\nIngwar Perowanowitsch ist für seinen Film „Cycling Cities“ mit dem Fahrrad durch Europa gefahren: Von Freiburg über Paris, Utrecht, Amsterdam bis nach Kopenhagen hat er sich Beispiele für eine gelungene Verkehrswende angesehen. Als Positivbeispiel gilt dabei Paris: Die Hauptstadt Frankreichs hat in den vergangenen Jahren geschafft, was in Berlin in weiter Ferne scheint: Das Auto wurde zurückgedrängt, um Platz für andere Verkehrsformen zu machen. Davon profitieren die Bewohnerinnen und Bewohner der Stadt, denn die Luftqualität in Paris hat sich deutlich verbessert. Während 2019 noch 400.000 Menschen im Großraum Paris einer über den Grenzwerten liegenden Belastung von Stickstoffdioxid ausgesetzt waren, sank die Zahl bis 2023 auf 5.000. Paris hat dafür massiv Parkplätze abgebaut und die Flächen „in Parks und Plätze umgewandelt“, wie Perowanowitsch erzählt. Ähnlich sei es auch in den anderen Städten gewesen, die er besucht hat.\n\nWas die „Cycling Cities“ sonst noch gemein haben, das verrät Journalist <strong>Ingwar Perowanowitsch</strong> im Interview mit <em>detektor.fm-</em>Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“.",
+    "date": "2026-06-23T03:30:02.000Z",
+    "url": "https://feedpress.me/link/19604/17365706/mission-energiewende-verkehrswende",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260623missionenergiewendecyclingcities.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260623missionenergiewendecyclingcities.63.mp3",
     "duration": "32 Min",
     "tags": [
-      "wasser",
-      "trinkwasser",
-      "umwelt",
-      "klima",
-      "gesellschaft",
-      "deutschlandfunk"
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
     ],
     "category": [
-      "Umwelt",
-      "Wissenschaft"
+      "Politik",
+      "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-130-liter:https-podcast-mp3-dradio-de-podcast-2024-07-04-130-liter-46-wie-intel-mit-wasser-versorgt-werden-soll-dlf-20240704-1702-7340224b-mp3-refid-130-liter-streit-um-unser-trinkwasser-100",
-    "source": "dlf-130-liter",
-    "sourceTitle": "130 Liter – Streit um unser Trinkwasser",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3979195",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Chipindustrie - Wie Intel mit Wasser versorgt werden soll",
-    "summary": "Intel will in Magdeburg die größte Chipfabrik Europas bauen. Um das Unternehmen mit genügend Wasser zu versorgen, gibt es einen Plan – doch der gefällt nicht jedem. Droht ein Streit ums Wasser ähnlich wie bei Tesla in Brandenburg? Roon, Anastasija; Ottersbach, Niklas",
-    "date": "2024-07-11T13:04:00.000Z",
-    "url": "https://www.deutschlandfunk.de/130-liter-4-6-wie-intel-mit-wasser-versorgt-werden-soll-dlf-7340224b-100.html",
-    "image": "https://bilder.deutschlandfunk.de/a1/71/eb/81/a171eb81-ed08-416a-a278-8c928a916506/130-liter-episode4-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2024/07/04/130_liter_46_wie_intel_mit_wasser_versorgt_werden_soll_dlf_20240704_1702_7340224b.mp3?refId=130-liter-streit-um-unser-trinkwasser-100",
-    "duration": "34 Min",
-    "tags": [
-      "wasser",
-      "trinkwasser",
-      "umwelt",
-      "klima",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Umwelt",
-      "Wissenschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-130-liter:https-podcast-mp3-dradio-de-podcast-2024-07-04-130-liter-36-welche-folgen-der-privatisierungshype-hat-dlf-20240704-1656-0d639eed-mp3-refid-130-liter-streit-um-unser-trinkwasser-100",
-    "source": "dlf-130-liter",
-    "sourceTitle": "130 Liter – Streit um unser Trinkwasser",
-    "type": "rss",
-    "title": "Wasserpreise - Welche Folgen der Privatisierungshype hat",
-    "summary": "Stuttgart hat seine Wasserversorgung vor Jahrzehnten versilbert. Mit Folgen für die Bürgerschaft, denn die Aktiengesellschaft will natürlich Gewinn erwirtschaften. Eine Stuttgarterin kämpft seit langem dafür, den Verkauf rückgängig zu machen. Roon, Anastasija; Thoms, Katharina",
-    "date": "2024-07-11T13:03:00.000Z",
-    "url": "https://www.deutschlandfunk.de/130-liter-3-6-welche-folgen-der-privatisierungshype-hat-dlf-0d639eed-100.html",
-    "image": "https://bilder.deutschlandfunk.de/fa/9b/2c/36/fa9b2c36-6c4d-400d-b6f8-43e8c428dd03/130-liter-episode3-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2024/07/04/130_liter_36_welche_folgen_der_privatisierungshype_hat_dlf_20240704_1656_0d639eed.mp3?refId=130-liter-streit-um-unser-trinkwasser-100",
-    "duration": "29 Min",
-    "tags": [
-      "wasser",
-      "trinkwasser",
-      "umwelt",
-      "klima",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Umwelt",
-      "Wissenschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-130-liter:https-podcast-mp3-dradio-de-podcast-2024-07-11-130-liter-26-wie-chemikalien-wasser-fuer-immer-verschmutzen-dlf-20240711-1502-473e17ff-mp3-refid-130-liter-streit-um-unser-trinkwasser-100",
-    "source": "dlf-130-liter",
-    "sourceTitle": "130 Liter – Streit um unser Trinkwasser",
-    "type": "rss",
-    "title": "PFAS im Rhein - Wie Chemikalien Wasser für immer verschmutzen",
-    "summary": "PFAS stecken in Zahnseide, der Bratpfanne, in Verpackungen – in Deutschland produziert, verschmutzen sie den Rhein. Die EU diskutiert über ein Verbot dieser teils gefährlichen Chemikalien, denn aus dem Rhein beziehen die Niederlande ihr Trinkwasser. Roon, Anastasija; Boeselager, Felicitas",
-    "date": "2024-07-11T13:02:00.000Z",
-    "url": "https://www.deutschlandfunk.de/130-liter-2-6-wie-chemikalien-wasser-fuer-immer-verschmutzen-dlf-473e17ff-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b9/f7/ef/16/b9f7ef16-9c2e-48cb-8e4a-4f90400ed6a9/130-liter-episode2-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2024/07/11/130_liter_26_wie_chemikalien_wasser_fuer_immer_verschmutzen_dlf_20240711_1502_473e17ff.mp3?refId=130-liter-streit-um-unser-trinkwasser-100",
-    "duration": "33 Min",
-    "tags": [
-      "wasser",
-      "trinkwasser",
-      "umwelt",
-      "klima",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Umwelt",
-      "Wissenschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-130-liter:https-podcast-mp3-dradio-de-podcast-2024-07-04-130-liter-16-wenn-das-wasser-fuers-bier-knapp-wird-dlf-20240704-1653-966824ab-mp3-refid-130-liter-streit-um-unser-trinkwasser-100",
-    "source": "dlf-130-liter",
-    "sourceTitle": "130 Liter – Streit um unser Trinkwasser",
-    "type": "rss",
-    "title": "Getränkehersteller - Wenn das Wasser fürs Bier knapp wird",
-    "summary": "Das Geschäft mit Tiefengrundwasser ist lukrativ – vor allem in Bayern. Denn der Freistaat verzichtet bislang auf den Wassercent. Die Richtlinien zum Schutz von Wasser werden aber strenger. Ist Bier gebraut mit Wasser aus der Tiefe noch zeitgemäß? Roon, Anastasija; Watzke, Michael",
-    "date": "2024-07-11T13:01:00.000Z",
-    "url": "https://www.deutschlandfunk.de/130-liter-1-6-wenn-das-wasser-fuers-bier-knapp-wird-dlf-966824ab-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ab/1f/35/73/ab1f3573-0cd6-4fc1-b856-754480f57378/130-liter-episode1-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2024/07/04/130_liter_16_wenn_das_wasser_fuers_bier_knapp_wird_dlf_20240704_1653_966824ab.mp3?refId=130-liter-streit-um-unser-trinkwasser-100",
-    "duration": "36 Min",
-    "tags": [
-      "wasser",
-      "trinkwasser",
-      "umwelt",
-      "klima",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Umwelt",
-      "Wissenschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-130-liter:https-podcast-mp3-dradio-de-podcast-2024-06-19-130-liter-trailer-ab-12-juli-final-dlf-20240619-1640-2b3dc8e9-mp3-refid-130-liter-streit-um-unser-trinkwasser-100",
-    "source": "dlf-130-liter",
-    "sourceTitle": "130 Liter – Streit um unser Trinkwasser",
-    "type": "rss",
-    "title": "Trailer - 130 Liter – Streit um unser Trinkwasser",
-    "summary": "130 Liter – so viel Trinkwasser verbrauchen wir im Durchschnitt täglich. Dass es nicht mehr für alle reichen wird, können wir uns in Deutschland kaum vorstellen. Doch der Streit um die wertvolle Ressource Wasser hat längst begonnen. Wir zeigen wo. Roon, Anastasija",
-    "date": "2024-06-19T14:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/130-liter-trailer-ab-12-juli-final-dlf-2b3dc8e9-100.html",
-    "image": "https://bilder.deutschlandfunk.de/28/83/8b/dd/28838bdd-69d3-40ab-b600-b80471df395d/130-liter-trailerbild-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2024/06/19/130_liter_trailer_ab_12_juli_final_dlf_20240619_1640_2b3dc8e9.mp3?refId=130-liter-streit-um-unser-trinkwasser-100",
-    "duration": "2 Min",
-    "tags": [
-      "wasser",
-      "trinkwasser",
-      "umwelt",
-      "klima",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Umwelt",
-      "Wissenschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-auf-heimatsuche:https-podcast-mp3-dradio-de-podcast-2021-09-01-auf-heimatsuche-folge-1-stadtpflanzen-landeier-dlf-20210901-0001-8ab25162-mp3-refid-podcast-auf-heimatsuche-100",
-    "source": "dlf-auf-heimatsuche",
-    "sourceTitle": "Auf Heimatsuche – Deutschlandfunk",
-    "type": "rss",
-    "title": "Auf Heimatsuche - Folge 1: Stadtpflanzen & Landeier - Heimatsuche hinterm Deich",
-    "summary": "Auf dem Land zu leben, kann sich Podcast-Host und Großstadtkind Anh nur schwer vorstellen. Doch der Trend, dass vor allem junge Familien aufs Land oder zumindest in die Kleinstadt ziehen, ist unübersehbar. Was also hat das Land, das die Stadt nicht hat? Und lässt sich hier besser eine Heimat finden? Dafür trifft Anh die Freunde Djure und Frank aus Norddeutschland. Tran, Anh Hören bis: 19. Januar 2038, 04:14",
-    "date": "2021-08-31T22:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/auf-heimatsuche-folge-1-stadtpflanzen-landeier-heimatsuche-hinterm-deich-dlf-8ab25162-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6e/7d/31/38/6e7d3138-3c9f-4b66-9650-25e5f5298317/podcastlogo-auf-heimatsuche-100-1280x1280.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2021/09/01/auf_heimatsuche_folge_1_stadtpflanzen_landeier_dlf_20210901_0001_8ab25162.mp3?refId=podcast-auf-heimatsuche-100",
+    "title": "Fake Science: Betrug in der Wissenschaft",
+    "summary": "<p>Betrug in der Wissenschaft gefährdet das System als Ganzes: Denn die Forschung gilt als eine der verlässlichsten Quellen für Wissen. Sie lebt von ihrer Glaubwürdigkeit. Wird diese nachhaltig untergraben, hat das weitreichende Folgen.</p>\n<p>Immer mehr Studien sind fehlerhaft, manipuliert oder sogar vollständig gefälscht. Besonders problematisch ist dies, weil künftige Forschung auf bereits veröffentlichten Ergebnissen aufbaut. Werden falsche Daten Teil der wissenschaftlichen Literatur, können sie weitere Studien, medizinische Entwicklungen und politische Entscheidungen beeinflussen.</p>\nBetrug mit System\n<p>Eine zentrale Ursache liegt im Anreizsystem der Wissenschaft: Forschende stehen unter hohem Publikationsdruck, da Karrierechancen, Fördergelder und Reputation stark von Veröffentlichungen und Kennzahlen wie dem Impact Factor oder dem h-Index abhängen.</p>\n<p>Dieses System begünstigt nicht nur fragwürdige Forschungspraktiken, sondern hat auch einen Markt für sogenannte Paper Mills entstehen lassen. Diese Unternehmen produzieren gegen Bezahlung komplette Studien, verkaufen Autorschaften und sorgen dafür, dass gefälschte Forschung in seriösen Fachzeitschriften erscheint.</p>\n<p>Gleichzeitig geraten die etablierten Kontrollmechanismen an ihre Grenzen. Peer Reviews und Qualitätskontrollen der Verlage können die enorme Menge an Veröffentlichungen oft nicht mehr ausreichend prüfen. Hinzu kommen wirtschaftliche Interessen, da Verlage von steigenden Publikationszahlen profitieren. Dadurch gelangen zahlreiche problematische Arbeiten in die wissenschaftliche Literatur.</p>\nKI als Katalysator\n<p>Zusätzlich verschärft künstliche Intelligenz die Situation. KI kann inzwischen täuschend echte wissenschaftliche Bilder, Datensätze und Texte erzeugen, wodurch Fälschungen immer schwieriger zu erkennen sind. Expertinnen und Experten gehen deshalb davon aus, dass die Wissenschaft langfristig nicht nur besser darin werden muss, Betrug aufzudecken, sondern vor allem auch darin, glaubwürdig die Echtheit von Forschungsergebnissen nachzuweisen.</p>\n<p>Als Reaktion darauf hat sich eine internationale Gemeinschaft von sogenannten Science Sleuths gebildet. Fachleute überprüfen veröffentlichte Studien nachträglich auf Bildmanipulationen und Datenfälschungen. Ihre Arbeit deckt regelmäßig gravierende Probleme auf, erfolgt jedoch häufig ehrenamtlich und ist mit erheblichem persönlichem Risiko verbunden. Viele werden Ziel von Drohungen, Verleumdungen oder juristischen Angriffen.</p>\n<p><strong>Florian Sturm</strong> ist freier Journalist und hat sich monatelang mit dem Betrugsproblem in der Forschung auseinandergesetzt. Für <em>Spektrum der Wissenschaft</em> hat er mehrere Artikel dazu veröffentlicht. Das Netzwerk Evidenzbasierte Medizin e. V. zeichnet Florian Sturm für seine Recherchen mit dem Journalistenpreis „Evidenzbasierte Medizin in den Medien“ 2026 aus. Außerdem ist er für den Theodor-Wolf-Preis nominiert. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt er, wie es so weit kommen konnte und welche Auswege es aus der Situation gibt.</p>",
+    "date": "2026-06-19T03:30:51.000Z",
+    "url": "https://feedpress.me/link/19604/17363699/spektrum-podcast-betrug-in-der-wissenschaft",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260619spektrum-podcastwissenschaftsbetrug.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260619spektrum-podcastwissenschaftsbetrug.63.mp3",
     "duration": "30 Min",
     "tags": [
-      "heimat",
-      "identitat",
-      "gesellschaft",
-      "migration",
-      "deutschlandfunk"
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
     ],
     "category": [
-      "Gesellschaft",
-      "Kultur"
+      "Politik",
+      "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-auf-heimatsuche:https-podcast-mp3-dradio-de-podcast-2021-09-01-auf-heimatsuche-folge-2-haesslich-schoene-heimat-dlf-20210901-0002-9dcfc367-mp3-refid-podcast-auf-heimatsuche-100",
-    "source": "dlf-auf-heimatsuche",
-    "sourceTitle": "Auf Heimatsuche – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3989578",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Auf Heimatsuche - Folge 2: Hässlich-schöne Heimat - Lokalpatriotismus in Chemnitz",
-    "summary": "Eine Heimatstadt wie Dresden schön zu finden, ist nicht schwer. Findet jedenfalls Anh, die Macherin dieses Podcasts, die in Dresden geboren ist. Was aber, wenn man in einer Stadt lebt, die vielen als hässlich gilt, wie zum Beispiel Chemnitz? Anh trifft die Chemnitzer Popband „Blond“, die sich sehr für ihre Stadt engagiert. Tran, Anh Hören bis: 19. Januar 2038, 04:14",
-    "date": "2021-08-31T22:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/auf-heimatsuche-folge-2-haesslich-schoene-heimat-lokalpatriotismus-in-chemnitz-dlf-9dcfc367-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6e/7d/31/38/6e7d3138-3c9f-4b66-9650-25e5f5298317/podcastlogo-auf-heimatsuche-100-1280x1280.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2021/09/01/auf_heimatsuche_folge_2_haesslich_schoene_heimat_dlf_20210901_0002_9dcfc367.mp3?refId=podcast-auf-heimatsuche-100",
-    "duration": "32 Min",
-    "tags": [
-      "heimat",
-      "identitat",
-      "gesellschaft",
-      "migration",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-auf-heimatsuche:https-podcast-mp3-dradio-de-podcast-2021-09-01-auf-heimatsuche-folge-3-geteilte-heimat-ost-und-west-dlf-20210901-0003-59c1ab12-mp3-refid-podcast-auf-heimatsuche-100",
-    "source": "dlf-auf-heimatsuche",
-    "sourceTitle": "Auf Heimatsuche – Deutschlandfunk",
-    "type": "rss",
-    "title": "Auf Heimatsuche - Folge 3: Geteilte Heimat - Ost und West",
-    "summary": "Podcasterin Anh ist Jahrgang 1994, also nach der Wende in Dresden geboren – und doch fühlt sie sich als Ossi. Warum ist das so und warum macht sie das wütend? Anh spricht darüber mit Silke und Hans, einem Paar, das die Wendezeit bewusst miterlebt hat – der eine in der DDR, die andere in der Bundesrepublik. Tran, Anh Hören bis: 19. Januar 2038, 04:14",
-    "date": "2021-08-31T22:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/auf-heimatsuche-folge-3-geteilte-heimat-ost-und-west-dlf-59c1ab12-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6e/7d/31/38/6e7d3138-3c9f-4b66-9650-25e5f5298317/podcastlogo-auf-heimatsuche-100-1280x1280.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2021/09/01/auf_heimatsuche_folge_3_geteilte_heimat_ost_und_west_dlf_20210901_0003_59c1ab12.mp3?refId=podcast-auf-heimatsuche-100",
-    "duration": "30 Min",
-    "tags": [
-      "heimat",
-      "identitat",
-      "gesellschaft",
-      "migration",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-auf-heimatsuche:https-podcast-mp3-dradio-de-podcast-2021-09-01-auf-heimatsuche-folge-4-nur-zu-gast-zwei-heimaten-haben-dlf-20210901-0004-e3edc658-mp3-refid-podcast-auf-heimatsuche-100",
-    "source": "dlf-auf-heimatsuche",
-    "sourceTitle": "Auf Heimatsuche – Deutschlandfunk",
-    "type": "rss",
-    "title": "Auf Heimatsuche - Folge 4: Nur zu Gast? Zwei Heimaten haben",
-    "summary": "Um in Deutschland anerkannt zu sein, hat Reporterin Anh ihre vietnamesischen Wurzeln ziemlich verdrängt. Ganz anders ist das bei Manik, ihrer Gesprächspartnerin, die sagt: Ich bin zu hundert Prozent Inderin und zu hundert Prozent Deutsche. Was ist anstrengender: eine Heimat zu unterdrücken oder zwei Heimaten zu haben? Anh spricht mit Manik und deren Mutter Dalli über Migration, Rassismus und Nationalstolz. Tran, Anh Hören bis: 19. Januar 2038, 04:14",
-    "date": "2021-08-31T22:35:00.000Z",
-    "url": "https://www.deutschlandfunk.de/auf-heimatsuche-folge-4-nur-zu-gast-zwei-heimaten-haben-dlf-e3edc658-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6e/7d/31/38/6e7d3138-3c9f-4b66-9650-25e5f5298317/podcastlogo-auf-heimatsuche-100-1280x1280.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2021/09/01/auf_heimatsuche_folge_4_nur_zu_gast_zwei_heimaten_haben_dlf_20210901_0004_e3edc658.mp3?refId=podcast-auf-heimatsuche-100",
+    "title": "Arbeiten für 2 Euro? Die gescheiterte Inklusion",
+    "summary": "<strong>Raúl Krauthausen: Mindestlohn für alle </strong>\n<p>Jede Arbeitnehmerin und jeder Arbeitnehmer in Deutschland hat Anspruch auf Mindestlohn — so steht es im Gesetz. Für rund 300.000 Menschen in Werkstätten für Menschen mit Behinderung gilt das aber nicht. Rechtlich gelten sie als „arbeitnehmerähnlich“. Deshalb arbeiten sie im Schnitt für weniger als zwei Euro pro Stunde.</p>\n<p>Für Inklusionsaktivist Raúl Krauthausen ist das ein unhaltbarer Zustand. Mit seinem Verein Sozialheld*innen setzt er sich dafür ein, dass behinderte Menschen in Werkstätten ein Anrecht auf Mindestlohn haben.</p>\n<p>Gemeinsam mit der Gesellschaft für Freiheitsrechte hat der Verein Sozialheld*innen mit dem Kläger Jürgen Linnemann Verfassungsklage eingereicht. Sie wollen den systematischen Ausschluss vom Mindestlohn kippen und einen Präzedenzfall schaffen. So existiert beispielsweise die Stellung „arbeitnehmerähnlich“ auf EU-Gesetzniveau gar nicht, sagt Krauthausen im Podcast. Allerdings geht er davon aus, dass sich das Gerichtsverfahren noch einige Jahre hinziehen wird.</p>\nWerkstätten für behinderte Menschen: Billige Arbeit, blockierte Inklusion\n<p>Das Problem ist auch ökonomisch tief verwurzelt. Laut Raúl Krauthausen lagern Industriekonzerne Produktionsschritte in Werkstätten aus. Die würden sich wiederum gegenseitig unterbieten, um an Aufträge zu gelangen.</p>\n<p>Die Konsequenz: ein Fehlanreiz. Die Werkstätten hätten demnach wirtschaftlich kaum einen Grund, ihre leistungsstärksten Arbeitskräfte an den allgemeinen Arbeitsmarkt abzugeben. Dabei ist ihr eigentlicher Auftrag, Menschen mit Behinderungen für den allgemeinen Arbeitsmarkt zu befähigen. Die Übergangsquote liegt seit Jahren bei unter einem Prozent.</p>\n<p>Dabei gibt es schon verschiedene Lösungsvorschläge und Instrumente, zum Beispiel das staatlich geförderte „Budget für Arbeit“. Unternehmen bekommen dabei die Lohn- und Assistenzkosten für Menschen mit Behinderung erstattet. Dass viele Arbeitgeberinnen und Arbeitgeber diesen Weg scheuen und lieber die gesetzliche Ausgleichsabgabe zahlen, liegt laut Krauthausen oft an der lähmenden Bürokratie der Ämter. Er fordert deshalb, dass die Abgabe deutlich erhöht wird. So soll für Unternehmen ein echter wirtschaftlicher Anreiz entstehen.</p>\n<p>Wie weit der Weg zum Mindestlohn für alle noch ist und wie der Umbau zu einem inklusiven Arbeitsmarkt gelingen kann, darüber spricht <em>detektor.fm</em>-Moderator Christian Bollert im „brand eins Podcast“ mit Raúl Krauthausen.</p>",
+    "date": "2026-06-19T03:14:06.000Z",
+    "url": "https://feedpress.me/link/19604/17363700/brand-eins-podcast-raul-krauthausen-mindestlohn-werkstaetten",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260619brandeins-podcastraulkrauthausen.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260619brandeins-podcastraulkrauthausen.63.mp3",
     "duration": "26 Min",
     "tags": [
-      "heimat",
-      "identitat",
-      "gesellschaft",
-      "migration",
-      "deutschlandfunk"
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
     ],
     "category": [
-      "Gesellschaft",
-      "Kultur"
+      "Politik",
+      "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-auf-heimatsuche:https-podcast-mp3-dradio-de-podcast-2021-09-01-auf-heimatsuche-folge-5-zwischen-den-stuehlen-deutsch-dlf-20210901-0005-ea5de2ed-mp3-refid-podcast-auf-heimatsuche-100",
-    "source": "dlf-auf-heimatsuche",
-    "sourceTitle": "Auf Heimatsuche – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3988162",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Auf Heimatsuche - Folge 5: Zwischen den Stühlen: Deutsch sein ohne deutschen Pass",
-    "summary": "Zum Deutschsein gehört eigentlich ein deutscher Pass – findet zumindest Podcasterin Anh, die schon längst einen hätte beantragen sollen. Bis heute ist sie Deutsche mit vietnamesischen Papieren. Ihre Gesprächspartner Nikolai und Brenda hingegen haben deutsche Pässe, fühlen sich aber nicht unbedingt als Deutsche. Tran, Anh Hören bis: 19. Januar 2038, 04:14",
-    "date": "2021-08-31T22:30:00.000Z",
-    "url": "https://www.deutschlandfunk.de/auf-heimatsuche-folge-5-zwischen-den-stuehlen-deutsch-sein-ohne-deutschen-pass-dlf-ea5de2ed-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6e/7d/31/38/6e7d3138-3c9f-4b66-9650-25e5f5298317/podcastlogo-auf-heimatsuche-100-1280x1280.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2021/09/01/auf_heimatsuche_folge_5_zwischen_den_stuehlen_deutsch_dlf_20210901_0005_ea5de2ed.mp3?refId=podcast-auf-heimatsuche-100",
-    "duration": "32 Min",
+    "title": "Gefährdet die AfD die Wirtschaft in Sachsen-Anhalt?",
+    "summary": "<strong>Sorgenkind: Wirtschaft in Sachsen-Anhalt</strong>\n<p>Vor der Landtagswahl im September bewegt ein Thema die Menschen in Sachsen-Anhalt wie kein anderes: die Wirtschaft. Doch während die AfD in Umfragen Rekordwerte von mehr als 40 Prozent erreicht, schlagen Ökonomen und Expertinnen Alarm vor der Wirtschaftspolitik der Partei. Marcel Fratzscher, Präsident des Deutschen Instituts für Wirtschaftsforschung, warnt im Podcast sogar vor einer „Katastrophe“ für die Wirtschaft.</p>\n<p>\nÖkonomen und Unternehmen warnen vor AfD\n<p>In dieser Podcast-Folge von „DAZWISCHEN“ blicken Katja und Marie hinter die Wahlkampfslogans. Gemeinsam mit Experten prüfen sie das Wirtschaftsprogramm der AfD. Sie zeigen, was einzelne Schritte tatsächlich bedeuten würden. Sie erklären, warum Sachsen-Anhalts Wirtschaft Fachkräfte braucht und wie sich die Sanktionen gegen Russland auswirken.</p>\n<p>Mit Ökonomen und Unternehmen sprechen sie über die Herausforderungen. Sie fragen: Wie steht es wirklich um Sachsen-Anhalts Wirtschaft? Warum sind Experten trotzdem zuversichtlich? Und was sollte die Politik jetzt tun? All das in der neuen Folge von „DAZWISCHEN“.</p>\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</p>",
+    "date": "2026-06-18T13:00:43.000Z",
+    "url": "https://feedpress.me/link/19604/17363285/dazwischen-afd-wirtschaft-sachsen-anhalt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260618-03dazwischenwirtschaft.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260618-03dazwischenwirtschaft.63.mp3",
+    "duration": "39 Min",
     "tags": [
-      "heimat",
-      "identitat",
-      "gesellschaft",
-      "migration",
-      "deutschlandfunk"
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
     ],
     "category": [
-      "Gesellschaft",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-auf-heimatsuche:https-podcast-mp3-dradio-de-podcast-2021-09-01-auf-heimatsuche-folge-6-geburtsstadt-gleich-heimatstadt-dlf-20210901-0006-85301d73-mp3-refid-podcast-auf-heimatsuche-100",
-    "source": "dlf-auf-heimatsuche",
-    "sourceTitle": "Auf Heimatsuche – Deutschlandfunk",
-    "type": "rss",
-    "title": "Auf Heimatsuche - Folge 6: Geburtsstadt gleich Heimatstadt? Vom Bleiben und Gehen",
-    "summary": "In all ihren Podcast-Folgen berichtet Anh darüber, wie sehr sie an ihrer Geburtsstadt Dresden hängt – und doch ist sie weggegangen und lebt jetzt in Köln. Was bringt Menschen dazu, ihre Heimat zu verlassen? Darüber spricht sie mit Anne, die aus dem mecklenburgischen Neustadt-Glewe ins unterfränkische Bad Kissingen gezogen ist, und mit deren Mutter Kerstin, die fast ihr gesamtes Leben in Neustadt-Glewe verbracht hat. Tran, Anh Hören bis: 19. Januar 2038, 04:14",
-    "date": "2021-08-31T22:25:00.000Z",
-    "url": "https://www.deutschlandfunk.de/auf-heimatsuche-folge-6-geburtsstadt-gleich-heimatstadt-vom-bleiben-und-gehen-dlf-85301d73-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6e/7d/31/38/6e7d3138-3c9f-4b66-9650-25e5f5298317/podcastlogo-auf-heimatsuche-100-1280x1280.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2021/09/01/auf_heimatsuche_folge_6_geburtsstadt_gleich_heimatstadt_dlf_20210901_0006_85301d73.mp3?refId=podcast-auf-heimatsuche-100",
-    "duration": "31 Min",
-    "tags": [
-      "heimat",
-      "identitat",
-      "gesellschaft",
-      "migration",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-auf-heimatsuche:https-podcast-mp3-dradio-de-podcast-2021-08-24-neuer-podcast-auf-heimatsuche-geschichten-aus-dlf-20210824-1000-881469d7-mp3-refid-podcast-auf-heimatsuche-100",
-    "source": "dlf-auf-heimatsuche",
-    "sourceTitle": "Auf Heimatsuche – Deutschlandfunk",
-    "type": "rss",
-    "title": "Trailer - Auf Heimatsuche - Geschichten aus Deutschland",
-    "summary": "Tran, Anh Hören bis: 19. Januar 2038, 04:14",
-    "date": "2021-08-24T08:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neuer-podcast-auf-heimatsuche-geschichten-aus-deutschland-dlf-881469d7-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6e/7d/31/38/6e7d3138-3c9f-4b66-9650-25e5f5298317/podcastlogo-auf-heimatsuche-100-1280x1280.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2021/08/24/neuer_podcast_auf_heimatsuche_geschichten_aus_dlf_20210824_1000_881469d7.mp3?refId=podcast-auf-heimatsuche-100",
-    "duration": "4 Min",
-    "tags": [
-      "heimat",
-      "identitat",
-      "gesellschaft",
-      "migration",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur"
+      "Politik",
+      "Bildung"
     ],
     "language": "de"
   }
