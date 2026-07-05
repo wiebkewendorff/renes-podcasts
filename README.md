@@ -28,10 +28,10 @@ api/
 Beispiele:
 
 ```js
-fetch("https://johappel.github.io/selected-podcasts/api/latest.json");
-fetch("https://johappel.github.io/selected-podcasts/api/latest-5.json");
-fetch("https://johappel.github.io/selected-podcasts/api/sources/zeitzeichen.json");
-fetch("https://johappel.github.io/selected-podcasts/api/tags/geschichte.json");
+fetch("https://wiebkewendorff.github.io/selected-podcasts/api/latest.json");
+fetch("https://wiebkewendorff.github.io/selected-podcasts/api/latest-5.json");
+fetch("https://wiebkewendorff.github.io/selected-podcasts/api/sources/zeitzeichen.json");
+fetch("https://wiebkewendorff.github.io/selected-podcasts/api/tags/geschichte.json");
 ```
 
 ## Datenformat
@@ -109,13 +109,13 @@ Designer koennen die Episoden-Karte ohne Code im `<template id="episode-card-tem
 Die geplante Pages-URL ist:
 
 ```text
-https://johappel.github.io/selected-podcasts/
+https://wiebkewendorff.github.io/selected-podcasts/
 ```
 
 Die API liegt dann unter:
 
 ```text
-https://johappel.github.io/selected-podcasts/api/
+https://wiebkewendorff.github.io/selected-podcasts/api/
 ```
 
 ## GitHub Action
