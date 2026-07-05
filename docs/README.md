@@ -53,8 +53,9 @@ Texte sind weiß auf dunkler Kartenfläche; helle Buttons (kunst/zufall) tragen
 dunkle Schrift. Fokus-Outlines (gelb) unterstützen Tastatur-Bedienung.
 
 ### Responsiv
-Themen werden auf schmalen Screens als 2x2 angeordnet; im Detailbereich
-rutscht der Play/Stop-Button unter den Titel, statt abgeschnitten zu werden.
+Themen werden auf großen Screens als 3x2 und auf schmalen Screens in zwei
+Spalten angeordnet; im Detailbereich rutscht der Play/Stop-Button unter den
+Titel, statt abgeschnitten zu werden.
 
 ## 3. Wo kann ich am Layout etwas ändern?
 

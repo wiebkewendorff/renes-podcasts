@@ -47,7 +47,7 @@
     "feed": "https://detektor.fm/feed/podcast/spektrum",
     "language": "de",
     "category": [
-      "Politik",
+      "Wissenschaft",
       "Bildung"
     ],
     "tags": [
@@ -113,5 +113,353 @@
     "image": "https://www.ndr.de/kultur/musik/pop/beingthebeatles-100~_v-Podcast.jpg",
     "enabled": true,
     "maxEpisodes": 6
+  },
+  {
+    "id": "zeit-alles-gesagt",
+    "title": "Alles gesagt? – DIE ZEIT",
+    "type": "rss",
+    "homepage": "https://www.zeit.de/serie/alles-gesagt",
+    "feed": "https://feeds.simplecast.com/Y_bRXaw2",
+    "language": "de",
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Bildung"
+    ],
+    "tags": [
+      "interview",
+      "gesellschaft",
+      "kultur",
+      "zeit",
+      "langform",
+      "bildung"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "zeit-augen-zu",
+    "title": "Augen zu – DIE ZEIT",
+    "type": "rss",
+    "homepage": "https://www.zeit.de/serie/augen-zu",
+    "feed": "https://feeds.simplecast.com/b1Qn2k9W",
+    "language": "de",
+    "category": [
+      "Kunst",
+      "Kultur",
+      "Bildung"
+    ],
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "kultur",
+      "zeit",
+      "bildung"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-130-liter",
+    "title": "130 Liter – Streit um unser Trinkwasser",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunk.de/130-liter-streit-um-unser-trinkwasser-100.html",
+    "feed": "https://www.deutschlandfunk.de/130-liter-streit-um-unser-trinkwasser-100.xml",
+    "language": "de",
+    "category": [
+      "Umwelt",
+      "Wissenschaft"
+    ],
+    "tags": [
+      "wasser",
+      "trinkwasser",
+      "umwelt",
+      "klima",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-auf-heimatsuche",
+    "title": "Auf Heimatsuche – Deutschlandfunk",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunk.de/podcast-auf-heimatsuche-100.html",
+    "feed": "https://www.deutschlandfunk.de/podcast-auf-heimatsuche-100.xml",
+    "language": "de",
+    "category": [
+      "Gesellschaft",
+      "Kultur"
+    ],
+    "tags": [
+      "heimat",
+      "identität",
+      "gesellschaft",
+      "migration",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-das-feature",
+    "title": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "homepage": "https://www.hoerspielundfeature.de/das-feature-104.html",
+    "feed": "https://www.hoerspielundfeature.de/das-feature-104.xml",
+    "language": "de",
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-deep-science",
+    "title": "Deep Science – Deutschlandfunk",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunk.de/podcast-deep-science-100.html",
+    "feed": "https://www.deutschlandfunk.de/podcast-deep-science-100.xml",
+    "language": "de",
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "deep-science",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "zeit-auch-das-noch",
+    "title": "Auch das noch? – DIE ZEIT",
+    "type": "rss",
+    "homepage": "https://www.zeit.de/serie/auch-das-noch-krisenpodcast",
+    "feed": "https://feeds.simplecast.com/Sdxt6Bhy",
+    "language": "de",
+    "category": [
+      "Öko-Wissenschaft",
+      "Gesellschaft",
+      "Politik"
+    ],
+    "tags": [
+      "klima",
+      "krisen",
+      "umwelt",
+      "gesellschaft",
+      "politik",
+      "zeit"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-corso",
+    "title": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunk.de/corso-100.html",
+    "feed": "https://www.deutschlandfunk.de/corso-104.xml",
+    "language": "de",
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-kultur-heute",
+    "title": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunk.de/kultur-heute-100.html",
+    "feed": "https://www.deutschlandfunk.de/kultur-heute-104.xml",
+    "language": "de",
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte",
+    "title": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunk.de/deutschlandfunk-der-rest-ist-geschichte-100.html",
+    "feed": "https://www.deutschlandfunk.de/deutschlandfunk-der-rest-ist-geschichte-100.xml",
+    "language": "de",
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-zeitzeugen-im-gespraech",
+    "title": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-100.html",
+    "feed": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-102.xml",
+    "language": "de",
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "zeit-wie-war-das-noch-mal",
+    "title": "Wie war das noch mal? – DIE ZEIT",
+    "type": "rss",
+    "homepage": "https://www.zeit.de/serie/wie-war-das-noch-mal",
+    "feed": "https://feeds.simplecast.com/DV4gq1zP",
+    "language": "de",
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "bildung",
+      "zeit"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "10-minuten-wissen-kunst",
+    "title": "10 Minuten Wissen – Kunst",
+    "type": "rss",
+    "homepage": "https://www.podcast.de/podcast/3646880/10-minuten-wissen-kunst",
+    "feed": "https://feeds.acast.com/public/shows/10-minuten-wissen-kunst",
+    "language": "de",
+    "category": [
+      "Kunst",
+      "Geschichte",
+      "Bildung"
+    ],
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-tatort-kunst",
+    "title": "Tatort Kunst – Deutschlandfunk",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunk.de/tatort-kunst-102.html",
+    "feed": "https://www.deutschlandfunk.de/tatort-kunst-102.xml",
+    "language": "de",
+    "category": [
+      "Kunst",
+      "Kultur",
+      "True Crime"
+    ],
+    "tags": [
+      "kunst",
+      "kunstmarkt",
+      "true-crime",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
+  },
+  {
+    "id": "dlf-1001-nacht",
+    "title": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "homepage": "https://www.deutschlandfunk.de/1001-nacht-100.html",
+    "feed": "https://www.deutschlandfunk.de/1001-nacht-100.xml",
+    "language": "de",
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "tags": [
+      "hörspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "image": "",
+    "enabled": true,
+    "maxEpisodes": 10
   }
 ]

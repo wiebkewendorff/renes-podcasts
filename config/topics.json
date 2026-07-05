@@ -1,10 +1,9 @@
 ﻿[
-  { "id": "politik", "label": "politik", "color": "#a84343", "tags": ["politik"] },
-  { "id": "geschichte", "label": "geschichte", "color": "#3b52ab", "tags": ["geschichte", "zeitgeschichte"] },
-  { "id": "musik", "label": "musik", "color": "#b55ce6", "tags": ["musik"] },
-  { "id": "kunst", "label": "kunst", "color": "#5ce676", "tags": ["kunst", "kultur"] },
-  { "id": "bildung", "label": "bildung", "color": "#d98a3b", "tags": ["bildung"] },
-  { "id": "wissen", "label": "wissen", "color": "#3bb5b5", "tags": ["wissen", "wissenschaft"] },
-  { "id": "natur", "label": "natur", "color": "#4caf50", "tags": ["natur", "umwelt"] },
+  { "id": "gesellschaft", "label": "Gesellschaft", "color": "#ff6c00", "tags": ["gesellschaft"] },
+  { "id": "wissen", "label": "Wissenschaft", "color": "#02c484", "tags": ["wissen", "wissenschaft"] },
+  { "id": "kultur", "label": "Kultur", "color": "#11147a", "tags": ["kultur"] },
+  { "id": "lyrik", "label": "Literatur & Lyrik", "color": "#ffc412", "tags": ["literatur"] },
+  { "id": "geschichte", "label": "Geschichte", "color": "#c80000", "tags": ["geschichte", "zeitgeschichte"] },
+  { "id": "musikkunst", "label": "Kunst & Musik", "color": "#315dd5", "tags": ["musik","kunst","klassik"] },
   { "id": "sport", "label": "sport", "color": "#e0556a", "tags": ["sport"] }
 ]

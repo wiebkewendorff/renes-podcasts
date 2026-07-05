@@ -3,7 +3,7 @@ const PODCASTS_URL = "../api/podcasts.json";
 const TOPICS_URL = "../config/topics.json";
 const RANDOM_COLOR = "#e3be4d";
 const EPISODES_PER_TOPIC = 3;
-const VISIBLE_TOPICS = 4;
+const VISIBLE_TOPICS = 6;
 const FALLBACK_PALETTE = ["#7a5ce6", "#2c8c8c", "#c0562d", "#5a7d2c", "#a83a72", "#3a72a8"];
 const HEARD_KEY = "renes-podcasts-heard";       // localStorage: gehoerte Episoden
 const HEARD_COOLDOWN_DAYS = 21;                  // so lange werden gehoerte ausgeblendet
@@ -17,6 +17,7 @@ const audioPlayer = document.getElementById("global-player");
 const episodeSection = document.getElementById("episode-section");
 const episodeList = document.getElementById("episode-list");
 const categoryGrid = document.getElementById("category-grid");
+const randomButton = document.getElementById("btn-random");
 
 // --- gehoerte Episoden merken (Karenzzeit) ---
 function loadHeard() {
@@ -133,18 +134,56 @@ function renderTopics() {
         btn.addEventListener("click", () => { playFeedbackSound("click"); showTopic(topic); });
         categoryGrid.appendChild(item);
     });
+    updateRandomWheel();
 }
 
 function initApp() {
     setupProgressBar();
     setupProgressBarClick();
     renderTopics();
-    document.getElementById("btn-random").addEventListener("click", () => { playFeedbackSound("click"); showRandom(); });
+    setupRandomButton();
+    randomButton.addEventListener("click", () => { playFeedbackSound("click"); showRandom(); });
     document.getElementById("btn-back").addEventListener("click", () => { playFeedbackSound("stop"); goBack(); });
     document.addEventListener("click", (e) => {
         if (!e.target.closest(".episode-card")) {
             document.querySelectorAll(".episode-card.expanded").forEach(c => c.classList.remove("expanded"));
         }
+    });
+}
+
+function updateRandomWheel() {
+    const wheelTopics = activeTopics.length ? activeTopics : topics.slice(0, VISIBLE_TOPICS);
+    const colors = wheelTopics.map(topic => topic.color).filter(Boolean);
+    if (colors.length === 0) return;
+    const step = 100 / colors.length;
+    const gradientStops = colors.map((color, index) => {
+        const start = (index * step).toFixed(2);
+        const end = ((index + 1) * step).toFixed(2);
+        return `${color} ${start}% ${end}%`;
+    }).join(", ");
+    randomButton.style.setProperty("--wheel-gradient", gradientStops);
+}
+
+function setupRandomButton() {
+    let spinResetTimer = 0;
+
+    const triggerSpinBurst = () => {
+        randomButton.classList.remove("spin-burst");
+        void randomButton.offsetWidth;
+        randomButton.classList.add("spin-burst");
+        window.clearTimeout(spinResetTimer);
+        spinResetTimer = window.setTimeout(() => {
+            randomButton.classList.remove("spin-burst");
+        }, 900);
+    };
+
+    randomButton.addEventListener("pointerenter", () => randomButton.classList.add("is-spinning"));
+    randomButton.addEventListener("pointerleave", () => randomButton.classList.remove("is-spinning"));
+    randomButton.addEventListener("focus", () => randomButton.classList.add("is-spinning"));
+    randomButton.addEventListener("blur", () => randomButton.classList.remove("is-spinning"));
+    randomButton.addEventListener("pointerdown", triggerSpinBurst);
+    randomButton.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") triggerSpinBurst();
     });
 }
 
@@ -190,11 +229,37 @@ function openSection(bgColor) {
     setTimeout(() => episodeSection.scrollIntoView({ behavior: "smooth" }), 50);
 }
 
-function goBack() {
+function smoothScrollToTop(duration = 600) {
+    return new Promise((resolve) => {
+        const start = window.scrollY;
+        const startTime = performance.now();
+        
+        function easeOutQuad(t) {
+            return t * (2 - t); // smooth deceleration
+        }
+        
+        function scroll(currentTime) {
+            const elapsed = currentTime - startTime;
+            const progress = Math.min(elapsed / duration, 1);
+            const easeProgress = easeOutQuad(progress);
+            window.scrollTo(0, start * (1 - easeProgress));
+            
+            if (progress < 1) {
+                requestAnimationFrame(scroll);
+            } else {
+                resolve();
+            }
+        }
+        
+        requestAnimationFrame(scroll);
+    });
+}
+
+async function goBack() {
     stopGlobalAudio();
     autoplay = false;
+    await smoothScrollToTop(700);
     episodeSection.classList.add("hidden");
-    window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function renderEpisodes(episodes) {
@@ -251,7 +316,13 @@ function playEpisode(index) {
     const playingCard = episodeList.querySelector(`.episode-card:nth-child(${index + 1})`);
     showProgressBar(playingCard);
     const btn = episodeList.querySelector(`.play-stop-btn[data-index="${index}"]`);
-    if (btn) { btn.textContent = "STOPP"; btn.classList.add("playing"); }
+    if (btn) {
+        const playIcon = btn.querySelector(".play-icon");
+        const stopIcon = btn.querySelector(".stop-icon");
+        if (playIcon) playIcon.classList.add("hidden");
+        if (stopIcon) stopIcon.classList.remove("hidden");
+        btn.classList.add("playing");
+    }
     audioPlayer.src = url;
     audioPlayer.play();
     audioPlayer.onended = () => {
@@ -262,7 +333,13 @@ function playEpisode(index) {
 
 
 function resetButtons() {
-    document.querySelectorAll(".play-stop-btn").forEach(btn => { btn.textContent = "HÖREN"; btn.classList.remove("playing"); });
+    document.querySelectorAll(".play-stop-btn").forEach(btn => {
+        const playIcon = btn.querySelector(".play-icon");
+        const stopIcon = btn.querySelector(".stop-icon");
+        if (playIcon) playIcon.classList.remove("hidden");
+        if (stopIcon) stopIcon.classList.add("hidden");
+        btn.classList.remove("playing");
+    });
 }
 
 function stopGlobalAudio() {
