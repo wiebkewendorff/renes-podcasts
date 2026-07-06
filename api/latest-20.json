@@ -1,5 +1,337 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-mensch-natur-im-wandel-der-zeit-kunst-zur-landesgartenschau-dlf-20260706-1750-f8496935-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mensch Natur im Wandel der Zeit\" - Kunst zur Landesgartenschau Neuss",
+    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:50:51.000Z",
+    "url": "https://www.deutschlandfunk.de/mensch-natur-im-wandel-der-zeit-kunst-zur-landesgartenschau-neuss-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/mensch_natur_im_wandel_der_zeit_kunst_zur_landesgartenschau_dlf_20260706_1750_f8496935.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-dirk-schuetz-zu-den-auswirkungen-des-reformpakets-auf-die-dlf-20260706-1745-fb486bff-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dirk Schütz zu den Auswirkungen des Reformpakets auf die Kulturbranche",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:45:30.000Z",
+    "url": "https://www.deutschlandfunk.de/dirk-schuetz-zu-den-auswirkungen-des-reformpakets-auf-die-kulturbranche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/dirk_schuetz_zu_den_auswirkungen_des_reformpakets_auf_die_dlf_20260706_1745_fb486bff.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-entruempelt-die-buehnen-optionen-fuer-theater-in-dlf-20260706-1740-4f46c49c-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Entrümpelt die Bühnen! - Optionen für Theater in Krisenzeiten",
+    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:40:31.000Z",
+    "url": "https://www.deutschlandfunk.de/entruempelt-die-buehnen-optionen-fuer-theater-in-krisenzeiten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/entruempelt_die_buehnen_optionen_fuer_theater_in_dlf_20260706_1740_4f46c49c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-millionenraub-einbruch-ins-lalique-museum-im-elsass-dlf-20260706-1735-0545c079-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Millionenraub - Einbruch ins Lalique-Museum im Elsass",
+    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:35:42.000Z",
+    "url": "https://www.deutschlandfunk.de/millionenraub-einbruch-ins-lalique-museum-im-elsass-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/millionenraub_einbruch_ins_lalique_museum_im_elsass_dlf_20260706_1735_0545c079.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-06-netflix-serie-human-vapor-viel-dampf-um-nichts-dlf-20260706-1515-48af0740-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Netflix Serie \"Human Vapor\" – Viel Dampf um nichts",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-07-06T13:15:13.000Z",
+    "url": "https://www.deutschlandfunk.de/netflix-serie-human-vapor-viel-dampf-um-nichts-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/netflix_serie_human_vapor_viel_dampf_um_nichts_dlf_20260706_1515_48af0740.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-06-zum-80-geburtstag-was-die-filme-von-sylvester-stallone-ueber-dlf-20260706-1505-84b6c67f-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum 80. Geburtstag - Was die Filme von Sylvester Stallone über die USA verraten",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-07-06T13:05:33.000Z",
+    "url": "https://www.deutschlandfunk.de/zum-80-geburtstag-was-die-filme-von-sylvester-stallone-ueber-die-usa-verraten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/zum_80_geburtstag_was_die_filme_von_sylvester_stallone_ueber_dlf_20260706_1505_84b6c67f.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:755355bdfcc366322962c689633ca584",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Verändert die Welt mit himmlischer Mathematik: Regiomontanus",
+    "summary": "<p>Johannes Müller von Königsberg (\"Regiomontanus\") gilt als bedeutendster Mathematiker und Astronom des 15. Jahrhunderts. Sein früher Tod am 6.7.1476 in Rom gibt bis heute Rätsel auf.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Thomas Mau:</strong><br><ul><li>wie Kolumbus mit einem nautischen Jahrbuch von Regiomontanus auf Jamaika Nahrung erzwingt,</li><li>wieso Nürnberg für den Astronomen zum Zentrum seiner Forschung wird,</li><li>weshalb seine Druckerei entscheidend für den Erfolg seiner Werke ist,</li><li>warum Papst Sixtus IV. 1475 Regiomontanus nach Rom einlädt,</li><li>welche Gerüchte es um den Tod des Astronomen gibt.</li></ul><br>Johannes Müller, geboren und aufgewachsen im fränkischen Königsberg und deshalb später Regiomontanus (\"der Königsberger\") genannt, gilt früh als Ausnahmetalent. Schon als Jugendlicher erstellt er präzisere Kalender als viele seiner Zeitgenossen. Sein Weg führt ihn an die Universitäten Leipzig und Wien. In Italien studiert er in humanistischen Kreisen antike Texte und bewertet sie neu.<br><br>In Nürnberg schafft er sich ideale Bedingungen für seine Arbeit: mit astronomischen Instrumenten und eigener Druckerei. Seine Werke finden große Verbreitung und prägen die Praxis der Navigation ebenso wie die Entwicklung der Astronomie über Generationen hinweg. Vor allem seine \"Ephemeriden\" (Jahrbuch der Planetenbewegungen) sind bei Seeleuten sehr beliebt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hans Gaab (Astronomiehistoriker, Astronomische Gesellschaft in der Metropolregion Nürnberg e. V.)</li><li>Ernst Zinner: Leben und Wirken des Joh. Müller von Königsberg genannt Regiomontanus. Osnabrück 1968</li><li>Rudolf Mett: Regiomontanus - Wegbereiter des neuen Weltbildes. Leipzig/Zürich 1996</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 12.10.1492: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-kolumbus-expedition-amerika-100.html\" rel=\"noopener\" target=\"_blank\">Christoph Kolumbus betritt den amerikanischen Kontinent</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/technik/schifffahrt/geschichte_der_schifffahrt/pwienavigation100.html\" rel=\"noopener\" target=\"_blank\">Navigation - Geschichte der Schifffahrt</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/technik/weltraumforschung/astronomie/index.html\" rel=\"noopener\" target=\"_blank\">Astronomie und Weltraumforschung</a></li></ul><br><strong>Unser Hörtipp:</strong><br>Wenn Sie erfahren möchten, was <a href=\"https://1.ard.de/philosophisches-radio\" rel=\"noopener\" target=\"_blank\">das Denken von Friedrich Nietzsche</a> uns heute noch zu sagen hat, dann haben wir noch eine Podcast-Empfehlung für Sie: \"WDR 5 Das philosophische Radio\".<br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Thomas Mau<br>Redaktion: Christoph Tiegel und Frank Zirpins",
+    "date": "2026-07-06T04:00:12.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-veraendert-die-welt-mit-himmlischer-mathematik-regiomontanus-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/regiomontanus-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/28/553a2acc-1264-46e1-938a-49897e66e629/553a2acc-1264-46e1-938a-49897e66e629_MP3-128.mp3",
+    "duration": "16 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-3456296660234224",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Katharina Mahrenholtz, Jan Ehlert und Daniel Kaiser mit Büchertipps für den Sommer",
+    "summary": "Katharina Mahrenholtz, Daniel Kaiser und Jan Ehlert geben im Gespräch mit Inka Schneider persönliche Einblicke in ihre gemeinsame Arbeit und verraten, was ihren Podcast eat.READ.sleep. so besonders macht. Diesmal geht es nicht nur um Lieblingsautoren und Lesetrends, sondern auch um ganz konkrete Tipps für die nächste Urlaubslektüre. Mit viel Charme, Witz und Expertise empfehlen sie Bücher, die perfekt in den Koffer passen - von entspannender Unterhaltung bis hin zu packenden Thrillern.",
+    "date": "2026-07-05T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/katharina-mahrenholtz-jan-ehlert-und-daniel-kaiser-mit-buechertipps-fuer-sommer,audio-3341112.html",
+    "image": "https://images.ndr.de/image/8f343d16-ff77-40a7-805b-ce7f3895c98b/AAABnzM2ndI/AAABnSStX0g/1x1-big/screenshot-191616.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0706/AU-20260706-0947-1600.mp3",
+    "duration": "43 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-kulturmeldungen-05072026-dlf-20260705-1756-dc1e5986-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 05.07.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:56:16.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/kulturmeldungen_05072026_dlf_20260705_1756_dc1e5986.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-vilhelm-hammershi-maler-des-stillen-klangs-ausstellung-im-dlf-20260705-1751-6a1d0f54-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Vilhelm Hammershøi - Maler des stillen Klangs\" Ausstellung im Kunsthaus Zürich",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:51:13.000Z",
+    "url": "https://www.deutschlandfunk.de/vilhelm-hammersh-i-maler-des-stillen-klangs-ausstellung-im-kunsthaus-zuerich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/vilhelm_hammershi_maler_des_stillen_klangs_ausstellung_im_dlf_20260705_1751_6a1d0f54.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-maldoror-und-uma-luz-cordial-auftakt-beim-theaterfestival-in-dlf-20260705-1744-ac1bd717-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Maldoror\" und \"Uma luz cordial\" - Auftakt beim Theaterfestival in Avignon",
+    "summary": "Klaeui, Andreas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:44:05.000Z",
+    "url": "https://www.deutschlandfunk.de/maldoror-und-uma-luz-cordial-auftakt-beim-theaterfestival-in-avignon-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/maldoror_und_uma_luz_cordial_auftakt_beim_theaterfestival_in_dlf_20260705_1744_ac1bd717.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-nach-aus-fuer-neubau-wie-geht-es-weiter-in-der-deutschen-dlf-20260705-1738-741a5fd6-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach Aus für Neubau - Wie geht es weiter in der Deutschen Oper am Rhein?",
+    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:38:19.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-aus-fuer-neubau-wie-geht-es-weiter-in-der-deutschen-oper-am-rhein-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/nach_aus_fuer_neubau_wie_geht_es_weiter_in_der_deutschen_dlf_20260705_1738_741a5fd6.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-islamische-kunst-in-deutscher-forschung-religionspaed-m-dlf-20260705-1730-121918af-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Islamische Kunst in deutscher Forschung - Religionspäd. M. Khorchide im Gespräch",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:30:15.000Z",
+    "url": "https://www.deutschlandfunk.de/islamische-kunst-in-deutscher-forschung-religionspaed-m-khorchide-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/islamische_kunst_in_deutscher_forschung_religionspaed_m_dlf_20260705_1730_121918af.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:2b318ed499358ebbf6532d38b75eeead",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -23,6 +355,31 @@
     "language": "de"
   },
   {
+    "id": "ndr-being-the-beatles:rnd0-6412461121231126",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Profunder Kenner der amerikanischen Geschichte: Dr. Hiram Kümper",
+    "summary": "Dr. Hiram Kümper, Historiker und profunder Kenner der amerikanischen Geschichte, ist zu Gast auf dem Roten Sofa im NDR. Eine seiner Thesen lautet: \"Die aktuelle politische und gesellschaftliche Situation der USA liegt bereits in deren Verfassung von 1776 begründet.\" Sein neues Buch \"1776 - Traum und Erwachen der amerikanischen Nation\" ist ein spannender Blick hinter die Kulissen historischer Wahrheiten. Darüber sprechen wir mit ihm - ergänzt durch aktuelle Umfrageergebnisse zum Verhältnis Deutschland/USA von #NDRfragt.",
+    "date": "2026-07-04T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/profunder-kenner-der-amerikanischen-geschichte-dr-hiram-kuemper,audio-3341038.html",
+    "image": "https://images.ndr.de/image/2bc8e8f6-7430-4aae-95fd-e7248ccf4304/AAABny4MDpE/AAABnSStX0g/1x1-big/screenshot-191418.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0706/AU-20260706-0932-2100.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-kulturmeldungen-04072026-dlf-20260704-1755-38fc7da2-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -34,84 +391,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/kulturmeldungen_04072026_dlf_20260704_1755_38fc7da2.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-israels-kino-unter-druck-das-jerusalem-film-festival-beginnt-dlf-20260704-1750-6afa0316-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Israels Kino unter Druck: Das Jerusalem Film Festival beginnt",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-04T15:50:07.000Z",
-    "url": "https://www.deutschlandfunk.de/israels-kino-unter-druck-das-jerusalem-film-festival-beginnt-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/israels_kino_unter_druck_das_jerusalem_film_festival_beginnt_dlf_20260704_1750_6afa0316.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-der-besuch-der-alten-dame-nikolaus-habjan-inszeniert-am-dlf-20260704-1745-eff77fa3-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Besuch der alten Dame - Nikolaus Habjan inszeniert am Gärtnerplatztheater",
-    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-04T15:45:07.000Z",
-    "url": "https://www.deutschlandfunk.de/der-besuch-der-alten-dame-nikolaus-habjan-inszeniert-am-gaertnerplatztheater-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/der_besuch_der_alten_dame_nikolaus_habjan_inszeniert_am_dlf_20260704_1745_eff77fa3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-circus-oresteia-thomas-koecks-neues-stueck-nach-aischylos-am-dlf-20260704-1739-78f50c57-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Circus Oresteia\" - Thomas Köcks neues Stück nach Aischylos am Theater a.d. Ruhr",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-04T15:39:57.000Z",
-    "url": "https://www.deutschlandfunk.de/circus-oresteia-thomas-koecks-neues-stueck-nach-aischylos-am-theater-a-d-ruhr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/circus_oresteia_thomas_koecks_neues_stueck_nach_aischylos_am_dlf_20260704_1739_78f50c57.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
@@ -220,281 +499,6 @@
     ],
     "category": [
       "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-kulturmeldungen-03072026-dlf-20260703-1756-e9cd74d1-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 03.07.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:56:51.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/kulturmeldungen_03072026_dlf_20260703_1756_e9cd74d1.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-radikal-real-der-nouveau-realisme-und-die-kunst-der-1960er-dlf-20260703-1752-dacb9b53-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Radikal. Real - Der Nouveau Réalisme und die Kunst der 1960er Jahre in Mannheim",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:52:27.000Z",
-    "url": "https://www.deutschlandfunk.de/radikal-real-der-nouveau-r-alisme-und-die-kunst-der-1960er-jahre-in-mannheim-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/radikal_real_der_nouveau_realisme_und_die_kunst_der_1960er_dlf_20260703_1752_dacb9b53.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-zauberfloete-clement-cogitore-inszeniert-mozart-in-aix-dlf-20260703-1747-d1c9e5a6-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zauberflöte - Clément Cogitore inszeniert Mozart in Aix",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:47:34.000Z",
-    "url": "https://www.deutschlandfunk.de/zauberfloete-cl-ment-cogitore-inszeniert-mozart-in-aix-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/zauberfloete_clement_cogitore_inszeniert_mozart_in_aix_dlf_20260703_1747_d1c9e5a6.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-frueher-oder-spaeter-das-werkleitz-festival-2026-in-halle-dlf-20260703-1742-9cc7b656-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Früher oder später\" - Das Werkleitz Festival 2026 in Halle und die Zeit",
-    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:42:10.000Z",
-    "url": "https://www.deutschlandfunk.de/frueher-oder-spaeter-das-werkleitz-festival-2026-in-halle-und-die-zeit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/frueher_oder_spaeter_das_werkleitz_festival_2026_in_halle_dlf_20260703_1742_9cc7b656.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-leben-in-der-platte-kuratorin-anne-meinzenbach-ueber-dlf-20260703-1736-bcc4e67c-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Leben in der Platte - Kuratorin Anne Meinzenbach über Ausstellung in Leipzig",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:36:37.000Z",
-    "url": "https://www.deutschlandfunk.de/leben-in-der-platte-kuratorin-anne-meinzenbach-ueber-ausstellung-in-leipzig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/leben_in_der_platte_kuratorin_anne_meinzenbach_ueber_dlf_20260703_1736_bcc4e67c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-03-wild-wild-west-der-us-mythos-der-new-frontier-in-der-dlf-20260703-1515-3f3ed4d2-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wild Wild West - Der US-Mythos der New Frontier in der Popkultur",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-03T13:15:54.000Z",
-    "url": "https://www.deutschlandfunk.de/wild-wild-west-der-us-mythos-der-new-frontier-in-der-popkultur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/wild_wild_west_der_us_mythos_der_new_frontier_in_der_dlf_20260703_1515_3f3ed4d2.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-03-berlin-fashon-week-gestartet-erste-eindruecke-dlf-20260703-1505-023eefe3-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Berlin Fashon Week gestartet - Erste Eindrücke",
-    "summary": "Schildbach, Linda www.deutschlandfunk.de, Corso",
-    "date": "2026-07-03T13:05:30.000Z",
-    "url": "https://www.deutschlandfunk.de/berlin-fashon-week-gestartet-erste-eindruecke-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/berlin_fashon_week_gestartet_erste_eindruecke_dlf_20260703_1505_023eefe3.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3987111",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "High ohne Drogen: Kann man das Bewusstsein verändern?",
-    "summary": "<p>Der Mensch versucht schon immer, sein Bewusstsein gezielt zu verändern. Bereits seit Jahrtausenden sind Atemtechniken, Hypnose, Meditation oder bestimmte Rituale gebräuchlich, um veränderte Bewusstseinszustände zu erleben — ganz ohne psychoaktive Substanzen.</p>\n<p>Solche Praktiken existieren in vielen Kulturen, etwa in schamanischen Ritualen, hinduistischen Gesängen oder Trancetänzen. Heute erleben Methoden wie Breathwork, Yoga und Hypnose einen Boom.</p>\n<p>Breathwork, das ist eine bewusste Atemarbeit, häufig verbunden mit intensiver Hyperventilation. Durch schnelles, tiefes Atmen sinkt der Kohlendioxidgehalt im Blut. Dadurch verändern sich Blutfluss und Sauerstoffversorgung im Gehirn.</p>\nBewusstsein ohne Drogen verändern\n<p>Solche Techniken können teils psychedelisch wirkende Erfahrungen auslösen. Teilnehmende berichten von einem veränderten Bewusstsein, von Ego-Auflösung, intensiven Emotionen oder einem Gefühl tiefer Verbundenheit. Hirnscans zeigen Parallelen zu psychedelischen Zuständen: Bestimmte Hirnregionen, die mit Körperwahrnehmung, Emotionen und Gedächtnis zusammenhängen, verändern ihre Aktivität.</p>\n<p>Ähnliche Erfahrungen gibt es im Bereich Hypnose. Als Zustand intensiver Konzentration und veränderter Wahrnehmung zeigt sich in Studien, dass Hypnose tatsächlich Wahrnehmung und Verhalten beeinflussen kann. Hirnforschende vermuten, dass dabei mehrere Netzwerke im Gehirn zusammenspielen, die Aufmerksamkeit, Selbstwahrnehmung und Reizverarbeitung steuern.</p>\n<p>Doch hier bleiben noch viele Fragen offen. Insgesamt steht die Forschung in diesem Bereich noch am Anfang. Viele Studien haben kleine Stichproben und liefern uneinheitliche Ergebnisse. Dabei wären gesicherte Erkenntnisse hochinteressant: Neurowissenschaft und Psychologie versuchen zu verstehen, was genau im Gehirn passiert und ob diese Techniken therapeutisches Potenzial haben — etwa bei Depressionen, Angststörungen oder Traumata. Gleichzeitig warnen die Forschenden davor, die bisherigen Ergebnisse zu überschätzen. Vieles sei faszinierend, aber noch nicht ausreichend verstanden.</p>\n<p><strong>Anna Lorenzen</strong> ist Redakteurin bei <em>Spektrum der Wissenschaft</em>. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt sie, wie Menschen ihr Bewusstsein gezielt und ohne Drogen verändern. Sie geht dabei auch auf Gefahren und Grenzen dieser Techniken ein.</p>",
-    "date": "2026-07-03T04:02:37.000Z",
-    "url": "https://feedpress.me/link/19604/17372081/spektrum-podcast-bewusstsein-high-drogen",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260703spektrumhighohnedrogen.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260703spektrumhighohnedrogen.63.mp3",
-    "duration": "12 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:2740ff158adb15e50a55491909c6d91a",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Skandal und Startschuss: \"Nicht der Homosexuelle ist pervers ...\"",
-    "summary": "<p>Am 3.7.1971 feiert Praunheims Film auf der Berlinale Premiere und löst einen Medienskandal aus. Er wird zum Startschuss für die Schwulen‑ und Lesbenbewegung.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Gianna Scholten:</strong><br><ul><li>dass zwischen 1949 und 1969 doppelt so viele Männer wegen Homosexualität verurteilt werden wie noch während der Nazizeit,</li><li>warum Rosa von Praunheim das Wort \"schwul\" als selbstbewusste Eigenbezeichnung propagiert,</li><li>wie die ARD-Programmdirektoren zunächst die Ausstrahlung des Films verhindern,</li><li>weshalb er schließlich doch gesendet wird.</li></ul><br>Anfang der 1970er-Jahre ist für die meisten homosexuellen Männer undenkbar, offen schwul zu leben. Sie geben sich nach außen bewusst \"männlich\", um ihre Sexualität zu verbergen. Als größter Feind gilt die \"auffällige Tunte\", die sofort als homosexuell erkannt wird.<br><br>1971 verschiebt Filmemacher Rosa von Praunheim die Perspektiven grundlegend. Seine zentrale Botschaft \"Nicht der Homosexuelle ist pervers, sondern die Situation, in der er lebt\", packt er gleich in den Filmtitel. Der Film wird heftig diskutiert, auch in der Schwulen-Szene, für die sich \"schwul\" damals noch nach Beschimpfung anhört. <br>Praunheim hat damit sein Ziel erreicht: Sein Werk gilt als Initialzündung für eine neue, selbstbewusstere Schwulenbewegung.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Rosa von Praunheim, Anke Vetter: Rosas Rache. Filme und Tagebücher seit 1960. Berlin 2009</li><li>Nicht der Homosexuelle ist pervers, sondern die Situation, in der er lebt. (Rosa von Praunheim Filmverlag, Berlin 2008)</li><li>Schwules Museum Berlin</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>WDR 5: Erlebte Geschichte – <a href=\"https://www1.wdr.de/av/audio-erlebte-geschichten-rosa-von-praunheim--100.html\" rel=\"noopener\" target=\"_blank\">Rosa von Praunheim</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/rosa-von-praunheim-100.html\" rel=\"noopener\" target=\"_blank\">10.12.1991 - Rosa von Praunheim outet Prominente</a></li><li>ARD Mediathek: <a href=\"https://www.ardmediathek.de/video/dokus-und-reportagen/glueckskind-der-schwule-filmemacher-rosa-von-praunheim/hr/MGU4NWMyMGItNTVjMy00NTEyLTk0ZWMtNzUwOTYxMTdlNmE2\" rel=\"noopener\" target=\"_blank\">Glückskind - Der schwule Filmemacher Rosa von Praunheim</a></li><li>Homepage: <a href=\"http://www.rosavonpraunheim.de/\" rel=\"noopener\" target=\"_blank\">Rosa von Praunheim</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Gianna Scholten<br>Redaktion: Carolin Rückl und Matti Hesse",
-    "date": "2026-07-03T04:00:23.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-skandal-und-startschuss-nicht-der-homosexuelle-ist-pervers-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-nicht-der-homosexuelle-ist-pervers-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/24/2c1cb39e-64bc-40f0-9e02-28767b5296c8/2c1cb39e-64bc-40f0-9e02-28767b5296c8_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4000739",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Rüdiger, der Multi-Roboter",
-    "summary": "<b>Betonentfernung ist ein Knochenjob</b>\n<p>Häuser, Tunnel, Mauern, Brücken — vieles besteht aus Beton. Der Baustoff gilt als stabil, doch er hält nicht ewig. Umwelt und Zeit setzen ihm zu, weshalb er regelmäßig saniert werden muss. Dafür müssen Arbeiterinnen und Arbeiter beschädigte Schichten abtragen und dann mit neuem Material auffüllen. Dieses Abtragen ist Schwerstarbeit, die langfristig die Gesundheit gefährden kann. <strong>Lena-Marie Pätzmann</strong> vom Münchener Startup Sitegeist Robotics beschreibt die mühsame Tätigkeit so:</p>\nRüdiger soll den Job machen\n<p>Sitegeist Robotics entwickelt einen Roboter, der mehrere Aufgaben auf der Baustelle übernehmen kann. Die Prototypen, genannt „Rüdiger“, sollen modular funktionieren und lassen sich auch für andere Arbeiten im Bau einsetzen. Denn nicht nur die körperliche Belastung spricht dafür, Roboter einzusetzen. Die Baubranche leidet unter Fachkräftemangel, während viele Bauwerke in Deutschland — oft aus Beton — dringend saniert werden müssen. Roboter könnten den Sanierungsfortschritt beschleunigen.</p>\n<p>Über die Chancen der Robotik in der Baubranche und die ganz konkreten Hürden und Perspektiven in der Entwicklung spricht <em>detektor.fm</em>-Moderator Christian Bollert in dieser neuen Folge des „brand eins Podcasts“ mit <strong>Lena-Marie Pätzmann</strong>.</p>",
-    "date": "2026-07-03T03:00:53.000Z",
-    "url": "https://feedpress.me/link/19604/17372082/brand-eins-podcast-lena-marie-paetzmann-sitegeist",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260702brandeinslena-mariepaetzmannsitegeist.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260702brandeinslena-mariepaetzmannsitegeist.63.mp3",
-    "duration": "30 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:987231a8-6f23-4738-8809-57030320ca44",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interview: Wie baut man (einarmige) Federgabeln, Dirk Lüde?",
-    "summary": "<p> </p>\n<p> </p>",
-    "date": "2026-07-03T03:00:40.000Z",
-    "url": "https://feedpress.me/link/19604/17372083/antritt-dirk-luede-ueber-lefty-entwicklung-bei-cannondale",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1783/24/010726antrittdirkluede.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1783/24/010726antrittdirkluede.63.mp3",
-    "duration": "1 Std 26 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
       "Bildung"
     ],
     "language": "de"
