@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-9495529134669479",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Katrin Linke und Karsten Brensing erzählen von Leben auf hoher See",
+    "summary": "Die Wissenschaftsjournalistin und der Verhaltensbiologe sind mit ihren beiden Kindern mehr als zwei Jahre lang von Griechenland bis in die Karibik gesegelt.",
+    "date": "2026-07-06T16:45:00.000Z",
+    "url": "https://www.ndr.de/katrin-linke-und-karsten-brensing-erzaehlen-von-leben-auf-hoher-see,audio-3343168.html",
+    "image": "https://images.ndr.de/image/fed6859f-87d4-4b13-b45c-f120b8e6f12c/AAABnzhiRJk/AAABnSStX0g/1x1-big/screenshot-192116.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0707/AU-20260707-0918-1300.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-3456296660234224",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/0d65ea5d-c2a4-4166-ba92-edc70da63646/AAABnx7kH48/AAABnSStX0g/1x1-big/screenshot-190034.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0702/AU-20260702-0818-4300.mp3",
     "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-002176461047861955",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Er prägte den Schlager in der DDR wie kaum ein anderer: Frank Schöbel",
-    "summary": "Frank Schöbel prägte den Schlager in der DDR wie kaum ein anderer, hatte Mitte der Achtziger mit \"Weihnachten in der Familie\" die meistverkaufte LP des Landes und konnte sich nach der Wiedervereinigung ein dann gesamtdeutsches Publikum erobern. Vergangenen Dezember ist er 83 geworden, aber das ist natürlich kein Grund, um aufzuhören. \"Spiel des Lebens\" heißt sein aktuelles Album, auf dem er sich zwischen Nostalgie, Selbstironie und Zuversicht bewegt. Noch immer steht er auf der Bühne, Ende des Jahres kommt er auch in den Norden, nach Schwerin und Hamburg. Auf dem Roten Sofa wird uns Frank Schöbel verraten, worauf sich die Fans freuen dürfen. Und warum er nach wie vor für die Ü70 von Eintracht Mahlsdorf kickt.",
-    "date": "2026-06-30T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/er-praegte-schlager-in-der-ddr-wie-kaum-ein-anderer-frank-schoebel,audio-3331542.html",
-    "image": "https://images.ndr.de/image/9f1b39fb-f043-4b94-964f-0a0ed6c5f4ee/AAABnxnL_sQ/AAABnSStX0g/1x1-big/screenshot-189546.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0701/AU-20260701-0809-0300.mp3",
-    "duration": "38 Min",
     "tags": [
       "beatles",
       "popgeschichte",

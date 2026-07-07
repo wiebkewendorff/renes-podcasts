@@ -1,5 +1,133 @@
 [
   {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-07-staat-fuerchtet-witz-tuerkischer-comedian-deniz-goektas-dlf-20260707-1508-a3b67724-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Staat fürchtet Witz - Türkischer Comedian Deniz Göktaş verhaftet",
+    "summary": "Lueb, Uwe www.deutschlandfunk.de, Corso",
+    "date": "2026-07-07T13:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/staat-fuerchtet-witz-tuerkischer-comedian-deniz-goekta-verhaftet-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/staat_fuerchtet_witz_tuerkischer_comedian_deniz_goektas_dlf_20260707_1508_a3b67724.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "10-minuten-wissen-kunst:6a4c8158e4f7d40f0620f992",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
+    "type": "rss",
+    "title": "Jan van Eyck – Die Arnolfini-Hochzeit: Eine wegweisende Komposition und ihr ungelöstes Mysterium",
+    "summary": "<p>Jan van Eycks Arnolfini-Porträt entzieht sich auch nach fast sechs Jahrhunderten einer eindeutigen Interpretation. Diese Episode beleuchtet die feinen Details der meisterhaften Komposition und wägt die verschiedenen kunsthistorischen Deutungsansätze ab – vom feierlichen Ehegelübde bis zum tragischen Totengedenken. Neben den verborgenen Symbolen im Raum zeichnet die Folge die wechselvolle Provenienz des Gemäldes nach, die vom burgundischen Hof über den spanischen Königspalast bis in die Londoner National Gallery führt. Dort steht das Werk nun im Zentrum einer außergewöhnlichen Zusammenführung, die einen völlig neuen Blick auf van Eycks wegweisende Porträtkunst ermöglicht.</p><br><p>Weiterführende Links</p><p> <strong>Das Werk in hoher Auflösung</strong>: <a href=\"https://artsandculture.google.com/asset/portrait-of-giovanni-arnolfini-and-his-wife-0016/1wESsXmIEyCSSg\" rel=\"noopener\" target=\"_blank\">Google Arts & Culture – The Arnolfini Portrait</a></p><p> <strong>Wikipedia-Eintrag zum Künstler</strong>: <a href=\"https://de.wikipedia.org/wiki/Jan_van_Eyck\" rel=\"noopener\" target=\"_blank\">Wikipedia – Jan van Eyck</a></p><p> <strong>Wikipedia-Eintrag zum Meisterwerk</strong>: <a href=\"https://de.wikipedia.org/wiki/Arnolfini-Bildnis\" rel=\"noopener\" target=\"_blank\">Wikipedia – Arnolfini-Hochzeiti</a></p><p> <strong>Das Bildnis aus der Gemäldegalerie Berlin</strong>: <a href=\"https://artsandculture.google.com/asset/bildnis-eines-mannes-aus-der-familie-arnolfini-jan-van-eyck/IQGIiGWGToMtwQ\" rel=\"noopener\" target=\"_blank\">Jan van Eyck: Bildnis eines Mannes mit rotem Chaperon</a></p><p> <strong>Das Original im Museum</strong>: <a href=\"https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait\" rel=\"noopener\" target=\"_blank\">The National Gallery London – The Arnolfini Portrait</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-07-07T04:45:48.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/jan-van-eyck-die-arnolfini-hochzeit-eine-wegweisende-komposi",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a4c8158e4f7d40f0620f992/media.mp3",
+    "duration": "23 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
+    ],
+    "category": [
+      "Kunst",
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-11-doku-drops-14-jung-alt-drk-20260711-1805-9c4b1726-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "doku drops 14: jung und alt - Jeden Monat neue Kurzdokus",
+    "summary": "Wie viel Kontakt haben wir mit Menschen, die wesentlich älter oder jünger sind als wir selbst und die nicht zur eigenen Familie gehören? Neue Kurzdokus erkunden die Welt jenseits der Generationenblase. Zusammenstellung: Judith Geffert und Ingo Kottkamp www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-07-07T04:00:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/doku-drops-14-jung-und-alt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/b8/a5/6a/10/b8a56a10-cc42-4d26-a1ee-eaefd9da530f/doku-drops-14-jung-und-alt-bild-satt-gruen-ausschnitt-1-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/doku_drops_14_jung_alt_drk_20260711_1805_9c4b1726.mp3?refId=das-feature-104",
+    "duration": "29 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-9495529134669479",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Katrin Linke und Karsten Brensing erzählen von Leben auf hoher See",
+    "summary": "Die Wissenschaftsjournalistin und der Verhaltensbiologe sind mit ihren beiden Kindern mehr als zwei Jahre lang von Griechenland bis in die Karibik gesegelt.",
+    "date": "2026-07-06T16:45:00.000Z",
+    "url": "https://www.ndr.de/katrin-linke-und-karsten-brensing-erzaehlen-von-leben-auf-hoher-see,audio-3343168.html",
+    "image": "https://images.ndr.de/image/fed6859f-87d4-4b13-b45c-f120b8e6f12c/AAABnzhiRJk/AAABnSStX0g/1x1-big/screenshot-192116.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0707/AU-20260707-0918-1300.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-kulturmeldungen-06072026-dlf-20260706-1756-195afccd-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 06.07.2026",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:56:34.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-07-104.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/kulturmeldungen_06072026_dlf_20260706_1756_195afccd.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-mensch-natur-im-wandel-der-zeit-kunst-zur-landesgartenschau-dlf-20260706-1750-f8496935-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -334,32 +462,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-kulturmeldungen-04072026-dlf-20260704-1755-38fc7da2-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 04.07.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-04T15:55:20.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-04-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/kulturmeldungen_04072026_dlf_20260704_1755_38fc7da2.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-04-geistersuche-im-internet-andreas-spechtls-neues-bandprojekt-dlf-20260704-1530-727b23eb-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -585,31 +687,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-02-playstation-schafft-disk-ab-was-das-fuers-gaming-bedeutet-dlf-20260702-1505-4f0dd1ab-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Playstation schafft Disk ab - Was das fürs Gaming bedeutet",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-02T13:05:05.000Z",
-    "url": "https://www.deutschlandfunk.de/playstation-schafft-disk-ab-was-das-fuers-gaming-bedeutet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/02/playstation_schafft_disk_ab_was_das_fuers_gaming_bedeutet_dlf_20260702_1505_4f0dd1ab.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "30-minuten-kunst:11c0742f5c253202b006b054083c2ae5",
     "source": "30-minuten-kunst",
     "sourceTitle": "30 Minuten Kunst",
@@ -643,7 +720,7 @@
     "url": "http://www.zeit.de/serie/alles-gesagt",
     "image": "https://image.simplecastcdn.com/images/d51f2924-ec7a-47a6-bcfe-0645013e5925/2ba64ac6-36cb-4c7b-b41c-565848179b0b/property-201-wei-c3-9fes-20z-20-5.jpg",
     "audio": "https://zeitonline.simplecastaudio.com/01b8f64d-b315-4918-bacd-dbcfa0b0069f/episodes/8dec33dc-32f2-4098-8bb0-1b7805e6e756/audio/128/default.mp3?aid=rss_feed&awCollectionId=01b8f64d-b315-4918-bacd-dbcfa0b0069f&awEpisodeId=8dec33dc-32f2-4098-8bb0-1b7805e6e756&feed=Y_bRXaw2",
-    "duration": "5 Std 43 Min",
+    "duration": "5 Std 42 Min",
     "tags": [
       "interview",
       "gesellschaft",
@@ -711,31 +788,6 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-002176461047861955",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Er prägte den Schlager in der DDR wie kaum ein anderer: Frank Schöbel",
-    "summary": "Frank Schöbel prägte den Schlager in der DDR wie kaum ein anderer, hatte Mitte der Achtziger mit \"Weihnachten in der Familie\" die meistverkaufte LP des Landes und konnte sich nach der Wiedervereinigung ein dann gesamtdeutsches Publikum erobern. Vergangenen Dezember ist er 83 geworden, aber das ist natürlich kein Grund, um aufzuhören. \"Spiel des Lebens\" heißt sein aktuelles Album, auf dem er sich zwischen Nostalgie, Selbstironie und Zuversicht bewegt. Noch immer steht er auf der Bühne, Ende des Jahres kommt er auch in den Norden, nach Schwerin und Hamburg. Auf dem Roten Sofa wird uns Frank Schöbel verraten, worauf sich die Fans freuen dürfen. Und warum er nach wie vor für die Ü70 von Eintracht Mahlsdorf kickt.",
-    "date": "2026-06-30T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/er-praegte-schlager-in-der-ddr-wie-kaum-ein-anderer-frank-schoebel,audio-3331542.html",
-    "image": "https://images.ndr.de/image/9f1b39fb-f043-4b94-964f-0a0ed6c5f4ee/AAABnxnL_sQ/AAABnSStX0g/1x1-big/screenshot-189546.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0701/AU-20260701-0809-0300.mp3",
-    "duration": "38 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-16-regulierte-wahrheit-ueber-den-kampf-gegen-fakenews-dlf-20260616-1915-0a3cb568-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -766,7 +818,7 @@
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
     "type": "rss",
-    "title": "Jean-Michel Basquiat - Untitled (1982): Der ungeschönte Blick des Totenkopfes, der ins Leben schreit",
+    "title": "Jean-Michel Basquiat – Untitled (1982): Der ungeschönte Blick des Totenkopfes, der ins Leben schreit",
     "summary": "<p>Ein Werk von roher, hochexpressiver Kraft, das weit über seine Entstehungszeit hinausweist: Jean-Michel Basquiats <em>Untitled</em> konfrontiert uns mit einem starren Schädel auf azurblauem Grund – einem vielschichtigen Symbol für das Aufbegehren einer neuen Stimme im westlichen Kunstkanon und die fundamentalen Fragen der eigenen Identität. Abseits von nachträglicher Mythenbildung blickt diese Folge auf den visionären Kern einer Bildsprache, die die Grenzen zwischen Hoch- und Subkultur kompromisslos auflöste und die Zerrissenheit des modernen Seins einfing. Eine Annäherung an die tiefere kunsthistorische Bedeutung eines Werkes, dessen aufrüttelnde Intensität uns bis heute unmittelbar gegenübersteht.</p><br><p>Weiterführende Links</p><p> <strong>Wikipedia-Eintrag zum Meisterwerk</strong>: <a href=\"https://en.wikipedia.org/wiki/Untitled_(1982_Basquiat_skull_painting)\" rel=\"noopener\" target=\"_blank\">Wikipedia – Untitled (1982)</a></p><p> <strong>Wikipedia-Eintrag zum Künstler</strong>: <a href=\"https://de.wikipedia.org/wiki/Jean-Michel_Basquiat\" rel=\"noopener\" target=\"_blank\">Wikipedia – Jean-Michel Basquiat</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
     "date": "2026-06-30T04:17:37.000Z",
     "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/basquiat",
@@ -919,7 +971,7 @@
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
     "type": "rss",
-    "title": "Aktuell: David Hockney - A Bigger Splash: Ein Swimmingpool zwischen Leichtigkeit und der Sehnsucht nach Unvergänglichkeit",
+    "title": "Aktuell: David Hockney – A Bigger Splash: Ein Swimmingpool zwischen Leichtigkeit und der Sehnsucht nach Unvergänglichkeit",
     "summary": "<p>Ein gleißend blauer Himmel, das unbeschwerte Lebensgefühl des kalifornischen Sommers und ein plötzlicher Spritzer im Wasser: David Hockneys Poolbilder sind weltberühmte Ikonen. Doch hinter der strahlenden, poppigen Oberfläche verbirgt sich ein faszinierendes Paradoxon. Wie bannt man einen flüchtigen Augenblick auf die Leinwand, der in der Realität nach einer Sekunde wieder verschwindet? In dieser Folge tauchen wir ein in sein Meisterwerk <em>A Bigger Splash</em>. Wir ergründen, wie Hockney der gegenständlichen Malerei ein innovatives, modernes Fundament gab und warum uns seine Kunst zwischen purer Leichtigkeit und einer eigentümlichen, lautlosen Stille bis heute im Innersten berührt. Eine Reise zum Ursprung eines unvergänglichen Lebensgefühls, das die Kunstwelt für immer verändert hat.</p><br><p>Weiterführende Links</p><p>• <strong>Das Werk in hoher Auflösung:</strong> <a href=\"https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254\" rel=\"noopener\" target=\"_blank\">Tate Gallery – David Hockney: A Bigger Splash</a></p><p>• <strong>Die offizielle David Hockney Foundation:</strong> <a href=\"https://www.thedavidhockneyfoundation.org/\" rel=\"noopener\" target=\"_blank\">The David Hockney Foundation</a></p><p>• <strong>Wikipedia-Eintrag zum Künstler:</strong> <a href=\"https://de.wikipedia.org/wiki/David_Hockney\" rel=\"noopener\" target=\"_blank\">Wikipedia – David Hockney</a></p><p>• <strong>Das mittlere Werk der Serie:</strong> <a href=\"https://en.wikipedia.org/wiki/The_Splash\" rel=\"noopener\" target=\"_blank\">Wikipedia – The Splash</a></p><p>• <strong>Das millionenschwere Rekord-Meisterwerk:</strong> <a href=\"https://en.wikipedia.org/wiki/Portrait_of_an_Artist_(Pool_with_Two_Figures)\" rel=\"noopener\" target=\"_blank\">Wikipedia – Portrait of an Artist (Pool with Two Figures)</a> </p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
     "date": "2026-06-16T00:48:49.000Z",
     "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/david-hockney",
@@ -1405,32 +1457,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-23-eingraviert-christin-ihr-tattoostudio-und-der-krebs-drk-20260523-1805-2daab803-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Eingraviert - Christin, ihr Tattoostudio und der Krebs",
-    "summary": "In Christins Tattoostudio werden Lebens-, Leidens- und Verlustgeschichten auf die Haut graviert. Die Chefin bietet allen einen sicheren Ort. Doch als der Krebs kommt, braucht Christin selbst Hilfe. Von Gülseren Sengezer www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-19T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/feature-eingraviert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/68/bc/c8/48/68bcc848-38b1-4904-86ce-0cfe865c3184/eingraviert-tattoo-feature-bild-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/23/eingraviert_christin_ihr_tattoostudio_und_der_krebs_drk_20260523_1805_2daab803.mp3?refId=das-feature-104",
-    "duration": "54 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6a0b7be40bb7fec0e38c2707",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -1467,32 +1493,6 @@
     "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/berthe-morisot-die-wiege-das-herz-des-impressionismus-hinter",
     "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
     "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a05288a06eee5b01cc1d7be/media.mp3",
-    "duration": "12 Min",
-    "tags": [
-      "kunst",
-      "kunstgeschichte",
-      "bildung",
-      "wissen",
-      "kultur"
-    ],
-    "category": [
-      "Kunst",
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "10-minuten-wissen-kunst:6a02a3885c981a3573269324",
-    "source": "10-minuten-wissen-kunst",
-    "sourceTitle": "10 Minuten Wissen – Kunst",
-    "type": "rss",
-    "title": "Berthe Morisot – Die Wiege: Das Herz des Impressionismus hinter dem Schleier (Teil 1)",
-    "summary": "<p>Paris, 1874: In den Atelierräumen des Fotografen Nadar findet eine Ausstellung statt, die die Kunstwelt in ihren Grundfesten erschüttern wird. Zwischen den Werken von Monet, Degas und Renoir hängt ein kleines, stilles Bild einer Frau, die über eine Wiege wacht. Es ist das Werk von Berthe Morisot, der einzigen Frau in der Gruppe der Impressionisten. Doch hinter der zarten Darstellung von Mull und Spitzen verbirgt sich eine wehmütige Familiengeschichte: Das Modell ist Morisots Schwester Edma, die einst selbst eine vielversprechende Malerin war, ihre Karriere jedoch mit der Heirat aufgeben musste. In dieser Folge erkunden wir, wie Morisot das vermeintlich häusliche Idyll in einen Schauplatz moderner psychologischer Tiefe verwandelte.</p><p>Wir tauchen ein in eine Zeit, in der Frauen der Zugang zur Kunstakademie verwehrt blieb und ihre Bilder auf Sterbeurkunden als „berufslos“ bezeichnet wurden. Berthe Morisot nutzte die Beschränkungen ihrer Klasse als künstlerische Superkraft. Während ihre männlichen Kollegen Bahnhöfe und Cafés malten, sezierte sie die Welt der Innenräume. Wir analysieren die doppeldeutige Geste der Mutter an der Wiege – ein Griff zum Schleier, der gleichzeitig eine Grenze zieht: Ein Blick in eine private Welt, die uns als Betrachtern niemals ganz gehören wird. Zudem klären wir, warum Morisots Name fast ein Jahrhundert lang aus der Kunstgeschichte verschwand und warum sie heute als eine der radikalsten Stimmen ihrer Zeit gefeiert wird.</p><br><p><strong>Links zur Folge</strong></p><p>• <strong>Google Arts & Culture:</strong> <a href=\"https://artsandculture.google.com/asset/the-cradle/WAE_4Ek4Dn6EnA\" rel=\"noopener\" target=\"_blank\">Hochauflösende Ansicht von „Die Wiege“ (Le Berceau)</a></p><p>• <strong>Wikipedia:</strong> <a href=\"https://de.wikipedia.org/wiki/Berthe_Morisot\" rel=\"noopener\" target=\"_blank\">Über die Künstlerin Berthe Morisot</a></p><p>• <strong>Musée d’Orsay:</strong> <a href=\"https://www.musee-orsay.fr/en/artworks/le-berceau-1132\" rel=\"noopener\" target=\"_blank\">Hintergrundinformationen zum Meisterwerk (EN)</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
-    "date": "2026-05-12T04:11:03.000Z",
-    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/berthe-morisot",
-    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
-    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a02a3885c981a3573269324/media.mp3",
     "duration": "12 Min",
     "tags": [
       "kunst",
