@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-8149731079820041",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "NDR Ernährungs-Doc Jörn Klasen über seinen \"Histamin-Masterplan\"",
+    "summary": "Ob chronische Kopfschmerzen, Hautausschlag oder ständige Magen-Darm-Beschwerden - oft steckt ein unerkannter Überschuss an Histamin im Körper hinter dem langen Leidensweg der Betroffenen. Genau hier setzt die Arbeit von NDR Ernährungs-Doc Jörn Klasen an. Der erfahrene Facharzt für Innere Medizin widmet sich tagtäglich den komplexen Ursachen von chronischen Erkrankungen und Nahrungsmittelunverträglichkeiten. Davon handelt auch sein aktuelles Buch \"Der Histamin-Masterplan\".",
+    "date": "2026-07-07T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/ndr-ernaehrungs-doc-joern-klasen-ueber-seinen-histamin-masterplan,audio-3344724.html",
+    "image": "https://images.ndr.de/image/37445bc2-c681-4193-9027-6975deb4e16d/AAABnz2i6f0/AAABnSStX0g/1x1-big/screenshot-192536.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0707/AU-20260707-2015-1700.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-9495529134669479",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/3be031f5-f89f-489c-991c-60091b9c12e8/AAABnyRANSc/AAABnSStX0g/1x1-big/screenshot-190694.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0702/AU-20260702-2028-3100.mp3",
     "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-6279794425812314",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Tarik Rose mit Köstlichkeiten aus der Levante-Küche",
-    "summary": "Der gebürtige Kieler stand schon mit seinem Großvater am Herd; ein Vorbild, das bei ihm die Liebe zur bodenständigen Küche weckte. Bei Tarik Rose kommt Regionales, häufig französisch angehaucht, auf den Tisch. Mit dem NDR Ernährungs-Doc Matthias Riedl zeigt er in der NDR Sendung \"Iss besser!\", wie einfach leckere Gerichte mit frischen Zutaten gelingen können. Aufs Rote Sofa kommt Tarik Rose mit \"Levante-Genuss\", einer kulinarischen Reise zu seinen orientalischen Wurzeln, verbunden mit den Gedanken der Longevity-Bewegung.",
-    "date": "2026-07-01T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/tarik-rose-mit-koestlichkeiten-aus-der-levante-kueche,audio-3333918.html",
-    "image": "https://images.ndr.de/image/0d65ea5d-c2a4-4166-ba92-edc70da63646/AAABnx7kH48/AAABnSStX0g/1x1-big/screenshot-190034.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0702/AU-20260702-0818-4300.mp3",
-    "duration": "40 Min",
     "tags": [
       "beatles",
       "popgeschichte",

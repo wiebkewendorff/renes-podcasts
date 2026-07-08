@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:2250ddccb5dc57cf446cc9362cc98e18",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Mitgefühl mit Sterbenden: Elisabeth Kübler-Ross",
+    "summary": "<p>Als Ärztin hört Elisabeth Kübler-Ross Sterbenden zu. Und sie gibt Menschen am Lebensende eine Stimme. Am 8. Juli 1926 wird sie geboren.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Jana Magdanz:</strong><br><ul><li>wie Elisabeth Kübler-Ross aus ihrem Leben als Drillingsschwester eine prägende Erkenntnis für ihren Lebensweg zieht,</li><li>wie eine Schwangerschaft ihren beruflichen Werdegang lenkt,</li><li>dass sich die fortschreitende Industrialisierung nicht zur auf das Zusammenleben, sondern auch das Sterben auswirkt,</li><li>von den fünf Phasen des Sterbens.</li></ul><br>In den 1960er-Jahren beobachtet die junge schweizer Ärztin Elisabeth Kübler-Ross in Kliniken, dass Sterbende ihre letzten Atemzüge häufig allein tun, oft in fensterlosen, gekachelten Räumen. Unmenschlich - findet sie. Ihre Idee vom würdevollen Lebensende vertritt sie auch gegenüber ablehnenden Kollegen.<br><br>Elisabeth Kübler-Ross trifft damals bei Sterbenden und deren Angehörigen auf offene Ohren. Und zugleich auf Unverständnis und Ressentiments bei der Ärzteschaft. Als ihr Vertrag in der Uniklinik Chicago nicht verlängert wird, widmet sie sich ausschließlich ihrer Vortragsarbeit und schreibt gegen das Tabu rund um den Tod an. Ihre Bücher verkaufen sich millionenfach. <br><br>Sie selbst erkrankt am Ende ihres Lebens schwer, erleidet mehrere Schlaganfälle und wünscht sich sehnlichst den Tod herbei - wie so viele Menschen vor ihr, die sie auf diesem Weg selbst begleitet hatte. Sie stirbt am 24. August 2004 im Alter von 78 Jahren. <br><br><strong>Das sind unsere wichtigsten Interviewpartner:</strong><br><ul><li>Kenneth Ross, Sohn von Elisabeth Kübler-Ross </li><li>Dr. Raymond Voltz, Direktor der Palliativstation der Uniklinik Köln </li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/tod_und_trauer/sterben/index.html\" rel=\"noopener\" target=\"_blank\">Tod und Trauer - Sterben</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/tod_und_trauer/selbsttoetung/pwwbselbsttoetung100.html\" rel=\"noopener\" target=\"_blank\">Tod und Trauer - Selbsttötung</a></li><li>WDR5 Erlebte Geschichten: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/erlebtegeschichten/ingeborg-jonen-thielemann-104.html\" rel=\"noopener\" target=\"_blank\">Die Palliativ-Medizinerin Ingeborg Jonen-Thielemann</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Jana Magdanz <br>Redakteurin: Sefa Inci Suvak",
+    "date": "2026-07-08T04:00:42.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-mitgefuehl-mit-sterbenden-elisabeth-kuebler-ross-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/kuebler-ross-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/18/16bbbf2d-d07f-4d71-9a48-19db5cc70179/16bbbf2d-d07f-4d71-9a48-19db5cc70179_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:711e386b2e881e7558e793d2eb93f259",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -221,29 +244,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-marilyn-monroe-und-arthur-miller-kopf-heiratet-koerper-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-hochzeit-marilyn-monroe-arthur-miller-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/15/818d7304-47da-4d3b-8a72-8a40cf303e94/818d7304-47da-4d3b-8a72-8a40cf303e94_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:88d7a1ba6eb3e0f45a8fd82d7caf2e8a",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Die harte Hand der Gegenreformation: Papst Paul IV.",
-    "summary": "<p>Am 28.6.1476 wird Gian Pietro Carafa geboren. Mit fast 80 Jahren wird er zu Papst Paul IV., verschärft die Inquisition, bekämpft Protestanten und zwingt die Juden Roms ins Ghetto.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christian Kosfeld:</strong><br><ul><li>von der Krise der katholischen Kirche um das Jahr 1500,</li><li>von Carafas Hass auf alle Herrscherhäuser, die Gebiete in Italien besitzen,</li><li>vom strengen Orden der Theatiner und einer Totalkonfrontation mit der Reformation,</li><li>wie die Menschen das Ende seiner Schreckensherrschaft feiern.</li></ul><br>Gian Pietro Carafa wird am 28. Juni 1476 in eine Adels-Familie des Königreichs Neapel geboren. Er wird für eine Kirchenlaufbahn ausgebildet und 1955 zum Papst gewählt. Nach seinem Tod wird er in die Geschichte eingehen: Als Beispiel dafür, was passieren kann, wenn ein alter, starrsinniger Mann mit seiner fast grenzenlosen Macht nicht umgehen kann.<br><br>Um mögliche Gegner in und außerhalb der Kirche zu finden, baut Paul IV. ein Spitzelsystem auf. Er verbietet Tanz, Musik und Spiele, verfolgt die Menschen mit der Inquisition und zettelt sinnlose Kriege an. Am brutalsten verfolgt er die Juden, befiehlt gar die Errichtung eines Ghettos in Rom. 1559 stirbt der Papst mit 83 Jahren. Endlich ist der Albtraum vorbei, der vier Jahre lang Rom, die Kirche und ganz Europa beherrscht hat. Und viele fragen sich: Wie konnte es soweit kommen? <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Volker Reinhardt, Historiker an der Universität Fribourg</li><li>Volker Reinhardt: Pontifex. Die Geschichte der Päpste. Von Petrus bis Franziskus. München 2017</li><li>Bruno Steiner (Hrsg.): Lexikon der Päpste und des Papsttums. Freiburg im Breisgau 2010</li><li>Klaus Lohrmann: Die Päpste und die Juden. 2000 Jahre zwischen Verfolgung und Versöhnung. Ostfildern 2008</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag-geburtstag-papst-pius-zwoelfte-100.html\" rel=\"noopener\" target=\"_blank\">2. März 1876 - Papst Pius XII. wird geboren</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-formosus-100.html\" rel=\"noopener\" target=\"_blank\">04.04.896 - Todestag Papst Formosus</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-vatikan-hebt-index-verbotener-buecher-auf-100.html\" rel=\"noopener\" target=\"_blank\">14.06.1966 - Vatikan hebt den Index verbotener Bücher auf</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christian Kosfeld<br>Redaktion: Christoph Tiegel und Sefa Inci Suvak",
-    "date": "2026-06-28T04:00:33.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-harte-hand-der-gegenreformation-papst-paul-iv-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-papst-paul-vierte-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/15/be1b2571-4e49-42aa-89ea-0ee5483f1251/be1b2571-4e49-42aa-89ea-0ee5483f1251_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-kulturmeldungen-07072026-dlf-20260707-1756-776ba885-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 07.07.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-07T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/kulturmeldungen_07072026_dlf_20260707_1756_776ba885.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-kita-von-kere-die-hoelzerne-kindertagesstaette-in-muenchen-dlf-20260707-1751-e06a2539-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kita von Kéré - Die hölzerne Kindertagesstätte in München wird eingeweiht",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-07T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kita-von-k-r-die-hoelzerne-kindertagesstaette-in-muenchen-wird-eingeweiht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/kita_von_kere_die_hoelzerne_kindertagesstaette_in_muenchen_dlf_20260707_1751_e06a2539.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-zerstoerte-kulturstaetten-thomas-schaumberg-ueber-das-dlf-20260707-1745-8d683bdd-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zerstörte Kulturstätten - Thomas Schaumberg über das Erdbeben in Venezuela",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-07T15:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zerstoerte-kulturstaetten-thomas-schaumberg-ueber-das-erdbeben-in-venezuela-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/zerstoerte_kulturstaetten_thomas_schaumberg_ueber_das_dlf_20260707_1745_8d683bdd.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-symphonie-der-farben-paul-signac-und-der-neoimpressionismus-dlf-20260707-1740-3e662566-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Symphonie der Farben - Paul Signac und der Neoimpressionismus\" in Potsdam",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-07T15:40:00.000Z",
+    "url": "https://www.deutschlandfunk.de/symphonie-der-farben-paul-signac-und-der-neoimpressionismus-in-potsdam-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/symphonie_der_farben_paul_signac_und_der_neoimpressionismus_dlf_20260707_1740_3e662566.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-mr-filmfestival-ex-berlinalechef-moritz-de-hadeln-ist-dlf-20260707-1736-eb64b2ee-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mr. Filmfestival\" - Ex-Berlinalechef Moritz de Hadeln ist gestorben",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-07T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/mr-filmfestival-ex-berlinalechef-moritz-de-hadeln-ist-gestorben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/mr_filmfestival_ex_berlinalechef_moritz_de_hadeln_ist_dlf_20260707_1736_eb64b2ee.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-kulturmeldungen-06072026-dlf-20260706-1756-195afccd-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/millionenraub_einbruch_ins_lalique_museum_im_elsass_dlf_20260706_1735_0545c079.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-kulturmeldungen-05072026-dlf-20260705-1756-dc1e5986-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 05.07.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-05T15:56:16.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/kulturmeldungen_05072026_dlf_20260705_1756_dc1e5986.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-vilhelm-hammershi-maler-des-stillen-klangs-ausstellung-im-dlf-20260705-1751-6a1d0f54-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Vilhelm Hammershøi - Maler des stillen Klangs\" Ausstellung im Kunsthaus Zürich",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-05T15:51:13.000Z",
-    "url": "https://www.deutschlandfunk.de/vilhelm-hammersh-i-maler-des-stillen-klangs-ausstellung-im-kunsthaus-zuerich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/vilhelm_hammershi_maler_des_stillen_klangs_ausstellung_im_dlf_20260705_1751_6a1d0f54.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-maldoror-und-uma-luz-cordial-auftakt-beim-theaterfestival-in-dlf-20260705-1744-ac1bd717-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Maldoror\" und \"Uma luz cordial\" - Auftakt beim Theaterfestival in Avignon",
-    "summary": "Klaeui, Andreas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-05T15:44:05.000Z",
-    "url": "https://www.deutschlandfunk.de/maldoror-und-uma-luz-cordial-auftakt-beim-theaterfestival-in-avignon-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/maldoror_und_uma_luz_cordial_auftakt_beim_theaterfestival_in_dlf_20260705_1744_ac1bd717.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-nach-aus-fuer-neubau-wie-geht-es-weiter-in-der-deutschen-dlf-20260705-1738-741a5fd6-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach Aus für Neubau - Wie geht es weiter in der Deutschen Oper am Rhein?",
-    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-05T15:38:19.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-aus-fuer-neubau-wie-geht-es-weiter-in-der-deutschen-oper-am-rhein-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/nach_aus_fuer_neubau_wie_geht_es_weiter_in_der_deutschen_dlf_20260705_1738_741a5fd6.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-islamische-kunst-in-deutscher-forschung-religionspaed-m-dlf-20260705-1730-121918af-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Islamische Kunst in deutscher Forschung - Religionspäd. M. Khorchide im Gespräch",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-05T15:30:15.000Z",
-    "url": "https://www.deutschlandfunk.de/islamische-kunst-in-deutscher-forschung-religionspaed-m-khorchide-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/islamische_kunst_in_deutscher_forschung_religionspaed_m_dlf_20260705_1730_121918af.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
     "tags": [
       "kultur",
       "theater",
