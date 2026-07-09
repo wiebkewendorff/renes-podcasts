@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-kulturmeldungen-08072026-dlf-20260708-1756-3f9f8b6f-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 08.07.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-08T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/kulturmeldungen_08072026_dlf_20260708_1756_3f9f8b6f.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-between-beyond-pinakothek-muenchern-ueber-kunst-und-raum-dlf-20260708-1751-cd9e7d4b-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "between beyond - Pinakothek Münchern über Kunst und Raum",
+    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-08T15:51:20.000Z",
+    "url": "https://www.deutschlandfunk.de/between-beyond-pinakothek-muenchern-ueber-kunst-und-raum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/between_beyond_pinakothek_muenchern_ueber_kunst_und_raum_dlf_20260708_1751_cd9e7d4b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-hitlers-aufstieg-in-bayern-gerhard-loibl-vom-haus-der-dlf-20260708-1745-ef9d5c08-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hitlers Aufstieg in Bayern - Gerhard Loibl vom Haus der Bayerischen Geschichte",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-08T15:45:44.000Z",
+    "url": "https://www.deutschlandfunk.de/hitlers-aufstieg-in-bayern-gerhard-loibl-vom-haus-der-bayerischen-geschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/hitlers_aufstieg_in_bayern_gerhard_loibl_vom_haus_der_dlf_20260708_1745_ef9d5c08.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-lesen-gegen-rechtsextremismus-das-festival-antifaschistische-dlf-20260708-1740-599c84bd-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lesen gegen Rechtsextremismus? Das Festival \"Antifaschistische Literatur\"",
+    "summary": "Cornelius Wüllenkemper www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-08T15:40:41.000Z",
+    "url": "https://www.deutschlandfunk.de/lesen-gegen-rechtsextremismus-das-festival-antifaschistische-literatur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/lesen_gegen_rechtsextremismus_das_festival_antifaschistische_dlf_20260708_1740_599c84bd.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-historikerin-barbara-manthe-zum-moeglichen-aus-fuer-nsu-dlf-20260708-1735-c29b167c-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Historikerin Barbara Manthe zum möglichen Aus für NSU-Dokuzentrum",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-08T15:35:15.000Z",
+    "url": "https://www.deutschlandfunk.de/historikerin-barbara-manthe-zum-moeglichen-aus-fuer-nsu-dokuzentrum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/historikerin_barbara_manthe_zum_moeglichen_aus_fuer_nsu_dlf_20260708_1735_c29b167c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-kulturmeldungen-07072026-dlf-20260707-1756-776ba885-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -114,136 +244,6 @@
     "url": "https://www.deutschlandfunk.de/mr-filmfestival-ex-berlinalechef-moritz-de-hadeln-ist-gestorben-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/mr_filmfestival_ex_berlinalechef_moritz_de_hadeln_ist_dlf_20260707_1736_eb64b2ee.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-kulturmeldungen-06072026-dlf-20260706-1756-195afccd-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 06.07.2026",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-06T15:56:34.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-07-104.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/kulturmeldungen_06072026_dlf_20260706_1756_195afccd.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-mensch-natur-im-wandel-der-zeit-kunst-zur-landesgartenschau-dlf-20260706-1750-f8496935-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mensch Natur im Wandel der Zeit\" - Kunst zur Landesgartenschau Neuss",
-    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-06T15:50:51.000Z",
-    "url": "https://www.deutschlandfunk.de/mensch-natur-im-wandel-der-zeit-kunst-zur-landesgartenschau-neuss-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/mensch_natur_im_wandel_der_zeit_kunst_zur_landesgartenschau_dlf_20260706_1750_f8496935.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-dirk-schuetz-zu-den-auswirkungen-des-reformpakets-auf-die-dlf-20260706-1745-fb486bff-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Dirk Schütz zu den Auswirkungen des Reformpakets auf die Kulturbranche",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-06T15:45:30.000Z",
-    "url": "https://www.deutschlandfunk.de/dirk-schuetz-zu-den-auswirkungen-des-reformpakets-auf-die-kulturbranche-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/dirk_schuetz_zu_den_auswirkungen_des_reformpakets_auf_die_dlf_20260706_1745_fb486bff.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-entruempelt-die-buehnen-optionen-fuer-theater-in-dlf-20260706-1740-4f46c49c-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Entrümpelt die Bühnen! - Optionen für Theater in Krisenzeiten",
-    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-06T15:40:31.000Z",
-    "url": "https://www.deutschlandfunk.de/entruempelt-die-buehnen-optionen-fuer-theater-in-krisenzeiten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/entruempelt_die_buehnen_optionen_fuer_theater_in_dlf_20260706_1740_4f46c49c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-millionenraub-einbruch-ins-lalique-museum-im-elsass-dlf-20260706-1735-0545c079-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Millionenraub - Einbruch ins Lalique-Museum im Elsass",
-    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-06T15:35:42.000Z",
-    "url": "https://www.deutschlandfunk.de/millionenraub-einbruch-ins-lalique-museum-im-elsass-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/millionenraub_einbruch_ins_lalique_museum_im_elsass_dlf_20260706_1735_0545c079.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",

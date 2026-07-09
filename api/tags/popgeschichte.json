@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-5140234226840212",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Erzählen von ihrem Leben auf Mallorca: Phong Lan Hofer und Jan Hofer",
+    "summary": "Sie leben dort, wo viele Deutsche Urlaub machen: auf der spanischen Mittelmeer-Insel Mallorca. Der frühere \"tagesschau\"-Chefsprecher Jan Hofer und seine Ehefrau Phong Lan wohnen mit ihrem 10-jährigen Sohn Henry in der Insel-Hauptstadt Palma. Nach der langjährigen TV-Karriere eine bewusste Entscheidung für die Familie, so Jan Hofer, der seit 2018 mit Phong Lan verheiratet ist. Auf dem Roten Sofa erzählt das Paar von seinem Familienleben und seiner tiefen Liebe zur Sonneninsel. Und die beiden berichten, dass Ruhestand für sie überhaupt kein Thema ist.",
+    "date": "2026-07-08T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/erzaehlen-von-ihrem-leben-auf-mallorca-phong-lan-hofer-und-jan-hofer,audio-3347870.html",
+    "image": "https://images.ndr.de/image/106082d7-2822-4043-891e-fc4c192a2c3a/AAABn0LwoNg/AAABnSStX0g/1x1-big/screenshot-192948.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0709/AU-20260709-1026-0000.mp3",
+    "duration": "41 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-8149731079820041",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/05433b0d-ac00-47e8-93bb-ab9867279213/AAABnykIXNM/AAABnSStX0g/1x1-big/screenshot-190984.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0706/AU-20260706-0931-4000.mp3",
     "duration": "28 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-1562329047941402",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Schauspieler Ben Becker im Gespräch mit Inka Schneider",
-    "summary": "Wo er auftritt, entsteht garantiert ein Moment von außergewöhnlicher Intensität: auf der Bühne, im Film oder auf dem Roten Sofa. Sein Markenzeichen: die Stimme - sonor, rauchig, unverwechselbar. Mit ihr veredelt er seit Jahrzehnten zahlreiche Film-, Hörspiel- oder Theaterproduktionen wie \"Ich Judas\". Aktuell leiht Ben Becker für die Show \"Luminiscence\" seine Stimme dem Hamburger Michel und erzählt die Geschichte der Kirche - ihre Entstehung, Zerstörungen und Wiedergeburten.",
-    "date": "2026-07-02T16:45:00.000Z",
-    "url": "https://www.ndr.de/schauspieler-ben-becker-im-gespraech-mit-inka-schneider,audio-3335784.html",
-    "image": "https://images.ndr.de/image/3be031f5-f89f-489c-991c-60091b9c12e8/AAABnyRANSc/AAABnSStX0g/1x1-big/screenshot-190694.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0702/AU-20260702-2028-3100.mp3",
-    "duration": "39 Min",
     "tags": [
       "beatles",
       "popgeschichte",
