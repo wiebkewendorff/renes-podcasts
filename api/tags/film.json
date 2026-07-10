@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-kulturmeldungen-09072026-dlf-20260709-1756-9cb69703-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 09.07.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-09T15:56:14.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/kulturmeldungen_09072026_dlf_20260709_1756_9cb69703.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-marode-kulturbauten-wie-das-theaterprovisorium-in-chemnitz-dlf-20260709-1751-dfb47227-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Marode Kulturbauten - Wie das Theaterprovisorium in Chemnitz funktioniert",
+    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-09T15:51:41.000Z",
+    "url": "https://www.deutschlandfunk.de/marode-kulturbauten-wie-das-theaterprovisorium-in-chemnitz-funktioniert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/marode_kulturbauten_wie_das_theaterprovisorium_in_chemnitz_dlf_20260709_1751_dfb47227.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-etwas-ganz-besonderes-der-neue-film-von-eva-trobisch-kommt-dlf-20260709-1746-b1b24662-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Etwas ganz Besonderes - Der neue Film von Eva Trobisch kommt ins Kino",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-09T15:46:16.000Z",
+    "url": "https://www.deutschlandfunk.de/etwas-ganz-besonderes-der-neue-film-von-eva-trobisch-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/etwas_ganz_besonderes_der_neue_film_von_eva_trobisch_kommt_dlf_20260709_1746_b1b24662.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-unbekuemmerter-eigensinn-buechner-preis-fuer-christine-dlf-20260709-1737-4aafe1be-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Unbekümmerter Eigensinn\" - Büchner-Preis für Christine Wunnicke",
+    "summary": "Porombka, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-09T15:37:01.000Z",
+    "url": "https://www.deutschlandfunk.de/unbekuemmerter-eigensinn-buechner-preis-fuer-christine-wunnicke-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/unbekuemmerter_eigensinn_buechner_preis_fuer_christine_dlf_20260709_1737_4aafe1be.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-kulturmeldungen-08072026-dlf-20260708-1756-3f9f8b6f-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/kulturmeldungen_07072026_dlf_20260707_1756_776ba885.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-kita-von-kere-die-hoelzerne-kindertagesstaette-in-muenchen-dlf-20260707-1751-e06a2539-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kita von Kéré - Die hölzerne Kindertagesstätte in München wird eingeweiht",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-07T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kita-von-k-r-die-hoelzerne-kindertagesstaette-in-muenchen-wird-eingeweiht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/kita_von_kere_die_hoelzerne_kindertagesstaette_in_muenchen_dlf_20260707_1751_e06a2539.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-zerstoerte-kulturstaetten-thomas-schaumberg-ueber-das-dlf-20260707-1745-8d683bdd-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zerstörte Kulturstätten - Thomas Schaumberg über das Erdbeben in Venezuela",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-07T15:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zerstoerte-kulturstaetten-thomas-schaumberg-ueber-das-erdbeben-in-venezuela-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/zerstoerte_kulturstaetten_thomas_schaumberg_ueber_das_dlf_20260707_1745_8d683bdd.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-symphonie-der-farben-paul-signac-und-der-neoimpressionismus-dlf-20260707-1740-3e662566-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Symphonie der Farben - Paul Signac und der Neoimpressionismus\" in Potsdam",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-07T15:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/symphonie-der-farben-paul-signac-und-der-neoimpressionismus-in-potsdam-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/symphonie_der_farben_paul_signac_und_der_neoimpressionismus_dlf_20260707_1740_3e662566.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-mr-filmfestival-ex-berlinalechef-moritz-de-hadeln-ist-dlf-20260707-1736-eb64b2ee-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mr. Filmfestival\" - Ex-Berlinalechef Moritz de Hadeln ist gestorben",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-07T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/mr-filmfestival-ex-berlinalechef-moritz-de-hadeln-ist-gestorben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/mr_filmfestival_ex_berlinalechef_moritz_de_hadeln_ist_dlf_20260707_1736_eb64b2ee.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
