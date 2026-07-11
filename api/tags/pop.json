@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-10-der-comic-die-summe-seiner-teile-und-das-weiterleben-nach-dlf-20260710-1520-f53cdc73-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Comic \"Die Summe seiner Teile\" und das Weiterleben nach dem Tod durch KI",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-10T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/der-comic-die-summe-seiner-teile-und-das-weiterleben-nach-dem-tod-durch-ki-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/der_comic_die_summe_seiner_teile_und_das_weiterleben_nach_dlf_20260710_1520_f53cdc73.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-10-neues-rolling-stones-album-foreign-tongues-dlf-20260710-1515-5c779916-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Rolling Stones Album \"Foreign Tongues\"",
+    "summary": "Gross, Thorsten www.deutschlandfunk.de, Corso",
+    "date": "2026-07-10T13:15:01.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-rolling-stones-album-foreign-tongues-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/neues_rolling_stones_album_foreign_tongues_dlf_20260710_1515_5c779916.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-09-diktator-mbappe-was-die-ki-generierten-fussball-animes-dlf-20260709-1515-2d201b26-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/staat_fuerchtet_witz_tuerkischer_comedian_deniz_goektas_dlf_20260707_1508_a3b67724.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-07-20-jahre-nach-carrell-wie-niederlaender-das-deutsche-dlf-20260707-1505-16e2a8ab-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "20 Jahre nach Carrell - Wie Niederländer das deutsche Privatfernsehen prägten",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-07T13:05:43.000Z",
-    "url": "https://www.deutschlandfunk.de/20-jahre-nach-carrell-wie-niederlaender-das-deutsche-privatfernsehen-praegten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/20_jahre_nach_carrell_wie_niederlaender_das_deutsche_dlf_20260707_1505_16e2a8ab.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-06-netflix-serie-human-vapor-viel-dampf-um-nichts-dlf-20260706-1515-48af0740-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Netflix Serie \"Human Vapor\" – Viel Dampf um nichts",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-06T13:15:13.000Z",
-    "url": "https://www.deutschlandfunk.de/netflix-serie-human-vapor-viel-dampf-um-nichts-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/netflix_serie_human_vapor_viel_dampf_um_nichts_dlf_20260706_1515_48af0740.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",

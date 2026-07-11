@@ -1,5 +1,185 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-kulturmeldungen-10072026-dlf-20260710-1756-c3d784cd-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 10.07.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-10T15:56:45.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/kulturmeldungen_10072026_dlf_20260710_1756_c3d784cd.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-schlechter-stil-zum-ende-der-intendanz-von-barbara-mundel-an-dlf-20260710-1753-33da50bf-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schlechter Stil - Zum Ende der Intendanz von Barbara Mundel an den Kammerspielen",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-10T15:53:32.000Z",
+    "url": "https://www.deutschlandfunk.de/schlechter-stil-zum-ende-der-intendanz-von-barbara-mundel-an-den-kammerspielen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/schlechter_stil_zum_ende_der_intendanz_von_barbara_mundel_an_dlf_20260710_1753_33da50bf.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-tschernobyl-museum-in-kyjiw-wie-es-nach-der-zerstoerung-dlf-20260710-1748-56d9b69d-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Tschernobyl-Museum in Kyjiw: Wie es nach der Zerstörung weitergeht",
+    "summary": "Rother, Frederik www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-10T15:48:52.000Z",
+    "url": "https://www.deutschlandfunk.de/tschernobyl-museum-in-kyjiw-wie-es-nach-der-zerstoerung-weitergeht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/tschernobyl_museum_in_kyjiw_wie_es_nach_der_zerstoerung_dlf_20260710_1748_56d9b69d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-zu-den-sternen-weltraum-und-weltflucht-seit-der-moderne-im-dlf-20260710-1743-3bd9145d-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Zu den Sternen! Weltraum und Weltflucht seit der Moderne\" im Arp Museum",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-10T15:43:10.000Z",
+    "url": "https://www.deutschlandfunk.de/zu-den-sternen-weltraum-und-weltflucht-seit-der-moderne-im-arp-museum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/zu_den_sternen_weltraum_und_weltflucht_seit_der_moderne_im_dlf_20260710_1743_3bd9145d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-suedkoreanisches-theater-die-gastsprache-beim-festival-dlf-20260710-1736-51d8531f-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Südkoreanisches Theater - Die \"Gastsprache\" beim Festival d'Avignon",
+    "summary": "Klaeui, Andreas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-10T15:36:19.000Z",
+    "url": "https://www.deutschlandfunk.de/suedkoreanisches-theater-die-gastsprache-beim-festival-d-avignon-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/suedkoreanisches_theater_die_gastsprache_beim_festival_dlf_20260710_1736_51d8531f.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-10-der-comic-die-summe-seiner-teile-und-das-weiterleben-nach-dlf-20260710-1520-f53cdc73-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Comic \"Die Summe seiner Teile\" und das Weiterleben nach dem Tod durch KI",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-10T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/der-comic-die-summe-seiner-teile-und-das-weiterleben-nach-dem-tod-durch-ki-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/der_comic_die_summe_seiner_teile_und_das_weiterleben_nach_dlf_20260710_1520_f53cdc73.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-10-neues-rolling-stones-album-foreign-tongues-dlf-20260710-1515-5c779916-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Rolling Stones Album \"Foreign Tongues\"",
+    "summary": "Gross, Thorsten www.deutschlandfunk.de, Corso",
+    "date": "2026-07-10T13:15:01.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-rolling-stones-album-foreign-tongues-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/neues_rolling_stones_album_foreign_tongues_dlf_20260710_1515_5c779916.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-kulturmeldungen-09072026-dlf-20260709-1756-9cb69703-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -232,110 +412,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-between-beyond-pinakothek-muenchern-ueber-kunst-und-raum-dlf-20260708-1751-cd9e7d4b-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "between beyond - Pinakothek Münchern über Kunst und Raum",
-    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-08T15:51:20.000Z",
-    "url": "https://www.deutschlandfunk.de/between-beyond-pinakothek-muenchern-ueber-kunst-und-raum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/between_beyond_pinakothek_muenchern_ueber_kunst_und_raum_dlf_20260708_1751_cd9e7d4b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-hitlers-aufstieg-in-bayern-gerhard-loibl-vom-haus-der-dlf-20260708-1745-ef9d5c08-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hitlers Aufstieg in Bayern - Gerhard Loibl vom Haus der Bayerischen Geschichte",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-08T15:45:44.000Z",
-    "url": "https://www.deutschlandfunk.de/hitlers-aufstieg-in-bayern-gerhard-loibl-vom-haus-der-bayerischen-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/hitlers_aufstieg_in_bayern_gerhard_loibl_vom_haus_der_dlf_20260708_1745_ef9d5c08.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-lesen-gegen-rechtsextremismus-das-festival-antifaschistische-dlf-20260708-1740-599c84bd-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lesen gegen Rechtsextremismus? Das Festival \"Antifaschistische Literatur\"",
-    "summary": "Cornelius Wüllenkemper www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-08T15:40:41.000Z",
-    "url": "https://www.deutschlandfunk.de/lesen-gegen-rechtsextremismus-das-festival-antifaschistische-literatur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/lesen_gegen_rechtsextremismus_das_festival_antifaschistische_dlf_20260708_1740_599c84bd.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-historikerin-barbara-manthe-zum-moeglichen-aus-fuer-nsu-dlf-20260708-1735-c29b167c-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Historikerin Barbara Manthe zum möglichen Aus für NSU-Dokuzentrum",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-08T15:35:15.000Z",
-    "url": "https://www.deutschlandfunk.de/historikerin-barbara-manthe-zum-moeglichen-aus-fuer-nsu-dokuzentrum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/historikerin_barbara_manthe_zum_moeglichen_aus_fuer_nsu_dlf_20260708_1735_c29b167c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-08-neue-filme-night-and-day-etwas-ganz-besonderes-auf-zwei-dlf-20260708-1520-9a011d11-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -411,32 +487,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-kulturmeldungen-07072026-dlf-20260707-1756-776ba885-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 07.07.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-07T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/kulturmeldungen_07072026_dlf_20260707_1756_776ba885.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-07-virales-versteckspiel-warum-ist-meccha-chameleon-so-dlf-20260707-1520-69c4a3ab-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -487,31 +537,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-07-20-jahre-nach-carrell-wie-niederlaender-das-deutsche-dlf-20260707-1505-16e2a8ab-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "20 Jahre nach Carrell - Wie Niederländer das deutsche Privatfernsehen prägten",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-07T13:05:43.000Z",
-    "url": "https://www.deutschlandfunk.de/20-jahre-nach-carrell-wie-niederlaender-das-deutsche-privatfernsehen-praegten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/20_jahre_nach_carrell_wie_niederlaender_das_deutsche_dlf_20260707_1505_16e2a8ab.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-11-doku-drops-14-jung-alt-drk-20260711-1805-9c4b1726-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -534,31 +559,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-06-netflix-serie-human-vapor-viel-dampf-um-nichts-dlf-20260706-1515-48af0740-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Netflix Serie \"Human Vapor\" – Viel Dampf um nichts",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-06T13:15:13.000Z",
-    "url": "https://www.deutschlandfunk.de/netflix-serie-human-vapor-viel-dampf-um-nichts-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/netflix_serie_human_vapor_viel_dampf_um_nichts_dlf_20260706_1515_48af0740.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
