@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:e3e32f361c9926b2dc60369cc57d3255",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "D.T. Suzuki: Der Mann, der Zen in den Westen brachte",
+    "summary": "<p>Was wir mit \"Zen\" verbinden, ist auch das Werk eines Mannes: D.T. Suzuki (gestorben am 12. Juli 1966) exportierte den Zen-Buddhismus in den Westen - mit Folgen bis heute.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Sabina Zollner:</strong><br><ul><li>was US-Schriftsteller Jack Kerouac mit der D. T. Suzuki und der Verbreitung des Zen zu tun hat,</li><li>warum die Ideen von D. T. Suzuki Intellektuelle, Beat-Autoren und Hippies faszinieren,</li><li>weshalb Suzukis Verständnis von Erleuchtung oft missverstanden wird,</li><li>wie aus klösterlicher Praxis ein globaler Achtsamkeitstrend entsteht.</li></ul><br>Daisetz Teitaro Suzuki wächst im Japan des 19. Jahrhunderts auf und findet erst über Umwege zum Zen. Später wird er zu einem der wichtigsten Vermittler zwischen östlicher Spiritualität und westlicher Philosophie. Seine Version von Zen spricht ein Publikum an, das sich nach individueller Erfahrung sehnt.<br><br>Mit seinen Vorträgen und Schriften begeistert er ein Publikum, das nach Sinn jenseits traditioneller Religion sucht. Damit prägt er die moderne Vorstellung von Spiritualität bis heute.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Professorin Inken Prohl (Religionswissenschaftlerin und Japanologin, Universität Heidelberg)</li><li>Robert Goldmann (Zen-Lehrer, Buddhistische Gesellschaft Berlin)</li><li>Inken Prohl: Zen für Dummies. Weinheim 2010</li><li>Winthrop Sargeant: The Great Simplicity. New York 1957</li><li>Eric Cunningham: D. T. Suzuki - A Biographical Summary. Ann Arbor 2015</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Das Philosophische Radio: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/philosophisches-radio/hans-guenter-wagner-100.html\" rel=\"noopener\" target=\"_blank\">Inwieweit prägt das Denken des Buddhismus die abendländische Kultur?</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/religion/buddhismus/index.html\" rel=\"noopener\" target=\"_blank\">Buddhismus</a></li><li>SWR: <a href=\"https://www.ardmediathek.de/video/vollbild-recherchen-die-mehr-zeigen/krank-durch-meditation-die-unbekannten-gefahren-der-achtsamkeit/swr/Y3JpZDovL3N3ci5kZS9hZXgvbzIwMjA2MzY\" rel=\"noopener\" target=\"_blank\">Krank durch Meditation? Die unbekannten Gefahren der Achtsamkeit</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und der Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Sabina Zollner<br>Redaktion: Matti Hesse",
+    "date": "2026-07-12T04:00:58.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-dt-suzuki-der-mann-der-zen-in-den-westen-brachte-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/daisetz-teitaro-suzuki-zeitzeichen-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/01/44b122fa-5198-4a25-892a-53b58a90b1f2/44b122fa-5198-4a25-892a-53b58a90b1f2_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:8ad44c57d6a1838162c68ef1f56a0f0e",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-skandal-und-startschuss-nicht-der-homosexuelle-ist-pervers-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-nicht-der-homosexuelle-ist-pervers-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/24/2c1cb39e-64bc-40f0-9e02-28767b5296c8/2c1cb39e-64bc-40f0-9e02-28767b5296c8_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:c8cf82164017b92e68edb9283eec1677",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Nostradamus: Der düstere Prophet aus der Provence",
-    "summary": "<p>Bis heute sind die Prophezeiungen des Nostradamus (gestorben am 2.7.1566) ein Kassenschlager. Aber hat er wirklich in die Zukunft geblickt oder einfach nur zu tief ins Absinth-Glas?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christoph Vormweg:</strong><br><ul><li>wie Pest und Kriege die Geschäfte von Nostradamus befeuern, </li><li>warum sein Geschäftsmodell noch heute funktioniert,</li><li>was moderne Wissenschaftler entlarvt haben.</li></ul><br>Nostradamus studiert zunächst Medizin und arbeitet als Pestarzt. Berühmt wird er jedoch für seine Prophezeiungen. Dabei formuliert er seine Verse so kryptisch, dass Ereignisse als von ihm vorhergesagt erscheinen.<br><br>Das spricht sich bei den Mächtigen seiner Zeit herum: Karl IX. - König von Frankreich - und Königin Katharina von Medici suchen Rat bei Nostradamus und überhäufen ihn im Gegenzug mit Geld. Seine Kritiker vermuten ein lukratives Geschäftsmodell und schreiben seine nächtlichen Visionen dem Alkoholkonsum zu. <br><br>Nostradamus selbst bleibt unbeirrt und gibt die Gültigkeit seiner Prophezeiungen mit \"von heute bis ins Jahr 3797\" an. Ganz Unrecht hat er nicht. Seine Verse füttern zumindest noch im 21. Jahrhundert zahlreiche Verschwörungen und Mythen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Michelle Huchon (Biografin, Professorin an der Universität Sorbonne)</li><li>Dipl.-Psych. Eberhard Bauer, Institut für Grenzgebiete der Psychologie & Psychohygiene e. V (IGPP), Vorstandsmitglied </li><li>Mireille Huchon: Nostradamus. Paris 2021</li><li>Frank Rainer Scheck: Nostradamus. München 2001</li></ul><br><strong>Weiterführende Quellen und Links:</strong><br><ul><li>Kurt Allgeier: Nostradamus. Was jetzt auf uns zukommt. Rottenburg 2014</li><li>Elmar R. Gruber: Nostradamus. Sein Leben, sein Werk und die wahre Bedeutung seiner Prophezeiungen. Bern 2003</li><li><a href=\"https://www.tagesschau.de/faktenfinder/prophezeiung-corona-pandemie-101.html\" rel=\"noopener\" target=\"_blank\">Legenden im Netz: Keine Prophezeiung der Corona-Pandemie (tagesschau)</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christoph Vormweg<br>Redaktion: Frank Zirpins",
-    "date": "2026-07-02T04:00:05.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-nostradamus-der-duestere-prophet-aus-der-provence-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-nostradamus-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/16/643a61db-b2fc-4cfe-a97a-0f9033c8f823/643a61db-b2fc-4cfe-a97a-0f9033c8f823_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

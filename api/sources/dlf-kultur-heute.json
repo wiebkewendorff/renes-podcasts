@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-kulturmeldungen-11072026-dlf-20260711-1756-9bfc1d6a-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 11.07.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-11T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-11-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/kulturmeldungen_11072026_dlf_20260711_1756_9bfc1d6a.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-kampf-der-titanen-theaterspektakel-am-nationaltheater-dlf-20260711-1752-6204768e-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Kampf der Titanen\" - Theaterspektakel am Nationaltheater Mannheim",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-11T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kampf-der-titanen-theaterspektakel-am-nationaltheater-mannheim-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/kampf_der_titanen_theaterspektakel_am_nationaltheater_dlf_20260711_1752_6204768e.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-im-freien-tina-blau-eine-impressionistin-aus-wien-dlf-20260711-1745-e0033661-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Im Freien - Tina Blau. Eine Impressionistin aus Wien\", Ausstellung in Ahlen",
+    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-11T15:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/im-freien-tina-blau-eine-impressionistin-aus-wien-ausstellung-in-ahlen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/im_freien_tina_blau_eine_impressionistin_aus_wien_dlf_20260711_1745_e0033661.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-70m-unesco-weltkulturerbe-der-teppich-von-bayeux-im-british-dlf-20260711-1740-82000adb-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "70m UNESCO Weltkulturerbe - Der Teppich von Bayeux im British Museum",
+    "summary": "Röhling, Lisa-Maria www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-11T15:40:00.000Z",
+    "url": "https://www.deutschlandfunk.de/70m-unesco-weltkulturerbe-der-teppich-von-bayeux-im-british-museum-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/70m_unesco_weltkulturerbe_der_teppich_von_bayeux_im_british_dlf_20260711_1740_82000adb.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-mehr-als-nur-ein-fortbewegungsmittel-die-deutschen-und-ihre-dlf-20260711-1731-56fe82ad-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mehr als nur ein Fortbewegungsmittel: Die Deutschen und ihre Liebe zum Auto",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-11T15:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/mehr-als-nur-ein-fortbewegungsmittel-die-deutschen-und-ihre-liebe-zum-auto-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/mehr_als_nur_ein_fortbewegungsmittel_die_deutschen_und_ihre_dlf_20260711_1731_56fe82ad.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-kulturmeldungen-10072026-dlf-20260710-1756-c3d784cd-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/suedkoreanisches_theater_die_gastsprache_beim_festival_dlf_20260710_1736_51d8531f.mp3?refId=kultur-heute-104",
     "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-kulturmeldungen-09072026-dlf-20260709-1756-9cb69703-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 09.07.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-09T15:56:14.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/kulturmeldungen_09072026_dlf_20260709_1756_9cb69703.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-marode-kulturbauten-wie-das-theaterprovisorium-in-chemnitz-dlf-20260709-1751-dfb47227-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Marode Kulturbauten - Wie das Theaterprovisorium in Chemnitz funktioniert",
-    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-09T15:51:41.000Z",
-    "url": "https://www.deutschlandfunk.de/marode-kulturbauten-wie-das-theaterprovisorium-in-chemnitz-funktioniert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/marode_kulturbauten_wie_das_theaterprovisorium_in_chemnitz_dlf_20260709_1751_dfb47227.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-etwas-ganz-besonderes-der-neue-film-von-eva-trobisch-kommt-dlf-20260709-1746-b1b24662-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Etwas ganz Besonderes - Der neue Film von Eva Trobisch kommt ins Kino",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-09T15:46:16.000Z",
-    "url": "https://www.deutschlandfunk.de/etwas-ganz-besonderes-der-neue-film-von-eva-trobisch-kommt-ins-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/etwas_ganz_besonderes_der_neue_film_von_eva_trobisch_kommt_dlf_20260709_1746_b1b24662.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-unbekuemmerter-eigensinn-buechner-preis-fuer-christine-dlf-20260709-1737-4aafe1be-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Unbekümmerter Eigensinn\" - Büchner-Preis für Christine Wunnicke",
-    "summary": "Porombka, Wiebke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-09T15:37:01.000Z",
-    "url": "https://www.deutschlandfunk.de/unbekuemmerter-eigensinn-buechner-preis-fuer-christine-wunnicke-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/unbekuemmerter_eigensinn_buechner_preis_fuer_christine_dlf_20260709_1737_4aafe1be.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-kulturmeldungen-08072026-dlf-20260708-1756-3f9f8b6f-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 08.07.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-08T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/kulturmeldungen_08072026_dlf_20260708_1756_3f9f8b6f.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

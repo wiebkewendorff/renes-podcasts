@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-11-mehrstimmig-choere-in-deutschen-popsongs-dlf-20260711-1548-6a9d2428-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mehrstimmig - Chöre in deutschen Popsongs",
+    "summary": "Hoffmann, Diviam www.deutschlandfunk.de, Corso",
+    "date": "2026-07-11T13:48:00.000Z",
+    "url": "https://www.deutschlandfunk.de/mehrstimmig-choere-in-deutschen-popsongs-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/mehrstimmig_choere_in_deutschen_popsongs_dlf_20260711_1548_6a9d2428.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-11-neustart-mit-post-indie-elementen-fuer-mich-von-jugo-uerdens-dlf-20260711-1538-b19e474b-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neustart mit Post-Indie-Elementen - \"Für mich\" von Jugo Ürdens",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-07-11T13:38:31.000Z",
+    "url": "https://www.deutschlandfunk.de/neustart-mit-post-indie-elementen-fuer-mich-von-jugo-uerdens-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/neustart_mit_post_indie_elementen_fuer_mich_von_jugo_uerdens_dlf_20260711_1538_b19e474b.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-11-gebrochener-rnb-magi-merlin-ueber-ihr-debuet-power-house-dlf-20260711-1515-509f476a-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gebrochener RnB - Magi Merlin über ihr Debüt \"Power House\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-07-11T13:15:42.000Z",
+    "url": "https://www.deutschlandfunk.de/gebrochener-rnb-magi-merlin-ueber-ihr-debuet-power-house-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/gebrochener_rnb_magi_merlin_ueber_ihr_debuet_power_house_dlf_20260711_1515_509f476a.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-10-der-comic-die-summe-seiner-teile-und-das-weiterleben-nach-dlf-20260710-1520-f53cdc73-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/tausende_entlassen_microsoft_will_reset_im_gaming_bereich_dlf_20260708_1510_dbe9b043.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-08-deadly-patient-synchronisation-das-publikum-kriegt-den-film-dlf-20260708-1510-ecc270b7-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Deadly Patient\"-Synchronisation: Das Publikum kriegt den Film, den es verdient",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-08T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deadly-patient-synchronisation-das-publikum-kriegt-den-film-den-es-verdient-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/deadly_patient_synchronisation_das_publikum_kriegt_den_film_dlf_20260708_1510_ecc270b7.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-07-virales-versteckspiel-warum-ist-meccha-chameleon-so-dlf-20260707-1520-69c4a3ab-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Virales Versteckspiel: Warum ist \"Meccha Chameleon\" so erfolgreich?",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-07T13:20:43.000Z",
-    "url": "https://www.deutschlandfunk.de/virales-versteckspiel-warum-ist-meccha-chameleon-so-erfolgreich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/virales_versteckspiel_warum_ist_meccha_chameleon_so_dlf_20260707_1520_69c4a3ab.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-07-staat-fuerchtet-witz-tuerkischer-comedian-deniz-goektas-dlf-20260707-1508-a3b67724-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Staat fürchtet Witz - Türkischer Comedian Deniz Göktaş verhaftet",
-    "summary": "Lueb, Uwe www.deutschlandfunk.de, Corso",
-    "date": "2026-07-07T13:08:00.000Z",
-    "url": "https://www.deutschlandfunk.de/staat-fuerchtet-witz-tuerkischer-comedian-deniz-goekta-verhaftet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/staat_fuerchtet_witz_tuerkischer_comedian_deniz_goektas_dlf_20260707_1508_a3b67724.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
