@@ -1,5 +1,30 @@
 [
   {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-13-johanna-pirker-ueber-pokemon-go-und-wie-das-spiel-die-dlf-20260713-1515-104f06ae-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Johanna Pirker über Pokémon Go und wie das Spiel die Gamingwelt verändert hat",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-13T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/johanna-pirker-ueber-pok-mon-go-und-wie-das-spiel-die-gamingwelt-veraendert-hat-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/johanna_pirker_ueber_pokemon_go_und_wie_das_spiel_die_dlf_20260713_1515_104f06ae.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-11-mehrstimmig-choere-in-deutschen-popsongs-dlf-20260711-1548-6a9d2428-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -358,31 +383,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/neue_filme_night_and_day_etwas_ganz_besonderes_auf_zwei_dlf_20260708_1520_9a011d11.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-08-tausende-entlassen-microsoft-will-reset-im-gaming-bereich-dlf-20260708-1510-dbe9b043-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Tausende entlassen - Microsoft will „Reset“ im Gaming-Bereich \\\\ (BmE)",
-    "summary": "Dampz, Nils www.deutschlandfunk.de, Corso",
-    "date": "2026-07-08T13:10:28.000Z",
-    "url": "https://www.deutschlandfunk.de/tausende-entlassen-microsoft-will-reset-im-gaming-bereich-bme-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/08/tausende_entlassen_microsoft_will_reset_im_gaming_bereich_dlf_20260708_1510_dbe9b043.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",

@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-kulturmeldungen-12072026-dlf-20260712-1756-27294b48-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 12.07.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-12T15:56:45.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/kulturmeldungen_12072026_dlf_20260712_1756_27294b48.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-critical-fabulations-of-documenta-symposium-in-kassel-dlf-20260712-1751-4d27c8f0-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Critical Fabulations of documenta\" - Symposium in Kassel",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-12T15:51:40.000Z",
+    "url": "https://www.deutschlandfunk.de/critical-fabulations-of-documenta-symposium-in-kassel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/critical_fabulations_of_documenta_symposium_in_kassel_dlf_20260712_1751_4d27c8f0.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-was-frankreichs-dreyfus-gedenktag-bewirken-kann-die-autorin-dlf-20260712-1746-0f268895-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Was Frankreichs Dreyfus-Gedenktag bewirken kann - die Autorin Cécile Wajsbrot",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-12T15:46:05.000Z",
+    "url": "https://www.deutschlandfunk.de/was-frankreichs-dreyfus-gedenktag-bewirken-kann-die-autorin-c-cile-wajsbrot-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/was_frankreichs_dreyfus_gedenktag_bewirken_kann_die_autorin_dlf_20260712_1746_0f268895.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-60-jubilaeumsausgabe-das-filmfestival-von-karlovy-vary-dlf-20260712-1740-80256570-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "60. Jubiläumsausgabe - Das Filmfestival von Karlovy Vary",
+    "summary": "Liese, Kirsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-12T15:40:45.000Z",
+    "url": "https://www.deutschlandfunk.de/60-jubilaeumsausgabe-das-filmfestival-von-karlovy-vary-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/60_jubilaeumsausgabe_das_filmfestival_von_karlovy_vary_dlf_20260712_1740_80256570.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-bodensee-etude-einmalige-performance-von-florentina-dlf-20260712-1735-e023f707-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Bodensee Étude\" - Einmalige Performance von Florentina Holzinger in Bregenz",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-12T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/bodensee-tude-einmalige-performance-von-florentina-holzinger-in-bregenz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/bodensee_etude_einmalige_performance_von_florentina_dlf_20260712_1735_e023f707.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-der-fliegende-hollaender-die-eroeffnung-der-tiroler-dlf-20260712-1730-6c22dace-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der fliegende Holländer - Die Eröffnung der Tiroler Festspiele in Erl",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-12T15:30:29.000Z",
+    "url": "https://www.deutschlandfunk.de/der-fliegende-hollaender-die-eroeffnung-der-tiroler-festspiele-in-erl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/der_fliegende_hollaender_die_eroeffnung_der_tiroler_dlf_20260712_1730_6c22dace.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-kulturmeldungen-11072026-dlf-20260711-1756-9bfc1d6a-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -89,162 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/70m_unesco_weltkulturerbe_der_teppich_von_bayeux_im_british_dlf_20260711_1740_82000adb.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-mehr-als-nur-ein-fortbewegungsmittel-die-deutschen-und-ihre-dlf-20260711-1731-56fe82ad-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mehr als nur ein Fortbewegungsmittel: Die Deutschen und ihre Liebe zum Auto",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-11T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/mehr-als-nur-ein-fortbewegungsmittel-die-deutschen-und-ihre-liebe-zum-auto-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/mehr_als_nur_ein_fortbewegungsmittel_die_deutschen_und_ihre_dlf_20260711_1731_56fe82ad.mp3?refId=kultur-heute-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-kulturmeldungen-10072026-dlf-20260710-1756-c3d784cd-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 10.07.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-10T15:56:45.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/kulturmeldungen_10072026_dlf_20260710_1756_c3d784cd.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-schlechter-stil-zum-ende-der-intendanz-von-barbara-mundel-an-dlf-20260710-1753-33da50bf-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schlechter Stil - Zum Ende der Intendanz von Barbara Mundel an den Kammerspielen",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-10T15:53:32.000Z",
-    "url": "https://www.deutschlandfunk.de/schlechter-stil-zum-ende-der-intendanz-von-barbara-mundel-an-den-kammerspielen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/schlechter_stil_zum_ende_der_intendanz_von_barbara_mundel_an_dlf_20260710_1753_33da50bf.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-tschernobyl-museum-in-kyjiw-wie-es-nach-der-zerstoerung-dlf-20260710-1748-56d9b69d-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Tschernobyl-Museum in Kyjiw: Wie es nach der Zerstörung weitergeht",
-    "summary": "Rother, Frederik www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-10T15:48:52.000Z",
-    "url": "https://www.deutschlandfunk.de/tschernobyl-museum-in-kyjiw-wie-es-nach-der-zerstoerung-weitergeht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/tschernobyl_museum_in_kyjiw_wie_es_nach_der_zerstoerung_dlf_20260710_1748_56d9b69d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-zu-den-sternen-weltraum-und-weltflucht-seit-der-moderne-im-dlf-20260710-1743-3bd9145d-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Zu den Sternen! Weltraum und Weltflucht seit der Moderne\" im Arp Museum",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-10T15:43:10.000Z",
-    "url": "https://www.deutschlandfunk.de/zu-den-sternen-weltraum-und-weltflucht-seit-der-moderne-im-arp-museum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/zu_den_sternen_weltraum_und_weltflucht_seit_der_moderne_im_dlf_20260710_1743_3bd9145d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-10-suedkoreanisches-theater-die-gastsprache-beim-festival-dlf-20260710-1736-51d8531f-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Südkoreanisches Theater - Die \"Gastsprache\" beim Festival d'Avignon",
-    "summary": "Klaeui, Andreas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-10T15:36:19.000Z",
-    "url": "https://www.deutschlandfunk.de/suedkoreanisches-theater-die-gastsprache-beim-festival-d-avignon-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/suedkoreanisches_theater_die_gastsprache_beim_festival_dlf_20260710_1736_51d8531f.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "theater",
