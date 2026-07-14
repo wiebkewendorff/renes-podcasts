@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-13-kulturmeldungen-13072026-dlf-20260713-1756-11535c33-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 13.07.2026",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-13T15:56:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/kulturmeldungen_13072026_dlf_20260713_1756_11535c33.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-13-still-joy-ukraine-ausstellung-ueber-freude-in-kriegszeiten-dlf-20260713-1748-025244ff-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Still Joy\" - Ukraine-Ausstellung über Freude in Kriegszeiten in Venedig",
+    "summary": "Burkhardt, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-13T15:48:55.000Z",
+    "url": "https://www.deutschlandfunk.de/still-joy-ukraine-ausstellung-ueber-freude-in-kriegszeiten-in-venedig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/still_joy_ukraine_ausstellung_ueber_freude_in_kriegszeiten_dlf_20260713_1748_025244ff.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-13-am-anfang-war-die-zeichnung-dana-schutz-ausstellung-in-dlf-20260713-1743-f45114d6-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Am Anfang war die Zeichnung - Dana Schutz-Ausstellung in München",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-13T15:43:23.000Z",
+    "url": "https://www.deutschlandfunk.de/am-anfang-war-die-zeichnung-dana-schutz-ausstellung-in-muenchen-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/am_anfang_war_die_zeichnung_dana_schutz_ausstellung_in_dlf_20260713_1743_f45114d6.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-13-warum-wir-social-media-als-kulturform-sehen-sollten-dlf-20260713-1735-1d50106c-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Warum wir Social Media als Kulturform sehen sollten - Interview Dirk von Gehlen",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-13T15:35:27.000Z",
+    "url": "https://www.deutschlandfunk.de/warum-wir-social-media-als-kulturform-sehen-sollten-interview-dirk-von-gehlen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/warum_wir_social_media_als_kulturform_sehen_sollten_dlf_20260713_1735_1d50106c.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-kulturmeldungen-12072026-dlf-20260712-1756-27294b48-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/der_fliegende_hollaender_die_eroeffnung_der_tiroler_dlf_20260712_1730_6c22dace.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-kulturmeldungen-11072026-dlf-20260711-1756-9bfc1d6a-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 11.07.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-11T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-11-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/kulturmeldungen_11072026_dlf_20260711_1756_9bfc1d6a.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-kampf-der-titanen-theaterspektakel-am-nationaltheater-dlf-20260711-1752-6204768e-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Kampf der Titanen\" - Theaterspektakel am Nationaltheater Mannheim",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-11T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kampf-der-titanen-theaterspektakel-am-nationaltheater-mannheim-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/kampf_der_titanen_theaterspektakel_am_nationaltheater_dlf_20260711_1752_6204768e.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-im-freien-tina-blau-eine-impressionistin-aus-wien-dlf-20260711-1745-e0033661-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Im Freien - Tina Blau. Eine Impressionistin aus Wien\", Ausstellung in Ahlen",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-11T15:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/im-freien-tina-blau-eine-impressionistin-aus-wien-ausstellung-in-ahlen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/im_freien_tina_blau_eine_impressionistin_aus_wien_dlf_20260711_1745_e0033661.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-11-70m-unesco-weltkulturerbe-der-teppich-von-bayeux-im-british-dlf-20260711-1740-82000adb-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "70m UNESCO Weltkulturerbe - Der Teppich von Bayeux im British Museum",
-    "summary": "Röhling, Lisa-Maria www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-11T15:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/70m-unesco-weltkulturerbe-der-teppich-von-bayeux-im-british-museum-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/70m_unesco_weltkulturerbe_der_teppich_von_bayeux_im_british_dlf_20260711_1740_82000adb.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "theater",
