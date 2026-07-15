@@ -1,5 +1,185 @@
 [
   {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-18-ein-rennen-gegen-die-zeit-drk-20260718-1805-ac319130-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ein Rennen gegen die Zeit - Warum boomt die Formel 1?",
+    "summary": "Rasende Autos, Männlichkeitsrituale, viel Geld und jede Menge Lärm. Und das in Zeiten des Klimawandels und steigender Gender-Sensibilität. Was ist so faszinierend an der Formel 1? Von Sebastian Friedrich und Gabriel Kuhn www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-07-18T16:05:01.000Z",
+    "url": "https://www.hoerspielundfeature.de/ein-rennen-gegen-die-zeit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/4c/c9/9e/13/4cc99e13-147e-42ca-b52c-b30e1fe20c7e/bild-fuer-boom-formel-1-rennen-gegen-die-zeit-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/ein_rennen_gegen_die_zeit_drk_20260718_1805_ac319130.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-14-kulturmeldungen-14072026-dlf-20260714-1756-3775c3b3-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 14.07.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-14T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/kulturmeldungen_14072026_dlf_20260714_1756_3775c3b3.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-14-phaenomen-einsamkeit-psychologin-maike-luhmann-im-gespraech-dlf-20260714-1746-7d73c64c-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Phänomen Einsamkeit - Psychologin Maike Luhmann im Gespräch",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-14T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/phaenomen-einsamkeit-psychologin-maike-luhmann-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/phaenomen_einsamkeit_psychologin_maike_luhmann_im_gespraech_dlf_20260714_1746_7d73c64c.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-14-alcina-johanna-wehner-inszeniert-haendel-bei-den-dlf-20260714-1741-5a71b3c3-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Alcina\" - Johanna Wehner inszeniert Händel bei den Opernfestspielen München",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-14T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/alcina-johanna-wehner-inszeniert-haendel-bei-den-opernfestspielen-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/alcina_johanna_wehner_inszeniert_haendel_bei_den_dlf_20260714_1741_5a71b3c3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-14-hamburger-appell-fordert-mehr-sichtbarkeit-fuer-dlf-20260714-1736-1d704490-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hamburger Appell fordert mehr Sichtbarkeit für Kolonialismus-Gedenken",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-14T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/hamburger-appell-fordert-mehr-sichtbarkeit-fuer-kolonialismus-gedenken-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/hamburger_appell_fordert_mehr_sichtbarkeit_fuer_dlf_20260714_1736_1d704490.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-14-serie-sheep-ueber-synchronisation-und-die-vorstellung-vom-dlf-20260714-1510-e585d371-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Serie \"Sheep\" - Über Synchronisation und die Vorstellung vom gemeinsamen Leben",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-14T13:10:59.000Z",
+    "url": "https://www.deutschlandfunk.de/serie-sheep-ueber-synchronisation-und-die-vorstellung-vom-gemeinsamen-leben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/serie_sheep_ueber_synchronisation_und_die_vorstellung_vom_dlf_20260714_1510_e585d371.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-14-10-jahre-only-fans-wenn-pornografie-und-social-media-dlf-20260714-1510-c295d210-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "10 Jahre Only Fans - Wenn Pornografie und Social Media verschmelzen",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-14T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/10-jahre-only-fans-wenn-pornografie-und-social-media-verschmelzen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/10_jahre_only_fans_wenn_pornografie_und_social_media_dlf_20260714_1510_c295d210.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-13-kulturmeldungen-13072026-dlf-20260713-1756-11535c33-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -231,110 +411,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-was-frankreichs-dreyfus-gedenktag-bewirken-kann-die-autorin-dlf-20260712-1746-0f268895-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Was Frankreichs Dreyfus-Gedenktag bewirken kann - die Autorin Cécile Wajsbrot",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-12T15:46:05.000Z",
-    "url": "https://www.deutschlandfunk.de/was-frankreichs-dreyfus-gedenktag-bewirken-kann-die-autorin-c-cile-wajsbrot-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/was_frankreichs_dreyfus_gedenktag_bewirken_kann_die_autorin_dlf_20260712_1746_0f268895.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-60-jubilaeumsausgabe-das-filmfestival-von-karlovy-vary-dlf-20260712-1740-80256570-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "60. Jubiläumsausgabe - Das Filmfestival von Karlovy Vary",
-    "summary": "Liese, Kirsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-12T15:40:45.000Z",
-    "url": "https://www.deutschlandfunk.de/60-jubilaeumsausgabe-das-filmfestival-von-karlovy-vary-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/60_jubilaeumsausgabe_das_filmfestival_von_karlovy_vary_dlf_20260712_1740_80256570.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-bodensee-etude-einmalige-performance-von-florentina-dlf-20260712-1735-e023f707-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Bodensee Étude\" - Einmalige Performance von Florentina Holzinger in Bregenz",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-12T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/bodensee-tude-einmalige-performance-von-florentina-holzinger-in-bregenz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/bodensee_etude_einmalige_performance_von_florentina_dlf_20260712_1735_e023f707.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-der-fliegende-hollaender-die-eroeffnung-der-tiroler-dlf-20260712-1730-6c22dace-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der fliegende Holländer - Die Eröffnung der Tiroler Festspiele in Erl",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-12T15:30:29.000Z",
-    "url": "https://www.deutschlandfunk.de/der-fliegende-hollaender-die-eroeffnung-der-tiroler-festspiele-in-erl-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/der_fliegende_hollaender_die_eroeffnung_der_tiroler_dlf_20260712_1730_6c22dace.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-11-mehrstimmig-choere-in-deutschen-popsongs-dlf-20260711-1548-6a9d2428-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -446,56 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/neues_rolling_stones_album_foreign_tongues_dlf_20260710_1515_5c779916.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-09-diktator-mbappe-was-die-ki-generierten-fussball-animes-dlf-20260709-1515-2d201b26-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Diktator Mbappé - Was die KI-generierten Fußball-Animes erzählen",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-09T13:15:59.000Z",
-    "url": "https://www.deutschlandfunk.de/diktator-mbapp-was-die-ki-generierten-fussball-animes-erzaehlen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/diktator_mbappe_was_die_ki_generierten_fussball_animes_dlf_20260709_1515_2d201b26.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-09-heroines-of-sounds-japanische-pionierinnen-der-dlf-20260709-1515-1abbb021-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Heroines of Sounds - Japanische Pionierinnen der elektronischen Musik",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-09T13:15:20.000Z",
-    "url": "https://www.deutschlandfunk.de/heroines-of-sounds-japanische-pionierinnen-der-elektronischen-musik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/heroines_of_sounds_japanische_pionierinnen_der_dlf_20260709_1515_1abbb021.mp3?refId=corso-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "pop",
@@ -1053,32 +1079,6 @@
     "image": "https://bilder.deutschlandfunk.de/a4/08/52/22/a4085222-044e-4c2d-8862-08be05619bc3/bild-verlorene-freiheit-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/26/verlorene_freiheit_afghaninnen_unter_der_taliban_herrschaft_dlf_20260526_1915_35621f95.mp3?refId=das-feature-104",
     "duration": "41 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-19-schoene-neue-welt-von-peter-thiel-zur-ki-revolution-dlf-20260519-1915-1d24ff0a-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schöne Neue Welt - Von Peter Thiel zur KI-Revolution",
-    "summary": "Peter Thiel gibt keine Ruhe. In geheimnisumwitterten „Antichrist-Vorlesungen“ schart er Jünger auf der ganzen Welt um sich. Er investiert verstärkt in Militärtechnik, kämpft gegen die Besteuerung von Superreichen und pflegt sein politisches Netzwerk. Von Fritz Espenlaub, Jasmin Körber, Christian Schiffer und Klaus Uhrig www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-19T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/schoene-neue-welt-von-peter-thiel-zur-ki-revolution-100.html",
-    "image": "https://bilder.deutschlandfunk.de/77/00/fa/84/7700fa84-53c9-4347-8a93-a72694bbc43f/auf-dem-ard-sounds-festival-peter-thiel-story-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/19/schoene_neue_welt_von_peter_thiel_zur_ki_revolution_dlf_20260519_1915_1d24ff0a.mp3?refId=das-feature-104",
-    "duration": "44 Min",
     "tags": [
       "feature",
       "dokumentation",

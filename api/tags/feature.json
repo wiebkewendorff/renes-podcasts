@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-18-ein-rennen-gegen-die-zeit-drk-20260718-1805-ac319130-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ein Rennen gegen die Zeit - Warum boomt die Formel 1?",
+    "summary": "Rasende Autos, Männlichkeitsrituale, viel Geld und jede Menge Lärm. Und das in Zeiten des Klimawandels und steigender Gender-Sensibilität. Was ist so faszinierend an der Formel 1? Von Sebastian Friedrich und Gabriel Kuhn www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-07-18T16:05:01.000Z",
+    "url": "https://www.hoerspielundfeature.de/ein-rennen-gegen-die-zeit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/4c/c9/9e/13/4cc99e13-147e-42ca-b52c-b30e1fe20c7e/bild-fuer-boom-formel-1-rennen-gegen-die-zeit-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/ein_rennen_gegen_die_zeit_drk_20260718_1805_ac319130.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-11-doku-drops-14-jung-alt-drk-20260711-1805-9c4b1726-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/a4/08/52/22/a4085222-044e-4c2d-8862-08be05619bc3/bild-verlorene-freiheit-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/26/verlorene_freiheit_afghaninnen_unter_der_taliban_herrschaft_dlf_20260526_1915_35621f95.mp3?refId=das-feature-104",
     "duration": "41 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-19-schoene-neue-welt-von-peter-thiel-zur-ki-revolution-dlf-20260519-1915-1d24ff0a-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schöne Neue Welt - Von Peter Thiel zur KI-Revolution",
-    "summary": "Peter Thiel gibt keine Ruhe. In geheimnisumwitterten „Antichrist-Vorlesungen“ schart er Jünger auf der ganzen Welt um sich. Er investiert verstärkt in Militärtechnik, kämpft gegen die Besteuerung von Superreichen und pflegt sein politisches Netzwerk. Von Fritz Espenlaub, Jasmin Körber, Christian Schiffer und Klaus Uhrig www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-19T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/schoene-neue-welt-von-peter-thiel-zur-ki-revolution-100.html",
-    "image": "https://bilder.deutschlandfunk.de/77/00/fa/84/7700fa84-53c9-4347-8a93-a72694bbc43f/auf-dem-ard-sounds-festival-peter-thiel-story-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/19/schoene_neue_welt_von_peter_thiel_zur_ki_revolution_dlf_20260519_1915_1d24ff0a.mp3?refId=das-feature-104",
-    "duration": "44 Min",
     "tags": [
       "feature",
       "dokumentation",

@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:1d1a0695d8d9b38a83784f62bc65d3e0",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Fotografie als Widerstand: Lee Millers Blick in die Dunkelheit",
+    "summary": "<p>Lee Miller erlebt den Zweiten Weltkrieg als Fotografin. Am 15.7.1941 druckt die US-Vogue ihr Bild \"Fire Masks\". Ihr Weg führt sie immer tiefer in die Schrecken des Krieges.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Irene Geuer:</strong><br><ul><li>wie Lee Miller im Frühjahr 1941 das Foto \"Fire Masks\" in London aufnimmt,</li><li>warum die darauf gezeigten zwei Frauen dem Leitspruch \"Beauty and Duty\" entsprechen, </li><li>was Lee Miller an die Front zieht,</li><li>wieso sie sich in Hitlers Badewanne fotografieren lässt.</li></ul><br>Der Legende nach wird Lee Miller auf den Straßen von New York als Model entdeckt. Das Lächeln vor der Kamera genügt ihr bald nicht mehr. Sie sucht sich den seinerzeit berühmtesten Fotografen Man Ray als Lehrer und trifft durch ihn die Pariser Avantgarde und Surrealisten. Deren Bildsprache überträgt sie in die Fotografie.<br><br>Mit Willensstärke schafft es Lee Miller, sich als US-Kriegsreporterin zu akkreditieren. Sie dokumentiert die Landung in der Normandie und Befreiung von Konzentrationslagern. Berühmt wird das Foto von ihr in Hitlers Badewanne: mit den noch von Dachau verschmutzten Stiefeln, aufgenommen von David Scherman. Ein inszenierter, stiller Triumph über das Regime. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Evelyn Urban, Institut für Kunst- und Musikwissenschaften, Uni Graz</li><li>Prof. Dr. Robert Bering, Professor für Rehabilitationswissenschaften an der Uni Köln</li><li>Lee Miller: Krieg – Mit den Alliierten in Europa, herausgegeben von Antony Penrose. München 2015. </li><li>Evelyn Urban: Eine Amerikanerin fotografiert das Kriegsende und nimmt ein Bad in Hitlers Wanne: Lee Millers Kriegsfotografien 1945, Masterarbeit. 2023.</li><li>Antony Penrose: Immer lieber woanders hin – das Leben der Lee Miller. Berlin 2023.</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag-alliierte-landung-normandie-100.html\" rel=\"noopener\" target=\"_blank\">6. Juni 1944 - Die Alliierten landen in der Normandie</a></li><li>Zeitzeichen: 01.08.1910: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-gerda-taro-100.html\" rel=\"noopener\" target=\"_blank\">Geburtstag der Fotografin Gerda Taro</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Irene Geuer<br>Redaktion: Frank Zirpins",
+    "date": "2026-07-15T04:00:42.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-fotografie-als-widerstand-lee-millers-blick-in-die-dunkelheit-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-lee-miller-fotografin-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/24/b197fedf-dabf-49fb-ac9a-4cfc8335257b/b197fedf-dabf-49fb-ac9a-4cfc8335257b_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:d3b6f170f40c8df7ba0cac0f3915b77d",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -222,29 +245,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/regiomontanus-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/28/553a2acc-1264-46e1-938a-49897e66e629/553a2acc-1264-46e1-938a-49897e66e629_MP3-128.mp3",
     "duration": "16 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:2b318ed499358ebbf6532d38b75eeead",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Francisco de Miranda: Vordenker der Revolution in Venezuela",
-    "summary": "<p>Am 5. Juli 1811 erklärt Venezuela seine Unabhängigkeit von Spanien. Hinter dem historischen Schritt steht auch Francisco de Miranda - heute oft im Schatten Simón Bolívars.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Andrea Kath:</strong><br><ul><li>woran Simón Bolívars Traum von einem vereinten Lateinamerika zerbricht,</li><li>wie die Ideen der Aufklärung den Niedergang des Kolonialismus einläuten,</li><li>welche Kolonien als erste den Weg in die Unabhängigkeit gehen,</li><li>warum die Befreiung Venezuelas zunächst ein Elitenprojekt ist.</li></ul><br>Im Juli 1811 erklären einige Provinzen Venezuelas ihre Unabhängigkeit von Spanien. Zum ersten Mal sagt sich auf südamerikanischem Boden eine Kolonie von der spanischen Krone los. Präsident der ersten venezolanischen Republik wird der spanische Offizier und Revolutionär Francisco de Miranda. <br><br>Die Geschichte der ersten Republik ist kurz. Ein Bürgerkrieg bricht aus. Kreolen kämpfen gegen die eingewanderten Spanier von der Iberischen Halbinsel. Republikaner gegen Royalisten. Städtische Eliten gegen Landbevölkerung.<br><br>Es sind nicht nur die Venezolaner, die gegeneinander Krieg führen. Die spanische Kolonialarmee versucht die Macht des Königs mit Waffengewalt wieder herzustellen. Die Übermacht der spanischen Truppen ist zu groß. Am 25. Juli 1812 unterzeichnet Präsident Francisco de Miranda die Kapitulationsurkunde. Erst 1823 schaffen der südamerikanische Unabhängigkeitskämpfer Simón Bolívar und seine Revolutionstruppen, Venezuela für immer von Spanien zu befreien. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Stefan Rinke, Professor für die Geschichte Lateinamerikas, FU Berlin </li><li>Klaus Bodemer, ehemaliger Direktor des Instituts für Iberoamerikakunde, Hamburg </li><li>Margarita Lopez Maya: Zur Geschichte Venezuelas. In: Venezuela heute. Bibliotheca Ibero-Americana. Frankfurt 2011</li><li>Stefan Rinke: Geschichte Lateinamerikas: Von den frühesten Kulturen bis zur Gegenwart. München 2025</li><li>Stefan Rinke: Revolutionen in Lateinamerika: Wege in die Unabhängigkeit 1760-1830. München 2010</li></ul><br><ul><li><strong>Weiterführende Links:</strong></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/neuzeit/kolonialismus/kolonialismus-intro-100.html\" rel=\"noopener\" target=\"_blank\">Kolonialismus - Europas Kolonien</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag1352.html\" rel=\"noopener\" target=\"_blank\">17. Dezember 1830 - Simón Bolívar in Kolumbien gestorben</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag-george-washington-erster-praesident-100.html\" rel=\"noopener\" target=\"_blank\">6. April 1789 - George Washington wird erster Präsident der USA</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/neuzeit/entdeckung_amerikas/pwiewissensfrage614.html\" rel=\"noopener\" target=\"_blank\">Warum heißt Amerika eigentlich Amerika?</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:3d63105d1cf4accc/\" rel=\"noopener\" target=\"_blank\">Der Namensgeber Amerikas: Großer Entdecker oder ein Hochstapler?</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Andrea Kath<br>Redaktion: Sefa Inci Sufak <br>Technik: Sascha Schiemann",
-    "date": "2026-07-05T04:00:09.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-francisco-de-miranda-vordenker-der-revolution-in-venezuela-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/venezuela-unabhaengigkeit-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/18/8f837e32-f5ed-4e91-be64-049e9ffb2d7f/8f837e32-f5ed-4e91-be64-049e9ffb2d7f_MP3-128.mp3",
-    "duration": "15 Min",
     "tags": [
       "geschichte",
       "bildung",

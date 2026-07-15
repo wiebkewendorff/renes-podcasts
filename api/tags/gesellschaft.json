@@ -1,5 +1,105 @@
 [
   {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-18-ein-rennen-gegen-die-zeit-drk-20260718-1805-ac319130-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ein Rennen gegen die Zeit - Warum boomt die Formel 1?",
+    "summary": "Rasende Autos, Männlichkeitsrituale, viel Geld und jede Menge Lärm. Und das in Zeiten des Klimawandels und steigender Gender-Sensibilität. Was ist so faszinierend an der Formel 1? Von Sebastian Friedrich und Gabriel Kuhn www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-07-18T16:05:01.000Z",
+    "url": "https://www.hoerspielundfeature.de/ein-rennen-gegen-die-zeit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/4c/c9/9e/13/4cc99e13-147e-42ca-b52c-b30e1fe20c7e/bild-fuer-boom-formel-1-rennen-gegen-die-zeit-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/ein_rennen_gegen_die_zeit_drk_20260718_1805_ac319130.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4009923",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Die Geschichte des Abelpreises",
+    "summary": "<p>Niels Henrik Abel gilt als der größte Mathematiker Norwegens. Als er mit nur 26 Jahren an Lungentuberkulose stirbt, hat er die Mathematik des 19. Jahrhunderts schon maßgeblich geprägt und vorangebracht.</p>\n<p>Es ist also kein Zufall, dass einer der wichtigsten Mathepreise nach ihm benannt ist: der norwegische Abelpreis. Jedes Jahr wird der Preis in Oslo verliehen, 2026 hat der Bonner Forscher Gerd Faltings die Auszeichnung erhalten. Demian Nahuel Goos war bei der Verleihung dabei und schildert seine Eindrücke: „Aber es geht vor allem darum, Community zu schaffen. Diese ganze Woche über konnte ich live mitverfolgen, wie das erreicht wurde. Mit all den lieben Gesten, der Liebe zum Detail, dem Anspruch, nur das Beste zu liefern.“</p>\n<p>Der Abelpreis hat direkt eine doppelte Bedeutung: Er soll herausragende Arbeit von Mathematikerinnen und Mathematikern würdigen. Aber, und das ist vielleicht sogar der wichtigere Aspekt, er soll mathematisches Talent dort würdigen, wo es ist: überall. Man muss nicht an einer Eliteuniversität studiert oder geforscht haben, um große Durchbrüche zu schaffen. Man muss nicht schon in jungen Jahren an Landeswettbewerben teilgenommen haben, um mathematisch denken zu können. Man muss nicht aus einem akademischen Haushalt kommen, um die Mathematik zu revolutionieren. „Und so ist der Abelpreis heute nicht nur eine Anerkennung für besonders wichtige Leistungen in der Mathematik, sondern hat parallel dazu auch den Auftrag, junge Talente in der Mathematik zu fördern“, weiß Goos.</p>\n<p>In dieser Folge von „Geschichten aus der Mathematik“ spricht <em>detektor.fm</em>-Moderatorin Rabea Schloz mit <strong>Demian Nahuel Goos</strong> über die Geschichte des Abelpreises und seine Erfahrungen von der diesjährigen Verleihung. Und natürlich ist auch <strong>Manon Bischoff</strong> von <em>Spektrum der Wissenschaft</em> dabei, um uns Einblicke in die Mathematik Niels Abels und Gerd Faltings‘ zu geben.</p>",
+    "date": "2026-07-15T03:00:41.000Z",
+    "url": "https://feedpress.me/link/19604/17380496/geschichten-aus-der-mathematik-der-abelpreis",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260715mathepodcastabelpreis.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260715mathepodcastabelpreis.63.mp3",
+    "duration": "48 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-14-serie-sheep-ueber-synchronisation-und-die-vorstellung-vom-dlf-20260714-1510-e585d371-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Serie \"Sheep\" - Über Synchronisation und die Vorstellung vom gemeinsamen Leben",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-14T13:10:59.000Z",
+    "url": "https://www.deutschlandfunk.de/serie-sheep-ueber-synchronisation-und-die-vorstellung-vom-gemeinsamen-leben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/serie_sheep_ueber_synchronisation_und_die_vorstellung_vom_dlf_20260714_1510_e585d371.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-14-10-jahre-only-fans-wenn-pornografie-und-social-media-dlf-20260714-1510-c295d210-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "10 Jahre Only Fans - Wenn Pornografie und Social Media verschmelzen",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-14T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/10-jahre-only-fans-wenn-pornografie-und-social-media-verschmelzen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/10_jahre_only_fans_wenn_pornografie_und_social_media_dlf_20260714_1510_c295d210.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-3984812",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -320,56 +420,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-09-diktator-mbappe-was-die-ki-generierten-fussball-animes-dlf-20260709-1515-2d201b26-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Diktator Mbappé - Was die KI-generierten Fußball-Animes erzählen",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-09T13:15:59.000Z",
-    "url": "https://www.deutschlandfunk.de/diktator-mbapp-was-die-ki-generierten-fussball-animes-erzaehlen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/diktator_mbappe_was_die_ki_generierten_fussball_animes_dlf_20260709_1515_2d201b26.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-09-heroines-of-sounds-japanische-pionierinnen-der-dlf-20260709-1515-1abbb021-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Heroines of Sounds - Japanische Pionierinnen der elektronischen Musik",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-09T13:15:20.000Z",
-    "url": "https://www.deutschlandfunk.de/heroines-of-sounds-japanische-pionierinnen-der-elektronischen-musik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/heroines_of_sounds_japanische_pionierinnen_der_dlf_20260709_1515_1abbb021.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4004577",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -533,30 +583,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260707missionenergiewendeurlaubundnachhaltigkeit.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260707missionenergiewendeurlaubundnachhaltigkeit.63.mp3",
     "duration": "31 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3987111",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "High ohne Drogen: Kann man das Bewusstsein verändern?",
-    "summary": "<p>Der Mensch versucht schon immer, sein Bewusstsein gezielt zu verändern. Bereits seit Jahrtausenden sind Atemtechniken, Hypnose, Meditation oder bestimmte Rituale gebräuchlich, um veränderte Bewusstseinszustände zu erleben — ganz ohne psychoaktive Substanzen.</p>\n<p>Solche Praktiken existieren in vielen Kulturen, etwa in schamanischen Ritualen, hinduistischen Gesängen oder Trancetänzen. Heute erleben Methoden wie Breathwork, Yoga und Hypnose einen Boom.</p>\n<p>Breathwork, das ist eine bewusste Atemarbeit, häufig verbunden mit intensiver Hyperventilation. Durch schnelles, tiefes Atmen sinkt der Kohlendioxidgehalt im Blut. Dadurch verändern sich Blutfluss und Sauerstoffversorgung im Gehirn.</p>\nBewusstsein ohne Drogen verändern\n<p>Solche Techniken können teils psychedelisch wirkende Erfahrungen auslösen. Teilnehmende berichten von einem veränderten Bewusstsein, von Ego-Auflösung, intensiven Emotionen oder einem Gefühl tiefer Verbundenheit. Hirnscans zeigen Parallelen zu psychedelischen Zuständen: Bestimmte Hirnregionen, die mit Körperwahrnehmung, Emotionen und Gedächtnis zusammenhängen, verändern ihre Aktivität.</p>\n<p>Ähnliche Erfahrungen gibt es im Bereich Hypnose. Als Zustand intensiver Konzentration und veränderter Wahrnehmung zeigt sich in Studien, dass Hypnose tatsächlich Wahrnehmung und Verhalten beeinflussen kann. Hirnforschende vermuten, dass dabei mehrere Netzwerke im Gehirn zusammenspielen, die Aufmerksamkeit, Selbstwahrnehmung und Reizverarbeitung steuern.</p>\n<p>Doch hier bleiben noch viele Fragen offen. Insgesamt steht die Forschung in diesem Bereich noch am Anfang. Viele Studien haben kleine Stichproben und liefern uneinheitliche Ergebnisse. Dabei wären gesicherte Erkenntnisse hochinteressant: Neurowissenschaft und Psychologie versuchen zu verstehen, was genau im Gehirn passiert und ob diese Techniken therapeutisches Potenzial haben — etwa bei Depressionen, Angststörungen oder Traumata. Gleichzeitig warnen die Forschenden davor, die bisherigen Ergebnisse zu überschätzen. Vieles sei faszinierend, aber noch nicht ausreichend verstanden.</p>\n<p><strong>Anna Lorenzen</strong> ist Redakteurin bei <em>Spektrum der Wissenschaft</em>. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt sie, wie Menschen ihr Bewusstsein gezielt und ohne Drogen verändern. Sie geht dabei auch auf Gefahren und Grenzen dieser Techniken ein.</p>",
-    "date": "2026-07-03T04:02:37.000Z",
-    "url": "https://feedpress.me/link/19604/17372081/spektrum-podcast-bewusstsein-high-drogen",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260703spektrumhighohnedrogen.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260703spektrumhighohnedrogen.63.mp3",
-    "duration": "12 Min",
     "tags": [
       "wissenschaft",
       "forschung",
@@ -1113,32 +1139,6 @@
     "image": "https://bilder.deutschlandfunk.de/a4/08/52/22/a4085222-044e-4c2d-8862-08be05619bc3/bild-verlorene-freiheit-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/26/verlorene_freiheit_afghaninnen_unter_der_taliban_herrschaft_dlf_20260526_1915_35621f95.mp3?refId=das-feature-104",
     "duration": "41 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-19-schoene-neue-welt-von-peter-thiel-zur-ki-revolution-dlf-20260519-1915-1d24ff0a-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schöne Neue Welt - Von Peter Thiel zur KI-Revolution",
-    "summary": "Peter Thiel gibt keine Ruhe. In geheimnisumwitterten „Antichrist-Vorlesungen“ schart er Jünger auf der ganzen Welt um sich. Er investiert verstärkt in Militärtechnik, kämpft gegen die Besteuerung von Superreichen und pflegt sein politisches Netzwerk. Von Fritz Espenlaub, Jasmin Körber, Christian Schiffer und Klaus Uhrig www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-19T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/schoene-neue-welt-von-peter-thiel-zur-ki-revolution-100.html",
-    "image": "https://bilder.deutschlandfunk.de/77/00/fa/84/7700fa84-53c9-4347-8a93-a72694bbc43f/auf-dem-ard-sounds-festival-peter-thiel-story-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/19/schoene_neue_welt_von_peter_thiel_zur_ki_revolution_dlf_20260519_1915_1d24ff0a.mp3?refId=das-feature-104",
-    "duration": "44 Min",
     "tags": [
       "feature",
       "dokumentation",

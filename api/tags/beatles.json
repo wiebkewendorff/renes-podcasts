@@ -1,5 +1,55 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-5508062148726598",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "DAS! Rote Sofa mit Diplomat und Autor Rüdiger von Fritsch",
+    "summary": "Rüdiger von Fritsch blickt zurück auf eine jahrzehntelange Erfahrung in der internationalen Politik. Jetzt hat er sich mit der eigenen Familiengeschichte auseinandergesetzt. Seine provokante These: mein Vater war ein überzeugter Nazi - und ein liebenswürdiger Vater. Im Gespräch ordnet er außerdem aktuelle weltpolitische Entwicklungen verständlich und pointiert ein. Ein Gespräch über Verantwortung, Krisen und die Kunst der Diplomatie - auch innerhalb der eigenen Familie.",
+    "date": "2026-07-14T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/das-rote-sofa-mit-diplomat-und-autor-ruediger-von-fritsch,audio-3358166.html",
+    "image": "https://images.ndr.de/image/55720030-b2cc-4771-8fd3-c8b0e8e1f9aa/AAABn2GYpbM/AAABnSStX0g/1x1-big/screenshot-195724.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0714/AU-20260714-2020-5400.mp3",
+    "duration": "35 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-05642838024391561",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Sind Haustiere Engel auf vier Pfoten, Rainer Maria Schießler?",
+    "summary": "Auf dem Roten Sofa nimmt uns der katholische Pfarrer mit zu Gott und verrät, warum für ihn Haustiere Engel auf vier Pfoten sind.",
+    "date": "2026-07-13T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/sind-haustiere-engel-auf-vier-pfoten-rainer-maria-schiessler,audio-3356774.html",
+    "image": "https://images.ndr.de/image/fbe13904-6ca8-4893-a35e-8d1ed6c57306/AAABn1xzKNA/AAABnSStX0g/1x1-big/screenshot-195244.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0714/AU-20260714-0956-5200.mp3",
+    "duration": "36 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-403723008973078",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -86,56 +136,6 @@
     "image": "https://images.ndr.de/image/09c30c44-8605-419f-80cc-ee8f94603abb/AAABn0fKON4/AAABnSStX0g/1x1-big/screenshot-193538.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0710/AU-20260710-0758-2100.mp3",
     "duration": "31 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-5140234226840212",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Erzählen von ihrem Leben auf Mallorca: Phong Lan Hofer und Jan Hofer",
-    "summary": "Sie leben dort, wo viele Deutsche Urlaub machen: auf der spanischen Mittelmeer-Insel Mallorca. Der frühere \"tagesschau\"-Chefsprecher Jan Hofer und seine Ehefrau Phong Lan wohnen mit ihrem 10-jährigen Sohn Henry in der Insel-Hauptstadt Palma. Nach der langjährigen TV-Karriere eine bewusste Entscheidung für die Familie, so Jan Hofer, der seit 2018 mit Phong Lan verheiratet ist. Auf dem Roten Sofa erzählt das Paar von seinem Familienleben und seiner tiefen Liebe zur Sonneninsel. Und die beiden berichten, dass Ruhestand für sie überhaupt kein Thema ist.",
-    "date": "2026-07-08T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/erzaehlen-von-ihrem-leben-auf-mallorca-phong-lan-hofer-und-jan-hofer,audio-3347870.html",
-    "image": "https://images.ndr.de/image/106082d7-2822-4043-891e-fc4c192a2c3a/AAABn0LwoNg/AAABnSStX0g/1x1-big/screenshot-192948.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0709/AU-20260709-1026-0000.mp3",
-    "duration": "41 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-8149731079820041",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "NDR Ernährungs-Doc Jörn Klasen über seinen \"Histamin-Masterplan\"",
-    "summary": "Ob chronische Kopfschmerzen, Hautausschlag oder ständige Magen-Darm-Beschwerden - oft steckt ein unerkannter Überschuss an Histamin im Körper hinter dem langen Leidensweg der Betroffenen. Genau hier setzt die Arbeit von NDR Ernährungs-Doc Jörn Klasen an. Der erfahrene Facharzt für Innere Medizin widmet sich tagtäglich den komplexen Ursachen von chronischen Erkrankungen und Nahrungsmittelunverträglichkeiten. Davon handelt auch sein aktuelles Buch \"Der Histamin-Masterplan\".",
-    "date": "2026-07-07T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/ndr-ernaehrungs-doc-joern-klasen-ueber-seinen-histamin-masterplan,audio-3344724.html",
-    "image": "https://images.ndr.de/image/37445bc2-c681-4193-9027-6975deb4e16d/AAABnz2i6f0/AAABnSStX0g/1x1-big/screenshot-192536.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0707/AU-20260707-2015-1700.mp3",
-    "duration": "40 Min",
     "tags": [
       "beatles",
       "popgeschichte",
