@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-neues-buch-wie-beyonce-die-popwelt-regiert-dlf-20260715-1515-94a31690-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Buch: Wie Beyoncé die Popwelt regiert",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-15T13:15:39.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-buch-wie-beyonc-die-popwelt-regiert-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/neues_buch_wie_beyonce_die_popwelt_regiert_dlf_20260715_1515_94a31690.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-neue-filme-so-klingt-das-leben-was-haben-wir-gelacht-u-a-dlf-20260715-1514-330824c5-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: So klingt das Leben, Was haben wir gelacht u. a.",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-07-15T13:14:07.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-so-klingt-das-leben-was-haben-wir-gelacht-u-a-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/neue_filme_so_klingt_das_leben_was_haben_wir_gelacht_u_a_dlf_20260715_1514_330824c5.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-von-35-mm-bis-imax-70-mm-warum-die-odyssee-nicht-immer-dlf-20260715-1506-c7a1f743-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Von 35 mm bis IMAX 70 mm: Warum \"Die Odyssee\" nicht immer gleich aussieht",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-15T13:06:18.000Z",
+    "url": "https://www.deutschlandfunk.de/von-35-mm-bis-imax-70-mm-warum-die-odyssee-nicht-immer-gleich-aussieht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/von_35_mm_bis_imax_70_mm_warum_die_odyssee_nicht_immer_dlf_20260715_1506_c7a1f743.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-14-serie-sheep-ueber-synchronisation-und-die-vorstellung-vom-dlf-20260714-1510-e585d371-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/neustart_mit_post_indie_elementen_fuer_mich_von_jugo_uerdens_dlf_20260711_1538_b19e474b.mp3?refId=corso-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-11-gebrochener-rnb-magi-merlin-ueber-ihr-debuet-power-house-dlf-20260711-1515-509f476a-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gebrochener RnB - Magi Merlin über ihr Debüt \"Power House\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-11T13:15:42.000Z",
-    "url": "https://www.deutschlandfunk.de/gebrochener-rnb-magi-merlin-ueber-ihr-debuet-power-house-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/gebrochener_rnb_magi_merlin_ueber_ihr_debuet_power_house_dlf_20260711_1515_509f476a.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-10-der-comic-die-summe-seiner-teile-und-das-weiterleben-nach-dlf-20260710-1520-f53cdc73-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Comic \"Die Summe seiner Teile\" und das Weiterleben nach dem Tod durch KI",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-10T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-comic-die-summe-seiner-teile-und-das-weiterleben-nach-dem-tod-durch-ki-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/der_comic_die_summe_seiner_teile_und_das_weiterleben_nach_dlf_20260710_1520_f53cdc73.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-10-neues-rolling-stones-album-foreign-tongues-dlf-20260710-1515-5c779916-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Rolling Stones Album \"Foreign Tongues\"",
-    "summary": "Gross, Thorsten www.deutschlandfunk.de, Corso",
-    "date": "2026-07-10T13:15:01.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-rolling-stones-album-foreign-tongues-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/neues_rolling_stones_album_foreign_tongues_dlf_20260710_1515_5c779916.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

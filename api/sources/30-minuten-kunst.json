@@ -1,5 +1,28 @@
 [
   {
+    "id": "30-minuten-kunst:e58e2b3fb35dba4c15bfa5dab55b775a",
+    "source": "30-minuten-kunst",
+    "sourceTitle": "30 Minuten Kunst",
+    "type": "rss",
+    "title": "Die 434: Das Geheimnis der verlorenen Bilder",
+    "summary": "Ein Bilderschatz wird wieder sichtbar\n<p>Wie können Kunstwerke verschwinden, und was bleibt von ihnen zurück? Diese Folge erzählt die Geschichte der verlorenen Meisterwerke der Berliner Gemäldegalerie. Über 400 Meisterwerke der Kunstgeschichte werden seit Kriegsende 1945 vermisst. Jetzt hat ein Team der Gemäldergalerie sie wieder sichtbar gemacht. Rund 430 historische Glasnegative wurden digitalisiert und in einer Online-Galerie für die Weltöffentlichkeit präsentiert. Was mit den Bildern geschah, wie es gelang, fragile Glasnegative zu scannen warum das heute wichtig ist, erklären mir die Projektleiterin Dr. Katja Kleinert und die Provenienzforscherin Franziska May.</p>\n<p>Das Projekt bei Google Arts: <a href=\"https://artsandculture.google.com/story/oQWhutX6JtY75w?hl=de\" rel=\"noopener\" target=\"_blank\">https://artsandculture.google.com/story/oQWhutX6JtY75w?hl=de</a></p>\n<p>Repro-Credits: Staatliche Museen Berlin",
+    "date": "2026-07-16T07:00:00.000Z",
+    "url": "https://30-minuten-kunst.podigee.io/130-neue-episode",
+    "image": "https://images.podigee-cdn.net/0x,sZKLrg1YUXnS4eVHHbKO63BiEVHdgPHWupEl6rVFyxHI=/https://main.podigee-cdn.net/uploads/u26284/36bb8a7d-08b4-4ddf-bad5-228202d9cf7b.jpeg",
+    "audio": "https://audio.podigee-cdn.net/2545901-m-47526780be498d68ec50b06737be7055.mp3?source=feed",
+    "duration": "31 Min",
+    "tags": [
+      "kunst",
+      "kultur",
+      "bildung"
+    ],
+    "category": [
+      "Kunst",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "30-minuten-kunst:11c0742f5c253202b006b054083c2ae5",
     "source": "30-minuten-kunst",
     "sourceTitle": "30 Minuten Kunst",
@@ -195,29 +218,6 @@
     "image": "https://images.podigee-cdn.net/0x,s_81f1eYEe6G-eWCnamJbAV_yYr3PQCMLAxi-UNxBymc=/https://main.podigee-cdn.net/uploads/u26284/62f2fad4-8151-4c5b-88f7-c33ddff49c94.jpeg",
     "audio": "https://audio.podigee-cdn.net/2321819-m-bba054f3f7d9a51c892ecf0a869b5b39.mp3?source=feed",
     "duration": "34 Min",
-    "tags": [
-      "kunst",
-      "kultur",
-      "bildung"
-    ],
-    "category": [
-      "Kunst",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "30-minuten-kunst:b9022b73d9449139430298c5d0083e56",
-    "source": "30-minuten-kunst",
-    "sourceTitle": "30 Minuten Kunst",
-    "type": "rss",
-    "title": "Frans Hals - der Meister des Augenblicks",
-    "summary": "Wie der Niederländer die Malerei revolutionierte\n<p>Frans Hals; Ende des 16. Jahrhunderts in Antwerpen geboren, revolutionierte das Porträt mit seinem lockeren, alla-prima-Pinselstrich, der flüchtige Momente einfängt und seine Figuren lebendig wirken lässt. Für viele gilt er als ein Vorläufer der Impressionisten wie Van Gogh. Wie kaum ein anderer Künstler seiner Zeit, malte er auch die soziale Vielfalt - von den ganz reichen bis zu den armen Menschen seiner Heimatstadt.</p>\n<p>Seine Werke wurden nach dem Tod vergessen, erst im 19. Jahrhundert durch Théophile Thoré-Bürger wiederentdeckt. In Dresden hängen zwei seltene Portraits (Nachtglas-Brüder, 1633/34) in den Alten Meistern – in Berlin die berühmte \"Malle Babbe\". </p>\n<p>Repro-Credits: Frans Hals: \"Malle Babbe\" Gemäldegalerie, Staatliche Museen zu Berlin / Christoph Schmidt [CC BY-NC-SA]",
-    "date": "2026-03-12T09:00:00.000Z",
-    "url": "https://30-minuten-kunst.podigee.io/120-neue-episode",
-    "image": "https://images.podigee-cdn.net/0x,sHoeFhQNnCZJWO68AUnsbqeV9247Ubkgf6FdNl2lQWtQ=/https://main.podigee-cdn.net/uploads/u26284/ced3ea1f-2db5-4016-ab3f-7be4bf2d2722.jpeg",
-    "audio": "https://audio.podigee-cdn.net/2392167-m-b45568c53c8a6d04816741ccb993262c.mp3?source=feed",
-    "duration": "25 Min",
     "tags": [
       "kunst",
       "kultur",

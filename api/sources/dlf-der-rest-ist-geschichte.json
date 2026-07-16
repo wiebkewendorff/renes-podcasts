@@ -1,5 +1,32 @@
 [
   {
+    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-16-kuba-kommunistischer-stachel-im-fleisch-der-usa-dlf-20260716-1300-0d670384-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kuba - Kommunistischer Stachel im Fleisch der USA",
+    "summary": "Die Menschen in Kuba leiden: Es fehlen Medikamente und Lebensmittel, die Müllberge wachsen, dauernd fällt der Strom aus. Grund dafür sind auch die immer schärferen Sanktionen der USA. Die Feindschaft der beiden Länder hat eine lange Geschichte.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(02:09) Die Krise in Kuba spitzt sich zu<br>(07:10) Im 16. Jahrhundert wird Kuba spanische Kolonie<br>(10:02) 1902: Kuba wird unabhängig – aber nicht so ganz<br>(13:30) Fulgencio Batista: Kubas Diktator<br>(16:00) Fidel Castro und die kubanische Revolution <br>(23:30) 1961: Die US-Invasion in der Schweinebucht scheitert<br>(26:29) Die Kubakrise 1962<br>(34:45) Nach dem Kalten Krieg: Kuba bleibt kommunistisch<br>(39:30) 2016: US-Präsident Barack Obama besucht Kuba<br>(42:00) Die kubanische Exil-Community in den USA<br><br><strong>Unsere Gäste in dieser Folge: <br></strong><br><ul><li><strong>Jenny Barke</strong> ist ARD-Korrespondentin in Mexiko, Kuba gehört zu ihrem Berichtsgebiet. </li></ul><br><ul><li><strong>Stefan Rinke</strong> ist Professor für die Geschichte Lateinamerikas an der Freien Universität Berlin.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler <br>Skript, Regie und Produktion: Josephine Kuban und Carina Schroeder<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-kuba-trump-angreifen-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über das Verhältnis der USA zu Kuba: Wird Donald Trump die Diktatur angreifen? </li><li><a href=\"https://www.deutschlandfunk.de/venezuela-usa-geschichte-regime-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Venezuela</li><li><a href=\"https://www.deutschlandfunk.de/chile-praesident-geschichte-diktatur-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Chile</li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li>Informationen der <a href=\"https://guides.loc.gov/world-of-1898/teller-platt-amendments\" rel=\"noopener\" target=\"_blank\">Kongress-Bibliothek</a> zum Spanisch-Amerikanischen Krieg 1898</li><li>Das <a href=\"https://www.archives.gov/milestone-documents/platt-amendment\" rel=\"noopener\" target=\"_blank\">Platt-Amendment</a> von 1903</li><li>Material bei der <a href=\"https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-bay-of-pigs\" rel=\"noopener\" target=\"_blank\">John F. Kennedy-Bibliothek</a> über die gescheiterte Invasion in der Schweinebucht 1961</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br>IQ - Wissenschaft und Forschung\" target=\"_blank\" href=\"https://1.ard.de/IQWissenschaft\" class=\"click-tracking-paragraph\" data-tracking=\"{\"name\":\"Link in Beitrag\",\"chapter1\":\"https://1.ard.de/IQWissenschaft\",\"chapter2\":\"<br>IQ - Wissenschaft und Forschung\",\"chapter3\":\"Kuba - Kommunistischer Stachel im Fleisch der USA\",\"level2\":1}\"><br>IQ - Wissenschaft und Forschung</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-07-16T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kuba-kommunismus-geschichte-usa-100.html",
+    "image": "https://bilder.deutschlandfunk.de/25/1a/ab/7f/251aab7f-f869-44e5-917d-16eb1ff978fe/kommunismus-kuba-usa-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/kuba_kommunistischer_stachel_im_fleisch_der_usa_dlf_20260716_1300_0d670384.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "50 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-09-drig-empfiehlt-das-kalenderblatt-dlf-20260709-1300-df6cc12d-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -227,33 +254,6 @@
     "image": "https://bilder.deutschlandfunk.de/4b/9a/57/2b/4b9a572b-13bb-4f4c-8fc4-8d04ed3a0f0c/drohnen-urkaine-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/04/waffentechnik_krieg_ist_auch_nicht_mehr_das_was_er_mal_war_dlf_20260604_1300_df90f6f0.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
     "duration": "44 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-05-28-krisen-und-kriege-muessen-wir-jetzt-alle-prepper-werden-dlf-20260528-1300-92f16d22-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kriege und Krisen - Müssen wir jetzt alle Prepper werden?",
-    "summary": "Konserven, Kurbelradio und Trinkwasser: Wer auf Stromausfälle oder Unwetter vorbereitet sein will, sollte einen Vorrat anlegen. Auch von der Möglichkeit eines Krieges sprechen Zivilschützer wieder. Das wurde lange vermieden.<br><br>Diese Folge haben wir beim am 9. Mai 2026 beim ARD Sounds Festival in Nürnberg aufgezeichnet. <br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(03:55) Katastrophenforschung hat wieder Konjunktur<br>(05:52) Wie Prepper denken<br>(12:10) Zivilschutz im Kalten Krieg <br>(15:40) „Jeder hat eine Chance“ – Broschüre in der Bundesrepublik von 1961<br>(20:30) Zivilschutz in der DDR<br>(25:00) Natursehnsucht der Prepper<br>(29:00) Nach 1990 war Katastrophenschutz aus der Mode<br>(33:00) Vorbereitet für den „Tag X“? <br>(39:40) Bedrohungen durch hybride Kriegsführung<br>(42:10) Wie viel Krisenvorsorge ist ratsam? <br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Gabriela Keller </strong>hat sich als Journalistin intensiv mit der Prepper-Szene beschäftigt. Sie ist die Autorin von „Bereit für den Untergang: Prepper“ (Das Neue Berlin, 2021).</li></ul><br><ul><li><strong>Martin Voß </strong>ist Professor für Krisen- und Katastrophenforschung an der Freien Universität Berlin und leitet dort die Katastrophenforschungsstelle.</li></ul> <br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler<br>Regie und Produktion: Carina Schroeder<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/wehrpflicht-warum-die-deutschen-sich-schwertun-mit-buergern-als-soldaten-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Wehrpflicht</li><li><a href=\"https://www.deutschlandfunk.de/reichsbuerger-geschichte-deutschland-demokratie-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Reichsbürger</li><li><a href=\"https://www.deutschlandfunk.de/der-neue-westen-2-wird-russland-uns-angreifen-100.html\" rel=\"noopener\" target=\"_blank\">Der neue Westen:</a> Wird Russland uns angreifen?</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Ratgeber-Checkliste/ratgeber-checkliste_node.html\" rel=\"noopener\" target=\"_blank\">Aktueller Ratgeber</a> des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBK) </li><li>BBK-<a href=\"https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Festschrift_BBK-50_PDF.pdf?__blob=publicationFile&v=2\" rel=\"noopener\" target=\"_blank\">Broschüre</a> zur Geschichte des Zivilschutzes in der Bundesrepublik</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/feuchtwanger-erfolg?cp=drig\" rel=\"noopener\" target=\"_blank\">Lion Feuchtwangers Zeitroman \"Erfolg\"</a> als achtteiliges Hörbuch in ARD Sounds<br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-05-28T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/preppen-kriege-krisen-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/a7/cd/ff/56/a7cdff56-c9cd-4f96-abca-f81e5b2c141b/prepper-schrank-lebensmittel-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/28/krisen_und_kriege_muessen_wir_jetzt_alle_prepper_werden_dlf_20260528_1300_92f16d22.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "48 Min",
     "tags": [
       "geschichte",
       "zeitgeschichte",

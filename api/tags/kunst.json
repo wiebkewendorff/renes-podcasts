@@ -1,5 +1,207 @@
 [
   {
+    "id": "30-minuten-kunst:e58e2b3fb35dba4c15bfa5dab55b775a",
+    "source": "30-minuten-kunst",
+    "sourceTitle": "30 Minuten Kunst",
+    "type": "rss",
+    "title": "Die 434: Das Geheimnis der verlorenen Bilder",
+    "summary": "Ein Bilderschatz wird wieder sichtbar\n<p>Wie können Kunstwerke verschwinden, und was bleibt von ihnen zurück? Diese Folge erzählt die Geschichte der verlorenen Meisterwerke der Berliner Gemäldegalerie. Über 400 Meisterwerke der Kunstgeschichte werden seit Kriegsende 1945 vermisst. Jetzt hat ein Team der Gemäldergalerie sie wieder sichtbar gemacht. Rund 430 historische Glasnegative wurden digitalisiert und in einer Online-Galerie für die Weltöffentlichkeit präsentiert. Was mit den Bildern geschah, wie es gelang, fragile Glasnegative zu scannen warum das heute wichtig ist, erklären mir die Projektleiterin Dr. Katja Kleinert und die Provenienzforscherin Franziska May.</p>\n<p>Das Projekt bei Google Arts: <a href=\"https://artsandculture.google.com/story/oQWhutX6JtY75w?hl=de\" rel=\"noopener\" target=\"_blank\">https://artsandculture.google.com/story/oQWhutX6JtY75w?hl=de</a></p>\n<p>Repro-Credits: Staatliche Museen Berlin",
+    "date": "2026-07-16T07:00:00.000Z",
+    "url": "https://30-minuten-kunst.podigee.io/130-neue-episode",
+    "image": "https://images.podigee-cdn.net/0x,sZKLrg1YUXnS4eVHHbKO63BiEVHdgPHWupEl6rVFyxHI=/https://main.podigee-cdn.net/uploads/u26284/36bb8a7d-08b4-4ddf-bad5-228202d9cf7b.jpeg",
+    "audio": "https://audio.podigee-cdn.net/2545901-m-47526780be498d68ec50b06737be7055.mp3?source=feed",
+    "duration": "31 Min",
+    "tags": [
+      "kunst",
+      "kultur",
+      "bildung"
+    ],
+    "category": [
+      "Kunst",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-15-kulturmeldungen-15072026-dlf-20260715-1756-5290f76f-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 15.07.2026",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-15T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/kulturmeldungen_15072026_dlf_20260715_1756_5290f76f.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-15-verschleppt-statt-befreit-der-kubanische-kuenstler-luis-dlf-20260715-1750-e38f2a42-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Verschleppt statt befreit - Der kubanische Künstler Luis Manuel Otero Alcántara",
+    "summary": "Schumann, Peter B. www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-15T15:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/verschleppt-statt-befreit-der-kubanische-kuenstler-luis-manuel-otero-alc-ntara-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/verschleppt_statt_befreit_der_kubanische_kuenstler_luis_dlf_20260715_1750_e38f2a42.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-15-viele-punkte-volles-haus-yilmaz-dziewior-zu-koelner-schau-dlf-20260715-1741-558d58e0-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ausstellung in Köln - Kunst von Yayoi Kusama - viele Punkte, volles Haus",
+    "summary": "Punkte, Spiegel und unendliche Räume: Die Werke der Künstlerin Kusama sind mehr als perfekte Fotomotive. Für Yilmaz Dziewio, Direktor des Museum Ludwig in Köln, ist ihre Ausstellung ein umfassendes Erlebnis, auch wegen ihrer historischen Arbeiten. Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-15T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/viele-punkte-volles-haus-yilmaz-dziewior-zu-koelner-schau-mit-kunst-von-kusama-100.html",
+    "image": "https://bilder.deutschlandfunk.de/04/4b/b1/2a/044bb12a-01cf-4e41-90a1-9b5adce59e34/kusama-ausstellung-koeln-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/viele_punkte_volles_haus_yilmaz_dziewior_zu_koelner_schau_dlf_20260715_1741_558d58e0.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-15-bayerische-kulturpolitik-strukturveraenderungen-bei-den-dlf-20260715-1736-768b8c5c-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bayerische Kulturpolitik - Strukturveränderungen bei den Gemäldesammlungen",
+    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-15T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/bayerische-kulturpolitik-strukturveraenderungen-bei-den-gemaeldesammlungen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/bayerische_kulturpolitik_strukturveraenderungen_bei_den_dlf_20260715_1736_768b8c5c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-neues-buch-wie-beyonce-die-popwelt-regiert-dlf-20260715-1515-94a31690-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Buch: Wie Beyoncé die Popwelt regiert",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-15T13:15:39.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-buch-wie-beyonc-die-popwelt-regiert-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/neues_buch_wie_beyonce_die_popwelt_regiert_dlf_20260715_1515_94a31690.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-neue-filme-so-klingt-das-leben-was-haben-wir-gelacht-u-a-dlf-20260715-1514-330824c5-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: So klingt das Leben, Was haben wir gelacht u. a.",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-07-15T13:14:07.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-so-klingt-das-leben-was-haben-wir-gelacht-u-a-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/neue_filme_so_klingt_das_leben_was_haben_wir_gelacht_u_a_dlf_20260715_1514_330824c5.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-von-35-mm-bis-imax-70-mm-warum-die-odyssee-nicht-immer-dlf-20260715-1506-c7a1f743-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Von 35 mm bis IMAX 70 mm: Warum \"Die Odyssee\" nicht immer gleich aussieht",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-15T13:06:18.000Z",
+    "url": "https://www.deutschlandfunk.de/von-35-mm-bis-imax-70-mm-warum-die-odyssee-nicht-immer-gleich-aussieht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/von_35_mm_bis_imax_70_mm_warum_die_odyssee_nicht_immer_dlf_20260715_1506_c7a1f743.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-14-kulturmeldungen-14072026-dlf-20260714-1756-3775c3b3-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -232,58 +434,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-13-am-anfang-war-die-zeichnung-dana-schutz-ausstellung-in-dlf-20260713-1743-f45114d6-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Am Anfang war die Zeichnung - Dana Schutz-Ausstellung in München",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-13T15:43:23.000Z",
-    "url": "https://www.deutschlandfunk.de/am-anfang-war-die-zeichnung-dana-schutz-ausstellung-in-muenchen-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/am_anfang_war_die_zeichnung_dana_schutz_ausstellung_in_dlf_20260713_1743_f45114d6.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-13-warum-wir-social-media-als-kulturform-sehen-sollten-dlf-20260713-1735-1d50106c-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Warum wir Social Media als Kulturform sehen sollten - Interview Dirk von Gehlen",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-13T15:35:27.000Z",
-    "url": "https://www.deutschlandfunk.de/warum-wir-social-media-als-kulturform-sehen-sollten-interview-dirk-von-gehlen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/warum_wir_social_media_als_kulturform_sehen_sollten_dlf_20260713_1735_1d50106c.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-13-johanna-pirker-ueber-pokemon-go-und-wie-das-spiel-die-dlf-20260713-1515-104f06ae-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -359,58 +509,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-kulturmeldungen-12072026-dlf-20260712-1756-27294b48-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 12.07.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-12T15:56:45.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/kulturmeldungen_12072026_dlf_20260712_1756_27294b48.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-12-critical-fabulations-of-documenta-symposium-in-kassel-dlf-20260712-1751-4d27c8f0-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Critical Fabulations of documenta\" - Symposium in Kassel",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-12T15:51:40.000Z",
-    "url": "https://www.deutschlandfunk.de/critical-fabulations-of-documenta-symposium-in-kassel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/12/critical_fabulations_of_documenta_symposium_in_kassel_dlf_20260712_1751_4d27c8f0.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-11-mehrstimmig-choere-in-deutschen-popsongs-dlf-20260711-1548-6a9d2428-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -447,81 +545,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/neustart_mit_post_indie_elementen_fuer_mich_von_jugo_uerdens_dlf_20260711_1538_b19e474b.mp3?refId=corso-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-11-gebrochener-rnb-magi-merlin-ueber-ihr-debuet-power-house-dlf-20260711-1515-509f476a-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gebrochener RnB - Magi Merlin über ihr Debüt \"Power House\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-11T13:15:42.000Z",
-    "url": "https://www.deutschlandfunk.de/gebrochener-rnb-magi-merlin-ueber-ihr-debuet-power-house-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/gebrochener_rnb_magi_merlin_ueber_ihr_debuet_power_house_dlf_20260711_1515_509f476a.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-10-der-comic-die-summe-seiner-teile-und-das-weiterleben-nach-dlf-20260710-1520-f53cdc73-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Comic \"Die Summe seiner Teile\" und das Weiterleben nach dem Tod durch KI",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-10T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-comic-die-summe-seiner-teile-und-das-weiterleben-nach-dem-tod-durch-ki-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/der_comic_die_summe_seiner_teile_und_das_weiterleben_nach_dlf_20260710_1520_f53cdc73.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-10-neues-rolling-stones-album-foreign-tongues-dlf-20260710-1515-5c779916-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Rolling Stones Album \"Foreign Tongues\"",
-    "summary": "Gross, Thorsten www.deutschlandfunk.de, Corso",
-    "date": "2026-07-10T13:15:01.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-rolling-stones-album-foreign-tongues-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/10/neues_rolling_stones_album_foreign_tongues_dlf_20260710_1515_5c779916.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
@@ -991,29 +1014,6 @@
     "image": "https://images.podigee-cdn.net/0x,s_81f1eYEe6G-eWCnamJbAV_yYr3PQCMLAxi-UNxBymc=/https://main.podigee-cdn.net/uploads/u26284/62f2fad4-8151-4c5b-88f7-c33ddff49c94.jpeg",
     "audio": "https://audio.podigee-cdn.net/2321819-m-bba054f3f7d9a51c892ecf0a869b5b39.mp3?source=feed",
     "duration": "34 Min",
-    "tags": [
-      "kunst",
-      "kultur",
-      "bildung"
-    ],
-    "category": [
-      "Kunst",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "30-minuten-kunst:b9022b73d9449139430298c5d0083e56",
-    "source": "30-minuten-kunst",
-    "sourceTitle": "30 Minuten Kunst",
-    "type": "rss",
-    "title": "Frans Hals - der Meister des Augenblicks",
-    "summary": "Wie der Niederländer die Malerei revolutionierte\n<p>Frans Hals; Ende des 16. Jahrhunderts in Antwerpen geboren, revolutionierte das Porträt mit seinem lockeren, alla-prima-Pinselstrich, der flüchtige Momente einfängt und seine Figuren lebendig wirken lässt. Für viele gilt er als ein Vorläufer der Impressionisten wie Van Gogh. Wie kaum ein anderer Künstler seiner Zeit, malte er auch die soziale Vielfalt - von den ganz reichen bis zu den armen Menschen seiner Heimatstadt.</p>\n<p>Seine Werke wurden nach dem Tod vergessen, erst im 19. Jahrhundert durch Théophile Thoré-Bürger wiederentdeckt. In Dresden hängen zwei seltene Portraits (Nachtglas-Brüder, 1633/34) in den Alten Meistern – in Berlin die berühmte \"Malle Babbe\". </p>\n<p>Repro-Credits: Frans Hals: \"Malle Babbe\" Gemäldegalerie, Staatliche Museen zu Berlin / Christoph Schmidt [CC BY-NC-SA]",
-    "date": "2026-03-12T09:00:00.000Z",
-    "url": "https://30-minuten-kunst.podigee.io/120-neue-episode",
-    "image": "https://images.podigee-cdn.net/0x,sHoeFhQNnCZJWO68AUnsbqeV9247Ubkgf6FdNl2lQWtQ=/https://main.podigee-cdn.net/uploads/u26284/ced3ea1f-2db5-4016-ab3f-7be4bf2d2722.jpeg",
-    "audio": "https://audio.podigee-cdn.net/2392167-m-b45568c53c8a6d04816741ccb993262c.mp3?source=feed",
-    "duration": "25 Min",
     "tags": [
       "kunst",
       "kultur",
