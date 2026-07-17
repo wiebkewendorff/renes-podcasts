@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-kulturmeldungen-16072026-dlf-20260716-1756-b8c9bd17-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 16.07.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-16T15:56:55.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/kulturmeldungen_16072026_dlf_20260716_1756_b8c9bd17.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-aufarbeitung-leicht-gemacht-zur-einsicht-in-die-ss-kartei-dlf-20260716-1750-51c88c8d-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aufarbeitung leicht gemacht? Zur Einsicht in die SS -Kartei Historiker Borggräfe",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-16T15:50:50.000Z",
+    "url": "https://www.deutschlandfunk.de/aufarbeitung-leicht-gemacht-zur-einsicht-in-die-ss-kartei-historiker-borggraefe-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/aufarbeitung_leicht_gemacht_zur_einsicht_in_die_ss_kartei_dlf_20260716_1750_51c88c8d.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-tomas-saraceno-verwobene-welten-ausstellung-im-haus-der-dlf-20260716-1745-6cc7a226-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Tomás Saraceno. Verwobene Welten\" - Ausstellung im Haus der Kunst in München",
+    "summary": "Julian Ignatowitsch www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-16T15:45:45.000Z",
+    "url": "https://www.deutschlandfunk.de/tom-s-saraceno-verwobene-welten-ausstellung-im-haus-der-kunst-in-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/tomas_saraceno_verwobene_welten_ausstellung_im_haus_der_dlf_20260716_1745_6cc7a226.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-aneignung-von-stauffenberg-rechte-widerstandsnarrative-dlf-20260716-1740-5ec693fd-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aneignung von Stauffenberg - Rechte Widerstandsnarrative Historikerin Hoffstadt",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-16T15:40:50.000Z",
+    "url": "https://www.deutschlandfunk.de/aneignung-von-stauffenberg-rechte-widerstandsnarrative-historikerin-hoffstadt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/aneignung_von_stauffenberg_rechte_widerstandsnarrative_dlf_20260716_1740_5ec693fd.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-die-odyssee-christopher-nolans-fantasy-spektakel-dlf-20260716-1735-09c56ed4-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Odyssee\" - Christopher Nolans Fantasy-Spektakel",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-16T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/die-odyssee-christopher-nolans-fantasy-spektakel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/die_odyssee_christopher_nolans_fantasy_spektakel_dlf_20260716_1735_09c56ed4.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-15-kulturmeldungen-15072026-dlf-20260715-1756-5290f76f-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -57,7 +187,7 @@
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
     "title": "Ausstellung in Köln - Kunst von Yayoi Kusama - viele Punkte, volles Haus",
-    "summary": "Punkte, Spiegel und unendliche Räume: Die Werke der Künstlerin Kusama sind mehr als perfekte Fotomotive. Für Yilmaz Dziewio, Direktor des Museum Ludwig in Köln, ist ihre Ausstellung ein umfassendes Erlebnis, auch wegen ihrer historischen Arbeiten. Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "summary": "Punkte, Spiegel und unendliche Räume: Die Werke der Künstlerin Kusama sind mehr als perfekte Fotomotive. Für Yilmaz Dziewior, Direktor des Museum Ludwig in Köln, ist ihre Ausstellung ein umfassendes Erlebnis, auch wegen ihrer historischen Arbeiten. Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
     "date": "2026-07-15T15:41:00.000Z",
     "url": "https://www.deutschlandfunk.de/viele-punkte-volles-haus-yilmaz-dziewior-zu-koelner-schau-mit-kunst-von-kusama-100.html",
     "image": "https://bilder.deutschlandfunk.de/04/4b/b1/2a/044bb12a-01cf-4e41-90a1-9b5adce59e34/kusama-ausstellung-koeln-100-1920x1920.jpg",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/kulturmeldungen_14072026_dlf_20260714_1756_3775c3b3.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-14-phaenomen-einsamkeit-psychologin-maike-luhmann-im-gespraech-dlf-20260714-1746-7d73c64c-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Phänomen Einsamkeit - Psychologin Maike Luhmann im Gespräch",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-14T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/phaenomen-einsamkeit-psychologin-maike-luhmann-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/phaenomen_einsamkeit_psychologin_maike_luhmann_im_gespraech_dlf_20260714_1746_7d73c64c.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-14-alcina-johanna-wehner-inszeniert-haendel-bei-den-dlf-20260714-1741-5a71b3c3-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Alcina\" - Johanna Wehner inszeniert Händel bei den Opernfestspielen München",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-14T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/alcina-johanna-wehner-inszeniert-haendel-bei-den-opernfestspielen-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/alcina_johanna_wehner_inszeniert_haendel_bei_den_dlf_20260714_1741_5a71b3c3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-14-hamburger-appell-fordert-mehr-sichtbarkeit-fuer-dlf-20260714-1736-1d704490-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hamburger Appell fordert mehr Sichtbarkeit für Kolonialismus-Gedenken",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-14T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/hamburger-appell-fordert-mehr-sichtbarkeit-fuer-kolonialismus-gedenken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/hamburger_appell_fordert_mehr_sichtbarkeit_fuer_dlf_20260714_1736_1d704490.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-13-kulturmeldungen-13072026-dlf-20260713-1756-11535c33-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 13.07.2026",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-13T15:56:10.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/kulturmeldungen_13072026_dlf_20260713_1756_11535c33.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-13-still-joy-ukraine-ausstellung-ueber-freude-in-kriegszeiten-dlf-20260713-1748-025244ff-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Still Joy\" - Ukraine-Ausstellung über Freude in Kriegszeiten in Venedig",
-    "summary": "Burkhardt, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-13T15:48:55.000Z",
-    "url": "https://www.deutschlandfunk.de/still-joy-ukraine-ausstellung-ueber-freude-in-kriegszeiten-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/still_joy_ukraine_ausstellung_ueber_freude_in_kriegszeiten_dlf_20260713_1748_025244ff.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "theater",

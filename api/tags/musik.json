@@ -1,5 +1,55 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-07638166919057976",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Maren Kroymann im Talk über die Doku \"Was haben wir gelacht\"",
+    "summary": "In der Doku \"Was haben wir gelacht\" seziert sie mit Hella von Sinnen und anderen die sexistische Welt der Fernsehplatzhirsche.",
+    "date": "2026-07-16T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/maren-kroymann-im-talk-ueber-die-doku-was-haben-wir-gelacht,audio-3362590.html",
+    "image": "https://images.ndr.de/image/37e7c8ce-71b4-4205-8f36-4ee4a1b7b9be/AAABn2wN0l0/AAABnSStX0g/1x1-big/screenshot-196808.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0716/AU-20260716-1957-2600.mp3",
+    "duration": "31 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-09478599866880877",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Psychologe Stephan Grünewald über Menschen in Krisensituationen",
+    "summary": "In seinem Buch untersucht der Psychologe und Bestsellerautor die verblüffenden Strategien von Menschen in Krisensituationen.",
+    "date": "2026-07-15T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/psychologe-stephan-gruenewald-ueber-menschen-in-krisensituationen,audio-3361150.html",
+    "image": "https://images.ndr.de/image/8ca6a3f0-74dd-48fc-93a9-dba8266a9281/AAABn2ayVDM/AAABnSStX0g/1x1-big/screenshot-196244.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0716/AU-20260716-0944-2900.mp3",
+    "duration": "28 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-5508062148726598",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -86,56 +136,6 @@
     "image": "https://images.ndr.de/image/e481dc53-531d-4459-82af-d4b3f24c3121/AAABn1Icarc/AAABnSStX0g/1x1-big/screenshot-194628.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0713/AU-20260713-1028-4500.mp3",
     "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-9364683842530855",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Hypnotiseur Jan Becker im Talk mit Ilka Petersen",
-    "summary": "Aktuell ist er mit einer Magie-Show und einem Ratgeberbuch für ausstiegswillige Raucherinnen und Raucher unterwegs.",
-    "date": "2026-07-10T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/hypnotiseur-jan-becker-im-talk-mit-ilka-petersen,audio-3354540.html",
-    "image": "https://images.ndr.de/image/a9a5f9b3-6471-4533-b04a-3328acc521f9/AAABn0z1KPc/AAABnSStX0g/1x1-big/screenshot-194074.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0713/AU-20260713-0951-4900.mp3",
-    "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-8959112591818605",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Gastiert beim Schleswig-Holstein Musikfestival: Schauspielerin Eva Mattes",
-    "summary": "Mit sechs Jahren beschloss sie Schauspielerin zu werden. Bis heute hat Eva Mattes in mehr als 200 Kinofilmen, TV-Produktionen und Theaterinszenierungen gespielt, arbeitete mit namhaften Regisseuren wie Werner Herzog, Michael Verhoeven, Rainer Werner Fassbinder und Peter Zadek. Das Fernsehpublikum kennt sie als Bodensee-\"Tatort\"-Kommissarin Klara Blum und als Hebammen-Mutter Eva in der ZDF-Serie \"Lena Lorenz\". Jetzt gastiert die deutsch-österreichische Schauspielerin beim Schleswig-Holstein Musikfestival in Geesthacht mit einer musikalischen Lesung aus den Tagebüchern von Astrid Lindgren.",
-    "date": "2026-07-09T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/gastiert-beim-schleswig-holstein-musikfestival-schauspielerin-eva-mattes,audio-3349622.html",
-    "image": "https://images.ndr.de/image/09c30c44-8605-419f-80cc-ee8f94603abb/AAABn0fKON4/AAABnSStX0g/1x1-big/screenshot-193538.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0710/AU-20260710-0758-2100.mp3",
-    "duration": "31 Min",
     "tags": [
       "beatles",
       "popgeschichte",
