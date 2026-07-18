@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-kulturmeldungen-17072026-dlf-20260717-1757-cfe3c97e-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 17.07.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-17T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-17-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/kulturmeldungen_17072026_dlf_20260717_1757_cfe3c97e.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-residenzen-fuer-freie-ensembles-eine-option-fuer-theater-in-dlf-20260717-1752-c4eafa60-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Residenzen für freie Ensembles - Eine Option für Theater in Krisenzeiten",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-17T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/residenzen-fuer-freie-ensembles-eine-option-fuer-theater-in-krisenzeiten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/residenzen_fuer_freie_ensembles_eine_option_fuer_theater_in_dlf_20260717_1752_c4eafa60.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-ohne-mehr-digitalisierung-droht-deutschem-filmerbe-verfall-dlf-20260717-1747-11e8b609-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ohne mehr Digitalisierung droht deutschem Filmerbe Verfall - Andreas Kötzing iG.",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-17T15:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ohne-mehr-digitalisierung-droht-deutschem-filmerbe-verfall-andreas-koetzing-ig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/ohne_mehr_digitalisierung_droht_deutschem_filmerbe_verfall_dlf_20260717_1747_11e8b609.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-unusual-das-kuenstlerduo-klarenbeek-dros-in-muenchen-dlf-20260717-1742-a0e74f98-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Unusual\" - das Künstlerduo Klarenbeek Dros in München",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-17T15:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/unusual-das-kuenstlerduo-klarenbeek-dros-in-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/unusual_das_kuenstlerduo_klarenbeek_dros_in_muenchen_dlf_20260717_1742_a0e74f98.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-danger-dan-und-das-zdf-myriam-kroll-ueber-provokation-als-dlf-20260717-1736-dbe4f62a-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Danger Dan und das ZDF - Myriam Kroll über Provokation als künstlerisches Mittel",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-17T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/danger-dan-und-das-zdf-myriam-kroll-ueber-provokation-als-kuenstlerisches-mittel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/danger_dan_und_das_zdf_myriam_kroll_ueber_provokation_als_dlf_20260717_1736_dbe4f62a.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-kulturmeldungen-16072026-dlf-20260716-1756-b8c9bd17-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/die_odyssee_christopher_nolans_fantasy_spektakel_dlf_20260716_1735_09c56ed4.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-15-kulturmeldungen-15072026-dlf-20260715-1756-5290f76f-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 15.07.2026",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-15T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/kulturmeldungen_15072026_dlf_20260715_1756_5290f76f.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-15-verschleppt-statt-befreit-der-kubanische-kuenstler-luis-dlf-20260715-1750-e38f2a42-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verschleppt statt befreit - Der kubanische Künstler Luis Manuel Otero Alcántara",
-    "summary": "Schumann, Peter B. www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-15T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/verschleppt-statt-befreit-der-kubanische-kuenstler-luis-manuel-otero-alc-ntara-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/verschleppt_statt_befreit_der_kubanische_kuenstler_luis_dlf_20260715_1750_e38f2a42.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-15-viele-punkte-volles-haus-yilmaz-dziewior-zu-koelner-schau-dlf-20260715-1741-558d58e0-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ausstellung in Köln - Kunst von Yayoi Kusama - viele Punkte, volles Haus",
-    "summary": "Punkte, Spiegel und unendliche Räume: Die Werke der Künstlerin Kusama sind mehr als perfekte Fotomotive. Für Yilmaz Dziewior, Direktor des Museum Ludwig in Köln, ist ihre Ausstellung ein umfassendes Erlebnis, auch wegen ihrer historischen Arbeiten. Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-15T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/viele-punkte-volles-haus-yilmaz-dziewior-zu-koelner-schau-mit-kunst-von-kusama-100.html",
-    "image": "https://bilder.deutschlandfunk.de/04/4b/b1/2a/044bb12a-01cf-4e41-90a1-9b5adce59e34/kusama-ausstellung-koeln-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/viele_punkte_volles_haus_yilmaz_dziewior_zu_koelner_schau_dlf_20260715_1741_558d58e0.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-15-bayerische-kulturpolitik-strukturveraenderungen-bei-den-dlf-20260715-1736-768b8c5c-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bayerische Kulturpolitik - Strukturveränderungen bei den Gemäldesammlungen",
-    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-15T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/bayerische-kulturpolitik-strukturveraenderungen-bei-den-gemaeldesammlungen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/bayerische_kulturpolitik_strukturveraenderungen_bei_den_dlf_20260715_1736_768b8c5c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-14-kulturmeldungen-14072026-dlf-20260714-1756-3775c3b3-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 14.07.2026",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-14T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/kulturmeldungen_14072026_dlf_20260714_1756_3775c3b3.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

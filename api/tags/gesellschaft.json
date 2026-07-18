@@ -26,6 +26,56 @@
     "language": "de"
   },
   {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-17-emoji-day-wie-veraendern-emojis-unsere-kommunikation-dlf-20260717-1506-c12dcc15-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Emoji Day - Wie verändern Emojis unsere Kommunikation?",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-07-17T13:06:28.000Z",
+    "url": "https://www.deutschlandfunk.de/emoji-day-wie-veraendern-emojis-unsere-kommunikation-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/emoji_day_wie_veraendern_emojis_unsere_kommunikation_dlf_20260717_1506_c12dcc15.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-17-keine-angst-von-danger-dan-und-igor-levit-aufruf-zu-linker-dlf-20260717-1505-50562a38-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Song „Keine Angst“ - Jurist Steinbeis sieht keinen Aufruf zur Gewalt",
+    "summary": "Danger Dan und Igor Levit werden „Keine Angst“ nicht in der ZDF-Satiresendung „Die Anstalt“ aufführen. Der Auftritt wurde abgesagt, weil man in dem Song einen Gewaltaufruf erkennen könne. Jurist Steinbeis findet diese Entscheidung höchst bedenklich. Müller, Paulus; Steinbeis, Maximilian www.deutschlandfunk.de, Corso",
+    "date": "2026-07-17T13:05:52.000Z",
+    "url": "https://www.deutschlandfunk.de/keine-angst-von-danger-dan-und-igor-levit-aufruf-zu-linker-gewalt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/60/28/19/ea/602819ea-72e9-4217-b19e-b1ff7f56b7bc/danger-dan-igor-levit-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/keine_angst_von_danger_dan_und_igor_levit_aufruf_zu_linker_dlf_20260717_1505_50562a38.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4011738",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -445,56 +495,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-13-johanna-pirker-ueber-pokemon-go-und-wie-das-spiel-die-dlf-20260713-1515-104f06ae-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Johanna Pirker über Pokémon Go und wie das Spiel die Gamingwelt verändert hat",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-13T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/johanna-pirker-ueber-pok-mon-go-und-wie-das-spiel-die-gamingwelt-veraendert-hat-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/johanna_pirker_ueber_pokemon_go_und_wie_das_spiel_die_dlf_20260713_1515_104f06ae.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-13-mode-kann-man-feminismus-stricken-dlf-20260713-1510-b7d02d7b-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mode - Kann man Feminismus stricken?",
-    "summary": "Keller, Tamara www.deutschlandfunk.de, Corso",
-    "date": "2026-07-13T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/mode-kann-man-feminismus-stricken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/13/mode_kann_man_feminismus_stricken_dlf_20260713_1510_b7d02d7b.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:3b4bfe5c-0ab2-4390-b9c6-1093195ee2ea",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -813,7 +813,7 @@
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
     "type": "rss",
-    "title": "How’s your walk with the Lord? - Spiritualität nach der Kirche",
+    "title": "How's your walk with the Lord? - Spiritualität nach der Kirche",
     "summary": "Nathan wächst als Mennonit in den USA auf. Vom praktizierten Glauben hat sich der heute in Köln lebende Musiker gelöst. Doch was ihn damals bewegt hat, ist nicht verschwunden. Ein Feature über Transformation – von Menschen und religiösen Gefühlen. Von Janko Hanushevsky und Nathan Bontrager www.deutschlandfunkkultur.de, Feature",
     "date": "2026-06-23T04:00:00.000Z",
     "url": "https://www.hoerspielundfeature.de/feature-hows-your-walk-with-the-lord-100.html",
