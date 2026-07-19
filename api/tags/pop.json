@@ -1,5 +1,130 @@
 [
   {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-saengerin-lido-pimienta-die-karibische-enya-tanzt-gegen-dlf-20260718-1554-7881eda7-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sängerin Lido Pimienta: Die karibische Enya tanzt gegen rechts",
+    "summary": "Behlert, Anke www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:54:14.000Z",
+    "url": "https://www.deutschlandfunk.de/saengerin-lido-pimienta-die-karibische-enya-tanzt-gegen-rechts-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/saengerin_lido_pimienta_die_karibische_enya_tanzt_gegen_dlf_20260718_1554_7881eda7.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-brasilien-sportwetten-treiben-menschen-in-den-persoenlichen-dlf-20260718-1345-be70176b-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Brasilien - Sportwetten treiben Menschen in den persönlichen Ruin",
+    "summary": "Herrberg, Anne www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/brasilien-sportwetten-treiben-menschen-in-den-persoenlichen-ruin-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/brasilien_sportwetten_treiben_menschen_in_den_persoenlichen_dlf_20260718_1345_be70176b.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-rapper-apsilon-ueber-glanz-null-wohin-mit-all-der-wut-dlf-20260718-1542-2b76af26-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Rapper Apsilon über \"Glanz Null\" - Wohin mit all der Wut?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:42:08.000Z",
+    "url": "https://www.deutschlandfunk.de/rapper-apsilon-ueber-glanz-null-wohin-mit-all-der-wut-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/rapper_apsilon_ueber_glanz_null_wohin_mit_all_der_wut_dlf_20260718_1542_2b76af26.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-kulturstaatsminister-weimer-will-beim-pop-sparen-dlf-20260718-1510-895b1679-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturstaatsminister Weimer will beim Pop sparen",
+    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:10:58.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-will-beim-pop-sparen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/kulturstaatsminister_weimer_will_beim_pop_sparen_dlf_20260718_1510_895b1679.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-nia-archives-ueber-jungle-meine-blosse-existenz-ist-dlf-20260718-1507-0b5e4520-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nia Archives über Jungle - \"Meine bloße Existenz ist politisch\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:07:25.000Z",
+    "url": "https://www.deutschlandfunk.de/nia-archives-ueber-jungle-meine-blosse-existenz-ist-politisch-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/nia_archives_ueber_jungle_meine_blosse_existenz_ist_dlf_20260718_1507_0b5e4520.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-17-emoji-day-wie-veraendern-emojis-unsere-kommunikation-dlf-20260717-1506-c12dcc15-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -111,131 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/suno_gate_was_bedeutet_der_hack_der_ki_musik_app_dlf_20260716_1505_5d1de99f.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-neues-buch-wie-beyonce-die-popwelt-regiert-dlf-20260715-1515-94a31690-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Buch: Wie Beyoncé die Popwelt regiert",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-15T13:15:39.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-buch-wie-beyonc-die-popwelt-regiert-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/neues_buch_wie_beyonce_die_popwelt_regiert_dlf_20260715_1515_94a31690.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-neue-filme-so-klingt-das-leben-was-haben-wir-gelacht-u-a-dlf-20260715-1514-330824c5-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: So klingt das Leben, Was haben wir gelacht u. a.",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-07-15T13:14:07.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-so-klingt-das-leben-was-haben-wir-gelacht-u-a-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/neue_filme_so_klingt_das_leben_was_haben_wir_gelacht_u_a_dlf_20260715_1514_330824c5.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-von-35-mm-bis-imax-70-mm-warum-die-odyssee-nicht-immer-dlf-20260715-1506-c7a1f743-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von 35 mm bis IMAX 70 mm: Warum \"Die Odyssee\" nicht immer gleich aussieht",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-15T13:06:18.000Z",
-    "url": "https://www.deutschlandfunk.de/von-35-mm-bis-imax-70-mm-warum-die-odyssee-nicht-immer-gleich-aussieht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/von_35_mm_bis_imax_70_mm_warum_die_odyssee_nicht_immer_dlf_20260715_1506_c7a1f743.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-14-serie-sheep-ueber-synchronisation-und-die-vorstellung-vom-dlf-20260714-1510-e585d371-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Serie \"Sheep\" - Über Synchronisation und die Vorstellung vom gemeinsamen Leben",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-14T13:10:59.000Z",
-    "url": "https://www.deutschlandfunk.de/serie-sheep-ueber-synchronisation-und-die-vorstellung-vom-gemeinsamen-leben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/serie_sheep_ueber_synchronisation_und_die_vorstellung_vom_dlf_20260714_1510_e585d371.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-14-10-jahre-only-fans-wenn-pornografie-und-social-media-dlf-20260714-1510-c295d210-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "10 Jahre Only Fans - Wenn Pornografie und Social Media verschmelzen",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-14T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/10-jahre-only-fans-wenn-pornografie-und-social-media-verschmelzen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/10_jahre_only_fans_wenn_pornografie_und_social_media_dlf_20260714_1510_c295d210.mp3?refId=corso-104",
-    "duration": "9 Min",
     "tags": [
       "kultur",
       "pop",

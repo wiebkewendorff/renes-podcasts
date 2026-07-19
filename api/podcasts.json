@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:e4361933f3788fe7605522f66a9d19a1",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Nilpferd in Senfsauce: Was in den Kolonien auf den Teller kam",
+    "summary": "<p>Das \"Kolonialkochbuch\" von 1906 soll deutschen Frauen das Leben in den Kolonien erleichtern. Neben Rezepten liefert es Einblicke in den Rassismus fernab des Kaiserreichs.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Maren Gottschalk:</strong><br><ul><li>warum deutsche Frauen zu Beginn des 20. Jahrhunderts in die Kolonien ziehen,</li><li>worum sich der Frauenbund der deutschen Kolonialgesellschaft kümmert,</li><li>wodurch in den Speiseplänen der Kolonisten Kohlrabi, Äpfel und Spinat ersetzt werden,</li><li>welche ungewöhnlichen Zutaten in Fleischrezepten zum Einsatz kommen.</li></ul><br>Olga Rosenberg, die Autorin des ersten deutschen Kolonial-Kochbuchs, arbeitet als geprüfte Kochlehrerin in Berlin und ist wahrscheinlich nie selbst in die Kolonien gereist. Auftraggeber ihres Kochbuchs ist das Kolonialwirtschaftliche Komitee, das die wirtschaftlichen Interessen von Unternehmern, Siedlern und Wissenschaftlern bündelt, und den Alltag von Kolonisten erleichtern will.<br><br>Das Fleisch des Flusspferdes gilt laut Kochbuch als etwas grob, aber immerhin noch ganz gut genießbar, namentlich das Rückenfleisch. Die Wangen und der Schwanz gelten als hervorragend schmackhaft, auch die Füße werden gern gegessen. Vom Elefanten gelten die Füße und das Herz als schmackhafte, beliebte Gerichte.<br><br>Nur ein Rezept stößt bei den Leserinnen und Lesern des Kolonial-Kochbuchs auf Protest: Der Affenrücken wird in einer zeitgenössischen Rezension des Kochbuchs kritisiert, weil man sagt, das muss nicht sein. Vermutlich, weil der Affe und Mensch zu nah verwandt sind.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Dr. Regina Frisch, Expertin für historische Kochbücher, Würzburg</li><li>Olga Rosenberg: Kolonial-Kochbuch, Berlin 1906</li><li>Antonie Brandeis: Kochbuch für die Tropen, Berlin 1907</li><li>Regina Frisch: Schwarzsauer von einer Ente auf javanische Art. In: Kolonialismus - Imperialismus - Dekolonisation. Beiträge zur Globalgeschichte Nr. 6, herausgegeben von Markus A. Denzel und Mark Häberlein</li><li>Marianne Bechhaus-Gerst, Mechthild Leutner: Frauen in den deutschen Kolonien, Berlin 2009</li><li>Livia Loosen: Deutsche Frauen in den Südsee-Kolonien des Kaiserreichs, Bielefeld 2014</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/neuzeit/kolonialismus/kolonialismus-intro-100.html\" rel=\"noopener\" target=\"_blank\">Kolonialismus - Europas Kolonien</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/deutsche_geschichte/deutsche_kolonien/deutsche-kolonien-intro-100.html\" rel=\"noopener\" target=\"_blank\">Deutsche Geschichte - Deutsche Kolonien</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-voelkerschau-koelner-zoo-100.html\" rel=\"noopener\" target=\"_blank\">12.06.1931 - Der Kölner Zoo stellt \"Neukaledonier\" als \"Kannibalen\" aus</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/wohnen/kuechen/pwwbkuechen100.html\" rel=\"noopener\" target=\"_blank\">Wohnen - Die Geschichte der Küche</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Maren Gottschalk <br>Redaktion: Carolin Rückl und Sefa Inci Suvak",
+    "date": "2026-07-19T04:00:48.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-nilpferd-in-senfsauce-was-in-den-kolonien-auf-den-teller-kam-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-kolonialkochbuch-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/07/a991c333-a7a3-4b0d-94f1-b20d0a8648c1/a991c333-a7a3-4b0d-94f1-b20d0a8648c1_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-18-ein-rennen-gegen-die-zeit-drk-20260718-1805-ac319130-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -22,6 +45,261 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-kulturmeldungen-18072026-dlf-20260718-1756-61254390-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 18.07.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/kulturmeldungen_18072026_dlf_20260718_1756_61254390.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-madonna-statt-maradona-halbzeitshow-beim-wm-finale-wird-dlf-20260718-1752-ed220e38-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Madonna statt Maradona: Halbzeitshow beim WM-Finale wird gigantisches Spektakel",
+    "summary": "Ganslmeier, Martin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:52:45.000Z",
+    "url": "https://www.deutschlandfunk.de/madonna-statt-maradona-halbzeitshow-beim-wm-finale-wird-gigantisches-spektakel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/madonna_statt_maradona_halbzeitshow_beim_wm_finale_wird_dlf_20260718_1752_ed220e38.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-sportjournalist-ronald-reng-ueber-das-gemeinschaftserlebnis-dlf-20260718-1742-cf1ed1ac-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sportjournalist Ronald Reng über das Gemeinschaftserlebnis der WM 2006/2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:42:45.000Z",
+    "url": "https://www.deutschlandfunk.de/sportjournalist-ronald-reng-ueber-das-gemeinschaftserlebnis-der-wm-2006-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/sportjournalist_ronald_reng_ueber_das_gemeinschaftserlebnis_dlf_20260718_1742_cf1ed1ac.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-die-hunnenkoenigin-urauffuehrung-bei-den-nibelungen-dlf-20260718-1737-a00c1298-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Hunnenkönigin\" - Uraufführung bei den Nibelungen-Festspielen in Worms",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:37:34.000Z",
+    "url": "https://www.deutschlandfunk.de/die-hunnenkoenigin-urauffuehrung-bei-den-nibelungen-festspielen-in-worms-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/die_hunnenkoenigin_urauffuehrung_bei_den_nibelungen_dlf_20260718_1737_a00c1298.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-theologe-dabrock-zum-ruecktritt-von-jens-spahn-und-der-frage-dlf-20260718-1730-170808fd-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Causa Jens Spahn - Theologe: \"Er hat sich erkennbar nicht an Regeln gehalten\"",
+    "summary": "Jens Spahns Rücktritt vom Vorsitz der Unionsfraktion war konsequent. Davon ist Peter Dabrock überzeugt: Spahn habe Wein getrunken und Wasser gepredigt, so der Theologe. Die Debatte um Leihmutterschaft sei zentral für das Menschenbild der Union. Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:30:38.000Z",
+    "url": "https://www.deutschlandfunk.de/theologe-dabrock-zum-ruecktritt-von-jens-spahn-und-der-frage-der-doppelmoral-100.html",
+    "image": "https://bilder.deutschlandfunk.de/ef/17/0f/e5/ef170fe5-648a-48f9-a913-5d8afbcaa322/jens-spahn-ruecktritt-ethik-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/theologe_dabrock_zum_ruecktritt_von_jens_spahn_und_der_frage_dlf_20260718_1730_170808fd.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-saengerin-lido-pimienta-die-karibische-enya-tanzt-gegen-dlf-20260718-1554-7881eda7-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sängerin Lido Pimienta: Die karibische Enya tanzt gegen rechts",
+    "summary": "Behlert, Anke www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:54:14.000Z",
+    "url": "https://www.deutschlandfunk.de/saengerin-lido-pimienta-die-karibische-enya-tanzt-gegen-rechts-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/saengerin_lido_pimienta_die_karibische_enya_tanzt_gegen_dlf_20260718_1554_7881eda7.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-brasilien-sportwetten-treiben-menschen-in-den-persoenlichen-dlf-20260718-1345-be70176b-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Brasilien - Sportwetten treiben Menschen in den persönlichen Ruin",
+    "summary": "Herrberg, Anne www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/brasilien-sportwetten-treiben-menschen-in-den-persoenlichen-ruin-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/brasilien_sportwetten_treiben_menschen_in_den_persoenlichen_dlf_20260718_1345_be70176b.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-rapper-apsilon-ueber-glanz-null-wohin-mit-all-der-wut-dlf-20260718-1542-2b76af26-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Rapper Apsilon über \"Glanz Null\" - Wohin mit all der Wut?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:42:08.000Z",
+    "url": "https://www.deutschlandfunk.de/rapper-apsilon-ueber-glanz-null-wohin-mit-all-der-wut-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/rapper_apsilon_ueber_glanz_null_wohin_mit_all_der_wut_dlf_20260718_1542_2b76af26.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-kulturstaatsminister-weimer-will-beim-pop-sparen-dlf-20260718-1510-895b1679-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturstaatsminister Weimer will beim Pop sparen",
+    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:10:58.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-will-beim-pop-sparen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/kulturstaatsminister_weimer_will_beim_pop_sparen_dlf_20260718_1510_895b1679.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-nia-archives-ueber-jungle-meine-blosse-existenz-ist-dlf-20260718-1507-0b5e4520-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nia Archives über Jungle - \"Meine bloße Existenz ist politisch\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-18T13:07:25.000Z",
+    "url": "https://www.deutschlandfunk.de/nia-archives-ueber-jungle-meine-blosse-existenz-ist-politisch-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/nia_archives_ueber_jungle_meine_blosse_existenz_ist_dlf_20260718_1507_0b5e4520.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -374,136 +652,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-kulturmeldungen-16072026-dlf-20260716-1756-b8c9bd17-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 16.07.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:56:55.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/kulturmeldungen_16072026_dlf_20260716_1756_b8c9bd17.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-aufarbeitung-leicht-gemacht-zur-einsicht-in-die-ss-kartei-dlf-20260716-1750-51c88c8d-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aufarbeitung leicht gemacht? Zur Einsicht in die SS -Kartei Historiker Borggräfe",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:50:50.000Z",
-    "url": "https://www.deutschlandfunk.de/aufarbeitung-leicht-gemacht-zur-einsicht-in-die-ss-kartei-historiker-borggraefe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/aufarbeitung_leicht_gemacht_zur_einsicht_in_die_ss_kartei_dlf_20260716_1750_51c88c8d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-tomas-saraceno-verwobene-welten-ausstellung-im-haus-der-dlf-20260716-1745-6cc7a226-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Tomás Saraceno. Verwobene Welten\" - Ausstellung im Haus der Kunst in München",
-    "summary": "Julian Ignatowitsch www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:45:45.000Z",
-    "url": "https://www.deutschlandfunk.de/tom-s-saraceno-verwobene-welten-ausstellung-im-haus-der-kunst-in-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/tomas_saraceno_verwobene_welten_ausstellung_im_haus_der_dlf_20260716_1745_6cc7a226.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-aneignung-von-stauffenberg-rechte-widerstandsnarrative-dlf-20260716-1740-5ec693fd-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aneignung von Stauffenberg - Rechte Widerstandsnarrative Historikerin Hoffstadt",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:40:50.000Z",
-    "url": "https://www.deutschlandfunk.de/aneignung-von-stauffenberg-rechte-widerstandsnarrative-historikerin-hoffstadt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/aneignung_von_stauffenberg_rechte_widerstandsnarrative_dlf_20260716_1740_5ec693fd.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-die-odyssee-christopher-nolans-fantasy-spektakel-dlf-20260716-1735-09c56ed4-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Odyssee\" - Christopher Nolans Fantasy-Spektakel",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/die-odyssee-christopher-nolans-fantasy-spektakel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/die_odyssee_christopher_nolans_fantasy_spektakel_dlf_20260716_1735_09c56ed4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-16-immer-wieder-odyssee-was-die-popkultur-am-antiken-stoff-dlf-20260716-1510-01389fdf-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -725,81 +873,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-neues-buch-wie-beyonce-die-popwelt-regiert-dlf-20260715-1515-94a31690-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Buch: Wie Beyoncé die Popwelt regiert",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-15T13:15:39.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-buch-wie-beyonc-die-popwelt-regiert-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/neues_buch_wie_beyonce_die_popwelt_regiert_dlf_20260715_1515_94a31690.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-neue-filme-so-klingt-das-leben-was-haben-wir-gelacht-u-a-dlf-20260715-1514-330824c5-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: So klingt das Leben, Was haben wir gelacht u. a.",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-07-15T13:14:07.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-so-klingt-das-leben-was-haben-wir-gelacht-u-a-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/neue_filme_so_klingt_das_leben_was_haben_wir_gelacht_u_a_dlf_20260715_1514_330824c5.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-15-von-35-mm-bis-imax-70-mm-warum-die-odyssee-nicht-immer-dlf-20260715-1506-c7a1f743-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von 35 mm bis IMAX 70 mm: Warum \"Die Odyssee\" nicht immer gleich aussieht",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-15T13:06:18.000Z",
-    "url": "https://www.deutschlandfunk.de/von-35-mm-bis-imax-70-mm-warum-die-odyssee-nicht-immer-gleich-aussieht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/15/von_35_mm_bis_imax_70_mm_warum_die_odyssee_nicht_immer_dlf_20260715_1506_c7a1f743.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeitzeichen:1d1a0695d8d9b38a83784f62bc65d3e0",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -868,56 +941,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-14-serie-sheep-ueber-synchronisation-und-die-vorstellung-vom-dlf-20260714-1510-e585d371-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Serie \"Sheep\" - Über Synchronisation und die Vorstellung vom gemeinsamen Leben",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-14T13:10:59.000Z",
-    "url": "https://www.deutschlandfunk.de/serie-sheep-ueber-synchronisation-und-die-vorstellung-vom-gemeinsamen-leben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/serie_sheep_ueber_synchronisation_und_die_vorstellung_vom_dlf_20260714_1510_e585d371.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-14-10-jahre-only-fans-wenn-pornografie-und-social-media-dlf-20260714-1510-c295d210-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "10 Jahre Only Fans - Wenn Pornografie und Social Media verschmelzen",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-14T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/10-jahre-only-fans-wenn-pornografie-und-social-media-verschmelzen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/14/10_jahre_only_fans_wenn_pornografie_und_social_media_dlf_20260714_1510_c295d210.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1231,29 +1254,6 @@
     "category": [
       "Geschichte",
       "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:36dd1a9826f2e755d718c04cafabf7dc",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Die vielen Väter des Aluminiums - C. Halls Jahrhunderterfindung",
-    "summary": "<p>Am 9.7.1886 sichert sich Charles M. Hall ein US-Patent zur Aluminiumgewinnung, während Paul Héroult in Europa zeitgleich dasselbe schafft - ein Millimeter-Finish.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Kay Bandermann:</strong><br><ul><li>warum Aluminium einige Zeit bis zum Durchbruch braucht,</li><li>wie kurz nacheinander gleich zwei Patente auf die Aluminium-Gewinnung eingereicht werden,</li><li>welche Rolle eine Nachricht zwischen Geschwistern im Streit um die Patente spielt,</li><li>welche Vision Forscher heutzutage von der Aluminium-Produktion haben.</li></ul><br>Mit etwa sieben bis acht Prozent ist Aluminium nach Sauerstoff und Silizium der dritthäufigste Stoff in der Erdkruste. Seit Beginn des 19. Jahrhunderts suchen Naturwissenschaftler nach Wegen, um das Metall abzuscheiden oder aus dem Gestein herauszulösen.<br><br>1886 gelingt dem College-Studenten Charles Martin Hall in der Kleinstadt Oberlin in Ohio ein entscheidender Durchbruch. Im Holzschuppen hinter dem Elternhaus richtet er ein provisorisches Labor ein. Mit selbstgebauten Batterien zur Stromerzeugung, einer eisernen Bratpfanne und dem Mineral Kryolith gelingt es ihm, das in einer Flüssigkeit gelöste Aluminiumoxid aufzuspalten.<br><br>Mit einer Handvoll Aluminiumstücken geht Hall zu potenziellen Geldgebern, denn er ahnt, dass sich mit dieser Entdeckung viel Geld verdienen lässt. Sie gründen die \"Pittsburgh Reduction Company\", wo Hall sein Verfahren weiter verbessert. Jetzt kann Roh-Aluminium in großen Mengen gewonnen werden. Und die Herstellungs-Kosten liegen unter zwei Dollar pro Kilo. Am 9. Juli 1886 reicht Hall das Patent mit der Nummer 400.664 bei den US-Behörden ein.<br><br><strong>Das sind unsere wichtigsten Interviewpartner:</strong><br><ul><li>Jörg Schäfer, Verband Aluminium Deutschland, Düsseldorf</li><li>Dr. Roman Düssel, Werksleiter TRIMET, Essen</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/technik/werkstoffe/metallrohstoffe/pwwbmetallrohstoffe100.html\" rel=\"noopener\" target=\"_blank\">Werkstoffe - Metallrohstoffe</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/natur/umwelt/umweltverschmutzung/pwieindustriellerevolutionundumweltverschmutzung100.html\" rel=\"noopener\" target=\"_blank\">Industrielle Revolution und Umweltverschmutzung</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-jules-verne-100.html\" rel=\"noopener\" target=\"_blank\">24.03.1905: Der Science-Fiction-Pionier Jules Verne stirbt in Amiens</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/napoleon100.html\" rel=\"noopener\" target=\"_blank\">20.04.1808 - Geburtstag von Kaiser Napoleon III.</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Kay Bandermann<br>Redaktion: Emily Jeuckens und David Rother",
-    "date": "2026-07-09T04:00:34.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-vielen-vaeter-des-aluminiums-c-halls-jahrhunderterfindung-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/charles-martin-hall-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/22/04d4a4a8-dae9-43d8-a94b-d6dc8643156b/04d4a4a8-dae9-43d8-a94b-d6dc8643156b_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
       "Bildung"
     ],
     "language": "de"

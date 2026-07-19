@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-kulturmeldungen-18072026-dlf-20260718-1756-61254390-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 18.07.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/kulturmeldungen_18072026_dlf_20260718_1756_61254390.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-madonna-statt-maradona-halbzeitshow-beim-wm-finale-wird-dlf-20260718-1752-ed220e38-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Madonna statt Maradona: Halbzeitshow beim WM-Finale wird gigantisches Spektakel",
+    "summary": "Ganslmeier, Martin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:52:45.000Z",
+    "url": "https://www.deutschlandfunk.de/madonna-statt-maradona-halbzeitshow-beim-wm-finale-wird-gigantisches-spektakel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/madonna_statt_maradona_halbzeitshow_beim_wm_finale_wird_dlf_20260718_1752_ed220e38.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-sportjournalist-ronald-reng-ueber-das-gemeinschaftserlebnis-dlf-20260718-1742-cf1ed1ac-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sportjournalist Ronald Reng über das Gemeinschaftserlebnis der WM 2006/2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:42:45.000Z",
+    "url": "https://www.deutschlandfunk.de/sportjournalist-ronald-reng-ueber-das-gemeinschaftserlebnis-der-wm-2006-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/sportjournalist_ronald_reng_ueber_das_gemeinschaftserlebnis_dlf_20260718_1742_cf1ed1ac.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-die-hunnenkoenigin-urauffuehrung-bei-den-nibelungen-dlf-20260718-1737-a00c1298-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Hunnenkönigin\" - Uraufführung bei den Nibelungen-Festspielen in Worms",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:37:34.000Z",
+    "url": "https://www.deutschlandfunk.de/die-hunnenkoenigin-urauffuehrung-bei-den-nibelungen-festspielen-in-worms-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/die_hunnenkoenigin_urauffuehrung_bei_den_nibelungen_dlf_20260718_1737_a00c1298.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-theologe-dabrock-zum-ruecktritt-von-jens-spahn-und-der-frage-dlf-20260718-1730-170808fd-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Causa Jens Spahn - Theologe: \"Er hat sich erkennbar nicht an Regeln gehalten\"",
+    "summary": "Jens Spahns Rücktritt vom Vorsitz der Unionsfraktion war konsequent. Davon ist Peter Dabrock überzeugt: Spahn habe Wein getrunken und Wasser gepredigt, so der Theologe. Die Debatte um Leihmutterschaft sei zentral für das Menschenbild der Union. Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-18T15:30:38.000Z",
+    "url": "https://www.deutschlandfunk.de/theologe-dabrock-zum-ruecktritt-von-jens-spahn-und-der-frage-der-doppelmoral-100.html",
+    "image": "https://bilder.deutschlandfunk.de/ef/17/0f/e5/ef170fe5-648a-48f9-a913-5d8afbcaa322/jens-spahn-ruecktritt-ethik-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/theologe_dabrock_zum_ruecktritt_von_jens_spahn_und_der_frage_dlf_20260718_1730_170808fd.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-kulturmeldungen-17072026-dlf-20260717-1757-cfe3c97e-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/danger_dan_und_das_zdf_myriam_kroll_ueber_provokation_als_dlf_20260717_1736_dbe4f62a.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-kulturmeldungen-16072026-dlf-20260716-1756-b8c9bd17-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 16.07.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:56:55.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/kulturmeldungen_16072026_dlf_20260716_1756_b8c9bd17.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-aufarbeitung-leicht-gemacht-zur-einsicht-in-die-ss-kartei-dlf-20260716-1750-51c88c8d-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aufarbeitung leicht gemacht? Zur Einsicht in die SS -Kartei Historiker Borggräfe",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:50:50.000Z",
-    "url": "https://www.deutschlandfunk.de/aufarbeitung-leicht-gemacht-zur-einsicht-in-die-ss-kartei-historiker-borggraefe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/aufarbeitung_leicht_gemacht_zur_einsicht_in_die_ss_kartei_dlf_20260716_1750_51c88c8d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-tomas-saraceno-verwobene-welten-ausstellung-im-haus-der-dlf-20260716-1745-6cc7a226-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Tomás Saraceno. Verwobene Welten\" - Ausstellung im Haus der Kunst in München",
-    "summary": "Julian Ignatowitsch www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:45:45.000Z",
-    "url": "https://www.deutschlandfunk.de/tom-s-saraceno-verwobene-welten-ausstellung-im-haus-der-kunst-in-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/tomas_saraceno_verwobene_welten_ausstellung_im_haus_der_dlf_20260716_1745_6cc7a226.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-aneignung-von-stauffenberg-rechte-widerstandsnarrative-dlf-20260716-1740-5ec693fd-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aneignung von Stauffenberg - Rechte Widerstandsnarrative Historikerin Hoffstadt",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:40:50.000Z",
-    "url": "https://www.deutschlandfunk.de/aneignung-von-stauffenberg-rechte-widerstandsnarrative-historikerin-hoffstadt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/aneignung_von_stauffenberg_rechte_widerstandsnarrative_dlf_20260716_1740_5ec693fd.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-16-die-odyssee-christopher-nolans-fantasy-spektakel-dlf-20260716-1735-09c56ed4-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Odyssee\" - Christopher Nolans Fantasy-Spektakel",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-16T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/die-odyssee-christopher-nolans-fantasy-spektakel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/die_odyssee_christopher_nolans_fantasy_spektakel_dlf_20260716_1735_09c56ed4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
