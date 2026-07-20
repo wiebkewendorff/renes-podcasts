@@ -128,6 +128,14 @@ function renderTopics() {
     activeTopics.forEach(topic => {
         const item = tpl.content.firstElementChild.cloneNode(true);
         item.querySelector('[data-field="label"]').textContent = topic.label;
+        
+        // NEU: Das Icon/Bild einsetzen, falls in topics.json vorhanden
+        const iconEl = item.querySelector('[data-field="icon"]');
+        if (iconEl && topic.icon) {
+            iconEl.src = topic.icon;
+            iconEl.alt = topic.label;
+        }
+
         const btn = item.querySelector(".cat-btn");
         btn.style.backgroundColor = topic.color;
         btn.setAttribute("aria-label", topic.label);
