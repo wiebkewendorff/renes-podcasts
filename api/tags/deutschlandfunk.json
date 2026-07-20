@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-kulturmeldungen-19072026-dlf-20260719-1756-2d2d4994-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 19.07.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-19T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/kulturmeldungen_19072026_dlf_20260719_1756_2d2d4994.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-von-homer-zu-nolan-die-ewige-faszination-der-odyssee-dlf-20260719-1750-df2ada3b-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Von Homer zu Nolan - Die ewige Faszination der Odyssee",
+    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-19T15:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/von-homer-zu-nolan-die-ewige-faszination-der-odyssee-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/von_homer_zu_nolan_die_ewige_faszination_der_odyssee_dlf_20260719_1750_df2ada3b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-texte-werden-zu-kunst-ausstellung-der-kuenstlerin-alexandra-dlf-20260719-1745-a3291a04-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Texte werden zu Kunst - Ausstellung der Künstlerin Alexandra Grant in Nürnberg",
+    "summary": "Metzdorf, Julie www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-19T15:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/texte-werden-zu-kunst-ausstellung-der-kuenstlerin-alexandra-grant-in-nuernberg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/texte_werden_zu_kunst_ausstellung_der_kuenstlerin_alexandra_dlf_20260719_1745_a3291a04.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-gemeinsam-wohnen-und-kunst-schaffen-historiker-a-schwab-zu-dlf-20260719-1736-ea272428-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam Wohnen und Kunst schaffen - Historiker A. Schwab zu Künstlerkolonien",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-19T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-wohnen-und-kunst-schaffen-historiker-a-schwab-zu-kuenstlerkolonien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/gemeinsam_wohnen_und_kunst_schaffen_historiker_a_schwab_zu_dlf_20260719_1736_ea272428.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-einfache-leute-und-alltagsszenen-der-maler-gustave-courbet-dlf-20260719-1731-e024eed2-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Einfache Leute und Alltagsszenen - Der Maler Gustave Courbet im Folkwang Museum",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-19T15:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/einfache-leute-und-alltagsszenen-der-maler-gustave-courbet-im-folkwang-museum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/einfache_leute_und_alltagsszenen_der_maler_gustave_courbet_dlf_20260719_1731_e024eed2.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-18-ein-rennen-gegen-die-zeit-drk-20260718-1805-ac319130-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -272,136 +402,6 @@
       "pop",
       "kunst",
       "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-kulturmeldungen-17072026-dlf-20260717-1757-cfe3c97e-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 17.07.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-17T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-17-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/kulturmeldungen_17072026_dlf_20260717_1757_cfe3c97e.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-residenzen-fuer-freie-ensembles-eine-option-fuer-theater-in-dlf-20260717-1752-c4eafa60-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Residenzen für freie Ensembles - Eine Option für Theater in Krisenzeiten",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-17T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/residenzen-fuer-freie-ensembles-eine-option-fuer-theater-in-krisenzeiten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/residenzen_fuer_freie_ensembles_eine_option_fuer_theater_in_dlf_20260717_1752_c4eafa60.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-ohne-mehr-digitalisierung-droht-deutschem-filmerbe-verfall-dlf-20260717-1747-11e8b609-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ohne mehr Digitalisierung droht deutschem Filmerbe Verfall - Andreas Kötzing iG.",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-17T15:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ohne-mehr-digitalisierung-droht-deutschem-filmerbe-verfall-andreas-koetzing-ig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/ohne_mehr_digitalisierung_droht_deutschem_filmerbe_verfall_dlf_20260717_1747_11e8b609.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-unusual-das-kuenstlerduo-klarenbeek-dros-in-muenchen-dlf-20260717-1742-a0e74f98-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Unusual\" - das Künstlerduo Klarenbeek Dros in München",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-17T15:42:00.000Z",
-    "url": "https://www.deutschlandfunk.de/unusual-das-kuenstlerduo-klarenbeek-dros-in-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/unusual_das_kuenstlerduo_klarenbeek_dros_in_muenchen_dlf_20260717_1742_a0e74f98.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-17-danger-dan-und-das-zdf-myriam-kroll-ueber-provokation-als-dlf-20260717-1736-dbe4f62a-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Danger Dan und das ZDF - Myriam Kroll über Provokation als künstlerisches Mittel",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-17T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/danger-dan-und-das-zdf-myriam-kroll-ueber-provokation-als-kuenstlerisches-mittel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/danger_dan_und_das_zdf_myriam_kroll_ueber_provokation_als_dlf_20260717_1736_dbe4f62a.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
