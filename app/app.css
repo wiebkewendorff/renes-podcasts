@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap');
 
-body {
-    font-family: 'Plus Jakarta Sans', sans-serif;
+/* Wendet die Schrift auf wirklich ALLE Elemente an (auch Buttons, Inputs & Headings) */
+*, *::before, *::after {
+    font-family: 'Plus Jakarta Sans', sans-serif !important;
 }
 
 * {
