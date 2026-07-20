@@ -602,8 +602,8 @@ h1 {
 }
 
 .cat-icon {
-    width: 120%;
-    height: 120%;
+    width: 150%;
+    height: 150%;
     object-fit: contain;
     pointer-events: none;
 }
