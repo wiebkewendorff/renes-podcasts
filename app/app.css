@@ -429,7 +429,7 @@ h1 {
 
     .category-grid {
         display: grid;
-        grid-template-columns: repeat(2, minmax(220px, 1fr));
+        grid-template-columns: repeat(3, minmax(220px, 1fr));
         gap: 34px 22px;
         width: min(92vw, 760px);
         padding: 0;
@@ -472,7 +472,7 @@ h1 {
     }
 
     .category-grid {
-        grid-template-columns: repeat(2, minmax(130px, 1fr));
+        grid-template-columns: repeat(3, minmax(130px, 1fr));
         gap: 26px 12px;
         width: min(96vw, 520px);
     }
