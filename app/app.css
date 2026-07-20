@@ -607,3 +607,45 @@ h1 {
     object-fit: contain;
     pointer-events: none;
 }
+
+/* === Kategorien Grid (Dynamisch & Responsive) === */
+.category-selection {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+}
+
+.category-grid {
+    display: grid;
+    /* Standard für große Bildschirme (Desktop): 3 Spalten */
+    grid-template-columns: repeat(3, minmax(200px, 1fr));
+    gap: 34px 28px;
+    width: min(100%, 1100px);
+    justify-items: center;
+    align-items: start;
+}
+
+/* Mittlere Bildschirme / Tablets (unter 900px): 2 Spalten */
+@media (max-width: 900px) {
+    .category-grid {
+        grid-template-columns: repeat(2, minmax(180px, 1fr));
+        gap: 28px 20px;
+        width: min(100%, 600px);
+    }
+}
+
+/* Kleine Bildschirme / Smartphones (unter 520px): 1 Spalte */
+@media (max-width: 520px) {
+    .category-grid {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        width: 100%;
+    }
+    
+    .cat-btn {
+        width: 160px;
+        height: 160px;
+    }
+}
