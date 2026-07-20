@@ -4,48 +4,48 @@
     "label": "Gesellschaft", 
     "color": "#ff6c00", 
     "tags": ["gesellschaft"],
-    "icon": "images/01_gesellschaft.png"
+    "icon": "../images/01_gesellschaft.png"
   },
   { 
     "id": "wissen", 
     "label": "Wissenschaft", 
     "color": "#02c484", 
     "tags": ["wissen", "wissenschaft"],
-    "icon": "images/02_wissenschaft.png"
+    "icon": "../images/02_wissenschaft.png"
   },
   { 
     "id": "kultur", 
     "label": "Kultur", 
     "color": "#11147a", 
     "tags": ["kultur"],
-    "icon": "images/03_kultur.png"
+    "icon": "../images/03_kultur.png"
   },
   { 
     "id": "lyrik", 
     "label": "Literatur & Lyrik", 
     "color": "#ffc412", 
     "tags": ["literatur"],
-    "icon": "images/04_lyrik.png"
+    "icon": "../images/04_lyrik.png"
   },
   { 
     "id": "geschichte", 
     "label": "Geschichte", 
     "color": "#c80000", 
     "tags": ["geschichte", "zeitgeschichte"],
-    "icon": "images/05_geschichte.png"
+    "icon": "../images/05_geschichte.png"
   },
   { 
     "id": "musikkunst", 
     "label": "Kunst & Musik", 
     "color": "#315dd5", 
     "tags": ["musik","kunst","klassik"],
-    "icon": "images/06_musikkunst.png"
+    "icon": "../images/06_musikkunst.png"
   },
   { 
     "id": "sport", 
     "label": "sport", 
     "color": "#e0556a", 
     "tags": ["sport"],
-    "icon": "images/07_sport.png"
+    "icon": "../images/07_sport.png"
   }
 ]
