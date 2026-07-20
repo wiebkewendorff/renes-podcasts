@@ -431,7 +431,7 @@ h1 {
         display: grid;
         grid-template-columns: repeat(3, minmax(220px, 1fr));
         gap: 34px 22px;
-        width: min(92vw, 1110px);
+        width: min(92vw, 1100px);
         padding: 0;
         justify-items: center;
         align-items: start;
