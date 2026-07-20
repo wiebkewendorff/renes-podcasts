@@ -592,3 +592,18 @@ h1 {
 .episode-summary b { font-weight: 700; }
 .episode-summary em,
 .episode-summary i { font-style: italic; }
+
+/* --- Icons auf den Themen-Buttons --- */
+.cat-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.cat-icon {
+    width: 60%;
+    height: 60%;
+    object-fit: contain;
+    pointer-events: none;
+}
