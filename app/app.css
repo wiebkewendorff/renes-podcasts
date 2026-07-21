@@ -657,10 +657,11 @@ h1 {
 h1, .site-title, .title {
     font-weight: 600 !important;
 }
-/* Schriftgröße der Kategorie-Texte leicht verkleinern (Umbrüche erlaubt) */
+
+/* Schrift nur minimal verkleinern */
 .category-card p,
 .category-grid p,
 .category-grid span,
 .cat-btn-title {
-    font-size: 0.9rem !important; 
+    font-size: 0.98rem !important; 
 }
