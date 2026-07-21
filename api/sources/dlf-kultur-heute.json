@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:43b55b1b-3eba-5555-a7e6-2d9d701d7ff6",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 20.07.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:56:06.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/kulturmeldungen_20072026_dlf_20260720_1756_1257c8cc.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0f9723c0-af22-5b61-baaa-9dfc0f4d4408",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Vergiss es?!\" - Kampagne der Gedenkstätten in Sachsen-Anhalt",
+    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:51:05.000Z",
+    "url": "https://www.deutschlandfunk.de/vergiss-es-kampagne-der-gedenkstaetten-in-sachsen-anhalt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/vergiss_es_kampagne_der_gedenkstaetten_in_sachsen_anhalt_dlf_20260720_1751_a956527c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:391ba1ba-e338-5452-a5e3-9256b0907fdc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Soundwalk Collective mit Patti Smith im LUMA Arles",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:45:45.000Z",
+    "url": "https://www.deutschlandfunk.de/soundwalk-collective-mit-patti-smith-im-luma-arles-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/soundwalk_collective_mit_patti_smith_im_luma_arles_dlf_20260720_1745_83553a2b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8cca7b04-4e6c-5b4d-b6ae-ac8a585a081e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Berliner Fördergeldaffäre: Untersuchungsausschuss legt Abschlussbericht vor",
+    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:40:55.000Z",
+    "url": "https://www.deutschlandfunk.de/berliner-foerdergeldaffaere-untersuchungsausschuss-legt-abschlussbericht-vor-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/berliner_foerdergeldaffaere_untersuchungsausschuss_legt_dlf_20260720_1740_ee542bb9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d05fbe19-3c95-58ce-8fab-dd0232ef998c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Weltmuseum ohne Kern - Philipp Oswalt zu fünf Jahren Humboldtforum",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:35:13.000Z",
+    "url": "https://www.deutschlandfunk.de/weltmuseum-ohne-kern-philipp-oswalt-zu-fuenf-jahren-humboldtforum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/weltmuseum_ohne_kern_philipp_oswalt_zu_fuenf_jahren_dlf_20260720_1735_de532886.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-kulturmeldungen-19072026-dlf-20260719-1756-2d2d4994-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/einfache_leute_und_alltagsszenen_der_maler_gustave_courbet_dlf_20260719_1731_e024eed2.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-kulturmeldungen-18072026-dlf-20260718-1756-61254390-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 18.07.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/kulturmeldungen_18072026_dlf_20260718_1756_61254390.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-madonna-statt-maradona-halbzeitshow-beim-wm-finale-wird-dlf-20260718-1752-ed220e38-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Madonna statt Maradona: Halbzeitshow beim WM-Finale wird gigantisches Spektakel",
-    "summary": "Ganslmeier, Martin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:52:45.000Z",
-    "url": "https://www.deutschlandfunk.de/madonna-statt-maradona-halbzeitshow-beim-wm-finale-wird-gigantisches-spektakel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/madonna_statt_maradona_halbzeitshow_beim_wm_finale_wird_dlf_20260718_1752_ed220e38.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-sportjournalist-ronald-reng-ueber-das-gemeinschaftserlebnis-dlf-20260718-1742-cf1ed1ac-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sportjournalist Ronald Reng über das Gemeinschaftserlebnis der WM 2006/2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:42:45.000Z",
-    "url": "https://www.deutschlandfunk.de/sportjournalist-ronald-reng-ueber-das-gemeinschaftserlebnis-der-wm-2006-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/sportjournalist_ronald_reng_ueber_das_gemeinschaftserlebnis_dlf_20260718_1742_cf1ed1ac.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-die-hunnenkoenigin-urauffuehrung-bei-den-nibelungen-dlf-20260718-1737-a00c1298-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Hunnenkönigin\" - Uraufführung bei den Nibelungen-Festspielen in Worms",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:37:34.000Z",
-    "url": "https://www.deutschlandfunk.de/die-hunnenkoenigin-urauffuehrung-bei-den-nibelungen-festspielen-in-worms-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/die_hunnenkoenigin_urauffuehrung_bei_den_nibelungen_dlf_20260718_1737_a00c1298.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-theologe-dabrock-zum-ruecktritt-von-jens-spahn-und-der-frage-dlf-20260718-1730-170808fd-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Causa Jens Spahn - Theologe: \"Er hat sich erkennbar nicht an Regeln gehalten\"",
-    "summary": "Jens Spahns Rücktritt vom Vorsitz der Unionsfraktion war konsequent. Davon ist Peter Dabrock überzeugt: Spahn habe Wein getrunken und Wasser gepredigt, so der Theologe. Die Debatte um Leihmutterschaft sei zentral für das Menschenbild der Union. Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:30:38.000Z",
-    "url": "https://www.deutschlandfunk.de/theologe-dabrock-zum-ruecktritt-von-jens-spahn-und-der-frage-der-doppelmoral-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ef/17/0f/e5/ef170fe5-648a-48f9-a913-5d8afbcaa322/jens-spahn-ruecktritt-ethik-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/theologe_dabrock_zum_ruecktritt_von_jens_spahn_und_der_frage_dlf_20260718_1730_170808fd.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "theater",

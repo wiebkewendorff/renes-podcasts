@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-24-wir-sind-piraten-ein-professor-und-seine-studierenden-dlf-20260724-2005-622902f7-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wir sind die Piraten - Jenseits des Hochschulalltags",
+    "summary": "Leben, Lehren, Arbeiten. Für den Fotografie-Professor Christoph Bangert gehört das untrennbar zusammen. Also renoviert er mit Studierenden ein Haus auf dem Land und gründet dort eine WG. Doch was als radikale Idee beginnt, bringt ihm bald viel Kritik ein. Von Anna Seibt www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-07-21T09:30:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/wir-sind-die-piraten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/0c/46/0f/37/0c460f37-3c06-4c63-886d-b57bc12ef2dc/bild-fuer-wir-sind-die-piraten-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/wir_sind_piraten_ein_professor_und_seine_studierenden_dlf_20260724_2005_622902f7.mp3?refId=das-feature-104",
+    "duration": "53 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-18-ein-rennen-gegen-die-zeit-drk-20260718-1805-ac319130-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/9e/40/94/56/9e409456-ab6d-4c87-a59c-1e8c7a4b314b/bild-fuer-ironwoman-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/29/ironwoman_mit_62_schwimmen_radfahren_laufen_leiden_dlf_20260529_2005_76eac3fa.mp3?refId=das-feature-104",
     "duration": "55 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-26-verlorene-freiheit-afghaninnen-unter-der-taliban-herrschaft-dlf-20260526-1915-35621f95-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verlorene Freiheit - Afghaninnen unter der Taliban-Herrschaft",
-    "summary": "Zahra studiert, macht Kampfsport und finanziert ihre Familie mit. Dann ergreifen die Taliban die Macht. Von dem, was einmal ihr Leben war, ist heute nichts mehr übrig. Ein Feature über den Kampf afghanischer Frauen, nicht zu verschwinden. Von Vanessa Schlesier www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-26T07:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/feature-verlorene-freiheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/a4/08/52/22/a4085222-044e-4c2d-8862-08be05619bc3/bild-verlorene-freiheit-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/26/verlorene_freiheit_afghaninnen_unter_der_taliban_herrschaft_dlf_20260526_1915_35621f95.mp3?refId=das-feature-104",
-    "duration": "41 Min",
     "tags": [
       "feature",
       "dokumentation",

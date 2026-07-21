@@ -1,5 +1,287 @@
 [
   {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-24-wir-sind-piraten-ein-professor-und-seine-studierenden-dlf-20260724-2005-622902f7-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wir sind die Piraten - Jenseits des Hochschulalltags",
+    "summary": "Leben, Lehren, Arbeiten. Für den Fotografie-Professor Christoph Bangert gehört das untrennbar zusammen. Also renoviert er mit Studierenden ein Haus auf dem Land und gründet dort eine WG. Doch was als radikale Idee beginnt, bringt ihm bald viel Kritik ein. Von Anna Seibt www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-07-21T09:30:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/wir-sind-die-piraten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/0c/46/0f/37/0c460f37-3c06-4c63-886d-b57bc12ef2dc/bild-fuer-wir-sind-die-piraten-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/wir_sind_piraten_ein_professor_und_seine_studierenden_dlf_20260724_2005_622902f7.mp3?refId=das-feature-104",
+    "duration": "53 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "10-minuten-wissen-kunst:6a5ed2f546407ff54edb99e9",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
+    "type": "rss",
+    "title": "Beliebteste Folge: Claude Monet - Die Seerosen: Das unendliche Spiel des Lichts",
+    "summary": "<p><strong>Wir machen eine kurze Sommerpause: Diese Woche gibt es noch einmal die bisher meistgehörte Folge.</strong></p><p><strong>Nächste Woche, am 28. Juli sind wir mit einer neuen Folge zurück!</strong></p><br><p>Sie sind ein Universum aus Licht und Wasser: Claude Monets berühmte Seerosen. In dieser Folge von <strong>\"10 Minuten Wissen: Kunst\"</strong> tauchen wir ein in die Geschichte von Monets größter Obsession, die ihn die letzten 30 Jahre seines Lebens beschäftigte. Wir reisen nach Giverny und erleben, wie der Maler zum Architekten seines eigenen Motivs wurde – indem er Flüsse umleitete, gegen den Protest seiner Nachbarn einen Teich anlegte und einen Garten wie eine Farbpalette komponierte.</p><p>Wir verfolgen seinen dramatischen Kampf gegen den Grauen Star, der seine Farbwahrnehmung radikal veränderte, und entdecken, wie diese Tragödie ihn an die Grenzen der Abstraktion trieb. Am Ende steht sein monumentales Geschenk an Frankreich: die großen Seerosen-Panoramen in der Orangerie in Paris, ein Werk, das seiner Zeit so weit voraus war, dass es erst Jahrzehnte später von den amerikanischen Expressionisten als Revolution verstanden wurde.</p><br><p><strong>Weiterführende Links:</strong></p><p>• <strong>Das Seerosen-Panorama in Paris:</strong> <a href=\"https://www.musee-orangerie.fr/en/node/197502\" rel=\"noopener\" target=\"_blank\">Musée de l'Orangerie – Offizielle Webseite (EN/FR)</a></p><p>• <strong>Monets Garten heute:</strong> <a href=\"https://claudemonetgiverny.fr/en/\" rel=\"noopener\" target=\"_blank\">Fondation Monet in Giverny (EN)</a></p><p>• <strong>Erkundet die Seerosen digital:</strong> <a href=\"https://fondation-monet.com/visite-virtuelle/\" rel=\"noopener\" target=\"_blank\">Virtuelle Tour durch das Haus und den Garten</a></p><p>• <strong>Vertieft euer Wissen:</strong> <a href=\"https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series)\" rel=\"noopener\" target=\"_blank\">Wikipedia-Artikel zu den Seerosen-Bilder (EN)</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-07-21T02:06:49.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/beliebteste-folge-claude-monet",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a5ed2f546407ff54edb99e9/media.mp3",
+    "duration": "11 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
+    ],
+    "category": [
+      "Kunst",
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-88774829935569",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Historikerin Dr. Linda von Keyserlingk-Rehbein über Widerstand gegen Diktaturen",
+    "summary": "Die Historikerin ist im Ausstellungswesen tätig und publiziert zu den Themen Widerstand gegen Diktaturen und historische Netzwerkforschung.",
+    "date": "2026-07-20T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/historikerin-dr-linda-von-keyserlingk-rehbein-ueber-widerstand-gegen-diktaturen,audio-3370136.html",
+    "image": "https://images.ndr.de/image/ab43d57d-0d7a-4f8b-aac9-5f6634527a24/AAABn4C7UbI/AAABnSStX0g/1x1-big/screenshot-198690.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0721/AU-20260721-0949-4500.mp3",
+    "duration": "28 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:43b55b1b-3eba-5555-a7e6-2d9d701d7ff6",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 20.07.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:56:06.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/kulturmeldungen_20072026_dlf_20260720_1756_1257c8cc.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0f9723c0-af22-5b61-baaa-9dfc0f4d4408",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Vergiss es?!\" - Kampagne der Gedenkstätten in Sachsen-Anhalt",
+    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:51:05.000Z",
+    "url": "https://www.deutschlandfunk.de/vergiss-es-kampagne-der-gedenkstaetten-in-sachsen-anhalt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/vergiss_es_kampagne_der_gedenkstaetten_in_sachsen_anhalt_dlf_20260720_1751_a956527c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:391ba1ba-e338-5452-a5e3-9256b0907fdc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Soundwalk Collective mit Patti Smith im LUMA Arles",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:45:45.000Z",
+    "url": "https://www.deutschlandfunk.de/soundwalk-collective-mit-patti-smith-im-luma-arles-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/soundwalk_collective_mit_patti_smith_im_luma_arles_dlf_20260720_1745_83553a2b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8cca7b04-4e6c-5b4d-b6ae-ac8a585a081e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Berliner Fördergeldaffäre: Untersuchungsausschuss legt Abschlussbericht vor",
+    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:40:55.000Z",
+    "url": "https://www.deutschlandfunk.de/berliner-foerdergeldaffaere-untersuchungsausschuss-legt-abschlussbericht-vor-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/berliner_foerdergeldaffaere_untersuchungsausschuss_legt_dlf_20260720_1740_ee542bb9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d05fbe19-3c95-58ce-8fab-dd0232ef998c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Weltmuseum ohne Kern - Philipp Oswalt zu fünf Jahren Humboldtforum",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-20T15:35:13.000Z",
+    "url": "https://www.deutschlandfunk.de/weltmuseum-ohne-kern-philipp-oswalt-zu-fuenf-jahren-humboldtforum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/weltmuseum_ohne_kern_philipp_oswalt_zu_fuenf_jahren_dlf_20260720_1735_de532886.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:cc5ede64-037f-54d7-a6ab-7c61eb32c777",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fußball-WM-Halbzeitshow: lahm, überflüssig und gefährlich",
+    "summary": "Siniawski, Adalbert; Guethe, Mia www.deutschlandfunk.de, Corso",
+    "date": "2026-07-20T13:10:47.000Z",
+    "url": "https://www.deutschlandfunk.de/fussball-wm-halbzeitshow-lahm-ueberfluessig-und-gefaehrlich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/fussball_wm_halbzeitshow_lahm_ueberfluessig_und_gefaehrlich_dlf_20260720_1510_5a8a110b.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:dd723ad2-57bb-5bb9-95f2-acafa0c94e98",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Reihe \"Selber machen\": Das eigene Top - Widerständige Maschen (I)",
+    "summary": "Freches, David www.deutschlandfunk.de, Corso",
+    "date": "2026-07-20T13:10:21.000Z",
+    "url": "https://www.deutschlandfunk.de/reihe-selber-machen-das-eigene-top-widerstaendige-maschen-i-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/reihe_selber_machen_das_eigene_top_widerstaendige_maschen_i_dlf_20260720_1510_6ec4837a.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-46125748017083446",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Er ist der Neue bei den Tagesthemen: Moderator Jörg Schönenborn",
+    "summary": "Der 61-Jährige verstärkt neuerdings das Moderationsteam und führt ein Millionenpublikum durch die Höhen und Tiefen des Weltgeschehens.",
+    "date": "2026-07-19T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/er-ist-der-neue-bei-tagesthemen-moderator-joerg-schoenenborn,audio-3367924.html",
+    "image": "https://images.ndr.de/image/9958b7d6-f9b5-4166-97a8-fb4925a14665/AAABn3tN9Xw/AAABnSStX0g/1x1-big/screenshot-197970.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0720/AU-20260720-0953-2900.mp3",
+    "duration": "43 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-kulturmeldungen-19072026-dlf-20260719-1756-2d2d4994-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -177,136 +459,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-kulturmeldungen-18072026-dlf-20260718-1756-61254390-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 18.07.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/kulturmeldungen_18072026_dlf_20260718_1756_61254390.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-madonna-statt-maradona-halbzeitshow-beim-wm-finale-wird-dlf-20260718-1752-ed220e38-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Madonna statt Maradona: Halbzeitshow beim WM-Finale wird gigantisches Spektakel",
-    "summary": "Ganslmeier, Martin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:52:45.000Z",
-    "url": "https://www.deutschlandfunk.de/madonna-statt-maradona-halbzeitshow-beim-wm-finale-wird-gigantisches-spektakel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/madonna_statt_maradona_halbzeitshow_beim_wm_finale_wird_dlf_20260718_1752_ed220e38.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-sportjournalist-ronald-reng-ueber-das-gemeinschaftserlebnis-dlf-20260718-1742-cf1ed1ac-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sportjournalist Ronald Reng über das Gemeinschaftserlebnis der WM 2006/2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:42:45.000Z",
-    "url": "https://www.deutschlandfunk.de/sportjournalist-ronald-reng-ueber-das-gemeinschaftserlebnis-der-wm-2006-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/sportjournalist_ronald_reng_ueber_das_gemeinschaftserlebnis_dlf_20260718_1742_cf1ed1ac.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-die-hunnenkoenigin-urauffuehrung-bei-den-nibelungen-dlf-20260718-1737-a00c1298-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Hunnenkönigin\" - Uraufführung bei den Nibelungen-Festspielen in Worms",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:37:34.000Z",
-    "url": "https://www.deutschlandfunk.de/die-hunnenkoenigin-urauffuehrung-bei-den-nibelungen-festspielen-in-worms-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/die_hunnenkoenigin_urauffuehrung_bei_den_nibelungen_dlf_20260718_1737_a00c1298.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-18-theologe-dabrock-zum-ruecktritt-von-jens-spahn-und-der-frage-dlf-20260718-1730-170808fd-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Causa Jens Spahn - Theologe: \"Er hat sich erkennbar nicht an Regeln gehalten\"",
-    "summary": "Jens Spahns Rücktritt vom Vorsitz der Unionsfraktion war konsequent. Davon ist Peter Dabrock überzeugt: Spahn habe Wein getrunken und Wasser gepredigt, so der Theologe. Die Debatte um Leihmutterschaft sei zentral für das Menschenbild der Union. Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-18T15:30:38.000Z",
-    "url": "https://www.deutschlandfunk.de/theologe-dabrock-zum-ruecktritt-von-jens-spahn-und-der-frage-der-doppelmoral-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ef/17/0f/e5/ef170fe5-648a-48f9-a913-5d8afbcaa322/jens-spahn-ruecktritt-ethik-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/theologe_dabrock_zum_ruecktritt_von_jens_spahn_und_der_frage_dlf_20260718_1730_170808fd.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -561,56 +713,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-16-rezension-neue-staffel-der-orf-kultserie-braunschlag-dlf-20260716-1505-ce39ea2e-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rezension: Neue Staffel der ORF-Kultserie Braunschlag",
-    "summary": "Ignatowitschm Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-16T13:05:32.000Z",
-    "url": "https://www.deutschlandfunk.de/rezension-neue-staffel-der-orf-kultserie-braunschlag-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/rezension_neue_staffel_der_orf_kultserie_braunschlag_dlf_20260716_1505_ce39ea2e.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-16-suno-gate-was-bedeutet-der-hack-der-ki-musik-app-dlf-20260716-1505-5d1de99f-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Suno-Gate - Was bedeutet der Hack der Ki-Musik App?",
-    "summary": "Cornils. Kristoffer www.deutschlandfunk.de, Corso",
-    "date": "2026-07-16T13:05:19.000Z",
-    "url": "https://www.deutschlandfunk.de/suno-gate-was-bedeutet-der-hack-der-ki-musik-app-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/suno_gate_was_bedeutet_der_hack_der_ki_musik_app_dlf_20260716_1505_5d1de99f.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "30-minuten-kunst:e58e2b3fb35dba4c15bfa5dab55b775a",
     "source": "30-minuten-kunst",
     "sourceTitle": "30 Minuten Kunst",
@@ -659,31 +761,6 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-5508062148726598",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "DAS! Rote Sofa mit Diplomat und Autor Rüdiger von Fritsch",
-    "summary": "Rüdiger von Fritsch blickt zurück auf eine jahrzehntelange Erfahrung in der internationalen Politik. Jetzt hat er sich mit der eigenen Familiengeschichte auseinandergesetzt. Seine provokante These: mein Vater war ein überzeugter Nazi - und ein liebenswürdiger Vater. Im Gespräch ordnet er außerdem aktuelle weltpolitische Entwicklungen verständlich und pointiert ein. Ein Gespräch über Verantwortung, Krisen und die Kunst der Diplomatie - auch innerhalb der eigenen Familie.",
-    "date": "2026-07-14T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/das-rote-sofa-mit-diplomat-und-autor-ruediger-von-fritsch,audio-3358166.html",
-    "image": "https://images.ndr.de/image/55720030-b2cc-4771-8fd3-c8b0e8e1f9aa/AAABn2GYpbM/AAABnSStX0g/1x1-big/screenshot-195724.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0714/AU-20260714-2020-5400.mp3",
-    "duration": "35 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6a55b4ec7987e974ea1eb3f1",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -706,31 +783,6 @@
       "Kunst",
       "Geschichte",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-05642838024391561",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Sind Haustiere Engel auf vier Pfoten, Rainer Maria Schießler?",
-    "summary": "Auf dem Roten Sofa nimmt uns der katholische Pfarrer mit zu Gott und verrät, warum für ihn Haustiere Engel auf vier Pfoten sind.",
-    "date": "2026-07-13T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/sind-haustiere-engel-auf-vier-pfoten-rainer-maria-schiessler,audio-3356774.html",
-    "image": "https://images.ndr.de/image/fbe13904-6ca8-4893-a35e-8d1ed6c57306/AAABn1xzKNA/AAABnSStX0g/1x1-big/screenshot-195244.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0714/AU-20260714-0956-5200.mp3",
-    "duration": "36 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   },
@@ -1405,32 +1457,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-26-verlorene-freiheit-afghaninnen-unter-der-taliban-herrschaft-dlf-20260526-1915-35621f95-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verlorene Freiheit - Afghaninnen unter der Taliban-Herrschaft",
-    "summary": "Zahra studiert, macht Kampfsport und finanziert ihre Familie mit. Dann ergreifen die Taliban die Macht. Von dem, was einmal ihr Leben war, ist heute nichts mehr übrig. Ein Feature über den Kampf afghanischer Frauen, nicht zu verschwinden. Von Vanessa Schlesier www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-26T07:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/feature-verlorene-freiheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/a4/08/52/22/a4085222-044e-4c2d-8862-08be05619bc3/bild-verlorene-freiheit-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/26/verlorene_freiheit_afghaninnen_unter_der_taliban_herrschaft_dlf_20260526_1915_35621f95.mp3?refId=das-feature-104",
-    "duration": "41 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6a14f55783dd9b6e11716376",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -1491,32 +1517,6 @@
     "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
     "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a0df9953bbd73b46efcb268/media.mp3",
     "duration": "16 Min",
-    "tags": [
-      "kunst",
-      "kunstgeschichte",
-      "bildung",
-      "wissen",
-      "kultur"
-    ],
-    "category": [
-      "Kunst",
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "10-minuten-wissen-kunst:6a0b7be40bb7fec0e38c2707",
-    "source": "10-minuten-wissen-kunst",
-    "sourceTitle": "10 Minuten Wissen – Kunst",
-    "type": "rss",
-    "title": "Jackson Pollock – One: Number 31, 1950: Die Befreiung der Farbe von der Form und der Sommer, der die Kunstwelt für immer veränderte (Teil 1)",
-    "summary": "<p>Im Sommer 1950 ereignete sich in einer einfachen, ungeheizten Fischer-Scheune in Springs auf Long Island eine der radikalsten Transformationen der modernen Kunstgeschichte. Jackson Pollock legte eine gigantische, über fünf Meter breite Leinwand flach auf den rohen Holzboden und vollzog damit einen endgültigen Bruch mit einer fünfhundertjährigen Tradition. Er verließ den klassischen Standpunkt vor der Staffelei, um sich stattdessen mitten auf dem Bild zu bewegen und die handelsübliche Lackfarbe frei aus der Luft auf den Stoff tropfen, fließen und spritzen zu lassen. „One: Number 31, 1950“ steht wie kein anderes Werk für die Geburtsstunde des „Action Painting“ – eine Methode, die nicht mehr die sichtbare Welt abbilden wollte, sondern die psychologische Wucht und die unmittelbare, menschliche Reaktion als eingefrorenes Ereignis dokumentierte.</p><p>Diese Folge blickt tief hinter die Kulissen dieses monumentalen Meisterwerks und beleuchtet den komplexen Weg des Künstlers: von seinen prägenden Jugendjahren als Gelegenheitsarbeiter auf amerikanischen Güterzügen über die experimentellen Entdeckungen mit flüssigen Farben im New Yorker Atelier des mexikanischen Muralisten David Alfaro Siqueiros bis hin zur unschätzbaren Unterstützung seiner Ehefrau Lee Krasner, die sein Talent frühzeitig erkannte und ihn mit wichtigen Kritikern und Weggefährten vernetzte.</p><br><p><strong>Weiterführende Links</strong></p><p><strong>• Das Werk in hoher Auflösung</strong>: <a href=\"https://www.moma.org/collection/works/78386?artist_id=4675&page=1&sov_referrer=artist\" rel=\"noopener\" target=\"_blank\">Eintrag im Museum of Modern Art</a></p><p>• <strong>Jackson Pollock</strong>: <a href=\"https://de.wikipedia.org/wiki/Jackson_Pollock\" rel=\"noopener\" target=\"_blank\">Biografie des Künstlers (Wikipedia)</a></p><p>• <strong>One: Number 31, 1950</strong>: <a href=\"https://en.wikipedia.org/wiki/One:_Number_31,_1950\" rel=\"noopener\" target=\"_blank\">Details zum Meisterwerk (Wikipedia / EN)</a></p><p>• <strong>Das Pollock-Krasner House</strong>: <a href=\"https://www.pkhouse.org/en/home\" rel=\"noopener\" target=\"_blank\">Informationen zum Atelier in Springs</a></p><p><strong>• Der Kurzfilm von Hans Namuth</strong>: <a href=\"https://youtu.be/6cgBvpjwOGo?is=aDO1SDnSQtsUyxVy\" rel=\"noopener\" target=\"_blank\">Auf YouTube ansehen</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
-    "date": "2026-05-18T22:00:00.000Z",
-    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/jackson-pollock",
-    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
-    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a0b7be40bb7fec0e38c2707/media.mp3",
-    "duration": "13 Min",
     "tags": [
       "kunst",
       "kunstgeschichte",

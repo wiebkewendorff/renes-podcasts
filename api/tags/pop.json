@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:cc5ede64-037f-54d7-a6ab-7c61eb32c777",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fußball-WM-Halbzeitshow: lahm, überflüssig und gefährlich",
+    "summary": "Siniawski, Adalbert; Guethe, Mia www.deutschlandfunk.de, Corso",
+    "date": "2026-07-20T13:10:47.000Z",
+    "url": "https://www.deutschlandfunk.de/fussball-wm-halbzeitshow-lahm-ueberfluessig-und-gefaehrlich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/fussball_wm_halbzeitshow_lahm_ueberfluessig_und_gefaehrlich_dlf_20260720_1510_5a8a110b.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:dd723ad2-57bb-5bb9-95f2-acafa0c94e98",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Reihe \"Selber machen\": Das eigene Top - Widerständige Maschen (I)",
+    "summary": "Freches, David www.deutschlandfunk.de, Corso",
+    "date": "2026-07-20T13:10:21.000Z",
+    "url": "https://www.deutschlandfunk.de/reihe-selber-machen-das-eigene-top-widerstaendige-maschen-i-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/reihe_selber_machen_das_eigene_top_widerstaendige_maschen_i_dlf_20260720_1510_6ec4837a.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-saengerin-lido-pimienta-die-karibische-enya-tanzt-gegen-dlf-20260718-1554-7881eda7-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/immer_wieder_odyssee_was_die_popkultur_am_antiken_stoff_dlf_20260716_1510_01389fdf.mp3?refId=corso-104",
     "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-16-rezension-neue-staffel-der-orf-kultserie-braunschlag-dlf-20260716-1505-ce39ea2e-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rezension: Neue Staffel der ORF-Kultserie Braunschlag",
-    "summary": "Ignatowitschm Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-16T13:05:32.000Z",
-    "url": "https://www.deutschlandfunk.de/rezension-neue-staffel-der-orf-kultserie-braunschlag-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/rezension_neue_staffel_der_orf_kultserie_braunschlag_dlf_20260716_1505_ce39ea2e.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-16-suno-gate-was-bedeutet-der-hack-der-ki-musik-app-dlf-20260716-1505-5d1de99f-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Suno-Gate - Was bedeutet der Hack der Ki-Musik App?",
-    "summary": "Cornils. Kristoffer www.deutschlandfunk.de, Corso",
-    "date": "2026-07-16T13:05:19.000Z",
-    "url": "https://www.deutschlandfunk.de/suno-gate-was-bedeutet-der-hack-der-ki-musik-app-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/suno_gate_was_bedeutet_der_hack_der_ki_musik_app_dlf_20260716_1505_5d1de99f.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
