@@ -657,3 +657,10 @@ h1 {
 h1, .site-title, .title {
     font-weight: 600 !important;
 }
+/* Schrift nur minimalst anpassen (ausgehend von 2.8rem) */
+.category-card p,
+.category-grid p,
+.category-grid span,
+.cat-btn-title {
+    font-size: 2.65rem !important; 
+}
