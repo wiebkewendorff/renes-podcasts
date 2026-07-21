@@ -657,17 +657,3 @@ h1 {
 h1, .site-title, .title {
     font-weight: 600 !important;
 }
-
-/* 1. Schrift wieder richtig schön groß und gut lesbar machen */
-.category-card p,
-.category-grid p,
-.category-grid span,
-.cat-btn-title {
-    font-size: 1.25rem !important; /* Oder ca. 20px - schön präsent */
-}
-
-/* 2. Dem Text-Element mehr Platz nach links & rechts geben */
-.category-card,
-.cat-btn-wrapper,
-.category-grid > div {
-    min-width: 200px !important; /* Gibt dem Text genug Raum für eine Zeile */
