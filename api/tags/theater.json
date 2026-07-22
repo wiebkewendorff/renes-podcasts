@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:5d73745b-2696-5aa4-98c0-ecc2ddec88c4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 21.07.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-21T15:56:15.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-21-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/kulturmeldungen_21072026_dlf_20260721_1756_1b84a88e.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8d3b0d09-6b0e-50b0-9c47-96b136698d6a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Tage aus Glas\" - Theatraler Stadtrundgang beim Asphalt Festival Düsseldorf",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-21T15:50:50.000Z",
+    "url": "https://www.deutschlandfunk.de/tage-aus-glas-theatraler-stadtrundgang-beim-asphalt-festival-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/tage_aus_glas_theatraler_stadtrundgang_beim_asphalt_festival_dlf_20260721_1750_af835456.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4bb5357e-3560-5c0c-9c38-5cfb5277e4c7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam Literatur erleben - das Literaturfestival \"kindly invited\" in Köln",
+    "summary": "Seidel, Änne; Reiner, Svenja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-21T15:43:28.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-literatur-erleben-das-literaturfestival-kindly-invited-in-koeln-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/gemeinsam_literatur_erleben_das_literaturfestival_kindly_dlf_20260721_1743_3b824731.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9e13d361-7fbf-5629-9b70-1d6cffc699bc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nightborne - Filmwissenschaftler Marcus Stiglegger über KI-generierten Kurzfilm",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-21T15:35:20.000Z",
+    "url": "https://www.deutschlandfunk.de/nightborne-filmwissenschaftler-marcus-stiglegger-ueber-ki-generierten-kurzfilm-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/nightborne_filmwissenschaftler_marcus_stiglegger_ueber_ki_dlf_20260721_1735_4d80e4fa.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:43b55b1b-3eba-5555-a7e6-2d9d701d7ff6",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/kulturmeldungen_19072026_dlf_20260719_1756_2d2d4994.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-von-homer-zu-nolan-die-ewige-faszination-der-odyssee-dlf-20260719-1750-df2ada3b-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von Homer zu Nolan - Die ewige Faszination der Odyssee",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-19T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/von-homer-zu-nolan-die-ewige-faszination-der-odyssee-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/von_homer_zu_nolan_die_ewige_faszination_der_odyssee_dlf_20260719_1750_df2ada3b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-texte-werden-zu-kunst-ausstellung-der-kuenstlerin-alexandra-dlf-20260719-1745-a3291a04-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Texte werden zu Kunst - Ausstellung der Künstlerin Alexandra Grant in Nürnberg",
-    "summary": "Metzdorf, Julie www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-19T15:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/texte-werden-zu-kunst-ausstellung-der-kuenstlerin-alexandra-grant-in-nuernberg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/texte_werden_zu_kunst_ausstellung_der_kuenstlerin_alexandra_dlf_20260719_1745_a3291a04.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-gemeinsam-wohnen-und-kunst-schaffen-historiker-a-schwab-zu-dlf-20260719-1736-ea272428-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gemeinsam Wohnen und Kunst schaffen - Historiker A. Schwab zu Künstlerkolonien",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-19T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gemeinsam-wohnen-und-kunst-schaffen-historiker-a-schwab-zu-kuenstlerkolonien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/gemeinsam_wohnen_und_kunst_schaffen_historiker_a_schwab_zu_dlf_20260719_1736_ea272428.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-einfache-leute-und-alltagsszenen-der-maler-gustave-courbet-dlf-20260719-1731-e024eed2-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Einfache Leute und Alltagsszenen - Der Maler Gustave Courbet im Folkwang Museum",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-19T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/einfache-leute-und-alltagsszenen-der-maler-gustave-courbet-im-folkwang-museum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/einfache_leute_und_alltagsszenen_der_maler_gustave_courbet_dlf_20260719_1731_e024eed2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

@@ -1,10 +1,109 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3983134",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Beginnt Adipositas im Gehirn, Jens Brüning?",
+    "summary": "Woher kommen Hunger und Sättigungsgefühl?\n<p>Wer schon einmal versucht hat abzunehmen, kennt das Gefühl: Obwohl der feste Vorsatz steht, weniger zu essen, greifen wir am Ende doch zum Snack. Lange wurde Übergewicht deshalb vor allem als Frage von Disziplin betrachtet. Doch die moderne Stoffwechselforschung zeichnet ein deutlich komplexeres Bild.</p>\n<p>Tatsächlich steuert unser Gehirn gemeinsam mit Hormonen und Nervenzellen, wann wir Hunger verspüren, wann wir satt sind und wie unser Körper Energie verarbeitet. Warum manche Menschen leichter zunehmen als andere und weshalb reine Willenskraft oft nicht ausreicht, beschäftigt die Forschung bis heute. „Das Körpergewicht ist genauso reguliert wie andere physiologische Prozesse, also wie zum Beispiel der Blutdruck“, sagt Prof. Dr. Jens Brüning.</p>\n<strong>Der Geruch von Essen als Vorbote</strong>\n<p>Essen beginnt nicht erst mit dem ersten Bissen. Schon der Geruch einer Mahlzeit löst im Körper zahlreiche Prozesse aus. Während die Speichelproduktion angeregt wird, stellt sich auch die Leber auf die bevorstehende Nahrungsaufnahme ein. Prof. Dr. Jens Brüning ist Direktor am Max-Planck-Institut für Stoffwechselforschung in Köln und konnte mit seinem Team zeigen, dass das Gehirn bereits beim Riechen von Essen Signale an Stoffwechselorgane sendet und so den Übergang vom Fasten zum Essen vorbereitet. „Schon wenn wir Essen riechen, wird das Signal an die Leber gesendet: Da wird jetzt gleich Zucker kommen.“</p>\n<p>Diese Mechanismen sind nicht nur faszinierend, sondern könnten auch helfen, Diabetes besser zu verstehen. Denn bei Menschen mit Typ-2-Diabetes funktioniert die Umschaltung des Stoffwechsels häufig nicht mehr richtig.</p>\nNeue Medikamente und die Suche nach den Schaltzentralen des Stoffwechsels\n<p>Um die Ursachen von Übergewicht und Diabetes besser zu verstehen, kartieren Forschende heute die Nervenzellen des Hypothalamus, denn dieser Abschnitt im Zwischenhirn ist eine der zentralen Schaltstellen für Hunger und Stoffwechsel. Mithilfe moderner Methoden hat Brünings Team hunderte verschiedene Nervenzelltypen identifiziert und untersucht, wie diese miteinander kommunizieren.</p>\n<p>Dieses Wissen hilft auch dabei, neue Therapien zu entwickeln. Medikamente wie die sogenannten GLP-1-Analoga, zu denen auch die „Abnehmspritze“ Ozempic gehört, haben die Behandlung von Adipositas in den vergangenen Jahren grundlegend verändert. Doch auch sie sind kein Wundermittel.</p>\n<p>In dieser Folge von „Ach, Mensch!“ spricht <em>detektor.fm</em>-Moderatorin Jessica Hughes mit <strong>Jens Brüning</strong> darüber, warum der Körper nach einer Diät verlorene Kilos oft zurückhaben möchte, weshalb Abnehmspritzen nur ein Teil der Lösung sind und welche Rolle unser Lebensstil dabei spielt.</p>",
+    "date": "2026-07-22T03:00:03.000Z",
+    "url": "https://feedpress.me/link/19604/17384600/ach-mensch-jens-bruening-adipositas",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260609ach-menschadipositas.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260609ach-menschadipositas.63.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d751440d-bcb3-51db-a1c9-308344bcee10",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Publikumsverhalten bei Konzerten: Stuttgart lame, München fun?",
+    "summary": "Siniawski, Adalbert; Egermann, Hauke www.deutschlandfunk.de, Corso",
+    "date": "2026-07-21T13:15:39.000Z",
+    "url": "https://www.deutschlandfunk.de/publikumsverhalten-bei-konzerten-stuttgart-lame-muenchen-fun-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/publikumsverhalten_bei_konzerten_stuttgart_lame_muenchen_fun_dlf_20260721_1515_c5f920a8.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1e4dd9ef-804a-5d57-b0ff-53c1b99592d7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die eigene Stadtplanung - Im Haus der Statistik wird gebaut",
+    "summary": "Schwarz, Marietta www.deutschlandfunk.de, Corso",
+    "date": "2026-07-21T13:10:52.000Z",
+    "url": "https://www.deutschlandfunk.de/die-eigene-stadtplanung-im-haus-der-statistik-wird-gebaut-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/die_eigene_stadtplanung_im_haus_der_statistik_wird_gebaut_dlf_20260721_1510_8efda481.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ea95ac9d-3ccb-5cb2-9e5b-117a67b76897",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Charlie Kirk Memes - Subversiver Bruch mit der Staatstrauer",
+    "summary": "Weingart, Christopher www.deutschlandfunk.de, Corso",
+    "date": "2026-07-21T13:10:49.000Z",
+    "url": "https://www.deutschlandfunk.de/charlie-kirk-memes-subversiver-bruch-mit-der-staatstrauer-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/charlie_kirk_memes_subversiver_bruch_mit_der_staatstrauer_dlf_20260721_1510_d1fbc720.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-24-wir-sind-piraten-ein-professor-und-seine-studierenden-dlf-20260724-2005-622902f7-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
     "type": "rss",
-    "title": "Wir sind die Piraten - Jenseits des Hochschulalltags",
+    "title": "Wir sind die Piraten - Ein Professor und seine Studierenden gründen ein Hausprojekt",
     "summary": "Leben, Lehren, Arbeiten. Für den Fotografie-Professor Christoph Bangert gehört das untrennbar zusammen. Also renoviert er mit Studierenden ein Haus auf dem Land und gründet dort eine WG. Doch was als radikale Idee beginnt, bringt ihm bald viel Kritik ein. Von Anna Seibt www.deutschlandfunkkultur.de, Feature",
     "date": "2026-07-21T09:30:00.000Z",
     "url": "https://www.hoerspielundfeature.de/wir-sind-die-piraten-100.html",
@@ -278,56 +377,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-17-emoji-day-wie-veraendern-emojis-unsere-kommunikation-dlf-20260717-1506-c12dcc15-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Emoji Day - Wie verändern Emojis unsere Kommunikation?",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-07-17T13:06:28.000Z",
-    "url": "https://www.deutschlandfunk.de/emoji-day-wie-veraendern-emojis-unsere-kommunikation-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/emoji_day_wie_veraendern_emojis_unsere_kommunikation_dlf_20260717_1506_c12dcc15.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-17-keine-angst-von-danger-dan-und-igor-levit-aufruf-zu-linker-dlf-20260717-1505-50562a38-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Song „Keine Angst“ - Jurist Steinbeis sieht keinen Aufruf zur Gewalt",
-    "summary": "Danger Dan und Igor Levit werden „Keine Angst“ nicht in der ZDF-Satiresendung „Die Anstalt“ aufführen. Der Auftritt wurde abgesagt, weil man in dem Song einen Gewaltaufruf erkennen könne. Jurist Steinbeis findet diese Entscheidung höchst bedenklich. Müller, Paulus; Steinbeis, Maximilian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-17T13:05:52.000Z",
-    "url": "https://www.deutschlandfunk.de/keine-angst-von-danger-dan-und-igor-levit-aufruf-zu-linker-gewalt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/60/28/19/ea/602819ea-72e9-4217-b19e-b1ff7f56b7bc/danger-dan-igor-levit-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/17/keine_angst_von_danger_dan_und_igor_levit_aufruf_zu_linker_dlf_20260717_1505_50562a38.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4011738",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -396,31 +445,6 @@
     "category": [
       "Wissenschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-16-immer-wieder-odyssee-was-die-popkultur-am-antiken-stoff-dlf-20260716-1510-01389fdf-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Immer wieder Odyssee - Was die Popkultur am antiken Stoff begeistert",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-16T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/immer-wieder-odyssee-was-die-popkultur-am-antiken-stoff-begeistert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/immer_wieder_odyssee_was_die_popkultur_am_antiken_stoff_dlf_20260716_1510_01389fdf.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -559,30 +583,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260714monopol-podcastfridakahlo.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260714monopol-podcastfridakahlo.63.mp3",
     "duration": "22 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:3b4bfe5c-0ab2-4390-b9c6-1093195ee2ea",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interview: Ist der Erfolg des E-Bikes in Gefahr, Arne Bischoff?",
-    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Arne Bischoff </strong>vom Pressedienst Fahrrad um die Zukunft des E-Bikes.</p>\nErfolgsmodell der Elektromobilität\n<p>Das E-Bike ist ein Erfolgsmodell der Elektromobilität. Millionen elektrisch unterstützter Fahrräder sind in Deutschland unterwegs, seit 2023 werden mehr E-Bikes als klassische Fahrräder verkauft. Das macht das Stromfahrrad zum Verkaufsschlager und auch zum Umsatzbringer der Fahrradwirtschaft.</p>\n<p>Korrekt bezeichnet ist ein E-Bike eigentlich ein Pedelec, also ein „Pedal Electric Cycle“. Oder, etwas umständlicher, ein EPAC, also ein „Electrically Power Assisted Cycle“. So wird es auch in einer europäischen Verordnung genannt, die dem E-Bike einen Ausnahmestatus einräumt: Unter bestimmten Umständen werden EPACs rechtlich als Fahrräder eingeordnet und sind damit z. B. von der Führerschein- und Helmpflicht ausgenommen. Das bekannteste Kriterium für diese Ausnahme ist die Beschränkung der Unterstützung auf Geschwindigkeiten bis 25 km/h, außerdem ist die Nenndauerleistung auf 250 Watt beschränkt.</p>\nNeue Kriterien für die Zukunft des E-Bikes?\n<p>Allerdings werden aktuelle Motoren und Modelle immer leistungsfähiger, bis zu 1500 Watt sind da möglich. Umgerechnet sind das etwa zwei PS, die ohne Führerschein bewegt werden dürfen. Hier sehen Branchenakteure eine Gefahr und drängen auf eine Neuregulierung. Sie befürchten den Entzug der Ausnahmeregelung und damit die Abschaffung des sogenannten „Fahrradprivilegs“. E-Bikes wären dann rechtlich nicht mehr Fahrrädern gleichgestellt.</p>\n<p>Darum hat der Zweiradindustrieverband ZIV schon 2025 eine Präzisierung aktueller Regelungen angeregt und eine Begrenzung der maximal möglichen Unterstützung auf 750 Watt vorgeschlagen. Der ADFC Thüringen sieht ebenso Anlass zur Nachschärfung, regt aber eine Begrenzung der möglichen Beschleunigung an.</p>\nWie ist der Stand der Diskussion ums E-Bike?\n<p><strong>Arne Bischoff</strong> vom Pressedienst Fahrrad begleitet als Fahrradjournalist die Diskussion um die rechtliche Einordnung von EPACs und mögliche Konsequenzen. Für diese Ausgabe des Antritts hat Gerolf mit Arne über die technischen Grundlagen, die unterschiedlichen Argumente und mögliche Szenarien für die Zukunft gesprochen.</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>",
-    "date": "2026-07-10T03:00:42.000Z",
-    "url": "https://feedpress.me/link/19604/17375880/antritt-arne-bischoff-ueber-die-zukunft-des-e-bikes",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260708antrittarne2.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260708antrittarne2.63.mp3",
-    "duration": "46 Min",
     "tags": [
       "wissenschaft",
       "forschung",
