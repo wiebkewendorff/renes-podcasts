@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:eaa1248f-7110-5eb6-8aa0-80e5e3f7f563",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 22.07.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-22T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/22/kulturmeldungen_22072026_dlf_20260722_1756_d89f8d04.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a6197c36-1ccb-54f5-9fcf-3ecd6dad8803",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach der Sanierung - Ein Rundgang durch die Kölner Oper",
+    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-22T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-der-sanierung-ein-rundgang-durch-die-koelner-oper-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/22/nach_der_sanierung_ein_rundgang_durch_die_koelner_oper_dlf_20260722_1751_f29d49a3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5e7b4e65-1cd2-5516-a5b0-e09955d3242f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ehe zu viert? Geigerin Annette Reisinger über das Leben im Streichquartett",
+    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-22T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ehe-zu-viert-geigerin-annette-reisinger-ueber-das-leben-im-streichquartett-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/22/ehe_zu_viert_geigerin_annette_reisinger_ueber_das_leben_im_dlf_20260722_1741_1b9b70cf.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5afed612-62c2-5762-b7e5-1886d8bb9782",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Leitung, neue Akzente? Die Stiftung \"Flucht, Vertreibung, Versöhnung\"",
+    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-22T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-leitung-neue-akzente-die-stiftung-flucht-vertreibung-versoehnung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/22/neue_leitung_neue_akzente_die_stiftung_flucht_vertreibung_dlf_20260722_1736_7799ab84.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:5d73745b-2696-5aa4-98c0-ecc2ddec88c4",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/vergiss_es_kampagne_der_gedenkstaetten_in_sachsen_anhalt_dlf_20260720_1751_a956527c.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:391ba1ba-e338-5452-a5e3-9256b0907fdc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Soundwalk Collective mit Patti Smith im LUMA Arles",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-20T15:45:45.000Z",
-    "url": "https://www.deutschlandfunk.de/soundwalk-collective-mit-patti-smith-im-luma-arles-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/soundwalk_collective_mit_patti_smith_im_luma_arles_dlf_20260720_1745_83553a2b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8cca7b04-4e6c-5b4d-b6ae-ac8a585a081e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Berliner Fördergeldaffäre: Untersuchungsausschuss legt Abschlussbericht vor",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-20T15:40:55.000Z",
-    "url": "https://www.deutschlandfunk.de/berliner-foerdergeldaffaere-untersuchungsausschuss-legt-abschlussbericht-vor-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/berliner_foerdergeldaffaere_untersuchungsausschuss_legt_dlf_20260720_1740_ee542bb9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d05fbe19-3c95-58ce-8fab-dd0232ef998c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Weltmuseum ohne Kern - Philipp Oswalt zu fünf Jahren Humboldtforum",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-20T15:35:13.000Z",
-    "url": "https://www.deutschlandfunk.de/weltmuseum-ohne-kern-philipp-oswalt-zu-fuenf-jahren-humboldtforum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/weltmuseum_ohne_kern_philipp_oswalt_zu_fuenf_jahren_dlf_20260720_1735_de532886.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-19-kulturmeldungen-19072026-dlf-20260719-1756-2d2d4994-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 19.07.2026",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-19T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/19/kulturmeldungen_19072026_dlf_20260719_1756_2d2d4994.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "theater",
