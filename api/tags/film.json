@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:0e28966c-fe1e-51d8-9d2d-9655d5f55e9a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 23.07.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-23T15:55:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/kulturmeldungen_23072026_dlf_20260723_1755_6dd5fd63.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9cf7d53e-bc07-58fe-869b-d3fbe63394de",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Verlangen und Verrat - Der neue Film \"Dreams\" mit Jessica Chastain",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-23T15:48:57.000Z",
+    "url": "https://www.deutschlandfunk.de/verlangen-und-verrat-der-neue-film-dreams-mit-jessica-chastain-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/verlangen_und_verrat_der_neue_film_dreams_mit_jessica_dlf_20260723_1748_49d4c2fa.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0c5d21db-9d86-5c25-ac04-8a011f5e28d1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Liebesdrama am Bodensee - Verdis \"La Traviata\" eröffnet die Bregenzer Festspiele",
+    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-23T15:42:40.000Z",
+    "url": "https://www.deutschlandfunk.de/liebesdrama-am-bodensee-verdis-la-traviata-eroeffnet-die-bregenzer-festspiele-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/liebesdrama_am_bodensee_verdis_la_traviata_eroeffnet_die_dlf_20260723_1742_45d3739b.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1b2fff48-1226-5b71-93e7-3360f85a79d3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Lust an der heißen Luft\" - Doris Dörrie zu Werner Enkes \"Zur Sache, Schätzchen\"",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-23T15:35:25.000Z",
+    "url": "https://www.deutschlandfunk.de/lust-an-der-heissen-luft-doris-doerrie-zu-werner-enkes-zur-sache-schaetzchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/lust_an_der_heissen_luft_doris_doerrie_zu_werner_enkes_zur_dlf_20260723_1735_20d17ed5.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:eaa1248f-7110-5eb6-8aa0-80e5e3f7f563",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/tage_aus_glas_theatraler_stadtrundgang_beim_asphalt_festival_dlf_20260721_1750_af835456.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4bb5357e-3560-5c0c-9c38-5cfb5277e4c7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gemeinsam Literatur erleben - das Literaturfestival \"kindly invited\" in Köln",
-    "summary": "Seidel, Änne; Reiner, Svenja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-21T15:43:28.000Z",
-    "url": "https://www.deutschlandfunk.de/gemeinsam-literatur-erleben-das-literaturfestival-kindly-invited-in-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/gemeinsam_literatur_erleben_das_literaturfestival_kindly_dlf_20260721_1743_3b824731.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9e13d361-7fbf-5629-9b70-1d6cffc699bc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nightborne - Filmwissenschaftler Marcus Stiglegger über KI-generierten Kurzfilm",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-21T15:35:20.000Z",
-    "url": "https://www.deutschlandfunk.de/nightborne-filmwissenschaftler-marcus-stiglegger-ueber-ki-generierten-kurzfilm-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/nightborne_filmwissenschaftler_marcus_stiglegger_ueber_ki_dlf_20260721_1735_4d80e4fa.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:43b55b1b-3eba-5555-a7e6-2d9d701d7ff6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 20.07.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-20T15:56:06.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/kulturmeldungen_20072026_dlf_20260720_1756_1257c8cc.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0f9723c0-af22-5b61-baaa-9dfc0f4d4408",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Vergiss es?!\" - Kampagne der Gedenkstätten in Sachsen-Anhalt",
-    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-20T15:51:05.000Z",
-    "url": "https://www.deutschlandfunk.de/vergiss-es-kampagne-der-gedenkstaetten-in-sachsen-anhalt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/vergiss_es_kampagne_der_gedenkstaetten_in_sachsen_anhalt_dlf_20260720_1751_a956527c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
