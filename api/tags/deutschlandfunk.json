@@ -1,5 +1,237 @@
 [
   {
+    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-01-29-zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-dlf-20260129-1915-5f1a0c37-mp3-refid-zeitzeugen-im-gespraech-102",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ulrich Schneider - \"Wir waren nicht arm, aber wir waren deklassiert\"",
+    "summary": "Sein Ruf als \"bekanntester Soziallobbyist der Republik\" eilt Ulrich Schneider voraus. 25 Jahre war er beim Paritätischen Wohlfahrtsverband. Soziale Ungerechtigkeit und knauserige Sozialpolitik empören ihn bis heute. (Erstsendung am 29.1.2026) Becker, Birgid www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-07-25T09:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-gesamtverband-100.html",
+    "image": "https://bilder.deutschlandfunk.de/b9/7b/ea/b0/b97beab0-7fe9-45c9-88fb-a6de401f7e4b/ulrich-schneider-ehemaliger-hauptgeschaeftsfuhrer-paritaetischer-wohlfahrtsverband-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/01/29/zeitzeugen_im_gespraech_ulrich_schneider_ehem_paritaetischer_dlf_20260129_1915_5f1a0c37.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e9a8a6ad-d438-57f6-bd9f-1be75c9e36b1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 24.07.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:56:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/kulturmeldungen_24072026_dlf_20260724_1756_0a257804.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8e686fdc-353c-5c19-a4f5-21ec037ba1d6",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mehr Frauen! Bremer Künstlerinnen auf Papier\" in der Kunsthalle Bremen",
+    "summary": "Schneider, Anette www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:51:45.000Z",
+    "url": "https://www.deutschlandfunk.de/mehr-frauen-bremer-kuenstlerinnen-auf-papier-in-der-kunsthalle-bremen-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/mehr_frauen_bremer_kuenstlerinnen_auf_papier_in_der_dlf_20260724_1751_b923b1ac.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e5f78cbf-76ef-5ef9-bfd0-90061ad57290",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Chefarchitekt Ostberlins - Kirsten Angermann zum Tod von Roland Korn",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:45:31.000Z",
+    "url": "https://www.deutschlandfunk.de/chefarchitekt-ostberlins-kirsten-angermann-zum-tod-von-roland-korn-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/chefarchitekt_ostberlins_kirsten_angermann_zum_tod_von_dlf_20260724_1745_4e20cf55.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:55e3117d-daaf-56a9-aaa2-a81cbfad80ee",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "80 Jahre DEFA - Eine neue Ausstellung im Filmmuseum Potsdam",
+    "summary": "Hamdorf, Wolfgang Martin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:40:40.000Z",
+    "url": "https://www.deutschlandfunk.de/80-jahre-defa-eine-neue-ausstellung-im-filmmuseum-potsdam-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/80_jahre_defa_eine_neue_ausstellung_im_filmmuseum_potsdam_dlf_20260724_1740_b01e5359.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7a27d5cd-d7ac-5bf5-a323-7f6eeb184c84",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Ausflüge des Herrn Brouček\" - Youval Sharon inszeniert Janáček in Bregenz",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:35:40.000Z",
+    "url": "https://www.deutschlandfunk.de/die-ausfluege-des-herrn-brou-ek-youval-sharon-inszeniert-jan-ek-in-bregenz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/die_ausfluege_des_herrn_broucek_youval_sharon_inszeniert_dlf_20260724_1735_d21c4af5.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4a2c7d43-e3d2-5bfa-9c6d-557284fca7a5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Brief an den berühmten Vater - Was Anne dem Comicautoren René Goscinny schreibt",
+    "summary": "Unger, Kolja; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:25:54.000Z",
+    "url": "https://www.deutschlandfunk.de/brief-an-den-beruehmten-vater-was-anne-dem-comicautoren-ren-goscinny-schreibt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/brief_an_den_beruehmten_vater_was_anne_dem_comicautoren_rene_dlf_20260724_1525_2a67ef7e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:89810cbb-5fcb-50a7-a053-ce377ac622aa",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Anne-Sophie Monrad über Daniel Siad und die Schattenseiten der Modelbranche",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/anne-sophie-monrad-ueber-daniel-siad-und-die-schattenseiten-der-modelbranche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/anne_sophie_monrad_ueber_daniel_siad_und_die_schattenseiten_dlf_20260724_1515_fdfdf096.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fd50042d-787b-529f-bb6e-036275c4b94f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Musikalische Kehrtwende? Das neue Album \"Music, Fashion, Film\" von Charli XCX",
+    "summary": "Raabe, Mathis; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:10:13.000Z",
+    "url": "https://www.deutschlandfunk.de/musikalische-kehrtwende-das-neue-album-music-fashion-film-von-charli-xcx-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/musikalische_kehrtwende_das_neue_album_music_fashion_film_dlf_20260724_1510_d0661a2c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:0e28966c-fe1e-51d8-9d2d-9655d5f55e9a",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -232,84 +464,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:a6197c36-1ccb-54f5-9fcf-3ecd6dad8803",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach der Sanierung - Ein Rundgang durch die Kölner Oper",
-    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-22T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-der-sanierung-ein-rundgang-durch-die-koelner-oper-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/22/nach_der_sanierung_ein_rundgang_durch_die_koelner_oper_dlf_20260722_1751_f29d49a3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5e7b4e65-1cd2-5516-a5b0-e09955d3242f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ehe zu viert? Geigerin Annette Reisinger über das Leben im Streichquartett",
-    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-22T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ehe-zu-viert-geigerin-annette-reisinger-ueber-das-leben-im-streichquartett-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/22/ehe_zu_viert_geigerin_annette_reisinger_ueber_das_leben_im_dlf_20260722_1741_1b9b70cf.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5afed612-62c2-5762-b7e5-1886d8bb9782",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Leitung, neue Akzente? Die Stiftung \"Flucht, Vertreibung, Versöhnung\"",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-22T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-leitung-neue-akzente-die-stiftung-flucht-vertreibung-versoehnung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/22/neue_leitung_neue_akzente_die_stiftung_flucht_vertreibung_dlf_20260722_1736_7799ab84.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:974a6c98-0d40-5085-8518-97446c3ac1fe",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -385,58 +539,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:5d73745b-2696-5aa4-98c0-ecc2ddec88c4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 21.07.2026",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-21T15:56:15.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-21-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/kulturmeldungen_21072026_dlf_20260721_1756_1b84a88e.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8d3b0d09-6b0e-50b0-9c47-96b136698d6a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Tage aus Glas\" - Theatraler Stadtrundgang beim Asphalt Festival Düsseldorf",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-21T15:50:50.000Z",
-    "url": "https://www.deutschlandfunk.de/tage-aus-glas-theatraler-stadtrundgang-beim-asphalt-festival-duesseldorf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/tage_aus_glas_theatraler_stadtrundgang_beim_asphalt_festival_dlf_20260721_1750_af835456.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:d751440d-bcb3-51db-a1c9-308344bcee10",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -448,56 +550,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/publikumsverhalten_bei_konzerten_stuttgart_lame_muenchen_fun_dlf_20260721_1515_c5f920a8.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1e4dd9ef-804a-5d57-b0ff-53c1b99592d7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die eigene Stadtplanung - Im Haus der Statistik wird gebaut",
-    "summary": "Schwarz, Marietta www.deutschlandfunk.de, Corso",
-    "date": "2026-07-21T13:10:52.000Z",
-    "url": "https://www.deutschlandfunk.de/die-eigene-stadtplanung-im-haus-der-statistik-wird-gebaut-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/die_eigene_stadtplanung_im_haus_der_statistik_wird_gebaut_dlf_20260721_1510_8efda481.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ea95ac9d-3ccb-5cb2-9e5b-117a67b76897",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Charlie Kirk Memes - Subversiver Bruch mit der Staatstrauer",
-    "summary": "Weingart, Christopher www.deutschlandfunk.de, Corso",
-    "date": "2026-07-21T13:10:49.000Z",
-    "url": "https://www.deutschlandfunk.de/charlie-kirk-memes-subversiver-bruch-mit-der-staatstrauer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/charlie_kirk_memes_subversiver_bruch_mit_der_staatstrauer_dlf_20260721_1510_d1fbc720.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
@@ -534,31 +586,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:cc5ede64-037f-54d7-a6ab-7c61eb32c777",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fußball-WM-Halbzeitshow: lahm, überflüssig und gefährlich",
-    "summary": "Siniawski, Adalbert; Guethe, Mia www.deutschlandfunk.de, Corso",
-    "date": "2026-07-20T13:10:47.000Z",
-    "url": "https://www.deutschlandfunk.de/fussball-wm-halbzeitshow-lahm-ueberfluessig-und-gefaehrlich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/fussball_wm_halbzeitshow_lahm_ueberfluessig_und_gefaehrlich_dlf_20260720_1510_5a8a110b.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1175,33 +1202,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-01-29-zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-dlf-20260129-1915-5f1a0c37-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ulrich Schneider - \"Wir waren nicht arm, aber wir waren deklassiert\"",
-    "summary": "Sein Ruf als \"bekanntester Soziallobbyist der Republik\" eilt Ulrich Schneider voraus. 25 Jahre war er beim Paritätischen Wohlfahrtsverband. Aus einfachen Verhältnissen stammend empören ihn bis heute soziale Ungerechtigkeit und knausrige Sozialpolitik. Becker, Birgid www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-01-29T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-gesamtverband-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b9/7b/ea/b0/b97beab0-7fe9-45c9-88fb-a6de401f7e4b/ulrich-schneider-ehemaliger-hauptgeschaeftsfuhrer-paritaetischer-wohlfahrtsverband-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/01/29/zeitzeugen_im_gespraech_ulrich_schneider_ehem_paritaetischer_dlf_20260129_1915_5f1a0c37.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-tatort-kunst:https-podcast-mp3-dradio-de-podcast-2026-01-18-entfuehrte-bilder-die-geschichte-des-artnappings-dlf-20260118-1500-18cb9087-mp3-refid-tatort-kunst-102",
     "source": "dlf-tatort-kunst",
     "sourceTitle": "Tatort Kunst – Deutschlandfunk",
@@ -1224,33 +1224,6 @@
       "Kunst",
       "Kultur",
       "True Crime"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2025-01-25-zeitzeugen-im-gespraech-der-kuenstler-klaus-staeck-dlf-20250125-1105-dda5d45f-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Klaus Staeck - \"Die Satire lebt mit dem Zweifel\"",
-    "summary": "Die Kunst- und Meinungsfreiheit zu verteidigen, war immer das Anliegen des Künstlers Klaus Staeck. Mit satirischen Plakaten wettert er gegen Politik und Wirtschaft. Das hat ihm nicht nur viele Schlagzeilen, sondern auch einige Prozesse eingebracht. (Erstsendung 25.1.15) Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2025-12-25T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-kuenstler-klaus-staeck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b7/c6/df/be/b7c6dfbe-4d8a-4d93-9c4d-0043f0d50626/klaus-staeck-104-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/01/25/zeitzeugen_im_gespraech_der_kuenstler_klaus_staeck_dlf_20250125_1105_dda5d45f.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
     ],
     "language": "de"
   },

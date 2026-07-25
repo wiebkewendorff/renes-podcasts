@@ -1,15 +1,42 @@
 [
   {
-    "id": "zeitzeichen:35429677c6f1893e691ed9e45cd2bbc1",
+    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-01-29-zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-dlf-20260129-1915-5f1a0c37-mp3-refid-zeitzeugen-im-gespraech-102",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ulrich Schneider - \"Wir waren nicht arm, aber wir waren deklassiert\"",
+    "summary": "Sein Ruf als \"bekanntester Soziallobbyist der Republik\" eilt Ulrich Schneider voraus. 25 Jahre war er beim Paritätischen Wohlfahrtsverband. Soziale Ungerechtigkeit und knauserige Sozialpolitik empören ihn bis heute. (Erstsendung am 29.1.2026) Becker, Birgid www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-07-25T09:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-gesamtverband-100.html",
+    "image": "https://bilder.deutschlandfunk.de/b9/7b/ea/b0/b97beab0-7fe9-45c9-88fb-a6de401f7e4b/ulrich-schneider-ehemaliger-hauptgeschaeftsfuhrer-paritaetischer-wohlfahrtsverband-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/01/29/zeitzeugen_im_gespraech_ulrich_schneider_ehem_paritaetischer_dlf_20260129_1915_5f1a0c37.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:ca7a70aa76cd24083f771414605177fc",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Ende der Altsteinzeit: Wie friedlich waren unsere Vorfahren?",
-    "summary": "<p>Vor rund 10.000 Jahren endet die Altsteinzeit. Sie prägt bis heute unser Bild vom \"wilden Urmenschen\". Steckt das \"Recht des Stärkeren\" wirklich in unseren Genen?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Thomas Pfaff:</strong><br><ul><li>wie hartnäckig sich das Bild vom brutalen Keulenmenschen hält,</li><li>warum Charles Darwins Evolutionstheorie oft missverstanden wird,</li><li>wieso in der Altsteinzeit Zusammenarbeit und Lernen wichtiger sind als körperliche Stärke,</li><li>weshalb damals Gleichberechtigung und flexible Rollen das Leben bestimmen,</li><li>wie die Frage nach der wahren Natur des Menschen heute beantwortet werden kann.</li></ul><br>Das Bild vom gewalttätigen Urmenschen ist tief im kollektiven Gedächtnis verankert. Filme und populäre Darstellungen zeigen Kämpfe um Ressourcen als treibende Kraft der Evolution. Doch die Forschung zeichnet ein anderes Bild: Entscheidend ist über Millionen von Jahren nicht Stärke, sondern Anpassungsfähigkeit, Kooperation und Wissen.<br><br>Der entscheidende Wendepunkt in der Menschheitsgeschichte findet erst mit dem Ende der Altsteinzeit statt. Vor rund 10.000 Jahren werden die Jäger und Sammler zu Bauern und Viehzüchtern. Damit ändert sich das Zusammenleben grundlegend: Es gibt erste Hinweise auf beginnende Hierarchien, Herrschaft, Privateigentum, auf Überfälle, Krieg, Sklaverei und Patriarchat.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Thorsten Uthmeier (Professor für Ur- und Frühgeschichte, Friedrich-Alexander-Universität Erlangen)</li><li>Andreas Pastoors (Professor für Ur- und Frühgeschichte, Friedrich-Alexander-Universität Erlangen)</li><li>Thorsten Uthmeier und Doris Mischka (Hg.): Steinzeit in Bayern. Freiburg im Breisgau 2023</li><li>David Graeber und David Wengrow: Anfänge – eine neue Geschichte der Menschheit. Stuttgart 2022</li><li>Marshall Sahlins: Das Menschenbild des Westens. Ein Missverständnis? Berlin 2017</li><li>Marylène Patou-Mathis: Weibliche Unsichtbarkeit – wie alles begann. München 2022</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet-Wissen: <a href=\"https://www.planet-wissen.de/geschichte/urzeit/jungsteinzeit/steinzeit-intro-100.html\" rel=\"noopener\" target=\"_blank\">Steinzeit</a></li><li>TerraX: <a href=\"https://www.zdf.de/video/dokus/terra-x-112/sternstunden-der-steinzeit-100\" rel=\"noopener\" target=\"_blank\">Sternstunden der Steinzeit</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Thomas Pfaff<br>Redaktion: Matti Hesse<br>Technik: Sarah Fitzek",
-    "date": "2026-07-24T04:00:55.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ende-der-altsteinzeit-wie-friedlich-waren-unsere-vorfahren-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-palaeolithikum-steinzeit-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/20/e1813fbe-7b53-4825-9fc4-cea5c78514cd/e1813fbe-7b53-4825-9fc4-cea5c78514cd_MP3-128.mp3",
+    "title": "Die Banditenkönigin Indiens: Phoolan Devi",
+    "summary": "<p>Sie wurde vergewaltigt, gejagt und eine gefürchtete Rebellin. Nach Jahren im Gefängnis zog sie ins Parlament ein. Am 13. Juli 2001 wurde Phoolan Devi erschossen.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christiane Kopka:</strong><br><ul><li>dass Phoolan Devi schon als Mädchen sexualisierte Gewalt erfährt,</li><li>warum sich vieles in ihrem Leben nicht zuverlässig rekonstruieren lässt,</li><li>weshalb sie bis heute für viele ein Symbol des Widerstands von Frauen aus unteren Kasten ist.</li></ul><br>Die Mörder kommen in der Mittagspause. Am 25. Juli 2001 wird Phoolan Devi, Abgeordnete der linken Samajwadi-Partei, vor ihrem Haus in Neu-Delhi erschossen Einer der Täter gibt später an, aus Rache für das Massaker im Dorf Behmai gehandelt zu haben.<br><br>Dort war Phoolan Devi einst wochenlang festgehalten, gedemütigt und von Männern höherer Kasten vergewaltigt worden. Doch ihr gelingt die Flucht und sie schlägt zurück. Bei ihrem Vergeltungsangriff werden 20 Männer erschossen – bis heute ist umstritten, welche Rolle sie selbst dabei spielte.<br><br>Das Blutbad begründet ihren Mythos als Banditenkönigin und Rächerin der unteren Kaste. Elf Jahre sitzt sie ohne Gerichtsverfahren im Gefängnis, nach ihrer überraschenden Freilassung wird sie als Symbolfigur der unteren Kasten zweimal ins indische Unterhaus gewählt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Nadja-Christina Schneider, Professorin am Institut für Asien- und Afrikawissenschaften an der Humboldt-Universität Berlin</li><li>Phoolan Devi: Ich war die Königin der Banditen - Ein legendäres Leben<em>. </em>Bergisch Gladbach 2002</li><li>Mala Sen: Bandit Queen - Die Geschichte der Phoolan Devi. München 1993</li><li>Veena Kade-Luthra: Phoolan Devi - Die Legende einer indischen Banditin. Frankfurt/Main 1983</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/kultur/asien/indien/pwiefraueninindien100.html\" rel=\"noopener\" target=\"_blank\">Frauen in Indien</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Christiane Kopka <br>Redaktion: Sefa Inci Suvak",
+    "date": "2026-07-25T04:00:20.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-banditenkoenigin-indiens-phoolan-devi-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-phoolan-devi-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/14/4f1b52a3-b528-4056-987d-ef3b8f25db60/4f1b52a3-b528-4056-987d-ef3b8f25db60_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
@@ -23,42 +50,17 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-25987703795188277",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Setzt sich für den Naturschutz ein: Moorforscher Prof. Michael Succow",
-    "summary": "Eine tiefe Leidenschaft für die heimische Flora und Fauna entwickelte der Bauernsohn Succow - 1941 in Brandenburg geboren - bereits in seiner Jugend. Internationale wissenschaftliche Anerkennung erlangte er vor allem als profunder Moorforscher, dessen Arbeiten bis heute als Standardwerke gelten. Mit einer Stiftung, die seinen Namen trägt, setzt sich Prof. Michael Succow nach wie vor für den Naturschutz ein - auch bei uns auf dem Roten Sofa.",
-    "date": "2026-07-23T16:45:00.000Z",
-    "url": "https://www.ndr.de/setzt-sich-fuer-naturschutz-ein-moorforscher-prof-michael-succow,audio-3375916.html",
-    "image": "https://images.ndr.de/image/dbfb0a6c-ce9e-4e0d-b4ee-941020926a9c/AAABn4__-vw/AAABnSStX0g/1x1-big/screenshot-200456.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0723/AU-20260723-1956-1500.mp3",
-    "duration": "25 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0e28966c-fe1e-51d8-9d2d-9655d5f55e9a",
+    "id": "dlf-kultur-heute:e9a8a6ad-d438-57f6-bd9f-1be75c9e36b1",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Kulturmeldungen 23.07.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-23T15:55:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-07-102.html",
+    "title": "Kulturmeldungen 24.07.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:56:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-07-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/kulturmeldungen_23072026_dlf_20260723_1755_6dd5fd63.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/kulturmeldungen_24072026_dlf_20260724_1756_0a257804.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",
@@ -74,125 +76,23 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:9cf7d53e-bc07-58fe-869b-d3fbe63394de",
+    "id": "dlf-kultur-heute:8e686fdc-353c-5c19-a4f5-21ec037ba1d6",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Verlangen und Verrat - Der neue Film \"Dreams\" mit Jessica Chastain",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-23T15:48:57.000Z",
-    "url": "https://www.deutschlandfunk.de/verlangen-und-verrat-der-neue-film-dreams-mit-jessica-chastain-100.html",
+    "title": "\"Mehr Frauen! Bremer Künstlerinnen auf Papier\" in der Kunsthalle Bremen",
+    "summary": "Schneider, Anette www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:51:45.000Z",
+    "url": "https://www.deutschlandfunk.de/mehr-frauen-bremer-kuenstlerinnen-auf-papier-in-der-kunsthalle-bremen-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/verlangen_und_verrat_der_neue_film_dreams_mit_jessica_dlf_20260723_1748_49d4c2fa.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0c5d21db-9d86-5c25-ac04-8a011f5e28d1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Liebesdrama am Bodensee - Verdis \"La Traviata\" eröffnet die Bregenzer Festspiele",
-    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-23T15:42:40.000Z",
-    "url": "https://www.deutschlandfunk.de/liebesdrama-am-bodensee-verdis-la-traviata-eroeffnet-die-bregenzer-festspiele-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/liebesdrama_am_bodensee_verdis_la_traviata_eroeffnet_die_dlf_20260723_1742_45d3739b.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1b2fff48-1226-5b71-93e7-3360f85a79d3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Lust an der heißen Luft\" - Doris Dörrie zu Werner Enkes \"Zur Sache, Schätzchen\"",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-23T15:35:25.000Z",
-    "url": "https://www.deutschlandfunk.de/lust-an-der-heissen-luft-doris-doerrie-zu-werner-enkes-zur-sache-schaetzchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/lust_an_der_heissen_luft_doris_doerrie_zu_werner_enkes_zur_dlf_20260723_1735_20d17ed5.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a1803bfb-f71d-5143-9c61-166f59a64a30",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Chéri, ich komme!\" - Das echte Erfinderpaar hinter dem Womanizer im Gespräch",
-    "summary": "Plodroch, Ina; Lenke, Michael; Lenke, Brigitte www.deutschlandfunk.de, Corso",
-    "date": "2026-07-23T13:20:45.000Z",
-    "url": "https://www.deutschlandfunk.de/ch-ri-ich-komme-das-echte-erfinderpaar-hinter-dem-womanizer-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/cheri_ich_komme_das_echte_erfinderpaar_hinter_dem_womanizer_dlf_20260723_1520_a14965ce.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:71442f1e-2028-520e-8a58-019e5c346e84",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Serie - Das \"Big Bang Theory\"-Spinoff \"Stuart Fails To Save The Universe\"",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-23T13:15:35.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-serie-das-big-bang-theory-spinoff-stuart-fails-to-save-the-universe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/neue_serie_das_big_bang_theory_spinoff_stuart_fails_to_save_dlf_20260723_1515_ee474f78.mp3?refId=corso-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/mehr_frauen_bremer_kuenstlerinnen_auf_papier_in_der_dlf_20260724_1751_b923b1ac.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
-      "pop",
+      "theater",
       "kunst",
-      "gesellschaft",
+      "film",
+      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
@@ -202,16 +102,94 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:73995585-8c8f-51e2-be03-adb869bd2e72",
+    "id": "dlf-kultur-heute:e5f78cbf-76ef-5ef9-bfd0-90061ad57290",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Chefarchitekt Ostberlins - Kirsten Angermann zum Tod von Roland Korn",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:45:31.000Z",
+    "url": "https://www.deutschlandfunk.de/chefarchitekt-ostberlins-kirsten-angermann-zum-tod-von-roland-korn-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/chefarchitekt_ostberlins_kirsten_angermann_zum_tod_von_dlf_20260724_1745_4e20cf55.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:55e3117d-daaf-56a9-aaa2-a81cbfad80ee",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "80 Jahre DEFA - Eine neue Ausstellung im Filmmuseum Potsdam",
+    "summary": "Hamdorf, Wolfgang Martin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:40:40.000Z",
+    "url": "https://www.deutschlandfunk.de/80-jahre-defa-eine-neue-ausstellung-im-filmmuseum-potsdam-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/80_jahre_defa_eine_neue_ausstellung_im_filmmuseum_potsdam_dlf_20260724_1740_b01e5359.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7a27d5cd-d7ac-5bf5-a323-7f6eeb184c84",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Ausflüge des Herrn Brouček\" - Youval Sharon inszeniert Janáček in Bregenz",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-24T15:35:40.000Z",
+    "url": "https://www.deutschlandfunk.de/die-ausfluege-des-herrn-brou-ek-youval-sharon-inszeniert-jan-ek-in-bregenz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/die_ausfluege_des_herrn_broucek_youval_sharon_inszeniert_dlf_20260724_1735_d21c4af5.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4a2c7d43-e3d2-5bfa-9c6d-557284fca7a5",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Der Liebling des Pop - Carsten Friedrichs zum Tod von Schauspieler Werner Enke",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-23T13:05:07.000Z",
-    "url": "https://www.deutschlandfunk.de/der-liebling-des-pop-carsten-friedrichs-zum-tod-von-schauspieler-werner-enke-100.html",
+    "title": "Brief an den berühmten Vater - Was Anne dem Comicautoren René Goscinny schreibt",
+    "summary": "Unger, Kolja; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:25:54.000Z",
+    "url": "https://www.deutschlandfunk.de/brief-an-den-beruehmten-vater-was-anne-dem-comicautoren-ren-goscinny-schreibt-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/der_liebling_des_pop_carsten_friedrichs_zum_tod_von_dlf_20260723_1505_92436cc6.mp3?refId=corso-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/brief_an_den_beruehmten_vater_was_anne_dem_comicautoren_rene_dlf_20260724_1525_2a67ef7e.mp3?refId=corso-104",
     "duration": "6 Min",
     "tags": [
       "kultur",
@@ -227,29 +205,52 @@
     "language": "de"
   },
   {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-23-geburtenpolitik-der-staat-im-schlafzimmer-dlf-20260723-1300-dea0a391-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "id": "dlf-corso:89810cbb-5fcb-50a7-a053-ce377ac622aa",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Geburtenpolitik - Der Staat im Schlafzimmer",
-    "summary": "Schon lange versuchen Staaten, auf Geburtenraten Einfluss zu nehmen: mal sollen es mehr, mal weniger Kinder sein. Teils hatten die Maßnahmen schwerwiegende Folgen - wie massenhafte Abtreibungen, Zwangssterilisationen und Morde.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(02:20) Mao Zedong und die erste Volkszählung im modernen China <br>(07:57) Weniger Geburten für mehr Wirtschaftswachstum: Chinas Ein-Kind-Politik <br>(11:56) Folgen der Ein-Kind-Politik: Zwangssterilisationen, Abtreibungen, Männerüberschuss <br>(17:16) 2015: Das Ende der chinesischen Ein-Kind-Politik<br>(23:31) Wann und warum Herrscher angefangen haben, ihre Bevölkerung zu zählen <br>(28:48) Thomas Robert Malthus - Vordenker moderner Bevölkerungspolitik<br>(34:59) Der Biologe Paul Ehrlich und seine \"Bevölkerungsbombe\" <br>(37:40) Das Beispiel Frankreich: erfolgreiche Anreize für mehr Nachwuchs <br>(43:52) Soziologin: \"Können positiv auf die Geburten-Entwicklung schauen\"<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Klaus Mühlhahn</strong> ist Professor für Kultur und Geschichte des modernen China an der Freien Universität Berlin. </li><li><strong>Michaela Kreyenfeld </strong>ist Professorin für Soziologie an der Hertie School in Berlin.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Anh Tran<br>Skript, Regie und Produktion: Sonja Ernst und Carina Schroeder<br>Faktencheck: Johanna Ploog und Kathrin Krautwasser<br>Redaktion: Christian Röther<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/china-mao-geschichte-diktatur-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Mao Zedong </li><li><a href=\"https://www.deutschlandfunk.de/frauenbilder-tradition-tradwives-feminismus-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den Wandel von Frauenbildern </li><li><a href=\"https://www.deutschlandfunk.de/hebammen-geschichte-geburt-beruf-102.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Hebammen </li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li><a href=\"https://www.bpb.de/themen/soziale-lage/demografischer-wandel/\" rel=\"noopener\" target=\"_blank\">Dossier</a> der Bundeszentrale für politische Bildung über den Demografischen Wandel </li><li><a href=\"https://www.bpb.de/shop/zeitschriften/apuz/demografie-2026/577155/mehr-als-zahlen/\" rel=\"noopener\" target=\"_blank\">Artikel</a> unserer Expertin Michaela Kreyenfeld über die politischen Dimensionen demografischer Daten </li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br>\" target=\"_blank\" href=\"https://1.ard.de/IQWissenschaft\" class=\"click-tracking-paragraph\" data-tracking=\"{\"name\":\"Link in Beitrag\",\"chapter1\":\"https://1.ard.de/IQWissenschaft\",\"chapter2\":\"<br>\",\"chapter3\":\"Geburtenpolitik - Der Staat im Schlafzimmer\",\"level2\":1}\"><br></a><a href=\"https://1.ard.de/die_entscheidung_olympia36?cp=drig\" rel=\"noopener\" target=\"_blank\">Die Entscheidung: Mein Opa, die Nazis und Olympia</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-07-23T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/geburtenpolitik-bevoelkerung-staat-schlafzimmer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/1c/5b/ca/af/1c5bcaaf-5ee1-41e9-aa2c-ad4270680796/schulklasse-bevoelkerungspolitik-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/geburtenpolitik_der_staat_im_schlafzimmer_dlf_20260723_1300_dea0a391.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "48 Min",
+    "title": "Anne-Sophie Monrad über Daniel Siad und die Schattenseiten der Modelbranche",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/anne-sophie-monrad-ueber-daniel-siad-und-die-schattenseiten-der-modelbranche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/anne_sophie_monrad_ueber_daniel_siad_und_die_schattenseiten_dlf_20260724_1515_fdfdf096.mp3?refId=corso-104",
+    "duration": "8 Min",
     "tags": [
-      "geschichte",
-      "zeitgeschichte",
+      "kultur",
+      "pop",
+      "kunst",
       "gesellschaft",
-      "politik",
-      "bildung",
       "deutschlandfunk"
     ],
     "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fd50042d-787b-529f-bb6e-036275c4b94f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Musikalische Kehrtwende? Das neue Album \"Music, Fashion, Film\" von Charli XCX",
+    "summary": "Raabe, Mathis; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:10:13.000Z",
+    "url": "https://www.deutschlandfunk.de/musikalische-kehrtwende-das-neue-album-music-fashion-film-von-charli-xcx-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/musikalische_kehrtwende_das_neue_album_music_fashion_film_dlf_20260724_1510_d0661a2c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
     ],
     "language": "de"
   }

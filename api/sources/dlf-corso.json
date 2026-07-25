@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:4a2c7d43-e3d2-5bfa-9c6d-557284fca7a5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Brief an den berühmten Vater - Was Anne dem Comicautoren René Goscinny schreibt",
+    "summary": "Unger, Kolja; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:25:54.000Z",
+    "url": "https://www.deutschlandfunk.de/brief-an-den-beruehmten-vater-was-anne-dem-comicautoren-ren-goscinny-schreibt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/brief_an_den_beruehmten_vater_was_anne_dem_comicautoren_rene_dlf_20260724_1525_2a67ef7e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:89810cbb-5fcb-50a7-a053-ce377ac622aa",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Anne-Sophie Monrad über Daniel Siad und die Schattenseiten der Modelbranche",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/anne-sophie-monrad-ueber-daniel-siad-und-die-schattenseiten-der-modelbranche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/anne_sophie_monrad_ueber_daniel_siad_und_die_schattenseiten_dlf_20260724_1515_fdfdf096.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fd50042d-787b-529f-bb6e-036275c4b94f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Musikalische Kehrtwende? Das neue Album \"Music, Fashion, Film\" von Charli XCX",
+    "summary": "Raabe, Mathis; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:10:13.000Z",
+    "url": "https://www.deutschlandfunk.de/musikalische-kehrtwende-das-neue-album-music-fashion-film-von-charli-xcx-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/musikalische_kehrtwende_das_neue_album_music_fashion_film_dlf_20260724_1510_d0661a2c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:a1803bfb-f71d-5143-9c61-166f59a64a30",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/publikumsverhalten_bei_konzerten_stuttgart_lame_muenchen_fun_dlf_20260721_1515_c5f920a8.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1e4dd9ef-804a-5d57-b0ff-53c1b99592d7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die eigene Stadtplanung - Im Haus der Statistik wird gebaut",
-    "summary": "Schwarz, Marietta www.deutschlandfunk.de, Corso",
-    "date": "2026-07-21T13:10:52.000Z",
-    "url": "https://www.deutschlandfunk.de/die-eigene-stadtplanung-im-haus-der-statistik-wird-gebaut-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/die_eigene_stadtplanung_im_haus_der_statistik_wird_gebaut_dlf_20260721_1510_8efda481.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ea95ac9d-3ccb-5cb2-9e5b-117a67b76897",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Charlie Kirk Memes - Subversiver Bruch mit der Staatstrauer",
-    "summary": "Weingart, Christopher www.deutschlandfunk.de, Corso",
-    "date": "2026-07-21T13:10:49.000Z",
-    "url": "https://www.deutschlandfunk.de/charlie-kirk-memes-subversiver-bruch-mit-der-staatstrauer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/charlie_kirk_memes_subversiver_bruch_mit_der_staatstrauer_dlf_20260721_1510_d1fbc720.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:cc5ede64-037f-54d7-a6ab-7c61eb32c777",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fußball-WM-Halbzeitshow: lahm, überflüssig und gefährlich",
-    "summary": "Siniawski, Adalbert; Guethe, Mia www.deutschlandfunk.de, Corso",
-    "date": "2026-07-20T13:10:47.000Z",
-    "url": "https://www.deutschlandfunk.de/fussball-wm-halbzeitshow-lahm-ueberfluessig-und-gefaehrlich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/fussball_wm_halbzeitshow_lahm_ueberfluessig_und_gefaehrlich_dlf_20260720_1510_5a8a110b.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",
