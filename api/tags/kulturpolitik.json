@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:564bae35-532a-5e4f-8f99-cb8c06c002be",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 26.07.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-26T15:56:55.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/kulturmeldungen_26072026_dlf_20260726_1756_ad407bfd.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:135369ca-ff21-525d-8e52-06e6b698c5f9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Paradigmenwechsel? Zum Hackerangriff der KI von OpenAI. Martin Andree i. Gespräc",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-26T15:49:00.000Z",
+    "url": "https://www.deutschlandfunk.de/paradigmenwechsel-zum-hackerangriff-der-ki-von-openai-martin-andree-i-gespraec-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/paradigmenwechsel_zum_hackerangriff_der_ki_von_openai_martin_dlf_20260726_1749_c93f77d1.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6d1f0dd6-9590-599b-bdc7-f383c18195a5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ulrich Rasche inszeniert Goethes \"Faust 1\" bei Salzburger Festspielen",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-26T15:44:02.000Z",
+    "url": "https://www.deutschlandfunk.de/ulrich-rasche-inszeniert-goethes-faust-1-bei-salzburger-festspielen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/ulrich_rasche_inszeniert_goethes_faust_1_bei_salzburger_dlf_20260726_1744_5c3e113e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1922570e-c3ff-5684-971b-99c05025c083",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Michel Friedmans Eröffnungsrede bei den Bayreuther Festspielen",
+    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-26T15:38:40.000Z",
+    "url": "https://www.deutschlandfunk.de/michel-friedmans-eroeffnungsrede-bei-den-bayreuther-festspielen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/michel_friedmans_eroeffnungsrede_bei_den_bayreuther_dlf_20260726_1738_743cf702.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bd328584-bf1a-5653-b8a2-6364a9fd1f73",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aktivistin Möbius - Politik ignoriert extremistische Gewalt gegen Queer-Community",
+    "summary": "Queer-Aktivistin Luna Möbius beklagt nach dem CSD-Anschlag in Berlin eine mangelnde Aufmerksamkeit der Politik für die vielen Angriffen auf die queere Community. Nun befürchtet sie eine Scheindebatte, die sich an der Herkunft des Attentäters aufhängt. Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-26T15:30:30.000Z",
+    "url": "https://www.deutschlandfunk.de/wir-sollten-keine-angst-haben-queer-aktivistin-luna-moebius-zur-attacke-auf-csd-100.html",
+    "image": "https://bilder.deutschlandfunk.de/b1/7c/88/4c/b17c884c-50fa-475d-8376-471fac32d90c/luna-moebius-csd-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/wir_sollten_keine_angst_haben_queer_aktivistin_luna_moebius_dlf_20260726_1730_923bafba.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:4718676c-a4cd-52eb-81a0-eac90753cc13",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/gemeinsam_singen_claudia_jennings_vom_windsbacher_dlf_20260725_1730_0c1cdafd.mp3?refId=kultur-heute-104",
     "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e9a8a6ad-d438-57f6-bd9f-1be75c9e36b1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 24.07.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-24T15:56:40.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/kulturmeldungen_24072026_dlf_20260724_1756_0a257804.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8e686fdc-353c-5c19-a4f5-21ec037ba1d6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mehr Frauen! Bremer Künstlerinnen auf Papier\" in der Kunsthalle Bremen",
-    "summary": "Schneider, Anette www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-24T15:51:45.000Z",
-    "url": "https://www.deutschlandfunk.de/mehr-frauen-bremer-kuenstlerinnen-auf-papier-in-der-kunsthalle-bremen-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/mehr_frauen_bremer_kuenstlerinnen_auf_papier_in_der_dlf_20260724_1751_b923b1ac.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e5f78cbf-76ef-5ef9-bfd0-90061ad57290",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Chefarchitekt Ostberlins - Kirsten Angermann zum Tod von Roland Korn",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-24T15:45:31.000Z",
-    "url": "https://www.deutschlandfunk.de/chefarchitekt-ostberlins-kirsten-angermann-zum-tod-von-roland-korn-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/chefarchitekt_ostberlins_kirsten_angermann_zum_tod_von_dlf_20260724_1745_4e20cf55.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:55e3117d-daaf-56a9-aaa2-a81cbfad80ee",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "80 Jahre DEFA - Eine neue Ausstellung im Filmmuseum Potsdam",
-    "summary": "Hamdorf, Wolfgang Martin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-24T15:40:40.000Z",
-    "url": "https://www.deutschlandfunk.de/80-jahre-defa-eine-neue-ausstellung-im-filmmuseum-potsdam-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/80_jahre_defa_eine_neue_ausstellung_im_filmmuseum_potsdam_dlf_20260724_1740_b01e5359.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7a27d5cd-d7ac-5bf5-a323-7f6eeb184c84",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Ausflüge des Herrn Brouček\" - Youval Sharon inszeniert Janáček in Bregenz",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-24T15:35:40.000Z",
-    "url": "https://www.deutschlandfunk.de/die-ausfluege-des-herrn-brou-ek-youval-sharon-inszeniert-jan-ek-in-bregenz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/die_ausfluege_des_herrn_broucek_youval_sharon_inszeniert_dlf_20260724_1735_d21c4af5.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

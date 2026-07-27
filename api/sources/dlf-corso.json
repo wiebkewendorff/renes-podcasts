@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:db5a04f5-eae5-54c7-b96e-ab71d9b0e8fc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kai Müller, Psychologe, über Scrollen, Spielen, Sucht",
+    "summary": "Herbstreuth. Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-27T13:15:07.000Z",
+    "url": "https://www.deutschlandfunk.de/kai-mueller-psychologe-ueber-scrollen-spielen-sucht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/kai_mueller_psychologe_ueber_scrollen_spielen_sucht_dlf_20260727_1515_3f93afc8.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:6e03c0eb-000d-5a8c-8e99-0805888457be",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Manuel Opitz von Hamburg Pride über den CSD und seine politische Kraft",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-27T13:07:00.000Z",
+    "url": "https://www.deutschlandfunk.de/manuel-opitz-von-hamburg-pride-ueber-den-csd-und-seine-politische-kraft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/manuel_opitz_von_hamburg_pride_ueber_den_csd_und_seine_dlf_20260727_1507_3687472a.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:6174f5cc-93d6-520a-bb2e-f516e640d090",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -185,56 +235,6 @@
     "url": "https://www.deutschlandfunk.de/neue-serie-das-big-bang-theory-spinoff-stuart-fails-to-save-the-universe-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/neue_serie_das_big_bang_theory_spinoff_stuart_fails_to_save_dlf_20260723_1515_ee474f78.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:73995585-8c8f-51e2-be03-adb869bd2e72",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Liebling des Pop - Carsten Friedrichs zum Tod von Schauspieler Werner Enke",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-23T13:05:07.000Z",
-    "url": "https://www.deutschlandfunk.de/der-liebling-des-pop-carsten-friedrichs-zum-tod-von-schauspieler-werner-enke-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/der_liebling_des_pop_carsten_friedrichs_zum_tod_von_dlf_20260723_1505_92436cc6.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:974a6c98-0d40-5085-8518-97446c3ac1fe",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Dreams: Gefährliches Verlangen\", \"H wie Habicht\", \"Toy Story 5\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-07-22T13:20:33.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-dreams-gefaehrliches-verlangen-h-wie-habicht-toy-story-5-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/22/neue_filme_dreams_gefaehrliches_verlangen_h_wie_habicht_toy_dlf_20260722_1520_f661117c.mp3?refId=corso-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
