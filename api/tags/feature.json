@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2025-09-16-sesamstrasse-im-krieg-donald-trump-hat-angst-vor-elmo-mit-dlf-20250916-1915-ee8945d5-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sesamstraße im Krieg - Donald Trump hat Angst vor Elmo",
+    "summary": "Von den Taliban über Putin bis zu Trump: Die Sesamstraße steht plötzlich im Mittelpunkt der Weltgeschichte. Warum eine Kindershow, die Kindern elementare Bildung vermittelt, Erwachsene wie den amerikanischen Präsidenten ärgert. Von Alexander Bühler www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-07-28T08:55:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/sesamstrasse-im-krieg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/72/9d/d5/ce/729dd5ce-2068-48c0-b4e2-f6e6fa695f9a/bild-collage-fuer-feature-donald-trump-hat-angst-vor-elmo-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2025/09/16/sesamstrasse_im_krieg_donald_trump_hat_angst_vor_elmo_mit_dlf_20250916_1915_ee8945d5.mp3?refId=das-feature-104",
+    "duration": "44 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-24-wir-sind-piraten-ein-professor-und-seine-studierenden-dlf-20260724-2005-622902f7-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -26,7 +52,7 @@
     "language": "de"
   },
   {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-18-ein-rennen-gegen-die-zeit-drk-20260718-1805-ac319130-mp3-refid-das-feature-104",
+    "id": "dlf-das-feature:f7c7b028-83be-529e-9de6-34000cbde554",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
     "type": "rss",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/17/91/34/b3/179134b3-a093-43d2-8eea-bb24d98cc5bd/bild-fuer-feature-und-irgendwann-zuckte-noch-ein-ohr-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/02/und_irgendwann_zuckte_noch_ein_ohr_vom_hin_und_wegschauen_im_dlf_20260602_1915_8650de7b.mp3?refId=das-feature-104",
     "duration": "52 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-05-29-ironwoman-mit-62-schwimmen-radfahren-laufen-leiden-dlf-20260529-2005-76eac3fa-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ironwoman mit 62 - Schwimmen, Radfahren, Laufen, Leiden",
-    "summary": "Ihr Mann nennt sie „die Maschine“: Die 62-jährige Anke Korn trainiert für den Ironman, einen der härtesten Triathlons der Welt. Bis zu 20 Stunden pro Woche, trotz Vollzeitjob. Was treibt sie an – und wie lange kann sie noch so weitermachen? Von Jessica Braun www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-05-29T18:05:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/ironwoman-mit-62-100.html",
-    "image": "https://bilder.deutschlandfunk.de/9e/40/94/56/9e409456-ab6d-4c87-a59c-1e8c7a4b314b/bild-fuer-ironwoman-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/29/ironwoman_mit_62_schwimmen_radfahren_laufen_leiden_dlf_20260529_2005_76eac3fa.mp3?refId=das-feature-104",
-    "duration": "55 Min",
     "tags": [
       "feature",
       "dokumentation",

@@ -1,66 +1,68 @@
 [
   {
-    "id": "dlf-corso:db5a04f5-eae5-54c7-b96e-ab71d9b0e8fc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2025-09-16-sesamstrasse-im-krieg-donald-trump-hat-angst-vor-elmo-mit-dlf-20250916-1915-ee8945d5-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
     "type": "rss",
-    "title": "Kai Müller, Psychologe, über Scrollen, Spielen, Sucht",
-    "summary": "Herbstreuth. Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-27T13:15:07.000Z",
-    "url": "https://www.deutschlandfunk.de/kai-mueller-psychologe-ueber-scrollen-spielen-sucht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/kai_mueller_psychologe_ueber_scrollen_spielen_sucht_dlf_20260727_1515_3f93afc8.mp3?refId=corso-104",
-    "duration": "5 Min",
+    "title": "Sesamstraße im Krieg - Donald Trump hat Angst vor Elmo",
+    "summary": "Von den Taliban über Putin bis zu Trump: Die Sesamstraße steht plötzlich im Mittelpunkt der Weltgeschichte. Warum eine Kindershow, die Kindern elementare Bildung vermittelt, Erwachsene wie den amerikanischen Präsidenten ärgert. Von Alexander Bühler www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-07-28T08:55:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/sesamstrasse-im-krieg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/72/9d/d5/ce/729dd5ce-2068-48c0-b4e2-f6e6fa695f9a/bild-collage-fuer-feature-donald-trump-hat-angst-vor-elmo-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2025/09/16/sesamstrasse_im_krieg_donald_trump_hat_angst_vor_elmo_mit_dlf_20250916_1915_ee8945d5.mp3?refId=das-feature-104",
+    "duration": "44 Min",
     "tags": [
-      "kultur",
-      "pop",
-      "kunst",
+      "feature",
+      "dokumentation",
       "gesellschaft",
+      "kultur",
       "deutschlandfunk"
     ],
     "category": [
+      "Gesellschaft",
       "Kultur",
-      "Gesellschaft"
+      "Feature"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-corso:6e03c0eb-000d-5a8c-8e99-0805888457be",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
+    "id": "10-minuten-wissen-kunst:6a68227235a551238aac4ae7",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
     "type": "rss",
-    "title": "Manuel Opitz von Hamburg Pride über den CSD und seine politische Kraft",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-27T13:07:00.000Z",
-    "url": "https://www.deutschlandfunk.de/manuel-opitz-von-hamburg-pride-ueber-den-csd-und-seine-politische-kraft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/manuel_opitz_von_hamburg_pride_ueber_den_csd_und_seine_dlf_20260727_1507_3687472a.mp3?refId=corso-104",
-    "duration": "8 Min",
+    "title": "Piet Mondrian – Komposition mit Rot, Blau und Gelb: Die Ordnung der reinen Harmonie",
+    "summary": "<p>Ein paar schwarze Linien, drei Primärfarben und ganz viel leuchtendes Weiß: Auf den ersten Blick wirkt Piet Mondrians berühmtes Meisterwerk überraschend schlicht – fast wie ein kühles, technisches Raster. Doch hinter dem kompakten Format verbirgt sich keineswegs ein Zufall, sondern die unermüdliche Suche nach einer tiefen, unsichtbaren Ordnung hinter unserer Welt. Wie aus idyllischen niederländischen Bäumen und Windmühlen ein völlig neues Verständnis von Kunst erwuchs, welche Rolle ein Pariser Neuanfang spielte und wie viel lebendige Handarbeit tatsächlich in diesen scheinbar starren Flächen steckt – all das erfährst du in dieser Folge.</p><br><p>Weiterführende Links</p><p><strong>Das Werk in hoher Auflösung:</strong> <a href=\"https://artsandculture.google.com/asset/komposition-mit-rot-blau-und-gelb-piet-mondrian/5QG2Fm_LGUWAHA?hl=de\" rel=\"noopener\" target=\"_blank\">Google Arts & Culture – Komposition mit Rot, Blau und Gelb</a></p><p><strong>Wikipedia-Eintrag zum Künstler:</strong> <a href=\"https://de.wikipedia.org/wiki/Piet_Mondrian\" rel=\"noopener\" target=\"_blank\">Wikipedia – Piet Mondrian</a></p><p><strong>Wikipedia-Eintrag zum Meisterwerk:</strong> <a href=\"https://en.wikipedia.org/wiki/Composition_with_Red,_Blue_and_Yellow\" rel=\"noopener\" target=\"_blank\">Wikipedia (engl.) – Composition with Red, Blue and Yellow</a></p><p><strong>Wikipedia-Eintrag zur Kunstbewegung:</strong> <a href=\"https://de.wikipedia.org/wiki/De_Stijl\" rel=\"noopener\" target=\"_blank\">Wikipedia – De Stijl</a></p><p><strong>Das Spätwerk im MoMA New York:</strong> <a href=\"https://www.moma.org/collection/works/78682\" rel=\"noopener\" target=\"_blank\">MoMA – Broadway Boogie Woogie</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-07-28T05:28:44.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/piet-mondrian-komposition-mit-rot-blau-und-gelb-das-unschein",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a68227235a551238aac4ae7/media.mp3",
+    "duration": "21 Min",
     "tags": [
-      "kultur",
-      "pop",
       "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Kunst",
+      "Geschichte",
+      "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "zeitzeichen:0d2265e44c23f2599598e83c6b83ea77",
+    "id": "zeitzeichen:6571e0301d30e141d019623a49808774",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Autorin mit Privatmuseum: Das bunte Leben von Gertrude Stein",
-    "summary": "<p>Die Schriftstellerin Gertrude Stein (gestorben am 27.7.1946) wird heute immer wieder auf einen Satz reduziert. Dabei hat ihre Geschichte so viel mehr zu bieten.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christian Kosfeld:</strong><br><ul><li>unter welchen Umständen Gertrude Stein in der US-Provinz aufwächst,</li><li>was ihr berühmter Satz \"Rose ist eine Rose, ist eine Rose, ist eine Rose\" bedeutet,</li><li>wie sie Künstler wie Picasso und Hemingway beeinflusst,</li><li>auf welche Weise sie den Zweiten Weltkrieg überlebt,</li><li>wie sie ein freies Leben führt und dennoch politisch widersprüchlich bleibt.</li></ul><br>Gertrude Stein schreibt unermüdlich, sammelt Kunst und wird zur zentralen Figur der Pariser Szene. In ihrer Wohnung treffen sich Maler, Schriftsteller und Musiker. Hier entsteht ein Netzwerk, das die Moderne entscheidend prägt.<br><br>Ihre Texte brechen mit Konventionen: Wiederholungen, Alltagssprache und ungewohnte Bilder formen einen Stil, der viele fasziniert und ebenso viele überfordert. Während ihre experimentellen Werke lange als schwer zugänglich gelten, wird sie mit einer Autobiografie plötzlich international bekannt und zur literarischen Berühmtheit.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Ulla Haselstein (Professorin für Amerikanistik an der Freien Universität Berlin)</li><li>Ulla Haselstein: Gertrude Steins literarische Porträts. Göttingen 2019</li><li>Alice B. Toklas: Gertrude Stein - Autobiographie. Berlin 2021</li><li>Stefana Sabin: Gertrude Stein. Hamburg 1996</li><li>Uda Strätling (Hrsg.): Gertrude Stein - Das große Lesebuch. Frankfurt am Main 2017</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>ARD Hörspiel-Speicher: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:7479546e988feb7b/\" rel=\"noopener\" target=\"_blank\">Vier Heilige als Spanische Landschaft - Nach Gertrude Stein</a></li><li>The Metropolitan Museum: <a href=\"https://www.metmuseum.org/de/art/collection/search/488221\" rel=\"noopener\" target=\"_blank\">Pablo Picassos Bild von Gertrude Stein</a></li></ul><br><strong>Hörtipp:</strong><br>Podcast von Bayern 2: <a href=\"https://1.ard.de/buchgefuehl-lesung-und-gespraech\" rel=\"noopener\" target=\"_blank\">Buchgefühl - Lesung und Gespräch</a> <br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christian Kosfeld<br>Redaktion: Jakob Schiffer und Sefa Inci Suvak",
-    "date": "2026-07-27T04:00:57.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-autorin-mit-privatmuseum-das-bunte-leben-von-gertrude-stein-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-gertrude-stein-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/15/ecb395a4-1440-40e4-9462-ae8a7b0e32ec/ecb395a4-1440-40e4-9462-ae8a7b0e32ec_MP3-128.mp3",
-    "duration": "16 Min",
+    "title": "Der \"Nasenjoseph\": Ein Berliner Arzt und die Schönheitschirurgie",
+    "summary": "<p>1896 führt der Berliner Arzt Jacques Joseph eine der ersten Schönheits-OPs durch. Er mindert Leid - und zementiert das, was wir heute \"Normschönheit\" nennen.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Erik Hlacer:</strong><br><ul><li>wer besonders von den ersten Schönheits-OPs profitiert,</li><li>von Schönheitsidealen und gesellschaftlichen Normen,</li><li>warum Joseph eine Professur für plastische Chirurgie an der Berliner Charité ablehnt,</li><li>dass auch er von der aufkommenden nationalsozialistischen Verfolgung betroffen ist.</li></ul><br>Im frühen 20. Jahrhundert werden chirurgische Eingriffe von der Medizinwelt verteufelt. Doch ein Mann verändert dieses Denken für immer: der Berliner Schönheitschirurg Jacques Joseph, genannt Nasenjoseph. Als Auszubildender operiert er 1896 die abstehenden Ohren eines Jungen - aus \"Schönheitsgründen\". Obwohl das Ergebnis begeistert, wird er von seinem Chef wegen des unnötigen Eingriffs ohne Rücksprache entlassen.<br><br>Es ist der Startschuss für Josephs eigene Karriere. Er eröffnet eine Praxis und entwickelt Operationsmethoden, vor allem für die Modellierung und Verkleinerung der Nase. Damit befreit er seine Patienten von psychischem Leid, bekräftigt jedoch gleichzeitig die Normen, die dieses Leid überhaupt erst erzeugt haben.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Paula Villa-Brazlavsky, Soziologin</li><li>Ronald Gerste, Medizinhistoriker</li><li>Hans Behrbohm/Walter Briedigkeit: Jacques Joseph - Ein Pionier der plastischen Gesichtschirurgie. Berlin 2006</li><li>Fluter: <a href=\"https://www.fluter.de/jacques-joseph-plastische-chirurgie\" rel=\"noopener\" target=\"_blank\">Operation Seele. Wie der deutsche Chirurg Jacques Joseph die moderne Schönheitschirurgie erfunden hat </a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-gerhard-kuentscher-100.html\" rel=\"noopener\" target=\"_blank\">17. Dezember 1972 - Der deutsche Chirurg Gerhard Küntscher stirbt in Glücksburg</a></li><li><a href=\"https://www.ardmediathek.de/video/ausgerechnet/ausgerechnet-schoenheits-op/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNzYwYjg2NmEtZGQ5ZC00NjgwLTllNmEtMWU2YzhiNWQ2MDE4\" rel=\"noopener\" target=\"_blank\">Ausgerechnet - Schönheits-OP</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Erik Hlacer<br>Redaktion: Emily Jeuckens und David Rother",
+    "date": "2026-07-28T04:00:44.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-nasenjoseph-ein-berliner-arzt-und-die-schoenheitschirurgie-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-jacques-joseph-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/17/300ea928-1d29-496a-a883-6a23dd975e1c/300ea928-1d29-496a-a883-6a23dd975e1c_MP3-128.mp3",
+    "duration": "15 Min",
     "tags": [
       "geschichte",
       "bildung",
@@ -73,53 +75,50 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-00039122461974072653",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4000685",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Musikerin Ina Bredehorn auf dem Roten Sofa",
-    "summary": "Ihren großen Durchbruch, das erzählte Ina Bredehorn einmal augenzwinkernd in einem Interview, habe sie mit dem Song \"Wann kommst Du, Weihnachtsmann\" von Rolf Zuckowski gehabt. Das war in der Grundschule, führte aber über den einen kleinen Umweg schließlich auf etwas prominentere Musikbühnen, wie zum Beispiel der auf dem \"Wacken Open Air\" im vergangenen Jahr. Als \"Deine Cousine\" hat sich die 40-jährige Musikerin mit ihren Auftritten mittlerweile so viel Respekt errockt, dass sie 2026 in die illustre Runde der \"Sing meinen Song\"-Shows auf \"VOX\" geholt wurde.",
-    "date": "2026-07-26T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/musikerin-ina-bredehorn-auf-dem-roten-sofa,audio-3381470.html",
-    "image": "https://images.ndr.de/image/7689bc94-7209-4409-b0e8-c4876764b874/AAABn59lb3Q/AAABnSStX0g/1x1-big/screenshot-202044.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0727/AU-20260727-1045-4300.mp3",
-    "duration": "40 Min",
+    "title": "Ist die Ostsee am Limit?",
+    "summary": "Medien zeichnen dramatisches Bild\n\n„Giftige PFAS in Meeresschaum“ <em>(NDR)</em>, „Das Meer ist zur Jauchegrube verkommen“ <em>(Spiegel)</em> oder auch „der stille Kollaps der Ostsee“ <em>(Welt)</em>: Wenn Medien in den vergangenen Jahren über die Ostsee berichteten, dann zeichneten sie ein dramatisches Bild vom Zustand des Binnenmeers. Aber wie steht es wirklich um die Ostsee? Und welchen Anteil haben wir Menschen daran? Michael Naumann forscht am Leibniz-Institut für Ostseeforschung Warnemünde zu ihrem Zustand. Er sagt, die Ostsee sei zwar stark belastet, aber zu Überdramatisierungen neige er nicht. Vielmehr finde man alle Probleme, mit denen auch andere Weltmeere kämpfen. Beim Thema Sauerstoffmangel in der Tiefsee sei die Ostsee allerdings tatsächlich ein Vorzeigebeispiel im negativen Sinne.\n\nEutrophierung — ein Treiber für Sauerstoffmangel\nEin Drittel des Wasservolumens sei inzwischen von Sauerstoffmangel betroffen. Ein Grund dafür ist die Eutrophierung, also der übermäßige Nährstoffeintrag ins Wasser. In die Ostsee münden zahlreiche Flüsse, die überschüssige Düngemittel aus der Landwirtschaft ins Meerwasser spülen. Diese Nährstoffe kurbeln dann das Planktonwachstum an. Wenn das Plankton nach dem Sommer turnusmäßig abstirbt, rieselt es in Richtung Meeresboden. Gelangt dann frischer Sauerstoff in die Tiefen, wird dieser unmittelbar aufgebraucht.\n\nDie Klimakrise verstärkt den Effekt zusätzlich, weil das Wasser dadurch weniger Sauerstoff aufnehmen kann. Mit welchen anderen Problemen die Ostsee im Moment zu kämpfen hat, darüber sprechen <em>detektor.fm</em>-Redakteurin Marisa Becker und Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“.",
+    "date": "2026-07-28T03:30:10.000Z",
+    "url": "https://feedpress.me/link/19604/17389412/mission-energiewende-ist-die-ostsee-am-limit",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260728missionenergiewendeostseeamlimit.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260728missionenergiewendeostseeamlimit.63.mp3",
+    "duration": "23 Min",
     "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
     ],
     "category": [
-      "Musik",
-      "Geschichte"
+      "Wissenschaft",
+      "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:564bae35-532a-5e4f-8f99-cb8c06c002be",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4019344",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Kulturmeldungen 26.07.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-26T15:56:55.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/kulturmeldungen_26072026_dlf_20260726_1756_ad407bfd.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
+    "title": "Christoph Schlingensief — Ein Künstler in Bewegung",
+    "summary": "<p>Eigentlich ist im Titel schon alles gesagt: Im Herbst zeigt der Gropius Bau Berlin die Ausstellung „Es ist nicht mehr mein Problem, macht eure Scheiße alleine“ im Rahmen der Berliner Festspiele. Derzeit kann man auch im Museum für angewandte Kunst in Wien Werke des 2010 verstorbenen Künstlers sehen. Schlingensief war in seinem Schaffen direkt, oft auch schonungslos, vor allem mit sich selbst, erinnert sich<strong> Elke Buhr</strong>, Chefredakteurin des <em>Monopol</em>-Magazins.</p>\n<p>Ursprünglich kam er aus dem Film und wurde hier in den 1990er Jahren vor allem durch seine Deutschlandtrilogie bekannt, eine Reihe blutiger Avantgard-Horrorfilme. Immer wieder sprengte er die Genregrenzen, inszenierte am Theater, machte bildende Kunst, veranstaltete Happenings und produzierte Filme. Wie zum Beispiel bei dem Projekt „Kaprow City“, inspiriert durch den US-amerikanischen Performance-Künstler Allan Kaprow. Schlingensief entwickelte hier 2006 eine begehbare Drehbühne, die er Animatograf nannte.</p>\nProvokation weniger der Provokation wegen\n<p>Mit seiner Kunst hat er aber auch auf die politischen Ereignisse seiner Zeit reagiert. Wie beispielsweise 2000, als ihn die Wiener Festwochen einluden. Vor dem Hintergrund einer damals erstmaligen möglichen Regierungszusammenarbeit der FPÖ unter Jörg Haider, inszenierte Schlingensief eine Art Asylbewerber-Big Brother, bei der das Publikum Asylbewerber abschieben konnte, also — wie in der Reality Show — hinauswählen konnte. Die Reaktionen waren gespalten. „Schlingensief war ein Provokateur, aber nicht weil er provozieren wollte, sondern weil ihm die Sachen wichtig waren“, erzählt Elke Buhr. Unerschrocken stellte er sich den Themen seiner Zeit und versuchte sein Gegenüber und sich selbst ins Handeln zu bewegen.</p>\n<p>Themen, die auch nach seinem Tod nachhallen. Noch zu Lebzeiten entwickelte er die Idee für das Operndorf Afrika, das seit 2010 in Burkina Faso entsteht. Es ist zu einem Ort des gegenseitigen Lernens gewachsen. Aino Laberenz, Schlingensiefs Witwe, verwaltet seinen Nachlass und führt das Operndorf weiter.</p>\n<p>In dieser Folge von „Kunst und Leben“, dem Podcast in Kooperation mit dem <em>Monopol</em>-Magazin, spricht <em>detektor.fm</em>-Moderatorin Sara-Marie Plekat mit <strong>Elke Buhr</strong> über den Künstler Christoph Schlingensief. Zu Gast ist außerdem <strong>Aino Laberenz</strong>. Die Bühnen- und Kostümbildnerin hat lange mit ihm zusammengearbeitet und als seine Witwe verwaltet sie auch seinen Nachlass.</p>",
+    "date": "2026-07-28T03:12:31.000Z",
+    "url": "https://feedpress.me/link/19604/17389413/monopol-podcast-christoph-schlingensief",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/280726monopol-podcastschlingensiefinterview-aino-laberenz.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/280726monopol-podcastschlingensiefinterview-aino-laberenz.63.mp3",
+    "duration": "40 Min",
     "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Wissenschaft",
+      "Bildung"
     ],
     "language": "de"
   }
