@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:0cd64f63-c540-57ab-8b20-dcd14e33c2ef",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 28.07.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-28T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-28-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/kulturmeldungen_28072026_dlf_20260728_1757_188e1380.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5e8ca379-5ee9-520f-a592-9f0ef3529cf2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Schnee von gestern, Schnee von morgen\" - Handke-Uraufführung in Salzburg",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-28T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/schnee-von-gestern-schnee-von-morgen-handke-urauffuehrung-in-salzburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/schnee_von_gestern_schnee_von_morgen_handke_urauffuehrung_in_dlf_20260728_1752_dd8c4831.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:dd6ba0bd-7601-5736-9a4d-8920b7212f5e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam oder einsam? Claire Demesmay über deutsch-französische Beziehungen",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-28T15:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-claire-demesmay-ueber-deutsch-franzoesische-beziehungen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/gemeinsam_oder_einsam_claire_demesmay_ueber_deutsch_dlf_20260728_1742_8b8abac8.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:684528e4-cee2-5d81-998c-e60b2ee519bf",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zentralgestirn der \"Black Art\"-Bewegung - Zum Tod der Künstlerin Betye Saar",
+    "summary": "Dichter, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-28T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zentralgestirn-der-black-art-bewegung-zum-tod-der-kuenstlerin-betye-saar-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/zentralgestirn_der_black_art_bewegung_zum_tod_der_dlf_20260728_1736_3788e41f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:2080f753-27bc-55c7-9479-5db683d44587",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Verspielte Realitätsflucht - Warum ist jetzt alles \"whimsy\"?",
+    "summary": "Gnan, Mona www.deutschlandfunk.de, Corso",
+    "date": "2026-07-28T13:25:42.000Z",
+    "url": "https://www.deutschlandfunk.de/verspielte-realitaetsflucht-warum-ist-jetzt-alles-whimsy-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/verspielte_realitaetsflucht_warum_ist_jetzt_alles_whimsy_dlf_20260728_1525_b1fb561a.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:885be7bd-b974-5bd0-bd31-9d5577200693",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das eigene Museum - Ratinger Hof, der Kreißsaal des Deutsch-Punks",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-07-28T13:15:28.000Z",
+    "url": "https://www.deutschlandfunk.de/das-eigene-museum-ratinger-hof-der-kreisssaal-des-deutsch-punks-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/das_eigene_museum_ratinger_hof_der_kreisssaal_des_deutsch_dlf_20260728_1515_b2fa52d7.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:be966d54-044f-5e8e-a4ca-f8d3d2953deb",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wacken Open Air 26 - Wo steht der Nachwuchs bei Heavy Metal?",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-07-28T13:08:05.000Z",
+    "url": "https://www.deutschlandfunk.de/wacken-open-air-26-wo-steht-der-nachwuchs-bei-heavy-metal-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/wacken_open_air_26_wo_steht_der_nachwuchs_bei_heavy_metal_dlf_20260728_1508_76b3f38d.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "10-minuten-wissen-kunst:6a68227235a551238aac4ae7",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -232,110 +411,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:135369ca-ff21-525d-8e52-06e6b698c5f9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Paradigmenwechsel? Zum Hackerangriff der KI von OpenAI. Martin Andree i. Gespräc",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-26T15:49:00.000Z",
-    "url": "https://www.deutschlandfunk.de/paradigmenwechsel-zum-hackerangriff-der-ki-von-openai-martin-andree-i-gespraec-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/paradigmenwechsel_zum_hackerangriff_der_ki_von_openai_martin_dlf_20260726_1749_c93f77d1.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6d1f0dd6-9590-599b-bdc7-f383c18195a5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ulrich Rasche inszeniert Goethes \"Faust 1\" bei Salzburger Festspielen",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-26T15:44:02.000Z",
-    "url": "https://www.deutschlandfunk.de/ulrich-rasche-inszeniert-goethes-faust-1-bei-salzburger-festspielen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/ulrich_rasche_inszeniert_goethes_faust_1_bei_salzburger_dlf_20260726_1744_5c3e113e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1922570e-c3ff-5684-971b-99c05025c083",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Michel Friedmans Eröffnungsrede bei den Bayreuther Festspielen",
-    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-26T15:38:40.000Z",
-    "url": "https://www.deutschlandfunk.de/michel-friedmans-eroeffnungsrede-bei-den-bayreuther-festspielen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/michel_friedmans_eroeffnungsrede_bei_den_bayreuther_dlf_20260726_1738_743cf702.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bd328584-bf1a-5653-b8a2-6364a9fd1f73",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aktivistin Möbius - Politik ignoriert extremistische Gewalt gegen Queer-Community",
-    "summary": "Queer-Aktivistin Luna Möbius beklagt nach dem CSD-Anschlag in Berlin eine mangelnde Aufmerksamkeit der Politik für die vielen Angriffen auf die queere Community. Nun befürchtet sie eine Scheindebatte, die sich an der Herkunft des Attentäters aufhängt. Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-26T15:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/wir-sollten-keine-angst-haben-queer-aktivistin-luna-moebius-zur-attacke-auf-csd-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b1/7c/88/4c/b17c884c-50fa-475d-8376-471fac32d90c/luna-moebius-csd-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/wir_sollten_keine_angst_haben_queer_aktivistin_luna_moebius_dlf_20260726_1730_923bafba.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:6174f5cc-93d6-520a-bb2e-f516e640d090",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -461,81 +536,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:fd50042d-787b-529f-bb6e-036275c4b94f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Musikalische Kehrtwende? Das neue Album \"Music, Fashion, Film\" von Charli XCX",
-    "summary": "Raabe, Mathis; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-24T13:10:13.000Z",
-    "url": "https://www.deutschlandfunk.de/musikalische-kehrtwende-das-neue-album-music-fashion-film-von-charli-xcx-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/musikalische_kehrtwende_das_neue_album_music_fashion_film_dlf_20260724_1510_d0661a2c.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a1803bfb-f71d-5143-9c61-166f59a64a30",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Chéri, ich komme!\" - Das echte Erfinderpaar hinter dem Womanizer im Gespräch",
-    "summary": "Plodroch, Ina; Lenke, Michael; Lenke, Brigitte www.deutschlandfunk.de, Corso",
-    "date": "2026-07-23T13:20:45.000Z",
-    "url": "https://www.deutschlandfunk.de/ch-ri-ich-komme-das-echte-erfinderpaar-hinter-dem-womanizer-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/cheri_ich_komme_das_echte_erfinderpaar_hinter_dem_womanizer_dlf_20260723_1520_a14965ce.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:71442f1e-2028-520e-8a58-019e5c346e84",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Serie - Das \"Big Bang Theory\"-Spinoff \"Stuart Fails To Save The Universe\"",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-23T13:15:35.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-serie-das-big-bang-theory-spinoff-stuart-fails-to-save-the-universe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/neue_serie_das_big_bang_theory_spinoff_stuart_fails_to_save_dlf_20260723_1515_ee474f78.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6a5ed2f546407ff54edb99e9",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -567,7 +567,7 @@
     "sourceTitle": "30 Minuten Kunst",
     "type": "rss",
     "title": "Die 434: Das Geheimnis der verlorenen Bilder",
-    "summary": "Ein Bilderschatz wird wieder sichtbar\n<p>Wie können Kunstwerke verschwinden, und was bleibt von ihnen zurück? Diese Folge erzählt die Geschichte der verlorenen Meisterwerke der Berliner Gemäldegalerie. Über 400 Meisterwerke der Kunstgeschichte werden seit Kriegsende 1945 vermisst. Jetzt hat ein Team der Gemäldergalerie sie wieder sichtbar gemacht. Rund 430 historische Glasnegative wurden digitalisiert und in einer Online-Galerie für die Weltöffentlichkeit präsentiert. Was mit den Bildern geschah, wie es gelang, fragile Glasnegative zu scannen warum das heute wichtig ist, erklären mir die Projektleiterin Dr. Katja Kleinert und die Provenienzforscherin Franziska May.</p>\n<p>Das Projekt bei Google Arts: <a href=\"https://artsandculture.google.com/story/oQWhutX6JtY75w?hl=de\" rel=\"noopener\" target=\"_blank\">https://artsandculture.google.com/story/oQWhutX6JtY75w?hl=de</a></p>\n<p>Repro-Credits: Staatliche Museen Berlin",
+    "summary": "Ein Bilderschatz wird wieder sichtbar\n<p>Wie können Kunstwerke verschwinden, und was bleibt von ihnen zurück? Diese Folge erzählt die Geschichte der verlorenen Meisterwerke der Berliner Gemäldegalerie. Über 400 Meisterwerke der Kunstgeschichte werden seit Kriegsende 1945 vermisst. Jetzt hat ein Team der Gemäldergalerie sie wieder sichtbar gemacht. Rund 430 historische Glasnegative wurden digitalisiert und in einer Online-Galerie für die Weltöffentlichkeit präsentiert. Was mit den Bildern geschah, wie es gelang, fragile Glasnegative zu scannen warum das heute wichtig ist, erklären mir die Projektleiterin Dr. Katja Kleinert und die Provenienzforscherin Franziska May.</p>\n<p>Das Projekt bei Google Arts: <a href=\"https://artsandculture.google.com/story/oQWhutX6JtY75w?hl=de\" rel=\"noopener\" target=\"_blank\">https://artsandculture.google.com/story/oQWhutX6JtY75w?hl=de</a></p>\n<p><strong>In diesem Podcast steckt jede Menge Herzblut. Deshalb meine Bitte: Unterstützen Sie mich und den Podcast.\n</strong>\nBitte fördern Sie uns hier:\n<a href=\"https://steadyhq.com/de/30-minuten-kunst/about\" rel=\"noopener\" target=\"_blank\">https://steadyhq.com/de/30-minuten-kunst/about</a></p>\n<p>Oder überweisen Sie einen Betrag Ihrer Wahl auf das Konto:\nDE15 1203 0000 1082 0466 97\nIBAN: BYLADEM1001</p>\n<p>Repro-Credits: Staatliche Museen Berlin",
     "date": "2026-07-16T07:00:00.000Z",
     "url": "https://30-minuten-kunst.podigee.io/130-neue-episode",
     "image": "https://images.podigee-cdn.net/0x,sZKLrg1YUXnS4eVHHbKO63BiEVHdgPHWupEl6rVFyxHI=/https://main.podigee-cdn.net/uploads/u26284/36bb8a7d-08b4-4ddf-bad5-228202d9cf7b.jpeg",

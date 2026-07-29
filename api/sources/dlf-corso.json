@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:2080f753-27bc-55c7-9479-5db683d44587",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Verspielte Realitätsflucht - Warum ist jetzt alles \"whimsy\"?",
+    "summary": "Gnan, Mona www.deutschlandfunk.de, Corso",
+    "date": "2026-07-28T13:25:42.000Z",
+    "url": "https://www.deutschlandfunk.de/verspielte-realitaetsflucht-warum-ist-jetzt-alles-whimsy-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/verspielte_realitaetsflucht_warum_ist_jetzt_alles_whimsy_dlf_20260728_1525_b1fb561a.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:885be7bd-b974-5bd0-bd31-9d5577200693",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das eigene Museum - Ratinger Hof, der Kreißsaal des Deutsch-Punks",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-07-28T13:15:28.000Z",
+    "url": "https://www.deutschlandfunk.de/das-eigene-museum-ratinger-hof-der-kreisssaal-des-deutsch-punks-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/das_eigene_museum_ratinger_hof_der_kreisssaal_des_deutsch_dlf_20260728_1515_b2fa52d7.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:be966d54-044f-5e8e-a4ca-f8d3d2953deb",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wacken Open Air 26 - Wo steht der Nachwuchs bei Heavy Metal?",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-07-28T13:08:05.000Z",
+    "url": "https://www.deutschlandfunk.de/wacken-open-air-26-wo-steht-der-nachwuchs-bei-heavy-metal-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/wacken_open_air_26_wo_steht_der_nachwuchs_bei_heavy_metal_dlf_20260728_1508_76b3f38d.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:db5a04f5-eae5-54c7-b96e-ab71d9b0e8fc",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/anne_sophie_monrad_ueber_daniel_siad_und_die_schattenseiten_dlf_20260724_1515_fdfdf096.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:fd50042d-787b-529f-bb6e-036275c4b94f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Musikalische Kehrtwende? Das neue Album \"Music, Fashion, Film\" von Charli XCX",
-    "summary": "Raabe, Mathis; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-24T13:10:13.000Z",
-    "url": "https://www.deutschlandfunk.de/musikalische-kehrtwende-das-neue-album-music-fashion-film-von-charli-xcx-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/musikalische_kehrtwende_das_neue_album_music_fashion_film_dlf_20260724_1510_d0661a2c.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a1803bfb-f71d-5143-9c61-166f59a64a30",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Chéri, ich komme!\" - Das echte Erfinderpaar hinter dem Womanizer im Gespräch",
-    "summary": "Plodroch, Ina; Lenke, Michael; Lenke, Brigitte www.deutschlandfunk.de, Corso",
-    "date": "2026-07-23T13:20:45.000Z",
-    "url": "https://www.deutschlandfunk.de/ch-ri-ich-komme-das-echte-erfinderpaar-hinter-dem-womanizer-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/cheri_ich_komme_das_echte_erfinderpaar_hinter_dem_womanizer_dlf_20260723_1520_a14965ce.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:71442f1e-2028-520e-8a58-019e5c346e84",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Serie - Das \"Big Bang Theory\"-Spinoff \"Stuart Fails To Save The Universe\"",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-07-23T13:15:35.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-serie-das-big-bang-theory-spinoff-stuart-fails-to-save-the-universe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/neue_serie_das_big_bang_theory_spinoff_stuart_fails_to_save_dlf_20260723_1515_ee474f78.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
