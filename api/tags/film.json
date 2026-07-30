@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:f4420486-e10d-5bcf-b8cb-bcfdf1c047b3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 29.07.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-29T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/kulturmeldungen_29072026_dlf_20260729_1756_49d5b704.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e66b7633-2095-5642-b866-b7bcaa858945",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Rheinische Mundart, feiner Humor - zum Tod des Kabarettisten Konrad Beikircher",
+    "summary": "Lohse, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-29T15:50:40.000Z",
+    "url": "https://www.deutschlandfunk.de/rheinische-mundart-feiner-humor-zum-tod-des-kabarettisten-konrad-beikircher-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/rheinische_mundart_feiner_humor_zum_tod_des_kabarettisten_dlf_20260729_1750_95d488cf.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d743cf91-668f-54c8-8a52-c0f5bb67b4ef",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Amerikanistin Heike Paul über musikalischen Protest - eine Schau in den USA",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-29T15:42:20.000Z",
+    "url": "https://www.deutschlandfunk.de/amerikanistin-heike-paul-ueber-musikalischen-protest-eine-schau-in-den-usa-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/amerikanistin_heike_paul_ueber_musikalischen_protest_eine_dlf_20260729_1742_37d37fa0.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9c9c84e6-ad1a-5ab9-935e-8a316b9ffe31",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "KI bebildert Wagners \"Ring\" bei den Bayreuther Festspielen",
+    "summary": "Schmitz, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-29T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/ki-bebildert-wagners-ring-bei-den-bayreuther-festspielen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/ki_bebildert_wagners_ring_bei_den_bayreuther_festspielen_dlf_20260729_1735_23d14522.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:0cd64f63-c540-57ab-8b20-dcd14e33c2ef",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/medizinhistorikerin_claudia_wiesemann_zum_tod_von_gvhagens_dlf_20260727_1752_4b67e9cb.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:fd807552-e1d7-57cf-a483-475bee488dad",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Brennende Kulturlandschaft. Die Wälder von Bordeaux",
-    "summary": "Detjen, Stephan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-27T15:48:25.000Z",
-    "url": "https://www.deutschlandfunk.de/brennende-kulturlandschaft-die-waelder-von-bordeaux-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/brennende_kulturlandschaft_die_waelder_von_bordeaux_dlf_20260727_1748_7666003d.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5a6efa1b-f2fc-5807-9aab-15606a8a8a5d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Carmen - Currentzis dirigiert Bizet in Salzburg, Gabriela Carrizo inszeniert",
-    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-27T15:43:45.000Z",
-    "url": "https://www.deutschlandfunk.de/carmen-currentzis-dirigiert-bizet-in-salzburg-gabriela-carrizo-inszeniert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/carmen_currentzis_dirigiert_bizet_in_salzburg_gabriela_dlf_20260727_1743_3664a300.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f4b89946-1336-51a9-92f3-19e9ac512259",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Richard Wagners \"Rienzi\" in Bayreuth",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-27T15:35:17.000Z",
-    "url": "https://www.deutschlandfunk.de/richard-wagners-rienzi-in-bayreuth-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/richard_wagners_rienzi_in_bayreuth_dlf_20260727_1735_dd636bd6.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:564bae35-532a-5e4f-8f99-cb8c06c002be",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 26.07.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-26T15:56:55.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/kulturmeldungen_26072026_dlf_20260726_1756_ad407bfd.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:7c5b5805-c7bf-5416-bb8e-b581730882e4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: The Invite, Bitteres Fest, Der perfekte Schein - der Fall Bojarski",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-07-29T13:24:27.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-the-invite-bitteres-fest-der-perfekte-schein-der-fall-bojarski-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/neue_filme_the_invite_bitteres_fest_der_perfekte_schein_der_dlf_20260729_1524_8a1fabf1.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4491da67-9b54-5c38-9f1f-caed5ee5cfbf",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: The Invite, Bitteres Fest, Der perfekte Schein - der Fall Bojarski",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-07-29T13:24:02.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-the-invite-bitteres-fest-der-perfekte-schein-der-fall-bojarski-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/neue_filme_the_invite_bitteres_fest_der_perfekte_schein_der_dlf_20260729_1524_ab23d824.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:2080f753-27bc-55c7-9479-5db683d44587",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/die_strokes_zwischen_autotune_und_indie_mythos_dlf_20260725_1510_7942b9eb.mp3?refId=corso-104",
     "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4a2c7d43-e3d2-5bfa-9c6d-557284fca7a5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Brief an den berühmten Vater - Was Anne dem Comicautoren René Goscinny schreibt",
-    "summary": "Unger, Kolja; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-24T13:25:54.000Z",
-    "url": "https://www.deutschlandfunk.de/brief-an-den-beruehmten-vater-was-anne-dem-comicautoren-ren-goscinny-schreibt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/brief_an_den_beruehmten_vater_was_anne_dem_comicautoren_rene_dlf_20260724_1525_2a67ef7e.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:89810cbb-5fcb-50a7-a053-ce377ac622aa",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Anne-Sophie Monrad über Daniel Siad und die Schattenseiten der Modelbranche",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-24T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/anne-sophie-monrad-ueber-daniel-siad-und-die-schattenseiten-der-modelbranche-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/anne_sophie_monrad_ueber_daniel_siad_und_die_schattenseiten_dlf_20260724_1515_fdfdf096.mp3?refId=corso-104",
-    "duration": "8 Min",
     "tags": [
       "kultur",
       "pop",
