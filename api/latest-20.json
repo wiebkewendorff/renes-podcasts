@@ -1,5 +1,356 @@
 [
   {
+    "id": "dlf-1001-nacht:a4b6d368-3707-5c65-a543-198260d0ffd4",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Trailer Staffel 2 - 1001 Nacht",
+    "summary": "Erzählen unter Lebensgefahr: Wenn Schahrasad die Neugier des Königs nicht wachhält, wird sie die Nacht nicht überleben. <br><br>Neue Folgen ab dem 14. August jeden Freitag in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.",
+    "date": "2026-07-31T06:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/podcast-trailer-1001-nacht-staffel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/11/fd/86/96/11fd8696-391a-4f8c-bd6a-135df499aae2/1001-nachttrailer02-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/podcast_trailer_1001_nacht_staffel_2_dlf_20260731_0008_f0754ba8.mp3?refId=1001-nacht-100",
+    "duration": "1 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:c3fdf315456900cec54d7ba4b2627115",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Ein Ballonflug zwischen Forscherdrang und Lebensgefahr",
+    "summary": "<p>Eine riskante Expedition bringt zwei deutsche Forscher an ihre Grenzen - und verändert das Verständnis der Atmosphäre grundlegend. Mit Folgen für die Klimaforschung.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Daniela Wakonigg:</strong><br><ul><li>wie eine Ballonfahrt im Kaiserreich zum wissenschaftlichen Großereignis wird,</li><li>warum zwei Meteorologen ihr Leben riskieren, um Messdaten aus extremen Höhen zu gewinnen,</li><li>welche überraschende Beobachtung das damalige Wissen über die Atmosphäre infrage stellt,</li><li>weshalb bald unbemannte Ballone bald als verlässliche Messinstrumente gelten,</li><li>wie daraus die Entdeckung einer neuen Atmosphärenschicht entsteht.</li></ul><br>Zwei Mitarbeiter des Königlich Preußischen Meteorologischen Instituts haben sich vorgenommen, in eine Höhe vorzudringen, in der zuvor noch nie ein Mensch gewesen ist: Arthur Berson und Reinhard Süring. Sie starten von Berlin aus mit einem riesigen Gasballon mit dem Namen \"Preußen\". Er ist der größte im Kaiserreich. Bis zur Höhe von 9.000 Metern verläuft der Aufstieg einigermaßen problemlos. <br><br>Dann wird das Schlafbedürfnis immer größer, weil der Sauerstoffgehalt immer mehr abnimmt. Kurz bevor die beiden Männer in Ohnmacht fallen, gelingt es, den Sinkflug einzuleiten. Das rettet ihnen das Leben - und die Messergebnisse. Das ermöglicht ein neues Bild der Atmosphäre, das bis heute Forschung und Klimadebatten prägt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Frank Beyrich (Meteorologe, Reinhard-Süring-Stiftung, Deutscher Wetterdienst)</li><li>Arthur Berson und Reinhard Süring: Ein Ballonaufstieg bis 10.500 m. Illustrierte Aeronautische Mitteilungen, Heft 4. Berlin 1901</li><li>Guy Brasseur: The Air and its Secrets. Les Ulis bei Paris 2025</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>tagesschau.de: <a href=\"https://www.tagesschau.de/wetter/wetterthema/strato-100.html\" rel=\"noopener\" target=\"_blank\">Himmelsstürmer</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/natur/klima/erdatmosphaere/pwieaufbaudererdatmosphaere100.html\" rel=\"noopener\" target=\"_blank\">Aufbau der Erdatmosphäre</a></li><li>WDR: <a href=\"https://www1.wdr.de/archiv/jahresrueckblick/rekordsprung112.html\" rel=\"noopener\" target=\"_blank\">Sprung aus Stratosphäre</a> - Weltrekordsprung aus 39 Kilometern Höhe (2012)</li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin : Daniela Wakonigg<br>Redaktion: Sefa Inci Suvak<br>Technik: Moritz Raestrup",
+    "date": "2026-07-31T04:00:30.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ein-ballonflug-zwischen-forscherdrang-und-lebensgefahr-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-stratosphaeren-ballon-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/22/e5387866-3358-48fa-af8a-5fb6fdaedaa4/e5387866-3358-48fa-af8a-5fb6fdaedaa4_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4020149",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Tinder-Erschöpfung (Best-of)",
+    "summary": "<b>Die spannendsten und beliebtesten Folgen</b>\n<p>In den kommenden Wochen liefern wir euch die spannendsten und beliebtesten Folgen anlässlich von zehn Jahren brand eins Podcast. Zu einer der beliebtesten Episoden gehört die Folge mit Johanna Degen. Sie ist promovierte Sozialpsychologin und forscht an der Europa-Universität Flensburg zu den Themen Liebe, Beziehungen und Sexualität und insbesondere zu den Auswirkungen von Dating-Apps wie Tinder.   </p>\n<p>„Tinder ist scheiße, alle hassen Tinder. Das heißt aber nicht, dass man nicht online ist“, so bringt <b>Johanna Degen</b> das auf den Punkt. Denn obwohl sich eine gewisse Erschöpfung vom vielen „Swipen“ nach rechts und links, von den unendlichen Möglichkeiten, einen Partner oder eine Partnerin zu finden, eingestellt habe, werde die App als „alternativlos“ empfunden. Weil keiner mehr Zeit und Emotionen investieren wolle, oder sich die öffentlichen Räume immer mehr schließen, so erklärt sie.   </p>\nTinder-Erschöpfung\n<p>Diese „Erschöpfung“ oder „Fatigue“ beim Online-Daten ist auch 2026 immer noch ein Thema. Einige Leute sprechen sogar bei von einem Dating-Burn-Out. Demnach empfinden rund ein Siebtel der Nutzerinnen und Nutzer bei der Partnersuche mit Apps starken Stress, Enttäuschung und Erschöpfung. Sie verlieren den Glauben daran, überhaupt erfolgreich daten zu können. Das Gespräch zwischen Johanna Degen und <i>detektor.fm-</i>Moderator Christian Bollert ist daher immer noch von großer Relevanz und umso spannender noch einmal zu hören.   </p>",
+    "date": "2026-07-31T03:30:28.000Z",
+    "url": "https://feedpress.me/link/19604/17396883/brand-eins-podcast-johanna-degen-tinder-best-of",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260731brandeinspodcastjohannadegenwdh.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260731brandeinspodcastjohannadegenwdh.63.mp3",
+    "duration": "26 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:2447bd1b-987f-4f87-9494-c9715183b4df",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Tandem: Was wünscht ihr euch für die Fahrradzukunft, Antritt-Peloton?",
+    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit Teilen des <strong>Antritt-Pelotons</strong> um die Fahrradzukunft und mit <strong>Christian Bollert</strong> um Tour de France und Triathlon.</p>\nZweites Antritt-Treffen in Leipzig\n<p>Seit zwei Jahren erscheint der Antritt wöchentlich und das ist nur dadurch möglich, dass uns viele Menschen finanziell unterstützen, bei Apple Podcasts und bei Steady. Wir nennen diese Menschen unser Peloton und haben sie in diesem Sommer zum zweiten Antritt-Treffen eingeladen. Mitte Juli haben wir in den <em>detektor.fm</em>-Studios in Leipzig übers Fahrrad und übers Podcasten gesprochen, haben Pizza und Kuchen gegessen, sind zusammen Rad gefahren und haben einen Live-Podcast mit Martin Goetze aufgenommen. Wie schon im letzten Jahr sind unsere Unterstützenden auch selbst zu Wort gekommen, denn Christian hat von ihnen erfahren, was sie sich für die Zukunft des Fahrrads wünschen. Die Antworten hört ihr in dieser Ausgabe.</p>\nTermine, Tour de France und Triathlon\n<p>Außerdem haben wir ein kleines Fazit zur Tour de France der Männer gezogen und machen einen kleinen Ausblick auf die Tour de France der Frauen. Christian berichtet von seinem ersten erfolgreichen Triathlon und wir nennen drei Termine, an denen ihr uns zu Live-Podcasts treffen könnt. Nach jetziger Planung werden wir hier zu Gast sein:</p>\n<p>31.8. SAZ-Bike Testival Garmisch-Partenkirchen</p>\n<p>9.10. Schicke Mütze Düsseldorf im Rahmen der ZOON-Podcast-Week</p>\n<p>7.11. Podcat + Poodle Podcast Festival in der Scheune Dresden</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>",
+    "date": "2026-07-31T03:15:59.000Z",
+    "url": "https://feedpress.me/link/19604/17396884/antritt-antritt-treffen-tour-de-france-und-triathlon",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20263107antrittfantreffen.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20263107antrittfantreffen.63.mp3",
+    "duration": "1 Std 7 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-3998463",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Wie Eis-Algen Grönlands Gletscher bedrohen",
+    "summary": "<p>Kleine Algen, große Wirkung: Mikroskopisch kleine Eisalgen tragen dazu bei, dass Grönlands Gletscher schneller schmelzen. Die winzigen Einzeller besiedeln im Sommer große Flächen der eisigen Oberfläche und färben sie grau, braun oder sogar schwarz. Dadurch sinkt die sogenannte „Albedo“ — also die Fähigkeit des Eises, Sonnenlicht zu reflektieren.</p>\n<p>Ähnlich wie bei dunkler Kleidung wird durch die Algen mehr Strahlung absorbiert und in Wärme umgewandelt. Forschende des GFZ Helmholtz-Zentrums für Geoforschung in Potsdam haben gemessen, dass Algenblüten die Schmelzrate lokal um bis zu 25 Prozent erhöhen können.</p>\n<p>Das Phänomen ist bereits seit dem 19. Jahrhundert bekannt, wurde aber lange unterschätzt. Heute rückt es stärker in den Fokus, weil Grönland bereits massiv unter den Folgen des Klimawandels leidet. Seit den 1980er-Jahren hat sich der jährliche Eisverlust der Insel versechsfacht. Die Schmelze des grönländischen Eisschilds zählt inzwischen zu den wichtigsten Treibern des globalen Meeresspiegelanstiegs.</p>\nAlgen aus dem Eis\n<p>Die dunkle Färbung der Eisalgen beruht auf dem Pigment Purpurogallin. Es schützt die Organismen vor intensiver Sonneneinstrahlung und UV-Licht. Gleichzeitig verstärkt es die Erwärmung des Eises, da ein großer Teil der absorbierten Sonnenenergie als Wärme an die Umgebung abgegeben wird.</p>\n<p>Noch ist wenig darüber bekannt, wie die Algen unter den extremen Bedingungen der Arktis überleben. Expeditionen nach Grönland und Spitzbergen sollen klären, welche Umweltfaktoren ihr Wachstum fördern.</p>\n<p>Erst vor wenigen Jahren gelang es Forschenden, Eisalgen erfolgreich im Labor zu kultivieren. Dadurch können sie nun gezielt untersuchen, wie Licht, Nährstoffe und Temperatur das Wachstum beeinflussen. Viele Fragen bleiben jedoch offen. Klar ist bereits: Die unscheinbaren Mikroorganismen spielen eine deutlich größere Rolle für das Abschmelzen der Gletscher und den Meeresspiegelanstieg, als lange angenommen wurde.</p>\n<p><strong>Verena Tang</strong> ist Chemikerin und Redakteurin bei <em>Spektrum der Wissenschaft</em>. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt sie, wie die Situation die Gletscher bedroht und was Forschende nun herausfinden wollen, um die Folgen abzumildern.</p>",
+    "date": "2026-07-31T03:00:09.000Z",
+    "url": "https://feedpress.me/link/19604/17396885/spektrum-podcast-gletscher-algen",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260703spektrumwieeis-algengroenlandsgletscherbedrohen.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260703spektrumwieeis-algengroenlandsgletscherbedrohen.63.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4021399",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "August 2026: Tipps für den Sommer",
+    "summary": "Spannend, sommerlich, unterhaltsam\n<p>Im Podcast „detektor.fm-destilliert“ ist es gute Sitte Tipps aus der <em>detektor.fm</em>-Redaktion mit euch zu teilen. Diesmal erwartet euch die Sommeredition mit Lektüretipps für den Strand, Podcastempfehlungen für den See oder Streamingtipps für den lauen Sommerabend. Philine Klinger empfiehlt den Roman „Als Großmutter im Regen tanzte“ von Trude Teige. Die junge Frau Juni forscht darin im Nachlass ihrer verstorbenen norwegischen Großmutter und stößt auf ein gut gehütetes Geheimnis aus der Nachkriegszeit.</p>\n<p>Auch der Roman „Botanik des Wahnsinns“ von Leon Engler erzählt — dramatisch, aber mit viel Witz — die Geschichte einer Familien, und zwar einer, die über Generationen hinweg mit psychischen Problemen kämpft; ein Tipp von Audio-Producerin Paula Bültemann. Für alle, die es im Sommer eher mit leichter Lektüre halten, empfiehlt Tim Schmutzler die Science-Fiction-Buchreihe „Dungeon Crawler Carl“ von Matt Dinniman, die mit ihrem schwarzen Humor an Reihen wie „Per Anhalter durch die Galaxis“ erinnert.</p>\nKostenloses Programm\n<p>Kostenfreie und gute Unterhaltung erwartet euch sonst im Podcast- und Streamingbereich: In der <em>arte-</em>Mediathek findet man derzeit alle Staffeln von David Lynchs zum Serienklassiker gewordenen Meisterwerk „Twin Peaks“ — eine Empfehlung von Anke Behlert für alle Cineasten und Cineastinnen und die, die es noch werden wollen. Außerdem findet ihr in der <em>ZDF-</em>Mediathek den sehenswerten Dokumentarfilm „Mikal, aufwachsen und nicht aufgeben“. Der Film begleitet den zwölfjährigen Mikal über drei Jahre, wie er mit seinen alkoholabhängigen Eltern in einem engen Hotelzimmer in den USA lebt.</p>\n<p>Für alle Musikinteressierten hat Audio-Producer Benjamin Serdani einen Geheimtipp: Er empfiehlt den Podcast „Did Somebody Say…Ambient?“ des Creators Lonetapes, in dem dieser noch unbekannte Musikerinnen und Musiker der Szene vorstellt. Wer gerne mal den Kochlöffel schwingt dürfte sich über den Podcast-Tipp von Klara Fröhlich freuen: In „Die letzte Flasche“ geht es ums Kochen und nachhaltigen Genuss. </p>\n<p>Den entscheidenden Sommertipp hat allerdings Prokurist Claudius Nießen parat: „Geht raus! Genießt die Sonne! Bildschirmzeitverbot für alle!“</p>\n<p>Wer kein Highlight von <em>detektor.fm</em> verpassen will: Über alle Neuigkeiten informiert einmal pro Monat der <em>detektor.fm</em>-Newsletter.</p>\n<p><strong>Alle Tipps der Folge auf einen Blick:</strong></p>\n<p><strong>Buchtipps:</strong></p>\n<p>„Als Großmutter im Regen tanzte“ von Trude Teige</p>\n<p>„Botanik des Wahnsinns“ von Leon Engler</p>\n<p>„Dungeon Crawler Carl“ von Matt Dinniman</p>\n<p>„Jakob der Lügner“ von Jurek Becker</p>\n<p>„Sanditz“ von Lukas Rietzschel</p>\n<p> </p>\n<p><strong>Podcast-Tipps:</strong></p>\n<p>„Did Somebody Say…Ambient?“</p>\n<p> „Die letzte Flasche“ </p>\n<p>„DAZWISCHEN – Der Sachsen-Anhalt Podcast“</p>\n<p>„Behind The Bastards“</p>\n<p> </p>\n<p><strong>Streaming-Tipps:</strong></p>\n<p>„Mikal, aufwachsen und nicht aufgeben“</p>\n<p>„Twin Peaks“</p>\n<p>„Chabos“</p>\n<p>„Widow’s Bay“</p>\n<p>„Daredevil“</p>\n<p>„The Rookie“</p>\n<p> </p>\n<p><strong>Außerdem:</strong></p>\n<p>Ausstellung „PLATTE: Leben in der Großwohnsiedlung“ im Zeitgeschichtlichen Forum in Leipzig</p>\n<p>ImPulsTanz — internationales Tanzfestival in Wien</p>",
+    "date": "2026-07-31T03:00:07.000Z",
+    "url": "https://feedpress.me/link/19604/17396886/destilliert-august-2026-tipps-fuer-den-sommer",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260731destilliertaugust.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260731destilliertaugust.63.mp3",
+    "duration": "31 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:899cc240-3181-5497-bd9d-55878a19f390",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 30.07.2026",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/kulturmeldungen_30072026_dlf_20260730_1756_92ea6f1c.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3fca1092-cc38-54f3-9a7d-3463d0f84d98",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vorbild - Barcelona ist UNESCO-Welthauptstadt der Architektur",
+    "summary": "Macher, Julia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:51:05.000Z",
+    "url": "https://www.deutschlandfunk.de/vorbild-barcelona-ist-unesco-welthauptstadt-der-architektur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/vorbild_barcelona_ist_unesco_welthauptstadt_der_architektur_dlf_20260730_1751_fbe95dc4.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c4a50190-9a88-595c-b4b6-b732924810c2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Abschiedsmusik - Ex-Intendant Hinterhäuser spielt in Salzburg die \"Winterreise\"",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:45:39.000Z",
+    "url": "https://www.deutschlandfunk.de/abschiedsmusik-ex-intendant-hinterhaeuser-spielt-in-salzburg-die-winterreise-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/abschiedsmusik_ex_intendant_hinterhaeuser_spielt_in_salzburg_dlf_20260730_1745_a1e86893.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7b2cbbac-0957-56c2-b1ac-dd36058ef3bc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie zieht ein Museum aus? Das Wallraf-Richartz-Museum in Köln wird geräumt",
+    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:40:33.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-zieht-ein-museum-aus-das-wallraf-richartz-museum-in-koeln-wird-geraeumt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/wie_zieht_ein_museum_aus_das_wallraf_richartz_museum_in_dlf_20260730_1740_4ae75459.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7710e15a-688b-5887-8697-38e3e20bb20d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bitteres Fest - Der neue Film von Pedro Almodóvar",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/bitteres-fest-der-neue-film-von-pedro-almod-var-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/bitteres_fest_der_neue_film_von_pedro_almodovar_dlf_20260730_1735_6ae65e24.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4b07e67e-92b9-5b80-b1f6-0178d0600968",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Tank Tops - Die queere Aneignung des \"Wife-Beaters\"",
+    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
+    "date": "2026-07-30T13:25:00.000Z",
+    "url": "https://www.deutschlandfunk.de/tank-tops-die-queere-aneignung-des-wife-beaters-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/tank_tops_die_queere_aneignung_des_wife_beaters_dlf_20260730_1525_a64ead31.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:13c1e912-9db8-53ab-b364-7b83b22fedcf",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hackerangriff auf Ariane Grande - Wie gegen Bootlegs im Darknet ermittelt wird",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-07-30T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/hackerangriff-auf-ariane-grande-wie-gegen-bootlegs-im-darknet-ermittelt-wird-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/hackerangriff_auf_ariane_grande_wie_gegen_bootlegs_im_dlf_20260730_1510_5649f767.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4019975",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Kulturkampf in Sachsen-Anhalt: Warum Kulturschaffende sich gegen die AfD positionieren",
+    "summary": "Kulturkampf in Sachsen-Anhalt\n<p>Eine Lesung von Arne Semsrott in der Stadtbibliothek Magdeburg wird abgesagt, mutmaßlich auf Druck der AfD. Im Landtag hinterfragt die Partei regelmäßig die Neutralität geförderter Kultureinrichtungen. Im Wahlprogramm fordert sie, Kulturförderung an ein Bekenntnis zur „deutschen Nationalkultur“ zu koppeln. Für große Teile der Kulturszene in Sachsen-Anhalt ist das ein Angriff auf die Freiheit der Kultur. Laut Expertinnen und Experten wie dem Autor Christoph Bartmann ist es eine neue Art des Kulturkampfes. Er sieht in Sachsen-Anhalt eine Art „Versuchsstation“ für kommende Auseinandersetzungen.</p>\nKulturszene Sachsen-Anhalt: Einfluss der AfD bereits groß\n<p>Die AfD kündigt in ihrem Wahlprogramm an, dass die Kulturszene in Sachsen-Anhalt bei einer AfD-Regierungsbeteiligung mit tiefgreifenden Änderungen rechnen müsse. Sie plant dort unter anderem eine „patriotische Wende“, die Stärkung von Brauchtum, mehr „deutsche Kunst“, eine Neuausrichtung der Erinnerungskultur sowie den Umbau von Institutionen. Doch der Einfluss ist laut Annegret Laabs, Direktorin des Kunstmuseums Magdeburg, bereits jetzt groß.</p>\nKulturschaffende wollen sich wehren\n<p>Fast 150 Kultureinrichtungen und Initiativen haben sich im Netzwerk „Kultur ist Vielfalt und Heimat“ zusammengeschlossen. Ihr gemeinsames Statement richtet sich gegen Rechtspopulismus und jede politische Einflussnahme auf Kunst und Kultur. Gemeinsam versuchen die Akteure und Akteurinnen, die Bedeutung der Kulturszene für Sachsen-Anhalt deutlich zu machen, sich gegen Versuche der Einflussnahme zu wappnen und für eine freie Kulturszene zu engagieren.</p>\n<p>Warum ausgerechnet Kulturpolitik für rechte Parteien weltweit zum Kampffeld wird, wie Sachsen-Anhalts Kulturschaffende sich absichern wollen, wie der Experte Christoph Bartmann die Situation einschätzt und was ein großes, weißes Nashorn damit zu tun hat — über all das sprechen Marie und Katja in der neuen Folge „DAZWISCHEN“. Wer darüber hinaus die Kulturpolitik der verschiedenen Parteien vergleichen will, findet hier einen Überblick.</p>\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm oder schickt uns eine Sprachnachricht über WhatsApp an die Nummer: 0175-6807345. In unserem WhatsApp-Kanal bekommt ihr zusätzliche Infos. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</p>",
+    "date": "2026-07-30T13:00:10.000Z",
+    "url": "https://feedpress.me/link/19604/17396540/dazwischen-kulturszene-sachsen-anhalt-wehrt-sich-gegen-afd-einflussnahme",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260730-02dazwischen19kulturkampf.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260730-02dazwischen19kulturkampf.63.mp3",
+    "duration": "33 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-der-rest-ist-geschichte:402b0a1b-1985-5f81-a6af-06ecec7b2999",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -145,361 +496,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f4420486-e10d-5bcf-b8cb-bcfdf1c047b3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 29.07.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-29T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/kulturmeldungen_29072026_dlf_20260729_1756_49d5b704.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e66b7633-2095-5642-b866-b7bcaa858945",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rheinische Mundart, feiner Humor - zum Tod des Kabarettisten Konrad Beikircher",
-    "summary": "Lohse, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-29T15:50:40.000Z",
-    "url": "https://www.deutschlandfunk.de/rheinische-mundart-feiner-humor-zum-tod-des-kabarettisten-konrad-beikircher-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/rheinische_mundart_feiner_humor_zum_tod_des_kabarettisten_dlf_20260729_1750_95d488cf.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d743cf91-668f-54c8-8a52-c0f5bb67b4ef",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Amerikanistin Heike Paul über musikalischen Protest - eine Schau in den USA",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-29T15:42:20.000Z",
-    "url": "https://www.deutschlandfunk.de/amerikanistin-heike-paul-ueber-musikalischen-protest-eine-schau-in-den-usa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/amerikanistin_heike_paul_ueber_musikalischen_protest_eine_dlf_20260729_1742_37d37fa0.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9c9c84e6-ad1a-5ab9-935e-8a316b9ffe31",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "KI bebildert Wagners \"Ring\" bei den Bayreuther Festspielen",
-    "summary": "Schmitz, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-29T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/ki-bebildert-wagners-ring-bei-den-bayreuther-festspielen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/ki_bebildert_wagners_ring_bei_den_bayreuther_festspielen_dlf_20260729_1735_23d14522.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7c5b5805-c7bf-5416-bb8e-b581730882e4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: The Invite, Bitteres Fest, Der perfekte Schein - der Fall Bojarski",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-07-29T13:24:27.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-the-invite-bitteres-fest-der-perfekte-schein-der-fall-bojarski-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/neue_filme_the_invite_bitteres_fest_der_perfekte_schein_der_dlf_20260729_1524_8a1fabf1.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4491da67-9b54-5c38-9f1f-caed5ee5cfbf",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: The Invite, Bitteres Fest, Der perfekte Schein - der Fall Bojarski",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-07-29T13:24:02.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-the-invite-bitteres-fest-der-perfekte-schein-der-fall-bojarski-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/neue_filme_the_invite_bitteres_fest_der_perfekte_schein_der_dlf_20260729_1524_ab23d824.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:db9809412f43e2f0ffa2bef9ba9204fa",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Eine Prinzessin als \"Erlöserin\"? Brasiliens Ende der Sklaverei",
-    "summary": "<p>Prinzessin Isabel (geb. 29.7.1846) beendet mit einer Unterschrift die Sklaverei in Brasilien. Doch wer hat die Freiheit von 700.000 Menschen wirklich erkämpft?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christina Weise:</strong><br><ul><li>wie Prinzessin Isabel zur Symbolfigur der Abschaffung der Sklaverei wird,</li><li>welche Rolle der Aktivist André Rebouças dabei spielt, Prinzessin Isabel für die Abschaffung der Sklaverei zu gewinnen,</li><li>wie eine breite Bewegung Druck auf Politik und Gesellschaft ausübt,</li><li>weshalb wirtschaftliche Interessen und internationale Einflüsse den Prozess prägen,</li><li>warum der Mythos der „Erlöserin\" heute kritisch hinterfragt wird.</li></ul><br>Als Prinzessin Isabel im Mai 1888 das \"Goldene Gesetz\" unterschreibt, jubeln die Menschen in Rio de Janeiro: Brasilien schafft damit offiziell die Sklaverei ab. Die Kronprinzessin wird gefeiert, verehrt und glorifiziert. Doch der Weg zu diesem Moment ist lang und konfliktreich.<br><br>Jahrzehntelang kämpfen Gegner der Sklaverei für die Freiheit. Viele von ihnen sind selbst ehemals versklavt. Sie organisieren Proteste, helfen versklavten Menschen bei der Flucht und erhöhen den politischen Druck auf Regierung und Parlament. Währenddessen wird Isabel zur Projektionsfigur – zwischen politischem Kalkül, religiöser Überzeugung und den Machtinteressen einer bröckelnden Monarchie.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Paulo Rezzutti (Forscher und Autor zahlreicher Bücher über die brasilianische Kaiserfamilie)</li><li>Philippe Arthur dos Reis (Historiker mit dem Schwerpunkt Stadtgeschichte, kulturelles Erbe und soziale Bewegungen)</li><li>Roderick J. Barman: Princess Isabel of Brazil: Gender and Power in the Nineteenth Century. Lanham, Maryland 2002</li><li>Ynaê Lopes dos Santos: Racismo brasileiro: uma história da formação do país. São Paulo 2022</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/menschenrechte/sklaverei/index.html\" rel=\"noopener\" target=\"_blank\">Sklaverei</a></li><li>Arte: <a href=\"https://www.arte.tv/de/videos/125302-000-A/brasilien-ein-tanz-gegen-die-sklaverei/\" rel=\"noopener\" target=\"_blank\">Brasilien - Ein Tanz gegen die Sklaverei</a></li><li>DLF: <a href=\"https://www.deutschlandfunkkultur.de/brasilien-sklaven-rio-de-janeiro-100.html\" rel=\"noopener\" target=\"_blank\">Sklaverei in Brasilien - Das Erbe von Rio de Janeiro</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und der Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Christina Weise<br>Redaktion: Matti Hesse",
-    "date": "2026-07-29T04:00:42.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-eine-prinzessin-als-erloeserin-brasiliens-ende-der-sklaverei-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-isabel-von-brasilien-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/14/2a8c6061-ac94-478b-8a77-615b0881a89c/2a8c6061-ac94-478b-8a77-615b0881a89c_MP3-128.mp3",
-    "duration": "14 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4015261",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Die Geschichte des Abelpreises: Genie & Chaos in Oslo",
-    "summary": "<p>Seit über 20 Jahren wird in Oslo der Abelpreis vergeben. Er soll ein Pendant zum renommierten Nobelpreis sein — denn einen Nobelpreis für Mathematik gibt es nicht. Jährlich kommt die Mathecommunity regelmäßig Ende Mai in Oslo zusammen, um Lebenswerke, bahnbrechende Entdeckungen und Nachwuchstalente aus den eigenen Reihen zu feiern.</p>\nAbelpreis-Verleihung über die Jahre\n<p><strong>Demian Nahuel Goos</strong> war in diesem Jahr bei der Verleihung dabei und begeistert von der Liebe zum Detail während der Abelpreis-Woche. Er sagt: Während der Preisverleihung war bis hin zur Musik alles durchdacht, auf den diesjährigen Preisträger Gerd Faltings zugeschnitten und insgesamt abgestimmt. In seinen Gesprächen vor Ort hat Demian aber auch mitbekommen, dass bei dieser großen Veranstaltung nicht immer alles so glatt läuft. Über die Jahre ist es immer mal wieder zu kuriosen Situationen, Fauxpas und kleinen Pannen gekommen.</p>\nRobert Langlands und das verhaltene Telefonat\n<p>Da ist beispielsweise der kanadische Mathematiker, der auf die Neuigkeit, dass er den Abelpreis verliehen bekommen soll, eher verhalten reagiert, um Bedenkzeit bittet und auflegt: Robert Langlands. Er hat in den späten 1960er-Jahren die Vermutung aufgestellt, dass sich unterschiedliche Bereiche der Mathematik miteinander verknüpfen lassen. Das sogenannte Langlands-Programm dient als eine Art Übersetzungswörterbuch für die Bereiche der Analysis, Algebra und der Zahlentheorie. Für seine langjährige Arbeit, die hunderte Mathematiker und Mathematikerinnen inspiriert hat, sollte er 2018 den Abelpreis erhalten. Ob das wohl noch geklappt hat?</p>\nLuis Caffarelli und der Weltfußball\n<p>Da ist außerdem der „Messi of Mathematics“: Luis Caffarelli. Als ihm 2023, nur wenige Monate nach dem Ende der Männer-Fußball-WM, der Abelpreis verliehen werden soll, sucht das Preiskomittee nach einer markanten Medienstrategie. Caffarelli kommt aus Argentinien — dem Land, das gerade erst mit seinem Star Lionel Messi die Fußball-Weltmeisterschaft gewonnen hat. Der „Messi of Mathematics“ ist geboren. Als er schließlich den Preis für seine Arbeit an partiellen Differentialgleichungen verliehen bekommt, spielt der Fußball eine wohl größere Rolle, als die norwegische Akademie der Wissenschaften beabsichtigt hatte.</p>\nMichail Gromow und der Schlaf der Gerechten\n<p>Und da ist der Forscher Michail Gromow, der 2009 den Abelpreis für seine „revolutionären Beiträge in der Geometrie“ bekommt. Bei der Preisverleihung selbst verläuft noch alles reibungslos. Als Gromow jedoch zum feierlichen Bankett erscheinen soll, fehlt von ihm plötzlich jede Spur. Schnell stellt sich heraus: Statt im Smoking auf dem Weg zur Akerhus Festung in Oslo zu sein, liegt Gromow noch im Bett. Ob er es rechtzeitig zum Dinner geschafft hat?</p>\n<p>Darüber spricht <em>detektor.fm</em>-Moderatorin Rabea Schloz mit <strong>Demian Nahuel Goos</strong> und <strong>Manon Bischoff</strong> von <em>Spektrum der Wissenschaft</em>.</p>",
-    "date": "2026-07-29T03:18:18.000Z",
-    "url": "https://feedpress.me/link/19604/17391499/geschichten-aus-der-mathematik-genie-chaos-in-oslo-abelpreis",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260729-02gechichtenausdermathematikgenieundchaosinoslo.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260729-02gechichtenausdermathematikgenieundchaosinoslo.63.mp3",
-    "duration": "48 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-11607537827863368",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Biologe Carsten Gröhn über Bernstein",
-    "summary": "Seit Jahrzehnten spürt der frühere Biologielehrer Bernstein-Vorkommen weltweit auf und dokumentiert sie auch. So kann die interessierte Leserschaft mit dem Buch \"Bernstein Fundorte - Teil 1 Deutschland\" auf Entdeckungsreise gehen. Da lassen wir uns gerne mitnehmen und werden auch etwas über den Reiz von Kiesgruben lernen.",
-    "date": "2026-07-28T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/biologe-carsten-groehn-ueber-bernstein,audio-3385710.html",
-    "image": "https://images.ndr.de/image/22f1d0c0-cb87-4145-8b1d-ce1a0981c7a2/AAABn6m6CSc/AAABnSStX0g/1x1-big/screenshot-203054.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0729/AU-20260729-0937-4300.mp3",
-    "duration": "27 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0cd64f63-c540-57ab-8b20-dcd14e33c2ef",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 28.07.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-28T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-28-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/kulturmeldungen_28072026_dlf_20260728_1757_188e1380.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5e8ca379-5ee9-520f-a592-9f0ef3529cf2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Schnee von gestern, Schnee von morgen\" - Handke-Uraufführung in Salzburg",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-28T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schnee-von-gestern-schnee-von-morgen-handke-urauffuehrung-in-salzburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/schnee_von_gestern_schnee_von_morgen_handke_urauffuehrung_in_dlf_20260728_1752_dd8c4831.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:dd6ba0bd-7601-5736-9a4d-8920b7212f5e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gemeinsam oder einsam? Claire Demesmay über deutsch-französische Beziehungen",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-28T15:42:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-claire-demesmay-ueber-deutsch-franzoesische-beziehungen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/gemeinsam_oder_einsam_claire_demesmay_ueber_deutsch_dlf_20260728_1742_8b8abac8.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:684528e4-cee2-5d81-998c-e60b2ee519bf",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zentralgestirn der \"Black Art\"-Bewegung - Zum Tod der Künstlerin Betye Saar",
-    "summary": "Dichter, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-28T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zentralgestirn-der-black-art-bewegung-zum-tod-der-kuenstlerin-betye-saar-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/zentralgestirn_der_black_art_bewegung_zum_tod_der_dlf_20260728_1736_3788e41f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:2080f753-27bc-55c7-9479-5db683d44587",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verspielte Realitätsflucht - Warum ist jetzt alles \"whimsy\"?",
-    "summary": "Gnan, Mona www.deutschlandfunk.de, Corso",
-    "date": "2026-07-28T13:25:42.000Z",
-    "url": "https://www.deutschlandfunk.de/verspielte-realitaetsflucht-warum-ist-jetzt-alles-whimsy-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/verspielte_realitaetsflucht_warum_ist_jetzt_alles_whimsy_dlf_20260728_1525_b1fb561a.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   }

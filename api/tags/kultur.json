@@ -1,5 +1,213 @@
 [
   {
+    "id": "dlf-1001-nacht:a4b6d368-3707-5c65-a543-198260d0ffd4",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Trailer Staffel 2 - 1001 Nacht",
+    "summary": "Erzählen unter Lebensgefahr: Wenn Schahrasad die Neugier des Königs nicht wachhält, wird sie die Nacht nicht überleben. <br><br>Neue Folgen ab dem 14. August jeden Freitag in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.",
+    "date": "2026-07-31T06:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/podcast-trailer-1001-nacht-staffel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/11/fd/86/96/11fd8696-391a-4f8c-bd6a-135df499aae2/1001-nachttrailer02-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/podcast_trailer_1001_nacht_staffel_2_dlf_20260731_0008_f0754ba8.mp3?refId=1001-nacht-100",
+    "duration": "1 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:899cc240-3181-5497-bd9d-55878a19f390",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 30.07.2026",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/kulturmeldungen_30072026_dlf_20260730_1756_92ea6f1c.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3fca1092-cc38-54f3-9a7d-3463d0f84d98",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vorbild - Barcelona ist UNESCO-Welthauptstadt der Architektur",
+    "summary": "Macher, Julia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:51:05.000Z",
+    "url": "https://www.deutschlandfunk.de/vorbild-barcelona-ist-unesco-welthauptstadt-der-architektur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/vorbild_barcelona_ist_unesco_welthauptstadt_der_architektur_dlf_20260730_1751_fbe95dc4.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c4a50190-9a88-595c-b4b6-b732924810c2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Abschiedsmusik - Ex-Intendant Hinterhäuser spielt in Salzburg die \"Winterreise\"",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:45:39.000Z",
+    "url": "https://www.deutschlandfunk.de/abschiedsmusik-ex-intendant-hinterhaeuser-spielt-in-salzburg-die-winterreise-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/abschiedsmusik_ex_intendant_hinterhaeuser_spielt_in_salzburg_dlf_20260730_1745_a1e86893.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7b2cbbac-0957-56c2-b1ac-dd36058ef3bc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie zieht ein Museum aus? Das Wallraf-Richartz-Museum in Köln wird geräumt",
+    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:40:33.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-zieht-ein-museum-aus-das-wallraf-richartz-museum-in-koeln-wird-geraeumt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/wie_zieht_ein_museum_aus_das_wallraf_richartz_museum_in_dlf_20260730_1740_4ae75459.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7710e15a-688b-5887-8697-38e3e20bb20d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bitteres Fest - Der neue Film von Pedro Almodóvar",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-30T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/bitteres-fest-der-neue-film-von-pedro-almod-var-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/bitteres_fest_der_neue_film_von_pedro_almodovar_dlf_20260730_1735_6ae65e24.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4b07e67e-92b9-5b80-b1f6-0178d0600968",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Tank Tops - Die queere Aneignung des \"Wife-Beaters\"",
+    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
+    "date": "2026-07-30T13:25:00.000Z",
+    "url": "https://www.deutschlandfunk.de/tank-tops-die-queere-aneignung-des-wife-beaters-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/tank_tops_die_queere_aneignung_des_wife_beaters_dlf_20260730_1525_a64ead31.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:13c1e912-9db8-53ab-b364-7b83b22fedcf",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hackerangriff auf Ariane Grande - Wie gegen Bootlegs im Darknet ermittelt wird",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-07-30T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/hackerangriff-auf-ariane-grande-wie-gegen-bootlegs-im-darknet-ermittelt-wird-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/hackerangriff_auf_ariane_grande_wie_gegen_bootlegs_im_dlf_20260730_1510_5649f767.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "30-minuten-kunst:8fe6c354a184b4dedf15c6a7c346e735",
     "source": "30-minuten-kunst",
     "sourceTitle": "30 Minuten Kunst",
@@ -280,84 +488,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:5e8ca379-5ee9-520f-a592-9f0ef3529cf2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Schnee von gestern, Schnee von morgen\" - Handke-Uraufführung in Salzburg",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-28T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schnee-von-gestern-schnee-von-morgen-handke-urauffuehrung-in-salzburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/schnee_von_gestern_schnee_von_morgen_handke_urauffuehrung_in_dlf_20260728_1752_dd8c4831.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:dd6ba0bd-7601-5736-9a4d-8920b7212f5e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gemeinsam oder einsam? Claire Demesmay über deutsch-französische Beziehungen",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-28T15:42:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-claire-demesmay-ueber-deutsch-franzoesische-beziehungen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/gemeinsam_oder_einsam_claire_demesmay_ueber_deutsch_dlf_20260728_1742_8b8abac8.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:684528e4-cee2-5d81-998c-e60b2ee519bf",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zentralgestirn der \"Black Art\"-Bewegung - Zum Tod der Künstlerin Betye Saar",
-    "summary": "Dichter, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-28T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zentralgestirn-der-black-art-bewegung-zum-tod-der-kuenstlerin-betye-saar-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/zentralgestirn_der_black_art_bewegung_zum_tod_der_dlf_20260728_1736_3788e41f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:2080f753-27bc-55c7-9479-5db683d44587",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -510,58 +640,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:3a1d7ddf-6297-5082-a832-ff01cbe2bbee",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 27.07.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-27T15:56:54.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-27-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/kulturmeldungen_27072026_dlf_20260727_1756_5168e413.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:42cfe7d2-fec2-59b6-8fc7-ec92068cc3b2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Medizinhistorikerin Claudia Wiesemann zum Tod von G.v.Hagens",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-27T15:52:25.000Z",
-    "url": "https://www.deutschlandfunk.de/medizinhistorikerin-claudia-wiesemann-zum-tod-von-g-v-hagens-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/medizinhistorikerin_claudia_wiesemann_zum_tod_von_gvhagens_dlf_20260727_1752_4b67e9cb.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:db5a04f5-eae5-54c7-b96e-ab71d9b0e8fc",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -673,56 +751,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/adaptive_soundtracks_wie_komponiert_man_musik_fuer_games_dlf_20260725_1530_344d4c78.mp3?refId=corso-104",
     "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:aabff915-d5d9-5680-9275-f06be779f66c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue EP von Josi Miller - Raus aus dem People-Pleasing, rein in den Club",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-25T13:20:10.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-ep-von-josi-miller-raus-aus-dem-people-pleasing-rein-in-den-club-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/neue_ep_von_josi_miller_raus_aus_dem_people_pleasing_rein_in_dlf_20260725_1520_22966f23.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:46bd5be1-2506-5908-a8f5-1d9f915fb78c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Strokes zwischen Autotune und Indie-Mythos",
-    "summary": "Hentschel, Joachim www.deutschlandfunk.de, Corso",
-    "date": "2026-07-25T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-strokes-zwischen-autotune-und-indie-mythos-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/die_strokes_zwischen_autotune_und_indie_mythos_dlf_20260725_1510_7942b9eb.mp3?refId=corso-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "pop",
@@ -2187,34 +2215,6 @@
     "url": "https://www.deutschlandfunk.de/nacht-58-der-plan-des-wesirs-100.html",
     "image": "https://bilder.deutschlandfunk.de/16/53/eb/aa/1653ebaa-7a30-4970-9263-8c67d41ef183/1001-nacht-58-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2025/04/11/nacht_58_der_plan_des_wesirs_dlf_20250411_0802_8a42e726.mp3?refId=1001-nacht-100",
-    "duration": "5 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:https-podcast-mp3-dradio-de-podcast-2025-04-11-nacht-57-hasan-in-der-kiste-dlf-20250411-0801-5e42e521-mp3-refid-1001-nacht-100",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 57 - Hasan in der Kiste",
-    "summary": "Hasan wird zum Wesir gebracht und bestätigt, das Granatapfelmus gekocht zu haben. Da lässt der Wesir ihn in eine Kiste sperren, und sie reiten bis Kairo. Hasan reicht es: Weil an seinem Granatapfelmus zu wenig Pfeffer war, wird er hingerichtet?<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Im Gespräch erzählt die Übersetzerin Claudia Ott unter anderem, mit welcher Methode sie arabische Verse übersetzt: <a href=\"https://www.deutschlandfunk.de/1001-nacht-uebersetzen-aladin-sindbad-und-ali-baba-100.html\" rel=\"noopener\" target=\"_blank\">1001 Nacht übersetzen – Aladdin, Sindbad und Ali Baba?</a></li><li>Rhythmus und Klang der arabischen Verse hat die Schauspielerin Susana AbdulMajid für 1001 Nacht im Hörspielstudio interpretiert - <a href=\"https://www.deutschlandfunk.de/elegantes-und-derbes-arabisch-schauspielerin-susana-abdulmajid-100.html\" rel=\"noopener\" target=\"_blank\">und erzählt hier davon</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Eine berühmte musikalische Adaption von 1001 Nacht ist die Suite „Scheherazade“ von Nikolai Rimsky-Korsakow. <a href=\"https://www.boulezsaal.de/de/event/ensemble-k-simone-menezes-400105/program\" rel=\"noopener\" target=\"_blank\">2024 hat Simone Menezes mit „Scheherazade – a Tale“ eine zeitgemäße Fassung mit feministischer Perspektive entwickelt</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, alle Gespräche zu „Fragen an 1001 Nacht“ sowie unsere Making-of Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren 1001 Nacht Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br>Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani, Nabil Arbaain und Rosaceae<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2025<br> <br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2025-04-11T06:01:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-57-hasan-in-der-kiste-100.html",
-    "image": "https://bilder.deutschlandfunk.de/72/98/b8/10/7298b810-6cce-403c-9423-580b735f87f2/1001-nacht-57-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/04/11/nacht_57_hasan_in_der_kiste_dlf_20250411_0801_5e42e521.mp3?refId=1001-nacht-100",
     "duration": "5 Min",
     "tags": [
       "horspiel",

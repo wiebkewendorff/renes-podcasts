@@ -1,5 +1,33 @@
 [
   {
+    "id": "dlf-1001-nacht:a4b6d368-3707-5c65-a543-198260d0ffd4",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Trailer Staffel 2 - 1001 Nacht",
+    "summary": "Erzählen unter Lebensgefahr: Wenn Schahrasad die Neugier des Königs nicht wachhält, wird sie die Nacht nicht überleben. <br><br>Neue Folgen ab dem 14. August jeden Freitag in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.",
+    "date": "2026-07-31T06:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/podcast-trailer-1001-nacht-staffel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/11/fd/86/96/11fd8696-391a-4f8c-bd6a-135df499aae2/1001-nachttrailer02-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/podcast_trailer_1001_nacht_staffel_2_dlf_20260731_0008_f0754ba8.mp3?refId=1001-nacht-100",
+    "duration": "1 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-1001-nacht:https-podcast-mp3-dradio-de-podcast-2025-04-11-nacht-66-freund-und-hofnarr-des-kaisers-dlf-20250411-0810-86424c99-mp3-refid-1001-nacht-100",
     "source": "dlf-1001-nacht",
     "sourceTitle": "1001 Nacht – Deutschlandfunk",
@@ -234,34 +262,6 @@
     "url": "https://www.deutschlandfunk.de/nacht-58-der-plan-des-wesirs-100.html",
     "image": "https://bilder.deutschlandfunk.de/16/53/eb/aa/1653ebaa-7a30-4970-9263-8c67d41ef183/1001-nacht-58-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2025/04/11/nacht_58_der_plan_des_wesirs_dlf_20250411_0802_8a42e726.mp3?refId=1001-nacht-100",
-    "duration": "5 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:https-podcast-mp3-dradio-de-podcast-2025-04-11-nacht-57-hasan-in-der-kiste-dlf-20250411-0801-5e42e521-mp3-refid-1001-nacht-100",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 57 - Hasan in der Kiste",
-    "summary": "Hasan wird zum Wesir gebracht und bestätigt, das Granatapfelmus gekocht zu haben. Da lässt der Wesir ihn in eine Kiste sperren, und sie reiten bis Kairo. Hasan reicht es: Weil an seinem Granatapfelmus zu wenig Pfeffer war, wird er hingerichtet?<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Im Gespräch erzählt die Übersetzerin Claudia Ott unter anderem, mit welcher Methode sie arabische Verse übersetzt: <a href=\"https://www.deutschlandfunk.de/1001-nacht-uebersetzen-aladin-sindbad-und-ali-baba-100.html\" rel=\"noopener\" target=\"_blank\">1001 Nacht übersetzen – Aladdin, Sindbad und Ali Baba?</a></li><li>Rhythmus und Klang der arabischen Verse hat die Schauspielerin Susana AbdulMajid für 1001 Nacht im Hörspielstudio interpretiert - <a href=\"https://www.deutschlandfunk.de/elegantes-und-derbes-arabisch-schauspielerin-susana-abdulmajid-100.html\" rel=\"noopener\" target=\"_blank\">und erzählt hier davon</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Eine berühmte musikalische Adaption von 1001 Nacht ist die Suite „Scheherazade“ von Nikolai Rimsky-Korsakow. <a href=\"https://www.boulezsaal.de/de/event/ensemble-k-simone-menezes-400105/program\" rel=\"noopener\" target=\"_blank\">2024 hat Simone Menezes mit „Scheherazade – a Tale“ eine zeitgemäße Fassung mit feministischer Perspektive entwickelt</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, alle Gespräche zu „Fragen an 1001 Nacht“ sowie unsere Making-of Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren 1001 Nacht Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br>Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani, Nabil Arbaain und Rosaceae<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2025<br> <br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2025-04-11T06:01:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-57-hasan-in-der-kiste-100.html",
-    "image": "https://bilder.deutschlandfunk.de/72/98/b8/10/7298b810-6cce-403c-9423-580b735f87f2/1001-nacht-57-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/04/11/nacht_57_hasan_in_der_kiste_dlf_20250411_0801_5e42e521.mp3?refId=1001-nacht-100",
     "duration": "5 Min",
     "tags": [
       "horspiel",
