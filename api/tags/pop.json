@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:b4ee96bc-3464-50d1-b9f7-1279082ca32f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Musik trotz Taliban: Der Sound einer neuen Generation beim Sarkash Festival",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-07-31T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/musik-trotz-taliban-der-sound-einer-neuen-generation-beim-sarkash-festival-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/musik_trotz_taliban_der_sound_einer_neuen_generation_beim_dlf_20260731_1515_ab71fcb4.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7f73e77e-752c-5342-873a-a076435e7029",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "ARD-Doku \"Love is Stronger\" - Das Erbe der Love-Parade",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-07-31T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ard-doku-love-is-stronger-das-erbe-der-love-parade-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/ard_doku_love_is_stronger_das_erbe_der_love_parade_dlf_20260731_1515_b094d45a.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d864e05f-f84a-5609-9b59-74d87bdc96bd",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Urteil im Verfahren GEMA vs. Suno: Erneuter Sieg gegen KI",
+    "summary": "Krone, Tobi www.deutschlandfunk.de, Corso",
+    "date": "2026-07-31T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/urteil-im-verfahren-gema-vs-suno-erneuter-sieg-gegen-ki-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/urteil_im_verfahren_gema_vs_suno_erneuter_sieg_gegen_ki_dlf_20260731_1506_4f702982.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:4b07e67e-92b9-5b80-b1f6-0178d0600968",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/wacken_open_air_26_wo_steht_der_nachwuchs_bei_heavy_metal_dlf_20260728_1508_76b3f38d.mp3?refId=corso-104",
     "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:db5a04f5-eae5-54c7-b96e-ab71d9b0e8fc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kai Müller, Psychologe, über Scrollen, Spielen, Sucht",
-    "summary": "Herbstreuth. Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-27T13:15:07.000Z",
-    "url": "https://www.deutschlandfunk.de/kai-mueller-psychologe-ueber-scrollen-spielen-sucht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/kai_mueller_psychologe_ueber_scrollen_spielen_sucht_dlf_20260727_1515_3f93afc8.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:6e03c0eb-000d-5a8c-8e99-0805888457be",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Manuel Opitz von Hamburg Pride über den CSD und seine politische Kraft",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-07-27T13:07:00.000Z",
-    "url": "https://www.deutschlandfunk.de/manuel-opitz-von-hamburg-pride-ueber-den-csd-und-seine-politische-kraft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/manuel_opitz_von_hamburg_pride_ueber_den_csd_und_seine_dlf_20260727_1507_3687472a.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:6174f5cc-93d6-520a-bb2e-f516e640d090",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Adaptive Soundtracks - Wie komponiert man Musik für Games?",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-07-25T13:30:14.000Z",
-    "url": "https://www.deutschlandfunk.de/adaptive-soundtracks-wie-komponiert-man-musik-fuer-games-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/adaptive_soundtracks_wie_komponiert_man_musik_fuer_games_dlf_20260725_1530_344d4c78.mp3?refId=corso-104",
-    "duration": "10 Min",
     "tags": [
       "kultur",
       "pop",
