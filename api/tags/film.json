@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:b40a2908-4376-5545-a01e-21473d244d15",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 01.08.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-01T15:56:04.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/kulturmeldungen_01082026_dlf_20260801_1756_a03a5759.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:25121a41-05db-5a39-b124-039c783b2df8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mäander durch die Kunstgeschichte: Das LACMA von Architekt Peter Zumthor",
+    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-01T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/maeander-durch-die-kunstgeschichte-das-lacma-von-architekt-peter-zumthor-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/maeander_durch_die_kunstgeschichte_das_lacma_von_architekt_dlf_20260801_1751_54386923.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:64bfe285-4f77-535d-bc97-6ef4b8293a99",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Expressionist und Einzelgänger - Otto Gleichmann Retrospektive in Hannover",
+    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-01T15:37:47.000Z",
+    "url": "https://www.deutschlandfunk.de/expressionist-und-einzelgaenger-otto-gleichmann-retrospektive-in-hannover-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/expressionist_und_einzelgaenger_otto_gleichmann_dlf_20260801_1737_792edfe3.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:98ec8c13-e4fa-524a-8da8-c1f0e80436a3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Totenstille - Filmregisseur Christian Petzold über das brennende Europa",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-01T15:30:30.000Z",
+    "url": "https://www.deutschlandfunk.de/totenstille-filmregisseur-christian-petzold-ueber-das-brennende-europa-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/totenstille_filmregisseur_christian_petzold_ueber_das_dlf_20260801_1730_062ae028.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:192eb710-9931-5772-bfe2-1ccda49d806b",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/kulturmeldungen_30072026_dlf_20260730_1756_92ea6f1c.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3fca1092-cc38-54f3-9a7d-3463d0f84d98",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vorbild - Barcelona ist UNESCO-Welthauptstadt der Architektur",
-    "summary": "Macher, Julia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-30T15:51:05.000Z",
-    "url": "https://www.deutschlandfunk.de/vorbild-barcelona-ist-unesco-welthauptstadt-der-architektur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/vorbild_barcelona_ist_unesco_welthauptstadt_der_architektur_dlf_20260730_1751_fbe95dc4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c4a50190-9a88-595c-b4b6-b732924810c2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Abschiedsmusik - Ex-Intendant Hinterhäuser spielt in Salzburg die \"Winterreise\"",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-30T15:45:39.000Z",
-    "url": "https://www.deutschlandfunk.de/abschiedsmusik-ex-intendant-hinterhaeuser-spielt-in-salzburg-die-winterreise-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/abschiedsmusik_ex_intendant_hinterhaeuser_spielt_in_salzburg_dlf_20260730_1745_a1e86893.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7b2cbbac-0957-56c2-b1ac-dd36058ef3bc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie zieht ein Museum aus? Das Wallraf-Richartz-Museum in Köln wird geräumt",
-    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-30T15:40:33.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-zieht-ein-museum-aus-das-wallraf-richartz-museum-in-koeln-wird-geraeumt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/wie_zieht_ein_museum_aus_das_wallraf_richartz_museum_in_dlf_20260730_1740_4ae75459.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7710e15a-688b-5887-8697-38e3e20bb20d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bitteres Fest - Der neue Film von Pedro Almodóvar",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-30T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/bitteres-fest-der-neue-film-von-pedro-almod-var-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/bitteres_fest_der_neue_film_von_pedro_almodovar_dlf_20260730_1735_6ae65e24.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

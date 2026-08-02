@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:b40a2908-4376-5545-a01e-21473d244d15",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 01.08.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-01T15:56:04.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/kulturmeldungen_01082026_dlf_20260801_1756_a03a5759.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:25121a41-05db-5a39-b124-039c783b2df8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mäander durch die Kunstgeschichte: Das LACMA von Architekt Peter Zumthor",
+    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-01T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/maeander-durch-die-kunstgeschichte-das-lacma-von-architekt-peter-zumthor-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/maeander_durch_die_kunstgeschichte_das_lacma_von_architekt_dlf_20260801_1751_54386923.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:64bfe285-4f77-535d-bc97-6ef4b8293a99",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Expressionist und Einzelgänger - Otto Gleichmann Retrospektive in Hannover",
+    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-01T15:37:47.000Z",
+    "url": "https://www.deutschlandfunk.de/expressionist-und-einzelgaenger-otto-gleichmann-retrospektive-in-hannover-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/expressionist_und_einzelgaenger_otto_gleichmann_dlf_20260801_1737_792edfe3.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:98ec8c13-e4fa-524a-8da8-c1f0e80436a3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Totenstille - Filmregisseur Christian Petzold über das brennende Europa",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-01T15:30:30.000Z",
+    "url": "https://www.deutschlandfunk.de/totenstille-filmregisseur-christian-petzold-ueber-das-brennende-europa-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/totenstille_filmregisseur_christian_petzold_ueber_das_dlf_20260801_1730_062ae028.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:370c1a4d-ab86-56d5-a2b1-136d2633971f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Renascent\" von The Durutti Column - Musik nach eigenen Regeln",
+    "summary": "Möller, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-01T13:52:29.000Z",
+    "url": "https://www.deutschlandfunk.de/renascent-von-the-durutti-column-musik-nach-eigenen-regeln-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/renascent_von_the_durutti_column_musik_nach_eigenen_regeln_dlf_20260801_1552_4f9a13a2.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f59fc83a-4b2a-5cd9-b423-9bc50071cbf8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Band 1000 Rabbits - Sind wir schon Freunde?",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-08-01T13:40:57.000Z",
+    "url": "https://www.deutschlandfunk.de/band-1000-rabbits-sind-wir-schon-freunde-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/band_1000_rabbits_sind_wir_schon_freunde_dlf_20260801_1540_caa87b86.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:c7de43ce-c0f5-5334-9e1d-16407d6a7577",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Band KYTES - Wie aus Indie-Pop ein kleiner Rave wird",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-08-01T13:20:41.000Z",
+    "url": "https://www.deutschlandfunk.de/band-kytes-wie-aus-indie-pop-ein-kleiner-rave-wird-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/band_kytes_wie_aus_indie_pop_ein_kleiner_rave_wird_dlf_20260801_1520_cba0135d.mp3?refId=corso-104",
+    "duration": "14 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:192eb710-9931-5772-bfe2-1ccda49d806b",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -259,110 +438,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:3fca1092-cc38-54f3-9a7d-3463d0f84d98",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vorbild - Barcelona ist UNESCO-Welthauptstadt der Architektur",
-    "summary": "Macher, Julia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-30T15:51:05.000Z",
-    "url": "https://www.deutschlandfunk.de/vorbild-barcelona-ist-unesco-welthauptstadt-der-architektur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/vorbild_barcelona_ist_unesco_welthauptstadt_der_architektur_dlf_20260730_1751_fbe95dc4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c4a50190-9a88-595c-b4b6-b732924810c2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Abschiedsmusik - Ex-Intendant Hinterhäuser spielt in Salzburg die \"Winterreise\"",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-30T15:45:39.000Z",
-    "url": "https://www.deutschlandfunk.de/abschiedsmusik-ex-intendant-hinterhaeuser-spielt-in-salzburg-die-winterreise-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/abschiedsmusik_ex_intendant_hinterhaeuser_spielt_in_salzburg_dlf_20260730_1745_a1e86893.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7b2cbbac-0957-56c2-b1ac-dd36058ef3bc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie zieht ein Museum aus? Das Wallraf-Richartz-Museum in Köln wird geräumt",
-    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-30T15:40:33.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-zieht-ein-museum-aus-das-wallraf-richartz-museum-in-koeln-wird-geraeumt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/wie_zieht_ein_museum_aus_das_wallraf_richartz_museum_in_dlf_20260730_1740_4ae75459.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7710e15a-688b-5887-8697-38e3e20bb20d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bitteres Fest - Der neue Film von Pedro Almodóvar",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-30T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/bitteres-fest-der-neue-film-von-pedro-almod-var-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/bitteres_fest_der_neue_film_von_pedro_almodovar_dlf_20260730_1735_6ae65e24.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:4b07e67e-92b9-5b80-b1f6-0178d0600968",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -476,81 +551,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/neue_filme_the_invite_bitteres_fest_der_perfekte_schein_der_dlf_20260729_1524_ab23d824.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:2080f753-27bc-55c7-9479-5db683d44587",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verspielte Realitätsflucht - Warum ist jetzt alles \"whimsy\"?",
-    "summary": "Gnan, Mona www.deutschlandfunk.de, Corso",
-    "date": "2026-07-28T13:25:42.000Z",
-    "url": "https://www.deutschlandfunk.de/verspielte-realitaetsflucht-warum-ist-jetzt-alles-whimsy-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/verspielte_realitaetsflucht_warum_ist_jetzt_alles_whimsy_dlf_20260728_1525_b1fb561a.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:885be7bd-b974-5bd0-bd31-9d5577200693",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das eigene Museum - Ratinger Hof, der Kreißsaal des Deutsch-Punks",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-28T13:15:28.000Z",
-    "url": "https://www.deutschlandfunk.de/das-eigene-museum-ratinger-hof-der-kreisssaal-des-deutsch-punks-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/das_eigene_museum_ratinger_hof_der_kreisssaal_des_deutsch_dlf_20260728_1515_b2fa52d7.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:be966d54-044f-5e8e-a4ca-f8d3d2953deb",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wacken Open Air 26 - Wo steht der Nachwuchs bei Heavy Metal?",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-07-28T13:08:05.000Z",
-    "url": "https://www.deutschlandfunk.de/wacken-open-air-26-wo-steht-der-nachwuchs-bei-heavy-metal-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/28/wacken_open_air_26_wo_steht_der_nachwuchs_bei_heavy_metal_dlf_20260728_1508_76b3f38d.mp3?refId=corso-104",
-    "duration": "13 Min",
     "tags": [
       "kultur",
       "pop",

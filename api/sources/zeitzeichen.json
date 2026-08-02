@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:024fd8562a8e5aaa3029c93ce3b50a38",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Fritz Lang: Der Besessene der bewegten Bilder",
+    "summary": "<p>Er gilt als Kino-Genie und als Despot am Set. Als Filmregisseur Fritz Lang am 2.8.1976 stirbt, nimmt er auch das Geheimnis um den Tod seiner ersten Frau mit ins Grab.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Thomas Klug:</strong><br><ul><li>wie Fritz Lang vom Wiener Jungen zu einem der einflussreichsten Filmregisseure des 20. Jahrhunderts wird, </li><li>warum sein Monumentalfilm \"Metropolis\" die UFA an ihre finanziellen Grenzen bringt, </li><li>weshalb Fritz Lang in Hollywood neu anfängt.</li></ul><br>Als Jugendlicher entdeckt Fritz Lang im Kino seine Faszination für bewegte Bilder und beschließt, selbst Geschichten für die Leinwand zu erzählen. Mit Filmen wie \"Metropolis\", \"M – Eine Stadt sucht einen Mörder\" und den \"Dr. Mabuse\"-Filmen prägt er das Kino nachhaltig.<br><br>Seine kompromisslose Suche nach Perfektion macht ihn berühmt, aber auch gefürchtet. Nach der Machtübernahme der Nationalsozialisten verlässt Lang Deutschland und setzt seine Karriere in Hollywood fort. Bis heute gilt er als einer der bedeutendsten Regisseure der Filmgeschichte.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Rolf Aurich, Deutsche Kinemathek, Berlin</li><li><a href=\"https://www.dhm.de/lemo/biografie/fritz-lang\" rel=\"noopener\" target=\"_blank\">LEMO: Fritz Lang</a></li><li><a href=\"https://harvardfilmarchive.org/programs/the-complete-fritz-lang-2\" rel=\"noopener\" target=\"_blank\">Harvard Film Archive: The complete Fritz Lang</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:d38d5fe3b6310e86/\" rel=\"noopener\" target=\"_blank\">UFA-Palast in Berlin eröffnet (am 18.09.1919)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:07699ecbbc2fa71f/\" rel=\"noopener\" target=\"_blank\">Alfred Hitchcocks Film \"Der unsichtbare Dritte\" in Deutschland</a></li><li>SWR Kultur: <a href=\"https://www.ardsounds.de/episode/urn:ard:section:83f4c5c1eb12e086/\" rel=\"noopener\" target=\"_blank\">100 Jahre Metropolis: SWR Symphonieorchester spielt Filmmusik ein</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/metropolen/los_angeles_stadt_der_engel/pwiehollywoodmythosundrealitaet100.html\" rel=\"noopener\" target=\"_blank\">Hollywood – Mythos und Realität</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Thomas Klug<br>Redaktion: Frank Zirpins",
+    "date": "2026-08-02T04:00:25.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-fritz-lang-der-besessene-der-bewegten-bilder-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-fritz-lang-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/11/d380a8c9-c8ef-48b9-902f-7d7d3ff882f5/d380a8c9-c8ef-48b9-902f-7d7d3ff882f5_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:15406a4dfa79fbd055c8e76313c2d9f8",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ende-der-altsteinzeit-wie-friedlich-waren-unsere-vorfahren-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-palaeolithikum-steinzeit-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/20/e1813fbe-7b53-4825-9fc4-cea5c78514cd/e1813fbe-7b53-4825-9fc4-cea5c78514cd_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:b6365ecdd1d403cd460b2b17fac36044",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "König Roderich und der Untergang des Westgotenreichs",
-    "summary": "<p>Im Juli 711 stirbt der letzte Westgotenkönig Roderich im Kampf gegen ein Heer aus Berbern und Arabern. Es folgen fast 800 Jahre muslimischer Herrschaft auf der iberischen Halbinsel.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Tobias Sauer:</strong><br><ul><li>warum König Roderich mit seinen Adligen im Streit liegt,</li><li>welche Schätze die Araber auf der Iberischen Halbinsel suchen,</li><li>dass Roderichs Witwe sich mit einem Eroberer neu verheiratet,</li><li>wie sein Tod eine 700-jährige muslimische Herrschaft einläutet.</li></ul><br>Der Legende nach verbündet sich Julian, Statthalter auf der nordafrikanischen Seite der Straße von Gebraltar, mit den Arabern. Der Grund: Der westgotische König Roderich soll Julians Tochter geschwängert haben. Die Rache endet tödlich: Der König fällt im Juli 711 im Kampf gegen die arabisch-berberischen Truppen.<br><br>Historiker halten es jedoch für wahrscheinlicher, dass die Araber zu einem Beutezug übers Meer gesetzt haben - ohne Julians Hilfe. Der Tod Roderichts eröffnet ihnen dann unerwartet die Chance, die Herrschaft über die Iberische Halbinsel zu übernehmen. Zumal der Widerstand nicht zu groß ist. Teile der westgotischen Eliten arrangieren sich rasch mit den neuen Machthabern.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Sabine Panzram, Professorin für Alte Geschichte, Universität Hamburg</li><li>Ibn Abd-el-Hakem: The Islamic Conquest of Spain. Whitefish 2010</li><li>Roger Collins: Visigothic Spain, 409 – 711. Malden, Mass. 2004</li><li>Roger Collins: The Arab conquest of Spain: 710 – 797. Oxford 1998</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Uni Köln: <a href=\"https://saraceni.uni-koeln.de/wiki/Chronica_Muzarabica\" rel=\"noopener\" target=\"_blank\">Chronica Muzarabica</a></li><li>SWR 2 Wissen: <a href=\"https://www.swr.de/swrkultur/wissen/al-andalus-heute-spaniens-muslimisches-erbe-swr2-wissen-2022-12-27-100.html\" rel=\"noopener\" target=\"_blank\">Al-Andalus heute – Spaniens muslimisches Erbe</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Tobias Sauer<br>Redaktion: Christoph Tiegel und Sefa Inci Suvak<br>Technik: Martin Kropp",
-    "date": "2026-07-23T04:00:58.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-koenig-roderich-und-der-untergang-des-westgotenreichs-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-koenig-roderich-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/13/0eb54e97-3e0a-44d8-a83d-571299b9c1bd/0eb54e97-3e0a-44d8-a83d-571299b9c1bd_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
