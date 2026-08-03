@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:5a695264-9a64-553b-ad12-680f6a405a70",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 02.08.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-02T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/kulturmeldungen_02082026_dlf_20260802_1756_255f8ae5.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a8baa68a-41b3-5ff9-bafd-789c5515f22f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Poesie des Alltäglichen - Zum Tod der Schriftstellerin Monika Helfer",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-02T15:51:06.000Z",
+    "url": "https://www.deutschlandfunk.de/poesie-des-alltaeglichen-zum-tod-der-schriftstellerin-monika-helfer-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/zum_tod_der_schriftstellerin_monika_helfer_verleger_jo_dlf_20260802_1751_3e5e0490.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:349704e7-0368-5a56-b9cf-011c829d641e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam oder einsam? Buchautorin Gunda Windmüller über Yoga",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-02T15:41:54.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-buchautorin-gunda-windmueller-ueber-yoga-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/gemeinsam_oder_einsam_buchautorin_gunda_windmueller_ueber_dlf_20260802_1741_c85c9567.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bda75e64-dcf8-5ca8-b094-00149b721fd2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Welt im Fokus\" - Ausstellung über Reisefotografie in der Albertina in Wien",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-02T15:36:30.000Z",
+    "url": "https://www.deutschlandfunk.de/die-welt-im-fokus-ausstellung-ueber-reisefotografie-in-der-albertina-in-wien-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/die_welt_im_fokus_ausstellung_ueber_reisefotografie_in_der_dlf_20260802_1736_5453a72b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:092245fe-dae3-5fa3-8bf4-06e761f54654",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gelungen? Eine Bilanz des Bayreuther KI-Rings",
+    "summary": "Schmitz, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-02T15:30:18.000Z",
+    "url": "https://www.deutschlandfunk.de/gelungen-eine-bilanz-des-bayreuther-ki-rings-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/gelungen_eine_bilanz_des_bayreuther_ki_rings_dlf_20260802_1730_6151e2fa.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:b40a2908-4376-5545-a01e-21473d244d15",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -114,136 +244,6 @@
     "url": "https://www.deutschlandfunk.de/kulturmeldungen-31-07-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/kulturmeldungen_31072026_dlf_20260731_1756_230998a3.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0a9247a9-e0cb-5769-bed1-eec67de7884c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kunstspeicher im Hafen: Das Nederlands Fotomuseum in Rotterdam",
-    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-31T15:51:56.000Z",
-    "url": "https://www.deutschlandfunk.de/kunstspeicher-im-hafen-das-nederlands-fotomuseum-in-rotterdam-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/kunstspeicher_im_hafen_das_nederlands_fotomuseum_in_dlf_20260731_1751_66060820.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5777aa60-f6a6-559e-8806-e03e46cd3b02",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Joachim Ringelnatz als Maler - Ausstellung im Buchheim Museum Bernried",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-31T15:47:04.000Z",
-    "url": "https://www.deutschlandfunk.de/joachim-ringelnatz-als-maler-ausstellung-im-buchheim-museum-bernried-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/joachim_ringelnatz_als_maler_ausstellung_im_buchheim_museum_dlf_20260731_1747_ad02d476.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6c7379fb-6ade-59cf-843c-adc651e2168a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Feuernacht\" - Stück über Südtirol bei den Tiroler Volksschauspielen Telfs",
-    "summary": "Pesl, Martin Thomas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-31T15:42:22.000Z",
-    "url": "https://www.deutschlandfunk.de/feuernacht-stueck-ueber-suedtirol-bei-den-tiroler-volksschauspielen-telfs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/feuernacht_stueck_ueber_suedtirol_bei_den_tiroler_dlf_20260731_1742_03004add.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:abbd1d5c-0c0c-5bc0-aa89-099fe665eea6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Grenzzäune und Identität: Sofie Steinberger zu Ceuta und Melilla",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-31T15:36:20.000Z",
-    "url": "https://www.deutschlandfunk.de/grenzzaeune-und-identitaet-sofie-steinberger-zu-ceuta-und-melilla-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/grenzzaeune_und_identitaet_sofie_steinberger_zu_ceuta_und_dlf_20260731_1736_5cfdff7c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:899cc240-3181-5497-bd9d-55878a19f390",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 30.07.2026",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-30T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/kulturmeldungen_30072026_dlf_20260730_1756_92ea6f1c.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
     "tags": [
       "kultur",
