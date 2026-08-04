@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:acc7d6ff-b04d-5110-ad3b-d1f1157320fd",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 03.08.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-03T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/kulturmeldungen_03082026_dlf_20260803_1756_086b41c9.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:045090af-cf69-584d-adc4-11d195d69257",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Bodies never lie\" - Arbeiten von Stan Douglas in Arles",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-03T15:51:47.000Z",
+    "url": "https://www.deutschlandfunk.de/bodies-never-lie-arbeiten-von-stan-douglas-in-arles-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/bodies_never_lie_arbeiten_von_stan_douglas_in_arles_dlf_20260803_1751_7d6a277d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a88e6ebf-2292-51df-a2e5-13d2a18ed228",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Von Afrika lernen? Mike Schlaich über Bauen im Klimawandel",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-03T15:45:40.000Z",
+    "url": "https://www.deutschlandfunk.de/von-afrika-lernen-mike-schlaich-ueber-bauen-im-klimawandel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/von_afrika_lernen_mike_schlaich_ueber_bauen_im_klimawandel_dlf_20260803_1745_de69104d.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:42164850-08ff-55be-9c64-c69a4cfea250",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ariadne auf Naxos - Ersan Mondtag inszeniert Strauss in Salzburg",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-03T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/ariadne-auf-naxos-ersan-mondtag-inszeniert-strauss-in-salzburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/ariadne_auf_naxos_ersan_mondtag_inszeniert_strauss_in_dlf_20260803_1735_9666b559.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e5e5a5ad-36de-5fec-a54b-359bbcba4844",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das eigene Festival - Salon Libertatia im Hunsrück",
+    "summary": "van de Weyer, Anke www.deutschlandfunk.de, Corso",
+    "date": "2026-08-03T13:24:00.000Z",
+    "url": "https://www.deutschlandfunk.de/das-eigene-festival-salon-libertatia-im-hunsrueck-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/das_eigene_festival_salon_libertatia_im_hunsrueck_dlf_20260803_1524_b4e0d93a.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:de91e391-6d97-5d4d-ba06-c2b8b13bb7b9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Orhun Mersin: Wenn KI, Drag und anatolische Nostalgie aufeinandertreffen",
+    "summary": "Groth, Stefanie www.deutschlandfunk.de, Corso",
+    "date": "2026-08-03T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/orhun-mersin-wenn-ki-drag-und-anatolische-nostalgie-aufeinandertreffen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/orhun_mersin_wenn_ki_drag_und_anatolische_nostalgie_dlf_20260803_1520_50deceeb.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:9c6cfebf-460d-50f8-ab05-83ccb45a3e56",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach dem Anschlag: Wo bleibt Raum für queere Trauer?",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-08-03T13:15:54.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-dem-anschlag-wo-bleibt-raum-fuer-queere-trauer-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/nach_dem_anschlag_wo_bleibt_raum_fuer_queere_trauer_dlf_20260803_1515_ac0285f1.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:5a695264-9a64-553b-ad12-680f6a405a70",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -156,84 +335,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:25121a41-05db-5a39-b124-039c783b2df8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mäander durch die Kunstgeschichte: Das LACMA von Architekt Peter Zumthor",
-    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-01T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/maeander-durch-die-kunstgeschichte-das-lacma-von-architekt-peter-zumthor-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/maeander_durch_die_kunstgeschichte_das_lacma_von_architekt_dlf_20260801_1751_54386923.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:64bfe285-4f77-535d-bc97-6ef4b8293a99",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Expressionist und Einzelgänger - Otto Gleichmann Retrospektive in Hannover",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-01T15:37:47.000Z",
-    "url": "https://www.deutschlandfunk.de/expressionist-und-einzelgaenger-otto-gleichmann-retrospektive-in-hannover-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/expressionist_und_einzelgaenger_otto_gleichmann_dlf_20260801_1737_792edfe3.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:98ec8c13-e4fa-524a-8da8-c1f0e80436a3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Totenstille - Filmregisseur Christian Petzold über das brennende Europa",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-01T15:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/totenstille-filmregisseur-christian-petzold-ueber-das-brennende-europa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/totenstille_filmregisseur_christian_petzold_ueber_das_dlf_20260801_1730_062ae028.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:370c1a4d-ab86-56d5-a2b1-136d2633971f",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -300,32 +401,6 @@
       "pop",
       "kunst",
       "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:192eb710-9931-5772-bfe2-1ccda49d806b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 31.07.2026",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-31T15:56:16.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-31-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/kulturmeldungen_31072026_dlf_20260731_1756_230998a3.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
@@ -463,31 +538,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:13c1e912-9db8-53ab-b364-7b83b22fedcf",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hackerangriff auf Ariane Grande - Wie gegen Bootlegs im Darknet ermittelt wird",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-30T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/hackerangriff-auf-ariane-grande-wie-gegen-bootlegs-im-darknet-ermittelt-wird-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/hackerangriff_auf_ariane_grande_wie_gegen_bootlegs_im_dlf_20260730_1510_5649f767.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-der-rest-ist-geschichte:402b0a1b-1985-5f81-a6af-06ecec7b2999",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -511,56 +561,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7c5b5805-c7bf-5416-bb8e-b581730882e4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: The Invite, Bitteres Fest, Der perfekte Schein - der Fall Bojarski",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-07-29T13:24:27.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-the-invite-bitteres-fest-der-perfekte-schein-der-fall-bojarski-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/neue_filme_the_invite_bitteres_fest_der_perfekte_schein_der_dlf_20260729_1524_8a1fabf1.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4491da67-9b54-5c38-9f1f-caed5ee5cfbf",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: The Invite, Bitteres Fest, Der perfekte Schein - der Fall Bojarski",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-07-29T13:24:02.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-the-invite-bitteres-fest-der-perfekte-schein-der-fall-bojarski-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/29/neue_filme_the_invite_bitteres_fest_der_perfekte_schein_der_dlf_20260729_1524_ab23d824.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
