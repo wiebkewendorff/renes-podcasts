@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:319ac3a1-368b-5b74-9863-72777907a2e2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 04.08.2026",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-04T15:56:52.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-04-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/kulturmeldungen_04082026_dlf_20260804_1756_48a43ae4.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ff3eefec-5616-5605-8c00-bd4aebb66f10",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam oder einsam? Sterneköchin Julia Komp: Kein Menu ohne Teamarbeit",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-04T15:49:23.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-sternekoechin-julia-komp-kein-menu-ohne-teamarbeit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/gemeinsam_oder_einsam_sternekoechin_julia_komp_kein_menu_dlf_20260804_1749_8a9d3c9c.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8239f25e-c97e-5a54-a35a-f13fe05fdb61",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Melonis Kulturpolitik: Wie geht es weiter nach dem Aus für zwei Kulturzentren?",
+    "summary": "Weinreich, Charlotte www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-04T15:44:20.000Z",
+    "url": "https://www.deutschlandfunk.de/melonis-kulturpolitik-wie-geht-es-weiter-nach-dem-aus-fuer-zwei-kulturzentren-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/melonis_kulturpolitik_wie_geht_es_weiter_nach_dem_aus_fuer_dlf_20260804_1744_849aacfd.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f3b79a94-78e3-5b72-9d14-362a4f19a7f9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Klimawandel und die Gartenkultur - Christian Martin Vogtherr, Generals. SPSG",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-04T15:36:35.000Z",
+    "url": "https://www.deutschlandfunk.de/der-klimawandel-und-die-gartenkultur-christian-martin-vogtherr-generals-spsg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/der_klimawandel_und_die_gartenkultur_christian_martin_dlf_20260804_1736_05978618.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:acc7d6ff-b04d-5110-ad3b-d1f1157320fd",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/zum_tod_der_schriftstellerin_monika_helfer_verleger_jo_dlf_20260802_1751_3e5e0490.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:349704e7-0368-5a56-b9cf-011c829d641e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gemeinsam oder einsam? Buchautorin Gunda Windmüller über Yoga",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-02T15:41:54.000Z",
-    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-buchautorin-gunda-windmueller-ueber-yoga-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/gemeinsam_oder_einsam_buchautorin_gunda_windmueller_ueber_dlf_20260802_1741_c85c9567.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bda75e64-dcf8-5ca8-b094-00149b721fd2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Welt im Fokus\" - Ausstellung über Reisefotografie in der Albertina in Wien",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-02T15:36:30.000Z",
-    "url": "https://www.deutschlandfunk.de/die-welt-im-fokus-ausstellung-ueber-reisefotografie-in-der-albertina-in-wien-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/die_welt_im_fokus_ausstellung_ueber_reisefotografie_in_der_dlf_20260802_1736_5453a72b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:092245fe-dae3-5fa3-8bf4-06e761f54654",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gelungen? Eine Bilanz des Bayreuther KI-Rings",
-    "summary": "Schmitz, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-02T15:30:18.000Z",
-    "url": "https://www.deutschlandfunk.de/gelungen-eine-bilanz-des-bayreuther-ki-rings-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/gelungen_eine_bilanz_des_bayreuther_ki_rings_dlf_20260802_1730_6151e2fa.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b40a2908-4376-5545-a01e-21473d244d15",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 01.08.2026",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-01T15:56:04.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/kulturmeldungen_01082026_dlf_20260801_1756_a03a5759.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

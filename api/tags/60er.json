@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-8947189655603605",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Pilzsachverständiger Moritz Schmid bringt Pilze für jede Jahreszeit auf den Teller",
+    "summary": "Schon als kleiner Junge lernte Moritz Schmid im Wald die faszinierende Welt der Pilze kennen - weder Pflanze noch Tier, mal tödlich, mal heilsam. Heute ist er Pilzsachverständiger und Pilzcoach der Deutschen Gesellschaft für Mykologie; auf Instagram folgen ihm rund 80.000 Menschen durchs Unterholz. Damit die Funde am Ende auf dem Teller landen, hat er Rezepte für alle vier Jahreszeiten in seinem Kochbuch „Pilze, Pilze, Pilze\" gesammelt. Eine Kostprobe gibt es bei uns.",
+    "date": "2026-08-03T16:45:00.000Z",
+    "url": "https://www.ndr.de/pilzsachverstaendiger-moritz-schmid-bringt-pilze-fuer-jede-jahreszeit-auf-teller,audio-3396986.html",
+    "image": "https://images.ndr.de/image/ea274dbe-5f75-4371-ad36-25bdee310e52/AAABn8jl8Cs/AAABnSStX0g/1x1-big/screenshot-206654.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0804/AU-20260804-0938-4900.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-8794988319091566",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -110,31 +135,6 @@
     "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/desiree-von-bohlen-und-halbach-ueber-demenz-und-schwedische-koenigshaus,audio-3387954.html",
     "image": "https://images.ndr.de/image/1f96b67a-1018-4a53-804c-9df2cd89192d/AAABn67vm9k/AAABnSStX0g/1x1-big/screenshot-203728.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0730/AU-20260730-0945-2700.mp3",
-    "duration": "27 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-11607537827863368",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Biologe Carsten Gröhn über Bernstein",
-    "summary": "Seit Jahrzehnten spürt der frühere Biologielehrer Bernstein-Vorkommen weltweit auf und dokumentiert sie auch. So kann die interessierte Leserschaft mit dem Buch \"Bernstein Fundorte - Teil 1 Deutschland\" auf Entdeckungsreise gehen. Da lassen wir uns gerne mitnehmen und werden auch etwas über den Reiz von Kiesgruben lernen.",
-    "date": "2026-07-28T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/biologe-carsten-groehn-ueber-bernstein,audio-3385710.html",
-    "image": "https://images.ndr.de/image/22f1d0c0-cb87-4145-8b1d-ce1a0981c7a2/AAABn6m6CSc/AAABnSStX0g/1x1-big/screenshot-203054.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0729/AU-20260729-0937-4300.mp3",
     "duration": "27 Min",
     "tags": [
       "beatles",

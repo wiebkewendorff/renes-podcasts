@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:d2a5773e-1692-55e6-9390-4f7462b44946",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die eigene Videothek - Format Filmkunst e.V. in Halle",
+    "summary": "Dell, Matthias www.deutschlandfunk.de, Corso",
+    "date": "2026-08-04T13:24:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-eigene-videothek-format-filmkunst-e-v-in-halle-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/die_eigene_videothek_format_filmkunst_ev_in_halle_dlf_20260804_1524_e7122bb6.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d3e9e663-a6a4-5136-b636-a5aeb97383a5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sandra Wollner über \"Everytime\": Wie Trauer die Wirklichkeit verschiebt",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-08-04T13:15:45.000Z",
+    "url": "https://www.deutschlandfunk.de/sandra-wollner-ueber-everytime-wie-trauer-die-wirklichkeit-verschiebt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/sandra_wollner_ueber_everytime_wie_trauer_die_wirklichkeit_dlf_20260804_1515_fe293ece.mp3?refId=corso-104",
+    "duration": "18 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7ba4877e-06b5-5730-8018-cf3c19f8c4b7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ariana Grandes Rückzug: Wann dürfen Körper zum Thema werden?",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-08-04T13:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ariana-grandes-rueckzug-wann-duerfen-koerper-zum-thema-werden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/ariana_grandes_rueckzug_wann_duerfen_koerper_zum_thema_dlf_20260804_1508_34103453.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:e5e5a5ad-36de-5fec-a54b-359bbcba4844",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/musik_trotz_taliban_der_sound_einer_neuen_generation_beim_dlf_20260731_1515_ab71fcb4.mp3?refId=corso-104",
     "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7f73e77e-752c-5342-873a-a076435e7029",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "ARD-Doku \"Love is Stronger\" - Das Erbe der Love-Parade",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-31T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ard-doku-love-is-stronger-das-erbe-der-love-parade-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/ard_doku_love_is_stronger_das_erbe_der_love_parade_dlf_20260731_1515_b094d45a.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d864e05f-f84a-5609-9b59-74d87bdc96bd",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Urteil im Verfahren GEMA vs. Suno: Erneuter Sieg gegen KI",
-    "summary": "Krone, Tobi www.deutschlandfunk.de, Corso",
-    "date": "2026-07-31T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/urteil-im-verfahren-gema-vs-suno-erneuter-sieg-gegen-ki-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/urteil_im_verfahren_gema_vs_suno_erneuter_sieg_gegen_ki_dlf_20260731_1506_4f702982.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4b07e67e-92b9-5b80-b1f6-0178d0600968",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Tank Tops - Die queere Aneignung des \"Wife-Beaters\"",
-    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
-    "date": "2026-07-30T13:25:00.000Z",
-    "url": "https://www.deutschlandfunk.de/tank-tops-die-queere-aneignung-des-wife-beaters-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/30/tank_tops_die_queere_aneignung_des_wife_beaters_dlf_20260730_1525_a64ead31.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

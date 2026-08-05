@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-08-04-doku-drops-15-innenansichten-drk-20260804-1805-cd4b90c6-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "doku drops 15: Innenansichten - Jeden Monat neue Kurzdokus",
+    "summary": "Was kann uns unser Körper sagen, wenn wir ganz genau hinhören? Drei Autorinnen kehren das Innere nach Außen und betrachten, was im Körper brodelt. Ein Remix aus alten und neuen Kurzdokus. Zusammenstellung: Judith Geffert www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-04T16:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/doku-drops-15-innenansichten-102.html",
+    "image": "https://bilder.deutschlandfunk.de/5d/c3/1f/38/5dc31f38-6f9c-4428-ae53-1da19f2ca8c2/doku-drops-15-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/doku_drops_15_innenansichten_drk_20260804_1805_cd4b90c6.mp3?refId=das-feature-104",
+    "duration": "28 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2025-09-16-sesamstrasse-im-krieg-donald-trump-hat-angst-vor-elmo-mit-dlf-20250916-1915-ee8945d5-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/c0/cb/3b/e7/c0cb3be7-6af2-4e61-af85-6ed462206a04/doku-drops-13-kollision-bild-satt-gruen-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/doku_drops_13_kollision_drk_20260711_1805_973e91b1.mp3?refId=das-feature-104",
     "duration": "26 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-02-und-irgendwann-zuckte-noch-ein-ohr-vom-hin-und-wegschauen-im-dlf-20260602-1915-8650de7b-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Und irgendwann zuckte noch ein Ohr - Vom Hin- und Wegschauen im Tierschutz",
-    "summary": "In einem bayerischen Dorf verenden vernachlässigte Rinder nicht im Verborgenen, hinter Stallmauern, sondern auf der Weide. Jeder kann das Leid der Tiere sehen. Auch die zuständigen Behörden, die über viele Jahre Hinweise aus der Bevölkerung erhalten. Von Rosie Füglein www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-02T06:11:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/und-irgendwann-zuckte-noch-ein-ohr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/17/91/34/b3/179134b3-a093-43d2-8eea-bb24d98cc5bd/bild-fuer-feature-und-irgendwann-zuckte-noch-ein-ohr-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/02/und_irgendwann_zuckte_noch_ein_ohr_vom_hin_und_wegschauen_im_dlf_20260602_1915_8650de7b.mp3?refId=das-feature-104",
-    "duration": "52 Min",
     "tags": [
       "feature",
       "dokumentation",
