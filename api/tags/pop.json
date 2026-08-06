@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:de6307d3-ed49-5dd3-90e3-0dae567d3a4b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wiederentdeckt - Ebrahim Monsefi: Der Bob Dylan von Hormoz",
+    "summary": "Farzanefar, Amin www.deutschlandfunk.de, Corso",
+    "date": "2026-08-05T13:15:42.000Z",
+    "url": "https://www.deutschlandfunk.de/wiederentdeckt-ebrahim-monsefi-der-bob-dylan-von-hormoz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/wiederentdeckt_ebrahim_monsefi_der_bob_dylan_von_hormoz_dlf_20260805_1515_223f0185.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a4008594-d991-55b1-be98-d6ecdbc453ab",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Nightborn\", \"Lebensansichten eines Huhns\", \"Flieg steil\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-08-05T13:15:05.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-nightborn-lebensansichten-eines-huhns-flieg-steil-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/neue_filme_nightborn_lebensansichten_eines_huhns_flieg_steil_dlf_20260805_1515_863d843d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8d4e3c51-027f-51a4-9d51-cce6ce4bba38",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kampnagel - Wie ein Sommerfestival Hoffnung vermitteln will",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-08-05T13:05:23.000Z",
+    "url": "https://www.deutschlandfunk.de/kampnagel-wie-ein-sommerfestival-hoffnung-vermitteln-will-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/kampnagel_wie_ein_sommerfestival_hoffnung_vermitteln_will_dlf_20260805_1505_3a3292ea.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:d2a5773e-1692-55e6-9390-4f7462b44946",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -160,81 +235,6 @@
     "url": "https://www.deutschlandfunk.de/renascent-von-the-durutti-column-musik-nach-eigenen-regeln-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/renascent_von_the_durutti_column_musik_nach_eigenen_regeln_dlf_20260801_1552_4f9a13a2.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f59fc83a-4b2a-5cd9-b423-9bc50071cbf8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Band 1000 Rabbits - Sind wir schon Freunde?",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-08-01T13:40:57.000Z",
-    "url": "https://www.deutschlandfunk.de/band-1000-rabbits-sind-wir-schon-freunde-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/band_1000_rabbits_sind_wir_schon_freunde_dlf_20260801_1540_caa87b86.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:c7de43ce-c0f5-5334-9e1d-16407d6a7577",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Band KYTES - Wie aus Indie-Pop ein kleiner Rave wird",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-08-01T13:20:41.000Z",
-    "url": "https://www.deutschlandfunk.de/band-kytes-wie-aus-indie-pop-ein-kleiner-rave-wird-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/band_kytes_wie_aus_indie_pop_ein_kleiner_rave_wird_dlf_20260801_1520_cba0135d.mp3?refId=corso-104",
-    "duration": "14 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b4ee96bc-3464-50d1-b9f7-1279082ca32f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Musik trotz Taliban: Der Sound einer neuen Generation beim Sarkash Festival",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-31T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/musik-trotz-taliban-der-sound-einer-neuen-generation-beim-sarkash-festival-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/musik_trotz_taliban_der_sound_einer_neuen_generation_beim_dlf_20260731_1515_ab71fcb4.mp3?refId=corso-104",
     "duration": "7 Min",
     "tags": [
       "kultur",

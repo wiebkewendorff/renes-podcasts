@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:8eb1f6ec-579b-59a5-868e-d023e0751748",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 05.08.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-05T15:56:01.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/kulturmeldungen_05082026_dlf_20260805_1756_14bcc069.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7752b7e2-b5d6-5e84-893d-0bc412333380",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Anderen wichtig sein - Der Philosoph Michael Zichy über den Lebenssinn",
+    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-05T15:48:19.000Z",
+    "url": "https://www.deutschlandfunk.de/anderen-wichtig-sein-der-philosoph-michael-zichy-ueber-den-lebenssinn-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/anderen_wichtig_sein_der_philosoph_michael_zichy_ueber_den_dlf_20260805_1748_9dbaf424.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9739bcba-b55c-5562-9364-d117e8f03df0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Saint François d’Assise - Romeo Castellucci inszeniert in Salzburg Messiaen",
+    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-05T15:42:58.000Z",
+    "url": "https://www.deutschlandfunk.de/saint-fran-ois-d-assise-romeo-castellucci-inszeniert-in-salzburg-messiaen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/saint_francois_dassise_romeo_castellucci_inszeniert_in_dlf_20260805_1742_c5b92ed4.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:fe3199cc-478d-5376-9244-6918f53e79a3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lodernd und wärmend - Jutta Campenhausen über die Kulturgeschichte des Feuers",
+    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-05T15:36:54.000Z",
+    "url": "https://www.deutschlandfunk.de/lodernd-und-waermend-jutta-campenhausen-ueber-die-kulturgeschichte-des-feuers-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/lodernd_und_waermend_jutta_campenhausen_ueber_die_dlf_20260805_1736_bcb70c60.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:de6307d3-ed49-5dd3-90e3-0dae567d3a4b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wiederentdeckt - Ebrahim Monsefi: Der Bob Dylan von Hormoz",
+    "summary": "Farzanefar, Amin www.deutschlandfunk.de, Corso",
+    "date": "2026-08-05T13:15:42.000Z",
+    "url": "https://www.deutschlandfunk.de/wiederentdeckt-ebrahim-monsefi-der-bob-dylan-von-hormoz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/wiederentdeckt_ebrahim_monsefi_der_bob_dylan_von_hormoz_dlf_20260805_1515_223f0185.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a4008594-d991-55b1-be98-d6ecdbc453ab",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Nightborn\", \"Lebensansichten eines Huhns\", \"Flieg steil\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-08-05T13:15:05.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-nightborn-lebensansichten-eines-huhns-flieg-steil-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/neue_filme_nightborn_lebensansichten_eines_huhns_flieg_steil_dlf_20260805_1515_863d843d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8d4e3c51-027f-51a4-9d51-cce6ce4bba38",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kampnagel - Wie ein Sommerfestival Hoffnung vermitteln will",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-08-05T13:05:23.000Z",
+    "url": "https://www.deutschlandfunk.de/kampnagel-wie-ein-sommerfestival-hoffnung-vermitteln-will-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/kampnagel_wie_ein_sommerfestival_hoffnung_vermitteln_will_dlf_20260805_1505_3a3292ea.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:319ac3a1-368b-5b74-9863-72777907a2e2",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -257,58 +436,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:a88e6ebf-2292-51df-a2e5-13d2a18ed228",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von Afrika lernen? Mike Schlaich über Bauen im Klimawandel",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-03T15:45:40.000Z",
-    "url": "https://www.deutschlandfunk.de/von-afrika-lernen-mike-schlaich-ueber-bauen-im-klimawandel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/von_afrika_lernen_mike_schlaich_ueber_bauen_im_klimawandel_dlf_20260803_1745_de69104d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:42164850-08ff-55be-9c64-c69a4cfea250",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ariadne auf Naxos - Ersan Mondtag inszeniert Strauss in Salzburg",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-03T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/ariadne-auf-naxos-ersan-mondtag-inszeniert-strauss-in-salzburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/ariadne_auf_naxos_ersan_mondtag_inszeniert_strauss_in_dlf_20260803_1735_9666b559.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:e5e5a5ad-36de-5fec-a54b-359bbcba4844",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -384,58 +511,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:5a695264-9a64-553b-ad12-680f6a405a70",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 02.08.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-02T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/kulturmeldungen_02082026_dlf_20260802_1756_255f8ae5.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a8baa68a-41b3-5ff9-bafd-789c5515f22f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Poesie des Alltäglichen - Zum Tod der Schriftstellerin Monika Helfer",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-02T15:51:06.000Z",
-    "url": "https://www.deutschlandfunk.de/poesie-des-alltaeglichen-zum-tod-der-schriftstellerin-monika-helfer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/02/zum_tod_der_schriftstellerin_monika_helfer_verleger_jo_dlf_20260802_1751_3e5e0490.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:370c1a4d-ab86-56d5-a2b1-136d2633971f",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -446,81 +521,6 @@
     "url": "https://www.deutschlandfunk.de/renascent-von-the-durutti-column-musik-nach-eigenen-regeln-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/renascent_von_the_durutti_column_musik_nach_eigenen_regeln_dlf_20260801_1552_4f9a13a2.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f59fc83a-4b2a-5cd9-b423-9bc50071cbf8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Band 1000 Rabbits - Sind wir schon Freunde?",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-08-01T13:40:57.000Z",
-    "url": "https://www.deutschlandfunk.de/band-1000-rabbits-sind-wir-schon-freunde-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/band_1000_rabbits_sind_wir_schon_freunde_dlf_20260801_1540_caa87b86.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:c7de43ce-c0f5-5334-9e1d-16407d6a7577",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Band KYTES - Wie aus Indie-Pop ein kleiner Rave wird",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-08-01T13:20:41.000Z",
-    "url": "https://www.deutschlandfunk.de/band-kytes-wie-aus-indie-pop-ein-kleiner-rave-wird-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/band_kytes_wie_aus_indie_pop_ein_kleiner_rave_wird_dlf_20260801_1520_cba0135d.mp3?refId=corso-104",
-    "duration": "14 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b4ee96bc-3464-50d1-b9f7-1279082ca32f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Musik trotz Taliban: Der Sound einer neuen Generation beim Sarkash Festival",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-07-31T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/musik-trotz-taliban-der-sound-einer-neuen-generation-beim-sarkash-festival-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/31/musik_trotz_taliban_der_sound_einer_neuen_generation_beim_dlf_20260731_1515_ab71fcb4.mp3?refId=corso-104",
     "duration": "7 Min",
     "tags": [
       "kultur",
