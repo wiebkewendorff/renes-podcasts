@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:0d2d2b81-8b18-555d-a954-cb0317f040fa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 06.08.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-06T15:55:51.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/kulturmeldungen_06082026_dlf_20260806_1755_b3e5e394.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:da21184b-cfda-5d8b-91b1-f58949025d0a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hiroshima-Jahrestag - Yoko Tawada über Gedenkkultur in Japan",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-06T15:45:20.000Z",
+    "url": "https://www.deutschlandfunk.de/hiroshima-jahrestag-yoko-tawada-ueber-gedenkkultur-in-japan-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/hiroshima_jahrestag_yoko_tawada_ueber_gedenkkultur_in_japan_dlf_20260806_1745_6de0e598.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3900e613-413f-5f01-96db-dc879277f8fa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Irresistible Revolution\" - Eröffnung des Sommerfestivals Kampnagel Hamburg",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-06T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/irresistible-revolution-eroeffnung-des-sommerfestivals-kampnagel-hamburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/irresistible_revolution_eroeffnung_des_sommerfestivals_dlf_20260806_1741_b5df9063.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bb249d08-163c-5fb0-aa13-6acd44d2ea22",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gegenwart des Verlorenen - der Film \"Everytime\" von Sandra Wollner",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-06T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/gegenwart-des-verlorenen-der-film-everytime-von-sandra-wollner-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/gegenwart_des_verlorenen_der_film_everytime_von_sandra_dlf_20260806_1735_ebe3c43e.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:8eb1f6ec-579b-59a5-868e-d023e0751748",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/gemeinsam_oder_einsam_sternekoechin_julia_komp_kein_menu_dlf_20260804_1749_8a9d3c9c.mp3?refId=kultur-heute-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8239f25e-c97e-5a54-a35a-f13fe05fdb61",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Melonis Kulturpolitik: Wie geht es weiter nach dem Aus für zwei Kulturzentren?",
-    "summary": "Weinreich, Charlotte www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-04T15:44:20.000Z",
-    "url": "https://www.deutschlandfunk.de/melonis-kulturpolitik-wie-geht-es-weiter-nach-dem-aus-fuer-zwei-kulturzentren-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/melonis_kulturpolitik_wie_geht_es_weiter_nach_dem_aus_fuer_dlf_20260804_1744_849aacfd.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f3b79a94-78e3-5b72-9d14-362a4f19a7f9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Klimawandel und die Gartenkultur - Christian Martin Vogtherr, Generals. SPSG",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-04T15:36:35.000Z",
-    "url": "https://www.deutschlandfunk.de/der-klimawandel-und-die-gartenkultur-christian-martin-vogtherr-generals-spsg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/der_klimawandel_und_die_gartenkultur_christian_martin_dlf_20260804_1736_05978618.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:acc7d6ff-b04d-5110-ad3b-d1f1157320fd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 03.08.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-03T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/kulturmeldungen_03082026_dlf_20260803_1756_086b41c9.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:045090af-cf69-584d-adc4-11d195d69257",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Bodies never lie\" - Arbeiten von Stan Douglas in Arles",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-03T15:51:47.000Z",
-    "url": "https://www.deutschlandfunk.de/bodies-never-lie-arbeiten-von-stan-douglas-in-arles-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/bodies_never_lie_arbeiten_von_stan_douglas_in_arles_dlf_20260803_1751_7d6a277d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

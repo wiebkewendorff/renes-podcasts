@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:a29351c2-1bdd-5699-bfba-a669c855ab17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vom Männerteam zu den Lady Greyhounds: Ted Lasso Staffel 4",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-06T13:18:17.000Z",
+    "url": "https://www.deutschlandfunk.de/vom-maennerteam-zu-den-lady-greyhounds-ted-lasso-staffel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/vom_maennerteam_zu_den_lady_greyhounds_ted_lasso_staffel_4_dlf_20260806_1518_dea7348a.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:2767ecbe-3ee9-5f02-bb31-fc0dd1e0cc2c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Social Media ohne Algorithmus: kann Myspace das schaffen?",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-08-06T13:15:05.000Z",
+    "url": "https://www.deutschlandfunk.de/social-media-ohne-algorithmus-kann-myspace-das-schaffen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/social_media_ohne_algorithmus_kann_myspace_das_schaffen_dlf_20260806_1515_dfa5564c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f3f1b337-c9a2-51ff-90b4-9b32e7d0ebc5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Verwandlung\" im neuen Gewand: KI macht Kafkas Käfer zu Trap",
+    "summary": "Müller, Paulus; Zawadzki, Adam www.deutschlandfunk.de, Corso",
+    "date": "2026-08-06T13:05:55.000Z",
+    "url": "https://www.deutschlandfunk.de/die-verwandlung-im-neuen-gewand-ki-macht-kafkas-kaefer-zu-trap-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/die_verwandlung_im_neuen_gewand_ki_macht_kafkas_kaefer_zu_dlf_20260806_1505_1764c197.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:de6307d3-ed49-5dd3-90e3-0dae567d3a4b",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/das_eigene_festival_salon_libertatia_im_hunsrueck_dlf_20260803_1524_b4e0d93a.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:de91e391-6d97-5d4d-ba06-c2b8b13bb7b9",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Orhun Mersin: Wenn KI, Drag und anatolische Nostalgie aufeinandertreffen",
-    "summary": "Groth, Stefanie www.deutschlandfunk.de, Corso",
-    "date": "2026-08-03T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/orhun-mersin-wenn-ki-drag-und-anatolische-nostalgie-aufeinandertreffen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/orhun_mersin_wenn_ki_drag_und_anatolische_nostalgie_dlf_20260803_1520_50deceeb.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9c6cfebf-460d-50f8-ab05-83ccb45a3e56",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach dem Anschlag: Wo bleibt Raum für queere Trauer?",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-08-03T13:15:54.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-dem-anschlag-wo-bleibt-raum-fuer-queere-trauer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/nach_dem_anschlag_wo_bleibt_raum_fuer_queere_trauer_dlf_20260803_1515_ac0285f1.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:370c1a4d-ab86-56d5-a2b1-136d2633971f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Renascent\" von The Durutti Column - Musik nach eigenen Regeln",
-    "summary": "Möller, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-01T13:52:29.000Z",
-    "url": "https://www.deutschlandfunk.de/renascent-von-the-durutti-column-musik-nach-eigenen-regeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/renascent_von_the_durutti_column_musik_nach_eigenen_regeln_dlf_20260801_1552_4f9a13a2.mp3?refId=corso-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "pop",

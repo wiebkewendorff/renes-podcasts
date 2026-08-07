@@ -1,5 +1,211 @@
 [
   {
+    "id": "dlf-kultur-heute:0d2d2b81-8b18-555d-a954-cb0317f040fa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 06.08.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-06T15:55:51.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/kulturmeldungen_06082026_dlf_20260806_1755_b3e5e394.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:da21184b-cfda-5d8b-91b1-f58949025d0a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hiroshima-Jahrestag - Yoko Tawada über Gedenkkultur in Japan",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-06T15:45:20.000Z",
+    "url": "https://www.deutschlandfunk.de/hiroshima-jahrestag-yoko-tawada-ueber-gedenkkultur-in-japan-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/hiroshima_jahrestag_yoko_tawada_ueber_gedenkkultur_in_japan_dlf_20260806_1745_6de0e598.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3900e613-413f-5f01-96db-dc879277f8fa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Irresistible Revolution\" - Eröffnung des Sommerfestivals Kampnagel Hamburg",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-06T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/irresistible-revolution-eroeffnung-des-sommerfestivals-kampnagel-hamburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/irresistible_revolution_eroeffnung_des_sommerfestivals_dlf_20260806_1741_b5df9063.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bb249d08-163c-5fb0-aa13-6acd44d2ea22",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gegenwart des Verlorenen - der Film \"Everytime\" von Sandra Wollner",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-06T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/gegenwart-des-verlorenen-der-film-everytime-von-sandra-wollner-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/gegenwart_des_verlorenen_der_film_everytime_von_sandra_dlf_20260806_1735_ebe3c43e.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a29351c2-1bdd-5699-bfba-a669c855ab17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vom Männerteam zu den Lady Greyhounds: Ted Lasso Staffel 4",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-06T13:18:17.000Z",
+    "url": "https://www.deutschlandfunk.de/vom-maennerteam-zu-den-lady-greyhounds-ted-lasso-staffel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/vom_maennerteam_zu_den_lady_greyhounds_ted_lasso_staffel_4_dlf_20260806_1518_dea7348a.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:2767ecbe-3ee9-5f02-bb31-fc0dd1e0cc2c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Social Media ohne Algorithmus: kann Myspace das schaffen?",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-08-06T13:15:05.000Z",
+    "url": "https://www.deutschlandfunk.de/social-media-ohne-algorithmus-kann-myspace-das-schaffen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/social_media_ohne_algorithmus_kann_myspace_das_schaffen_dlf_20260806_1515_dfa5564c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f3f1b337-c9a2-51ff-90b4-9b32e7d0ebc5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Verwandlung\" im neuen Gewand: KI macht Kafkas Käfer zu Trap",
+    "summary": "Müller, Paulus; Zawadzki, Adam www.deutschlandfunk.de, Corso",
+    "date": "2026-08-06T13:05:55.000Z",
+    "url": "https://www.deutschlandfunk.de/die-verwandlung-im-neuen-gewand-ki-macht-kafkas-kaefer-zu-trap-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/die_verwandlung_im_neuen_gewand_ki_macht_kafkas_kaefer_zu_dlf_20260806_1505_1764c197.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:6a6c3e82-c24b-545f-b2fa-30776010fc80",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Afghanistan - Das Regime der Taliban",
+    "summary": "Vor fünf Jahren übernahmen die islamistischen Taliban die Macht in Afghanistan - schon zum zweiten Mal. Sie herrschen mit brutaler Gewalt und berufen sich auf die Geschichte. Darunter leiden Millionen Menschen, vor allem Frauen und Mädchen.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br> <br>(01:58) Eindrücke aus Afghanistan unter den Taliban <br>(06:03) Die Wissenschaft der \"Talibanologie\" <br>(10:30) 1919: Afghanistan wird unabhängig <br>(13:15) 1979: Einmarsch der Sowjetunion und Widerstand der Mudschahedin<br>(20:53) Im afghanischen Bürgerkrieg gewinnen die Taliban an Stärke<br>(26:46) 1996: Die Taliban übernehmen erstmals die Macht <br>(32:22) Nach den 9/11-Anschlägen: USA und Verbündete greifen Taliban und al-Qaida an <br>(36:47) Entmachtung der Taliban und Neuordnung Afghanistans durch den Westen <br>(41:01) USA ziehen aus Afghanistan ab - Taliban übernehmen 2021 erneut die Macht<br> <br><strong>Unsere Gäste in dieser Folge: </strong><br> <br><ul><li><strong>Katrin Eigendorf</strong> ist Internationale Sonderkorrespondentin des ZDF. Die Kriegsberichterstatterin war schon mehrfach in Afghanistan. </li></ul><br><ul><li>Der Friedens- und Konfliktforscher <strong>Conrad Schetter</strong> ist Direktor des Bonn International Centre for Conflict Studies (bicc). </li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler <br>Skript, Regie und Produktion: Sonja Ernst und Thomas Ibrahim <br>Faktencheck: Paulina Lange und Florian Twente<br>Redaktion: Monika Dittrich und Christian Röther<br> <br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/islam-kalifat-religion-herrschaft-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über das islamische Kalifat </li><li><a href=\"https://www.deutschlandfunk.de/iran-diktatur-proteste-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die islamistische Diktatur im Iran</li><li><a href=\"https://www.deutschlandfunk.de/kaschmir-geschichte-indien-pakistan-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Pakistan, Indien und den Kaschmir-Konflikt</li></ul> <br><strong>Weiterführende Links:</strong><br> <br><ul><li>Ausführlicher <a href=\"https://www.bpb.de/themen/islamismus/dossier-islamismus/520566/die-taliban/\" rel=\"noopener\" target=\"_blank\">Artikel</a> unseres Gesprächspartners Conrad Schetter über die Taliban</li><li><a href=\"https://www.bpb.de/themen/kriege-konflikte/dossier-kriege-konflikte/155323/afghanistan/\" rel=\"noopener\" target=\"_blank\">Hintergrundtext</a> der Bundeszentrale für politische Bildung über den Konflikt um Afghanistan</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">1001 Nacht</a> - die zweite Staffel. Schahrasad erzählt um ihr Leben – und wir hören zu.<br> <br>„<strong>Der Rest ist Geschichte“ live!</strong><br> <br>Am 12. September 2026 sind wir live in Bamberg, wir sprechen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>. <br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-08-06T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/afghanistan-taliban-islamisten-dschihad-100.html",
+    "image": "https://bilder.deutschlandfunk.de/bd/d6/fa/06/bdd6fa06-0f00-4faa-9747-34b0ac8b1d8c/taliban-kaempfer-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/maechtige_islamisten_afghanistan_unter_den_taliban_dlf_20260806_1300_faa9b217.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "46 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:8eb1f6ec-579b-59a5-868e-d023e0751748",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -257,58 +463,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:8239f25e-c97e-5a54-a35a-f13fe05fdb61",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Melonis Kulturpolitik: Wie geht es weiter nach dem Aus für zwei Kulturzentren?",
-    "summary": "Weinreich, Charlotte www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-04T15:44:20.000Z",
-    "url": "https://www.deutschlandfunk.de/melonis-kulturpolitik-wie-geht-es-weiter-nach-dem-aus-fuer-zwei-kulturzentren-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/melonis_kulturpolitik_wie_geht_es_weiter_nach_dem_aus_fuer_dlf_20260804_1744_849aacfd.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f3b79a94-78e3-5b72-9d14-362a4f19a7f9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Klimawandel und die Gartenkultur - Christian Martin Vogtherr, Generals. SPSG",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-04T15:36:35.000Z",
-    "url": "https://www.deutschlandfunk.de/der-klimawandel-und-die-gartenkultur-christian-martin-vogtherr-generals-spsg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/der_klimawandel_und_die_gartenkultur_christian_martin_dlf_20260804_1736_05978618.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:d2a5773e-1692-55e6-9390-4f7462b44946",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -384,58 +538,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:acc7d6ff-b04d-5110-ad3b-d1f1157320fd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 03.08.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-03T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/kulturmeldungen_03082026_dlf_20260803_1756_086b41c9.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:045090af-cf69-584d-adc4-11d195d69257",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Bodies never lie\" - Arbeiten von Stan Douglas in Arles",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-03T15:51:47.000Z",
-    "url": "https://www.deutschlandfunk.de/bodies-never-lie-arbeiten-von-stan-douglas-in-arles-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/bodies_never_lie_arbeiten_von_stan_douglas_in_arles_dlf_20260803_1751_7d6a277d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:e5e5a5ad-36de-5fec-a54b-359bbcba4844",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -447,81 +549,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/das_eigene_festival_salon_libertatia_im_hunsrueck_dlf_20260803_1524_b4e0d93a.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:de91e391-6d97-5d4d-ba06-c2b8b13bb7b9",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Orhun Mersin: Wenn KI, Drag und anatolische Nostalgie aufeinandertreffen",
-    "summary": "Groth, Stefanie www.deutschlandfunk.de, Corso",
-    "date": "2026-08-03T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/orhun-mersin-wenn-ki-drag-und-anatolische-nostalgie-aufeinandertreffen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/orhun_mersin_wenn_ki_drag_und_anatolische_nostalgie_dlf_20260803_1520_50deceeb.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9c6cfebf-460d-50f8-ab05-83ccb45a3e56",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach dem Anschlag: Wo bleibt Raum für queere Trauer?",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-08-03T13:15:54.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-dem-anschlag-wo-bleibt-raum-fuer-queere-trauer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/nach_dem_anschlag_wo_bleibt_raum_fuer_queere_trauer_dlf_20260803_1515_ac0285f1.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:370c1a4d-ab86-56d5-a2b1-136d2633971f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Renascent\" von The Durutti Column - Musik nach eigenen Regeln",
-    "summary": "Möller, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-01T13:52:29.000Z",
-    "url": "https://www.deutschlandfunk.de/renascent-von-the-durutti-column-musik-nach-eigenen-regeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/01/renascent_von_the_durutti_column_musik_nach_eigenen_regeln_dlf_20260801_1552_4f9a13a2.mp3?refId=corso-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "pop",
@@ -1053,33 +1080,6 @@
     "image": "https://bilder.deutschlandfunk.de/7e/a2/a8/05/7ea2a805-cff6-4266-a6d4-96a9668cb54f/drig-schwerpunkt-amerika-104-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/11/250_jahre_usa_34_the_winner_takes_it_all_ist_waehlen_in_den_dlf_20260611_1257_1a38aaf8.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
     "duration": "51 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-11-250-jahre-usa-24-das-rassistische-erbe-der-usa-dlf-20260611-1258-55890c1f-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "250 Jahre USA (2/4) - Das rassistische Erbe der USA",
-    "summary": "Die USA gelten als Einwanderungsland schlechthin. Doch es war von Anfang an umstritten, wer US-Bürger sein kann. Das betraf Schwarze und Indigene, irische Katholiken, Chinesen, Mexikaner und andere. Rassismus gehört zur US-Geschichte – und Gegenwart. Die zweite Folge unserer Reihe zu 250 Jahren USA. <br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:07) „All men are created equal“: Für wen gilt das Versprechen vom 4. Juli 1776?<br>(07:24) Sklaverei: Die Ursünde der amerikanischen Geschichte<br>(14:30) Das Ende der Sklaverei ist nicht das Ende des Rassismus<br>(15:36) Die Geschichte der Lynchmorde <br>(21:40) Civil Rights Act 1964 – Erfolg der Bürgerrechtsbewegung<br>(23:00) Vertreibung und Vernichtung der Indigenen<br>(26:50) Rassistische Diskriminierung von Hispanics<br>(31:22) Die Ablehnung katholischer Iren im 19. Jahrhundert<br>(36:40) Die Tradition des Antirassismus in den USA<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Heike Paul</strong> ist Professorin für Amerikanistik an der Universität Erlangen-Nürnberg. Sie forscht unter anderem zu amerikanischen Mythen und zur politischen Kultur in den USA.</li></ul><br><ul><li>Der Historiker <strong>Silvan Niedermeier</strong> forscht und lehrt an der Universität Erfurt zu Rassismus, Kolonialgeschichte und Geschichte der Gewalt in den USA.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Christian Röther und Thomas Ibrahim<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-buergerkrieg-spaltung-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den US-Bürgerkrieg </li><li><a href=\"https://www.deutschlandfunk.de/usa-soft-power-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Soft Power der USA</li><li><a href=\"https://www.deutschlandfunk.de/rassismus-usa-trump-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über Rassismus in den USA</li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li>Die <a href=\"https://www.youtube.com/watch?v=smEqnnklfYs\" rel=\"noopener\" target=\"_blank\">\"I have a dream\"-Rede</a> von Martin Luther King (Video) </li><li>US-Präsident <a href=\"https://www.lbjlibrary.org/object/video/excerpt-signing-civil-rights-act-1964\" rel=\"noopener\" target=\"_blank\">Lyndon B. Johnson</a> zum Civil Rights Act </li><li>Informationen zum <a href=\"https://www.mnhs.org/duluthlynchings\" rel=\"noopener\" target=\"_blank\">Lynchmord in Duluth, Minnesota</a></li><li>Das <a href=\"https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html\" rel=\"noopener\" target=\"_blank\">1619 Project</a> der New York Times</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><a href=\"https://www.deutschlandfunkkultur.de/kalenderblatt-102.html\" rel=\"noopener\" target=\"_blank\"><br>Das Kalenderblatt:</a> Jeden Tag ein Stück Geschichte<br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-11T11:02:00.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-geschichte-rassismus-sklaverei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/09/ab/b2/69/09abb269-9c74-4fdb-b4c1-e6864ee82940/drig-schwerpunkt-amerika-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/11/250_jahre_usa_24_das_rassistische_erbe_der_usa_dlf_20260611_1258_55890c1f.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "45 Min",
     "tags": [
       "geschichte",
       "zeitgeschichte",
