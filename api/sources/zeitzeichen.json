@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:d8b053eec91b3d4ed950f662b28bfbe3",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Der Sternenforscher mit der falschen Nase: Tycho Brahe",
+    "summary": "<p>Tycho Brahe hat die Astronomie revolutioniert, in einem der ersten Großforschungszentren der Welt, einem für ihn gebauten Schloss in der Ostsee. Am 8.8.1576 war Grundsteinlegung für \"Uraniborg\".</p><br><br><p><strong>In diesem Zeitzeichen erzählt Daniela Wakonigg:</strong><br><ul><li>dass Tycho Brahe schon als Dreijähriger entführt wird,</li><li>was eine mathematische Formel mit dem Teilverlust seiner Nase zu tun hat,</li><li>von einem zahmen Elch und dem kleinwüchsigen Wahrsager Jepp,</li><li>von der komplizierten Beziehung zwischen Brahe und Johannes Kepler.</li></ul><br>Eine Supernova im Jahr 1572 entflammt seine Neugier: Seitdem beobachtet und dokumentiert der dänische Astronom Tycho Brahe mit äußerster Sorgfalt und Genauigkeit den Lauf der Sterne. Auf der Insel Ven im dänischen Öresund baut Brahe das Planetarium Uraniborg - benannt nach Urania, der Muse der Astronomie. König Friedrich II. von Dänemark und Norwegen ermöglicht und finanziert ihm dieses Projekt, für das am 8. August 1576 der Grundstein gelegt wird.<br><br>Uraniborg ist eine gigantische Anlage. Ein quadratisches Schloss mit prachtvollem Garten und zahlreichen Zimmern. Außerdem zwei Observationstürmen, einem Alchemie-Labor und einer riesigen Bibliothek. Uraniborg wird zu einem der ersten Großforschungszentren Europas. Der Wissenschaftler selbst gerät nach seinem Tod immer mehr in Vergessenheit - auch weil Brahe sich zu oft selbst im Weg steht.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Lovisa Danielsson, Tycho Brahe Museum auf der Insel Ven</li><li>Tycho Brahe: Über den neuen Stern. Ein Loblied auf die himmlischen Wissenschaften. Tübingen 2015</li><li>John Robert Christianson: Tycho Brahe and the Measure of the Heavens. London 2020</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/tycho-brahe-astronom-100.html\" rel=\"noopener\" target=\"_blank\">24.10.1601 - Todestag des Astronomen Tycho Brahe</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-johannes-kepler-100.html\" rel=\"noopener\" target=\"_blank\">27. Dezember 1571 - Astronom Johannes Kepler wird geboren</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-weltraumteleskop-kepler-102.html\" rel=\"noopener\" target=\"_blank\">07.03.2009 - Das Weltraum-Teleskop \"Kepler\" startet ins All</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Daniela Wakonigg<br>Redaktion: David Rother",
+    "date": "2026-08-08T04:00:18.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-sternenforscher-mit-der-falschen-nase-tycho-brahe-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-tycho-brahe-sternwarte-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/24/ce0ec017-b1a0-4c3e-8702-3d40cb300a7c/ce0ec017-b1a0-4c3e-8702-3d40cb300a7c_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:09bd08ce18056db642405dc6e615b677",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -195,29 +218,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-black-tom-explosion-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/20/b334651f-7a2b-4429-bab0-64686807530f/b334651f-7a2b-4429-bab0-64686807530f_MP3-128.mp3",
     "duration": "16 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:db9809412f43e2f0ffa2bef9ba9204fa",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Eine Prinzessin als \"Erlöserin\"? Brasiliens Ende der Sklaverei",
-    "summary": "<p>Prinzessin Isabel (geb. 29.7.1846) beendet mit einer Unterschrift die Sklaverei in Brasilien. Doch wer hat die Freiheit von 700.000 Menschen wirklich erkämpft?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christina Weise:</strong><br><ul><li>wie Prinzessin Isabel zur Symbolfigur der Abschaffung der Sklaverei wird,</li><li>welche Rolle der Aktivist André Rebouças dabei spielt, Prinzessin Isabel für die Abschaffung der Sklaverei zu gewinnen,</li><li>wie eine breite Bewegung Druck auf Politik und Gesellschaft ausübt,</li><li>weshalb wirtschaftliche Interessen und internationale Einflüsse den Prozess prägen,</li><li>warum der Mythos der „Erlöserin\" heute kritisch hinterfragt wird.</li></ul><br>Als Prinzessin Isabel im Mai 1888 das \"Goldene Gesetz\" unterschreibt, jubeln die Menschen in Rio de Janeiro: Brasilien schafft damit offiziell die Sklaverei ab. Die Kronprinzessin wird gefeiert, verehrt und glorifiziert. Doch der Weg zu diesem Moment ist lang und konfliktreich.<br><br>Jahrzehntelang kämpfen Gegner der Sklaverei für die Freiheit. Viele von ihnen sind selbst ehemals versklavt. Sie organisieren Proteste, helfen versklavten Menschen bei der Flucht und erhöhen den politischen Druck auf Regierung und Parlament. Währenddessen wird Isabel zur Projektionsfigur – zwischen politischem Kalkül, religiöser Überzeugung und den Machtinteressen einer bröckelnden Monarchie.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Paulo Rezzutti (Forscher und Autor zahlreicher Bücher über die brasilianische Kaiserfamilie)</li><li>Philippe Arthur dos Reis (Historiker mit dem Schwerpunkt Stadtgeschichte, kulturelles Erbe und soziale Bewegungen)</li><li>Roderick J. Barman: Princess Isabel of Brazil: Gender and Power in the Nineteenth Century. Lanham, Maryland 2002</li><li>Ynaê Lopes dos Santos: Racismo brasileiro: uma história da formação do país. São Paulo 2022</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/menschenrechte/sklaverei/index.html\" rel=\"noopener\" target=\"_blank\">Sklaverei</a></li><li>Arte: <a href=\"https://www.arte.tv/de/videos/125302-000-A/brasilien-ein-tanz-gegen-die-sklaverei/\" rel=\"noopener\" target=\"_blank\">Brasilien - Ein Tanz gegen die Sklaverei</a></li><li>DLF: <a href=\"https://www.deutschlandfunkkultur.de/brasilien-sklaven-rio-de-janeiro-100.html\" rel=\"noopener\" target=\"_blank\">Sklaverei in Brasilien - Das Erbe von Rio de Janeiro</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und der Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Christina Weise<br>Redaktion: Matti Hesse",
-    "date": "2026-07-29T04:00:42.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-eine-prinzessin-als-erloeserin-brasiliens-ende-der-sklaverei-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-isabel-von-brasilien-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/14/2a8c6061-ac94-478b-8a77-615b0881a89c/2a8c6061-ac94-478b-8a77-615b0881a89c_MP3-128.mp3",
-    "duration": "14 Min",
     "tags": [
       "geschichte",
       "bildung",

@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:de6dc141-3c6c-502d-81ec-2fd0e631138b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "München Beats - ZDF-Serie über die frühe Rave-Szene",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-07T13:25:10.000Z",
+    "url": "https://www.deutschlandfunk.de/muenchen-beats-zdf-serie-ueber-die-fruehe-rave-szene-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/muenchen_beats_zdf_serie_ueber_die_fruehe_rave_szene_dlf_20260807_1525_7e6d08ca.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e306b1c4-f070-5661-a398-74ae0dda8dfc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "El Comandantes Fanal und Fluch: Blick auf Fidel Castro zum 100. Geburtstag",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-08-07T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/el-comandantes-fanal-und-fluch-blick-auf-fidel-castro-zum-100-geburtstag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/el_comandantes_fanal_und_fluch_blick_auf_fidel_castro_zum_dlf_20260807_1515_a884ee49.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:95b60682-b6e6-5c5f-8357-129bb8f5837b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schwimmen als Performance - Die Berliner Volksbühne hat seit 12 Uhr ein Volksbad",
+    "summary": "Müller, Tobi www.deutschlandfunk.de, Corso",
+    "date": "2026-08-07T13:08:53.000Z",
+    "url": "https://www.deutschlandfunk.de/schwimmen-als-performance-die-berliner-volksbuehne-hat-seit-12-uhr-ein-volksbad-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/schwimmen_als_performance_die_berliner_volksbuehne_hat_seit_dlf_20260807_1508_ec61fc5e.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:a29351c2-1bdd-5699-bfba-a669c855ab17",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -160,81 +235,6 @@
     "url": "https://www.deutschlandfunk.de/die-eigene-videothek-format-filmkunst-e-v-in-halle-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/die_eigene_videothek_format_filmkunst_ev_in_halle_dlf_20260804_1524_e7122bb6.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d3e9e663-a6a4-5136-b636-a5aeb97383a5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sandra Wollner über \"Everytime\": Wie Trauer die Wirklichkeit verschiebt",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-08-04T13:15:45.000Z",
-    "url": "https://www.deutschlandfunk.de/sandra-wollner-ueber-everytime-wie-trauer-die-wirklichkeit-verschiebt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/sandra_wollner_ueber_everytime_wie_trauer_die_wirklichkeit_dlf_20260804_1515_fe293ece.mp3?refId=corso-104",
-    "duration": "18 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7ba4877e-06b5-5730-8018-cf3c19f8c4b7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ariana Grandes Rückzug: Wann dürfen Körper zum Thema werden?",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-08-04T13:08:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ariana-grandes-rueckzug-wann-duerfen-koerper-zum-thema-werden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/ariana_grandes_rueckzug_wann_duerfen_koerper_zum_thema_dlf_20260804_1508_34103453.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e5e5a5ad-36de-5fec-a54b-359bbcba4844",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das eigene Festival - Salon Libertatia im Hunsrück",
-    "summary": "van de Weyer, Anke www.deutschlandfunk.de, Corso",
-    "date": "2026-08-03T13:24:00.000Z",
-    "url": "https://www.deutschlandfunk.de/das-eigene-festival-salon-libertatia-im-hunsrueck-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/03/das_eigene_festival_salon_libertatia_im_hunsrueck_dlf_20260803_1524_b4e0d93a.mp3?refId=corso-104",
     "duration": "6 Min",
     "tags": [
       "kultur",
