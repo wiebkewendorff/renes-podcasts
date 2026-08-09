@@ -1,5 +1,235 @@
 [
   {
+    "id": "dlf-kultur-heute:c410651e-4bca-5fa3-ba79-0b621eacb3d7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 08.08.2026",
+    "summary": "Siniawaski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/kulturmeldungen_08082026_dlf_20260808_1756_aa327a3d.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f622ef1f-3562-559f-b430-cb55a366f5a1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nepo-Baby mit Stil: Ein Treffen mit Isabella Rossellini in Locarno",
+    "summary": "Baschiera, Julia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nepo-baby-mit-stil-ein-treffen-mit-isabella-rossellini-in-locarno-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/nepo_baby_mit_stil_ein_treffen_mit_isabella_rossellini_in_dlf_20260808_1752_ad3a5338.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f5ac4afe-99bf-5ea2-80ed-18200e12dfd7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Einzelschicksale vor der Kamera: Dokumentarfilm als Spiegelbild der Gesellschaft",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:43:00.000Z",
+    "url": "https://www.deutschlandfunk.de/einzelschicksale-vor-der-kamera-dokumentarfilm-als-spiegelbild-der-gesellschaft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/einzelschicksale_vor_der_kamera_dokumentarfilm_als_dlf_20260808_1743_f5392405.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:251d5e86-2df4-5412-b100-8cd467ebcb82",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Promise of Change\": Michael Armitage im Palazzo Grassi in Venedig",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:38:00.000Z",
+    "url": "https://www.deutschlandfunk.de/promise-of-change-michael-armitage-im-palazzo-grassi-in-venedig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/promise_of_change_michael_armitage_im_palazzo_grassi_in_dlf_20260808_1738_a8375ed3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1d5f72f2-0ae3-550b-b55e-036bb93a3632",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Klanglandschaften des Populismus: Mehr als nur Hintergrundgeräusche",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/klanglandschaften-des-populismus-mehr-als-nur-hintergrundgeraeusche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/klanglandschaften_des_populismus_mehr_als_nur_dlf_20260808_1731_9e352894.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b96fe9c4-24a4-50e4-9bfd-f2c6f2e55cf0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Duo Overmono - \"Wir wollten möglichst viel kaputtzumachen\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-08T13:30:00.000Z",
+    "url": "https://www.deutschlandfunk.de/duo-overmono-wir-wollten-moeglichst-viel-kaputtzumachen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/duo_overmono_wir_wollten_moeglichst_viel_kaputtzumachen_dlf_20260808_1530_d8b1cdbb.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:635ce88e-26bf-5e49-96a8-29e2b9c94217",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Celebrity-Maxxing mit Hundeblick - Softboy Role Model will nach oben",
+    "summary": "Zylka, Jenni www.deutschlandfunk.de, Corso",
+    "date": "2026-08-08T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/celebrity-maxxing-mit-hundeblick-softboy-role-model-will-nach-oben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/celebrity_maxxing_mit_hundeblick_softboy_role_model_will_dlf_20260808_1520_e0afc2f6.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:c83d8f82-0cd2-5ca5-8fdf-5bbd2adc184a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Album \"I am both\" von Margaret Glaspy - \"Social Media war für mich eine Sucht\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-08T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/album-i-am-both-von-margaret-glaspy-social-media-war-fuer-mich-eine-sucht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/album_i_am_both_von_margaret_glaspy_social_media_war_fuer_dlf_20260808_1510_66ae4cc5.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-9508245034460638",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Hat Deutschrap aufgemischt: Rapperin und Schauspielerin Sabrina Setlur",
+    "summary": "Als Deutschrap noch Männersache war, machte sie mit \"Hier kommt die Schwester\" Furore. Heute ist sie als Schauspielerin unterwegs.",
+    "date": "2026-08-07T16:45:00.000Z",
+    "url": "https://www.ndr.de/hat-deutschrap-aufgemischt-rapperin-und-schauspielerin-sabrina-setlur,audio-3405402.html",
+    "image": "https://images.ndr.de/image/a71d5848-eb8d-4efb-8454-5b9c43616b6a/AAABn91Qylc/AAABnSStX0g/1x1-big/screenshot-208254.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0808/AU-20260808-0832-3600.mp3",
+    "duration": "35 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-28455445575521676",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -230,84 +460,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:da21184b-cfda-5d8b-91b1-f58949025d0a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hiroshima-Jahrestag - Yoko Tawada über Gedenkkultur in Japan",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-06T15:45:20.000Z",
-    "url": "https://www.deutschlandfunk.de/hiroshima-jahrestag-yoko-tawada-ueber-gedenkkultur-in-japan-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/hiroshima_jahrestag_yoko_tawada_ueber_gedenkkultur_in_japan_dlf_20260806_1745_6de0e598.mp3?refId=kultur-heute-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3900e613-413f-5f01-96db-dc879277f8fa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Irresistible Revolution\" - Eröffnung des Sommerfestivals Kampnagel Hamburg",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-06T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/irresistible-revolution-eroeffnung-des-sommerfestivals-kampnagel-hamburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/irresistible_revolution_eroeffnung_des_sommerfestivals_dlf_20260806_1741_b5df9063.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bb249d08-163c-5fb0-aa13-6acd44d2ea22",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gegenwart des Verlorenen - der Film \"Everytime\" von Sandra Wollner",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-06T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/gegenwart-des-verlorenen-der-film-everytime-von-sandra-wollner-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/gegenwart_des_verlorenen_der_film_everytime_von_sandra_dlf_20260806_1735_ebe3c43e.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:a29351c2-1bdd-5699-bfba-a669c855ab17",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -408,58 +560,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:8eb1f6ec-579b-59a5-868e-d023e0751748",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 05.08.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-05T15:56:01.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/kulturmeldungen_05082026_dlf_20260805_1756_14bcc069.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7752b7e2-b5d6-5e84-893d-0bc412333380",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Anderen wichtig sein - Der Philosoph Michael Zichy über den Lebenssinn",
-    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-05T15:48:19.000Z",
-    "url": "https://www.deutschlandfunk.de/anderen-wichtig-sein-der-philosoph-michael-zichy-ueber-den-lebenssinn-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/anderen_wichtig_sein_der_philosoph_michael_zichy_ueber_den_dlf_20260805_1748_9dbaf424.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:de6307d3-ed49-5dd3-90e3-0dae567d3a4b",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -470,56 +570,6 @@
     "url": "https://www.deutschlandfunk.de/wiederentdeckt-ebrahim-monsefi-der-bob-dylan-von-hormoz-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/wiederentdeckt_ebrahim_monsefi_der_bob_dylan_von_hormoz_dlf_20260805_1515_223f0185.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a4008594-d991-55b1-be98-d6ecdbc453ab",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Nightborn\", \"Lebensansichten eines Huhns\", \"Flieg steil\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-08-05T13:15:05.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-nightborn-lebensansichten-eines-huhns-flieg-steil-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/neue_filme_nightborn_lebensansichten_eines_huhns_flieg_steil_dlf_20260805_1515_863d843d.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8d4e3c51-027f-51a4-9d51-cce6ce4bba38",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kampnagel - Wie ein Sommerfestival Hoffnung vermitteln will",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-08-05T13:05:23.000Z",
-    "url": "https://www.deutschlandfunk.de/kampnagel-wie-ein-sommerfestival-hoffnung-vermitteln-will-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/kampnagel_wie_ein_sommerfestival_hoffnung_vermitteln_will_dlf_20260805_1505_3a3292ea.mp3?refId=corso-104",
     "duration": "6 Min",
     "tags": [
       "kultur",
@@ -586,31 +636,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:d2a5773e-1692-55e6-9390-4f7462b44946",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die eigene Videothek - Format Filmkunst e.V. in Halle",
-    "summary": "Dell, Matthias www.deutschlandfunk.de, Corso",
-    "date": "2026-08-04T13:24:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-eigene-videothek-format-filmkunst-e-v-in-halle-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/die_eigene_videothek_format_filmkunst_ev_in_halle_dlf_20260804_1524_e7122bb6.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6a71624162888a8235e035a1",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -673,31 +698,6 @@
     "image": "https://images.ndr.de/image/1359888b-289e-44de-9b34-24c3f0129656/AAABn8OM9OU/AAABnSStX0g/1x1-big/screenshot-205892.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0803/AU-20260803-0936-3500.mp3",
     "duration": "41 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-494725694156792",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Hornist Felix Klieser auf dem Roten Sofa",
-    "summary": "Klieser präsentiert sein neues Album, auf dem er die großen Melodien der italienischen Operngeschichte mit dem Horn interpretiert.",
-    "date": "2026-08-01T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/hornist-felix-klieser-auf-dem-roten-sofa,audio-3393318.html",
-    "image": "https://images.ndr.de/image/d1739e16-acbb-4a03-bc1f-a6eb0d8bb5e7/AAABn75CcIA/AAABnSStX0g/1x1-big/screenshot-205530.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0802/AU-20260802-1027-1000.mp3",
-    "duration": "34 Min",
     "tags": [
       "beatles",
       "popgeschichte",

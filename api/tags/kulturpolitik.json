@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:c410651e-4bca-5fa3-ba79-0b621eacb3d7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 08.08.2026",
+    "summary": "Siniawaski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/kulturmeldungen_08082026_dlf_20260808_1756_aa327a3d.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f622ef1f-3562-559f-b430-cb55a366f5a1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nepo-Baby mit Stil: Ein Treffen mit Isabella Rossellini in Locarno",
+    "summary": "Baschiera, Julia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nepo-baby-mit-stil-ein-treffen-mit-isabella-rossellini-in-locarno-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/nepo_baby_mit_stil_ein_treffen_mit_isabella_rossellini_in_dlf_20260808_1752_ad3a5338.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f5ac4afe-99bf-5ea2-80ed-18200e12dfd7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Einzelschicksale vor der Kamera: Dokumentarfilm als Spiegelbild der Gesellschaft",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:43:00.000Z",
+    "url": "https://www.deutschlandfunk.de/einzelschicksale-vor-der-kamera-dokumentarfilm-als-spiegelbild-der-gesellschaft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/einzelschicksale_vor_der_kamera_dokumentarfilm_als_dlf_20260808_1743_f5392405.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:251d5e86-2df4-5412-b100-8cd467ebcb82",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Promise of Change\": Michael Armitage im Palazzo Grassi in Venedig",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:38:00.000Z",
+    "url": "https://www.deutschlandfunk.de/promise-of-change-michael-armitage-im-palazzo-grassi-in-venedig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/promise_of_change_michael_armitage_im_palazzo_grassi_in_dlf_20260808_1738_a8375ed3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1d5f72f2-0ae3-550b-b55e-036bb93a3632",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Klanglandschaften des Populismus: Mehr als nur Hintergrundgeräusche",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-08T15:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/klanglandschaften-des-populismus-mehr-als-nur-hintergrundgeraeusche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/klanglandschaften_des_populismus_mehr_als_nur_dlf_20260808_1731_9e352894.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:55e70653-14a4-5961-8e66-a9ac6ee9b5dd",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/kulturmeldungen_06082026_dlf_20260806_1755_b3e5e394.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:da21184b-cfda-5d8b-91b1-f58949025d0a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hiroshima-Jahrestag - Yoko Tawada über Gedenkkultur in Japan",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-06T15:45:20.000Z",
-    "url": "https://www.deutschlandfunk.de/hiroshima-jahrestag-yoko-tawada-ueber-gedenkkultur-in-japan-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/hiroshima_jahrestag_yoko_tawada_ueber_gedenkkultur_in_japan_dlf_20260806_1745_6de0e598.mp3?refId=kultur-heute-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3900e613-413f-5f01-96db-dc879277f8fa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Irresistible Revolution\" - Eröffnung des Sommerfestivals Kampnagel Hamburg",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-06T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/irresistible-revolution-eroeffnung-des-sommerfestivals-kampnagel-hamburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/irresistible_revolution_eroeffnung_des_sommerfestivals_dlf_20260806_1741_b5df9063.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bb249d08-163c-5fb0-aa13-6acd44d2ea22",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gegenwart des Verlorenen - der Film \"Everytime\" von Sandra Wollner",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-06T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/gegenwart-des-verlorenen-der-film-everytime-von-sandra-wollner-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/gegenwart_des_verlorenen_der_film_everytime_von_sandra_dlf_20260806_1735_ebe3c43e.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8eb1f6ec-579b-59a5-868e-d023e0751748",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 05.08.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-05T15:56:01.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/kulturmeldungen_05082026_dlf_20260805_1756_14bcc069.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7752b7e2-b5d6-5e84-893d-0bc412333380",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Anderen wichtig sein - Der Philosoph Michael Zichy über den Lebenssinn",
-    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-05T15:48:19.000Z",
-    "url": "https://www.deutschlandfunk.de/anderen-wichtig-sein-der-philosoph-michael-zichy-ueber-den-lebenssinn-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/anderen_wichtig_sein_der_philosoph_michael_zichy_ueber_den_dlf_20260805_1748_9dbaf424.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
     "tags": [
       "kultur",
       "theater",

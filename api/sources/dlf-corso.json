@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:b96fe9c4-24a4-50e4-9bfd-f2c6f2e55cf0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Duo Overmono - \"Wir wollten möglichst viel kaputtzumachen\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-08T13:30:00.000Z",
+    "url": "https://www.deutschlandfunk.de/duo-overmono-wir-wollten-moeglichst-viel-kaputtzumachen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/duo_overmono_wir_wollten_moeglichst_viel_kaputtzumachen_dlf_20260808_1530_d8b1cdbb.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:635ce88e-26bf-5e49-96a8-29e2b9c94217",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Celebrity-Maxxing mit Hundeblick - Softboy Role Model will nach oben",
+    "summary": "Zylka, Jenni www.deutschlandfunk.de, Corso",
+    "date": "2026-08-08T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/celebrity-maxxing-mit-hundeblick-softboy-role-model-will-nach-oben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/celebrity_maxxing_mit_hundeblick_softboy_role_model_will_dlf_20260808_1520_e0afc2f6.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:c83d8f82-0cd2-5ca5-8fdf-5bbd2adc184a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Album \"I am both\" von Margaret Glaspy - \"Social Media war für mich eine Sucht\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-08T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/album-i-am-both-von-margaret-glaspy-social-media-war-fuer-mich-eine-sucht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/album_i_am_both_von_margaret_glaspy_social_media_war_fuer_dlf_20260808_1510_66ae4cc5.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:de6dc141-3c6c-502d-81ec-2fd0e631138b",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -160,81 +235,6 @@
     "url": "https://www.deutschlandfunk.de/wiederentdeckt-ebrahim-monsefi-der-bob-dylan-von-hormoz-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/wiederentdeckt_ebrahim_monsefi_der_bob_dylan_von_hormoz_dlf_20260805_1515_223f0185.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a4008594-d991-55b1-be98-d6ecdbc453ab",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Nightborn\", \"Lebensansichten eines Huhns\", \"Flieg steil\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-08-05T13:15:05.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-nightborn-lebensansichten-eines-huhns-flieg-steil-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/neue_filme_nightborn_lebensansichten_eines_huhns_flieg_steil_dlf_20260805_1515_863d843d.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8d4e3c51-027f-51a4-9d51-cce6ce4bba38",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kampnagel - Wie ein Sommerfestival Hoffnung vermitteln will",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-08-05T13:05:23.000Z",
-    "url": "https://www.deutschlandfunk.de/kampnagel-wie-ein-sommerfestival-hoffnung-vermitteln-will-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/kampnagel_wie_ein_sommerfestival_hoffnung_vermitteln_will_dlf_20260805_1505_3a3292ea.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d2a5773e-1692-55e6-9390-4f7462b44946",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die eigene Videothek - Format Filmkunst e.V. in Halle",
-    "summary": "Dell, Matthias www.deutschlandfunk.de, Corso",
-    "date": "2026-08-04T13:24:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-eigene-videothek-format-filmkunst-e-v-in-halle-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/die_eigene_videothek_format_filmkunst_ev_in_halle_dlf_20260804_1524_e7122bb6.mp3?refId=corso-104",
     "duration": "6 Min",
     "tags": [
       "kultur",
