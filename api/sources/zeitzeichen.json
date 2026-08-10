@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:cf72902bb95efd5e240e00477a086306",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Elektrizitätsausstellung 1881: in Paris leuchtet die Zukunft auf",
+    "summary": "<p>Am 10. August 1881 eröffnet in Paris ein zukunftweisendes Technik-Spektakel: die erste Internationale elektrische Ausstellung führt praktisch vor, wie Strom den Alltag der Menschheit verändern wird.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christian Kosfeld:</strong><br><ul><li>wie Werner von Siemens in Paris eine elektrische Straßenbahn vorführt,</li><li>warum Thomas Edison mit seiner Glühlampe noch längst nicht alle überzeugt, </li><li>weshalb Besucher 1881 erstmals Opernmusik live über Telefonleitungen hören können.</li></ul><br>1881 spielt Elektrizität im Alltag der meisten Menschen kaum eine Rolle. Umso größer ist das Staunen, als in Paris erstmals eine Ausstellung ausschließlich dieser neuen Technik gewidmet wird. <br><br>Im Industriepalast präsentieren Erfinder und Unternehmen aus mehreren Ländern ihre Entwicklungen - von elektrischer Beleuchtung über Generatoren bis hin zu neuartigen Verkehrsmitteln und Kommunikationssystemen. Vieles wirkt damals wie Zukunftsmusik, manches wird schon wenige Jahre später selbstverständlich. <br><br>Die Internationale Elektrizitätsausstellung markiert einen Wendepunkt: Sie macht einer breiten Öffentlichkeit sichtbar, welches Potenzial in der Elektrizität steckt – und wie grundlegend sie das Leben verändern wird.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hanswalter Dobbelmann, Leiter des Deutschen Elektrizitätsmuseums in Recklinghausen</li><li>Ernst Peter Fischer: Das große Buch der Elektrizität, Köln 2011</li><li>Frank Dittmann: \"Elektropolis -  eine Utopie von 1881\", In: Paulina Dobroć, Andie Rothenhäusler (Hrsg.): 2000 Revisited – Visionen der Welt von morgen im Gestern und Heute. Karlsruher Studien Technik und Kultur, 2020</li><li>Gérard Borvon: First International Exposition of Electricity, Paris 1881</li><li>Erich Hinkefuß: Die erste elektrische Weltausstellung. Die Gartenlaube Heft 42, 1881</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:5e231d0ab9f5b109/\" rel=\"noopener\" target=\"_blank\">Der Mann, der Paris komplett renoviert - Georges-Eugène Haussmann</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:13c20735b39c4d6c/\" rel=\"noopener\" target=\"_blank\">Das erste öffentliche Pissoir in Paris (am 19.7.1839)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:687f72e203d638f8/\" rel=\"noopener\" target=\"_blank\">Das beste Netz der Welt - im Pariser Untergrund</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christian Kosfeld <br>Redaktion: Christoph Tiegel und Matti Hesse",
+    "date": "2026-08-10T04:00:06.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-elektrizitaetsausstellung-in-paris-leuchtet-die-zukunft-auf-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-elektrizitaetsausstellung-paris-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/04/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:91b8b4579b40b8e907fa9a22c96f4e2c",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -195,29 +218,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/detatchment-a-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/28/3e97bcb1-2ca7-4590-b95f-541b600fdcfb/3e97bcb1-2ca7-4590-b95f-541b600fdcfb_MP3-128.mp3",
     "duration": "16 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:c3fdf315456900cec54d7ba4b2627115",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Ein Ballonflug zwischen Forscherdrang und Lebensgefahr",
-    "summary": "<p>Eine riskante Expedition bringt zwei deutsche Forscher an ihre Grenzen - und verändert das Verständnis der Atmosphäre grundlegend. Mit Folgen für die Klimaforschung.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Daniela Wakonigg:</strong><br><ul><li>wie eine Ballonfahrt im Kaiserreich zum wissenschaftlichen Großereignis wird,</li><li>warum zwei Meteorologen ihr Leben riskieren, um Messdaten aus extremen Höhen zu gewinnen,</li><li>welche überraschende Beobachtung das damalige Wissen über die Atmosphäre infrage stellt,</li><li>weshalb bald unbemannte Ballone bald als verlässliche Messinstrumente gelten,</li><li>wie daraus die Entdeckung einer neuen Atmosphärenschicht entsteht.</li></ul><br>Zwei Mitarbeiter des Königlich Preußischen Meteorologischen Instituts haben sich vorgenommen, in eine Höhe vorzudringen, in der zuvor noch nie ein Mensch gewesen ist: Arthur Berson und Reinhard Süring. Sie starten von Berlin aus mit einem riesigen Gasballon mit dem Namen \"Preußen\". Er ist der größte im Kaiserreich. Bis zur Höhe von 9.000 Metern verläuft der Aufstieg einigermaßen problemlos. <br><br>Dann wird das Schlafbedürfnis immer größer, weil der Sauerstoffgehalt immer mehr abnimmt. Kurz bevor die beiden Männer in Ohnmacht fallen, gelingt es, den Sinkflug einzuleiten. Das rettet ihnen das Leben - und die Messergebnisse. Das ermöglicht ein neues Bild der Atmosphäre, das bis heute Forschung und Klimadebatten prägt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Frank Beyrich (Meteorologe, Reinhard-Süring-Stiftung, Deutscher Wetterdienst)</li><li>Arthur Berson und Reinhard Süring: Ein Ballonaufstieg bis 10.500 m. Illustrierte Aeronautische Mitteilungen, Heft 4. Berlin 1901</li><li>Guy Brasseur: The Air and its Secrets. Les Ulis bei Paris 2025</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>tagesschau.de: <a href=\"https://www.tagesschau.de/wetter/wetterthema/strato-100.html\" rel=\"noopener\" target=\"_blank\">Himmelsstürmer</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/natur/klima/erdatmosphaere/pwieaufbaudererdatmosphaere100.html\" rel=\"noopener\" target=\"_blank\">Aufbau der Erdatmosphäre</a></li><li>WDR: <a href=\"https://www1.wdr.de/archiv/jahresrueckblick/rekordsprung112.html\" rel=\"noopener\" target=\"_blank\">Sprung aus Stratosphäre</a> - Weltrekordsprung aus 39 Kilometern Höhe (2012)</li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin : Daniela Wakonigg<br>Redaktion: Sefa Inci Suvak<br>Technik: Moritz Raestrup",
-    "date": "2026-07-31T04:00:30.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ein-ballonflug-zwischen-forscherdrang-und-lebensgefahr-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-stratosphaeren-ballon-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/22/e5387866-3358-48fa-af8a-5fb6fdaedaa4/e5387866-3358-48fa-af8a-5fb6fdaedaa4_MP3-128.mp3",
-    "duration": "15 Min",
     "tags": [
       "geschichte",
       "bildung",

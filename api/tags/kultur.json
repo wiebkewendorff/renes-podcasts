@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:703d9f3f-e8a4-56a0-8120-16b561a09da3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 09.08.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/kulturmeldungen_09082026_dlf_20260809_1757_5b594f43.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c12dd557-4bdf-5a04-8dcb-9fd4f3559c24",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "50 Jahre Pauli-Kunstpreis - Eine Ausstellung in Bremen zeigt die Nominierten",
+    "summary": "Anette Schneider www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:51:05.000Z",
+    "url": "https://www.deutschlandfunk.de/50-jahre-pauli-kunstpreis-eine-ausstellung-in-bremen-zeigt-die-nominierten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/50_jahre_pauli_kunstpreis_eine_ausstellung_in_bremen_zeigt_dlf_20260809_1751_c6583717.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7bd4083c-bac2-520e-8233-35d0c4d4a9ca",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das Goethe-Institut wird 75. Jahn Lukas Hermann im Gespräch",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:41:10.000Z",
+    "url": "https://www.deutschlandfunk.de/das-goethe-institut-wird-75-jahn-lukas-hermann-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/das_goethe_institut_wird_75_jahn_lukas_hermann_im_gespraech_dlf_20260809_1741_305712d5.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:60a301b2-f90e-5b59-96dd-4501beb1ebb5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Politische Debatte erwünscht - Zum Start des Edinburgh International Festival",
+    "summary": "Lettenbauer, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/politische-debatte-erwuenscht-zum-start-des-edinburgh-international-festival-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/politische_debatte_erwuenscht_zum_start_des_edinburgh_dlf_20260809_1736_c355c969.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3fc80368-ef47-5f7f-85a7-3983f37f2342",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Water Garden\" - Bas Smets bewässert und begrünt das Vitra Design Museum",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:30:31.000Z",
+    "url": "https://www.deutschlandfunk.de/water-garden-bas-smets-bewaessert-und-begruent-das-vitra-design-museum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/water_garden_bas_smets_bewaessert_und_begruent_das_vitra_dlf_20260809_1730_b4549e0f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:c410651e-4bca-5fa3-ba79-0b621eacb3d7",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -255,110 +385,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:55e70653-14a4-5961-8e66-a9ac6ee9b5dd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 07.08.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/kulturmeldungen_07082026_dlf_20260807_1756_66136e5e.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:90f9ada0-0349-53c6-b7d9-14680b2628e2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mythos auf dem Trockenen? Der Rhein und seine Kulturgeschichte",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:48:00.000Z",
-    "url": "https://www.deutschlandfunk.de/mythos-auf-dem-trockenen-der-rhein-und-seine-kulturgeschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/mythos_auf_dem_trockenen_der_rhein_und_seine_dlf_20260807_1748_2317bb02.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2ee1b8a5-48a4-5f2a-bb4e-32ec538c1945",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Joyful Failure\" - Performance von laborgras u. Liam Byrne Ensemble in Berlin",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:42:30.000Z",
-    "url": "https://www.deutschlandfunk.de/joyful-failure-performance-von-laborgras-u-liam-byrne-ensemble-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/joyful_failure_performance_von_laborgras_u_liam_byrne_dlf_20260807_1742_c2161dc9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cba3789a-09a8-5591-a45a-d19c332f646f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Locarno - Zum Auftakt des Filmfestivals",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/locarno-zum-auftakt-des-filmfestivals-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/locarno_zum_auftakt_des_filmfestivals_dlf_20260807_1736_7014d5a1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:de6dc141-3c6c-502d-81ec-2fd0e631138b",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -425,32 +451,6 @@
       "pop",
       "kunst",
       "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0d2d2b81-8b18-555d-a954-cb0317f040fa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 06.08.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-06T15:55:51.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/kulturmeldungen_06082026_dlf_20260806_1755_b3e5e394.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [

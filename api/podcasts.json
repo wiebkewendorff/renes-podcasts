@@ -1,5 +1,185 @@
 [
   {
+    "id": "zeitzeichen:cf72902bb95efd5e240e00477a086306",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Elektrizitätsausstellung 1881: in Paris leuchtet die Zukunft auf",
+    "summary": "<p>Am 10. August 1881 eröffnet in Paris ein zukunftweisendes Technik-Spektakel: die erste Internationale elektrische Ausstellung führt praktisch vor, wie Strom den Alltag der Menschheit verändern wird.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christian Kosfeld:</strong><br><ul><li>wie Werner von Siemens in Paris eine elektrische Straßenbahn vorführt,</li><li>warum Thomas Edison mit seiner Glühlampe noch längst nicht alle überzeugt, </li><li>weshalb Besucher 1881 erstmals Opernmusik live über Telefonleitungen hören können.</li></ul><br>1881 spielt Elektrizität im Alltag der meisten Menschen kaum eine Rolle. Umso größer ist das Staunen, als in Paris erstmals eine Ausstellung ausschließlich dieser neuen Technik gewidmet wird. <br><br>Im Industriepalast präsentieren Erfinder und Unternehmen aus mehreren Ländern ihre Entwicklungen - von elektrischer Beleuchtung über Generatoren bis hin zu neuartigen Verkehrsmitteln und Kommunikationssystemen. Vieles wirkt damals wie Zukunftsmusik, manches wird schon wenige Jahre später selbstverständlich. <br><br>Die Internationale Elektrizitätsausstellung markiert einen Wendepunkt: Sie macht einer breiten Öffentlichkeit sichtbar, welches Potenzial in der Elektrizität steckt – und wie grundlegend sie das Leben verändern wird.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hanswalter Dobbelmann, Leiter des Deutschen Elektrizitätsmuseums in Recklinghausen</li><li>Ernst Peter Fischer: Das große Buch der Elektrizität, Köln 2011</li><li>Frank Dittmann: \"Elektropolis -  eine Utopie von 1881\", In: Paulina Dobroć, Andie Rothenhäusler (Hrsg.): 2000 Revisited – Visionen der Welt von morgen im Gestern und Heute. Karlsruher Studien Technik und Kultur, 2020</li><li>Gérard Borvon: First International Exposition of Electricity, Paris 1881</li><li>Erich Hinkefuß: Die erste elektrische Weltausstellung. Die Gartenlaube Heft 42, 1881</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:5e231d0ab9f5b109/\" rel=\"noopener\" target=\"_blank\">Der Mann, der Paris komplett renoviert - Georges-Eugène Haussmann</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:13c20735b39c4d6c/\" rel=\"noopener\" target=\"_blank\">Das erste öffentliche Pissoir in Paris (am 19.7.1839)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:687f72e203d638f8/\" rel=\"noopener\" target=\"_blank\">Das beste Netz der Welt - im Pariser Untergrund</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christian Kosfeld <br>Redaktion: Christoph Tiegel und Matti Hesse",
+    "date": "2026-08-10T04:00:06.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-elektrizitaetsausstellung-in-paris-leuchtet-die-zukunft-auf-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-elektrizitaetsausstellung-paris-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/04/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:703d9f3f-e8a4-56a0-8120-16b561a09da3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 09.08.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/kulturmeldungen_09082026_dlf_20260809_1757_5b594f43.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c12dd557-4bdf-5a04-8dcb-9fd4f3559c24",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "50 Jahre Pauli-Kunstpreis - Eine Ausstellung in Bremen zeigt die Nominierten",
+    "summary": "Anette Schneider www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:51:05.000Z",
+    "url": "https://www.deutschlandfunk.de/50-jahre-pauli-kunstpreis-eine-ausstellung-in-bremen-zeigt-die-nominierten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/50_jahre_pauli_kunstpreis_eine_ausstellung_in_bremen_zeigt_dlf_20260809_1751_c6583717.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7bd4083c-bac2-520e-8233-35d0c4d4a9ca",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das Goethe-Institut wird 75. Jahn Lukas Hermann im Gespräch",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:41:10.000Z",
+    "url": "https://www.deutschlandfunk.de/das-goethe-institut-wird-75-jahn-lukas-hermann-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/das_goethe_institut_wird_75_jahn_lukas_hermann_im_gespraech_dlf_20260809_1741_305712d5.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:60a301b2-f90e-5b59-96dd-4501beb1ebb5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Politische Debatte erwünscht - Zum Start des Edinburgh International Festival",
+    "summary": "Lettenbauer, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/politische-debatte-erwuenscht-zum-start-des-edinburgh-international-festival-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/politische_debatte_erwuenscht_zum_start_des_edinburgh_dlf_20260809_1736_c355c969.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3fc80368-ef47-5f7f-85a7-3983f37f2342",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Water Garden\" - Bas Smets bewässert und begrünt das Vitra Design Museum",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:30:31.000Z",
+    "url": "https://www.deutschlandfunk.de/water-garden-bas-smets-bewaessert-und-begruent-das-vitra-design-museum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/water_garden_bas_smets_bewaessert_und_begruent_das_vitra_dlf_20260809_1730_b4549e0f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:1c39741a-d050-5885-9d31-07b2079bdb25",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "DRiG live - Erlebt uns auf der Bühne - in Brüssel und Bamberg!",
+    "summary": "Wollt Ihr Eure DRiG-Hosts Anh Tran oder Jörg Biesler auf der Bühne sehen? Dann meldet Euch an: Am 8. September in Brüssel geht es um das deutsch-belgische Verhältnis, am 12. September in Bamberg um die Geschichte des Handwerks. Der Eintritt ist frei!<br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-08-09T07:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/drig-live-bruessel-bamberg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/78/81/22/22/78812222-6242-4881-a651-902260b6919d/hosts-der-rest-ist-geschichte-tran-biesler-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/drig_live_erlebt_uns_auf_der_buehne_in_bruessel_und_bamberg_dlf_20260809_0927_481ffede.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "1 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:91b8b4579b40b8e907fa9a22c96f4e2c",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -301,110 +481,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:55e70653-14a4-5961-8e66-a9ac6ee9b5dd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 07.08.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/kulturmeldungen_07082026_dlf_20260807_1756_66136e5e.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:90f9ada0-0349-53c6-b7d9-14680b2628e2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mythos auf dem Trockenen? Der Rhein und seine Kulturgeschichte",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:48:00.000Z",
-    "url": "https://www.deutschlandfunk.de/mythos-auf-dem-trockenen-der-rhein-und-seine-kulturgeschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/mythos_auf_dem_trockenen_der_rhein_und_seine_dlf_20260807_1748_2317bb02.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2ee1b8a5-48a4-5f2a-bb4e-32ec538c1945",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Joyful Failure\" - Performance von laborgras u. Liam Byrne Ensemble in Berlin",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:42:30.000Z",
-    "url": "https://www.deutschlandfunk.de/joyful-failure-performance-von-laborgras-u-liam-byrne-ensemble-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/joyful_failure_performance_von_laborgras_u_liam_byrne_dlf_20260807_1742_c2161dc9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cba3789a-09a8-5591-a45a-d19c332f646f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Locarno - Zum Auftakt des Filmfestivals",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/locarno-zum-auftakt-des-filmfestivals-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/locarno_zum_auftakt_des_filmfestivals_dlf_20260807_1736_7014d5a1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:de6dc141-3c6c-502d-81ec-2fd0e631138b",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -571,32 +647,6 @@
     "category": [
       "Wissenschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0d2d2b81-8b18-555d-a954-cb0317f040fa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 06.08.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-06T15:55:51.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/kulturmeldungen_06082026_dlf_20260806_1755_b3e5e394.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1189,29 +1239,6 @@
       "Hörspiel",
       "Literatur",
       "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:c3fdf315456900cec54d7ba4b2627115",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Ein Ballonflug zwischen Forscherdrang und Lebensgefahr",
-    "summary": "<p>Eine riskante Expedition bringt zwei deutsche Forscher an ihre Grenzen - und verändert das Verständnis der Atmosphäre grundlegend. Mit Folgen für die Klimaforschung.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Daniela Wakonigg:</strong><br><ul><li>wie eine Ballonfahrt im Kaiserreich zum wissenschaftlichen Großereignis wird,</li><li>warum zwei Meteorologen ihr Leben riskieren, um Messdaten aus extremen Höhen zu gewinnen,</li><li>welche überraschende Beobachtung das damalige Wissen über die Atmosphäre infrage stellt,</li><li>weshalb bald unbemannte Ballone bald als verlässliche Messinstrumente gelten,</li><li>wie daraus die Entdeckung einer neuen Atmosphärenschicht entsteht.</li></ul><br>Zwei Mitarbeiter des Königlich Preußischen Meteorologischen Instituts haben sich vorgenommen, in eine Höhe vorzudringen, in der zuvor noch nie ein Mensch gewesen ist: Arthur Berson und Reinhard Süring. Sie starten von Berlin aus mit einem riesigen Gasballon mit dem Namen \"Preußen\". Er ist der größte im Kaiserreich. Bis zur Höhe von 9.000 Metern verläuft der Aufstieg einigermaßen problemlos. <br><br>Dann wird das Schlafbedürfnis immer größer, weil der Sauerstoffgehalt immer mehr abnimmt. Kurz bevor die beiden Männer in Ohnmacht fallen, gelingt es, den Sinkflug einzuleiten. Das rettet ihnen das Leben - und die Messergebnisse. Das ermöglicht ein neues Bild der Atmosphäre, das bis heute Forschung und Klimadebatten prägt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Frank Beyrich (Meteorologe, Reinhard-Süring-Stiftung, Deutscher Wetterdienst)</li><li>Arthur Berson und Reinhard Süring: Ein Ballonaufstieg bis 10.500 m. Illustrierte Aeronautische Mitteilungen, Heft 4. Berlin 1901</li><li>Guy Brasseur: The Air and its Secrets. Les Ulis bei Paris 2025</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>tagesschau.de: <a href=\"https://www.tagesschau.de/wetter/wetterthema/strato-100.html\" rel=\"noopener\" target=\"_blank\">Himmelsstürmer</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/natur/klima/erdatmosphaere/pwieaufbaudererdatmosphaere100.html\" rel=\"noopener\" target=\"_blank\">Aufbau der Erdatmosphäre</a></li><li>WDR: <a href=\"https://www1.wdr.de/archiv/jahresrueckblick/rekordsprung112.html\" rel=\"noopener\" target=\"_blank\">Sprung aus Stratosphäre</a> - Weltrekordsprung aus 39 Kilometern Höhe (2012)</li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin : Daniela Wakonigg<br>Redaktion: Sefa Inci Suvak<br>Technik: Moritz Raestrup",
-    "date": "2026-07-31T04:00:30.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ein-ballonflug-zwischen-forscherdrang-und-lebensgefahr-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-stratosphaeren-ballon-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/22/e5387866-3358-48fa-af8a-5fb6fdaedaa4/e5387866-3358-48fa-af8a-5fb6fdaedaa4_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
     ],
     "language": "de"
   },
@@ -2079,33 +2106,6 @@
     "image": "https://bilder.deutschlandfunk.de/e5/c4/f3/57/e5c4f357-9932-4258-adf6-d0e52d1f0ea3/drig-schwerpunkt-amerika-106-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/11/250_jahre_usa_44_wie_die_usa_zur_softpower_wurden_dlf_20260611_1256_49e6424c.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
     "duration": "48 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-11-250-jahre-usa-34-the-winner-takes-it-all-ist-waehlen-in-den-dlf-20260611-1257-1a38aaf8-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "250 Jahre USA (3/4) - Sind amerikanische Wahlen undemokratisch?",
-    "summary": "Gouverneure, Kongressabgeordnete und Sheriffs werden in den USA direkt gewählt. Doch ausgerechnet der Präsident kann es ohne Stimmenmehrheit ins Weiße Haus schaffen. Das Wahlrecht und das Zwei-Parteiensystem sind in den USA schon lange umkämpft. Folge drei unserer Reihe zum 250. Jahrestag der amerikanischen Unabhängigkeitserklärung. <br><br><strong>Das erwartet Euch in dieser Folge:</strong><br> <br>(03:24) Will Donald Trump das Wahlsystem kippen?<br>(04:20) Die Wahl des ersten US-Präsidenten George Washington 1789<br>(05:30) Die Erfindung des „Electoral College“<br>(07:24) Das Prinzip „The winner takes it all“ <br>(13:15) Wahlen im 19. Jahrhundert: Bestechung, Gewalt und Entertainment<br>(16:25) Schwarze US-Amerikaner werden beim Wählen diskriminiert<br>(25:05) Wie sich das Zwei-Parteiensystem in den USA entwickelt hat<br>(39:55) Der Zuschnitt der Wahlbezirke und „Gerrymandering“<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li>Die Historikerin <strong>Hedwig Richter</strong> ist Professorin für Neuere und Neueste Geschichte an der Universität der Bundeswehr München. Sie hat sich mit einer Forschungsarbeit über Wahlen in Preußen und den USA im 19. Jahrhundert habilitiert.</li></ul><br><ul><li><strong>Thomas Greven</strong> arbeitet als Politikwissenschaftler an der Freien Universität Berlin, er forscht unter anderem zur amerikanischen Parteiengeschichte.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Matthieu Praun und Carina Schroeder<br>Faktencheck: Kathrin Krautwasser und Florian Twente<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-buergerkrieg-spaltung-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den US-Bürgerkrieg</li><li>Der Rest ist Geschichte über Rassismus in den USA</li><li><a href=\"https://www.deutschlandfunk.de/wahlen-usa-trump-manipulation-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über das amerikanische Wahlsystem</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Informationen bei der <a href=\"https://www.bpb.de/themen/nordamerika/usa/10662/die-grundlagen-des-politischen-systems-der-usa/\" rel=\"noopener\" target=\"_blank\">Bundeszentrale für politische Bildung</a> über das politische System der USA</li><li>Artikel in <a href=\"https://www.das-parlament.de/aussen/welt/so-funktioniert-gerrymandering\" rel=\"noopener\" target=\"_blank\">Das Parlament</a> über \"Gerrymandering\", also den Zuschnitt von Wahlkreisen in den USA</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen. Mit Volker Depkat</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-11T11:03:00.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-geschichte-wahlsystem-trump-100.html",
-    "image": "https://bilder.deutschlandfunk.de/7e/a2/a8/05/7ea2a805-cff6-4266-a6d4-96a9668cb54f/drig-schwerpunkt-amerika-104-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/11/250_jahre_usa_34_the_winner_takes_it_all_ist_waehlen_in_den_dlf_20260611_1257_1a38aaf8.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "51 Min",
     "tags": [
       "geschichte",
       "zeitgeschichte",

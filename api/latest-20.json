@@ -1,5 +1,185 @@
 [
   {
+    "id": "zeitzeichen:cf72902bb95efd5e240e00477a086306",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Elektrizitätsausstellung 1881: in Paris leuchtet die Zukunft auf",
+    "summary": "<p>Am 10. August 1881 eröffnet in Paris ein zukunftweisendes Technik-Spektakel: die erste Internationale elektrische Ausstellung führt praktisch vor, wie Strom den Alltag der Menschheit verändern wird.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christian Kosfeld:</strong><br><ul><li>wie Werner von Siemens in Paris eine elektrische Straßenbahn vorführt,</li><li>warum Thomas Edison mit seiner Glühlampe noch längst nicht alle überzeugt, </li><li>weshalb Besucher 1881 erstmals Opernmusik live über Telefonleitungen hören können.</li></ul><br>1881 spielt Elektrizität im Alltag der meisten Menschen kaum eine Rolle. Umso größer ist das Staunen, als in Paris erstmals eine Ausstellung ausschließlich dieser neuen Technik gewidmet wird. <br><br>Im Industriepalast präsentieren Erfinder und Unternehmen aus mehreren Ländern ihre Entwicklungen - von elektrischer Beleuchtung über Generatoren bis hin zu neuartigen Verkehrsmitteln und Kommunikationssystemen. Vieles wirkt damals wie Zukunftsmusik, manches wird schon wenige Jahre später selbstverständlich. <br><br>Die Internationale Elektrizitätsausstellung markiert einen Wendepunkt: Sie macht einer breiten Öffentlichkeit sichtbar, welches Potenzial in der Elektrizität steckt – und wie grundlegend sie das Leben verändern wird.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hanswalter Dobbelmann, Leiter des Deutschen Elektrizitätsmuseums in Recklinghausen</li><li>Ernst Peter Fischer: Das große Buch der Elektrizität, Köln 2011</li><li>Frank Dittmann: \"Elektropolis -  eine Utopie von 1881\", In: Paulina Dobroć, Andie Rothenhäusler (Hrsg.): 2000 Revisited – Visionen der Welt von morgen im Gestern und Heute. Karlsruher Studien Technik und Kultur, 2020</li><li>Gérard Borvon: First International Exposition of Electricity, Paris 1881</li><li>Erich Hinkefuß: Die erste elektrische Weltausstellung. Die Gartenlaube Heft 42, 1881</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:5e231d0ab9f5b109/\" rel=\"noopener\" target=\"_blank\">Der Mann, der Paris komplett renoviert - Georges-Eugène Haussmann</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:13c20735b39c4d6c/\" rel=\"noopener\" target=\"_blank\">Das erste öffentliche Pissoir in Paris (am 19.7.1839)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:687f72e203d638f8/\" rel=\"noopener\" target=\"_blank\">Das beste Netz der Welt - im Pariser Untergrund</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christian Kosfeld <br>Redaktion: Christoph Tiegel und Matti Hesse",
+    "date": "2026-08-10T04:00:06.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-elektrizitaetsausstellung-in-paris-leuchtet-die-zukunft-auf-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-elektrizitaetsausstellung-paris-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/04/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:703d9f3f-e8a4-56a0-8120-16b561a09da3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 09.08.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/kulturmeldungen_09082026_dlf_20260809_1757_5b594f43.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c12dd557-4bdf-5a04-8dcb-9fd4f3559c24",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "50 Jahre Pauli-Kunstpreis - Eine Ausstellung in Bremen zeigt die Nominierten",
+    "summary": "Anette Schneider www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:51:05.000Z",
+    "url": "https://www.deutschlandfunk.de/50-jahre-pauli-kunstpreis-eine-ausstellung-in-bremen-zeigt-die-nominierten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/50_jahre_pauli_kunstpreis_eine_ausstellung_in_bremen_zeigt_dlf_20260809_1751_c6583717.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7bd4083c-bac2-520e-8233-35d0c4d4a9ca",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das Goethe-Institut wird 75. Jahn Lukas Hermann im Gespräch",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:41:10.000Z",
+    "url": "https://www.deutschlandfunk.de/das-goethe-institut-wird-75-jahn-lukas-hermann-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/das_goethe_institut_wird_75_jahn_lukas_hermann_im_gespraech_dlf_20260809_1741_305712d5.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:60a301b2-f90e-5b59-96dd-4501beb1ebb5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Politische Debatte erwünscht - Zum Start des Edinburgh International Festival",
+    "summary": "Lettenbauer, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/politische-debatte-erwuenscht-zum-start-des-edinburgh-international-festival-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/politische_debatte_erwuenscht_zum_start_des_edinburgh_dlf_20260809_1736_c355c969.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3fc80368-ef47-5f7f-85a7-3983f37f2342",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Water Garden\" - Bas Smets bewässert und begrünt das Vitra Design Museum",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-09T15:30:31.000Z",
+    "url": "https://www.deutschlandfunk.de/water-garden-bas-smets-bewaessert-und-begruent-das-vitra-design-museum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/water_garden_bas_smets_bewaessert_und_begruent_das_vitra_dlf_20260809_1730_b4549e0f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:1c39741a-d050-5885-9d31-07b2079bdb25",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "DRiG live - Erlebt uns auf der Bühne - in Brüssel und Bamberg!",
+    "summary": "Wollt Ihr Eure DRiG-Hosts Anh Tran oder Jörg Biesler auf der Bühne sehen? Dann meldet Euch an: Am 8. September in Brüssel geht es um das deutsch-belgische Verhältnis, am 12. September in Bamberg um die Geschichte des Handwerks. Der Eintritt ist frei!<br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-08-09T07:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/drig-live-bruessel-bamberg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/78/81/22/22/78812222-6242-4881-a651-902260b6919d/hosts-der-rest-ist-geschichte-tran-biesler-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/drig_live_erlebt_uns_auf_der_buehne_in_bruessel_und_bamberg_dlf_20260809_0927_481ffede.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "1 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:91b8b4579b40b8e907fa9a22c96f4e2c",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -301,110 +481,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:55e70653-14a4-5961-8e66-a9ac6ee9b5dd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 07.08.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/kulturmeldungen_07082026_dlf_20260807_1756_66136e5e.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:90f9ada0-0349-53c6-b7d9-14680b2628e2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mythos auf dem Trockenen? Der Rhein und seine Kulturgeschichte",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:48:00.000Z",
-    "url": "https://www.deutschlandfunk.de/mythos-auf-dem-trockenen-der-rhein-und-seine-kulturgeschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/mythos_auf_dem_trockenen_der_rhein_und_seine_dlf_20260807_1748_2317bb02.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2ee1b8a5-48a4-5f2a-bb4e-32ec538c1945",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Joyful Failure\" - Performance von laborgras u. Liam Byrne Ensemble in Berlin",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:42:30.000Z",
-    "url": "https://www.deutschlandfunk.de/joyful-failure-performance-von-laborgras-u-liam-byrne-ensemble-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/joyful_failure_performance_von_laborgras_u_liam_byrne_dlf_20260807_1742_c2161dc9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cba3789a-09a8-5591-a45a-d19c332f646f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Locarno - Zum Auftakt des Filmfestivals",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-07T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/locarno-zum-auftakt-des-filmfestivals-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/locarno_zum_auftakt_des_filmfestivals_dlf_20260807_1736_7014d5a1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:de6dc141-3c6c-502d-81ec-2fd0e631138b",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -426,79 +502,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e306b1c4-f070-5661-a398-74ae0dda8dfc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "El Comandantes Fanal und Fluch: Blick auf Fidel Castro zum 100. Geburtstag",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-08-07T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/el-comandantes-fanal-und-fluch-blick-auf-fidel-castro-zum-100-geburtstag-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/el_comandantes_fanal_und_fluch_blick_auf_fidel_castro_zum_dlf_20260807_1515_a884ee49.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:95b60682-b6e6-5c5f-8357-129bb8f5837b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schwimmen als Performance - Die Berliner Volksbühne hat seit 12 Uhr ein Volksbad",
-    "summary": "Müller, Tobi www.deutschlandfunk.de, Corso",
-    "date": "2026-08-07T13:08:53.000Z",
-    "url": "https://www.deutschlandfunk.de/schwimmen-als-performance-die-berliner-volksbuehne-hat-seit-12-uhr-ein-volksbad-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/schwimmen_als_performance_die_berliner_volksbuehne_hat_seit_dlf_20260807_1508_ec61fc5e.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:09bd08ce18056db642405dc6e615b677",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "König Otto I.: Eine Krönung voller Rätsel",
-    "summary": "<p>Am 7.8.936 wird Otto der Große zum König gekrönt. Für manche beginnt mit ihm die Geschichte Deutschlands. Doch wie wahr die Berichte über sein Leben sind, ist fraglich.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Marko Rösseler:</strong><br><ul><li>wie genau sich das Ostfränkische Reich zusammensetzt,</li><li>warum der König ausgerechnet in Aachen gewählt wird,</li><li>vom Mönch Widukind von Corvey, einer der bedeutendsten, aber auch rätselhaftesten Quellen der deutschen Geschichte im Mittelalter.</li></ul><br>Am 7. August 936 wird der sächsische Herzog Otto in Aachen zum König des ostfränkischen Reichs gekrönt. Zunächst bricht Otto die Macht des Reichsadels und schlägt die Herrschaftsansprüche diverser Familienmitglieder nieder. Krieg ist der Normalzustand während Ottos Regierungszeit und Otto ist ein überaus erfolgreicher Krieger. Unter Ottos Herrschaft wächst der Zusammenhalt des Landes.<br><br>In seiner Königskrönung sehen manche den Beginn der Geschichte der Deutschen. Unbestritten hat er dazu beigetragen, dass aus dem Ostfränkischen einmal ein Reich der Deutschen wird. Und Kaiser, wie sein großes Vorbild Karl der Große, wird Otto auch noch. Als Otto der Große geht er schließlich in die Geschichte ein.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Mathias Becher, Professor für mittelalterliche Geschichte an der Universität Bonn</li><li>Widukind von Corvey: Res gestae Saxonicae. Die Sachengeschichte (Lateinisch / Deutsch). Stuttgart 1992</li><li>Matthias Becher: Otto der Große. Kaiser und Reich. Eine Biographie. München 2012</li><li>Johannes Laudage: Otto der Große. Eine Biographie. Regensburg 2001</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/adel/kronen_symbole_der_macht/pwiediekroenungottosiinaachen100.html\" rel=\"noopener\" target=\"_blank\">Die Krönung Ottos I. in Aachen</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag7082.html\" rel=\"noopener\" target=\"_blank\">23. November 912 - Otto der Große wird geboren</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Marko Rösseler<br>Redaktion: Carolin Rückl und Frank Zirpins<br>Technik: Sarah Fitzek",
-    "date": "2026-08-07T04:00:59.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-koenig-otto-i-eine-kroenung-voller-raetsel-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-otto-l-aachen-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/30/594818e0-d800-423b-8a65-964b251074e2/594818e0-d800-423b-8a65-964b251074e2_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
     ],
     "language": "de"
   }
