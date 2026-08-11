@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:f4e59f45-17f2-5ab6-a924-52dafd6f670a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 10.08.2026",
+    "summary": "Hübert. Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:57:05.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/kulturmeldungen_10082026_dlf_20260810_1757_3989bcbf.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e1e5e250-38d7-595a-91a8-c2f2a90b59da",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Falsche Angaben\" - US-Regierung gegen Smithsonian History Museum",
+    "summary": "Klein, Bettina www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:51:24.000Z",
+    "url": "https://www.deutschlandfunk.de/falsche-angaben-us-regierung-gegen-smithsonian-history-museum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/falsche_angaben_us_regierung_gegen_smithsonian_history_dlf_20260810_1751_e788959a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:85267d22-a001-5285-8b6d-80832824f5e9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"everybody\" - Georg-Kolbe-Museum in Berlin will Körper neu denken",
+    "summary": "Reber, Simone www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:46:58.000Z",
+    "url": "https://www.deutschlandfunk.de/everybody-georg-kolbe-museum-in-berlin-will-koerper-neu-denken-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/everybody_georg_kolbe_museum_in_berlin_will_koerper_neu_dlf_20260810_1746_f3873747.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0409f272-beb3-5b99-ada7-3517677b3b6d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Ausrichtung? Bundeszentrale für politische Bildung nach Rücktritt von Rix",
+    "summary": "Engelbrecht, Sebastian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-ausrichtung-bundeszentrale-fuer-politische-bildung-nach-ruecktritt-von-rix-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/neue_ausrichtung_bundeszentrale_fuer_politische_bildung_nach_dlf_20260810_1742_3e85ecf3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ada65846-a077-5c69-b07f-3b5a05d9da5a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Pen Berlin Heimat-Reihe - Schriftstellerin Jackie Thomae im Gespräch",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:35:28.000Z",
+    "url": "https://www.deutschlandfunk.de/pen-berlin-heimat-reihe-schriftstellerin-jackie-thomae-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/pen_berlin_heimat_reihe_schriftstellerin_jackie_thomae_im_dlf_20260810_1735_d784dcb3.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:703d9f3f-e8a4-56a0-8120-16b561a09da3",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/water_garden_bas_smets_bewaessert_und_begruent_das_vitra_dlf_20260809_1730_b4549e0f.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c410651e-4bca-5fa3-ba79-0b621eacb3d7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 08.08.2026",
-    "summary": "Siniawaski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/kulturmeldungen_08082026_dlf_20260808_1756_aa327a3d.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f622ef1f-3562-559f-b430-cb55a366f5a1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nepo-Baby mit Stil: Ein Treffen mit Isabella Rossellini in Locarno",
-    "summary": "Baschiera, Julia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nepo-baby-mit-stil-ein-treffen-mit-isabella-rossellini-in-locarno-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/nepo_baby_mit_stil_ein_treffen_mit_isabella_rossellini_in_dlf_20260808_1752_ad3a5338.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f5ac4afe-99bf-5ea2-80ed-18200e12dfd7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Einzelschicksale vor der Kamera: Dokumentarfilm als Spiegelbild der Gesellschaft",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:43:00.000Z",
-    "url": "https://www.deutschlandfunk.de/einzelschicksale-vor-der-kamera-dokumentarfilm-als-spiegelbild-der-gesellschaft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/einzelschicksale_vor_der_kamera_dokumentarfilm_als_dlf_20260808_1743_f5392405.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:251d5e86-2df4-5412-b100-8cd467ebcb82",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Promise of Change\": Michael Armitage im Palazzo Grassi in Venedig",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:38:00.000Z",
-    "url": "https://www.deutschlandfunk.de/promise-of-change-michael-armitage-im-palazzo-grassi-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/promise_of_change_michael_armitage_im_palazzo_grassi_in_dlf_20260808_1738_a8375ed3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1d5f72f2-0ae3-550b-b55e-036bb93a3632",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Klanglandschaften des Populismus: Mehr als nur Hintergrundgeräusche",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/klanglandschaften-des-populismus-mehr-als-nur-hintergrundgeraeusche-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/klanglandschaften_des_populismus_mehr_als_nur_dlf_20260808_1731_9e352894.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "theater",

@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:75c8bae3-3f2d-5e83-a01b-20a7084ce5c9",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Breaking Dad – Xu Wei rettet sein Kind - Ein Vater gegen die seltene Krankheit seines Sohnes",
+    "summary": "Wie weit geht ein Vater, wenn der Tod seines Kindes unvermeidbar scheint? Haoyang wird mit dem Menkes-Syndrom diagnostiziert. Weil niemand eine Therapie entwickelt, baut Xu Wei in der Abstellkammer seiner Eltern ein Labor. Er hat keine Ausbildung, keine Erlaubnis und zwei Jahre Zeit. Von Baran Datlı www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-11T17:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/breaking-dad-xu-wei-rettet-sein-kind-100.html",
+    "image": "https://bilder.deutschlandfunk.de/ca/c3/a8/62/cac3a862-e69f-4190-8621-11984804c650/bild-fuer-breaking-dad-afp-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/breaking_dad_xu_wei_rettet_sein_kind_dlf_20260811_1915_ccd72371.mp3?refId=das-feature-104",
+    "duration": "53 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-08-04-doku-drops-15-innenansichten-drk-20260804-1805-cd4b90c6-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/6a/38/75/bf/6a3875bf-6d04-4f93-8bc4-68374a167945/utopia-und-lost-places-eisenhuettenstadt-kaufhaus-magnet-wandmosaik-bild-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/20/utopia_und_lost_places_probewohnen_im_osten_deutschlands_drk_20260620_1805_1422bc87.mp3?refId=das-feature-104",
     "duration": "53 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-11-doku-drops-13-kollision-drk-20260711-1805-973e91b1-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "doku drops 13: Kollision - Jeden Monat neue Kurzdokus",
-    "summary": "Wenn zwei Galaxien kollidieren, prallen sie nicht wirklich aufeinander. Sie ordnen sie sich neu. Schwarze Löcher entstehen und um sie herum wirbeln neue Sterne. Und wenn Körper oder Weltanschauungen zusammenstoßen? Davon erzählen zwei neue Kurzdokus. Moderation: Judith Geffert www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-09T09:46:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/doku-drops-13-kollision-100.html",
-    "image": "https://bilder.deutschlandfunk.de/c0/cb/3b/e7/c0cb3be7-6af2-4e61-af85-6ed462206a04/doku-drops-13-kollision-bild-satt-gruen-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/doku_drops_13_kollision_drk_20260711_1805_973e91b1.mp3?refId=das-feature-104",
-    "duration": "26 Min",
     "tags": [
       "feature",
       "dokumentation",

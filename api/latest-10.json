@@ -1,196 +1,68 @@
 [
   {
-    "id": "zeitzeichen:cf72902bb95efd5e240e00477a086306",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
+    "id": "dlf-das-feature:75c8bae3-3f2d-5e83-a01b-20a7084ce5c9",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
     "type": "rss",
-    "title": "Elektrizitätsausstellung 1881: in Paris leuchtet die Zukunft auf",
-    "summary": "<p>Am 10. August 1881 eröffnet in Paris ein zukunftweisendes Technik-Spektakel: die erste Internationale elektrische Ausstellung führt praktisch vor, wie Strom den Alltag der Menschheit verändern wird.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christian Kosfeld:</strong><br><ul><li>wie Werner von Siemens in Paris eine elektrische Straßenbahn vorführt,</li><li>warum Thomas Edison mit seiner Glühlampe noch längst nicht alle überzeugt, </li><li>weshalb Besucher 1881 erstmals Opernmusik live über Telefonleitungen hören können.</li></ul><br>1881 spielt Elektrizität im Alltag der meisten Menschen kaum eine Rolle. Umso größer ist das Staunen, als in Paris erstmals eine Ausstellung ausschließlich dieser neuen Technik gewidmet wird. <br><br>Im Industriepalast präsentieren Erfinder und Unternehmen aus mehreren Ländern ihre Entwicklungen - von elektrischer Beleuchtung über Generatoren bis hin zu neuartigen Verkehrsmitteln und Kommunikationssystemen. Vieles wirkt damals wie Zukunftsmusik, manches wird schon wenige Jahre später selbstverständlich. <br><br>Die Internationale Elektrizitätsausstellung markiert einen Wendepunkt: Sie macht einer breiten Öffentlichkeit sichtbar, welches Potenzial in der Elektrizität steckt – und wie grundlegend sie das Leben verändern wird.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hanswalter Dobbelmann, Leiter des Deutschen Elektrizitätsmuseums in Recklinghausen</li><li>Ernst Peter Fischer: Das große Buch der Elektrizität, Köln 2011</li><li>Frank Dittmann: \"Elektropolis -  eine Utopie von 1881\", In: Paulina Dobroć, Andie Rothenhäusler (Hrsg.): 2000 Revisited – Visionen der Welt von morgen im Gestern und Heute. Karlsruher Studien Technik und Kultur, 2020</li><li>Gérard Borvon: First International Exposition of Electricity, Paris 1881</li><li>Erich Hinkefuß: Die erste elektrische Weltausstellung. Die Gartenlaube Heft 42, 1881</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:5e231d0ab9f5b109/\" rel=\"noopener\" target=\"_blank\">Der Mann, der Paris komplett renoviert - Georges-Eugène Haussmann</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:13c20735b39c4d6c/\" rel=\"noopener\" target=\"_blank\">Das erste öffentliche Pissoir in Paris (am 19.7.1839)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:687f72e203d638f8/\" rel=\"noopener\" target=\"_blank\">Das beste Netz der Welt - im Pariser Untergrund</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christian Kosfeld <br>Redaktion: Christoph Tiegel und Matti Hesse",
-    "date": "2026-08-10T04:00:06.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-elektrizitaetsausstellung-in-paris-leuchtet-die-zukunft-auf-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-elektrizitaetsausstellung-paris-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/04/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6_MP3-128.mp3",
-    "duration": "15 Min",
+    "title": "Breaking Dad – Xu Wei rettet sein Kind - Ein Vater gegen die seltene Krankheit seines Sohnes",
+    "summary": "Wie weit geht ein Vater, wenn der Tod seines Kindes unvermeidbar scheint? Haoyang wird mit dem Menkes-Syndrom diagnostiziert. Weil niemand eine Therapie entwickelt, baut Xu Wei in der Abstellkammer seiner Eltern ein Labor. Er hat keine Ausbildung, keine Erlaubnis und zwei Jahre Zeit. Von Baran Datlı www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-11T17:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/breaking-dad-xu-wei-rettet-sein-kind-100.html",
+    "image": "https://bilder.deutschlandfunk.de/ca/c3/a8/62/cac3a862-e69f-4190-8621-11984804c650/bild-fuer-breaking-dad-afp-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/breaking_dad_xu_wei_rettet_sein_kind_dlf_20260811_1915_ccd72371.mp3?refId=das-feature-104",
+    "duration": "53 Min",
     "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:703d9f3f-e8a4-56a0-8120-16b561a09da3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 09.08.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/kulturmeldungen_09082026_dlf_20260809_1757_5b594f43.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c12dd557-4bdf-5a04-8dcb-9fd4f3559c24",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "50 Jahre Pauli-Kunstpreis - Eine Ausstellung in Bremen zeigt die Nominierten",
-    "summary": "Anette Schneider www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:51:05.000Z",
-    "url": "https://www.deutschlandfunk.de/50-jahre-pauli-kunstpreis-eine-ausstellung-in-bremen-zeigt-die-nominierten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/50_jahre_pauli_kunstpreis_eine_ausstellung_in_bremen_zeigt_dlf_20260809_1751_c6583717.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7bd4083c-bac2-520e-8233-35d0c4d4a9ca",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das Goethe-Institut wird 75. Jahn Lukas Hermann im Gespräch",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:41:10.000Z",
-    "url": "https://www.deutschlandfunk.de/das-goethe-institut-wird-75-jahn-lukas-hermann-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/das_goethe_institut_wird_75_jahn_lukas_hermann_im_gespraech_dlf_20260809_1741_305712d5.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:60a301b2-f90e-5b59-96dd-4501beb1ebb5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Politische Debatte erwünscht - Zum Start des Edinburgh International Festival",
-    "summary": "Lettenbauer, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/politische-debatte-erwuenscht-zum-start-des-edinburgh-international-festival-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/politische_debatte_erwuenscht_zum_start_des_edinburgh_dlf_20260809_1736_c355c969.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3fc80368-ef47-5f7f-85a7-3983f37f2342",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Water Garden\" - Bas Smets bewässert und begrünt das Vitra Design Museum",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:30:31.000Z",
-    "url": "https://www.deutschlandfunk.de/water-garden-bas-smets-bewaessert-und-begruent-das-vitra-design-museum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/water_garden_bas_smets_bewaessert_und_begruent_das_vitra_dlf_20260809_1730_b4549e0f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:1c39741a-d050-5885-9d31-07b2079bdb25",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "DRiG live - Erlebt uns auf der Bühne - in Brüssel und Bamberg!",
-    "summary": "Wollt Ihr Eure DRiG-Hosts Anh Tran oder Jörg Biesler auf der Bühne sehen? Dann meldet Euch an: Am 8. September in Brüssel geht es um das deutsch-belgische Verhältnis, am 12. September in Bamberg um die Geschichte des Handwerks. Der Eintritt ist frei!<br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-09T07:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/drig-live-bruessel-bamberg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/78/81/22/22/78812222-6242-4881-a651-902260b6919d/hosts-der-rest-ist-geschichte-tran-biesler-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/drig_live_erlebt_uns_auf_der_buehne_in_bruessel_und_bamberg_dlf_20260809_0927_481ffede.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "1 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
+      "feature",
+      "dokumentation",
       "gesellschaft",
-      "politik",
-      "bildung",
+      "kultur",
       "deutschlandfunk"
     ],
     "category": [
-      "Geschichte",
       "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "10-minuten-wissen-kunst:6a7a73b0cfc0396cc1c7ea73",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
+    "type": "rss",
+    "title": "Hannah Höch – Schnitt mit dem Küchenmesser Dada: Ein Befreiungsschlag aus Papier, Protest und Präzision",
+    "summary": "<p>Wo die Schere durch die Machtbilder einer Epoche fährt, wird das Zerschnittene zur eigentlichen Wahrheit.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>Im aufgewühlten Berlin der 1920er-Jahre entstand eine vielschichtige Montage aus Zeitungsbildern, die das politische und gesellschaftliche Chaos einer ganzen Epoche einfing. Welche feinen Anspielungen und Spitzen Hannah Höch darin gegen die damalige Machtelite versteckte, wie die neuartige Technik der Fotomontage funktionierte und warum ausgerechnet die einzige Frau im Berliner Dada-Kreis das Erbe dieser Bewegung vor dem Vergessen rettete, enthüllt der Blick hinter dieses Werk.</p><br><p>Weiterführende Links</p><p><strong>Das Werk in hoher Auflösung:</strong> <a href=\"https://search.smb.museum/object/obj-961048\" rel=\"noopener\" target=\"_blank\">Wikipedia – Schnitt mit dem Küchenmesser Dada (Abbildung)</a></p><p><strong>Wikipedia-Eintrag zur Künstlerin:</strong> <a href=\"https://de.wikipedia.org/wiki/Hannah_H%C3%B6ch\" rel=\"noopener\" target=\"_blank\">Wikipedia – Hannah Höch</a></p><p><strong>Das Hannah-Höch-Archiv:</strong> <a href=\"https://berlinischegalerie.de/sammlung/sammlung-online/dada-berlin/\" rel=\"noopener\" target=\"_blank\">Berlinische Galerie – Archiv & Nachlass der Künstlerin</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-08-11T04:21:25.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/hannah-hoch",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a7a73b0cfc0396cc1c7ea73/media.mp3",
+    "duration": "23 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
+    ],
+    "category": [
+      "Kunst",
+      "Geschichte",
       "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "zeitzeichen:91b8b4579b40b8e907fa9a22c96f4e2c",
+    "id": "zeitzeichen:4b628a72f9c73e7dfa5ada8668a7c8b1",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Gesundheit für Millionen: Marta Fraenkels große Mission",
-    "summary": "<p>Marta Fraenkel macht vor 100 Jahren Public Health zum Thema für Millionen. Dann zerstören die Nazis ihre Arbeit. Spüren wir die Folgen dieses Bruchs bis heute?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Stephan Beuting:</strong><br><ul><li>wie die große Ausstellung \"GeSoLei\" bis heute das Stadtbild von Düsseldorf prägt,</li><li>warum wir die Nachwirkungen der nationalsozialistischen Gesundheitspolitik bis heute spüren,</li><li>dass Deutschland bei vielen Gesundheitsthemen in internationalen Vergleichen hinten liegt.</li></ul><br>Marta Fraenkel ist eine Pionierin der Gesundheitsaufklärung. Als eine der ersten Frauen überhaupt studiert sie Medizin und verhilft anschließend Projekten wie der Düsseldorfer Groß-Ausstellung GeSoLei (Gesundheit, Soziale Fürsorge, Leibesübung) und dem Deutschen Hygiene Museum in Dresden zum Erfolg.<br><br>Als die Nationalsozialisten 1933 die Macht ergreifen, wird Fraenkel als Jüdin aus dem Museumsdienst entlassen und das Thema Gesundheit instrumentalisiert. So geht eine für die damalige Zeit sehr fortschrittliche Vorstellung von Gesundheitskompetenz verloren. Fraenkel selbst flieht in die USA, wo sie bis zu ihrem Tod am 9. August 1976 im staatlichen Gesundheitswesen wirkt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Doris Schaeffer, Gesundheitswissenschaftlerin, Expertin für Gesundheitskompetenz und Sprecherin NAP-Gesundheitskompetenz</li><li>Matthis Krischel, Institut für Geschichte, Theorie und Ethik der Medizin </li><li>Benjamin Kuntz, Matthis Krischel Friedrich Moll, Wolfram Nagel: Marta Fraenkel - Pionierin der gesundheitlichen Aufklärung. Leipzig 2026</li><li>Christian Sammer: Gesunde Menschen machen. Die deutsch-deutsche Geschichte der Gesundheitsaufklärung, 1945–1967. München/Berlin 2020</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/medizin/beruf_arzt_die_geschichte_des_heilens/pwwbberufarztdiegeschichtedesheilens100.html\" rel=\"noopener\" target=\"_blank\">Medizin Geschichte des Arztberufs</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/sauberkeit/hygiene/pwiemaxvonpettenkoferhygienefuermuenchen100.html\" rel=\"noopener\" target=\"_blank\">Max von Pettenkofer - Hygiene für München</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/lebensmittel/vitamine/pwievitaminsteckbriefe100.html\" rel=\"noopener\" target=\"_blank\">Vitaminsteckbriefe</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br><br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Stephan Beuting<br>Redaktion: Matti Hesse",
-    "date": "2026-08-09T04:00:09.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-gesundheit-fuer-millionen-marta-fraenkels-grosse-mission-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-marta-fraenkel-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/05/b9a59b00-6317-44e6-b2ff-bb70eaa3f95f/b9a59b00-6317-44e6-b2ff-bb70eaa3f95f_MP3-128.mp3",
-    "duration": "15 Min",
+    "title": "David Bowie und Iggy Pop: Wie Berlin ihr Leben rettete",
+    "summary": "<p>Im August 1976 sind David Bowie und Iggy Pop auf der Suche nach sich selbst - von Drogen gezeichnet. West-Berlin wird ihre Zuflucht, wo sie Popgeschichte schreiben.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Rüdiger Weidenfeld-Kramer:</strong><br><ul><li>warum David Bowie und Iggy Pop 1976 ausgerechnet ins geteilte West-Berlin ziehen, </li><li>wie aus einer Wohngemeinschaft eine der berühmtesten Künstlerfreundschaften der Popgeschichte entsteht,</li><li>wie Berlin für die beiden Musiker zum Rückzugsort und kreativen Labor wird.</li></ul><br>1976 ziehen David Bowie und Iggy Pop nach West-Berlin – auf der Flucht vor Drogen, Erfolgsdruck und den Schatten ihres Rockstar-Lebens. In der geteilten Stadt finden sie einen Ort, an dem sie weitgehend unbehelligt leben und künstlerisch neu anfangen können.<br><br>Inspiriert von der Atmosphäre Berlins, der deutschen Elektronikmusik und dem Expressionismus entstehen Werke, die bis heute nachwirken. Bowie entwickelt seinen unverwechselbaren Sound weiter, während Iggy Pop Songs aufnimmt, die bis heute zu seinen bekanntesten gehören.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Thilo Schmied, Musikexperte, Tontechniker, Veranstalter der „Berlin Musictours“</li><li>Eduard Meyer, ehemaliger Tontechniker in den Hansa-Studios, der mit David Bowie und Iggy Pop zusammengearbeitet hat</li><li>Tobias Rüther: Helden. David Bowie und Berlin, Berlin 2011</li><li><a href=\"https://www1.wdr.de/radio/wdr5/sendungen/erlebtegeschichten/eduard-meyer-100.html\" rel=\"noopener\" target=\"_blank\">Andrea Halter: Erlebte Geschichten mit Eduard Meyer, WDR 2017</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://www.ardsounds.de/episode/urn:ard:episode:3ef18076c4fef785/\" rel=\"noopener\" target=\"_blank\">Der ewige König von Deutschland - Geburtstag von Rio Reiser</a></li><li><a href=\"https://www.ardsounds.de/episode/urn:ard:episode:061e3a197b90d158/\" rel=\"noopener\" target=\"_blank\">Landluft und Soundvisionen - Musikproduzent Conny Plank</a></li><li><a href=\"https://www.ardsounds.de/episode/urn:ard:episode:a0201d30cc856dd5/\" rel=\"noopener\" target=\"_blank\">John Peel - der Radio-DJ, der unbekannte Bands zu Stars machte</a></li><li><a href=\"https://www.ardsounds.de/episode/urn:ard:episode:7f7b22b59674c2ce/\" rel=\"noopener\" target=\"_blank\">Zehn Songs für die Ewigkeit - \"The Queen is dead\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Rüdiger Weidenfeld-Kramer<br>Redaktion: Frank Zirpins<br>Technik: Nicolas Dohle",
+    "date": "2026-08-11T04:00:26.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-david-bowie-und-iggy-pop-wie-berlin-ihr-leben-rettete-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-david-bowie-iggy-pop-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/30/113d4397-6812-44fb-8fd3-5eb0ac3fb3d2/113d4397-6812-44fb-8fd3-5eb0ac3fb3d2_MP3-128.mp3",
+    "duration": "14 Min",
     "tags": [
       "geschichte",
       "bildung",
@@ -203,16 +75,64 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:c410651e-4bca-5fa3-ba79-0b621eacb3d7",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4010748",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "El Niño: Wie sich das Wetterphänomen auswirkt",
+    "summary": "El Niño und Gegenspielerin La Niña wechseln sich ab\n\nEl Niño ist das wohl bedeutendste natürliche Klimaphänomen der Erde: Wenn sich die Passatwinde über dem Atlantik abschwächen, sammelt sich vor der Küste Südamerikas das warme Wasser. In Folge verschieben sich globale Wettermuster und die globale Durchschnittstemperatur springt nach oben, um bis zu 0,2 Grad Celsius. Alle zwei bis sieben Jahre kommt das vor. Dazwischen beobachten wir mit La Niña das Gegenteil. Die Passatwinde werden stärker und die Durchschnittstemperatur sinkt. Aktuell überschlagen sich verschiedene Medien mit Berichten, die vor dem nächsten „Super-El Niño“ oder „Rekord-El-Niño“ warnen. Der Klimaforscher und Meteorologe Mojib Latif vom GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel ist in seiner Einschätzung der Lage zurückhaltender: „Der kommende El Niño ist stark. Aber seine Stärke können wir eigentlich nicht so gut vorhersagen, weil wir nicht genau wissen, was die Stärke am Ende bestimmt.“\n\nFolgen könnten global spürbar sein\nEl Niño bringt einigen Regionen der Welt Starkregen und Überschwemmungen, andere werden trockener und sind von Dürre betroffen, erklärt der Experte. Am stärksten sind die Auswirkungen demnach in und um den tropischen Pazifik spürbar, Europa ist verhältnismäßig wenig betroffen. Für uns könnten vor allem veränderte Preise im Supermarkt das Klimaphänomen greifbar machen. Ein Analystenteam von Goldman Sachs hat berechnet, dass die Lebensmittelpreise durch El Niño global um 15,8 Prozent steigen könnten. Aber auch eine erhöhte globale Durchschnittstemperatur wirkt sich auf Europa aus. Für 2027 rechnen Forschende deshalb mit neuen Temperaturrekorden.\n\nWie Forschende messen, ob sich ein El Niño aufbaut und warum auch 2026 schon rekordverdächtige Temperaturen hervorbringen könnte, darüber sprechen <em>detektor.fm</em>-Redakteurin Marisa Becker und Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“.",
+    "date": "2026-08-11T03:30:06.000Z",
+    "url": "https://feedpress.me/link/19604/17412337/mission-energiewende-el-nino",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/11082026missionenergiewendeklimaphaenomenelnino.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/11082026missionenergiewendeklimaphaenomenelnino.63.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4025470",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Mystik — In anderen Sphären",
+    "summary": "Zwischen mystischem Nebel und göttlicher Erfahrung\n<p>Die Mystik – also eine göttliche Erfahrung – gibt es in fast allen großen Religionen und spirituellen Traditionen. „Im Christentum zum Beispiel bei Meister Eckhart oder bei Theresa von Avila“, sagt Daniel Völzke. „Im Islam vor allen Dingen im Sophismus und im Judentum in der Kabbalah. Auch im Hinduismus und Buddhimsus.“ Ihre Gemeinsamkeit bestehe darin, dass die transzendentale Erfahrung unmittelbar ist.</p>\n<p>Es geht also um eine Erfahrung, die eigentlich kaum in Worte zu fassen ist. „Manche haben es als eine Auflösung zwischen ich und Welt beschrieben“, so Völzke. In ihren Schriften haben Mystikerinnen und Mystiker dennoch immer wieder versucht, diese unbeschreibliche Erfahrung in Worte zu fassen. So auch Hildegard von Bingen. Die Mystikerin lebte von 1098 bis 1179 und verfasste zahlreiche Schriften über ihre Visionen, Musik und Heilkunde. Mitte des 12. Jahrhunderts gründete sie ihr eigenes Kloster.</p>\nDie „neue“ Mystik\n<p>Eine, die den Mystik-Diskurs in der Popkultur gerade sehr vorantreibt ist die spanische Sängerin Rosalía. Auf ihrem aktuellen Album „LUX“ widmet sie jeden Song einer anderen Mystikerin. Auf dem Cover sieht man sie in einem weißen Novizinnen-Gewand. Gleichzeitig arbeitet Rosalía auf ihrer Album-Tour mit vielen religiösen Symbolen. Besonders wichtig ist der Musikerin dabei, dass ihre Musik ohne technisches Zutun, etwa durch KI, entstanden sei, sondern aus einer menschlichen Erfahrung heraus.</p>\n<p>Einen etwas anderen Umgang mit Mystik haben Künstler Matt Dryhurst und die Künstlerin Holly Herndon. Sie verwenden in ihrem Werk „Starmirror“ bewusst Künstliche Intelligenz, um eine transzendentale Erfahrung zu erzielen. Dafür haben sie u.a. eine KI mit Ausschnitten aus dem Werk „<em>Ordo Virtutum</em> (1151)“ von Hildegard von Bingen trainiert. Auf dieser Grundlage hat die KI ein Liederbuch verfasst. Die Dabei entstandenen Werke wurden schließlich von Chören und Gästen der Ausstellung eingesungen. Dieser vielschichtige Chor wurde Teil einer immersiven Klanginstallation. „Dieser Moment des choralen Singens“, sagt Donna Schons, „bei dem quasi viele Stimmen zusammenkommen und dann ein größeres Ganzes entsteht, ein Überschuss an Bedeutung, der mehr ist als die Summe seiner Teile und dann metaphorisch auf die KI übertragen wird.“</p>\n<p>Aber woher kommt die aktuelle Begeisterung für die Mystik? „Was allem zugrunde liegt ist, denke ich, auch so eine Sehnsucht nach diesen unmittelbaren körperlichen Erfahrungen“, sagt Donna Schons. „Gerade in einer Zeit der digitalen Lebensrealitäten, in der KI immer präsenter wird hat die Mystik noch mal eine ganz andere Attraktivität als Form des Erkenntnisgewinns. Es ist etwas, dem man sich wirklich vollkommen hingeben kann, wo man Dinge erlebt, die man nicht sofort entschlüsseln und nummerieren und erklären kann.“</p>\n<p>In dieser Folge von „Kunst und Leben“, dem Podcast in Kooperation mit dem <em>Monopol</em>-Magazin, spricht <em>detektor.fm</em>-Moderatorin Sara-Marie Plekat mit <strong>Donna Schons</strong> und <strong>Daniel Völzke</strong> vom <em>Monopol-</em>Magazin über die Begeisterung der Kunst für die Mystik. Die Installation „Starmirror“ von Holly Herndon und Matt Dryhurst kann man noch bis zum 11.10.2026 in der Kunstsammlung Nordrhein-Westfalen K21 besichtigen.</p>",
+    "date": "2026-08-11T03:00:56.000Z",
+    "url": "https://feedpress.me/link/19604/17412338/monopol-podcast-mystik",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/11082026monopol-podcastdie-neue-mystik.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/11082026monopol-podcastdie-neue-mystik.63.mp3",
+    "duration": "35 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f4e59f45-17f2-5ab6-a924-52dafd6f670a",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Kulturmeldungen 08.08.2026",
-    "summary": "Siniawaski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-08-102.html",
+    "title": "Kulturmeldungen 10.08.2026",
+    "summary": "Hübert. Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:57:05.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-08-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/kulturmeldungen_08082026_dlf_20260808_1756_aa327a3d.mp3?refId=kultur-heute-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/kulturmeldungen_10082026_dlf_20260810_1757_3989bcbf.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
     "tags": [
       "kultur",
@@ -229,17 +149,95 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:f622ef1f-3562-559f-b430-cb55a366f5a1",
+    "id": "dlf-kultur-heute:e1e5e250-38d7-595a-91a8-c2f2a90b59da",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Nepo-Baby mit Stil: Ein Treffen mit Isabella Rossellini in Locarno",
-    "summary": "Baschiera, Julia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nepo-baby-mit-stil-ein-treffen-mit-isabella-rossellini-in-locarno-102.html",
+    "title": "\"Falsche Angaben\" - US-Regierung gegen Smithsonian History Museum",
+    "summary": "Klein, Bettina www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:51:24.000Z",
+    "url": "https://www.deutschlandfunk.de/falsche-angaben-us-regierung-gegen-smithsonian-history-museum-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/nepo_baby_mit_stil_ein_treffen_mit_isabella_rossellini_in_dlf_20260808_1752_ad3a5338.mp3?refId=kultur-heute-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/falsche_angaben_us_regierung_gegen_smithsonian_history_dlf_20260810_1751_e788959a.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:85267d22-a001-5285-8b6d-80832824f5e9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"everybody\" - Georg-Kolbe-Museum in Berlin will Körper neu denken",
+    "summary": "Reber, Simone www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:46:58.000Z",
+    "url": "https://www.deutschlandfunk.de/everybody-georg-kolbe-museum-in-berlin-will-koerper-neu-denken-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/everybody_georg_kolbe_museum_in_berlin_will_koerper_neu_dlf_20260810_1746_f3873747.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0409f272-beb3-5b99-ada7-3517677b3b6d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Ausrichtung? Bundeszentrale für politische Bildung nach Rücktritt von Rix",
+    "summary": "Engelbrecht, Sebastian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-ausrichtung-bundeszentrale-fuer-politische-bildung-nach-ruecktritt-von-rix-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/neue_ausrichtung_bundeszentrale_fuer_politische_bildung_nach_dlf_20260810_1742_3e85ecf3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ada65846-a077-5c69-b07f-3b5a05d9da5a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Pen Berlin Heimat-Reihe - Schriftstellerin Jackie Thomae im Gespräch",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:35:28.000Z",
+    "url": "https://www.deutschlandfunk.de/pen-berlin-heimat-reihe-schriftstellerin-jackie-thomae-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/pen_berlin_heimat_reihe_schriftstellerin_jackie_thomae_im_dlf_20260810_1735_d784dcb3.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",

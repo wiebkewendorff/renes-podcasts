@@ -1,5 +1,236 @@
 [
   {
+    "id": "dlf-das-feature:75c8bae3-3f2d-5e83-a01b-20a7084ce5c9",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Breaking Dad – Xu Wei rettet sein Kind - Ein Vater gegen die seltene Krankheit seines Sohnes",
+    "summary": "Wie weit geht ein Vater, wenn der Tod seines Kindes unvermeidbar scheint? Haoyang wird mit dem Menkes-Syndrom diagnostiziert. Weil niemand eine Therapie entwickelt, baut Xu Wei in der Abstellkammer seiner Eltern ein Labor. Er hat keine Ausbildung, keine Erlaubnis und zwei Jahre Zeit. Von Baran Datlı www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-11T17:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/breaking-dad-xu-wei-rettet-sein-kind-100.html",
+    "image": "https://bilder.deutschlandfunk.de/ca/c3/a8/62/cac3a862-e69f-4190-8621-11984804c650/bild-fuer-breaking-dad-afp-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/breaking_dad_xu_wei_rettet_sein_kind_dlf_20260811_1915_ccd72371.mp3?refId=das-feature-104",
+    "duration": "53 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f4e59f45-17f2-5ab6-a924-52dafd6f670a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 10.08.2026",
+    "summary": "Hübert. Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:57:05.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/kulturmeldungen_10082026_dlf_20260810_1757_3989bcbf.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e1e5e250-38d7-595a-91a8-c2f2a90b59da",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Falsche Angaben\" - US-Regierung gegen Smithsonian History Museum",
+    "summary": "Klein, Bettina www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:51:24.000Z",
+    "url": "https://www.deutschlandfunk.de/falsche-angaben-us-regierung-gegen-smithsonian-history-museum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/falsche_angaben_us_regierung_gegen_smithsonian_history_dlf_20260810_1751_e788959a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:85267d22-a001-5285-8b6d-80832824f5e9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"everybody\" - Georg-Kolbe-Museum in Berlin will Körper neu denken",
+    "summary": "Reber, Simone www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:46:58.000Z",
+    "url": "https://www.deutschlandfunk.de/everybody-georg-kolbe-museum-in-berlin-will-koerper-neu-denken-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/everybody_georg_kolbe_museum_in_berlin_will_koerper_neu_dlf_20260810_1746_f3873747.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0409f272-beb3-5b99-ada7-3517677b3b6d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Ausrichtung? Bundeszentrale für politische Bildung nach Rücktritt von Rix",
+    "summary": "Engelbrecht, Sebastian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-ausrichtung-bundeszentrale-fuer-politische-bildung-nach-ruecktritt-von-rix-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/neue_ausrichtung_bundeszentrale_fuer_politische_bildung_nach_dlf_20260810_1742_3e85ecf3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ada65846-a077-5c69-b07f-3b5a05d9da5a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Pen Berlin Heimat-Reihe - Schriftstellerin Jackie Thomae im Gespräch",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-10T15:35:28.000Z",
+    "url": "https://www.deutschlandfunk.de/pen-berlin-heimat-reihe-schriftstellerin-jackie-thomae-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/pen_berlin_heimat_reihe_schriftstellerin_jackie_thomae_im_dlf_20260810_1735_d784dcb3.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:363f7527-f513-529d-a8e4-313fa0cd066e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das eigene Stück - Theater zum Mitmachen, Ausprobieren und Lernen",
+    "summary": "Brendel, Gerd www.deutschlandfunk.de, Corso",
+    "date": "2026-08-10T13:20:07.000Z",
+    "url": "https://www.deutschlandfunk.de/das-eigene-stueck-theater-zum-mitmachen-ausprobieren-und-lernen-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/das_eigene_stueck_theater_zum_mitmachen_ausprobieren_und_dlf_20260810_1520_ecf6972a.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:48471e3a-4ff2-501d-8030-42ed6fe65936",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mordprozess im Fall Tupac Shakur - Was das für den 90er Rap bedeutet",
+    "summary": "Brimmers, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-10T13:05:04.000Z",
+    "url": "https://www.deutschlandfunk.de/mordprozess-im-fall-tupac-shakur-was-das-fuer-den-90er-rap-bedeutet-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/mordprozess_im_fall_tupac_shakur_was_das_fuer_den_90er_rap_dlf_20260810_1505_39f5a5f3.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0c1e2805-9fcc-5ff8-b663-a53d8b353e35",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Imageschaden für viel Geld: Ein Stadion für Kanye West - Podcast Zeit",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-08-10T13:03:51.000Z",
+    "url": "https://www.deutschlandfunk.de/imageschaden-fuer-viel-geld-ein-stadion-fuer-kanye-west-podcast-zeit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/imageschaden_fuer_viel_geld_ein_stadion_fuer_kanye_west_dlf_20260810_1503_67fc854f.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:703d9f3f-e8a4-56a0-8120-16b561a09da3",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -153,136 +384,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c410651e-4bca-5fa3-ba79-0b621eacb3d7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 08.08.2026",
-    "summary": "Siniawaski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/kulturmeldungen_08082026_dlf_20260808_1756_aa327a3d.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f622ef1f-3562-559f-b430-cb55a366f5a1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nepo-Baby mit Stil: Ein Treffen mit Isabella Rossellini in Locarno",
-    "summary": "Baschiera, Julia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nepo-baby-mit-stil-ein-treffen-mit-isabella-rossellini-in-locarno-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/nepo_baby_mit_stil_ein_treffen_mit_isabella_rossellini_in_dlf_20260808_1752_ad3a5338.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f5ac4afe-99bf-5ea2-80ed-18200e12dfd7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Einzelschicksale vor der Kamera: Dokumentarfilm als Spiegelbild der Gesellschaft",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:43:00.000Z",
-    "url": "https://www.deutschlandfunk.de/einzelschicksale-vor-der-kamera-dokumentarfilm-als-spiegelbild-der-gesellschaft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/einzelschicksale_vor_der_kamera_dokumentarfilm_als_dlf_20260808_1743_f5392405.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:251d5e86-2df4-5412-b100-8cd467ebcb82",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Promise of Change\": Michael Armitage im Palazzo Grassi in Venedig",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:38:00.000Z",
-    "url": "https://www.deutschlandfunk.de/promise-of-change-michael-armitage-im-palazzo-grassi-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/promise_of_change_michael_armitage_im_palazzo_grassi_in_dlf_20260808_1738_a8375ed3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1d5f72f2-0ae3-550b-b55e-036bb93a3632",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Klanglandschaften des Populismus: Mehr als nur Hintergrundgeräusche",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-08T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/klanglandschaften-des-populismus-mehr-als-nur-hintergrundgeraeusche-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/klanglandschaften_des_populismus_mehr_als_nur_dlf_20260808_1731_9e352894.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -462,56 +563,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:2767ecbe-3ee9-5f02-bb31-fc0dd1e0cc2c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Social Media ohne Algorithmus: kann Myspace das schaffen?",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-08-06T13:15:05.000Z",
-    "url": "https://www.deutschlandfunk.de/social-media-ohne-algorithmus-kann-myspace-das-schaffen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/social_media_ohne_algorithmus_kann_myspace_das_schaffen_dlf_20260806_1515_dfa5564c.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f3f1b337-c9a2-51ff-90b4-9b32e7d0ebc5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Verwandlung\" im neuen Gewand: KI macht Kafkas Käfer zu Trap",
-    "summary": "Müller, Paulus; Zawadzki, Adam www.deutschlandfunk.de, Corso",
-    "date": "2026-08-06T13:05:55.000Z",
-    "url": "https://www.deutschlandfunk.de/die-verwandlung-im-neuen-gewand-ki-macht-kafkas-kaefer-zu-trap-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/die_verwandlung_im_neuen_gewand_ki_macht_kafkas_kaefer_zu_dlf_20260806_1505_1764c197.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-der-rest-ist-geschichte:6a6c3e82-c24b-545f-b2fa-30776010fc80",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -535,31 +586,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:de6307d3-ed49-5dd3-90e3-0dae567d3a4b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wiederentdeckt - Ebrahim Monsefi: Der Bob Dylan von Hormoz",
-    "summary": "Farzanefar, Amin www.deutschlandfunk.de, Corso",
-    "date": "2026-08-05T13:15:42.000Z",
-    "url": "https://www.deutschlandfunk.de/wiederentdeckt-ebrahim-monsefi-der-bob-dylan-von-hormoz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/05/wiederentdeckt_ebrahim_monsefi_der_bob_dylan_von_hormoz_dlf_20260805_1515_223f0185.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1092,32 +1118,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-11-doku-drops-13-kollision-drk-20260711-1805-973e91b1-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "doku drops 13: Kollision - Jeden Monat neue Kurzdokus",
-    "summary": "Wenn zwei Galaxien kollidieren, prallen sie nicht wirklich aufeinander. Sie ordnen sie sich neu. Schwarze Löcher entstehen und um sie herum wirbeln neue Sterne. Und wenn Körper oder Weltanschauungen zusammenstoßen? Davon erzählen zwei neue Kurzdokus. Moderation: Judith Geffert www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-09T09:46:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/doku-drops-13-kollision-100.html",
-    "image": "https://bilder.deutschlandfunk.de/c0/cb/3b/e7/c0cb3be7-6af2-4e61-af85-6ed462206a04/doku-drops-13-kollision-bild-satt-gruen-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/doku_drops_13_kollision_drk_20260711_1805_973e91b1.mp3?refId=das-feature-104",
-    "duration": "26 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
     ],
     "language": "de"
   },

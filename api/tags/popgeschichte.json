@@ -1,5 +1,80 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-5016252036543621",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "TV-Koch Rainer Sass mit neuen Rezepten im DAS! Studio",
+    "summary": "Über mehr als dreißig Jahre war Rainer Sass NDR-Fernsehkoch und präsentierte seine Rezepte mit Witz und Charme in der Rubrik \"DAS! schmeckt\" und im \"DAS! Kochstudio\". 2024 verabschiedete er sich vom Bildschirm – nicht aber vom Kochen. Jetzt versammelt er seine neuesten Ideen im Kochbuch \"Schnelles für Zwei\": Gerichte zum Nachkochen, mal schnell, mal raffiniert für einen besonderen Anlass, immer für zwei Portionen. Im Studio bereitet er Probierhäppchen vor.",
+    "date": "2026-08-09T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/tv-koch-rainer-sass-mit-neuen-rezepten-im-das-studio,audio-3408580.html",
+    "image": "https://images.ndr.de/image/1d03d95a-4742-4197-9816-de184769eb87/AAABn-d_x18/AAABnSStX0g/1x1-big/screenshot-208942.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0810/AU-20260810-1311-4200.mp3",
+    "duration": "44 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-8394872665427361",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Ihr Revier sind ferne Welten: Astrophysikerin Lisa Kaltenegger",
+    "summary": "Seit 2008 trägt ein Asteroid zwischen Mars und Jupiter ehrenhalber ihren Namen - verwunderlich ist das nicht. Die österreichische Astronomin und Astrophysikerin Lisa Kaltenegger erforscht die Exoplaneten, die außerhalb unseres Sonnensystems ferne Sterne umkreisen. Besonders im Blick hat die Wissenschaftlerin, die in den USA und in Deutschland arbeitet, deren Atmosphäre: Darin können Hinweise stecken, ob dort Leben wie auf der Erde möglich wäre. Das führt zur großen Frage: Gibt es nun Außerirdische oder nicht? Mit Lisa Kaltenegger klären wir das.",
+    "date": "2026-08-08T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/ihr-revier-sind-ferne-welten-astrophysikerin-lisa-kaltenegger,audio-3408102.html",
+    "image": "https://images.ndr.de/image/489f94b7-eae8-492c-a7a8-0bb44751102f/AAABn-KZbnA/AAABnSStX0g/1x1-big/screenshot-208788.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0810/AU-20260810-0936-3700.mp3",
+    "duration": "43 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-7185012653099967",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Rapperin und Schauspielerin Sabrina Setlur im Talk mit Bettina Tietjen",
+    "summary": "Als Deutschrap noch Männersache war, machte sie mit \"Hier kommt die Schwester\" Furore. Heute ist sie als Schauspielerin unterwegs.",
+    "date": "2026-08-07T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/rapperin-und-schauspielerin-sabrina-setlur-im-talk-mit-bettina-tietjen,audio-3408096.html",
+    "image": "https://images.ndr.de/image/a71d5848-eb8d-4efb-8454-5b9c43616b6a/AAABn91Qylc/AAABnSStX0g/1x1-big/screenshot-208254.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0810/AU-20260810-0935-5501.mp3",
+    "duration": "35 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-9508245034460638",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -61,81 +136,6 @@
     "image": "https://images.ndr.de/image/937cd2c5-07b3-4a10-a56f-6bf15062ba41/AAABn9L1AgA/AAABnSStX0g/1x1-big/screenshot-207290.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0806/AU-20260806-0945-0500.mp3",
     "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-6525154142612292",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Beachvolleyballer Ehlers und Wickler auf dem Roten Sofa",
-    "summary": "Das wichtigste Spiel ihrer Karriere haben die Beachvolleyballer Nils Ehlers und Clemens Wickler komplett vergeigt: Vor zwei Jahren bei den Olympischen Spielen in Paris, das Stadion mit 13.000 Menschen proppenvoll, schien ihnen Gold fast sicher - als plötzlich nichts mehr ging. Am Ende standen andere oben, das Silber war zunächst kein Trost. Wie aus Krisenstimmung wieder Motivation wird, können die besten deutschen Sportler ihrer Disziplin aus eigener Erfahrung erzählen. Zu uns kommen sie anlässlich der „Volleyball World Beach Pro Tour\", die Anfang August in Hamburg Station macht.",
-    "date": "2026-08-04T16:45:00.000Z",
-    "url": "https://www.ndr.de/beachvolleyballer-ehlers-und-wickler-auf-dem-roten-sofa,audio-3399186.html",
-    "image": "https://images.ndr.de/image/61155557-00e4-4778-b339-2f5a204ff13b/AAABn83rhdU/AAABnSStX0g/1x1-big/screenshot-206970.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0805/AU-20260805-0938-1100.mp3",
-    "duration": "32 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-8947189655603605",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Pilzsachverständiger Moritz Schmid bringt Pilze für jede Jahreszeit auf den Teller",
-    "summary": "Schon als kleiner Junge lernte Moritz Schmid im Wald die faszinierende Welt der Pilze kennen - weder Pflanze noch Tier, mal tödlich, mal heilsam. Heute ist er Pilzsachverständiger und Pilzcoach der Deutschen Gesellschaft für Mykologie; auf Instagram folgen ihm rund 80.000 Menschen durchs Unterholz. Damit die Funde am Ende auf dem Teller landen, hat er Rezepte für alle vier Jahreszeiten in seinem Kochbuch „Pilze, Pilze, Pilze\" gesammelt. Eine Kostprobe gibt es bei uns.",
-    "date": "2026-08-03T16:45:00.000Z",
-    "url": "https://www.ndr.de/pilzsachverstaendiger-moritz-schmid-bringt-pilze-fuer-jede-jahreszeit-auf-teller,audio-3396986.html",
-    "image": "https://images.ndr.de/image/ea274dbe-5f75-4371-ad36-25bdee310e52/AAABn8jl8Cs/AAABnSStX0g/1x1-big/screenshot-206654.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0804/AU-20260804-0938-4900.mp3",
-    "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-8794988319091566",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Seid milder zu Euch selbst: Sex- und Beziehungsexpertin Paula Lambert",
-    "summary": "In einer Welt voller Perfektionsdrang mahnt die Autorin, mal einen Gang zurückzuschalten und milder mit sich selbst zu sein.",
-    "date": "2026-08-02T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/seid-milder-zu-euch-selbst-sex-und-beziehungsexpertin-paula-lambert,audio-3394714.html",
-    "image": "https://images.ndr.de/image/1359888b-289e-44de-9b34-24c3f0129656/AAABn8OM9OU/AAABnSStX0g/1x1-big/screenshot-205892.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0803/AU-20260803-0936-3500.mp3",
-    "duration": "41 Min",
     "tags": [
       "beatles",
       "popgeschichte",

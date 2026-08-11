@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:4b628a72f9c73e7dfa5ada8668a7c8b1",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "David Bowie und Iggy Pop: Wie Berlin ihr Leben rettete",
+    "summary": "<p>Im August 1976 sind David Bowie und Iggy Pop auf der Suche nach sich selbst - von Drogen gezeichnet. West-Berlin wird ihre Zuflucht, wo sie Popgeschichte schreiben.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Rüdiger Weidenfeld-Kramer:</strong><br><ul><li>warum David Bowie und Iggy Pop 1976 ausgerechnet ins geteilte West-Berlin ziehen, </li><li>wie aus einer Wohngemeinschaft eine der berühmtesten Künstlerfreundschaften der Popgeschichte entsteht,</li><li>wie Berlin für die beiden Musiker zum Rückzugsort und kreativen Labor wird.</li></ul><br>1976 ziehen David Bowie und Iggy Pop nach West-Berlin – auf der Flucht vor Drogen, Erfolgsdruck und den Schatten ihres Rockstar-Lebens. In der geteilten Stadt finden sie einen Ort, an dem sie weitgehend unbehelligt leben und künstlerisch neu anfangen können.<br><br>Inspiriert von der Atmosphäre Berlins, der deutschen Elektronikmusik und dem Expressionismus entstehen Werke, die bis heute nachwirken. Bowie entwickelt seinen unverwechselbaren Sound weiter, während Iggy Pop Songs aufnimmt, die bis heute zu seinen bekanntesten gehören.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Thilo Schmied, Musikexperte, Tontechniker, Veranstalter der „Berlin Musictours“</li><li>Eduard Meyer, ehemaliger Tontechniker in den Hansa-Studios, der mit David Bowie und Iggy Pop zusammengearbeitet hat</li><li>Tobias Rüther: Helden. David Bowie und Berlin, Berlin 2011</li><li><a href=\"https://www1.wdr.de/radio/wdr5/sendungen/erlebtegeschichten/eduard-meyer-100.html\" rel=\"noopener\" target=\"_blank\">Andrea Halter: Erlebte Geschichten mit Eduard Meyer, WDR 2017</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://www.ardsounds.de/episode/urn:ard:episode:3ef18076c4fef785/\" rel=\"noopener\" target=\"_blank\">Der ewige König von Deutschland - Geburtstag von Rio Reiser</a></li><li><a href=\"https://www.ardsounds.de/episode/urn:ard:episode:061e3a197b90d158/\" rel=\"noopener\" target=\"_blank\">Landluft und Soundvisionen - Musikproduzent Conny Plank</a></li><li><a href=\"https://www.ardsounds.de/episode/urn:ard:episode:a0201d30cc856dd5/\" rel=\"noopener\" target=\"_blank\">John Peel - der Radio-DJ, der unbekannte Bands zu Stars machte</a></li><li><a href=\"https://www.ardsounds.de/episode/urn:ard:episode:7f7b22b59674c2ce/\" rel=\"noopener\" target=\"_blank\">Zehn Songs für die Ewigkeit - \"The Queen is dead\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Rüdiger Weidenfeld-Kramer<br>Redaktion: Frank Zirpins<br>Technik: Nicolas Dohle",
+    "date": "2026-08-11T04:00:26.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-david-bowie-und-iggy-pop-wie-berlin-ihr-leben-rettete-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-david-bowie-iggy-pop-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/30/113d4397-6812-44fb-8fd3-5eb0ac3fb3d2/113d4397-6812-44fb-8fd3-5eb0ac3fb3d2_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:cf72902bb95efd5e240e00477a086306",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -249,29 +272,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-fritz-lang-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/11/d380a8c9-c8ef-48b9-902f-7d7d3ff882f5/d380a8c9-c8ef-48b9-902f-7d7d3ff882f5_MP3-128.mp3",
     "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:15406a4dfa79fbd055c8e76313c2d9f8",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Unentdeckt mitten in Berlin: Amerikas Partisanen im Kalten Krieg",
-    "summary": "<p>Am 1. August 1956 entsteht Detachment A Berlin. Für den Fall einer sowjetischen Invasion trainiert die geheime US-Einheit Sabotage und Partisanenkampf.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martin Herzog:</strong><br><ul><li>warum mitten im Berliner Grunewald Waffen in geheimen Lagern vergraben werden, </li><li>weshalb US-Soldaten sich in zivil unter die Berliner Bevölkerung mischen, </li><li>ob eine geheime Spezialeinheit den Verlauf des Kalten Krieges hätte beeinflussen können.</li></ul><br>Am 1. August 1956 gründet die US-Armee in West-Berlin die geheime Spezialeinheit Detachment-A. Ihre Mitglieder bereiten sich auf den Ernstfall eines Krieges zwischen NATO und Warschauer Pakt vor: Im Falle eines sowjetischen Angriffs sollen sie hinter den feindlichen Linien Bahnstrecken, Brücken und Wasserkanäle sabotieren. <br><br>Dafür legen sie in Berlin geheime Waffenlager an, üben konspiratives Arbeiten und tarnen sich als Zivilisten. Jahrzehntelang bleibt die Existenz der Einheit nahezu unbekannt – selbst befreundeten Geheimdiensten. Erst nach dem Ende des Kalten Krieges wird bekannt, welche Rolle Detachment A im Verteidigungsplan der USA für West-Berlin spielen sollte.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>James Stejskal, Militärhistoriker und Autor, Ex-Green-Beret, Ex-CIA, Ex-Detachment-A</li><li>Erich Schmidt-Eenboom, Historiker, Journalist und Autor, spezialisiert auf Geheimdienste</li><li>James Stejskal: Special Forces Berlin. Clandestine Cold War Operations of the U.S. Army’s Elite, 1956-1990. Philadelphia 2020</li><li>Erich Schmidt-Eenboom und Ulrich Stoll: Die Partisanen der NATO. Stay-Behind-Organisationen in Deutschland 1946–1991, Berlin 2016</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:90889443edc9eed8/\" rel=\"noopener\" target=\"_blank\">NATO-Doppelbeschluss - Frieden schaffen mit noch mehr Waffen</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:ef764f8db6f93117/\" rel=\"noopener\" target=\"_blank\">Die \"Küchendebatte\" zwischen Nixon und Chruschtschow</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:208a4b9f1750c32a/\" rel=\"noopener\" target=\"_blank\">Verrat im Kalten Krieg - wie West-Spion Tiedge zur Stasi ging</a></li></ul><br><strong>Unser Hörtipp:</strong><br><ul><li><a href=\"https://1.ard.de/podcast-tipp-vor33\" rel=\"noopener\" target=\"_blank\">Podcast „Vor 33“</a>: Was für eine Gesellschaft lässt zu, dass eine rechtsextreme Partei die Macht übernimmt? Der Podcast blickt in fünf Folgen zurück auf die Jahre vor 1933: auf eine Demokratie im Krisenmodus, in der sich Gewalt normalisiert und radikale Antworten immer attraktiver werden.</li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martin Herzog<br>Redaktion: Matti Hesse",
-    "date": "2026-08-01T04:00:00.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-unentdeckt-mitten-in-berlin-amerikas-partisanen-im-kalten-krieg-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/detatchment-a-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/28/3e97bcb1-2ca7-4590-b95f-541b600fdcfb/3e97bcb1-2ca7-4590-b95f-541b600fdcfb_MP3-128.mp3",
-    "duration": "16 Min",
     "tags": [
       "geschichte",
       "bildung",
