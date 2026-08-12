@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:ec0ece0f-8731-5a57-8d9f-680751c2112d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 11.08.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-11T15:56:33.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-11-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/kulturmeldungen_11082026_dlf_20260811_1756_0cbbc2db.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:090ce12b-ec18-560e-b211-3a831097230b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Beim Machen lernt man sich kennen - Nina Gribat über Kulturarbeit in der Provinz",
+    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-11T15:47:28.000Z",
+    "url": "https://www.deutschlandfunk.de/beim-machen-lernt-man-sich-kennen-nina-gribat-ueber-kulturarbeit-in-der-provinz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/beim_machen_lernt_man_sich_kennen_nina_gribat_ueber_dlf_20260811_1747_25baaa98.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b2214df4-c974-599a-aa6b-c68a7cd3445b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Europa\" - Krzysztof Warlikowski kommt mit Wajdi Mouawads Stück nach Salzburg",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-11T15:42:03.000Z",
+    "url": "https://www.deutschlandfunk.de/europa-krzysztof-warlikowski-kommt-mit-wajdi-mouawads-stueck-nach-salzburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/europa_krzysztof_warlikowski_kommt_mit_wajdi_mouawads_stueck_dlf_20260811_1742_30b9a876.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3b7ea558-1f3e-5fe1-9e92-716c61942157",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Spuren der NS-Macht - Abrisspläne für den Bunker der Neuen Reichskanzlei",
+    "summary": "Bernau, Nikolaus www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-11T15:36:40.000Z",
+    "url": "https://www.deutschlandfunk.de/spuren-der-ns-macht-abrissplaene-fuer-den-bunker-der-neuen-reichskanzlei-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/spuren_der_ns_macht_abrissplaene_fuer_den_bunker_der_neuen_dlf_20260811_1736_b6b89f53.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:f4e59f45-17f2-5ab6-a924-52dafd6f670a",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/kulturmeldungen_09082026_dlf_20260809_1757_5b594f43.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c12dd557-4bdf-5a04-8dcb-9fd4f3559c24",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "50 Jahre Pauli-Kunstpreis - Eine Ausstellung in Bremen zeigt die Nominierten",
-    "summary": "Anette Schneider www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:51:05.000Z",
-    "url": "https://www.deutschlandfunk.de/50-jahre-pauli-kunstpreis-eine-ausstellung-in-bremen-zeigt-die-nominierten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/50_jahre_pauli_kunstpreis_eine_ausstellung_in_bremen_zeigt_dlf_20260809_1751_c6583717.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7bd4083c-bac2-520e-8233-35d0c4d4a9ca",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das Goethe-Institut wird 75. Jahn Lukas Hermann im Gespräch",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:41:10.000Z",
-    "url": "https://www.deutschlandfunk.de/das-goethe-institut-wird-75-jahn-lukas-hermann-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/das_goethe_institut_wird_75_jahn_lukas_hermann_im_gespraech_dlf_20260809_1741_305712d5.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:60a301b2-f90e-5b59-96dd-4501beb1ebb5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Politische Debatte erwünscht - Zum Start des Edinburgh International Festival",
-    "summary": "Lettenbauer, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/politische-debatte-erwuenscht-zum-start-des-edinburgh-international-festival-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/politische_debatte_erwuenscht_zum_start_des_edinburgh_dlf_20260809_1736_c355c969.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3fc80368-ef47-5f7f-85a7-3983f37f2342",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Water Garden\" - Bas Smets bewässert und begrünt das Vitra Design Museum",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:30:31.000Z",
-    "url": "https://www.deutschlandfunk.de/water-garden-bas-smets-bewaessert-und-begruent-das-vitra-design-museum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/water_garden_bas_smets_bewaessert_und_begruent_das_vitra_dlf_20260809_1730_b4549e0f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
