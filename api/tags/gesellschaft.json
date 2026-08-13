@@ -1,11 +1,60 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4031647",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Forschungszeppelin misst Luftqualität",
+    "summary": "<strong>Das Forschungsquartett — dieses Mal in Kooperation mit dem Forschungszentrum Jülich</strong>\nDer Atem der Stadt und das Leid der Wälder\nIm August 2026 wird der Himmel über der Region Rhein-Ruhr zum Schauplatz einer außergewöhnlichen Messkampagne. Ein Zeppelin NT gleitet in 300 Metern Höhe über Ballungszentren wie Köln und Düsseldorf sowie über die Wälder der Eifel . Doch es ist kein gewöhnlicher Rundflug: An Bord befinden sich hochempfindliche Instrumente der Kampagne CC-FLUX , die den Austausch flüchtiger organischer Verbindungen (VOC) zwischen Erdboden und Atmosphäre erfassen .\n<b>Zeppelin: die ideale Forschungsplattform</b>\n<strong>Dr. Eva Pfannerstill</strong> vom Forschungszentrum Jülich leitet das Projekt ClimStress. Sie untersucht, wie Hitze, Trockenheit und Schädlinge die chemischen Abgase der Bäume verändern. Der Zeppelin ist dafür das ideale Werkzeug.\n\nIm Vergleich zu schnellen Forschungsflugzeugen erlaubt das Luftschiff eine extrem hohe räumliche Auflösung, was für Messungen direkt über den Baumwipfeln unerlässlich ist .\nHaushaltsreiniger als neue Schadstoffquelle\nIn den Städten rücken derweil neue Schadstoffquellen in den Fokus. Während klassische Autoabgase durch Katalysatoren stark reduziert wurden, gewinnen Haushaltschemikalien wie Farben, Reinigungsmittel und Kosmetika an Bedeutung . In den USA machen diese bereits etwa 50 Prozent der schadstoffbildenden Emissionen aus — eine Hypothese, die nun für Europa überprüft wird .\nLuftqualität besser vorhersagen\nBesonders kritisch ist das chemische Zusammenspiel: Treffen diese organischen Gase auf Stickoxide aus Verbrennungsprozessen, entsteht unter Sonneneinstrahlung gesundheitsschädliches bodennahes Ozon . Die Messmethode „Airborne Eddy Covariance“ erfasst dabei zehnmal pro Sekunde den vertikalen Wind und die Gaskonzentrationen, um exakt zu berechnen, was die Erdoberfläche sozusagen ausatmet . Die gewonnenen Daten sind eine entscheidende Grundlage für präzisere Luftqualitätsprognosen und ein besseres Verständnis unserer Atmosphäre in Zeiten des Klimawandels .\n\nDer Forschungszeppelin ist vom <strong>3. bis zum 16. August 2026</strong> über dem Rhein-Ruhrgebiet, der Eifel und Teilen der Niederlande unterwegs. Er startet meist gegen 11 Uhr in Mülheim an der Ruhr.",
+    "date": "2026-08-13T03:31:24.000Z",
+    "url": "https://feedpress.me/link/19604/17416984/forschungsquartett-messungen-mit-dem-zeppelin",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260723fqzeppelin.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260723fqzeppelin.63.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:bf285234-2357-51d7-9b53-0254464181e9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zu viel, zu schlecht und im Abo zu teuer - Haben wir ausgebingt?",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-08-12T13:15:53.000Z",
+    "url": "https://www.deutschlandfunk.de/zu-viel-zu-schlecht-und-im-abo-zu-teuer-haben-wir-ausgebingt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/12/zu_viel_zu_schlecht_und_im_abo_zu_teuer_haben_wir_ausgebingt_dlf_20260812_1515_da05f878.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4020732",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
     "title": "Ada Lovelace und das erste Computerprogramm",
-    "summary": "Ada Lovelace: Poetische Wissenschaftlerin\n<p>Anfang 19. Jahrhundert: Wir reisen in eine Zeit vor der Erfindung der Glühbirne, es gibt kein Telefon, die Dampflokomotive nimmt gerade erst Fahrt auf — Wortwitz beabsichtigt.</p>\n<p>Zu dieser Zeit kommt in London Augusta Ada Byron zur Welt. Sie ist die Tochter des berühmten Dichters Lord Byron, einem Dandy und Träumer, und der eher strengen und rationalen Aristokratin Anne Noel. Wie sich später zeigen sollte, vereinte Ada Lovelace die Fantasie ihres Vaters und die Wissbegier ihrer Mutter in ihrer Arbeit.</p>\n<p>Schon als junges Mädchen wird ihr eine intensive Bildung zuteil, rasch zeigt sie ein besonderes Talent für die Mathematik. Begrenzen will sich die junge Frau aber nicht darauf, sie will viel mehr. Sie liest viel über Biologie, über Physik, Mathematik, Technik.</p>\n<p>Mit gerade einmal 17 Jahren lernt Ada Lovelace den damals schon etablierten Mathematiker und Wissenschaftler Charles Babbage kennen. Obwohl er mehr als doppelt so alt ist, verstehen sich die zwei auf Anhieb. Beide haben gemein, dass sie sich nicht von altbekannten Grenzen in ihren Gedanken einschränken lassen wollen — die Visionärin trifft auf einen Visionär.</p>\nFliegende Dampfmaschinen und Computer\n<p>Charles Babbage arbeitet zu der Zeit an der sogenannten Difference Engine, einer rein mechanischen Rechenmaschine. Mit der Zeit entwickelt Babbage die Idee weiter, schließlich hatte er die Idee zur Analytical Engine. Diese Maschine sollte weit mehr mathematische Formeln lösen können als die Differenzmaschine, die lediglich für eine Art Rechnung eingesetzt werden konnte.</p>\n<p>Heute ist Ada Lovelace eine der bekanntesten Mathematikerinnen: Sie gilt als die erste Programmiererin. Und das, obwohl es zu ihrer Lebzeit noch gar keine Computer gegeben hat. Wie das zusammenpasst und warum Ada Lovelace ihrer Zeit voraus war, bespricht <em>detektor.fm</em>-Redakteurin mit Manon Bischoff und Demian Nahuel Goos in einer neuen Folge von „Geschichten aus der Mathematik“.</p>",
+    "summary": "Ada Lovelace: Poetische Wissenschaftlerin\n<p>Anfang 19. Jahrhundert: Wir reisen in eine Zeit vor der Erfindung der Glühbirne, es gibt kein Telefon, die Dampflokomotive nimmt gerade erst Fahrt auf — Wortwitz beabsichtigt.</p>\n<p>Zu dieser Zeit kommt in London Augusta Ada Byron zur Welt. Sie ist die Tochter des berühmten Dichters Lord Byron, einem Dandy und Träumer, und der eher strengen und rationalen Aristokratin Anne Noel. Wie sich später zeigen sollte, vereinte Ada Lovelace die Fantasie ihres Vaters und die Wissbegier ihrer Mutter in ihrer Arbeit.</p>\n<p>Schon als junges Mädchen wird ihr eine intensive Bildung zuteil, rasch zeigt sie ein besonderes Talent für die Mathematik. Begrenzen will sich die junge Frau aber nicht darauf, sie will viel mehr. Sie liest viel über Biologie, über Physik, Mathematik, Technik.</p>\n<p>Mit gerade einmal 17 Jahren lernt Ada Lovelace den damals schon etablierten Mathematiker und Wissenschaftler Charles Babbage kennen. Obwohl er mehr als doppelt so alt ist, verstehen sich die zwei auf Anhieb. Beide haben gemein, dass sie sich nicht von altbekannten Grenzen in ihren Gedanken einschränken lassen wollen — die Visionärin trifft auf einen Visionär.</p>\nFliegende Dampfmaschinen und Computer\n<p>Charles Babbage arbeitet zu der Zeit an der sogenannten Difference Engine, einer rein mechanischen Rechenmaschine. Mit der Zeit entwickelt Babbage die Idee weiter, schließlich hatte er die Idee zur Analytical Engine. Diese Maschine sollte weit mehr mathematische Formeln lösen können als die Differenzmaschine, die lediglich für eine Art Rechnung eingesetzt werden konnte. Ada Lovelace unterstützt ihn bei seinen Ideen, die beiden stehen im ständigen Austausch miteinander. Lovelace scheint noch viel mehr als Babbage das Potential hinter der Rechenmaschine zu sehen.</p>\n<p>Heute ist Ada Lovelace eine der bekanntesten Mathematikerinnen: Sie gilt als die erste Programmiererin. Und das, obwohl es zu ihrer Lebzeit noch gar keine Computer gegeben hat. Wie das zusammenpasst und warum Ada Lovelace ihrer Zeit voraus war, bespricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit Manon Bischoff und Demian Nahuel Goos in einer neuen Folge von „Geschichten aus der Mathematik“.</p>",
     "date": "2026-08-12T03:17:48.000Z",
     "url": "https://feedpress.me/link/19604/17415781/geschichten-aus-der-mathematik-ada-lovelace",
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260812geschichten-aus-der-mathematikadalovelace.63.mp3",
@@ -350,31 +399,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:e306b1c4-f070-5661-a398-74ae0dda8dfc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "El Comandantes Fanal und Fluch: Blick auf Fidel Castro zum 100. Geburtstag",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-08-07T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/el-comandantes-fanal-und-fluch-blick-auf-fidel-castro-zum-100-geburtstag-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/el_comandantes_fanal_und_fluch_blick_auf_fidel_castro_zum_dlf_20260807_1515_a884ee49.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4027661",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -533,30 +557,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260707fqreiche-in-den-medien.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260707fqreiche-in-den-medien.63.mp3",
     "duration": "19 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4001431",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Warum ist Tanzen die beste Medizin, Julia F. Christensen?",
-    "summary": "Tanz macht glücklich\n<p>Viele kennen das Gefühl: Kaum läuft die Lieblingsmusik, beginnt der Körper sich wie von selbst zu bewegen. Nach dem Tanzen wirkt manches leichter, die Stimmung ist besser und der Kopf freier. Zufall ist das nicht, weiß Dr. Julia F. Christensen. Die ehemalige Profitänzerin forscht mittlerweile als Neurowissenschaftlerin am Max-Planck-Institut für empirische Ästhetik und hat gemeinsam mit dem Forscher Dong-Seon Chang das Buch „Tanzen ist die beste Medizin: Warum es uns gesünder, klüger und glücklicher macht“ veröffentlicht. „Im Tanzen steckt ganz schön viel Wissenschaft drin. Mehr als ich je als Tänzerin erwartet hatte.“</p>\n<p>Das Tanzen vereint drei wichtige Aspekte, die es von anderen Sportarten abheben: Bewegung, Musik und soziale Bindung. Zum einen ist Tanz eine aerobe Sportart, die Herz, Lunge und Stoffwechsel trainiert und uns gesund hält. Die Kombination mit Musik ermöglicht es uns, unsere Gefühle auszudrücken. Außerdem ist Tanzen eine soziale Aktivität, die Bindungshormone freisetzt und uns Soft Skills lehren kann.</p>\nTango gegen Parkinson\n<p>Tanzen fordert nicht nur Muskeln, sondern auch das Gehirn. Wer Schrittfolgen lernt, sich im Raum orientiert, den Takt hält und mit anderen synchron bewegt, trainiert gleichzeitig Gedächtnis, Koordination und Aufmerksamkeit. Forschende haben bereits herausgefunden, dass ältere Menschen, die in ihrem Leben regelmäßig getanzt haben, seltener an alterbedingter Demenz erkranken.</p>\n<p>Eine Studie zeigte außerdem, dass Parkinsonpatient:innen insbesondere von regelmäßigem argentinischen Tango profitieren können.  Entscheidend dabei ist die Neuroplastizität unseres Gehirns, also die Fähigkeit, neue Verknüpfungen zu machen, wenn wir bestimmte Abläufe beständig wiederholen. Christensen weiß: „Wenn ich kognitive Effekte möchte, dann suche ich mir einen Tanzstil aus, der viel Koordination erfordert. Wenn ich psychisch belastet bin, suche ich mir vielleicht einen Tanzstil, bei dem ich an meine Gefühle herankomme, etwa durch Improvisation oder Bewegungstherapie.“</p>\n<strong>Evolutionärer Ursprung</strong>\n<p>Schon Babys bewegen sich rhythmisch zu Musik, lange bevor sie sprechen können. Und in nahezu jeder Kultur gehört Tanzen zu Festen, Ritualen oder wichtigen Lebensereignissen. Für Julia F. Christensen könnte genau darin der evolutionäre Ursprung liegen: Gemeinsame, synchrone Bewegung stärkt den Zusammenhalt einer Gruppe und fördert Empathie und Kooperation.</p>\n<p>In dieser Folge von <strong>„Ach, Mensch!“</strong> spricht detektor.fm-Moderatorin Jessica Hughes mit Neurowissenschaftlerin Julia F. Christensen über ihren Weg vom Tanz in die Wissenschaft und warum manchmal schon ein paar Minuten Tanzen im Wohnzimmer reichen, um Körper und Geist etwas Gutes zu tun.</p>\n<p> </p>",
-    "date": "2026-08-05T02:56:45.000Z",
-    "url": "https://feedpress.me/link/19604/17403650/ach-mensch-julia-f-christensen",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260805ach-menschjuliachristensen.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260805ach-menschjuliachristensen.63.mp3",
-    "duration": "41 Min",
     "tags": [
       "wissenschaft",
       "forschung",

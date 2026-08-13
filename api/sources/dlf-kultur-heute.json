@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:9aa01319-979c-5620-8e54-55554bc1c6c8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 12.08.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-12T15:57:21.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/12/kulturmeldungen_12082026_dlf_20260812_1757_14d81a42.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6abf0296-36ea-5b3a-9682-5a9b1128500a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Solitäre in der Antike - Althistoriker Michael Sommer im Gespräch",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-12T15:47:30.000Z",
+    "url": "https://www.deutschlandfunk.de/solitaere-in-der-antike-althistoriker-michael-sommer-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/12/solitaere_in_der_antike_althistoriker_michael_sommer_im_dlf_20260812_1747_38d6d413.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ff8d3849-33fa-519b-93b4-e61071849022",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Berliner 'Kunstmauer' als Mahnmal - 65 Jahre Mauerbau",
+    "summary": "Engelbrecht, Sebastian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-12T15:42:28.000Z",
+    "url": "https://www.deutschlandfunk.de/berliner-kunstmauer-als-mahnmal-65-jahre-mauerbau-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/12/berliner_kunstmauer_als_mahnmal_65_jahre_mauerbau_dlf_20260812_1742_11d4f59c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:aed37f2d-1ce6-5180-bbd4-a0270da8418e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sonnenfinsternis als modernes Wahrnehmungsritual. Monika Bernold, Historikerin",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-12T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/sonnenfinsternis-als-modernes-wahrnehmungsritual-monika-bernold-historikerin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/12/sonnenfinsternis_als_modernes_wahrnehmungsritual_monika_dlf_20260812_1735_c0d10dcb.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:ec0ece0f-8731-5a57-8d9f-680751c2112d",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/falsche_angaben_us_regierung_gegen_smithsonian_history_dlf_20260810_1751_e788959a.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:85267d22-a001-5285-8b6d-80832824f5e9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"everybody\" - Georg-Kolbe-Museum in Berlin will Körper neu denken",
-    "summary": "Reber, Simone www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-10T15:46:58.000Z",
-    "url": "https://www.deutschlandfunk.de/everybody-georg-kolbe-museum-in-berlin-will-koerper-neu-denken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/everybody_georg_kolbe_museum_in_berlin_will_koerper_neu_dlf_20260810_1746_f3873747.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0409f272-beb3-5b99-ada7-3517677b3b6d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Ausrichtung? Bundeszentrale für politische Bildung nach Rücktritt von Rix",
-    "summary": "Engelbrecht, Sebastian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-10T15:42:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-ausrichtung-bundeszentrale-fuer-politische-bildung-nach-ruecktritt-von-rix-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/neue_ausrichtung_bundeszentrale_fuer_politische_bildung_nach_dlf_20260810_1742_3e85ecf3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ada65846-a077-5c69-b07f-3b5a05d9da5a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Pen Berlin Heimat-Reihe - Schriftstellerin Jackie Thomae im Gespräch",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-10T15:35:28.000Z",
-    "url": "https://www.deutschlandfunk.de/pen-berlin-heimat-reihe-schriftstellerin-jackie-thomae-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/pen_berlin_heimat_reihe_schriftstellerin_jackie_thomae_im_dlf_20260810_1735_d784dcb3.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:703d9f3f-e8a4-56a0-8120-16b561a09da3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 09.08.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-09T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/kulturmeldungen_09082026_dlf_20260809_1757_5b594f43.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

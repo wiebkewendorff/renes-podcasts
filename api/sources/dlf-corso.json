@@ -1,5 +1,30 @@
 [
   {
+    "id": "dlf-corso:bf285234-2357-51d7-9b53-0254464181e9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zu viel, zu schlecht und im Abo zu teuer - Haben wir ausgebingt?",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-08-12T13:15:53.000Z",
+    "url": "https://www.deutschlandfunk.de/zu-viel-zu-schlecht-und-im-abo-zu-teuer-haben-wir-ausgebingt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/12/zu_viel_zu_schlecht_und_im_abo_zu_teuer_haben_wir_ausgebingt_dlf_20260812_1515_da05f878.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:2e8c0d86-88c9-5525-99dd-a62c21db6ea3",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -211,31 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/muenchen_beats_zdf_serie_ueber_die_fruehe_rave_szene_dlf_20260807_1525_7e6d08ca.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e306b1c4-f070-5661-a398-74ae0dda8dfc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "El Comandantes Fanal und Fluch: Blick auf Fidel Castro zum 100. Geburtstag",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-08-07T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/el-comandantes-fanal-und-fluch-blick-auf-fidel-castro-zum-100-geburtstag-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/el_comandantes_fanal_und_fluch_blick_auf_fidel_castro_zum_dlf_20260807_1515_a884ee49.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",
