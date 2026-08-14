@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:3aada9f0-dd53-5625-9e14-8185f00e8dfa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 13.08.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:56:25.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/kulturmeldungen_13082026_dlf_20260813_1756_c7f3a9f4.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b0dbf5c4-0a23-5d58-bfdc-d03abf40b52a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "(LA) HORDE Ballet national de Marseille beim Sommerfestival Kampnagel",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/la-horde-ballet-national-de-marseille-beim-sommerfestival-kampnagel-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/la_horde_ballet_national_de_marseille_beim_sommerfestival_dlf_20260813_1751_6bf2acbe.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8c32a165-dd21-5e25-ad88-88cb712e3bf3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neon-Streifzug durch Bangkok - Der Film \"Funeral Casino Blues\" kommt ins Kino",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:45:29.000Z",
+    "url": "https://www.deutschlandfunk.de/neon-streifzug-durch-bangkok-der-film-funeral-casino-blues-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/neon_streifzug_durch_bangkok_der_film_funeral_casino_blues_dlf_20260813_1745_7cf19775.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0e0485c1-6292-512f-a87c-e5a026a1f5d8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Sammeln für die Zukunft\" - Ausstellung in Wien zu 250 Jahre Albertina",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:40:14.000Z",
+    "url": "https://www.deutschlandfunk.de/sammeln-fuer-die-zukunft-ausstellung-in-wien-zu-250-jahre-albertina-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/sammeln_fuer_die_zukunft_ausstellung_in_wien_zu_250_jahre_dlf_20260813_1740_c6f07c46.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:933c8d27-b855-55f3-bc02-05ef3f70ccea",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "65 Jahre Mauerbau - Schreiben über die deutsche Spaltung mit Katja Lange-Müller",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/65-jahre-mauerbau-schreiben-ueber-die-deutsche-spaltung-mit-katja-lange-mueller-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/65_jahre_mauerbau_schreiben_ueber_die_deutsche_spaltung_mit_dlf_20260813_1735_18ef5bdc.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:9aa01319-979c-5620-8e54-55554bc1c6c8",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/kulturmeldungen_11082026_dlf_20260811_1756_0cbbc2db.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:090ce12b-ec18-560e-b211-3a831097230b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Beim Machen lernt man sich kennen - Nina Gribat über Kulturarbeit in der Provinz",
-    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-11T15:47:28.000Z",
-    "url": "https://www.deutschlandfunk.de/beim-machen-lernt-man-sich-kennen-nina-gribat-ueber-kulturarbeit-in-der-provinz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/beim_machen_lernt_man_sich_kennen_nina_gribat_ueber_dlf_20260811_1747_25baaa98.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b2214df4-c974-599a-aa6b-c68a7cd3445b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Europa\" - Krzysztof Warlikowski kommt mit Wajdi Mouawads Stück nach Salzburg",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-11T15:42:03.000Z",
-    "url": "https://www.deutschlandfunk.de/europa-krzysztof-warlikowski-kommt-mit-wajdi-mouawads-stueck-nach-salzburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/europa_krzysztof_warlikowski_kommt_mit_wajdi_mouawads_stueck_dlf_20260811_1742_30b9a876.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3b7ea558-1f3e-5fe1-9e92-716c61942157",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Spuren der NS-Macht - Abrisspläne für den Bunker der Neuen Reichskanzlei",
-    "summary": "Bernau, Nikolaus www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-11T15:36:40.000Z",
-    "url": "https://www.deutschlandfunk.de/spuren-der-ns-macht-abrissplaene-fuer-den-bunker-der-neuen-reichskanzlei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/spuren_der_ns_macht_abrissplaene_fuer_den_bunker_der_neuen_dlf_20260811_1736_b6b89f53.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f4e59f45-17f2-5ab6-a924-52dafd6f670a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 10.08.2026",
-    "summary": "Hübert. Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-10T15:57:05.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/kulturmeldungen_10082026_dlf_20260810_1757_3989bcbf.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e1e5e250-38d7-595a-91a8-c2f2a90b59da",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Falsche Angaben\" - US-Regierung gegen Smithsonian History Museum",
-    "summary": "Klein, Bettina www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-10T15:51:24.000Z",
-    "url": "https://www.deutschlandfunk.de/falsche-angaben-us-regierung-gegen-smithsonian-history-museum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/falsche_angaben_us_regierung_gegen_smithsonian_history_dlf_20260810_1751_e788959a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

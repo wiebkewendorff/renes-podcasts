@@ -1,5 +1,29 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4031475",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Kann die AfD den MDR abschaffen?",
+    "summary": "<p> </p>\n<p> </p>",
+    "date": "2026-08-13T12:30:07.000Z",
+    "url": "https://feedpress.me/link/19604/17417313/dazwischen-afd-plaene-zur-kuendigung-des-mdr-staatsvertrags-in-sachsen-anhalt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260813-02dazwischenmdrundafd.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260813-02dazwischenmdrundafd.63.mp3",
+    "duration": "35 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4031647",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -203,30 +227,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1785/37/06082026dgfdwwiemachtmandasunsichtbaresichtbarshellerfinal.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1785/37/06082026dgfdwwiemachtmandasunsichtbaresichtbarshellerfinal.63.mp3",
     "duration": "1 Std 30 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4016869",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Warum Superreiche unsichtbar bleiben",
-    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit der Max-Planck-Gesellschaft\n\nSuperreiche häufig medial unsichtbar\n\n<p> In kaum einem Industrieland ist das Vermögen so ungleich verteilt wie in Deutschland. Während die ärmere Hälfte der Bevölkerung rund 1,5 Prozent des Gesamtvermögens besitzt, vereinigen die reichsten 0,1 Prozent mehr als ein Fünftel auf sich. Über die genaue Zusammensetzung dieser Spitze fehlen der Öffentlichkeit jedoch meist verlässliche Daten.</p>\nDie Wissenschaftlerin <strong>Emma Ischinsky</strong> vom Max-Planck-Institut für Gesellschaftsforschung hat in einem Forschungsprojekt rund 150.000 Presseartikel analysiert, um die Sichtbarkeit der reichsten Personen des Landes zu kartografieren. Das Ergebnis: Ein Viertel dieser Elite taucht in der Berichterstattung nicht auf. Diese mediale Unsichtbarkeit folgt laut der Studie Mustern, die eng auch mit der Geschichte der Vermögen verknüpft sind. Während sogenannte Self made-Milliardäre der Nachkriegszeit wie Sportler und Unternehmerinnen oft als Symbole des wirtschaftlichen Aufstiegs inszeniert werden, bleiben Familien, deren Reichtum in der NS-Zeit begründet wurde, im Schatten.\n\n‚Selfmade-Milliardäre‘ am häufigsten in den Medien\nGleichzeitig konzentriert sich das öffentliche Interesse auf eine Minderheit: Lediglich 1,5 Prozent der Superreichen generieren die Hälfte aller Namensnennungen in der Presse. Oft handele es sich dabei um Personen, die durch eigene Medienhäuser oder eine aktive Selbstvermarktung die Deutungshoheit über ihr Image behielten. Für die große Mehrheit der Milliardäre und Millardärinnen gilt dagegen: Wer unsichtbar bleibt, taucht in der gesellschaftlichen Debatte über Verteilungsgerechtigkeit nicht auf.\n<b>Mehr Transparenz über Reichtum?</b>\nDiese Stille ist laut Ischinsky ein Problem für die demokratische Gesellschaft. Wenn die Öffentlichkeit nicht erfährt, wer über welche Ressourcen verfügt, fehlt die Grundlage für eine kritische Auseinandersetzung mit wirtschaftlicher Macht. Ihre Studie legt nahe, dass mediale Unsichtbarkeit dazu beiträgt, den Status quo zu stabilisieren und Privilegien vor öffentlicher Debatte zu schützen.",
-    "date": "2026-08-06T03:06:16.000Z",
-    "url": "https://feedpress.me/link/19604/17404157/forschungsquartett-superreiche-in-den-medien",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260707fqreiche-in-den-medien.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260707fqreiche-in-den-medien.63.mp3",
-    "duration": "19 Min",
     "tags": [
       "wissenschaft",
       "forschung",

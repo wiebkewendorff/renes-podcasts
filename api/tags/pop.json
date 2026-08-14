@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:b72145dd-db5f-526d-b4fc-9c810fd0d6ab",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doku \"Noga\" - Wie der Nahostkonflikt eine Künstlerinnenkarriere verändert",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-08-13T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/doku-noga-wie-der-nahostkonflikt-eine-kuenstlerinnenkarriere-veraendert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/doku_noga_wie_der_nahostkonflikt_eine_kuenstlerinnenkarriere_dlf_20260813_1515_43717ea2.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:bcfbb10c-9ba2-5715-b675-6bc95afbeaf7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Videospieladaption Exit 8 - Der Horror auf dem Weg zu Arbeit",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-13T13:10:31.000Z",
+    "url": "https://www.deutschlandfunk.de/videospieladaption-exit-8-der-horror-auf-dem-weg-zu-arbeit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/videospieladaption_exit_8_der_horror_auf_dem_weg_zu_arbeit_dlf_20260813_1510_8e542339.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ece1c07b-023b-5771-9e46-360b8ad657f2",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vinyl - Vom Premium-Produkt zum teuren Mängelexemplar?",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-08-13T13:06:25.000Z",
+    "url": "https://www.deutschlandfunk.de/vinyl-vom-premium-produkt-zum-teuren-maengelexemplar-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/vinyl_vom_premium_produkt_zum_teuren_maengelexemplar_dlf_20260813_1506_64491ded.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:bf285234-2357-51d7-9b53-0254464181e9",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/duo_overmono_wir_wollten_moeglichst_viel_kaputtzumachen_dlf_20260808_1530_d8b1cdbb.mp3?refId=corso-104",
     "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:635ce88e-26bf-5e49-96a8-29e2b9c94217",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Celebrity-Maxxing mit Hundeblick - Softboy Role Model will nach oben",
-    "summary": "Zylka, Jenni www.deutschlandfunk.de, Corso",
-    "date": "2026-08-08T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/celebrity-maxxing-mit-hundeblick-softboy-role-model-will-nach-oben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/celebrity_maxxing_mit_hundeblick_softboy_role_model_will_dlf_20260808_1520_e0afc2f6.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:c83d8f82-0cd2-5ca5-8fdf-5bbd2adc184a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Album \"I am both\" von Margaret Glaspy - \"Social Media war für mich eine Sucht\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-08T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/album-i-am-both-von-margaret-glaspy-social-media-war-fuer-mich-eine-sucht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/album_i_am_both_von_margaret_glaspy_social_media_war_fuer_dlf_20260808_1510_66ae4cc5.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:de6dc141-3c6c-502d-81ec-2fd0e631138b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "München Beats - ZDF-Serie über die frühe Rave-Szene",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-07T13:25:10.000Z",
-    "url": "https://www.deutschlandfunk.de/muenchen-beats-zdf-serie-ueber-die-fruehe-rave-szene-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/muenchen_beats_zdf_serie_ueber_die_fruehe_rave_szene_dlf_20260807_1525_7e6d08ca.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",

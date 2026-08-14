@@ -1,5 +1,131 @@
 [
   {
+    "id": "dlf-corso:b72145dd-db5f-526d-b4fc-9c810fd0d6ab",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doku \"Noga\" - Wie der Nahostkonflikt eine Künstlerinnenkarriere verändert",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-08-13T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/doku-noga-wie-der-nahostkonflikt-eine-kuenstlerinnenkarriere-veraendert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/doku_noga_wie_der_nahostkonflikt_eine_kuenstlerinnenkarriere_dlf_20260813_1515_43717ea2.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:bcfbb10c-9ba2-5715-b675-6bc95afbeaf7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Videospieladaption Exit 8 - Der Horror auf dem Weg zu Arbeit",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-13T13:10:31.000Z",
+    "url": "https://www.deutschlandfunk.de/videospieladaption-exit-8-der-horror-auf-dem-weg-zu-arbeit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/videospieladaption_exit_8_der_horror_auf_dem_weg_zu_arbeit_dlf_20260813_1510_8e542339.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ece1c07b-023b-5771-9e46-360b8ad657f2",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vinyl - Vom Premium-Produkt zum teuren Mängelexemplar?",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-08-13T13:06:25.000Z",
+    "url": "https://www.deutschlandfunk.de/vinyl-vom-premium-produkt-zum-teuren-maengelexemplar-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/vinyl_vom_premium_produkt_zum_teuren_maengelexemplar_dlf_20260813_1506_64491ded.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4031475",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Kann die AfD den MDR abschaffen?",
+    "summary": "<p> </p>\n<p> </p>",
+    "date": "2026-08-13T12:30:07.000Z",
+    "url": "https://feedpress.me/link/19604/17417313/dazwischen-afd-plaene-zur-kuendigung-des-mdr-staatsvertrags-in-sachsen-anhalt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260813-02dazwischenmdrundafd.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260813-02dazwischenmdrundafd.63.mp3",
+    "duration": "35 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:cb71a668-51f6-57c4-b972-598b8b6e911e",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Macht der Kirche - Wie Päpste Politik machen",
+    "summary": "Der eine schwieg zum Holocaust, der andere bekämpfte den Kommunismus. In der Geschichte gab es Päpste, die mit Herrschern und Diktatoren um Macht und Moral rangen. Und wie politisch ist Papst Leo? Mit dem US-Präsidenten hat er sich bereits angelegt.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(01:39) Die politische Macht von Johannes Paul II. <br>(13:30) Der „Gang nach Canossa“<br>(20:00) Päpstlicher Streit mit Napoleon <br>(24:30) Macht und Kirchenstaat <br>(29:00) Lateranverträge von 1929: Macht eines Mini-Staates<br>(31:05) Päpstlicher Friedensappell von 1917 <br>(35:30) Pius XII. – War er Hitlers Papst? <br>(42:40) Papst Leos politische Vorbilder<br><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Christian Röther und Robert Hauspurg<br>Faktencheck: Kathrin Krautwasser und Florian Twente<br>Redaktion: Monika Dittrich<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Hubert Wolf</strong> ist Kirchenhistoriker und Professor an der Universität Münster, er forscht unter anderem zur Rolle von Papst Pius XII. während des Zweiten Weltkriegs. 2024 erschien von ihm: \"Die geheimen Archive des Vatikan und was sie über die Kirche verraten\" (C.H. Beck). </li></ul><br><ul><li><strong>Stefan von Kempis</strong> ist Historiker, Journalist und Redakteur bei Vatican News in Rom. 2025 erschien von ihm: \"Weißer Rauch und falsche Mönche. Eine andere Geschichte der Papstwahl\" (Herder).</li></ul><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/konklave-papst-wahl-katholische-kirche-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über die Papstwahl</li><li><a href=\"https://www.deutschlandfunk.de/keusche-kirche-die-geschichte-des-zoelibats-dlf-4f4e228f-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den Zölibat</li><li><a href=\"https://www.deutschlandfunk.de/papst-pius-xii-holocaust-nationalsozialismus-100.html\" rel=\"noopener\" target=\"_blank\">Kalenderblatt</a> über Papst Pius XII.</li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li><a href=\"https://www.uni-muenster.de/FB2/aph/\" rel=\"noopener\" target=\"_blank\">Asking the pope for help</a> - Forschungsprojekt an der Universität Münster zur Rolle von Papst Pius XII. im Holocaust</li><li>Artikel bei der <a href=\"https://www.bpb.de/kurz-knapp/hintergrund-aktuell/272739/vor-85-jahren-vatikan-und-deutsches-reich-unterzeichnen-reichskonkordat/\" rel=\"noopener\" target=\"_blank\">Bundeszentrale für politische Bildung </a>über das \"Reichskonkordat\"</li></ul><br><strong>\"Der Rest ist Geschichte\" geht auf Tour: </strong><br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/die_odyssee?cp=derrestistgeschichte\" rel=\"noopener\" target=\"_blank\">Die Odyssee </a>- erzählt von Meike Rötzer<br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-08-13T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/papst-politik-macht-kirche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/d1/d1/c0/cf/d1d1c0cf-e254-4ac5-9352-2b9e38f7eebb/papst-rueckansicht-pforte-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/macht_der_kirche_wie_paepste_politik_machen_dlf_20260813_1300_e1a9b75e.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "50 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4031647",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -324,81 +450,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:635ce88e-26bf-5e49-96a8-29e2b9c94217",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Celebrity-Maxxing mit Hundeblick - Softboy Role Model will nach oben",
-    "summary": "Zylka, Jenni www.deutschlandfunk.de, Corso",
-    "date": "2026-08-08T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/celebrity-maxxing-mit-hundeblick-softboy-role-model-will-nach-oben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/celebrity_maxxing_mit_hundeblick_softboy_role_model_will_dlf_20260808_1520_e0afc2f6.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:c83d8f82-0cd2-5ca5-8fdf-5bbd2adc184a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Album \"I am both\" von Margaret Glaspy - \"Social Media war für mich eine Sucht\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-08T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/album-i-am-both-von-margaret-glaspy-social-media-war-fuer-mich-eine-sucht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/album_i_am_both_von_margaret_glaspy_social_media_war_fuer_dlf_20260808_1510_66ae4cc5.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:de6dc141-3c6c-502d-81ec-2fd0e631138b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "München Beats - ZDF-Serie über die frühe Rave-Szene",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-07T13:25:10.000Z",
-    "url": "https://www.deutschlandfunk.de/muenchen-beats-zdf-serie-ueber-die-fruehe-rave-szene-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/muenchen_beats_zdf_serie_ueber_die_fruehe_rave_szene_dlf_20260807_1525_7e6d08ca.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4027661",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -533,30 +584,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1785/37/06082026dgfdwwiemachtmandasunsichtbaresichtbarshellerfinal.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1785/37/06082026dgfdwwiemachtmandasunsichtbaresichtbarshellerfinal.63.mp3",
     "duration": "1 Std 30 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4016869",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Warum Superreiche unsichtbar bleiben",
-    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit der Max-Planck-Gesellschaft\n\nSuperreiche häufig medial unsichtbar\n\n<p> In kaum einem Industrieland ist das Vermögen so ungleich verteilt wie in Deutschland. Während die ärmere Hälfte der Bevölkerung rund 1,5 Prozent des Gesamtvermögens besitzt, vereinigen die reichsten 0,1 Prozent mehr als ein Fünftel auf sich. Über die genaue Zusammensetzung dieser Spitze fehlen der Öffentlichkeit jedoch meist verlässliche Daten.</p>\nDie Wissenschaftlerin <strong>Emma Ischinsky</strong> vom Max-Planck-Institut für Gesellschaftsforschung hat in einem Forschungsprojekt rund 150.000 Presseartikel analysiert, um die Sichtbarkeit der reichsten Personen des Landes zu kartografieren. Das Ergebnis: Ein Viertel dieser Elite taucht in der Berichterstattung nicht auf. Diese mediale Unsichtbarkeit folgt laut der Studie Mustern, die eng auch mit der Geschichte der Vermögen verknüpft sind. Während sogenannte Self made-Milliardäre der Nachkriegszeit wie Sportler und Unternehmerinnen oft als Symbole des wirtschaftlichen Aufstiegs inszeniert werden, bleiben Familien, deren Reichtum in der NS-Zeit begründet wurde, im Schatten.\n\n‚Selfmade-Milliardäre‘ am häufigsten in den Medien\nGleichzeitig konzentriert sich das öffentliche Interesse auf eine Minderheit: Lediglich 1,5 Prozent der Superreichen generieren die Hälfte aller Namensnennungen in der Presse. Oft handele es sich dabei um Personen, die durch eigene Medienhäuser oder eine aktive Selbstvermarktung die Deutungshoheit über ihr Image behielten. Für die große Mehrheit der Milliardäre und Millardärinnen gilt dagegen: Wer unsichtbar bleibt, taucht in der gesellschaftlichen Debatte über Verteilungsgerechtigkeit nicht auf.\n<b>Mehr Transparenz über Reichtum?</b>\nDiese Stille ist laut Ischinsky ein Problem für die demokratische Gesellschaft. Wenn die Öffentlichkeit nicht erfährt, wer über welche Ressourcen verfügt, fehlt die Grundlage für eine kritische Auseinandersetzung mit wirtschaftlicher Macht. Ihre Studie legt nahe, dass mediale Unsichtbarkeit dazu beiträgt, den Status quo zu stabilisieren und Privilegien vor öffentlicher Debatte zu schützen.",
-    "date": "2026-08-06T03:06:16.000Z",
-    "url": "https://feedpress.me/link/19604/17404157/forschungsquartett-superreiche-in-den-medien",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260707fqreiche-in-den-medien.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260707fqreiche-in-den-medien.63.mp3",
-    "duration": "19 Min",
     "tags": [
       "wissenschaft",
       "forschung",
@@ -1123,33 +1150,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-11-250-jahre-usa-44-wie-die-usa-zur-softpower-wurden-dlf-20260611-1256-49e6424c-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "250 Jahre USA (4/4) - Die freundliche Supermacht bringt Cola, Jazz und Freiheit",
-    "summary": "Die Dominanz der USA beruht nicht nur auf militärischer Stärke und Wirtschaftskraft, sondern auch auf kultureller Macht. Dazu gehören Hollywood und Rock ’n’ Roll, braune Limonade und Blue Jeans. Wird Donald Trump die „Soft Power“ der USA zerstören? Das ist die vierte Folge unserer Serie zum 250. Geburtstag der USA.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(03:30) 1990 prägt Joseph Nye den Begriff „Soft Power“<br>(11:30) Schon das Römische Reich war eine Soft Power<br>(15:10) Die Bedeutung der amerikanischen Soft Power nach 1945<br>(21:08) Auswärtige Kulturpolitik der USA mit Jazz<br>(23:30) 1965: US-Trompeter Louis Armstrong tourt durch die DDR<br>(35:00) Der Auslandsgeheimdienst CIA, der Antikommunismus und die Soft Power<br>(39:30) 1988: Bruce Springsteen tritt in der DDR auf <br>(41:45) Zerstört Donald Trump die Soft Power der USA? <br>  <br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li>Der Politikwissenschaftler <strong>Hendrik W. Ohnesorge </strong>forscht und lehrt an der Universität Bonn unter anderem zu Soft Power, den transatlantischen Beziehungen und charismatischer Führung.</li></ul><br><ul><li><strong>Reinhild Kreis </strong>ist Professorin für die Geschichte der Gegenwart an der Universität Siegen. Sie hat unter anderem zu den Amerika-Häusern in der Bundesrepublik gearbeitet.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Katharina Peetz und Robert Hauspurg<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-buergerkrieg-spaltung-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über den US-Bürgerkrieg</li><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-rassismus-sklaverei-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Rassismus in den USA </li><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-wahlsystem-trump-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über das amerikanische Wahlsystem</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Politikwissenschaftler <a href=\"https://www.youtube.com/watch?v=_58v19OtIIg\" rel=\"noopener\" target=\"_blank\">Joseph Nye </a>über sein Konzept der \"Soft Power\" (Video, englisch) </li><li>Artikel im <a href=\"https://www.rollingstone.de/bruce-springsteen-1988-ddr-weissensee-365943/\" rel=\"noopener\" target=\"_blank\">Rolling Stone </a>über Bruce Springsteens Konzert in der DDR 1988</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen. Mit Volker Depkat</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-11T11:04:00.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-soft-power-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e5/c4/f3/57/e5c4f357-9932-4258-adf6-d0e52d1f0ea3/drig-schwerpunkt-amerika-106-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/11/250_jahre_usa_44_wie_die_usa_zur_softpower_wurden_dlf_20260611_1256_49e6424c.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "48 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
     ],
     "language": "de"
   },

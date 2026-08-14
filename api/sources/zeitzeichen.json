@@ -1,6 +1,29 @@
 [
   {
-    "id": "zeitzeichen:f24e4ccd61b52da2daec5eabbba19cb2",
+    "id": "zeitzeichen:c39ff2e918f35e79f76ab00f1cefeb01",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "\"Peace People\": Zwei Mütter ebnen Nordirlands Weg zum Frieden",
+    "summary": "<p>Als im Nordirlandkonflikt bei einem tragischen Unfall Kinder sterben, protestieren am 14.8.1976 Katholiken und Protestanten gemeinsam. Das stoppt die Gewalt - zumindest vorerst.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Veronika Bock:</strong><br><ul><li>wie der Tod von drei Kindern zwei Frauen dazu bringt, eine Friedensbewegung zu gründen, </li><li>wie die \"Peace People\" Katholiken und Protestanten gemeinsam auf die Straße bringen, </li><li>wie ihr Protest den Nordirlandkonflikt zwar verändert, ihn aber nicht beendet.</li></ul><br>Am 10. August 1976 erschüttert ein tragischer Unfall Belfast: Ein flüchtendes IRA-Mitglied wird von britischen Soldaten erschossen, sein führerloses Auto rast in eine Familie. Drei Kinder sterben, ihre Mutter wird schwer verletzt. Das Unglück wird zum Wendepunkt. <br><br>Die Augenzeugin Betty Williams und Mairead Corrigan, die Tante der Kinder, rufen wenige Tage später zu einer Friedensdemonstration auf: Tausende katholische und protestantische Frauen folgen ihrem Appell. In den Wochen und Monaten danach schließen sich Hunderttausende Menschen den Friedensmärschen der \"Peace People\" an und setzen ein kraftvolles Zeichen gegen die Gewalt der \"Troubles\". <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Dr. Corinna Hauswedell (Friedens- und Konfliktforscherin)</li><li>Professor Michael Rohrschneider (Professor für Geschichte der frühen Neuzeit, Leiter des Zentrums für historische Friedensforschung, Bonn)</li><li>Bundeszentrale für politische Bildung: <a href=\"https://www.bpb.de/themen/kriege-konflikte/dossier-kriege-konflikte/54664/nordirland/\" rel=\"noopener\" target=\"_blank\">Konflikte und Kriege - Nordirland</a></li><li>Auswärtiges Amt: <a href=\"https://www.auswaertiges-amt.de/de/aussenpolitik/europa/karfreitagsabkommen-2592510\" rel=\"noopener\" target=\"_blank\">Für Frieden auf der irischen Insel - 25 Jahre Karfreitagsabkommen (Abkommen von Belfast) </a></li><li>RTÉ Archives: <a href=\"https://www.rte.ie/archives/2017/0523/877304-everyone-in-derry-wants-peace/\" rel=\"noopener\" target=\"_blank\">A Call For Peace In Derry 1972</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:5cca0df9ee6330df/\" rel=\"noopener\" target=\"_blank\">Beginn der Unruhen in Nordirland (am 03.08.1969)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:bac4c15ae1873e67/\" rel=\"noopener\" target=\"_blank\">16 Jahre unschuldig im Gefängnis: die \"Birmingham Six\"</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:c7bb8890fc212ef8/\" rel=\"noopener\" target=\"_blank\">Warum der Osteraufstand Irland geprägt hat</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Veronika Bock<br>Redaktion: Carolin Rückl und David Rother",
+    "date": "2026-08-14T04:00:41.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-peace-people-zwei-muetter-ebnen-nordirlands-weg-zum-frieden-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/peace-people-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/23/c83a5e28-89dd-4024-8385-280353d3f3e2/c83a5e28-89dd-4024-8385-280353d3f3e2_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:3203130265e024af4517769e5e1152fc",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
@@ -9,7 +32,7 @@
     "date": "2026-08-13T04:00:20.000Z",
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-geburtsstunde-des-wagner-mythos-in-bayreuth-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-festspielhaus-bayreuth-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/10/47492ac3-9cfd-435e-be7d-b36f89b64087/47492ac3-9cfd-435e-be7d-b36f89b64087_MP3-128.mp3",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/13/d366db70-ab8f-4327-9895-0f93234b4ca1/d366db70-ab8f-4327-9895-0f93234b4ca1_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-warum-der-neandertaler-uns-aehnlicher-ist-als-wir-denken-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-neandertaler-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/31/7807ca9c-1095-444b-90b6-19e03591247c/7807ca9c-1095-444b-90b6-19e03591247c_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:72dbcfcf59d3cf2bd1ec1e73bbfb78ce",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Straffreiheit für Vergewaltiger? Franca Violas mutiges Nein",
-    "summary": "<p>Der Fall Franca Viola wühlt Italien auf. Die 17-Jährige verweigert die \"Wiedergutmachungsehe\" - die Heirat ihres Vergewaltigers zur Straffreiheit. 1981 fällt das Gesetz.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Daniela Wakonigg:</strong><br><ul><li>wie sich die Sizilianerin Franca Viola gegen die Erzwingung einer Eheschließung wehrt,</li><li>warum das in den 1960er-Jahren als Sensation gilt,</li><li>was das italienische Gesetz damals unter \"Wiedergutmachungsehe\" versteht,</li><li>warum der Prozess gegen Violas Vergewaltiger zum Signal gegen patriarchale Machtstrukturen wird,</li><li>wie Feminismus, Medien und gesellschaftlicher Wandel die Gesetzgebung verändern.</li></ul><br>Nach einer Vergewaltigung gedrängt werden, den Vergewaltiger zu heiraten, damit er nicht in den Knast muss: Bis vor wenigen Jahrzehnten war das in mehreren europäischen Ländern tatsächlich üblich und legal – in einigen Ländern der Welt ist es das sogar bis heute.<br><br>In Italien ändert sich die Gesetzeslage ab den 1960er-Jahren langsam: Damals lehnt es die 17-jährige Franca Viola ab, ihren Vergewaltiger zu heiraten. Der Fall wühlt die Gesellschaft auf. Doch erst am 5. August 1981 wird die \"Wiedergutmachungsehe\" abgeschafft. Weitere 15 Jahre dauert es, bis Vergewaltigung rechtlich nicht mehr als \"Verstoß gegen die öffentliche Moral\", sondern als Verbrechen gegen eine Person klassifiziert wird.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Maria Sole delle Donne (italienische Juristin)</li><li>Dima Dabbous (MENA-Regionalbeauftragte der Frauen- und Menschenrechtsorganisation \"Equality Now\")</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>ARD Wissen: <a href=\"https://www.ardmediathek.de/video/auf-spurensuche-oder-ard-wissen/toxische-maennlichkeit-woher-kommt-die-wut-auf-frauen/hr/YzQ3NWFmNmEtMzA2Mi00ZWRiLTg2ZTItNzZkNDA4MDI3NWVi\" rel=\"noopener\" target=\"_blank\">Toxische Männlichkeit - Woher kommt die Wut auf Frauen?</a></li><li>Arte: <a href=\"https://www.youtube.com/watch?v=m1KMi_4VhYA\" rel=\"noopener\" target=\"_blank\">Vergewaltigt! Der lange Weg zur Gerechtigkeit</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Daniela Wakonigg<br>Redaktion: Matti Hesse<br>Technik: Alexander Buske",
-    "date": "2026-08-05T04:00:02.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-straffreiheit-fuer-vergewaltiger-franca-violas-mutiges-nein-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-abschaffung-wiedergutmachungsehe-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/21/f5a9c07b-c88f-4d79-988f-0693db7aa5af/f5a9c07b-c88f-4d79-988f-0693db7aa5af_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

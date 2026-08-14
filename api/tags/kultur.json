@@ -1,5 +1,258 @@
 [
   {
+    "id": "dlf-kultur-heute:3aada9f0-dd53-5625-9e14-8185f00e8dfa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 13.08.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:56:25.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/kulturmeldungen_13082026_dlf_20260813_1756_c7f3a9f4.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b0dbf5c4-0a23-5d58-bfdc-d03abf40b52a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "(LA) HORDE Ballet national de Marseille beim Sommerfestival Kampnagel",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/la-horde-ballet-national-de-marseille-beim-sommerfestival-kampnagel-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/la_horde_ballet_national_de_marseille_beim_sommerfestival_dlf_20260813_1751_6bf2acbe.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8c32a165-dd21-5e25-ad88-88cb712e3bf3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neon-Streifzug durch Bangkok - Der Film \"Funeral Casino Blues\" kommt ins Kino",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:45:29.000Z",
+    "url": "https://www.deutschlandfunk.de/neon-streifzug-durch-bangkok-der-film-funeral-casino-blues-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/neon_streifzug_durch_bangkok_der_film_funeral_casino_blues_dlf_20260813_1745_7cf19775.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0e0485c1-6292-512f-a87c-e5a026a1f5d8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Sammeln für die Zukunft\" - Ausstellung in Wien zu 250 Jahre Albertina",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:40:14.000Z",
+    "url": "https://www.deutschlandfunk.de/sammeln-fuer-die-zukunft-ausstellung-in-wien-zu-250-jahre-albertina-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/sammeln_fuer_die_zukunft_ausstellung_in_wien_zu_250_jahre_dlf_20260813_1740_c6f07c46.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:933c8d27-b855-55f3-bc02-05ef3f70ccea",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "65 Jahre Mauerbau - Schreiben über die deutsche Spaltung mit Katja Lange-Müller",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-13T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/65-jahre-mauerbau-schreiben-ueber-die-deutsche-spaltung-mit-katja-lange-mueller-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/65_jahre_mauerbau_schreiben_ueber_die_deutsche_spaltung_mit_dlf_20260813_1735_18ef5bdc.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b72145dd-db5f-526d-b4fc-9c810fd0d6ab",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doku \"Noga\" - Wie der Nahostkonflikt eine Künstlerinnenkarriere verändert",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-08-13T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/doku-noga-wie-der-nahostkonflikt-eine-kuenstlerinnenkarriere-veraendert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/doku_noga_wie_der_nahostkonflikt_eine_kuenstlerinnenkarriere_dlf_20260813_1515_43717ea2.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:bcfbb10c-9ba2-5715-b675-6bc95afbeaf7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Videospieladaption Exit 8 - Der Horror auf dem Weg zu Arbeit",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-13T13:10:31.000Z",
+    "url": "https://www.deutschlandfunk.de/videospieladaption-exit-8-der-horror-auf-dem-weg-zu-arbeit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/videospieladaption_exit_8_der_horror_auf_dem_weg_zu_arbeit_dlf_20260813_1510_8e542339.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ece1c07b-023b-5771-9e46-360b8ad657f2",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vinyl - Vom Premium-Produkt zum teuren Mängelexemplar?",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-08-13T13:06:25.000Z",
+    "url": "https://www.deutschlandfunk.de/vinyl-vom-premium-produkt-zum-teuren-maengelexemplar-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/vinyl_vom_premium_produkt_zum_teuren_maengelexemplar_dlf_20260813_1506_64491ded.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "30-minuten-kunst:fa7fed3313d926185d55475684d9494e",
+    "source": "30-minuten-kunst",
+    "sourceTitle": "30 Minuten Kunst",
+    "type": "rss",
+    "title": "Edmund Kesting - der unbekannte Avantgardist",
+    "summary": "Er hat gemalt, fotografiert, Collagen gebaut, Kunst immer wieder neu erfunden.\n<p>Nur in wenigen öffentlichen Sammlungen gibt es Werke von Edmund Kesting. Warum? Er ist ein Künstler der Übergänge: von der expressionistischen Malerei zur experimentellen Fotografie, von der Figur zur Abstraktion, von der Weimarer Republik über die NS-Zeit bis in die frühe DDR. Zwischen diesen Umbrüchen ging Wissen über ihn und seinen Arbeiten verloren, er stellte selten aus. Um so erstaunlicher ist, dass für die Ausstellung im Kunstmuseum Moritzburg über 200 ganz unterschiedliche Werke zusammengetragen wurden, die dort bis zum 25.10. 2026 zu sehen sind. Danach zieht die Ausstellung weiter:</p>\n<p>Musée de Grenoble | 14.11.2026−07.02.2027 <a href=\"https://www.museedegrenoble.fr\" rel=\"noopener\" target=\"_blank\">www.museedegrenoble.fr</a></p>\n<p>Kunstmuseum Ahrenshoop | 20.03.−13.06.2027 <a href=\"https://www.kunstmuseum-ahrenshoop.de\" rel=\"noopener\" target=\"_blank\">www.kunstmuseum-ahrenshoop.de</a></p>\n<p>Osthaus Museum, Hagen | 13.11.2027−27.02.2028 <a href=\"https://www.osthausmuseum.de\" rel=\"noopener\" target=\"_blank\">www.osthausmuseum.de</a></p>\n<p>In dieser Folge spreche ich mit Thomas Bauer-Friedrich, Direktor des Kunstmuseums Moritzburg in Halle/Saale, über Werke wie „Bild mit rotem Zickzack“, „Der Tänzer Dean Goodelle“ und „Das Karussell“ von Kesting. Dabei wird klar, warum Kesting so schwer in eine Stil-Schublade passt und welche Rolle die politischen Umbrüche für sein Lebenswerk spielten. </p>\n<p>Link zur Ausstellung:\n<a href=\"https://www.kunstmuseum-moritzburg.de/museum-ausstellungen/sonderausstellungen/\" rel=\"noopener\" target=\"_blank\">https://www.kunstmuseum-moritzburg.de/museum-ausstellungen/sonderausstellungen/</a></p>\n<p>Katalog: <a href=\"https://www.seemann-henschel.de/produkt/edmund-kesting/\" rel=\"noopener\" target=\"_blank\">https://www.seemann-henschel.de/produkt/edmund-kesting/</a></p>\n<p><strong>In diesem Podcast steckt jede Menge Herzblut. Deshalb meine Bitte: Unterstützen Sie den Podcast.\n</strong>\nBitte fördern Sie hier:\n<a href=\"https://steadyhq.com/de/30-minuten-kunst/about\" rel=\"noopener\" target=\"_blank\">https://steadyhq.com/de/30-minuten-kunst/about</a></p>\n<p>Oder unterstützen Sie den Podcast per Paypal: <a href=\"https://paypal.me/JensTrocha?country.x=DE&locale.x=de_DE\" rel=\"noopener\" target=\"_blank\">https://paypal.me/JensTrocha?country.x=DE&locale.x=de_DE</a>\n(Link kopieren und in die Adresszeile des Browsers einfügen)</p>\n<p>Oder überweisen Sie einen Betrag Ihrer Wahl auf das Konto:\nDE15 1203 0000 1082 0466 97\nIBAN: BYLADEM1001</p>\n<p>Repro-Credits: Konstantin Kesting: Bildnis Prof. Edmund Kesting Berlin, 1956, Silbergelatineabzug, Mehrfachbelichtung, 24 x 17,7 cm, Repro: Kulturstiftung Sachsen-Anhalt © Nachlass des Künstlers",
+    "date": "2026-08-13T07:00:00.000Z",
+    "url": "https://30-minuten-kunst.podigee.io/132-neue-episode",
+    "image": "https://images.podigee-cdn.net/0x,sDAagbWoj1On-ztaUtLla7YG8nwvIz30v4omwPm9t9m0=/https://main.podigee-cdn.net/uploads/u26284/8512e87c-6696-4b0e-8a2f-2176f89868fc.jpg",
+    "audio": "https://audio.podigee-cdn.net/2568485-m-513002c22f2a2a56527e6f46278295a7.mp3?source=feed",
+    "duration": "35 Min",
+    "tags": [
+      "kunst",
+      "kultur",
+      "bildung"
+    ],
+    "category": [
+      "Kunst",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-07586116254428577",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Wie ticken Gen Y, Z und Alpha? Der Talk mit Generationenforscherin Dr. Steffi Burkhart",
+    "summary": "Die Wünsche und Bedürfnisse junger Menschen sind das Forschungsfeld von Dr. Steffi Burkhart - konkret der Jahrgänge von 1980 bis in die 2010er-Jahre, bekannt als Generationen Y, Z und Alpha. Die 1985 Geborene studierte Sportwissenschaften, promovierte in Gesundheitspsychologie und arbeitete als Hochschuldozentin, bevor sie sich vor gut zehn Jahren als Autorin und Unternehmensberaterin selbstständig machte. Weil sie bei Politik und Wirtschaft ein fehlendes Verständnis für ihre Altersgenossen sieht, macht sie sich öffentlich für deren Belange stark - vor allem in der Arbeitswelt.",
+    "date": "2026-08-12T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/wie-ticken-gen-y-z-und-alpha-der-talk-mit-generationenforscherin-dr-steffi-burkhart,audio-3414720.html",
+    "image": "https://images.ndr.de/image/48f2928c-1e00-4c49-9eb2-3d0893988d47/AAABn_bmCrw/AAABnSStX0g/1x1-big/screenshot-210566.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0813/AU-20260813-0938-0800.mp3",
+    "duration": "37 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:9aa01319-979c-5620-8e54-55554bc1c6c8",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -206,84 +459,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:090ce12b-ec18-560e-b211-3a831097230b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Beim Machen lernt man sich kennen - Nina Gribat über Kulturarbeit in der Provinz",
-    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-11T15:47:28.000Z",
-    "url": "https://www.deutschlandfunk.de/beim-machen-lernt-man-sich-kennen-nina-gribat-ueber-kulturarbeit-in-der-provinz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/beim_machen_lernt_man_sich_kennen_nina_gribat_ueber_dlf_20260811_1747_25baaa98.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b2214df4-c974-599a-aa6b-c68a7cd3445b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Europa\" - Krzysztof Warlikowski kommt mit Wajdi Mouawads Stück nach Salzburg",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-11T15:42:03.000Z",
-    "url": "https://www.deutschlandfunk.de/europa-krzysztof-warlikowski-kommt-mit-wajdi-mouawads-stueck-nach-salzburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/europa_krzysztof_warlikowski_kommt_mit_wajdi_mouawads_stueck_dlf_20260811_1742_30b9a876.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3b7ea558-1f3e-5fe1-9e92-716c61942157",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Spuren der NS-Macht - Abrisspläne für den Bunker der Neuen Reichskanzlei",
-    "summary": "Bernau, Nikolaus www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-11T15:36:40.000Z",
-    "url": "https://www.deutschlandfunk.de/spuren-der-ns-macht-abrissplaene-fuer-den-bunker-der-neuen-reichskanzlei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/spuren_der_ns_macht_abrissplaene_fuer_den_bunker_der_neuen_dlf_20260811_1736_b6b89f53.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:2e8c0d86-88c9-5525-99dd-a62c21db6ea3",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -381,58 +556,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f4e59f45-17f2-5ab6-a924-52dafd6f670a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 10.08.2026",
-    "summary": "Hübert. Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-10T15:57:05.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/kulturmeldungen_10082026_dlf_20260810_1757_3989bcbf.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e1e5e250-38d7-595a-91a8-c2f2a90b59da",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Falsche Angaben\" - US-Regierung gegen Smithsonian History Museum",
-    "summary": "Klein, Bettina www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-10T15:51:24.000Z",
-    "url": "https://www.deutschlandfunk.de/falsche-angaben-us-regierung-gegen-smithsonian-history-museum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/falsche_angaben_us_regierung_gegen_smithsonian_history_dlf_20260810_1751_e788959a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -587,56 +710,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:635ce88e-26bf-5e49-96a8-29e2b9c94217",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Celebrity-Maxxing mit Hundeblick - Softboy Role Model will nach oben",
-    "summary": "Zylka, Jenni www.deutschlandfunk.de, Corso",
-    "date": "2026-08-08T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/celebrity-maxxing-mit-hundeblick-softboy-role-model-will-nach-oben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/celebrity_maxxing_mit_hundeblick_softboy_role_model_will_dlf_20260808_1520_e0afc2f6.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:c83d8f82-0cd2-5ca5-8fdf-5bbd2adc184a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Album \"I am both\" von Margaret Glaspy - \"Social Media war für mich eine Sucht\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-08T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/album-i-am-both-von-margaret-glaspy-social-media-war-fuer-mich-eine-sucht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/08/album_i_am_both_von_margaret_glaspy_social_media_war_fuer_dlf_20260808_1510_66ae4cc5.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-7185012653099967",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -658,56 +731,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-9508245034460638",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Hat Deutschrap aufgemischt: Rapperin und Schauspielerin Sabrina Setlur",
-    "summary": "Als Deutschrap noch Männersache war, machte sie mit \"Hier kommt die Schwester\" Furore. Heute ist sie als Schauspielerin unterwegs.",
-    "date": "2026-08-07T16:45:00.000Z",
-    "url": "https://www.ndr.de/hat-deutschrap-aufgemischt-rapperin-und-schauspielerin-sabrina-setlur,audio-3405402.html",
-    "image": "https://images.ndr.de/image/a71d5848-eb8d-4efb-8454-5b9c43616b6a/AAABn91Qylc/AAABnSStX0g/1x1-big/screenshot-208254.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0808/AU-20260808-0832-3600.mp3",
-    "duration": "35 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:de6dc141-3c6c-502d-81ec-2fd0e631138b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "München Beats - ZDF-Serie über die frühe Rave-Szene",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-07T13:25:10.000Z",
-    "url": "https://www.deutschlandfunk.de/muenchen-beats-zdf-serie-ueber-die-fruehe-rave-szene-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/muenchen_beats_zdf_serie_ueber_die_fruehe_rave_szene_dlf_20260807_1525_7e6d08ca.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1640,29 +1663,6 @@
     "image": "https://images.podigee-cdn.net/0x,sfoYgpK-ENpW6OqGJG3L_xaDqhYzsteFGZItCoT-LTec=/https://main.podigee-cdn.net/uploads/u26284/197815ec-97de-428a-ab19-a2003c17f346.jpeg",
     "audio": "https://audio.podigee-cdn.net/2440750-m-8f01da844d943da1c5111ddec47ea51e.mp3?source=feed",
     "duration": "44 Min",
-    "tags": [
-      "kunst",
-      "kultur",
-      "bildung"
-    ],
-    "category": [
-      "Kunst",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "30-minuten-kunst:c35bebba748edbee21c0a68a71933e2d",
-    "source": "30-minuten-kunst",
-    "sourceTitle": "30 Minuten Kunst",
-    "type": "rss",
-    "title": "Farbe, Form, Freiheit: Paul Cézanne und die Geburt der Moderne",
-    "summary": "Geheimnisvolle Porträts & Sehnsuchtslandschaften aus der Provence\n<p>Die Fondation Beyeler widmet Paul Cézanne (1839–1906) erstmals in ihrer Geschichte eine Einzelausstellung – vom 25. Januar bis 25. Mai 2026 in Riehen bei Basel. Mit rund 80 Werken (58 Ölgemälde, 21 Aquarelle) fokussiert sie auf seine letzte, bahnbrechende Phase: geheimnisvolle Porträts, paradiesische Badende, Sehnsuchtslandschaften der Provence und neun Ansichten der Montagne Sainte-Victoire. </p>\n<p>Highlights sind die Zusammenführung zweier Kartenspieler-Bilder, Fruchtstillleben und ein nie zuvor in Europa gezeigtes Werk aus Philadelphia. In dieser Folge spreche ich mit Ulf Küster, dem Kurator der großen Cézanne-Ausstellung über den Zauber von Cézannes Werken, der bis heute wirkt.</p>\n<p>Links zu besprochenen Werken:</p>\n<p>Kartenspieler: <a href=\"https://de.wikipedia.org/wiki/Datei:Paul_Cézanne,_Les_joueurs_de_carte_%281892-95%29.jpg\" rel=\"noopener\" target=\"_blank\">https://de.wikipedia.org/wiki/Datei:Paul<em>Cézanne,</em>Les<em>joueurs</em>de<em>carte</em>%281892-95%29.jpg</a></p>\n<p>Selbstporträt: <a href=\"https://de.wikipedia.org/wiki/Datei:Paul_Cézanne,_c.1890,_Portrait_de_l%27artiste_à_la_palette,_oil_on_canvas,_92_x_73_cm,_Foundation_E.G._Bührle.jpg\" rel=\"noopener\" target=\"_blank\">https://de.wikipedia.org/wiki/Datei:Paul<em>Cézanne,</em>c.1890,<em>Portrait</em>de<em>l%27artiste</em>à<em>la</em>palette,<em>oil</em>on<em>canvas,</em>92<em>x</em>73<em>cm,</em>Foundation<em>E.G.</em>Bührle.jpg</a></p>\n<p>Der Junge mit der roten Weste: <a href=\"https://de.wikipedia.org/wiki/Datei:Le_Garçon_au_gilet_rouge,_par_Paul_Cézanne.jpg\" rel=\"noopener\" target=\"_blank\">https://de.wikipedia.org/wiki/Datei:Le<em>Garçon</em>au<em>gilet</em>rouge,<em>par</em>Paul_Cézanne.jpg</a></p>\n<p>Montagne Sainte-Victoire: <a href=\"https://shop.fondationbeyeler.ch/de/artikel/paul-cezanne-die-montagne-sainte-victoire-1902-1906-37372\" rel=\"noopener\" target=\"_blank\">https://shop.fondationbeyeler.ch/de/artikel/paul-cezanne-die-montagne-sainte-victoire-1902-1906-37372</a></p>\n<p>**In diesem Podcast steckt jede Menge Herzblut. Deshalb meine Bitte: Unterstützen Sie mich und den Podcast.\n**\nBitte fördern Sie uns hier:\n<a href=\"https://steadyhq.com/de/30-minuten-kunst/about\" rel=\"noopener\" target=\"_blank\">https://steadyhq.com/de/30-minuten-kunst/about</a></p>\n<p>Oder überweisen Sie einen Betrag Ihrer Wahl auf das Konto:\nDE15 1203 0000 1082 0466 97\nIBAN: BYLADEM1001</p>\n<p>Oder unterstützen Sie den Podcast per Paypal: <a href=\"https://paypal.me/JensTrocha?country.x=DE&locale.x=de_DE\" rel=\"noopener\" target=\"_blank\">https://paypal.me/JensTrocha?country.x=DE&locale.x=de_DE</a>\n(Link kopieren und in die Adresszeile des Browsers einfügen)</p>\n<p>Repro-Credits: The Nelson-Atkins Museum of Art, Kansas City, Missouri, Ankauf William Rockhill Nelson Trust\nImage courtesy of Nelson-Atkins Digital Production & Preservation",
-    "date": "2026-03-26T08:00:00.000Z",
-    "url": "https://30-minuten-kunst.podigee.io/121-neue-episode",
-    "image": "https://images.podigee-cdn.net/0x,sGg4EjEPwfxw6YIQnlEC2AJe6Na_4URUwaD62W5ZAfKw=/https://main.podigee-cdn.net/uploads/u26284/726d67b9-d0f9-4def-b9eb-39c00da97d41.jpeg",
-    "audio": "https://audio.podigee-cdn.net/2418280-m-4eaa95aa1ffa16dacc65f2b6510960b3.mp3?source=feed",
-    "duration": "42 Min",
     "tags": [
       "kunst",
       "kultur",
