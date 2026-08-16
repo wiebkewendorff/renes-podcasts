@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:d434690e-ee2f-5cb8-ae2c-377d3dd9b0e7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Wiederentdeckung der Lebensfreude - \"Temple Songs\" von Laura Veirs\"",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-08-15T13:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-wiederentdeckung-der-lebensfreude-temple-songs-von-laura-veirs-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/die_wiederentdeckung_der_lebensfreude_temple_songs_von_laura_dlf_20260815_1545_6bbe7c6b.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:712fe5bd-1c60-5a79-872a-bb02afb095b1",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Album von Getdown Services - Zwei Schrägos drehen frei",
+    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
+    "date": "2026-08-15T13:30:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-album-von-getdown-services-zwei-schraegos-drehen-frei-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/neues_album_von_getdown_services_zwei_schraegos_drehen_frei_dlf_20260815_1530_18bc18be.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:bc4baa55-8766-5fcd-b267-a101cded7ea7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Ich muss meine Texte nicht verstehen!\" - Das neue Album von Lambchop",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-08-15T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ich-muss-meine-texte-nicht-verstehen-das-neue-album-von-lambchop-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/ich_muss_meine_texte_nicht_verstehen_das_neue_album_von_dlf_20260815_1515_fdba0566.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:1a176c94-aaa9-5431-9d6e-82ce03bebe73",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/12/zu_viel_zu_schlecht_und_im_abo_zu_teuer_haben_wir_ausgebingt_dlf_20260812_1515_da05f878.mp3?refId=corso-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:2e8c0d86-88c9-5525-99dd-a62c21db6ea3",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Heiß und hip? Saunatheater auf dem Fringe Festival in Edingburgh",
-    "summary": "Lettenbauer, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-08-11T13:20:52.000Z",
-    "url": "https://www.deutschlandfunk.de/heiss-und-hip-saunatheater-auf-dem-fringe-festival-in-edingburgh-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/heiss_und_hip_saunatheater_auf_dem_fringe_festival_in_dlf_20260811_1520_432418aa.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bf205a67-9256-5c56-ac94-403d2f855e2a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sänger Monchi - In der Provinz ist die Brandmauer fernab der Realität",
-    "summary": "Nach Jahren in Rostock lebt der Sänger Monchi wieder in der Kleinstadt Jarmen. Dort hat die AfD viele Wähler. Wie man mit ihnen umgehen soll, damit beschäftigt er sich in seinem neuen Buch. Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-08-11T13:05:35.000Z",
-    "url": "https://www.deutschlandfunk.de/jenseits-der-brandmauer-monchi-ueber-mv-vor-den-wahlen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/1d/d9/aa/b4/1dd9aab4-d856-44c1-8a8f-d6eb689d1274/monchi-jan-gorkow-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/jenseits_der_brandmauer_monchi_ueber_mv_vor_den_wahlen_dlf_20260811_1505_dc1d2ffb.mp3?refId=corso-104",
-    "duration": "14 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:363f7527-f513-529d-a8e4-313fa0cd066e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das eigene Stück - Theater zum Mitmachen, Ausprobieren und Lernen",
-    "summary": "Brendel, Gerd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-10T13:20:07.000Z",
-    "url": "https://www.deutschlandfunk.de/das-eigene-stueck-theater-zum-mitmachen-ausprobieren-und-lernen-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/10/das_eigene_stueck_theater_zum_mitmachen_ausprobieren_und_dlf_20260810_1520_ecf6972a.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

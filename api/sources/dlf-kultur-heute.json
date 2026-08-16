@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:2ee12bec-6ccf-510f-8252-17f9c7722c75",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 15.08.2026",
+    "summary": "Siniawaski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-15T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/kulturmeldungen_15082026_dlf_20260815_1756_373d39b5.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:368d8f6b-bdb4-5e11-8d43-76f62617a028",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Autor von \"Verhaltenslehren der Kälte\" - Helmut Lethen ist gestorben",
+    "summary": "Magenau, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-15T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/autor-von-verhaltenslehren-der-kaelte-helmut-lethen-ist-gestorben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/autor_von_verhaltenslehren_der_kaelte_helmut_lethen_ist_dlf_20260815_1752_9c455ba1.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0af40ea3-8856-550b-a81c-e10da049394c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam oder einsam? Einzelkämpfer im Netz - Spione in Literatur und Film",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-15T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-einzelkaempfer-im-netz-spione-in-literatur-und-film-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/gemeinsam_oder_einsam_einzelkaempfer_im_netz_spione_in_dlf_20260815_1741_6b42a24f.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:015987dc-420f-5d95-8e01-631236dde245",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Göttergatte - Eine Operetten-Rarität beim Lehár Festival Bad Ischl",
+    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-15T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/der-goettergatte-eine-operetten-raritaet-beim-leh-r-festival-bad-ischl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/der_goettergatte_eine_operetten_raritaet_beim_lehar_festival_dlf_20260815_1736_7b410f1b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1d5fdcb7-a854-5a5a-ae50-1abff71cf414",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturleben in Afghanistan: 5 Jahre nach der Machtübernahme durch die Taliban",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-15T15:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturleben-in-afghanistan-5-jahre-nach-der-machtuebernahme-durch-die-taliban-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/kulturleben_in_afghanistan_5_jahre_nach_der_machtuebernahme_dlf_20260815_1731_a23e98da.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:ad1ad3e4-e095-5430-940d-22736ce004d7",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/70_todestag_wem_gehoert_brecht_noah_willumsen_leiter_des_dlf_20260814_1736_4016be95.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3aada9f0-dd53-5625-9e14-8185f00e8dfa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 13.08.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-13T15:56:25.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/kulturmeldungen_13082026_dlf_20260813_1756_c7f3a9f4.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b0dbf5c4-0a23-5d58-bfdc-d03abf40b52a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "(LA) HORDE Ballet national de Marseille beim Sommerfestival Kampnagel",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-13T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/la-horde-ballet-national-de-marseille-beim-sommerfestival-kampnagel-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/la_horde_ballet_national_de_marseille_beim_sommerfestival_dlf_20260813_1751_6bf2acbe.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8c32a165-dd21-5e25-ad88-88cb712e3bf3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neon-Streifzug durch Bangkok - Der Film \"Funeral Casino Blues\" kommt ins Kino",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-13T15:45:29.000Z",
-    "url": "https://www.deutschlandfunk.de/neon-streifzug-durch-bangkok-der-film-funeral-casino-blues-kommt-ins-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/neon_streifzug_durch_bangkok_der_film_funeral_casino_blues_dlf_20260813_1745_7cf19775.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0e0485c1-6292-512f-a87c-e5a026a1f5d8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Sammeln für die Zukunft\" - Ausstellung in Wien zu 250 Jahre Albertina",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-13T15:40:14.000Z",
-    "url": "https://www.deutschlandfunk.de/sammeln-fuer-die-zukunft-ausstellung-in-wien-zu-250-jahre-albertina-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/sammeln_fuer_die_zukunft_ausstellung_in_wien_zu_250_jahre_dlf_20260813_1740_c6f07c46.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:933c8d27-b855-55f3-bc02-05ef3f70ccea",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "65 Jahre Mauerbau - Schreiben über die deutsche Spaltung mit Katja Lange-Müller",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-13T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/65-jahre-mauerbau-schreiben-ueber-die-deutsche-spaltung-mit-katja-lange-mueller-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/65_jahre_mauerbau_schreiben_ueber_die_deutsche_spaltung_mit_dlf_20260813_1735_18ef5bdc.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
