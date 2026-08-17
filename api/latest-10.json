@@ -1,5 +1,158 @@
 [
   {
+    "id": "zeitzeichen:b800f069c70d731d33ee907ec67adb8f",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Als Wunderkind vergessen, als Komponistin verdrängt: Marie Jaëll",
+    "summary": "<p>Am 17. August 1846 wird Marie Jaëll in einem Dorf im Elsass geboren. Mit musikalischem Ausnahmetalent macht sie Karriere als Pianistin und Komponistin - doch ihre Name gerät später fast in Vergessenheit.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Fabian Elsäßer:</strong><br><ul><li>dass Marie Jaëll einen Musiker heiratet, der später eifersüchtig auf ihren Erfolg ist, </li><li>warum die Musikerin zur Sekretärin von Franz Liszt wird,</li><li>dass sie als erste französische Pianistin alle 32 Beethoven-Sonaten vorträgt,</li><li>wie sie eine neue Methode zum Lernen des Klavierspiels entwickelt.</li></ul><br>Marie Jaëll ist ein Wunderkind am Klavier: Schon mit zehn Jahren gibt sie Konzerte im Elsass, ihrer Heimat, und in Süddeutschland. Kritiker loben ihre geniale Technik und \"männliche Energie\" - das seinerzeit höchste Lob für Pianistinnen.<br><br>Daneben komponiert Marie Jaëll rund 70 Werke: Klavierstücke, Lieder, eine Oper und große Symphonien. Kritiker vergleichen sie mit Beethoven und Wagner. Doch sie ist auch eine Frau im von Männern dominierten Musikbetrieb und sie gerät nach ihrem Tod in Vergessenheit. Heute werden ihre Werke - nicht nur von jungen Musikerinnen - wiederentdeckt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Raphaela Gromes, Cellistin und Autorin </li><li>Susanne Wosnitzka, Musikwissenschaftlerin am Archiv Frau und Musik, Frankfurt am Main </li><li>Raphaela Gromes: Fortissima!: Verdrängte Komponistinnen und wie sie meinen Blick auf die Welt verändern. München 2025. </li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>ARD Sounds: <a href=\"https://www.ardsounds.de/sendung/komponistinnen-im-fokus-oder-wdr-3/urn:ard:show:0f16a5c73820d3fc/\" rel=\"noopener\" target=\"_blank\">Komponistinnen im Fokus</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag5570.html\" rel=\"noopener\" target=\"_blank\">Tod des Komponisten Franz Liszt</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?<br></strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Fabian Elsäßer<br>Redaktion: Christoph Tiegel und Frank Zirpins",
+    "date": "2026-08-17T04:00:34.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-als-wunderkind-vergessen-als-komponistin-verdraengt-marie-jaell-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-marie-jaell-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/12/388e8419-2916-49ce-ba19-e3b060c1fead/388e8419-2916-49ce-ba19-e3b060c1fead_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:fa900b78-ac05-54e6-8d62-74178ec72632",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 16.08.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:55:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/kulturmeldungen_16082026_dlf_20260816_1755_c3627908.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9b68f1c4-d88e-5c76-af93-a4b37a4168e3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Theater Magdeburg - Ballettdirektor Jörg Mannes zur AfD-Kulturpolitik",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/theater-magdeburg-ballettdirektor-joerg-mannes-zur-afd-kulturpolitik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/theater_magdeburg_ballettdirektor_joerg_mannes_zur_afd_dlf_20260816_1750_99614ee3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4584842b-9cca-5ec8-b1c7-cbcb16615545",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Klima und Gesellschaft - Historiker Franz Mauelshagen über Wechselwirkungen",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:39:15.000Z",
+    "url": "https://www.deutschlandfunk.de/klima-und-gesellschaft-historiker-franz-mauelshagen-ueber-wechselwirkungen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/klima_und_gesellschaft_historiker_franz_mauelshagen_ueber_dlf_20260816_1739_d6605abf.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:49fd97a4-70a3-50fb-bb31-4c001989aa89",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Filmfestspiele Locarno: \"Goldener Leopard\" für rumänische Produktion",
+    "summary": "Wagner, Thomas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:34:55.000Z",
+    "url": "https://www.deutschlandfunk.de/filmfestspiele-locarno-goldener-leopard-fuer-rumaenische-produktion-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/filmfestspiele_locarno_goldener_leopard_fuer_rumaenische_dlf_20260816_1734_c55f0770.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b8a29a2a-1ab7-52b7-8422-fd07a0c58b80",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Der Menschfeind\" - Jette Steckel inszeniert Molière bei den Salzb. Festspielen",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:30:30.000Z",
+    "url": "https://www.deutschlandfunk.de/der-menschfeind-jette-steckel-inszeniert-moli-re-bei-den-salzb-festspielen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/der_menschfeind_jette_steckel_inszeniert_moliere_bei_den_dlf_20260816_1730_815de441.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:b7898e802ab1094aaf3e913850973d9d",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -97,159 +250,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:015987dc-420f-5d95-8e01-631236dde245",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Göttergatte - Eine Operetten-Rarität beim Lehár Festival Bad Ischl",
-    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-15T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-goettergatte-eine-operetten-raritaet-beim-leh-r-festival-bad-ischl-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/der_goettergatte_eine_operetten_raritaet_beim_lehar_festival_dlf_20260815_1736_7b410f1b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1d5fdcb7-a854-5a5a-ae50-1abff71cf414",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturleben in Afghanistan: 5 Jahre nach der Machtübernahme durch die Taliban",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-15T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturleben-in-afghanistan-5-jahre-nach-der-machtuebernahme-durch-die-taliban-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/kulturleben_in_afghanistan_5_jahre_nach_der_machtuebernahme_dlf_20260815_1731_a23e98da.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d434690e-ee2f-5cb8-ae2c-377d3dd9b0e7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Wiederentdeckung der Lebensfreude - \"Temple Songs\" von Laura Veirs\"",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-wiederentdeckung-der-lebensfreude-temple-songs-von-laura-veirs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/die_wiederentdeckung_der_lebensfreude_temple_songs_von_laura_dlf_20260815_1545_6bbe7c6b.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:712fe5bd-1c60-5a79-872a-bb02afb095b1",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Album von Getdown Services - Zwei Schrägos drehen frei",
-    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:30:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-album-von-getdown-services-zwei-schraegos-drehen-frei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/neues_album_von_getdown_services_zwei_schraegos_drehen_frei_dlf_20260815_1530_18bc18be.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bc4baa55-8766-5fcd-b267-a101cded7ea7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Ich muss meine Texte nicht verstehen!\" - Das neue Album von Lambchop",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ich-muss-meine-texte-nicht-verstehen-das-neue-album-von-lambchop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/ich_muss_meine_texte_nicht_verstehen_das_neue_album_von_dlf_20260815_1515_fdba0566.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-wie-war-das-noch-mal:75ae3e79-3e70-403a-bc4f-eab551247396",
-    "source": "zeit-wie-war-das-noch-mal",
-    "sourceTitle": "Wie war das noch mal? – DIE ZEIT",
-    "type": "rss",
-    "title": "Wie wehrhaft war Weimar? Hitlers Putsch und Aufstieg (2/2)",
-    "summary": "<p>Als Außenminister Walther Rathenau am 24. Juni 1922 in Berlin von Mitgliedern der rechtsextremen Organisation Consul ermordet wurde, stand die junge Weimarer Republik unter Schock. Es war nicht der erste politische Mord nach dem Ende des Ersten Weltkriegs. Seit ihrer Gründung war die erste deutsche Demokratie Angriffen ihrer Gegner ausgesetzt. Rechte Freikorps marschierten auf und wollten den Umsturz, Monarchisten wünschten sich den Kaiser zurück und im Münchner Hofbräuhaus wurde 1920 die NSDAP gegründet. Auch die von Moskau gesteuerte KPD wollte ein anderes System. Doch kampflos gaben sich die Verteidiger der Republik nicht geschlagen. </p>\n<p>Aber wie genau wehrt sich eine Demokratie? Wie wehrhaft war Weimar? Diese Frage diskutieren wir in unserer neuen Doppelfolge. </p>\n<p>Der zweite Teil der Doppelfolge widmet sich dem gescheiterten Putschversuch Adolf Hitlers und seiner Unterstützer in München im Herbst des Krisenjahres 1923 – und der Frage, warum Hitler trotz Haft und NSDAP-Verbot zur größten Gefahr für die Demokratie aufsteigen kann. Wir sprechen über den Ausnahmezustand, in dem sich Deutschland damals befindet. Darüber, dass Hitler nur knapp der Ausweisung entgeht, und wie auch in Thüringen und Sachsen die Demokratie unter Druck gerät, allerdings von links. Und wir diskutieren die Frage der Parteiverbote: 37 Mal werden in Weimar antidemokratische Parteien verboten, aber immer nur für kurze Zeit. Warum haben die Verteidiger der Republik ihr schärfstes Schwert immer wieder aus der Hand gegeben?</p>\n<p>In beiden Folgen zeichnen wir nach, wie die NSDAP trotz der Gegenwehr zur Massenpartei aufsteigt – und wie sich das gesellschaftliche Klima in Deutschland so sehr gegen die Republik dreht, dass der Kreis ihrer Verteidiger immer kleiner wird und die Deutschen in der Mehrheit Parteien wählen, die die Republik abschaffen wollen. Und schließlich stellen wir die Frage: Was bedeutet das für unsere Gegenwart? Was lehrt uns Weimar? </p>\n<p>Auch das aktuelle ZEIT Geschichte-Heft widmet sich dem Thema „Weimar. Das langsame Sterben der einer Demokratie – und was wir daraus lernen können“. Sie bekommen es online im <a href=\"https://shop.zeit.de/sortiment/zeit-kiosk/zeit-magazine/zeit-geschichte\" rel=\"noopener\" target=\"_blank\">ZEIT Shop</a> oder im Handel. <a href=\"https://abo.zeit.de/zg-testen/?icode=01w0169k0575angaudall2110&utm_medium=audio&utm_source=zgpodcast&utm_campaign=zg_zon_podcast&utm_content=&wt_zmc=audall.int.zabo.zgpodcast.zg_zon_podcast....x\" rel=\"noopener\" target=\"_blank\">Unter diesem Link</a> können Sie eine Gratisausgabe von ZEIT Geschichte zum Testen bestellen. </p>\n<p>Alle Folgen des Podcasts hören Sie <a href=\"https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.zeit.de%2Fserie%2Fwie-war-das-noch-mal&data=05%7C02%7Cmarkus.flohr%40zeit.de%7C4b211f919a4f4404b27808dde67f216c%7Cf6fef55b9aba48ae9c6d7ee8872bd9ed%7C0%7C0%7C638920155894085285%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=UQxp5ZiyIwq2h66PFE7Bn%2F7RqLjfkwFIqpKJdIxcN0k%3D&reserved=0\" rel=\"noopener\" target=\"_blank\">hier</a>. Die Redaktion erreichen Sie per Mail unter zeitgeschichte@zeit.de</a>.</p>\n<p> </p>\n<p><strong>Folgende Bücher haben wir für diese Sendung verwendet:</strong></p>\n<p>Julius Gumbel: »Vier Jahre politischer Mord, Verlag der neuen Gesellschaft«, Berlin 1922  <br>\nAls Neuauflage: dto., Verlag das Wunderhorn, Heidelberg 1980</p>\n<p>Katrin Stein: »Parteiverbote in der Weimarer Republik«, Duncker & Humblot Verlag, Berlin 1999</p>\n<p>Christoph Gusy: »Weimar – die wehrlose Republik? Verfassungsschutzrecht und Verfassungsschutz in der Weimarer Republik«, Mohr Verlag, Tübingen 1991</p>\n<p>Heinrich August Winkler: »Weimar 1918–1933. Die Geschichte der ersten deutschen Demokratie«, C. H. Beck, München 2024</p>\n<p>Ein Protokoll der Reichstagsdebatte kann man auf <a href=\"https://www.reichstagsprotokolle.de/Blatt2_w5_bsb00000130_00437.html\" rel=\"noopener\" target=\"_blank\">dieser Seite</a> der Bayerischen Staatsbibliothek nachlesen.</p>\n<p><p><a href=\"https://abo.zeit.de/zg-testen/?icode=01w0557k1001angaudall2403&utm_medium=audio&utm_source=shownotes&utm_campaign=standard&utm_content=01w0557k1001angaudall2403&wt_zmc=audall.Int.zabo.shownotes.standard.x\" rel=\"noopener\" target=\"_blank\"><i><strong>Hier</strong></i></a><i> können Sie eine aktuelle Gratisausgabe von ZEIT Geschichte zum Testen bestellen. Sie bekommen das Heft zum Bauernkrieg, aber auch viele andere, im Handel oder online im ZEIT Shop.</i></p><p>Vergünstigtes Podcast-Abo für ZEIT GESCHICHTE-Leser <a href=\"https://abo.zeit.de/podcast_8w_gratis_plusrabatt_zgpodcast/?icode=01w0813k1001angaudint2601&utm_medium=audio&utm_source=geschichtspodcast_redaktion&utm_campaign=Standard&utm_content=01w0813k1001angaudint2601&wt_zmc=audint.Int.zabo.geschichtspodcast_redaktion.Standard.x\" rel=\"noopener\" target=\"_blank\">zeit.de/abo-geschichte.</a><br> </p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen</a>. Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT</strong>. <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Angebot</a>. </p>",
-    "date": "2026-08-15T09:30:50.000Z",
-    "url": "https://www.zeit.de/serie/wie-war-das-nochmal",
-    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f57c3e5e-6f9d-47aa-90bc-0dec153dc682/3000x3000/wie-war-das-noch-mal.jpg?aid=rss_feed",
-    "audio": "https://zeitonline.simplecastaudio.com/4d384d00-4f76-41fc-ac1c-8ff9276a7999/episodes/cac9b8fa-9e6a-4404-8ac9-7af222fa6c54/audio/128/default.mp3?aid=rss_feed&awCollectionId=4d384d00-4f76-41fc-ac1c-8ff9276a7999&awEpisodeId=cac9b8fa-9e6a-4404-8ac9-7af222fa6c54&feed=DV4gq1zP",
-    "duration": "1 Std 16 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "bildung",
-      "zeit"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
     ],
     "language": "de"
   }

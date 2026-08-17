@@ -1,5 +1,158 @@
 [
   {
+    "id": "zeitzeichen:b800f069c70d731d33ee907ec67adb8f",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Als Wunderkind vergessen, als Komponistin verdrängt: Marie Jaëll",
+    "summary": "<p>Am 17. August 1846 wird Marie Jaëll in einem Dorf im Elsass geboren. Mit musikalischem Ausnahmetalent macht sie Karriere als Pianistin und Komponistin - doch ihre Name gerät später fast in Vergessenheit.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Fabian Elsäßer:</strong><br><ul><li>dass Marie Jaëll einen Musiker heiratet, der später eifersüchtig auf ihren Erfolg ist, </li><li>warum die Musikerin zur Sekretärin von Franz Liszt wird,</li><li>dass sie als erste französische Pianistin alle 32 Beethoven-Sonaten vorträgt,</li><li>wie sie eine neue Methode zum Lernen des Klavierspiels entwickelt.</li></ul><br>Marie Jaëll ist ein Wunderkind am Klavier: Schon mit zehn Jahren gibt sie Konzerte im Elsass, ihrer Heimat, und in Süddeutschland. Kritiker loben ihre geniale Technik und \"männliche Energie\" - das seinerzeit höchste Lob für Pianistinnen.<br><br>Daneben komponiert Marie Jaëll rund 70 Werke: Klavierstücke, Lieder, eine Oper und große Symphonien. Kritiker vergleichen sie mit Beethoven und Wagner. Doch sie ist auch eine Frau im von Männern dominierten Musikbetrieb und sie gerät nach ihrem Tod in Vergessenheit. Heute werden ihre Werke - nicht nur von jungen Musikerinnen - wiederentdeckt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Raphaela Gromes, Cellistin und Autorin </li><li>Susanne Wosnitzka, Musikwissenschaftlerin am Archiv Frau und Musik, Frankfurt am Main </li><li>Raphaela Gromes: Fortissima!: Verdrängte Komponistinnen und wie sie meinen Blick auf die Welt verändern. München 2025. </li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>ARD Sounds: <a href=\"https://www.ardsounds.de/sendung/komponistinnen-im-fokus-oder-wdr-3/urn:ard:show:0f16a5c73820d3fc/\" rel=\"noopener\" target=\"_blank\">Komponistinnen im Fokus</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag5570.html\" rel=\"noopener\" target=\"_blank\">Tod des Komponisten Franz Liszt</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?<br></strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Fabian Elsäßer<br>Redaktion: Christoph Tiegel und Frank Zirpins",
+    "date": "2026-08-17T04:00:34.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-als-wunderkind-vergessen-als-komponistin-verdraengt-marie-jaell-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-marie-jaell-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/12/388e8419-2916-49ce-ba19-e3b060c1fead/388e8419-2916-49ce-ba19-e3b060c1fead_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:fa900b78-ac05-54e6-8d62-74178ec72632",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 16.08.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:55:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/kulturmeldungen_16082026_dlf_20260816_1755_c3627908.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9b68f1c4-d88e-5c76-af93-a4b37a4168e3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Theater Magdeburg - Ballettdirektor Jörg Mannes zur AfD-Kulturpolitik",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/theater-magdeburg-ballettdirektor-joerg-mannes-zur-afd-kulturpolitik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/theater_magdeburg_ballettdirektor_joerg_mannes_zur_afd_dlf_20260816_1750_99614ee3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4584842b-9cca-5ec8-b1c7-cbcb16615545",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Klima und Gesellschaft - Historiker Franz Mauelshagen über Wechselwirkungen",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:39:15.000Z",
+    "url": "https://www.deutschlandfunk.de/klima-und-gesellschaft-historiker-franz-mauelshagen-ueber-wechselwirkungen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/klima_und_gesellschaft_historiker_franz_mauelshagen_ueber_dlf_20260816_1739_d6605abf.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:49fd97a4-70a3-50fb-bb31-4c001989aa89",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Filmfestspiele Locarno: \"Goldener Leopard\" für rumänische Produktion",
+    "summary": "Wagner, Thomas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:34:55.000Z",
+    "url": "https://www.deutschlandfunk.de/filmfestspiele-locarno-goldener-leopard-fuer-rumaenische-produktion-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/filmfestspiele_locarno_goldener_leopard_fuer_rumaenische_dlf_20260816_1734_c55f0770.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b8a29a2a-1ab7-52b7-8422-fd07a0c58b80",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Der Menschfeind\" - Jette Steckel inszeniert Molière bei den Salzb. Festspielen",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-16T15:30:30.000Z",
+    "url": "https://www.deutschlandfunk.de/der-menschfeind-jette-steckel-inszeniert-moli-re-bei-den-salzb-festspielen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/der_menschfeind_jette_steckel_inszeniert_moliere_bei_den_dlf_20260816_1730_815de441.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:b7898e802ab1094aaf3e913850973d9d",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -273,136 +426,6 @@
     "category": [
       "Geschichte",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ad1ad3e4-e095-5430-940d-22736ce004d7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 14.08.2026",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-14T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/kulturmeldungen_14082026_dlf_20260814_1756_9315a170.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e0a33236-5cba-551c-8ee9-c692c8fe6218",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das wichtigste Festival für zeitgenössische Fotografie: \"Rencontres\" in Arles",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-14T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/das-wichtigste-festival-fuer-zeitgenoessische-fotografie-rencontres-in-arles-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/das_wichtigste_festival_fuer_zeitgenoessische_fotografie_dlf_20260814_1752_f51a5f4d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:aa323fbb-5f70-5d63-b128-ead9ce0e58e1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "1001 Nacht - Die zweite Staffel des Hörspiel-Podcasts startet",
-    "summary": "Küchler, Sabine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-14T15:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/1001-nacht-die-zweite-staffel-des-hoerspiel-podcasts-startet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/1001_nacht_die_zweite_staffel_des_hoerspiel_podcasts_startet_dlf_20260814_1747_85194e0e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5b071b21-6588-508f-bef6-e975a025d653",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Locarno - Fazit des Filmfestivals",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-14T15:42:00.000Z",
-    "url": "https://www.deutschlandfunk.de/locarno-fazit-des-filmfestivals-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/locarno_fazit_des_filmfestivals_dlf_20260814_1742_ac1842cc.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:85b3ccfd-27b3-56d3-8be6-60b9e7f9c968",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "70. Todestag: Wem gehört Brecht? Noah Willumsen, Leiter des Brecht-Archivs",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-14T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/70-todestag-wem-gehoert-brecht-noah-willumsen-leiter-des-brecht-archivs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/70_todestag_wem_gehoert_brecht_noah_willumsen_leiter_des_dlf_20260814_1736_4016be95.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1210,29 +1233,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:d8b053eec91b3d4ed950f662b28bfbe3",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Der Sternenforscher mit der falschen Nase: Tycho Brahe",
-    "summary": "<p>Tycho Brahe hat die Astronomie revolutioniert, in einem der ersten Großforschungszentren der Welt, einem für ihn gebauten Schloss in der Ostsee. Am 8.8.1576 war Grundsteinlegung für \"Uraniborg\".</p><br><br><p><strong>In diesem Zeitzeichen erzählt Daniela Wakonigg:</strong><br><ul><li>dass Tycho Brahe schon als Dreijähriger entführt wird,</li><li>was eine mathematische Formel mit dem Teilverlust seiner Nase zu tun hat,</li><li>von einem zahmen Elch und dem kleinwüchsigen Wahrsager Jepp,</li><li>von der komplizierten Beziehung zwischen Brahe und Johannes Kepler.</li></ul><br>Eine Supernova im Jahr 1572 entflammt seine Neugier: Seitdem beobachtet und dokumentiert der dänische Astronom Tycho Brahe mit äußerster Sorgfalt und Genauigkeit den Lauf der Sterne. Auf der Insel Ven im dänischen Öresund baut Brahe das Planetarium Uraniborg - benannt nach Urania, der Muse der Astronomie. König Friedrich II. von Dänemark und Norwegen ermöglicht und finanziert ihm dieses Projekt, für das am 8. August 1576 der Grundstein gelegt wird.<br><br>Uraniborg ist eine gigantische Anlage. Ein quadratisches Schloss mit prachtvollem Garten und zahlreichen Zimmern. Außerdem zwei Observationstürmen, einem Alchemie-Labor und einer riesigen Bibliothek. Uraniborg wird zu einem der ersten Großforschungszentren Europas. Der Wissenschaftler selbst gerät nach seinem Tod immer mehr in Vergessenheit - auch weil Brahe sich zu oft selbst im Weg steht.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Lovisa Danielsson, Tycho Brahe Museum auf der Insel Ven</li><li>Tycho Brahe: Über den neuen Stern. Ein Loblied auf die himmlischen Wissenschaften. Tübingen 2015</li><li>John Robert Christianson: Tycho Brahe and the Measure of the Heavens. London 2020</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/tycho-brahe-astronom-100.html\" rel=\"noopener\" target=\"_blank\">24.10.1601 - Todestag des Astronomen Tycho Brahe</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-johannes-kepler-100.html\" rel=\"noopener\" target=\"_blank\">27. Dezember 1571 - Astronom Johannes Kepler wird geboren</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-weltraumteleskop-kepler-102.html\" rel=\"noopener\" target=\"_blank\">07.03.2009 - Das Weltraum-Teleskop \"Kepler\" startet ins All</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Daniela Wakonigg<br>Redaktion: David Rother",
-    "date": "2026-08-08T04:00:18.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-sternenforscher-mit-der-falschen-nase-tycho-brahe-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-tycho-brahe-sternwarte-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/24/ce0ec017-b1a0-4c3e-8702-3d40cb300a7c/ce0ec017-b1a0-4c3e-8702-3d40cb300a7c_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
     ],
     "language": "de"
   },
