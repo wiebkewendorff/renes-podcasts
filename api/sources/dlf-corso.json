@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:2e558915-882b-5428-a8cd-aadd33c1dacd",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zwischen Kunst und Alchemie - Besuch im Atelier für historische Fotografie",
+    "summary": "Backof, Peter www.deutschlandfunk.de, Corso",
+    "date": "2026-08-17T13:25:58.000Z",
+    "url": "https://www.deutschlandfunk.de/zwischen-kunst-und-alchemie-besuch-im-atelier-fuer-historische-fotografie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/zwischen_kunst_und_alchemie_besuch_im_atelier_fuer_dlf_20260817_1525_6c1a9e86.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:c5399083-8c1b-5c3f-985b-05c62b59bb5b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "US-Serie \"Lanterns\" startet - Schafft DC-Studios das neue \"True Detective\"?",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-17T13:10:12.000Z",
+    "url": "https://www.deutschlandfunk.de/us-serie-lanterns-startet-schafft-dc-studios-das-neue-true-detective-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/us_serie_lanterns_startet_schafft_dc_studios_das_neue_true_dlf_20260817_1510_4c184dd4.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:61766481-c820-51b0-b341-e39c0c82f6be",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "KI ersetzt die Models - Brauchen wir noch Menschen für Modefotografien?",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-08-17T13:06:33.000Z",
+    "url": "https://www.deutschlandfunk.de/ki-ersetzt-die-models-brauchen-wir-noch-menschen-fuer-modefotografien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/ki_ersetzt_die_models_brauchen_wir_noch_menschen_fuer_dlf_20260817_1506_700a3429.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:d434690e-ee2f-5cb8-ae2c-377d3dd9b0e7",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/doku_noga_wie_der_nahostkonflikt_eine_kuenstlerinnenkarriere_dlf_20260813_1515_43717ea2.mp3?refId=corso-104",
     "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bcfbb10c-9ba2-5715-b675-6bc95afbeaf7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Videospieladaption Exit 8 - Der Horror auf dem Weg zu Arbeit",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-13T13:10:31.000Z",
-    "url": "https://www.deutschlandfunk.de/videospieladaption-exit-8-der-horror-auf-dem-weg-zu-arbeit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/videospieladaption_exit_8_der_horror_auf_dem_weg_zu_arbeit_dlf_20260813_1510_8e542339.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ece1c07b-023b-5771-9e46-360b8ad657f2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vinyl - Vom Premium-Produkt zum teuren Mängelexemplar?",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-13T13:06:25.000Z",
-    "url": "https://www.deutschlandfunk.de/vinyl-vom-premium-produkt-zum-teuren-maengelexemplar-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/vinyl_vom_premium_produkt_zum_teuren_maengelexemplar_dlf_20260813_1506_64491ded.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bf285234-2357-51d7-9b53-0254464181e9",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zu viel, zu schlecht und im Abo zu teuer - Haben wir ausgebingt?",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-08-12T13:15:53.000Z",
-    "url": "https://www.deutschlandfunk.de/zu-viel-zu-schlecht-und-im-abo-zu-teuer-haben-wir-ausgebingt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/12/zu_viel_zu_schlecht_und_im_abo_zu_teuer_haben_wir_ausgebingt_dlf_20260812_1515_da05f878.mp3?refId=corso-104",
-    "duration": "9 Min",
     "tags": [
       "kultur",
       "pop",
