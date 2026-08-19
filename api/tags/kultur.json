@@ -1,5 +1,185 @@
 [
   {
+    "id": "dlf-kultur-heute:ec991215-d5ab-50fb-a123-538246c2c9ee",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 18.08.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-18T15:56:17.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/kulturmeldungen_18082026_dlf_20260818_1756_34c7bd8d.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0481d99f-fbdd-535d-9b06-126183377d64",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die ersten Tage - Neue internationale Produktionen beim \"Tanz im August\" im HAU",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-18T15:51:18.000Z",
+    "url": "https://www.deutschlandfunk.de/die-ersten-tage-neue-internationale-produktionen-beim-tanz-im-august-im-hau-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/die_ersten_tage_neue_internationale_produktionen_beim_tanz_dlf_20260818_1751_7cc67d49.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8fbfa6ec-b070-5c99-b858-45b9d9fb035d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam oder einsam: Tür an Tür - Das Leben in einem Beginenhof?",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-18T15:41:05.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-tuer-an-tuer-das-leben-in-einem-beginenhof-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/gemeinsam_oder_einsam_tuer_an_tuer_das_leben_in_einem_dlf_20260818_1741_87c4b70a.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9007cfbc-1035-58a9-bb74-8524d2cf5a07",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schlechte Zeiten für den Denkmalschutz: Zu wenig Geld für zu viele Gebäude",
+    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-18T15:36:25.000Z",
+    "url": "https://www.deutschlandfunk.de/schlechte-zeiten-fuer-den-denkmalschutz-zu-wenig-geld-fuer-zu-viele-gebaeude-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/schlechte_zeiten_fuer_den_denkmalschutz_zu_wenig_geld_fuer_dlf_20260818_1736_fec1d2c9.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4f815102-5a08-5254-a271-ef3f45424de5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vom Kuriosum zum Kleinod: Forscherpaar Lund sammelt alten türkisch-deutschen Pop",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-08-18T13:20:57.000Z",
+    "url": "https://www.deutschlandfunk.de/vom-kuriosum-zum-kleinod-forscherpaar-lund-sammelt-alten-tuerkisch-deutschen-pop-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/vom_kuriosum_zum_kleinod_forscherpaar_lund_sammelt_alten_dlf_20260818_1520_d03f7bd8.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a6b9a966-a3b1-52af-b2c7-93c4abf2b14f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Natürlich emotional: Das Jungsbuch \"30 Real Boys\" mit anderen Rollenvorbildern",
+    "summary": "Müller, Paulus; Brodowsky, Paul www.deutschlandfunk.de, Corso",
+    "date": "2026-08-18T13:05:40.000Z",
+    "url": "https://www.deutschlandfunk.de/natuerlich-emotional-das-jungsbuch-30-real-boys-mit-anderen-rollenvorbildern-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/natuerlich_emotional_das_jungsbuch_30_real_boys_mit_anderen_dlf_20260818_1505_5828b008.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-08-15-der-klang-der-vielfalt-drk-20260815-1805-ea4c3b84-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Klang der Vielfalt - Ein Trans-Chor findet seine Stimmen",
+    "summary": "Im Berliner Transemble finden Trans-Menschen einen geschützten Raum, um ihre Stimme neu zu entdecken. Die Doku begleitet Chorleiter Marius Bernard und erzählt von Empowerment, Identität, Vielfalt und der Suche nach der eigenen Stimme. Von Nele Dehnenkamp und Timo Stukenberg",
+    "date": "2026-08-18T10:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/feature-der-klang-der-vielfalt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/2d/43/45/13/2d434513-d0f7-40ef-aa1b-f619e443ce47/der-klang-der-vielfalt-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/der_klang_der_vielfalt_drk_20260815_1805_ea4c3b84.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "10-minuten-wissen-kunst:6a83dd3b39e73ea8f3aa98a2",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -49,6 +229,31 @@
       "Gesellschaft",
       "Kultur",
       "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-7319859172398805",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Extremsportler und Jugendbetreuer Emin da Silva im Talk mit Hinnerk Baumgarten",
+    "summary": "Im Alter von 17 Jahren floh Emin da Silva mutterseelenallein vor Krieg und Perspektivlosigkeit aus der Türkei nach Deutschland. Zehn Jahre lang lebte er in der Unsicherheit eines Asylverfahrens, doch er gab niemals auf. Was ihm Kraft verlieh, war der Sport. Mit der Anerkennung seines Antrages beschloss er, andere Menschen für Bewegung zu begeistern und lief in zehn Tagen zehn Marathons von Hamburg nach Berlin. Daraus erwuchs eine Lebensaufgabe: Mit spektakulären Läufen, die ihn über Tausende Kilometer, durch Wüsten und sogar rückwärts über Marathonstrecken führten, Menschen verbinden, Brücken bauen und Hoffnung schenken. Dies versucht er auch in seinem Beruf als Jugendbetreuer in einem Bremer Wohnheim für minderjährige und unbegleitete Flüchtlinge.",
+    "date": "2026-08-17T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/extremsportler-und-jugendbetreuer-emin-da-silva-im-talk-mit-hinnerk-baumgarten,audio-3423686.html",
+    "image": "https://images.ndr.de/image/c0d00b5e-80b9-4113-be03-de8eed5dda3d/AAABoBD6Zw8/AAABnSStX0g/1x1-big/screenshot-213204.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0818/AU-20260818-0849-2700.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
     ],
     "language": "de"
   },
@@ -161,7 +366,7 @@
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Museumsdirektorin Nanette Snoep - Antisemitismus-Vorwürfe gegen die Stadt Köln",
+    "title": "Zweifel am Verfahren - warum muss Museumsdirektorin Nanette Snoep gehen?",
     "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
     "date": "2026-08-17T15:35:26.000Z",
     "url": "https://www.deutschlandfunk.de/museumsdirektorin-nanette-snoep-antisemitismus-vorwuerfe-gegen-die-stadt-koeln-100.html",
@@ -294,110 +499,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/kulturmeldungen_16082026_dlf_20260816_1755_c3627908.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9b68f1c4-d88e-5c76-af93-a4b37a4168e3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Theater Magdeburg - Ballettdirektor Jörg Mannes zur AfD-Kulturpolitik",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-16T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/theater-magdeburg-ballettdirektor-joerg-mannes-zur-afd-kulturpolitik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/theater_magdeburg_ballettdirektor_joerg_mannes_zur_afd_dlf_20260816_1750_99614ee3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4584842b-9cca-5ec8-b1c7-cbcb16615545",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Klima und Gesellschaft - Historiker Franz Mauelshagen über Wechselwirkungen",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-16T15:39:15.000Z",
-    "url": "https://www.deutschlandfunk.de/klima-und-gesellschaft-historiker-franz-mauelshagen-ueber-wechselwirkungen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/klima_und_gesellschaft_historiker_franz_mauelshagen_ueber_dlf_20260816_1739_d6605abf.mp3?refId=kultur-heute-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:49fd97a4-70a3-50fb-bb31-4c001989aa89",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Filmfestspiele Locarno: \"Goldener Leopard\" für rumänische Produktion",
-    "summary": "Wagner, Thomas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-16T15:34:55.000Z",
-    "url": "https://www.deutschlandfunk.de/filmfestspiele-locarno-goldener-leopard-fuer-rumaenische-produktion-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/filmfestspiele_locarno_goldener_leopard_fuer_rumaenische_dlf_20260816_1734_c55f0770.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b8a29a2a-1ab7-52b7-8422-fd07a0c58b80",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Der Menschfeind\" - Jette Steckel inszeniert Molière bei den Salzb. Festspielen",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-16T15:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/der-menschfeind-jette-steckel-inszeniert-moli-re-bei-den-salzb-festspielen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/der_menschfeind_jette_steckel_inszeniert_moliere_bei_den_dlf_20260816_1730_815de441.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
@@ -588,31 +689,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:af4e61f7-2fd7-5db9-96b7-db09fb8833ed",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Phoebe Bridgers' neues Album - Melancholie mit zu viel Gepäck",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-08-14T13:10:53.000Z",
-    "url": "https://www.deutschlandfunk.de/phoebe-bridgers-neues-album-melancholie-mit-zu-viel-gepaeck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/phoebe_bridgers_neues_album_melancholie_mit_zu_viel_gepaeck_dlf_20260814_1510_6d6f272f.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-22150172378380806",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -634,31 +710,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b72145dd-db5f-526d-b4fc-9c810fd0d6ab",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Doku \"Noga\" - Wie der Nahostkonflikt eine Künstlerinnenkarriere verändert",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-13T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/doku-noga-wie-der-nahostkonflikt-eine-kuenstlerinnenkarriere-veraendert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/doku_noga_wie_der_nahostkonflikt_eine_kuenstlerinnenkarriere_dlf_20260813_1515_43717ea2.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -733,31 +784,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-541444526230066",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Schauspielerin Claudia Rieschel im Talk mit Inka Schneider",
-    "summary": "Seit Jahrzehnten gehört Claudia Rieschel zu den beliebtesten Gesichtern im deutschen Fernsehen - bekannt aus dem \"Traumschiff\", aus \"Mord mit Aussicht\" und der Kult-Sitcom \"Pastewka\". Aktuell spielt sie in der ZDF-Reihe \"Merz gegen Merz\" die Mutter der Hauptfiguren von Annette Frier und Michael Wittenborn. Die gebürtige Hamburgerin, ausgebildet am Max Reinhardt Seminar, steht auch immer wieder auf der Theaterbühne. Auf dem Roten Sofa schildert sie einen Umstieg: Die Pferdeliebhaberin saß lange im Sattel und ist heute mit dem Klapprad unterwegs, gern die Alster entlang.",
-    "date": "2026-08-11T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspielerin-claudia-rieschel-im-talk-mit-inka-schneider,audio-3412496.html",
-    "image": "https://images.ndr.de/image/5c37735d-3f98-4a9c-a94f-43f3845cc262/AAABn_HUO8Q/AAABnSStX0g/1x1-big/screenshot-210052.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0812/AU-20260812-0922-3200.mp3",
-    "duration": "38 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   },
@@ -1320,32 +1346,6 @@
     "category": [
       "Kunst",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-20-utopia-und-lost-places-probewohnen-im-osten-deutschlands-drk-20260620-1805-1422bc87-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Utopia und Lost Places - Probewohnen in Eisenhüttenstadt und Guben",
-    "summary": "Zu DDR-Zeiten gehörten sie zu den sozialistischen Vorzeigestädten: Eisenhüttenstadt und Guben. Doch seit der Wende sind die Hälfte der Einwohner weggezogen. Mit Probewohn-Programmen wollen die Städte das Schrumpfen aufhalten. Von Alexa Hennings www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-16T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/utopia-und-lost-places-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6a/38/75/bf/6a3875bf-6d04-4f93-8bc4-68374a167945/utopia-und-lost-places-eisenhuettenstadt-kaufhaus-magnet-wandmosaik-bild-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/20/utopia_und_lost_places_probewohnen_im_osten_deutschlands_drk_20260620_1805_1422bc87.mp3?refId=das-feature-104",
-    "duration": "53 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
     ],
     "language": "de"
   },

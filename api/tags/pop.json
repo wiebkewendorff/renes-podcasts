@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:4f815102-5a08-5254-a271-ef3f45424de5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vom Kuriosum zum Kleinod: Forscherpaar Lund sammelt alten türkisch-deutschen Pop",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-08-18T13:20:57.000Z",
+    "url": "https://www.deutschlandfunk.de/vom-kuriosum-zum-kleinod-forscherpaar-lund-sammelt-alten-tuerkisch-deutschen-pop-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/vom_kuriosum_zum_kleinod_forscherpaar_lund_sammelt_alten_dlf_20260818_1520_d03f7bd8.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a6b9a966-a3b1-52af-b2c7-93c4abf2b14f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Natürlich emotional: Das Jungsbuch \"30 Real Boys\" mit anderen Rollenvorbildern",
+    "summary": "Müller, Paulus; Brodowsky, Paul www.deutschlandfunk.de, Corso",
+    "date": "2026-08-18T13:05:40.000Z",
+    "url": "https://www.deutschlandfunk.de/natuerlich-emotional-das-jungsbuch-30-real-boys-mit-anderen-rollenvorbildern-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/natuerlich_emotional_das_jungsbuch_30_real_boys_mit_anderen_dlf_20260818_1505_5828b008.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:2e558915-882b-5428-a8cd-aadd33c1dacd",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/liebe_in_zeiten_von_ki_dokumentation_finding_connection_dlf_20260814_1515_3e891cdf.mp3?refId=corso-104",
     "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:af4e61f7-2fd7-5db9-96b7-db09fb8833ed",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Phoebe Bridgers' neues Album - Melancholie mit zu viel Gepäck",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-08-14T13:10:53.000Z",
-    "url": "https://www.deutschlandfunk.de/phoebe-bridgers-neues-album-melancholie-mit-zu-viel-gepaeck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/phoebe_bridgers_neues_album_melancholie_mit_zu_viel_gepaeck_dlf_20260814_1510_6d6f272f.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b72145dd-db5f-526d-b4fc-9c810fd0d6ab",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Doku \"Noga\" - Wie der Nahostkonflikt eine Künstlerinnenkarriere verändert",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-13T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/doku-noga-wie-der-nahostkonflikt-eine-kuenstlerinnenkarriere-veraendert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/doku_noga_wie_der_nahostkonflikt_eine_kuenstlerinnenkarriere_dlf_20260813_1515_43717ea2.mp3?refId=corso-104",
-    "duration": "13 Min",
     "tags": [
       "kultur",
       "pop",

@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:ec991215-d5ab-50fb-a123-538246c2c9ee",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 18.08.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-18T15:56:17.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/kulturmeldungen_18082026_dlf_20260818_1756_34c7bd8d.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0481d99f-fbdd-535d-9b06-126183377d64",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die ersten Tage - Neue internationale Produktionen beim \"Tanz im August\" im HAU",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-18T15:51:18.000Z",
+    "url": "https://www.deutschlandfunk.de/die-ersten-tage-neue-internationale-produktionen-beim-tanz-im-august-im-hau-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/die_ersten_tage_neue_internationale_produktionen_beim_tanz_dlf_20260818_1751_7cc67d49.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8fbfa6ec-b070-5c99-b858-45b9d9fb035d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam oder einsam: Tür an Tür - Das Leben in einem Beginenhof?",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-18T15:41:05.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-tuer-an-tuer-das-leben-in-einem-beginenhof-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/gemeinsam_oder_einsam_tuer_an_tuer_das_leben_in_einem_dlf_20260818_1741_87c4b70a.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9007cfbc-1035-58a9-bb74-8524d2cf5a07",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schlechte Zeiten für den Denkmalschutz: Zu wenig Geld für zu viele Gebäude",
+    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-18T15:36:25.000Z",
+    "url": "https://www.deutschlandfunk.de/schlechte-zeiten-fuer-den-denkmalschutz-zu-wenig-geld-fuer-zu-viele-gebaeude-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/18/schlechte_zeiten_fuer_den_denkmalschutz_zu_wenig_geld_fuer_dlf_20260818_1736_fec1d2c9.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:90462808-37f3-5125-a838-df0f2b12172e",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -108,7 +212,7 @@
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Museumsdirektorin Nanette Snoep - Antisemitismus-Vorwürfe gegen die Stadt Köln",
+    "title": "Zweifel am Verfahren - warum muss Museumsdirektorin Nanette Snoep gehen?",
     "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
     "date": "2026-08-17T15:35:26.000Z",
     "url": "https://www.deutschlandfunk.de/museumsdirektorin-nanette-snoep-antisemitismus-vorwuerfe-gegen-die-stadt-koeln-100.html",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/kulturmeldungen_16082026_dlf_20260816_1755_c3627908.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9b68f1c4-d88e-5c76-af93-a4b37a4168e3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Theater Magdeburg - Ballettdirektor Jörg Mannes zur AfD-Kulturpolitik",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-16T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/theater-magdeburg-ballettdirektor-joerg-mannes-zur-afd-kulturpolitik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/theater_magdeburg_ballettdirektor_joerg_mannes_zur_afd_dlf_20260816_1750_99614ee3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4584842b-9cca-5ec8-b1c7-cbcb16615545",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Klima und Gesellschaft - Historiker Franz Mauelshagen über Wechselwirkungen",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-16T15:39:15.000Z",
-    "url": "https://www.deutschlandfunk.de/klima-und-gesellschaft-historiker-franz-mauelshagen-ueber-wechselwirkungen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/klima_und_gesellschaft_historiker_franz_mauelshagen_ueber_dlf_20260816_1739_d6605abf.mp3?refId=kultur-heute-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:49fd97a4-70a3-50fb-bb31-4c001989aa89",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Filmfestspiele Locarno: \"Goldener Leopard\" für rumänische Produktion",
-    "summary": "Wagner, Thomas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-16T15:34:55.000Z",
-    "url": "https://www.deutschlandfunk.de/filmfestspiele-locarno-goldener-leopard-fuer-rumaenische-produktion-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/filmfestspiele_locarno_goldener_leopard_fuer_rumaenische_dlf_20260816_1734_c55f0770.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b8a29a2a-1ab7-52b7-8422-fd07a0c58b80",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Der Menschfeind\" - Jette Steckel inszeniert Molière bei den Salzb. Festspielen",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-16T15:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/der-menschfeind-jette-steckel-inszeniert-moli-re-bei-den-salzb-festspielen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/der_menschfeind_jette_steckel_inszeniert_moliere_bei_den_dlf_20260816_1730_815de441.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

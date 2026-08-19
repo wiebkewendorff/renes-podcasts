@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-08-15-der-klang-der-vielfalt-drk-20260815-1805-ea4c3b84-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Klang der Vielfalt - Ein Trans-Chor findet seine Stimmen",
+    "summary": "Im Berliner Transemble finden Trans-Menschen einen geschützten Raum, um ihre Stimme neu zu entdecken. Die Doku begleitet Chorleiter Marius Bernard und erzählt von Empowerment, Identität, Vielfalt und der Suche nach der eigenen Stimme. Von Nele Dehnenkamp und Timo Stukenberg",
+    "date": "2026-08-18T10:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/feature-der-klang-der-vielfalt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/2d/43/45/13/2d434513-d0f7-40ef-aa1b-f619e443ce47/der-klang-der-vielfalt-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/der_klang_der_vielfalt_drk_20260815_1805_ea4c3b84.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:75c8bae3-3f2d-5e83-a01b-20a7084ce5c9",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/58/f2/0e/43/58f20e43-961b-43ac-9899-14cee5f7910c/hows-your-walk-with-the-lord-nathan-patagonien-bild-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/27/hows_your_walk_with_the_lord_drk_20260627_1805_cb6ebfaf.mp3?refId=das-feature-104",
     "duration": "55 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-20-utopia-und-lost-places-probewohnen-im-osten-deutschlands-drk-20260620-1805-1422bc87-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Utopia und Lost Places - Probewohnen in Eisenhüttenstadt und Guben",
-    "summary": "Zu DDR-Zeiten gehörten sie zu den sozialistischen Vorzeigestädten: Eisenhüttenstadt und Guben. Doch seit der Wende sind die Hälfte der Einwohner weggezogen. Mit Probewohn-Programmen wollen die Städte das Schrumpfen aufhalten. Von Alexa Hennings www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-16T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/utopia-und-lost-places-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6a/38/75/bf/6a3875bf-6d04-4f93-8bc4-68374a167945/utopia-und-lost-places-eisenhuettenstadt-kaufhaus-magnet-wandmosaik-bild-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/20/utopia_und_lost_places_probewohnen_im_osten_deutschlands_drk_20260620_1805_1422bc87.mp3?refId=das-feature-104",
-    "duration": "53 Min",
     "tags": [
       "feature",
       "dokumentation",

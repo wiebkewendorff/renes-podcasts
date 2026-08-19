@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:cf61b53f997d88c770eca65587d088e3",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Giftiges Gold: Wie Mutters kleiner Helfer krank machte",
+    "summary": "<p>Mutti mal locker machen: Das war das erklärte Ziel des Tonikums \"Frauengold\". Nicht nur der Alkoholgehalt machte das Mittel zur Gefahr für die Gesundheit. Am 19.8.1981 wird \"Frauengold\" verboten.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Jana Magdanz:</strong><br><ul><li>wie die Werbung der 1950er- und 1960er-Jahre ein bestimmtes Frauenbild propagiert, </li><li>weshalb viele Frauen in \"Frauengold\" mehr als nur ein Arzneimittel sehen,</li><li>welche Rolle die giftige Pflanze Osterluzei bei der Geschichte des Präparats spielt, </li><li>warum das Verbot von \"Frauengold\" zu einem Meilenstein der Arzneimittelkontrolle wird, </li><li>weshalb das Ende des Mittels auch etwas über gesellschaftlichen Wandel erzählt.</li></ul><br>\"Frauengold\" verspricht Wohlbefinden, Ausgeglichenheit und Harmonie. In aufwendig produzierten Werbespots erscheint das Präparat als Antwort auf Belastungen in Ehe, Haushalt und Beruf. Tatsächlich wird das Tonikum aus Kräutern auf Weinbasis hergestellt und enthält einen erheblichen Alkoholanteil.<br><br>Die Geschichte des Präparats führt in eine Zeit, in der Arzneimittel kaum kontrolliert werden und tradierte Rollenbilder den Alltag vieler Frauen prägen. Erst neue gesetzliche Regelungen und beunruhigende Forschungsergebnisse zu einem Inhaltsstoff führen dazu, dass \"Frauengold\" 1981 vom Markt verschwindet.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Alexandra Regiert (empirische Kulturwissenschaftlerin, Universität Regensburg)</li><li>Bettina Wahrig (Professorin i. R. für Pharmazie- und Wissenschaftsgeschichte, TU Braunschweig) </li><li>Ulrich Hagemann (Apotheker und Biochemiker, ehemals am Institut für Arzneimittel des Bundesgesundheitsamts)</li><li>Studie zu Mutagenesis: <a href=\"https://academic.oup.com/mutage/article-abstract/20/1/45/1039976\" rel=\"noopener\" target=\"_blank\">Hohe Kanzerogenität nach nur drei Tagen Gabe von Aristolochiasäure</a></li></ul><br><strong>Weiterführender Link:</strong><br><ul><li>Filmportal: <a href=\"https://www.filmportal.de/node/83539/video/1197294\" rel=\"noopener\" target=\"_blank\">Werbefilm Frauengold Tonikum Episode 2</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?<br></strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Jana Magdanz<br>Redaktion: Frank Zirpins<br>Technik: Sarah Fitzek",
+    "date": "2026-08-19T04:00:03.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-giftiges-gold-wie-mutters-kleiner-helfer-krank-machte-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-frauengold-verbot-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/06/1f58b1be-3a02-4c18-b676-ee1606a4be6b/1f58b1be-3a02-4c18-b676-ee1606a4be6b_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:3354599abed07bc21d4a508153f44db5",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -248,29 +271,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-david-bowie-iggy-pop-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/30/113d4397-6812-44fb-8fd3-5eb0ac3fb3d2/113d4397-6812-44fb-8fd3-5eb0ac3fb3d2_MP3-128.mp3",
     "duration": "14 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:cf72902bb95efd5e240e00477a086306",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Elektrizitätsausstellung 1881: in Paris leuchtet die Zukunft auf",
-    "summary": "<p>Am 10. August 1881 eröffnet in Paris ein zukunftweisendes Technik-Spektakel: die erste Internationale elektrische Ausstellung führt praktisch vor, wie Strom den Alltag der Menschheit verändern wird.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christian Kosfeld:</strong><br><ul><li>wie Werner von Siemens in Paris eine elektrische Straßenbahn vorführt,</li><li>warum Thomas Edison mit seiner Glühlampe noch längst nicht alle überzeugt, </li><li>weshalb Besucher 1881 erstmals Opernmusik live über Telefonleitungen hören können.</li></ul><br>1881 spielt Elektrizität im Alltag der meisten Menschen kaum eine Rolle. Umso größer ist das Staunen, als in Paris erstmals eine Ausstellung ausschließlich dieser neuen Technik gewidmet wird. <br><br>Im Industriepalast präsentieren Erfinder und Unternehmen aus mehreren Ländern ihre Entwicklungen - von elektrischer Beleuchtung über Generatoren bis hin zu neuartigen Verkehrsmitteln und Kommunikationssystemen. Vieles wirkt damals wie Zukunftsmusik, manches wird schon wenige Jahre später selbstverständlich. <br><br>Die Internationale Elektrizitätsausstellung markiert einen Wendepunkt: Sie macht einer breiten Öffentlichkeit sichtbar, welches Potenzial in der Elektrizität steckt – und wie grundlegend sie das Leben verändern wird.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hanswalter Dobbelmann, Leiter des Deutschen Elektrizitätsmuseums in Recklinghausen</li><li>Ernst Peter Fischer: Das große Buch der Elektrizität, Köln 2011</li><li>Frank Dittmann: \"Elektropolis -  eine Utopie von 1881\", In: Paulina Dobroć, Andie Rothenhäusler (Hrsg.): 2000 Revisited – Visionen der Welt von morgen im Gestern und Heute. Karlsruher Studien Technik und Kultur, 2020</li><li>Gérard Borvon: First International Exposition of Electricity, Paris 1881</li><li>Erich Hinkefuß: Die erste elektrische Weltausstellung. Die Gartenlaube Heft 42, 1881</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:5e231d0ab9f5b109/\" rel=\"noopener\" target=\"_blank\">Der Mann, der Paris komplett renoviert - Georges-Eugène Haussmann</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:13c20735b39c4d6c/\" rel=\"noopener\" target=\"_blank\">Das erste öffentliche Pissoir in Paris (am 19.7.1839)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:687f72e203d638f8/\" rel=\"noopener\" target=\"_blank\">Das beste Netz der Welt - im Pariser Untergrund</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christian Kosfeld <br>Redaktion: Christoph Tiegel und Matti Hesse",
-    "date": "2026-08-10T04:00:06.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-elektrizitaetsausstellung-in-paris-leuchtet-die-zukunft-auf-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-elektrizitaetsausstellung-paris-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/04/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6/b9bf65c9-cb49-4056-8c0a-6ad3a42bbda6_MP3-128.mp3",
-    "duration": "15 Min",
     "tags": [
       "geschichte",
       "bildung",
