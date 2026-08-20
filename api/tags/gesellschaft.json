@@ -1,5 +1,154 @@
 [
   {
+    "id": "dlf-corso:0a26c9c6-1025-5ffe-83ab-c1e4e487da6a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geldwäsche mit Pikachu? Japan will den Pokémon-Kartenhandel regulieren",
+    "summary": "Edelhoff, Johannes www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:20:12.000Z",
+    "url": "https://www.deutschlandfunk.de/geldwaesche-mit-pikachu-japan-will-den-pok-mon-kartenhandel-regulieren-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/geldwaesche_mit_pikachu_japan_will_den_pokemon_kartenhandel_dlf_20260819_1520_b150ee2c.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:68d237f1-93d7-5a5b-93a8-4997469594ef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Spaziergang nach Syrakus\", \"A Sad And Beautiful World\", \"Hiddensee\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:15:27.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-spaziergang-nach-syrakus-a-sad-and-beautiful-world-hiddensee-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/neue_filme_spaziergang_nach_syrakus_a_sad_and_beautiful_dlf_20260819_1515_214f4075.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e6535dc5-1bc7-515d-9c46-39de7f6cf90b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Fresse auf für queere Freiheit\": So war das Benefizkonzert zum CSD-Anschlag",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:10:14.000Z",
+    "url": "https://www.deutschlandfunk.de/fresse-auf-fuer-queere-freiheit-so-war-das-benefizkonzert-zum-csd-anschlag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/fresse_auf_fuer_queere_freiheit_so_war_das_benefizkonzertzum_dlf_20260819_1510_b04d6b35.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:82dac449-c2aa-5ce2-b067-afe07e793b00",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Spaziergang nach Syrakus\", \"A Sad And Beautiful World\", \"Hiddensee\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:05:46.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-spaziergang-nach-syrakus-a-sad-and-beautiful-world-hiddensee-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/neue_filme_spaziergang_nach_syrakus_a_sad_and_beautiful_dlf_20260819_1505_6f51678e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:59ff7604-3f45-53bb-9ac6-2ad1d88cbd6d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geldwäsche mit Pikachu: Japan will den Pokémon-Kartenhandel regulieren",
+    "summary": "Edelhoff, Johannes www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:05:29.000Z",
+    "url": "https://www.deutschlandfunk.de/geldwaesche-mit-pikachu-japan-will-den-pok-mon-kartenhandel-regulieren-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/geldwaesche_mit_pikachu_japan_will_den_pokemon_kartenhandel_dlf_20260819_1505_7b532630.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4006282",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Welche Folgen hat Rassismus für unsere Gesundheit, Muna Aikins?",
+    "summary": "Rassismus macht krank\n<p>Gesundheit sollte für alle Menschen gleichermaßen zugänglich sein. Doch für viele Menschen in Deutschland sieht die Realität anders aus. Rassismus und Diskriminierung wirken dabei doppelt: Sie entscheiden nicht nur darüber, wie gut Menschen medizinisch versorgt werden, sondern haben auch direkte Auswirkungen auf die Gesundheit von Betroffenen. </p>\n<p> „Rassismus wird oft als ein gesellschaftliches oder auch ein politisches Thema verstanden — und nicht als ein Gesundheitsthema“, sagt <strong>Dr. Muna Aikins</strong> dazu. Am Max-Planck-Institut für Bildungsforschung forscht sie dazu, wie wiederkehrende Rassismuserfahrungen im Kindesalter chronischen Stress verursachen, der langfristig negative gesundheitliche Folgen haben kann. Neben psychischen Krankheiten, wie Depressionen oder Angststörungen, kann sich chronischer Stress auch auf das Herz-Kreislauf-System auswirken und letztlich die Lebenserwartung verkürzen.</p>\nAfrozensus 2020\n<p> Dass Schwarze Menschen in Deutschland in vielen Lebensbereichen diskriminiert werden, konnte im „Afrozensus 2020“ nachgewiesen werden. Dabei handelt es sich um die erste umfassende Studie zu den Lebensrealitäten Schwarzer, afrikanischer und afrodiasporischer Menschen in Deutschland. Muna Aikins hat die Untersuchung als leitende Wissenschaftlerin betreut.  </p>\n<p>Die Ergebnisse machen sichtbar, wie häufig Diskriminierung im Gesundheitswesen erlebt wird. Etwa, wenn Schmerzen nicht ernst genommen oder Beschwerden vorschnell psychologisiert werden. Aikins erklärt, warum diese Erfahrungen keine Einzelfälle sind, sondern auf strukturelle Probleme hinweisen, und weshalb fehlende Daten lange dazu beigetragen haben, Rassismus im deutschen Gesundheitssystem unsichtbar zu machen. Muna Aikins: „Ich finde es wichtig, dass wir unser Gesundheitssystem so verändern und transformieren, dass es die Vielfalt der Bevölkerung nicht als Herausforderung betrachtet, sondern als Normalität.“</p>\nEin Gesundheitssystem für alle\n<p>Damit sich das Gesundheitssystem langfristig verändert, braucht es nach Ansicht von Muna Aikins vor allem eine andere Ausbildung von medizinischem Personal. Ärztinnen, Ärzte und Therapeutinnen müssten lernen, welche gesundheitlichen Folgen Rassismus haben kann und wie sich Vorurteile oder Wissenslücken auf Diagnosen und Behandlungen auswirken. Gleichzeitig gehe es darum, mehr Diversität in medizinischen Berufen zu fördern und Leitlinien sowie Lehrmaterialien zu überarbeiten.</p>\n<p>Wie wirkt sich Rassismus auf Körper und Psyche aus? Welche Rolle spielt der Afrozensus für die Forschung und was muss sich im Gesundheitswesen ändern? Darüber spricht <em>detektor.fm</em>-Moderatorin Jessica Hughes in dieser Folge von „Ach, Mensch!“ mit <strong>Dr. Muna Aikins</strong>.</p>",
+    "date": "2026-08-19T03:06:05.000Z",
+    "url": "https://feedpress.me/link/19604/17423258/ach-mensch-muna-aikins",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260816achmenschmunaaikins.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260816achmenschmunaaikins.63.mp3",
+    "duration": "34 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:4f815102-5a08-5254-a271-ef3f45424de5",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -229,81 +378,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:d434690e-ee2f-5cb8-ae2c-377d3dd9b0e7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Wiederentdeckung der Lebensfreude - \"Temple Songs\" von Laura Veirs\"",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-wiederentdeckung-der-lebensfreude-temple-songs-von-laura-veirs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/die_wiederentdeckung_der_lebensfreude_temple_songs_von_laura_dlf_20260815_1545_6bbe7c6b.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:712fe5bd-1c60-5a79-872a-bb02afb095b1",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Album von Getdown Services - Zwei Schrägos drehen frei",
-    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:30:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-album-von-getdown-services-zwei-schraegos-drehen-frei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/neues_album_von_getdown_services_zwei_schraegos_drehen_frei_dlf_20260815_1530_18bc18be.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bc4baa55-8766-5fcd-b267-a101cded7ea7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Ich muss meine Texte nicht verstehen!\" - Das neue Album von Lambchop",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ich-muss-meine-texte-nicht-verstehen-das-neue-album-von-lambchop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/ich_muss_meine_texte_nicht_verstehen_das_neue_album_von_dlf_20260815_1515_fdba0566.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeit-wie-war-das-noch-mal:75ae3e79-3e70-403a-bc4f-eab551247396",
     "source": "zeit-wie-war-das-noch-mal",
     "sourceTitle": "Wie war das noch mal? – DIE ZEIT",
@@ -326,56 +400,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1a176c94-aaa9-5431-9d6e-82ce03bebe73",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von Super Mario zu Spider-Man - Wie Popcorneimer zu Sammlerstücken werden",
-    "summary": "Wieser, Lea www.deutschlandfunk.de, Corso",
-    "date": "2026-08-14T13:20:19.000Z",
-    "url": "https://www.deutschlandfunk.de/von-super-mario-zu-spider-man-wie-popcorneimer-zu-sammlerstuecken-werden-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/von_super_mario_zu_spider_man_wie_popcorneimer_zu_dlf_20260814_1520_d477a08c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e449e5a3-6b02-5b59-81a1-49bff151a063",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Liebe in Zeiten von KI - Dokumentation \"Finding Connection\"",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-14T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/liebe-in-zeiten-von-ki-dokumentation-finding-connection-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/liebe_in_zeiten_von_ki_dokumentation_finding_connection_dlf_20260814_1515_3e891cdf.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -647,30 +671,6 @@
     "category": [
       "Geschichte",
       "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4027661",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Mit einem Betonmischer kann man nicht ins Homeoffice gehen (Best-of)",
-    "summary": "Die spannendsten und beliebtesten Folgen\n<p>In den vergangenen Wochen haben wir euch die spannendsten und beliebtesten Folgen anlässlich von zehn Jahren „brand eins Podcast“ geliefert. Zum Abschluss dieser Reihe veröffentlichen wir unser Interview mit Hans Rusinek, einem Arbeitsforscher und Organisationsberater, mit dem wir im Mai 2024 gesprochen haben.</p>\nNeue Arbeitsmodelle in der Diskussion\n<p>Die Arbeitswelt verändert sich stetig. Vier-Tage-Woche, Homeoffice und Teilzeit werden diskutiert und ausprobiert. Doch in jüngerer Vergangenheit scheint die Skepsis gegenüber neuen Arbeitsmodellen zu wachsen. Bundeskanzler Friedrich Merz hat sich mehrfach deutlich gegen die Vier-Tage-Woche und Work-Life-Balance ausgesprochen, in Teilen der Union wurde der abwertende Begriff der „Lifestyle-Teilzeit“ geprägt. Der Vorwurf: Mit den neuen Modellen könne der Wohlstand nicht erhalten werden. Kritiker werfen dem Kanzler dagegen Populismus und Realitätsferne vor.</p>\nHans Rusinek über Vier-Tage-Woche, Homeoffice und Teilzeit\n<p>Hans Rusinek hat die Vier-Tage-Woche und das Homeoffice schon vor Kanzler Merz kritisiert, allerdings aus anderer Richtung. Denn grundsätzlich befürwortet er die neuen Arbeitsmodelle, warnt aber vor ihrem spaltenden Potenzial: So sei die Fünf-Tage-Woche noch eine Revolution für alle gewesen, das sei die Vier-Tage-Woche nicht — und darum ein Elitenprojekt: „Lasst uns bitte nicht die Menschen vergessen, die nicht diese sogenannte ‚Wissensarbeit‘ machen.“</p>\nWork-Survival-Balance statt Work-Life-Balance?\n<p>Warum er statt für die Work-Life-Balance für die Work-Survival-Balance plädiert, darüber hat <em>detektor.fm</em>-Moderator Christian Bollert im Mai 2024 mit Hans Rusinek gesprochen, und wir veröffentlichen das Gespräch angesichts seiner Relevanz erneut.</p>",
-    "date": "2026-08-07T03:26:49.000Z",
-    "url": "https://feedpress.me/link/19604/17404846/brand-eins-podcast-hans-rusinek-best-of",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260807brandeinspodcasthansrusinekwdh.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260807brandeinspodcasthansrusinekwdh.63.mp3",
-    "duration": "28 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
       "Bildung"
     ],
     "language": "de"

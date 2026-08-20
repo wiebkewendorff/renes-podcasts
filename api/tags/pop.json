@@ -1,5 +1,130 @@
 [
   {
+    "id": "dlf-corso:0a26c9c6-1025-5ffe-83ab-c1e4e487da6a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geldwäsche mit Pikachu? Japan will den Pokémon-Kartenhandel regulieren",
+    "summary": "Edelhoff, Johannes www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:20:12.000Z",
+    "url": "https://www.deutschlandfunk.de/geldwaesche-mit-pikachu-japan-will-den-pok-mon-kartenhandel-regulieren-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/geldwaesche_mit_pikachu_japan_will_den_pokemon_kartenhandel_dlf_20260819_1520_b150ee2c.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:68d237f1-93d7-5a5b-93a8-4997469594ef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Spaziergang nach Syrakus\", \"A Sad And Beautiful World\", \"Hiddensee\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:15:27.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-spaziergang-nach-syrakus-a-sad-and-beautiful-world-hiddensee-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/neue_filme_spaziergang_nach_syrakus_a_sad_and_beautiful_dlf_20260819_1515_214f4075.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e6535dc5-1bc7-515d-9c46-39de7f6cf90b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Fresse auf für queere Freiheit\": So war das Benefizkonzert zum CSD-Anschlag",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:10:14.000Z",
+    "url": "https://www.deutschlandfunk.de/fresse-auf-fuer-queere-freiheit-so-war-das-benefizkonzert-zum-csd-anschlag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/fresse_auf_fuer_queere_freiheit_so_war_das_benefizkonzertzum_dlf_20260819_1510_b04d6b35.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:82dac449-c2aa-5ce2-b067-afe07e793b00",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Spaziergang nach Syrakus\", \"A Sad And Beautiful World\", \"Hiddensee\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:05:46.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-spaziergang-nach-syrakus-a-sad-and-beautiful-world-hiddensee-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/neue_filme_spaziergang_nach_syrakus_a_sad_and_beautiful_dlf_20260819_1505_6f51678e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:59ff7604-3f45-53bb-9ac6-2ad1d88cbd6d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geldwäsche mit Pikachu: Japan will den Pokémon-Kartenhandel regulieren",
+    "summary": "Edelhoff, Johannes www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:05:29.000Z",
+    "url": "https://www.deutschlandfunk.de/geldwaesche-mit-pikachu-japan-will-den-pok-mon-kartenhandel-regulieren-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/geldwaesche_mit_pikachu_japan_will_den_pokemon_kartenhandel_dlf_20260819_1505_7b532630.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:4f815102-5a08-5254-a271-ef3f45424de5",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -111,131 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/ki_ersetzt_die_models_brauchen_wir_noch_menschen_fuer_dlf_20260817_1506_700a3429.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d434690e-ee2f-5cb8-ae2c-377d3dd9b0e7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Wiederentdeckung der Lebensfreude - \"Temple Songs\" von Laura Veirs\"",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-wiederentdeckung-der-lebensfreude-temple-songs-von-laura-veirs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/die_wiederentdeckung_der_lebensfreude_temple_songs_von_laura_dlf_20260815_1545_6bbe7c6b.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:712fe5bd-1c60-5a79-872a-bb02afb095b1",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Album von Getdown Services - Zwei Schrägos drehen frei",
-    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:30:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-album-von-getdown-services-zwei-schraegos-drehen-frei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/neues_album_von_getdown_services_zwei_schraegos_drehen_frei_dlf_20260815_1530_18bc18be.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bc4baa55-8766-5fcd-b267-a101cded7ea7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Ich muss meine Texte nicht verstehen!\" - Das neue Album von Lambchop",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ich-muss-meine-texte-nicht-verstehen-das-neue-album-von-lambchop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/ich_muss_meine_texte_nicht_verstehen_das_neue_album_von_dlf_20260815_1515_fdba0566.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1a176c94-aaa9-5431-9d6e-82ce03bebe73",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von Super Mario zu Spider-Man - Wie Popcorneimer zu Sammlerstücken werden",
-    "summary": "Wieser, Lea www.deutschlandfunk.de, Corso",
-    "date": "2026-08-14T13:20:19.000Z",
-    "url": "https://www.deutschlandfunk.de/von-super-mario-zu-spider-man-wie-popcorneimer-zu-sammlerstuecken-werden-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/von_super_mario_zu_spider_man_wie_popcorneimer_zu_dlf_20260814_1520_d477a08c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e449e5a3-6b02-5b59-81a1-49bff151a063",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Liebe in Zeiten von KI - Dokumentation \"Finding Connection\"",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-14T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/liebe-in-zeiten-von-ki-dokumentation-finding-connection-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/liebe_in_zeiten_von_ki_dokumentation_finding_connection_dlf_20260814_1515_3e891cdf.mp3?refId=corso-104",
-    "duration": "10 Min",
     "tags": [
       "kultur",
       "pop",

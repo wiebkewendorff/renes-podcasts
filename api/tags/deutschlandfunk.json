@@ -1,5 +1,234 @@
 [
   {
+    "id": "dlf-kultur-heute:eb059ac3-9b89-5b82-95f2-8c080d4a285b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 19.08.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-19T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/kulturmeldungen_19082026_dlf_20260819_1756_55f463d4.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6ec53fb2-7cac-5383-92ae-8d6bde127245",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam oder einsam? M. Kirschnereit über die Gezeitenkonzerte in Ostfriesland",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-19T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-m-kirschnereit-ueber-die-gezeitenkonzerte-in-ostfriesland-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/gemeinsam_oder_einsam_m_kirschnereit_ueber_die_dlf_20260819_1746_00f1f97a.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1005864b-0120-53be-8137-3116a5f10fb4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Makellos als einziger Makel? 10 Jahre Privatmuseum Voorlinden bei Den Haag",
+    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-19T15:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/makellos-als-einziger-makel-10-jahre-privatmuseum-voorlinden-bei-den-haag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/makellos_als_einziger_makel_10_jahre_privatmuseum_voorlinden_dlf_20260819_1741_fee97d9d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:fa6d8a8d-29a1-5c5b-ba50-d0e58f27b993",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sicherheitsrisiko? Und trotzdem kein Aus für das Russische Haus in Berlin",
+    "summary": "Adler, Sabine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-19T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/sicherheitsrisiko-und-trotzdem-kein-aus-fuer-das-russische-haus-in-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/sicherheitsrisiko_und_trotzdem_kein_aus_fuer_das_russische_dlf_20260819_1735_f3e399d0.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0a26c9c6-1025-5ffe-83ab-c1e4e487da6a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geldwäsche mit Pikachu? Japan will den Pokémon-Kartenhandel regulieren",
+    "summary": "Edelhoff, Johannes www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:20:12.000Z",
+    "url": "https://www.deutschlandfunk.de/geldwaesche-mit-pikachu-japan-will-den-pok-mon-kartenhandel-regulieren-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/geldwaesche_mit_pikachu_japan_will_den_pokemon_kartenhandel_dlf_20260819_1520_b150ee2c.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:68d237f1-93d7-5a5b-93a8-4997469594ef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Spaziergang nach Syrakus\", \"A Sad And Beautiful World\", \"Hiddensee\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:15:27.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-spaziergang-nach-syrakus-a-sad-and-beautiful-world-hiddensee-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/neue_filme_spaziergang_nach_syrakus_a_sad_and_beautiful_dlf_20260819_1515_214f4075.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e6535dc5-1bc7-515d-9c46-39de7f6cf90b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Fresse auf für queere Freiheit\": So war das Benefizkonzert zum CSD-Anschlag",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:10:14.000Z",
+    "url": "https://www.deutschlandfunk.de/fresse-auf-fuer-queere-freiheit-so-war-das-benefizkonzert-zum-csd-anschlag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/fresse_auf_fuer_queere_freiheit_so_war_das_benefizkonzertzum_dlf_20260819_1510_b04d6b35.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:82dac449-c2aa-5ce2-b067-afe07e793b00",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Spaziergang nach Syrakus\", \"A Sad And Beautiful World\", \"Hiddensee\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:05:46.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-spaziergang-nach-syrakus-a-sad-and-beautiful-world-hiddensee-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/neue_filme_spaziergang_nach_syrakus_a_sad_and_beautiful_dlf_20260819_1505_6f51678e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:59ff7604-3f45-53bb-9ac6-2ad1d88cbd6d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geldwäsche mit Pikachu: Japan will den Pokémon-Kartenhandel regulieren",
+    "summary": "Edelhoff, Johannes www.deutschlandfunk.de, Corso",
+    "date": "2026-08-19T13:05:29.000Z",
+    "url": "https://www.deutschlandfunk.de/geldwaesche-mit-pikachu-japan-will-den-pok-mon-kartenhandel-regulieren-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/geldwaesche_mit_pikachu_japan_will_den_pokemon_kartenhandel_dlf_20260819_1505_7b532630.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:ec991215-d5ab-50fb-a123-538246c2c9ee",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -232,84 +461,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:877b0e3c-adff-5b93-ba65-bbdfeb41d2bd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie Russland das Buchwesen in der Ukraine angreift - Autor Yuriy Gurzhy im Gesp.",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-17T15:45:13.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-russland-das-buchwesen-in-der-ukraine-angreift-autor-yuriy-gurzhy-im-gesp-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/wie_russland_das_buchwesen_in_der_ukraine_angreift_autor_dlf_20260817_1745_2e85913d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4d05e89a-650c-573f-957f-80fbb37edf4f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zu den Antisemitismus-Vorwürfen gegen die Literaturwiss. Maha El Hissy",
-    "summary": "Wilke, Insa www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-17T15:40:50.000Z",
-    "url": "https://www.deutschlandfunk.de/zu-den-antisemitismus-vorwuerfen-gegen-die-literaturwiss-maha-el-hissy-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/zu_den_antisemitismus_vorwuerfen_gegen_die_literaturwiss_dlf_20260817_1740_0a8203c6.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:efb286a9-1194-5d68-a3a9-ea2a6de570bc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zweifel am Verfahren - warum muss Museumsdirektorin Nanette Snoep gehen?",
-    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-17T15:35:26.000Z",
-    "url": "https://www.deutschlandfunk.de/museumsdirektorin-nanette-snoep-antisemitismus-vorwuerfe-gegen-die-stadt-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/museumsdirektorin_nanette_snoep_antisemitismus_vorwuerfe_dlf_20260817_1735_be80e746.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:2e558915-882b-5428-a8cd-aadd33c1dacd",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -371,157 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/ki_ersetzt_die_models_brauchen_wir_noch_menschen_fuer_dlf_20260817_1506_700a3429.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:fa900b78-ac05-54e6-8d62-74178ec72632",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 16.08.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-16T15:55:40.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/16/kulturmeldungen_16082026_dlf_20260816_1755_c3627908.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d434690e-ee2f-5cb8-ae2c-377d3dd9b0e7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Wiederentdeckung der Lebensfreude - \"Temple Songs\" von Laura Veirs\"",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-wiederentdeckung-der-lebensfreude-temple-songs-von-laura-veirs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/die_wiederentdeckung_der_lebensfreude_temple_songs_von_laura_dlf_20260815_1545_6bbe7c6b.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:712fe5bd-1c60-5a79-872a-bb02afb095b1",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Album von Getdown Services - Zwei Schrägos drehen frei",
-    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:30:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-album-von-getdown-services-zwei-schraegos-drehen-frei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/neues_album_von_getdown_services_zwei_schraegos_drehen_frei_dlf_20260815_1530_18bc18be.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bc4baa55-8766-5fcd-b267-a101cded7ea7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Ich muss meine Texte nicht verstehen!\" - Das neue Album von Lambchop",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-15T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ich-muss-meine-texte-nicht-verstehen-das-neue-album-von-lambchop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/ich_muss_meine_texte_nicht_verstehen_das_neue_album_von_dlf_20260815_1515_fdba0566.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1a176c94-aaa9-5431-9d6e-82ce03bebe73",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von Super Mario zu Spider-Man - Wie Popcorneimer zu Sammlerstücken werden",
-    "summary": "Wieser, Lea www.deutschlandfunk.de, Corso",
-    "date": "2026-08-14T13:20:19.000Z",
-    "url": "https://www.deutschlandfunk.de/von-super-mario-zu-spider-man-wie-popcorneimer-zu-sammlerstuecken-werden-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/von_super_mario_zu_spider_man_wie_popcorneimer_zu_dlf_20260814_1520_d477a08c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e449e5a3-6b02-5b59-81a1-49bff151a063",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Liebe in Zeiten von KI - Dokumentation \"Finding Connection\"",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-08-14T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/liebe-in-zeiten-von-ki-dokumentation-finding-connection-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/14/liebe_in_zeiten_von_ki_dokumentation_finding_connection_dlf_20260814_1515_3e891cdf.mp3?refId=corso-104",
-    "duration": "10 Min",
     "tags": [
       "kultur",
       "pop",
