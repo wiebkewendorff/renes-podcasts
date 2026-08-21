@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:caca914f-2520-5d34-b0c5-2d01c588cb28",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Teenage Sex and Death at Camp Miasma\": Ein queerer Slasher-Horror-Film",
+    "summary": "Rein, Katharina; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-08-20T13:15:12.000Z",
+    "url": "https://www.deutschlandfunk.de/teenage-sex-and-death-at-camp-miasma-ein-queerer-slasher-horror-film-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/20/teenage_sex_and_death_at_camp_miasma_ein_queerer_slasher_dlf_20260820_1515_19a36455.mp3?refId=corso-104",
+    "duration": "18 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:63888cd0-7867-57d3-a3de-9e663705cdbc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Arschkröte! Dämlack! - Schöner Schimpfen mit dem \"Kalender der Flüche\" 2027",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-08-20T13:10:08.000Z",
+    "url": "https://www.deutschlandfunk.de/arschkroete-daemlack-schoener-schimpfen-mit-dem-kalender-der-flueche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/20/arschkroete_daemlack_schoener_schimpfen_mit_dem_kalender_der_dlf_20260820_1510_d234fadf.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:0a26c9c6-1025-5ffe-83ab-c1e4e487da6a",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/zwischen_kunst_und_alchemie_besuch_im_atelier_fuer_dlf_20260817_1525_6c1a9e86.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:c5399083-8c1b-5c3f-985b-05c62b59bb5b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Serie \"Lanterns\" startet - Schafft DC-Studios das neue \"True Detective\"?",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-17T13:10:12.000Z",
-    "url": "https://www.deutschlandfunk.de/us-serie-lanterns-startet-schafft-dc-studios-das-neue-true-detective-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/us_serie_lanterns_startet_schafft_dc_studios_das_neue_true_dlf_20260817_1510_4c184dd4.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:61766481-c820-51b0-b341-e39c0c82f6be",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "KI ersetzt die Models - Brauchen wir noch Menschen für Modefotografien?",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-08-17T13:06:33.000Z",
-    "url": "https://www.deutschlandfunk.de/ki-ersetzt-die-models-brauchen-wir-noch-menschen-fuer-modefotografien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/17/ki_ersetzt_die_models_brauchen_wir_noch_menschen_fuer_dlf_20260817_1506_700a3429.mp3?refId=corso-104",
-    "duration": "8 Min",
     "tags": [
       "kultur",
       "pop",

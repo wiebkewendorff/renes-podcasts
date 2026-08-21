@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-4103172139810718",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Der Talk mit Schauspieler Oliver Masucci und Sohn Vito Wiesner",
+    "summary": "Oliver Masucci hat es in der Verkörperung komplexer zeitgeschichtlicher Persönlichkeiten zur Meisterschaft gebracht. Sein eigenes Leben als Kind italienischer Gastarbeiter war von einer schwierigen Beziehung zum Vater geprägt. Er selbst versucht es nun beim eigenen Nachwuchs besser zu machen - und steht sogar mit Sohn Vito vor der Kamera. Ihr Film \"Adams Acht\" erzählt die Geschichte des legendären deutschen Ruder-Achters aus dem schleswig-holsteinischen Ratzeburg, der bei den Olympischen Spielen 1960 in Rom Gold errang. Auf dem Roten Sofa erzählen die beiden über ihre Vater-Sohn-Beziehung.",
+    "date": "2026-08-20T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/der-talk-mit-schauspieler-oliver-masucci-und-sohn-vito-wiesner,audio-3429734.html",
+    "image": "https://images.ndr.de/image/136fb380-b3e7-44b8-82fc-a843b1a357df/AAABoCAipnM/AAABnSStX0g/1x1-big/screenshot-214732.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0820/AU-20260820-2119-3000.mp3",
+    "duration": "31 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-7758984288573996",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/17092384-d0d8-462b-a24f-91f93c32ec53/AAABoAF0RsM/AAABnSStX0g/1x1-big/screenshot-211762.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0817/AU-20260817-1007-2700.mp3",
     "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-22150172378380806",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Erdbeerbauer und Unternehmer Robert Dahl",
-    "summary": "Das Erdbeer-Imperium der Familie Dahl begann vor gut hundert Jahren mit einem kleinen Gemüsehof in Mecklenburg. Nach der Flucht der Familie im Zweiten Weltkrieg ging es mit einem Anbaubetrieb in Ostholstein weiter; heute sitzt der Betrieb in Rövershagen nahe Rostock. Robert Dahl, Enkel des Gründers, war erfinderisch und mutig: In zwei Jahrzehnten schuf er einen Konzern, der in Erlebnisdörfern - nicht nur in Norddeutschland - Attraktionen und alles rund um die Erdbeere für Jung und Alt bietet. Auf dem Roten Sofa sprechen wir mit ihm über Familientradition und seine Ideen für die Zukunft.",
-    "date": "2026-08-13T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/erdbeerbauer-und-unternehmer-robert-dahl,audio-3416770.html",
-    "image": "https://images.ndr.de/image/cb795bce-6392-45e7-9688-5aa22d28fd6d/AAABn_wuEKU/AAABnSStX0g/1x1-big/screenshot-210982.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0814/AU-20260814-0803-1400.mp3",
-    "duration": "36 Min",
     "tags": [
       "beatles",
       "popgeschichte",
