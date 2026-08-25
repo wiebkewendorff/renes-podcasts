@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:c1e4d09b-fd7b-5eb4-8bdb-649a6f41826e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 24.08.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:56:25.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/kulturmeldungen_24082026_dlf_20260824_1756_26a17711.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f1729905-6930-5bef-803f-f952dcab25df",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ein Theater zieht um - Das Schauspiel Köln kehrt ins Herz der Stadt zurück",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:51:40.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-theater-zieht-um-das-schauspiel-koeln-kehrt-ins-herz-der-stadt-zurueck-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/ein_theater_zieht_um_das_schauspiel_koeln_kehrt_ins_herz_der_dlf_20260824_1751_f09f11a1.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:18f321b7-0d7f-5ee1-8345-a9805deec925",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Strange Rules\" - Ausstellung zu Protocol Art KI im Palazzo Diedo in Venedig",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:46:50.000Z",
+    "url": "https://www.deutschlandfunk.de/strange-rules-ausstellung-zu-protocol-art-ki-im-palazzo-diedo-in-venedig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/strange_rules_ausstellung_zu_protocol_art_ki_im_palazzo_dlf_20260824_1746_919c61ff.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3d0cf14f-d20a-5463-9030-ea7cbcbb2956",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Unternehmer und Kulturmäzen - Zum Tod von Klaus-Michael Kühne",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:41:40.000Z",
+    "url": "https://www.deutschlandfunk.de/unternehmer-und-kulturmaezen-zum-tod-von-klaus-michael-kuehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/unternehmer_und_kulturmaezen_zum_tod_von_klaus_michael_dlf_20260824_1741_aa997c73.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:46d531d0-5401-5137-af6a-960dc59f2fe9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Germanist und Autor Jurko Prochasko zum Unabhängigkeitstag der Ukraine",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/germanist-und-autor-jurko-prochasko-zum-unabhaengigkeitstag-der-ukraine-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/germanist_und_autor_jurko_prochasko_zum_unabhaengigkeitstag_dlf_20260824_1735_21964612.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:ae345db4-947e-5b31-a6b5-888eb7211c31",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/bildhauer_als_provokateur_erste_einzelausstellung_zu_charles_dlf_20260823_1731_e8656600.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4d64acfd-dd6f-5969-9fd8-fb8087046a19",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 22.08.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/kulturmeldungen_22082026_dlf_20260822_1756_4b4b9bcd.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4d6b5ef4-32fb-58a6-b5c3-82ba443a09c6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Atalanta - Eine Händel-Rarität bei den Innsbrucker Festwochen",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/atalanta-eine-haendel-raritaet-bei-den-innsbrucker-festwochen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/atalanta_eine_haendel_raritaet_bei_den_innsbrucker_dlf_20260822_1752_c352643b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e93ce711-aa67-5498-b962-b41815e91bc5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Macht Möbel - Innenarchitektin K. Jacobs über das neue Design für Bellevue",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/macht-moebel-innenarchitektin-k-jacobs-ueber-das-neue-design-fuer-bellevue-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/macht_moebel_innenarchitektin_k_jacobs_ueber_das_neue_design_dlf_20260822_1747_76517bdc.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2f312671-2802-536c-9118-47a738f39a98",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Spektakel für die Stadtgesellschaft - Die Eröffnung des Kunstfests Weimar",
-    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:41:30.000Z",
-    "url": "https://www.deutschlandfunk.de/spektakel-fuer-die-stadtgesellschaft-die-eroeffnung-des-kunstfests-weimar-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/spektakel_fuer_die_stadtgesellschaft_die_eroeffnung_des_dlf_20260822_1741_fe4ff482.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1a284461-8b9e-559d-ba1d-29aa508f76bf",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Wahre Heimatliebe\" - Wie Schauspieler Christian Friedel einen AfD-Wahlsieg verhindern will",
-    "summary": "Ein starkes Abschneiden der AfD bei der Wahl in Sachsen-Anhalt hält Schauspieler Christian Friedel für nicht mehr verhinderbar. Mit der Initiative \"Wahre Heimatliebe\" will er der gebürtige Magdeburger das Schlimmste abwenden. Dabei setzt er auf Dialog. Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/was-heisst-heimatliebe-christian-friedel-unterstuetzt-kampagne-gegen-afd-100.html",
-    "image": "https://bilder.deutschlandfunk.de/a1/19/c1/a6/a119c1a6-4bfd-4a50-95b6-2b86ec36220a/christian-friedel-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/was_heisst_heimatliebe_christian_friedel_unterstuetzt_dlf_20260822_1731_fd4e7050.mp3?refId=kultur-heute-104",
-    "duration": "11 Min",
     "tags": [
       "kultur",
       "theater",

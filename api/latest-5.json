@@ -1,15 +1,67 @@
 [
   {
-    "id": "zeitzeichen:1aba4dca942b3972e5ce02533ce1ba15",
+    "id": "dlf-das-feature:56c7e3be-0ee8-54ff-a4d8-f9e3b8a6c2f6",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Feldstudie: Landwirtschaft - Vier Leben zwischen Tradition und Agribusiness",
+    "summary": "Wer in der Landwirtschaft arbeitet, muss nicht nur den Acker vor der Haustür bestellen, sondern auch einen globalisierten Markt auf dem Schirm haben. Vier ganz unterschiedliche Geschichten zeigen neue Wege zwischen Strukturwandel, Familientraditionen und Wachstumsdruck. Von Swantje Reuter www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-29T16:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/feldstudie-landwirtschaft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/2f/0a/99/a9/2f0a99a9-34a0-45d0-9669-fcdd31fe3d53/feldstudie-landwirtschaft-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/feldstudie_landwirtschaft_drk_20260829_1805_8424e5a8.mp3?refId=das-feature-104",
+    "duration": "55 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-das-feature:564d85f3-0d8a-5b21-a3ed-e54b7c2d3f7e",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doomscroll - Wie TikTok Jugendliche im Wahlkampf beeinflusst",
+    "summary": "Warum wählen so viele Erstwähler*innen AfD? In Mecklenburg-Vorpommern und Sachsen-Anhalt könnte die Partei bald erstmals ein Parlament anführen. Was hat TikTok damit zu tun? In einem Experiment begleiten wir zwei Jugendliche beim Scrollen. Von Diana Köhler und Johanna Tirnthal www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-25T17:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/doomscroll-wie-tiktok-jugendliche-im-wahlkampf-beeinflusst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/6b/fa/e2/dc/6bfae2dc-4806-4217-ab60-d30fc6f97096/bild-fuer-feature-doomscroll-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/doomscroll_wie_tiktok_jugendliche_im_wahlkampf_beeinflusst_dlf_20260825_1915_6206b9a8.mp3?refId=das-feature-104",
+    "duration": "52 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:106df1848950657bac4f32a350561964",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Pluto: Kosmischer Außenseiter und Planet der Herzen",
-    "summary": "<p>Am 24.8.2006 verliert Pluto seinen Status als Planet. Der Himmelskörper bewegt Fans und Forscher - und entfacht eine anhaltende Debatte, was einen Planeten ausmacht.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Ralph Erdenberger:</strong><br><ul><li>warum die Entdeckung des Himmelskörpers Eris die Planetendefinition ins Wanken bringt,</li><li>weshalb Astronomen in Prag 2006 erbittert über die Zahl der Planeten streiten, </li><li>wie der junge Farmersohn Clyde Tombaugh Pluto aufspürt, </li><li>warum ein elfjähriges Mädchen den Namen \"Pluto\" vorschlägt, </li><li>welche Überraschungen die Raumsonde \"New Horizons\" auf dem fernen Himmelskörper entdeckt.</li></ul><br>Pluto gilt lange als neunter Planet unseres Sonnensystems. Doch als immer mehr ähnliche Objekte im äußeren Sonnensystem entdeckt werden, gerät die alte Ordnung unter Druck. Auf der Generalversammlung der Internationalen Astronomischen Union in Prag wird deshalb über eine neue Definition des Begriffs \"Planet\" abgestimmt.<br><br>Plutos Geschichte beginnt schon vor seiner spektakulären Entdeckung durch Clyde Tombaugh im Jahr 1930 und führt zu einer Debatte, die bis heute nicht vollständig verstummt ist. Selbst aktuelle Stimmen aus der Raumfahrt stellen die Entscheidung von 2006 noch infrage.<br><br><strong>Das ist unsere wichtigste Interviewpartnerin:</strong><br><ul><li>Prof. Dr. Susanne Hüttemeister (Leiterin des Planetariums Bochum)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/technik/weltraumforschung/astronomie/planetensystem-neuordnung-pluto-100.html\" rel=\"noopener\" target=\"_blank\">Warum ist der Pluto kein Planet mehr?</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-tycho-brahes-uraniborg-100.html\" rel=\"noopener\" target=\"_blank\">Der Sternenforscher mit der falschen Nase: Tycho Brahe</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-venustransit-beobachtung-forschungsprojekt-100.html\" rel=\"noopener\" target=\"_blank\">Wendepunkt in der Wissenschaft: Der Venustransit am 3.6.1769</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Ralph Erdenberger<br>Redaktion: Carolin Rückl, Sefa Inci Suvak",
-    "date": "2026-08-24T04:00:29.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-pluto-kosmischer-aussenseiter-und-planet-der-herzen-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-pluto-zwergplanet-108~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/05/159da690-a4f7-402b-ad06-cc97e91eabdb/159da690-a4f7-402b-ad06-cc97e91eabdb_MP3-128.mp3",
+    "title": "Ordentlich Dampf auf dem Kessel bei Denis Papin",
+    "summary": "<p>Ein französischer Entwickler präsentiert am 25. August 1681 in London seinen Dampfkochtopf - der große Knall bleibt aus.</p><br><br><p><strong>In diesem Zeitzeichen erzählen Markus Harmann und Joachim Heinz:</strong><br><ul><li>wie ein Sicherheitsventil den Dampfkochtopf überhaupt erst alltagstauglich macht, </li><li>warum Papin als Hugenotte seine französische Heimat dauerhaft hinter sich lässt, </li><li>weshalb Knochen, Geweihe und sogar Schildkrötenpanzer in seinem Apparat landen, </li><li>wie aus Forschungen zu Druck und Dampf eine frühe Dampfmaschine entsteht, </li><li>weshalb Papin lange in Vergessenheit gerät, obwohl sein Erbe bis heute fortlebt.</li></ul><br> Denis Papin gilt als Arzt, Mathematiker, Physiker und Erfinder zugleich. Seine Laufbahn führt ihn durch die europäischen Wissenschaftszentren seiner Zeit. In London, Venedig, Marburg und Kassel arbeitet er an den großen Fragen von Druck, Vakuum und Technik.<br><br>Als Papin seinen Dampfdrucktopf vor Gelehrten präsentiert, sorgt die Erfindung für Aufsehen. Doch der Kochtopf bleibt nur ein Teil seines Wirkens. Der Forscher konstruiert Tauchboote, entwickelt Pumpen und schafft mit seiner Kolbendampfmaschine eine technische Grundlage, die weit über seine Lebenszeit hinauswirkt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Bérénice Tarcher (Stadtführerin im französischen Val de Loire)</li><li>Heinz Jänsch (Physikprofessor, Philipps-Universität Marburg)</li><li>Sophie Gerber (Kuratorin und Kustodin, Technisches Museum Wien)</li><li>Denis Papin: A new Digester or Engine for softening Bones . London 1681</li><li> William Bray : The Diary of John Evelyn . London 1901</li><li>Karsten Porezag, Mitglied der Hessischen Historischen Kommission Darmstadt, arbeitet seit neun Jahren an einer umfangreichen Biografie zu Denis Papin, die 2027 oder 2028 erscheinen soll.</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://professorenkatalog.online.uni-marburg.de/de/pkat/idrec?id=8834\" rel=\"noopener\" target=\"_blank\">Denis Papin im Professorenkatalog der Philipps-Universität Marburg</a></li><li><a href=\"https://anno.onb.ac.at/cgi-content/anno-plus?aid=ljs&datum=1681&page=344&size=45\" rel=\"noopener\" target=\"_blank\">Vorstellung von Papins Dampfkochtopf im Journal des Savants</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autoren: Markus Harmann, Joachim Heinz<br>Redaktion: Emily Jeuckens, Sefa Inci Suvak",
+    "date": "2026-08-25T04:34:02.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ordentlich-dampf-auf-dem-kessel-bei-denis-papin-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-dampfkochtopf-denis-papin-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/21/b2b15be5-d88a-4129-b069-5e19868faa65/b2b15be5-d88a-4129-b069-5e19868faa65_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
@@ -23,106 +75,50 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:ae345db4-947e-5b31-a6b5-888eb7211c31",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4023661",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Kulturmeldungen 23.08.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:55:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/kulturmeldungen_23082026_dlf_20260823_1755_f26c8e4b.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
+    "title": "Tipps vom Energiesparkommissar",
+    "summary": "Kleine Veränderungen mit großer Wirkung\n<p>Wer beim Energiesparen zuerst an teure Sanierungen denkt, liegt nicht unbedingt richtig. Oft sind es auch kleine Stellschrauben, die einen großen Effekt haben können. Energiesparkommissar Carsten Herbert weiß: Viele Heizungsanlagen laufen mit deutlich höheren Temperaturen als nötig und verbrauchen dadurch unnötig Energie. Wer die Anlage an den tatsächlichen Bedarf anpasst, kann je nach Ausgangslage zwischen fünf und 30 Prozent Heizenergie einsparen — und das ganz ohne umfangreiche Umbauten. Auch eine moderne Spar-Duschbrause gehört für Herbert zu den lohnendsten Investitionen. Sie reduziert den Warmwasserverbrauch beim Duschen erheblich, ohne dass der Komfort leidet, und macht sich oft schon nach wenigen Monaten bezahlt.</p>\nAnschauliche Beispiele und Lösungen für den Alltag\n<p>Auf seinen Vortragsreisen erlebt Carsten Herbert immer wieder, wie groß die Unsicherheit rund um die Energiewende ist — besonders beim Thema Wärmepumpe. Deshalb setzt er darauf, komplexe Zusammenhänge einfach und praxisnah zu erklären. Wer verstehe, wie moderne Heiztechnik funktioniert und welche Möglichkeiten das eigene Haus bietet, könne fundierte Entscheidungen treffen und gewinne Sicherheit zurück. Für Herbert bleibt Energiesparen deshalb auch in Zukunft unverzichtbar. Denn je geringer der Energiebedarf eines Gebäudes ist, desto effizienter arbeiten moderne Heizsysteme wie Wärmepumpen.</p>\n<p>Seine Botschaft: Klimaschutz beginnt nicht erst bei der großen Sanierung. Schon mit überschaubarem Aufwand lassen sich Kosten senken, Energie sparen und gleichzeitig die Voraussetzungen für eine erfolgreiche Energiewende schaffen.</p>\n<p>An welchem Thema er schon seit Jahren sitzt und wie sich seine Arbeit in den vergangenen Jahren verändert hat, das erzählt <strong>Energiesparkommissar Carsten</strong> <strong>Herbert</strong> in dieser Folge von „Mission Energiewende“ im Gespräch mit <em>detektor.fm</em>-Moderatorin Ina Lebedjew.</p>",
+    "date": "2026-08-25T03:30:07.000Z",
+    "url": "https://feedpress.me/link/19604/17427961/mission-energiewende-tipps-vom-energiesparkommissar",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/260825missionenergiewendetippsenergiesparkommissar.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/260825missionenergiewendetippsenergiesparkommissar.63.mp3",
+    "duration": "32 Min",
     "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Wissenschaft",
+      "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:0ec30b67-6ef9-5c27-97f8-fef7b4f9491d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4038540",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Zwischen Dialog und politischem Druck - Ein Museum für arabische Kunst in Israel",
-    "summary": "Poppendieck, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zwischen-dialog-und-politischem-druck-ein-museum-fuer-arabische-kunst-in-israel-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/zwischen_dialog_und_politischem_druck_ein_museum_fuer_dlf_20260823_1750_546a5b7e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
+    "title": "Die Utopie ist schon mitten unter uns",
+    "summary": "<p>Wie können wir in ein anderes Denken kommen — das ist eine der zentralen Fragen, die sich die Ausstellung „Das Gegenteil von Jetzt – Künstlerische Wege in eine andere Gegenwart“ stellt. Ein Denken über Utopie, über das gedankliche Experimentieren, sich die Offenheit des Neuen, des Unbekannten zu gestatten und sich letztlich in die Lage zu versetzen, sich etwas anderes vorzustellen, als das, was schon ist. Impulse dazu zogen die beiden Kuratorinnen der Ausstellung Shelley Harten und Julia Friedrich u.a. aus Texten von Theodor W. Adorno und Ernst Bloch.</p>\n<p>„Adorno und Bloch machen dieselbe Feststellung eigentlich in den 60er Jahren“, sagt Julia Friedrich, „Adorno sagt, er hat immer so einen inneren Polizisten im Kopf. In dem Moment, wo sich ein utopischer Gedanke regt, etwas anderes sich vorzustellen, dann kommt einer mit einem Knüppel und knüppelt ihn nieder. Und die Frage ist eben, wie ist das heute? Ist der Polizist immer noch da? Ich würde sagen, er ist vielleicht so ein bisschen besser ausgerüstet noch, als er damals war. Weil es wirklich sehr schwer ist, sich etwas anderes vorzustellen. Sich vor allem vorzustellen, dass es etwas besser werden könnte, als es jetzt ist.“</p>\nUtopische Kunst\n<p>Etwas Neues wagen, neue Wege gehen, das versucht zum Beispiel der US-amerikanische Künstler und Komponist Ari Benjamin Myers mit seinem „Chor der Zeitastronauten“, für den er mit 90-jährigen Menschen zusammenarbeitet, die mit Beginn der Ausstellung zu Proben beginnen.</p>\n<p>Die Künstlerin Andrea Büttner sucht die Utopie hingegen in den Maserungen von Holz. Für die Ausstellung hat sie großformatige Holzschnitte geschaffen, in denen sie Zitate des utopischen Denkens herausgearbeitet hat. Zum Beispiel von Ernst Bloch: „Ich bin, aber ich habe mich nicht, darum werden wir erst.“ Es stammt aus der „Tübinger Einleitung in die Philosophie“ von 1964. Es geht darum, dass der Mensch noch nicht fertig ist und sich erst seiner selbst bewusst werden muss. Das wahre „Ich“, so Bloch, entstehe erst im kollektiven „Wir“, ähnlich könnte es sich auch mit dem utopischen Denken verhalten.</p>\n<p>In dieser Folge von „Kunst und Leben“, dem Podcast in Kooperation mit dem <em>Monopol </em>Magazin, spricht <em>detektor.fm</em>-Moderatorin Sara-Marie Plekat mit Julia Friedrich und Shelley Harten. Die beiden haben die Ausstellung „Das Gegenteil von Jetzt – Künstlerische Wege in eine andere Gegenwart“ am Jüdischen Museum Berlin kuratiert. Besichtigen könnt ihr sie ab dem 04. September 2026.</p>",
+    "date": "2026-08-25T03:00:41.000Z",
+    "url": "https://feedpress.me/link/19604/17427962/monopol-podcast-das-gegenteil-von-jetzt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/25082026monopol-podcastjuedisches-museum.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/25082026monopol-podcastjuedisches-museum.63.mp3",
+    "duration": "40 Min",
     "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ea63464b-0703-5faa-ba72-c602a6d94a9c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geteilte Verantwortung - Rafael Sanchez über seine Co-Intendanz in Zürich",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/geteilte-verantwortung-rafael-sanchez-ueber-seine-co-intendanz-in-zuerich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/geteilte_verantwortung_rafael_sanchez_ueber_seine_co_dlf_20260823_1741_59689ed5.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f7f8829d-cb14-5f0e-9ea2-67c5547b4a08",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Third Person\" - Lorna Simpson in der Punta della Dogana in Venedig",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/third-person-lorna-simpson-in-der-punta-della-dogana-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/third_person_lorna_simpson_in_der_punta_della_dogana_in_dlf_20260823_1736_8d66fd3f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Wissenschaft",
+      "Bildung"
     ],
     "language": "de"
   }

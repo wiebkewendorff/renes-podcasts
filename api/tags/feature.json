@@ -1,5 +1,57 @@
 [
   {
+    "id": "dlf-das-feature:56c7e3be-0ee8-54ff-a4d8-f9e3b8a6c2f6",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Feldstudie: Landwirtschaft - Vier Leben zwischen Tradition und Agribusiness",
+    "summary": "Wer in der Landwirtschaft arbeitet, muss nicht nur den Acker vor der Haustür bestellen, sondern auch einen globalisierten Markt auf dem Schirm haben. Vier ganz unterschiedliche Geschichten zeigen neue Wege zwischen Strukturwandel, Familientraditionen und Wachstumsdruck. Von Swantje Reuter www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-29T16:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/feldstudie-landwirtschaft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/2f/0a/99/a9/2f0a99a9-34a0-45d0-9669-fcdd31fe3d53/feldstudie-landwirtschaft-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/feldstudie_landwirtschaft_drk_20260829_1805_8424e5a8.mp3?refId=das-feature-104",
+    "duration": "55 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-das-feature:564d85f3-0d8a-5b21-a3ed-e54b7c2d3f7e",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doomscroll - Wie TikTok Jugendliche im Wahlkampf beeinflusst",
+    "summary": "Warum wählen so viele Erstwähler*innen AfD? In Mecklenburg-Vorpommern und Sachsen-Anhalt könnte die Partei bald erstmals ein Parlament anführen. Was hat TikTok damit zu tun? In einem Experiment begleiten wir zwei Jugendliche beim Scrollen. Von Diana Köhler und Johanna Tirnthal www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-25T17:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/doomscroll-wie-tiktok-jugendliche-im-wahlkampf-beeinflusst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/6b/fa/e2/dc/6bfae2dc-4806-4217-ab60-d30fc6f97096/bild-fuer-feature-doomscroll-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/doomscroll_wie_tiktok_jugendliche_im_wahlkampf_beeinflusst_dlf_20260825_1915_6206b9a8.mp3?refId=das-feature-104",
+    "duration": "52 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-08-15-der-klang-der-vielfalt-drk-20260815-1805-ea4c3b84-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -193,58 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/73/5b/42/5b/735b425b-82a7-40a5-895d-6397b0d4ac5a/bild-fuer-regulierte-wahrheit-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/16/regulierte_wahrheit_ueber_den_kampf_gegen_fakenews_dlf_20260616_1915_0a3cb568.mp3?refId=das-feature-104",
     "duration": "44 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2025-06-24-inside-private-equity-internationale-investoren-kaufen-dlf-20250624-1915-13243ff7-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Inside „Private Equity“ - Wenn internationale Investoren deutsche Pflegeheime kaufen",
-    "summary": "Immer mehr Pflegeheime gehen pleite. Doch die private Alloheim-Gruppe kauft Seniorenheime auf, investiert Millionen in die Modernisierung der Heime und will in den nächsten Jahren 30 Neubauten stemmen. Internationale Investoren machen es möglich. Von Matthias Holland-Letz www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-23T17:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/inside-private-equity-100.html",
-    "image": "https://bilder.deutschlandfunk.de/81/06/52/f5/810652f5-665f-40b0-9b3c-854b035a707c/foto-inside-private-equity-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/06/24/inside_private_equity_internationale_investoren_kaufen_dlf_20250624_1915_13243ff7.mp3?refId=das-feature-104",
-    "duration": "42 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-27-hows-your-walk-with-the-lord-drk-20260627-1805-cb6ebfaf-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "How's your walk with the Lord? - Spiritualität nach der Kirche",
-    "summary": "Nathan wächst als Mennonit in den USA auf. Vom praktizierten Glauben hat sich der heute in Köln lebende Musiker gelöst. Doch was ihn damals bewegt hat, ist nicht verschwunden. Ein Feature über Transformation – von Menschen und religiösen Gefühlen. Von Janko Hanushevsky und Nathan Bontrager www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-23T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/feature-hows-your-walk-with-the-lord-100.html",
-    "image": "https://bilder.deutschlandfunk.de/58/f2/0e/43/58f20e43-961b-43ac-9899-14cee5f7910c/hows-your-walk-with-the-lord-nathan-patagonien-bild-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/27/hows_your_walk_with_the_lord_drk_20260627_1805_cb6ebfaf.mp3?refId=das-feature-104",
-    "duration": "55 Min",
     "tags": [
       "feature",
       "dokumentation",

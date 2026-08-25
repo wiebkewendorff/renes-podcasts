@@ -1,5 +1,262 @@
 [
   {
+    "id": "dlf-das-feature:56c7e3be-0ee8-54ff-a4d8-f9e3b8a6c2f6",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Feldstudie: Landwirtschaft - Vier Leben zwischen Tradition und Agribusiness",
+    "summary": "Wer in der Landwirtschaft arbeitet, muss nicht nur den Acker vor der Haustür bestellen, sondern auch einen globalisierten Markt auf dem Schirm haben. Vier ganz unterschiedliche Geschichten zeigen neue Wege zwischen Strukturwandel, Familientraditionen und Wachstumsdruck. Von Swantje Reuter www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-29T16:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/feldstudie-landwirtschaft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/2f/0a/99/a9/2f0a99a9-34a0-45d0-9669-fcdd31fe3d53/feldstudie-landwirtschaft-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/feldstudie_landwirtschaft_drk_20260829_1805_8424e5a8.mp3?refId=das-feature-104",
+    "duration": "55 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-das-feature:564d85f3-0d8a-5b21-a3ed-e54b7c2d3f7e",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doomscroll - Wie TikTok Jugendliche im Wahlkampf beeinflusst",
+    "summary": "Warum wählen so viele Erstwähler*innen AfD? In Mecklenburg-Vorpommern und Sachsen-Anhalt könnte die Partei bald erstmals ein Parlament anführen. Was hat TikTok damit zu tun? In einem Experiment begleiten wir zwei Jugendliche beim Scrollen. Von Diana Köhler und Johanna Tirnthal www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-25T17:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/doomscroll-wie-tiktok-jugendliche-im-wahlkampf-beeinflusst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/6b/fa/e2/dc/6bfae2dc-4806-4217-ab60-d30fc6f97096/bild-fuer-feature-doomscroll-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/doomscroll_wie_tiktok_jugendliche_im_wahlkampf_beeinflusst_dlf_20260825_1915_6206b9a8.mp3?refId=das-feature-104",
+    "duration": "52 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c1e4d09b-fd7b-5eb4-8bdb-649a6f41826e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 24.08.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:56:25.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/kulturmeldungen_24082026_dlf_20260824_1756_26a17711.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f1729905-6930-5bef-803f-f952dcab25df",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ein Theater zieht um - Das Schauspiel Köln kehrt ins Herz der Stadt zurück",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:51:40.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-theater-zieht-um-das-schauspiel-koeln-kehrt-ins-herz-der-stadt-zurueck-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/ein_theater_zieht_um_das_schauspiel_koeln_kehrt_ins_herz_der_dlf_20260824_1751_f09f11a1.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:18f321b7-0d7f-5ee1-8345-a9805deec925",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Strange Rules\" - Ausstellung zu Protocol Art KI im Palazzo Diedo in Venedig",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:46:50.000Z",
+    "url": "https://www.deutschlandfunk.de/strange-rules-ausstellung-zu-protocol-art-ki-im-palazzo-diedo-in-venedig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/strange_rules_ausstellung_zu_protocol_art_ki_im_palazzo_dlf_20260824_1746_919c61ff.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3d0cf14f-d20a-5463-9030-ea7cbcbb2956",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Unternehmer und Kulturmäzen - Zum Tod von Klaus-Michael Kühne",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:41:40.000Z",
+    "url": "https://www.deutschlandfunk.de/unternehmer-und-kulturmaezen-zum-tod-von-klaus-michael-kuehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/unternehmer_und_kulturmaezen_zum_tod_von_klaus_michael_dlf_20260824_1741_aa997c73.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:46d531d0-5401-5137-af6a-960dc59f2fe9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Germanist und Autor Jurko Prochasko zum Unabhängigkeitstag der Ukraine",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/germanist-und-autor-jurko-prochasko-zum-unabhaengigkeitstag-der-ukraine-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/germanist_und_autor_jurko_prochasko_zum_unabhaengigkeitstag_dlf_20260824_1735_21964612.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d316e20b-01a4-5a34-a893-7fd3ae16a9f0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Harry Belafonte: Aktivist, Vorreiter, Brückenbauer und Möglichmacher",
+    "summary": "Buttler, Martina www.deutschlandfunk.de, Corso",
+    "date": "2026-08-24T13:20:48.000Z",
+    "url": "https://www.deutschlandfunk.de/harry-belafonte-aktivist-vorreiter-brueckenbauer-und-moeglichmacher-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/harry_belafonte_aktivist_vorreiter_brueckenbauer_und_dlf_20260824_1520_8809e75c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:976ac6fa-b3f5-5973-a2c4-578eddb94d17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Burning Berlin\" - Ein Musical erinnert an queere Liebe im Nationalsozialismus",
+    "summary": "Hartmann, Theresa www.deutschlandfunk.de, Corso",
+    "date": "2026-08-24T13:15:18.000Z",
+    "url": "https://www.deutschlandfunk.de/burning-berlin-ein-musical-erinnert-an-queere-liebe-im-nationalsozialismus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/burning_berlin_ein_musical_erinnert_an_queere_liebe_im_dlf_20260824_1515_120890d3.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0f72b35a-f4b9-5c60-92e7-739d22763750",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Festival Pop-Kultur in Berlin: Wer bezahlt die kulturelle Zukunft?",
+    "summary": "Müller, Paulus; Morin, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-24T13:05:33.000Z",
+    "url": "https://www.deutschlandfunk.de/festival-pop-kultur-in-berlin-wer-bezahlt-die-kulturelle-zukunft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/festival_pop_kultur_in_berlin_wer_bezahlt_die_kulturelle_dlf_20260824_1505_6302775e.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:ae345db4-947e-5b31-a6b5-888eb7211c31",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -153,136 +410,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4d64acfd-dd6f-5969-9fd8-fb8087046a19",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 22.08.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/kulturmeldungen_22082026_dlf_20260822_1756_4b4b9bcd.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4d6b5ef4-32fb-58a6-b5c3-82ba443a09c6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Atalanta - Eine Händel-Rarität bei den Innsbrucker Festwochen",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/atalanta-eine-haendel-raritaet-bei-den-innsbrucker-festwochen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/atalanta_eine_haendel_raritaet_bei_den_innsbrucker_dlf_20260822_1752_c352643b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e93ce711-aa67-5498-b962-b41815e91bc5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Macht Möbel - Innenarchitektin K. Jacobs über das neue Design für Bellevue",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/macht-moebel-innenarchitektin-k-jacobs-ueber-das-neue-design-fuer-bellevue-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/macht_moebel_innenarchitektin_k_jacobs_ueber_das_neue_design_dlf_20260822_1747_76517bdc.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2f312671-2802-536c-9118-47a738f39a98",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Spektakel für die Stadtgesellschaft - Die Eröffnung des Kunstfests Weimar",
-    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:41:30.000Z",
-    "url": "https://www.deutschlandfunk.de/spektakel-fuer-die-stadtgesellschaft-die-eroeffnung-des-kunstfests-weimar-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/spektakel_fuer_die_stadtgesellschaft_die_eroeffnung_des_dlf_20260822_1741_fe4ff482.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1a284461-8b9e-559d-ba1d-29aa508f76bf",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Wahre Heimatliebe\" - Wie Schauspieler Christian Friedel einen AfD-Wahlsieg verhindern will",
-    "summary": "Ein starkes Abschneiden der AfD bei der Wahl in Sachsen-Anhalt hält Schauspieler Christian Friedel für nicht mehr verhinderbar. Mit der Initiative \"Wahre Heimatliebe\" will er der gebürtige Magdeburger das Schlimmste abwenden. Dabei setzt er auf Dialog. Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-22T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/was-heisst-heimatliebe-christian-friedel-unterstuetzt-kampagne-gegen-afd-100.html",
-    "image": "https://bilder.deutschlandfunk.de/a1/19/c1/a6/a119c1a6-4bfd-4a50-95b6-2b86ec36220a/christian-friedel-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/22/was_heisst_heimatliebe_christian_friedel_unterstuetzt_dlf_20260822_1731_fd4e7050.mp3?refId=kultur-heute-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -714,31 +841,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:63888cd0-7867-57d3-a3de-9e663705cdbc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Arschkröte! Dämlack! - Schöner Schimpfen mit dem \"Kalender der Flüche\" 2027",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-08-20T13:10:08.000Z",
-    "url": "https://www.deutschlandfunk.de/arschkroete-daemlack-schoener-schimpfen-mit-dem-kalender-der-flueche-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/20/arschkroete_daemlack_schoener_schimpfen_mit_dem_kalender_der_dlf_20260820_1510_d234fadf.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-der-rest-ist-geschichte:c76fd743-4d1c-592b-b5da-7b0c345cf711",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -762,56 +864,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0a26c9c6-1025-5ffe-83ab-c1e4e487da6a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geldwäsche mit Pikachu? Japan will den Pokémon-Kartenhandel regulieren",
-    "summary": "Edelhoff, Johannes www.deutschlandfunk.de, Corso",
-    "date": "2026-08-19T13:20:12.000Z",
-    "url": "https://www.deutschlandfunk.de/geldwaesche-mit-pikachu-japan-will-den-pok-mon-kartenhandel-regulieren-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/geldwaesche_mit_pikachu_japan_will_den_pokemon_kartenhandel_dlf_20260819_1520_b150ee2c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:68d237f1-93d7-5a5b-93a8-4997469594ef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Spaziergang nach Syrakus\", \"A Sad And Beautiful World\", \"Hiddensee\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-08-19T13:15:27.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-spaziergang-nach-syrakus-a-sad-and-beautiful-world-hiddensee-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/neue_filme_spaziergang_nach_syrakus_a_sad_and_beautiful_dlf_20260819_1515_214f4075.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1318,58 +1370,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2025-06-24-inside-private-equity-internationale-investoren-kaufen-dlf-20250624-1915-13243ff7-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Inside „Private Equity“ - Wenn internationale Investoren deutsche Pflegeheime kaufen",
-    "summary": "Immer mehr Pflegeheime gehen pleite. Doch die private Alloheim-Gruppe kauft Seniorenheime auf, investiert Millionen in die Modernisierung der Heime und will in den nächsten Jahren 30 Neubauten stemmen. Internationale Investoren machen es möglich. Von Matthias Holland-Letz www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-23T17:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/inside-private-equity-100.html",
-    "image": "https://bilder.deutschlandfunk.de/81/06/52/f5/810652f5-665f-40b0-9b3c-854b035a707c/foto-inside-private-equity-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/06/24/inside_private_equity_internationale_investoren_kaufen_dlf_20250624_1915_13243ff7.mp3?refId=das-feature-104",
-    "duration": "42 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-27-hows-your-walk-with-the-lord-drk-20260627-1805-cb6ebfaf-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "How's your walk with the Lord? - Spiritualität nach der Kirche",
-    "summary": "Nathan wächst als Mennonit in den USA auf. Vom praktizierten Glauben hat sich der heute in Köln lebende Musiker gelöst. Doch was ihn damals bewegt hat, ist nicht verschwunden. Ein Feature über Transformation – von Menschen und religiösen Gefühlen. Von Janko Hanushevsky und Nathan Bontrager www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-23T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/feature-hows-your-walk-with-the-lord-100.html",
-    "image": "https://bilder.deutschlandfunk.de/58/f2/0e/43/58f20e43-961b-43ac-9899-14cee5f7910c/hows-your-walk-with-the-lord-nathan-patagonien-bild-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/27/hows_your_walk_with_the_lord_drk_20260627_1805_cb6ebfaf.mp3?refId=das-feature-104",
-    "duration": "55 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
     ],
     "language": "de"
   },

@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:d316e20b-01a4-5a34-a893-7fd3ae16a9f0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Harry Belafonte: Aktivist, Vorreiter, Brückenbauer und Möglichmacher",
+    "summary": "Buttler, Martina www.deutschlandfunk.de, Corso",
+    "date": "2026-08-24T13:20:48.000Z",
+    "url": "https://www.deutschlandfunk.de/harry-belafonte-aktivist-vorreiter-brueckenbauer-und-moeglichmacher-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/harry_belafonte_aktivist_vorreiter_brueckenbauer_und_dlf_20260824_1520_8809e75c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:976ac6fa-b3f5-5973-a2c4-578eddb94d17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Burning Berlin\" - Ein Musical erinnert an queere Liebe im Nationalsozialismus",
+    "summary": "Hartmann, Theresa www.deutschlandfunk.de, Corso",
+    "date": "2026-08-24T13:15:18.000Z",
+    "url": "https://www.deutschlandfunk.de/burning-berlin-ein-musical-erinnert-an-queere-liebe-im-nationalsozialismus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/burning_berlin_ein_musical_erinnert_an_queere_liebe_im_dlf_20260824_1515_120890d3.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0f72b35a-f4b9-5c60-92e7-739d22763750",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Festival Pop-Kultur in Berlin: Wer bezahlt die kulturelle Zukunft?",
+    "summary": "Müller, Paulus; Morin, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-08-24T13:05:33.000Z",
+    "url": "https://www.deutschlandfunk.de/festival-pop-kultur-in-berlin-wer-bezahlt-die-kulturelle-zukunft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/festival_pop_kultur_in_berlin_wer_bezahlt_die_kulturelle_dlf_20260824_1505_6302775e.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:32bdb9f0-c2b8-5b63-a564-001a9a117791",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/20/teenage_sex_and_death_at_camp_miasma_ein_queerer_slasher_dlf_20260820_1515_19a36455.mp3?refId=corso-104",
     "duration": "18 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:63888cd0-7867-57d3-a3de-9e663705cdbc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Arschkröte! Dämlack! - Schöner Schimpfen mit dem \"Kalender der Flüche\" 2027",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-08-20T13:10:08.000Z",
-    "url": "https://www.deutschlandfunk.de/arschkroete-daemlack-schoener-schimpfen-mit-dem-kalender-der-flueche-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/20/arschkroete_daemlack_schoener_schimpfen_mit_dem_kalender_der_dlf_20260820_1510_d234fadf.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0a26c9c6-1025-5ffe-83ab-c1e4e487da6a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geldwäsche mit Pikachu? Japan will den Pokémon-Kartenhandel regulieren",
-    "summary": "Edelhoff, Johannes www.deutschlandfunk.de, Corso",
-    "date": "2026-08-19T13:20:12.000Z",
-    "url": "https://www.deutschlandfunk.de/geldwaesche-mit-pikachu-japan-will-den-pok-mon-kartenhandel-regulieren-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/geldwaesche_mit_pikachu_japan_will_den_pokemon_kartenhandel_dlf_20260819_1520_b150ee2c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:68d237f1-93d7-5a5b-93a8-4997469594ef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Spaziergang nach Syrakus\", \"A Sad And Beautiful World\", \"Hiddensee\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-08-19T13:15:27.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-spaziergang-nach-syrakus-a-sad-and-beautiful-world-hiddensee-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/19/neue_filme_spaziergang_nach_syrakus_a_sad_and_beautiful_dlf_20260819_1515_214f4075.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
