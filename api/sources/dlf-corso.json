@@ -1,5 +1,30 @@
 [
   {
+    "id": "dlf-corso:fa9819a6-fbdb-5fd3-9a10-c37edcd68b57",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Unterwegs im Omegaverse - Seifenoper mit schwangeren KI-Werwölfen",
+    "summary": "Raabe, Mathis www.deutschlandfunk.de, Corso",
+    "date": "2026-08-25T13:24:16.000Z",
+    "url": "https://www.deutschlandfunk.de/unterwegs-im-omegaverse-seifenoper-mit-schwangeren-ki-werwoelfen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/unterwegs_im_omegaverse_seifenoper_mit_schwangeren_ki_dlf_20260825_1524_5417ee8c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:d316e20b-01a4-5a34-a893-7fd3ae16a9f0",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -211,31 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/21/nach_konzert_4_jahre_haft_fuer_die_iranische_saengerin_hiwa_dlf_20260821_1506_c39bc1fb.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:caca914f-2520-5d34-b0c5-2d01c588cb28",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Teenage Sex and Death at Camp Miasma\": Ein queerer Slasher-Horror-Film",
-    "summary": "Rein, Katharina; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-08-20T13:15:12.000Z",
-    "url": "https://www.deutschlandfunk.de/teenage-sex-and-death-at-camp-miasma-ein-queerer-slasher-horror-film-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/20/teenage_sex_and_death_at_camp_miasma_ein_queerer_slasher_dlf_20260820_1515_19a36455.mp3?refId=corso-104",
-    "duration": "18 Min",
     "tags": [
       "kultur",
       "pop",

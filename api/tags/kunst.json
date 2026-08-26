@@ -1,5 +1,134 @@
 [
   {
+    "id": "dlf-kultur-heute:ee3b1195-3622-5c29-b7a3-5087f596f537",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 25.08.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-25T15:56:20.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-25-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/kulturmeldungen_25082026_dlf_20260825_1756_95cdc528.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0dd79833-c956-5d51-8962-fd7967f29287",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gemeinsam oder einsam: Vierhändig im Einklang - die Pianisten-Brüder Jussen",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-25T15:45:33.000Z",
+    "url": "https://www.deutschlandfunk.de/gemeinsam-oder-einsam-vierhaendig-im-einklang-die-pianisten-brueder-jussen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/gemeinsam_oder_einsam_vierhaendig_im_einklang_die_pianisten_dlf_20260825_1745_33ca6ea2.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9a091a82-3418-5843-b33f-f27e4f82dcb3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Politisch, emphatisch, bunt - Zwischenbericht vom \"Tanz im August\" im HAU Berlin",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-25T15:41:01.000Z",
+    "url": "https://www.deutschlandfunk.de/politisch-emphatisch-bunt-zwischenbericht-vom-tanz-im-august-im-hau-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/politisch_emphatisch_bunt_zwischenbericht_vom_tanz_im_august_dlf_20260825_1741_09c43c55.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a44c3a31-6055-53b3-94f1-29b7a1768bad",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Symbole des Widerstands - Zum Tod des palästinensischen Künstlers Sliman Mansour",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-25T15:35:40.000Z",
+    "url": "https://www.deutschlandfunk.de/symbole-des-widerstands-zum-tod-des-palaestinensischen-kuenstlers-sliman-mansour-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/symbole_des_widerstands_zum_tod_des_palaestinensischen_dlf_20260825_1735_66c1c8e9.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fa9819a6-fbdb-5fd3-9a10-c37edcd68b57",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Unterwegs im Omegaverse - Seifenoper mit schwangeren KI-Werwölfen",
+    "summary": "Raabe, Mathis www.deutschlandfunk.de, Corso",
+    "date": "2026-08-25T13:24:16.000Z",
+    "url": "https://www.deutschlandfunk.de/unterwegs-im-omegaverse-seifenoper-mit-schwangeren-ki-werwoelfen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/unterwegs_im_omegaverse_seifenoper_mit_schwangeren_ki_dlf_20260825_1524_5417ee8c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "10-minuten-wissen-kunst:6a8caf456d62278f83ac70c7",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -257,110 +386,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:0ec30b67-6ef9-5c27-97f8-fef7b4f9491d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zwischen Dialog und politischem Druck - Ein Museum für arabische Kunst in Israel",
-    "summary": "Poppendieck, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zwischen-dialog-und-politischem-druck-ein-museum-fuer-arabische-kunst-in-israel-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/zwischen_dialog_und_politischem_druck_ein_museum_fuer_dlf_20260823_1750_546a5b7e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ea63464b-0703-5faa-ba72-c602a6d94a9c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geteilte Verantwortung - Rafael Sanchez über seine Co-Intendanz in Zürich",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/geteilte-verantwortung-rafael-sanchez-ueber-seine-co-intendanz-in-zuerich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/geteilte_verantwortung_rafael_sanchez_ueber_seine_co_dlf_20260823_1741_59689ed5.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f7f8829d-cb14-5f0e-9ea2-67c5547b4a08",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Third Person\" - Lorna Simpson in der Punta della Dogana in Venedig",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/third-person-lorna-simpson-in-der-punta-della-dogana-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/third_person_lorna_simpson_in_der_punta_della_dogana_in_dlf_20260823_1736_8d66fd3f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:caa47df8-363c-51da-82a6-fa3a60501c63",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bildhauer als Provokateur - Erste Einzelausstellung zu Charles Ray in Kassel",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/bildhauer-als-provokateur-erste-einzelausstellung-zu-charles-ray-in-kassel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/bildhauer_als_provokateur_erste_einzelausstellung_zu_charles_dlf_20260823_1731_e8656600.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:32bdb9f0-c2b8-5b63-a564-001a9a117791",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -497,31 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/21/nach_konzert_4_jahre_haft_fuer_die_iranische_saengerin_hiwa_dlf_20260821_1506_c39bc1fb.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:caca914f-2520-5d34-b0c5-2d01c588cb28",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Teenage Sex and Death at Camp Miasma\": Ein queerer Slasher-Horror-Film",
-    "summary": "Rein, Katharina; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-08-20T13:15:12.000Z",
-    "url": "https://www.deutschlandfunk.de/teenage-sex-and-death-at-camp-miasma-ein-queerer-slasher-horror-film-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/20/teenage_sex_and_death_at_camp_miasma_ein_queerer_slasher_dlf_20260820_1515_19a36455.mp3?refId=corso-104",
-    "duration": "18 Min",
     "tags": [
       "kultur",
       "pop",

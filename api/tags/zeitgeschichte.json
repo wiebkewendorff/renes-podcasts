@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:6861507f7f85d163ec8e23a582e3b823",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "70 Jahre Bravo: Wie ein Heft Jugendkultur prägte",
+    "summary": "<p>Die Bravo gibt der Jugend Idole, Orientierung und eine eigene Identität - und verdient damit nicht nur selbst viel Geld. Am 26.8.1956 erscheint die erste Ausgabe.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Andrea Halter:</strong><br><ul><li>wie die BRAVO Jugendliche erstmals selbst darüber entscheiden lässt, welche Stars und Themen wichtig sind, </li><li>weshalb die Beatles -Tournee trotz finanzieller Probleme zum publizistischen Triumph wird, </li><li>wie Fotograf Bubi Heilemann den Look moderner Popstars mitprägt, </li><li>warum das Dr.-Sommer-Team für viele Jugendliche zum vertrauten Ansprechpartner wird, </li><li>wie die BRAVO zwischen Traumfabrik, Geschäft und Lebenshilfe balanciert.</li></ul><br>Aus der eher braven \"Zeitschrift für Film und Fernsehen\" entwickelt sich binnen weniger Jahre ein Medium, das die Wünsche einer neuen Generation erkennt und bedient. Die BRAVO begleitet das Wirtschaftswunder, den Siegeszug von Rock'n'Roll und die Entstehung einer eigenständigen Jugendkultur.<br><br>Mit Starschnitten, exklusiven Schallplattenbeilagen, großen Konzertaktionen und prominenten Gesichtern schafft die Redaktion eine eigene Erlebniswelt. Gleichzeitig zieht mit der Dr.-Sommer-Beratung eine Form der sexuellen Aufklärung in die Kinder- und Jugendzimmer ein, die für viele Familien damals ungewohnt ist. Am Ende steht die Frage, was die BRAVO für Generationen von Jugendlichen eigentlich war: Zeitschrift, Marktmacht oder Zufluchtsort auf dem Weg ins Erwachsenenleben.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Bubi Heilemann (Fotograf, \"Auge der BRAVO\") </li><li>Joey und Angelo Kelly (Musiker) </li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://www1.wdr.de/radio/wdr5/sendungen/erlebtegeschichten/goldsteinmartin102.html\" rel=\"noopener\" target=\"_blank\">Erlebte Geschichten mit \"Dr. Sommer\" Martin Goldstein</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-dr-sommer-aufklaerung-100.html\" rel=\"noopener\" target=\"_blank\">Dr. Sommer beantwortet den ersten Bravo-Brief (am 20.10.1969)</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag-billboard-erste-topten-100.html\" rel=\"noopener\" target=\"_blank\">Billboard ermittelt die erste Top Ten der Popmusik</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Andrea Halter<br>Redaktion: Carolin Rückl, Sefa Inci Suvak",
+    "date": "2026-08-26T04:00:59.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-jahre-bravo-wie-ein-heft-jugendkultur-praegte-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-bravo-zeitschrift-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/21/7c2ef1d1-edee-4a6b-9ecd-a393bb6cbf91/7c2ef1d1-edee-4a6b-9ecd-a393bb6cbf91_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:106df1848950657bac4f32a350561964",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -248,29 +271,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-als-wunderkind-vergessen-als-komponistin-verdraengt-marie-jaell-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-marie-jaell-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/12/388e8419-2916-49ce-ba19-e3b060c1fead/388e8419-2916-49ce-ba19-e3b060c1fead_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:b7898e802ab1094aaf3e913850973d9d",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Geburtsstunde der KI: Die Dartmouth-Konferenz",
-    "summary": "<p>Im Sommer 1956 treffen sich 20 Wissenschaftler auf dem Campus des Dartmouth College in den USA. Mit ihren Diskussionen legen sie den Grundstein für künstliche Intelligenz.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christoph Tiemann:</strong><br><ul><li>ob moderne KI-Systeme tatsächlich intelligent sind, </li><li>über Alan Turings berühmte Frage: \"Können Maschinen denken?\", </li><li>wie Künstliche Intelligenz 70 Jahre nach Dartmouth die Welt auf den Kopf stellt.</li></ul><br>\"Wir wollen herausfinden, wie Maschinen Probleme angehen können, deren Lösung zurzeit dem Menschen vorbehalten ist\", formuliert Mathematiker und Mitinitiator John McCarthy das Ziel der Dartmouth-Konferenz.<br><br>Zwei Monate lang diskutieren und analysieren Mathematiker, Ökonomen, Informatiker und Psychologen, wie das menschliche Gehirn Informationen verarbeitet - und ob sich diese Prozesse auf Maschinen übertragen lassen. Ihre Vision geht noch weiter: Können Maschinen sich auch selbst optimieren?<br><br>Ergebnisse gibt es keine, aber die Dartmouth-Konferenz gilt heute als Geburtsstunde der \"Künstlichen Intelligenz\". Seither arbeiten Wissenschaftler der verschiedensten Disziplinen an der Entwicklung intelligenter Maschinen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Prof. Alke Martens (Lehrstuhl für Praktische Informatik und Didaktik der Informatik an der Universität Rostock)</li><li>Prof. Benjamin Risse (Praktische Informatik Universität Münster)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/technik/computer_und_roboter/geschichte_des_computers/index.html\" rel=\"noopener\" target=\"_blank\">Geschichte des Computers</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag1096.html\" rel=\"noopener\" target=\"_blank\">Computererfinder Konrad Zuse stirbt </a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-alan-turing-100.html\" rel=\"noopener\" target=\"_blank\">Mathematiker Alan Turing wird geboren</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christoph Tiemann<br>Redaktion: Jakob Schiffer und Matti Hesse<br>Technik: Alexander Buske",
-    "date": "2026-08-16T04:00:21.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-geburtsstunde-der-ki-die-dartmouth-konferenz-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-dartmourth-ki-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/31/bd72c61e-5f06-40f8-8f2d-f25067e19fe1/bd72c61e-5f06-40f8-8f2d-f25067e19fe1_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

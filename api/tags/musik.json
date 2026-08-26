@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-06077185865583801",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Im Talk und auf der Bühne mit seiner Band \"The KBCS\": Musiker Thomas D",
+    "summary": "Als Mitglied der Fantastischen Vier hat Thomas D die Geschichte des deutschen Hip-Hops entscheidend mitgeprägt. Seit mehr als drei Jahrzehnten steht die Gruppe erfolgreich auf der Bühne, nun macht sie sich unter dem Titel \"Der letzte Bus\" auf zur Abschiedstournee. Wie es ihm damit geht, wenn nun bald die Bühnenscheinwerfer verloschen sind, wird der Musiker auf dem Roten Sofa erzählen. Aber wird auch mit seiner anderen Band \"The KBCS\" im Studio auftreten, sie spielen ein Lied aus ihrem Album \"Neocortex\".",
+    "date": "2026-08-24T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/im-talk-und-auf-der-buehne-mit-seiner-band-the-kbcs-musiker-thomas-d,audio-3437366.html",
+    "image": "https://images.ndr.de/image/39acd61d-e1d9-4a64-94f4-5fce15401c7d/AAABoDTb294/AAABnSStX0g/1x1-big/screenshot-216436.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0825/AU-20260825-1008-1700.mp3",
+    "duration": "35 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-24698822111573882",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/f7c1396b-361e-4231-9633-ab578021780b/AAABoBYkWFE/AAABnSStX0g/1x1-big/screenshot-214008.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0819/AU-20260819-0907-3100.mp3",
     "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7319859172398805",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Extremsportler und Jugendbetreuer Emin da Silva im Talk mit Hinnerk Baumgarten",
-    "summary": "Im Alter von 17 Jahren floh Emin da Silva mutterseelenallein vor Krieg und Perspektivlosigkeit aus der Türkei nach Deutschland. Zehn Jahre lang lebte er in der Unsicherheit eines Asylverfahrens, doch er gab niemals auf. Was ihm Kraft verlieh, war der Sport. Mit der Anerkennung seines Antrages beschloss er, andere Menschen für Bewegung zu begeistern und lief in zehn Tagen zehn Marathons von Hamburg nach Berlin. Daraus erwuchs eine Lebensaufgabe: Mit spektakulären Läufen, die ihn über Tausende Kilometer, durch Wüsten und sogar rückwärts über Marathonstrecken führten, Menschen verbinden, Brücken bauen und Hoffnung schenken. Dies versucht er auch in seinem Beruf als Jugendbetreuer in einem Bremer Wohnheim für minderjährige und unbegleitete Flüchtlinge.",
-    "date": "2026-08-17T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/extremsportler-und-jugendbetreuer-emin-da-silva-im-talk-mit-hinnerk-baumgarten,audio-3423686.html",
-    "image": "https://images.ndr.de/image/c0d00b5e-80b9-4113-be03-de8eed5dda3d/AAABoBD6Zw8/AAABnSStX0g/1x1-big/screenshot-213204.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0818/AU-20260818-0849-2700.mp3",
-    "duration": "40 Min",
     "tags": [
       "beatles",
       "popgeschichte",
