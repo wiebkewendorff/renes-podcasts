@@ -1,5 +1,53 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4042368",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Können Magnetfelder unheilbare Nervenleiden lindern?",
+    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem Helmholtz-Zentrum Dresden-Rossendorf\nDie unsichtbare Kraft der Magnetfelder\n\nAmyotrophe Lateralsklerose (ALS) ist eine unheilbare Nervenkrankheit, bei der sogenannte Motoneuronen degenerieren und so Muskeln abgebaut werden. Doch Hilfe könnte nun aus einer unerwarteten Richtung kommen: der Physik. Ein Forschungsteam unter Leitung des Physikers Dr. Thomas Herrmannsdörfer am Helmholtz-Zentrum Dresden-Rossendorf (HZDR) setzt dafür auf kurze Stromstöße. Diese jagen durch Spulen und erzeugen präzise gepulste Magnetfelder, um geschädigte Nervenzellen zu reaktivieren. Im ersten Moment erscheint das paradox, da der menschliche Körper eigentlich unmagnetisch ist. Aber funktionale Zellbestandteile haben Eigenschaften, an denen die Magnetpulse ansetzen können.\nWöchentliche Therapiesitzung\n<p>In Zellversuchen im Labor gelang es dem Team bereits, geschädigte menschliche Motoneuronen mit diesen Magneten erfolgreich zu regenerieren. Nach einer rund zweistündigen Magnetfeldbehandlung reaktivierten sich blockierte Prozesse wie der lebenswichtige Mitochondrientransport oder die zelluläre DNA-Reparatur.</p>\n<p>Dieser regenerative Effekt trat nach bis zu zwei Tagen auf und hielt im Labor rund acht Tage an. Das könnte eine wöchentliche Therapiesitzung für Patientinnen und Patienten ermöglichen.</p>\nHoffnung für Millionen Betroffene\n<p>Die Methode soll in den kommenden Jahren zu einem Prototyp für die menschliche Therapie weiterentwickelt werden, um das Leben der Betroffenen zu retten oder deren Lebensqualität maßgeblich zu verbessern. Zudem hoffen die Forschenden auf eine direkte Übertragbarkeit der Anwendung von gepulsten Magnetfeldern auf andere weitverbreitete neurodegenerative Erkrankungen wie Parkinson, Alzheimer oder die durch Chemotherapie induzierte Polyneuropathie. Bis zur tatsächlichen klinischen Anwendung am Menschen muss dieses interdisziplinäre Dresdner Team aus Physik, Medizin, Biologie und Biotechnologie jedoch noch strenge regulatorische Hürden meistern.</p>",
+    "date": "2026-08-27T03:00:28.000Z",
+    "url": "https://feedpress.me/link/19604/17432663/forschungsquartett-als-behandlung-mit-magnetfeldern",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260714gepluste-magnetfelder-als.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260714gepluste-magnetfelder-als.63.mp3",
+    "duration": "20 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4042475",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Hermann Weyl und sein Fehler, der zur Quantenphysik führte",
+    "summary": "<p>Es ist Hermann Weyls großes Glück, in einer Zeit zu forschen, in der Albert Einstein, Erwin Schrödinger, Werner Heisenberg und Co. seine Kollegen sind. Zwischen den großen Köpfen der 1920er und 1930er entsteht ein reger Austausch, mit Einstein und Schrödinger verbringt Weyl viel Zeit in Zürich.</p>\nVom Studenten zum Kollegen auf Augenhöhe\n<p>Hermann Weyls mathematisches Talent wird von seinem Vater wohl schon früh entdeckt. Seinen ersten richtigen Förderer hat Weyl dann aber zu Abiturzeiten: durch Kontakte seines Direktors kommt Weyl, der übrigens von seinen Freunden nur Peter genannt wird, obwohl er gar nicht heißt, schließlich zum Studium nach Göttingen. Die Universität in Niedersachsen gilt zur damaligen Zeit als absolutes Zentrum der naturwissenschaftlichen Elite.</p>\n<p>Weyl ist schnell von seinem späteren Doktorvater und schließlich auch Kollegen David Hilbert angetan. Er verschlingt alles, was sein Dozent veröffentlicht – auch, wenn er längst nicht alles versteht. In nur wenigen Jahren wird aus dem Studenten Hermann Weyl ein anerkannter Wissenschaftler, erst in Göttingen, dann in Zürich, zuletzt auch in Princeton.</p>\n<p>Heute sind vor allem zwei Stärken Weyls in besonderer in Erinnerung geblieben. Zum einen die Fähigkeit, Brücken zwischen den unterschiedlichen Wissenschaften zu schlagen. Mit Leichtigkeit gelingt es ihm, sich in die Mathematik hineinzudenken, aber auch in die Physik oder Philosophie. Weyl gilt heute als einer der letzten Universalgelehrten der Moderne. Zum anderen die Fähigkeit, seine Anerkennung und Würdigung seiner Kollegen und Kolleginnen auszudrücken, findet <strong>Demian Nahuel Goos</strong>. Mit ihm und <strong>Manon Bischoff</strong> von <em>Spektrum der Wissenschaft</em> spricht <em>detektor.fm</em>-Redakteurin Rabea Schloz über Hermann Weyls großes Talent, seinen größten Denkfehler – und warum der auch sein vielleicht größter Durchbruch sein könnte.</p>",
+    "date": "2026-08-26T03:57:59.000Z",
+    "url": "https://feedpress.me/link/19604/17430203/geschichten-aus-der-mathematik-hermann-weyl",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260825-gadm-hermannweyl.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260825-gadm-hermannweyl.63.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4023661",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -179,54 +227,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260816achmenschmunaaikins.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260816achmenschmunaaikins.63.mp3",
     "duration": "34 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4010746",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interrail: Mit einem Ticket durch Europa",
-    "summary": "Interrail verbindet Europa seit mehr als 50 Jahren\n\nMit einem Ticket durch ganz Europa reisen — das geht dank Interrail seit mehr als 50 Jahren. Das Ticket, das es 1972 Jugendlichen ermöglichte, Europa kennenzulernen, sollte ursprünglich nur neun Monate lang angeboten werden. Heute ist es seit mehr als 50 Jahren am Markt und immer noch beliebt: Im Jahr der Einführung nutzten rund 87.000 Menschen die Möglichkeit, mit dem Zug durch Europa zu reisen. Mittlerweile sind es mehr als 600.000 verkaufte Tickets pro Jahr. Ursprünglich auf junge Menschen begrenzt, steht die Buchung heute allen offen.\n\nMit dem Zug durch Europa: Community ist dabei\nAnna und Yannik sind als „Grün um die Welt“ auf  Social Media bekannt. Sie teilen seit drei Jahren Eindrücke ihrer Zugreisen durch Europa. Das Interrail-Ticket haben sie das erste Mal vor einem Jahr gekauft und sind damit durch verschiedene Länder gereist. Ob sich das Ticket lohnt, hänge von verschiedenen Faktoren ab. Nicht zuletzt auch vom Preisniveau der Tickets im Reiseland. Denn das Interrail-Ticket für eine erwachsene Person für vier Reisetage kostet 283 Euro. Das ist im Verhältnis zu Fahrpreisen in Deutschland nicht viel, aber im Baltikum sah das anders aus, berichtet das Paar:\n\n„Im Baltikum kosten die Tickets einfach so wenig, dass sich da ein Interrail-Ticket gar nicht lohnt. Aber auf der gleichen Reise sind wir dann zum Beispiel auch in Finnland mit dem Nachtzug gefahren, bis hoch nach Finnisch-Lappland. Und da konnten wir mit dem Interrail-Ticket sehr viel Geld sparen.“\n\nWelche Reiseländer Anna und Yannik sonst mit dem Interrail-Ticket empfehlen würden und welche Fallstricke es bei der Buchung gibt, darüber sprechen <em>detektor.fm</em>-Redakteurin Marisa Becker und Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“.",
-    "date": "2026-08-18T03:30:26.000Z",
-    "url": "https://feedpress.me/link/19604/17422029/mission-energiewende-interrail",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260731meinterrail.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260731meinterrail.63.mp3",
-    "duration": "21 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4030882",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Körperscham als Geschäftsmodell",
-    "summary": "<strong>Ist Schönheit politisch, Elisabeth Lechner?</strong>\n<p>Wer schön ist, gilt schnell als diszipliniert, erfolgreich, begehrenswert und gesund. Wer nicht in dieses Bild passt, erlebt oft das Gegenteil: Ausgrenzung, Beschämung, Abwertung. Schönheit ist deshalb viel mehr als Geschmackssache. Sie entscheidet mit darüber, wer gesehen wird, wer dazugehört — und wer sich lieber zurückzieht.</p>\n<p>   </p>\n<p>Das sagt <strong>Elisabeth Lechner. </strong>Die Literatur- und Kulturwissenschaftlerin und Autorin hat 2020 an der Universität Wien zu weiblichen Körpern, Popfeminismus und digitalen Aktivismen promoviert. Sie lehrt und forscht an der Schnittstelle von Literatur- und Kulturwissenschaft, Popkulturstudien, feministischer Medienwissenschaft, Affect, Gender & Body Studies.</p>\n<strong>Warum Körperscham auch ein Geschäftsmodell ist</strong>\n<p>Schönheitsideale entstehen nicht zufällig. Sie werden geprägt, verkauft, gefiltert, algorithmisch verstärkt — und sie sind hochprofitabel. Wer sich falsch, zu dick, zu alt, zu behaart, zu sichtbar oder nicht sichtbar genug fühlt, wird leichter zur Kundin oder zum Kunden eines Marktes, der ständig neue Mängel benennt und neue Lösungen verkauft.</p>\n<p>Im Gespräch geht es deshalb auch darum, warum Schönheit ein Problem für Teilhabe und Demokratie werden kann: Wenn Menschen dauerhaft das Gefühl bekommen, mit ihrem Körper nicht zu genügen, ziehen sie sich aus sozialen Räumen zurück. In einer Zeit mehrfacher Krisen ist das ein Verlust, den sich Gesellschaften eigentlich nicht leisten können. Warum wir gerade einen Return of Skinny und Size Zero und weniger Diversität auf den Laufstegen und in der Popkultur erleben, darüber spricht Elisabeth Lechner in dieser neuen Folge des „brand eins Podcasts“ mit <em>detektor.fm-</em>Moderator <strong>Christian Bollert</strong>.</p>",
-    "date": "2026-08-14T03:30:46.000Z",
-    "url": "https://feedpress.me/link/19604/17418038/brand-eins-podcast-elisabeth-lechner-schoenheit",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260815brandeinspodcastelisabethlechner.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260815brandeinspodcastelisabethlechner.63.mp3",
-    "duration": "29 Min",
     "tags": [
       "wissenschaft",
       "forschung",

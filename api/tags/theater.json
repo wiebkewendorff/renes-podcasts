@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:31abcb83-24ba-5edc-b981-7f67621e8f02",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 26.08.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:56:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/kulturmeldungen_26082026_dlf_20260826_1756_b1f36e80.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:21475e6e-c79b-5927-bb3b-93236327d2f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Tod des Zeichners, Karikaturisten und Kinderbuchautors Hans Traxler",
+    "summary": "Wegmann, Ute www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zum-tod-des-zeichners-karikaturisten-und-kinderbuchautors-hans-traxler-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/zum_tod_des_zeichners_karikaturisten_und_kinderbuchautors_dlf_20260826_1751_9ef0d7de.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7942f272-51ca-55a7-8620-79cce27fb76c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Beziehungsweise\" - Ein Literaturfestival in Berlin",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:45:45.000Z",
+    "url": "https://www.deutschlandfunk.de/beziehungsweise-ein-literaturfestival-in-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/beziehungsweise_ein_literaturfestival_in_berlin_dlf_20260826_1745_1feeeb75.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e3da6f8e-100c-53d1-9623-7cc8e87777f9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kostbare Objekte aus Gips - Blick in die Restauratoren-Werkstatt der SKD Dresden",
+    "summary": "Gerlach, Alexandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:40:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kostbare-objekte-aus-gips-blick-in-die-restauratoren-werkstatt-der-skd-dresden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/kostbare_objekte_aus_gips_blick_in_die_restauratoren_dlf_20260826_1740_c6e88d82.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:428ad656-443b-5172-bc2a-b2531bac3efe",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Chronist der Gewalt - Trauer um den ungarischen Schriftsteller Péter Nádas",
+    "summary": "Wenzel, Tobias www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:35:32.000Z",
+    "url": "https://www.deutschlandfunk.de/chronist-der-gewalt-trauer-um-den-ungarischen-schriftsteller-p-ter-n-das-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/chronist_der_gewalt_trauer_um_den_ungarischen_schriftsteller_dlf_20260826_1735_31e43c91.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:ee3b1195-3622-5c29-b7a3-5087f596f537",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/kulturmeldungen_24082026_dlf_20260824_1756_26a17711.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f1729905-6930-5bef-803f-f952dcab25df",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ein Theater zieht um - Das Schauspiel Köln kehrt ins Herz der Stadt zurück",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-24T15:51:40.000Z",
-    "url": "https://www.deutschlandfunk.de/ein-theater-zieht-um-das-schauspiel-koeln-kehrt-ins-herz-der-stadt-zurueck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/ein_theater_zieht_um_das_schauspiel_koeln_kehrt_ins_herz_der_dlf_20260824_1751_f09f11a1.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:18f321b7-0d7f-5ee1-8345-a9805deec925",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Strange Rules\" - Ausstellung zu Protocol Art KI im Palazzo Diedo in Venedig",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-24T15:46:50.000Z",
-    "url": "https://www.deutschlandfunk.de/strange-rules-ausstellung-zu-protocol-art-ki-im-palazzo-diedo-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/strange_rules_ausstellung_zu_protocol_art_ki_im_palazzo_dlf_20260824_1746_919c61ff.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3d0cf14f-d20a-5463-9030-ea7cbcbb2956",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Unternehmer und Kulturmäzen - Zum Tod von Klaus-Michael Kühne",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-24T15:41:40.000Z",
-    "url": "https://www.deutschlandfunk.de/unternehmer-und-kulturmaezen-zum-tod-von-klaus-michael-kuehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/unternehmer_und_kulturmaezen_zum_tod_von_klaus_michael_dlf_20260824_1741_aa997c73.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:46d531d0-5401-5137-af6a-960dc59f2fe9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Germanist und Autor Jurko Prochasko zum Unabhängigkeitstag der Ukraine",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-24T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/germanist-und-autor-jurko-prochasko-zum-unabhaengigkeitstag-der-ukraine-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/germanist_und_autor_jurko_prochasko_zum_unabhaengigkeitstag_dlf_20260824_1735_21964612.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ae345db4-947e-5b31-a6b5-888eb7211c31",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 23.08.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:55:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/kulturmeldungen_23082026_dlf_20260823_1755_f26c8e4b.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "theater",
