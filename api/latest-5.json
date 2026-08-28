@@ -26,22 +26,23 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:e8dc90c4-e1ac-5f07-94f9-16712925f788",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
+    "id": "dlf-kultur-heute:4228a6c4-ce39-510b-9f0d-ece51f4c62bb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Warum ist die Politik nicht auf Twitch? Charlotte Lohmann im Gespräch",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:10:09.000Z",
-    "url": "https://www.deutschlandfunk.de/warum-ist-die-politik-nicht-auf-twitch-charlotte-lohmann-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/warum_ist_die_politik_nicht_auf_twitch_charlotte_lohmann_im_dlf_20260827_1510_188d61f9.mp3?refId=corso-104",
-    "duration": "6 Min",
+    "title": "Kulturmeldungen 28.08.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-28T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-28-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/kulturmeldungen_28082026_dlf_20260828_1756_da2a1e4f.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
     "tags": [
       "kultur",
-      "pop",
+      "theater",
       "kunst",
-      "gesellschaft",
+      "film",
+      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
@@ -51,22 +52,49 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:f5dbeb5a-99f9-514c-ac40-fe39ded826d7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
+    "id": "dlf-kultur-heute:84f12464-0a3b-5baf-bdf4-33f7e2dac82f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Dr. Frank-N-Furter - Nachruf auf Schauspieler und Sänger Tim Curry",
-    "summary": "Rähling, Lisa-Maria www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:09:46.000Z",
-    "url": "https://www.deutschlandfunk.de/dr-frank-n-furter-nachruf-auf-schauspieler-und-saenger-tim-curry-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/dr_frank_n_furter_nachruf_auf_schauspieler_und_saenger_tim_dlf_20260827_1509_108e5435.mp3?refId=corso-104",
+    "title": "Kunstraub in Ostspanien - Historischer Goldschatz aus Museum gestohlen",
+    "summary": "Buschschlüter, Nicholas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-28T15:53:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kunstraub-in-ostspanien-historischer-goldschatz-aus-museum-gestohlen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/kunstraub_in_ostspanien_historischer_goldschatz_aus_museum_dlf_20260828_1753_f22e4239.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ca0ae714-112d-5c0a-859c-058452018936",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Erste umfassende Ausstellung über den Architekten Josef Kaiser in Berlin",
+    "summary": "Wheeler, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-28T15:48:00.000Z",
+    "url": "https://www.deutschlandfunk.de/erste-umfassende-ausstellung-ueber-den-architekten-josef-kaiser-in-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/erste_umfassende_ausstellung_ueber_den_architekten_josef_dlf_20260828_1748_352d19f4.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
-      "pop",
+      "theater",
       "kunst",
-      "gesellschaft",
+      "film",
+      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
@@ -76,54 +104,28 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:154c6708-3d68-589c-9565-d69079d87422",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
+    "id": "dlf-kultur-heute:cb2370aa-3700-58c5-84bc-a76ccbe38e4b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Rassismus - Regisseur Faraz Shariat über den Film \"Staatsschutz\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/rassismus-regisseur-faraz-shariat-ueber-den-film-staatsschutz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/rassismus_regisseur_faraz_shariat_ueber_den_film_dlf_20260827_1506_99a772ea.mp3?refId=corso-104",
-    "duration": "12 Min",
+    "title": "Raja, Pärt, Tsinikoris - Verleihung der Goethe-Medaillen in Weimar",
+    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-28T15:43:00.000Z",
+    "url": "https://www.deutschlandfunk.de/raja-paert-tsinikoris-verleihung-der-goethe-medaillen-in-weimar-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/raja_paert_tsinikoris_verleihung_der_goethe_medaillen_in_dlf_20260828_1743_b62c3fc9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
     "tags": [
       "kultur",
-      "pop",
+      "theater",
       "kunst",
-      "gesellschaft",
+      "film",
+      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:9cd5ca1b-9e3b-5a35-9131-c454f4e2e0f6",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geografie - Die Macht der Meerengen",
-    "summary": "Im Abwehrkampf gegen die USA und Israel hat der Iran ein Faustpfand: die Straße von Hormus, eine Meerenge vor der eigenen Haustür. Das hätte man wissen können. Und ein Blick in die Geschichte zeigt, dass Geografie kriegsentscheidend sein kann.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:02) Geografie als Machtfaktor<br>(03:15) Antike Kämpfe am „Hellespont“<br>(10:30) Parallelen zwischen historischen und aktuellen Konflikten<br>(12:10) Der persische König Xerxes scheiterte am Hellespont<br>(18:20) Alexander der Große und Lord Byron am Hellespont<br>(22:30) Die Straße von Malakka - früher und heute bedeutend<br>(28:50) Die Rolle der Handelskompanien<br>(38:00) Die Freiheit der Meere und das Völkerrecht<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Pascal Warnking </strong>ist Professor für maritime Antike an der Universität Trier, er forscht unter anderem zu antiken Ökonomien und Seehandel. </li></ul><br><ul><li><strong>Jürgen Nagel </strong>ist Professor für die Geschichte Europas in der Welt an der Fernuniversität Hagen, die maritime Geschichte Südostasiens gehört zu seinen Spezialgebieten.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Matthieu Praun und Robert Hauspurg<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/iran-diktatur-proteste-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über den Iran</li><li><a href=\"https://www.deutschlandfunk.de/irankrieg-regimechange-geschichte-scheitern-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über Regimewechsel</li><li><a href=\"https://www.deutschlandfunk.de/geschichte-der-hisbollah-irans-faust-an-israels-grenze-dlf-035a71b6-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über die Hisbollah</li></ul><br><strong>Weiterführende Links und Literatur: </strong><br><br><ul><li><a href=\"https://schiffsradar24.de/strasse-von-hormus/\" rel=\"noopener\" target=\"_blank\">Aktuelle Informationen </a>zur Straße von Hormus</li><li>Tim Marshall: Die Macht der Geografie. Wie sich Weltpolitik anhand von 10 Karten erklären lässt. (dtv, Neuausgabe 2025)</li></ul><br><strong>\"Der Rest ist Geschichte\" geht auf Tour: </strong><br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a>. Mit Volker Depkat, jeden Samstag eine neue Folge<br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-27T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/irankrieg-geografie-meerengen-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/21/34/37/e2/213437e2-5bf0-4213-bf63-7b9f6b46f115/strasse-hormus-104-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/geografie_die_macht_der_meerengen_dlf_20260827_1300_9689a856.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "45 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
     ],
     "language": "de"
   }
