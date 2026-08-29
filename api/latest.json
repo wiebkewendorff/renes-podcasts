@@ -26,6 +26,56 @@
     "language": "de"
   },
   {
+    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-03-26-zeitzeugen-im-gespraech-der-fotograf-thomas-struth-dlf-20260326-1915-3ef53cbd-mp3-refid-zeitzeugen-im-gespraech-102",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fotograf Thomas Struth - \"Ich empfinde mich nicht als Chronist\"",
+    "summary": "Seit mehr als 40 Jahren dokumentiert Fotograf Thomas Struth die Welt - von Straßenzügen, Architektur bis zu Familienporträts. Besonders interessiert ihn das Verhältnis zwischen Individuum, Gesellschaft und dem Unbewussten. (Erstsendung am 28.3.26) Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-08-29T09:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-fotograf-thomas-struth-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_0/5a/FILE_05a0ba12a187a952b23a1f5a07672ef2/zeitzeugen-im-gespraech-108-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/03/26/zeitzeugen_im_gespraech_der_fotograf_thomas_struth_dlf_20260326_1915_3ef53cbd.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:51ec82a0816dcc42f78de79bdecbd13b",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Der erste Rockstar ist ein Country-Musiker: Hank Williams",
+    "summary": "<p>Mit \"Hey, good lookin'\" erobert Hank Williams am 29.8.1951 die Spitze der Country-Charts. Der Song macht ihn zum Super-Star. Zwei Jahre vor seinem tragisch frühen Tod.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christopher Heimer:</strong><br><ul><li>wie ein Straßenmusiker namens Rufus Payne den jungen Hank Williams musikalisch prägt,</li><li>warum er Themen wie Herzschmerz, Schuld und Scheitern in den Country bringt,</li><li>wie seine einfachen Drei-Akkord-Songs Generationen von Rockmusikern beeinflussen,</li><li>wie viele Coverversionen es von \"Hey, Good Lookin'\" gibt,</li><li>weshalb sein Tod auf dem Rücksitz eines Cadillac den Mythos Hank Williams bis heute verstärkt.</li></ul><br>Der erste Rockstar der Musikgeschichte trägt weder Lederjacke noch Sonnenbrille – er ist ein dürrer Schlaks mit Cowboyhut und weißen Maßanzügen. Hank Williams wird nur 29 Jahre alt, doch er beeinflusst mit seinem Country auf der Akustikgitarre Musiker von Elvis Presley bis Bruce Springsteen. Für Bob Dylan hat er die \"Regeln des poetischen Songwritings\" verfasst.<br><br>Als \"Hey, Good Lookin'\" die Spitze der Billboard-Country-Charts erreicht, steht Hank Williams auf dem Höhepunkt seiner Karriere. Doch hinter dem Erfolg stehen gesundheitliche Probleme, Alkoholmissbrauch und ein Leben unter Dauerstress. Als der Musiker an Neujahr 1953 stirbt, beginnt die Legendenbildung um sein Leben.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Stefan Kleinkrieg (Musiker, Gründungsmitglied von Extrabreit)</li><li>Colin Escott: I Saw The Light. The Story of Hank Williams. London 2015</li><li>Mark Ribowsky: Hank. New York 2017 </li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>ARD Sounds: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:a5a59ef2d2eb591a/\" rel=\"noopener\" target=\"_blank\">Southern Discomfort in Hank Williams' Country - Südstaaten-Blues</a></li><li>WDR3: <a href=\"https://www1.wdr.de/radio/wdr3/programm/sendungen/wdr3-persoenlich-alsmann/persoenlich-alsmann-1192.html\" rel=\"noopener\" target=\"_blank\">Götz Alsmann zu Hank Williams und anderen</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christopher Heimer<br>Redaktion: Christoph Tiegel und Matti Hesse",
+    "date": "2026-08-29T04:00:48.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-erste-rockstar-war-ein-country-musiker-hank-williams-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-hank-williams-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/17/ac0df7e7-e631-4082-b108-2d8374021ed5/ac0df7e7-e631-4082-b108-2d8374021ed5_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:4228a6c4-ce39-510b-9f0d-ece51f4c62bb",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -202,59 +252,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:39ee0698-597d-5496-a79b-3c5970c26023",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verspricht sensationellen Detailreichtum - Neuer Trailer zu GTA 6 erschienen",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-28T13:07:03.000Z",
-    "url": "https://www.deutschlandfunk.de/verspricht-sensationellen-detailreichtum-neuer-trailer-zu-gta-6-erschienen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/verspricht_sensationellen_detailreichtum_neuer_trailer_zu_dlf_20260828_1507_947b693f.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:21cc19c1-6006-5a17-aae7-7488ee3c290c",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 93 - Zurück beim Kaiser von China",
-    "summary": "Der Kaiser von China findet: die Geschichten des Schneiders von dem neugierigen Friseur und dem betrunkenen Buckligen sind das Beste, was er je gehört hat. Er lässt den steinalt gewordenen Friseur aus dem Gefängnis holen. Der plappert gleich los.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte. <br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>In dieser Folge tauchen einmal mehr ein Muslim, ein Jude und ein Christ auf. <a href=\"https://www.deutschlandfunkkultur.de/wie-erzaehlt-man-geschichten-als-hoertheater-die-neue-staffel-von-1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">Über die Darstellung verschiedener Religionen in 1001 Nacht hat die Dramaturgin Julia Tieke Auskunft gegeben</a></li><li>Schahrasad ist wieder dort angekommen, wo sie vor vielen Nächten die Geschichte des Buckligen im Kaiserreich von China begonnen hatte… <a href=\"https://www.deutschlandfunk.de/nacht-60-ein-betrunkener-buckliger-100.html\" rel=\"noopener\" target=\"_blank\">hier könnt ihr ein zweites Mal von vorne einsteigen, in der 60. Nacht</a></li><li><a href=\"https://www.deutschlandfunkkultur.de/genisa-heilige-schriften-judentum-100.html\" rel=\"noopener\" target=\"_blank\">Die Geschichten von 1001 Nacht wurden auch auf Jiddisch tradiert – wie ein Fund im Eifelort Niederzissen zeigt</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-28T06:08:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-93-zurueck-beim-kaiser-von-china-lv-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ec/25/db/df/ec25dbdf-8a66-46c4-a737-a76e06fc2e1c/1001-nacht-33-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/nacht_93_zurueck_beim_kaiser_von_china_lv_dlf_20260828_0808_9f3baca7.mp3?refId=1001-nacht-100",
-    "duration": "6 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
     ],
     "language": "de"
   }

@@ -1,5 +1,32 @@
 [
   {
+    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-03-26-zeitzeugen-im-gespraech-der-fotograf-thomas-struth-dlf-20260326-1915-3ef53cbd-mp3-refid-zeitzeugen-im-gespraech-102",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fotograf Thomas Struth - \"Ich empfinde mich nicht als Chronist\"",
+    "summary": "Seit mehr als 40 Jahren dokumentiert Fotograf Thomas Struth die Welt - von Straßenzügen, Architektur bis zu Familienporträts. Besonders interessiert ihn das Verhältnis zwischen Individuum, Gesellschaft und dem Unbewussten. (Erstsendung am 28.3.26) Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-08-29T09:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-fotograf-thomas-struth-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_0/5a/FILE_05a0ba12a187a952b23a1f5a07672ef2/zeitzeugen-im-gespraech-108-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/03/26/zeitzeugen_im_gespraech_der_fotograf_thomas_struth_dlf_20260326_1915_3ef53cbd.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-01-29-zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-dlf-20260129-1915-5f1a0c37-mp3-refid-zeitzeugen-im-gespraech-102",
     "source": "dlf-zeitzeugen-im-gespraech",
     "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
@@ -91,60 +118,6 @@
     "url": "https://www.deutschlandfunk.de/dorothee-holz-im-gespraech-mit-dem-ehem-ministerpraes-des-saarlands-peter-mueller-100.html",
     "image": "https://bilder.deutschlandfunk.de/d2/3b/97/07/d23b9707-5f75-410f-b2cb-f4b5a1ec0d56/peter-mueller-cdu-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2025/11/27/dorothee_holz_im_gespraech_mit_dem_ehem_ministerpraes_des_dlf_20251127_1915_30755871.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-03-26-zeitzeugen-im-gespraech-der-fotograf-thomas-struth-dlf-20260326-1915-3ef53cbd-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fotograf Thomas Struth - \"Ich empfinde mich nicht als Chronist\"",
-    "summary": "Seit mehr als 40 Jahren dokumentiert der Fotograf Thomas Struth die Welt um sich - von Straßenzügen, Architektur bis zu Familienporträts. Bei seiner Motivwahl interessiert ihn das Verhältnis zwischen Individuum, Gesellschaft und dem Unbewussten. (Erstsendung am 28.3.26) Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-03-26T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-fotograf-thomas-struth-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_0/5a/FILE_05a0ba12a187a952b23a1f5a07672ef2/zeitzeugen-im-gespraech-108-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/03/26/zeitzeugen_im_gespraech_der_fotograf_thomas_struth_dlf_20260326_1915_3ef53cbd.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-02-26-zeitzeugen-im-gespraech-die-ehem-oesterr-aussenministerin-dlf-20260226-1915-9d97f9bf-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Benita Ferrero-Waldner - \"Ich hatte Angst, dass die Österreicher das nicht hinnehmen\"",
-    "summary": "Benita Ferrero-Waldner war Außenministerin in schwierigen Zeiten: Als ihre ÖVP 2000 eine Koalition mit der rechtspopulistischen FPÖ einging, ging die EU auf Distanz zum Mitgliedstaat Österreich - harte Lehrjahre für die leidenschaftliche Diplomatin. Michaelsen, Katrin www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-02-26T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-die-ehem-oesterr-aussenministerin-benita-ferrero-waldner-100.html",
-    "image": "https://bilder.deutschlandfunk.de/f2/b2/8c/36/f2b28c36-4918-43f6-89dd-68a008348df2/benita-ferrero-waldner-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/02/26/zeitzeugen_im_gespraech_die_ehem_oesterr_aussenministerin_dlf_20260226_1915_9d97f9bf.mp3?refId=zeitzeugen-im-gespraech-102",
     "duration": "55 Min",
     "tags": [
       "zeitzeugen",

@@ -26,6 +26,56 @@
     "language": "de"
   },
   {
+    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-03-26-zeitzeugen-im-gespraech-der-fotograf-thomas-struth-dlf-20260326-1915-3ef53cbd-mp3-refid-zeitzeugen-im-gespraech-102",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fotograf Thomas Struth - \"Ich empfinde mich nicht als Chronist\"",
+    "summary": "Seit mehr als 40 Jahren dokumentiert Fotograf Thomas Struth die Welt - von Straßenzügen, Architektur bis zu Familienporträts. Besonders interessiert ihn das Verhältnis zwischen Individuum, Gesellschaft und dem Unbewussten. (Erstsendung am 28.3.26) Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-08-29T09:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-fotograf-thomas-struth-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_0/5a/FILE_05a0ba12a187a952b23a1f5a07672ef2/zeitzeugen-im-gespraech-108-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/03/26/zeitzeugen_im_gespraech_der_fotograf_thomas_struth_dlf_20260326_1915_3ef53cbd.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:51ec82a0816dcc42f78de79bdecbd13b",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Der erste Rockstar ist ein Country-Musiker: Hank Williams",
+    "summary": "<p>Mit \"Hey, good lookin'\" erobert Hank Williams am 29.8.1951 die Spitze der Country-Charts. Der Song macht ihn zum Super-Star. Zwei Jahre vor seinem tragisch frühen Tod.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christopher Heimer:</strong><br><ul><li>wie ein Straßenmusiker namens Rufus Payne den jungen Hank Williams musikalisch prägt,</li><li>warum er Themen wie Herzschmerz, Schuld und Scheitern in den Country bringt,</li><li>wie seine einfachen Drei-Akkord-Songs Generationen von Rockmusikern beeinflussen,</li><li>wie viele Coverversionen es von \"Hey, Good Lookin'\" gibt,</li><li>weshalb sein Tod auf dem Rücksitz eines Cadillac den Mythos Hank Williams bis heute verstärkt.</li></ul><br>Der erste Rockstar der Musikgeschichte trägt weder Lederjacke noch Sonnenbrille – er ist ein dürrer Schlaks mit Cowboyhut und weißen Maßanzügen. Hank Williams wird nur 29 Jahre alt, doch er beeinflusst mit seinem Country auf der Akustikgitarre Musiker von Elvis Presley bis Bruce Springsteen. Für Bob Dylan hat er die \"Regeln des poetischen Songwritings\" verfasst.<br><br>Als \"Hey, Good Lookin'\" die Spitze der Billboard-Country-Charts erreicht, steht Hank Williams auf dem Höhepunkt seiner Karriere. Doch hinter dem Erfolg stehen gesundheitliche Probleme, Alkoholmissbrauch und ein Leben unter Dauerstress. Als der Musiker an Neujahr 1953 stirbt, beginnt die Legendenbildung um sein Leben.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Stefan Kleinkrieg (Musiker, Gründungsmitglied von Extrabreit)</li><li>Colin Escott: I Saw The Light. The Story of Hank Williams. London 2015</li><li>Mark Ribowsky: Hank. New York 2017 </li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>ARD Sounds: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:a5a59ef2d2eb591a/\" rel=\"noopener\" target=\"_blank\">Southern Discomfort in Hank Williams' Country - Südstaaten-Blues</a></li><li>WDR3: <a href=\"https://www1.wdr.de/radio/wdr3/programm/sendungen/wdr3-persoenlich-alsmann/persoenlich-alsmann-1192.html\" rel=\"noopener\" target=\"_blank\">Götz Alsmann zu Hank Williams und anderen</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christopher Heimer<br>Redaktion: Christoph Tiegel und Matti Hesse",
+    "date": "2026-08-29T04:00:48.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-erste-rockstar-war-ein-country-musiker-hank-williams-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-hank-williams-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/17/ac0df7e7-e631-4082-b108-2d8374021ed5/ac0df7e7-e631-4082-b108-2d8374021ed5_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:4228a6c4-ce39-510b-9f0d-ece51f4c62bb",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -63,58 +113,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/kunstraub_in_ostspanien_historischer_goldschatz_aus_museum_dlf_20260828_1753_f22e4239.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ca0ae714-112d-5c0a-859c-058452018936",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Erste umfassende Ausstellung über den Architekten Josef Kaiser in Berlin",
-    "summary": "Wheeler, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-28T15:48:00.000Z",
-    "url": "https://www.deutschlandfunk.de/erste-umfassende-ausstellung-ueber-den-architekten-josef-kaiser-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/erste_umfassende_ausstellung_ueber_den_architekten_josef_dlf_20260828_1748_352d19f4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cb2370aa-3700-58c5-84bc-a76ccbe38e4b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Raja, Pärt, Tsinikoris - Verleihung der Goethe-Medaillen in Weimar",
-    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-28T15:43:00.000Z",
-    "url": "https://www.deutschlandfunk.de/raja-paert-tsinikoris-verleihung-der-goethe-medaillen-in-weimar-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/raja_paert_tsinikoris_verleihung_der_goethe_medaillen_in_dlf_20260828_1743_b62c3fc9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
