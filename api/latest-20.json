@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:576cf32e60949973e7a6e180db61442d",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Als Rom am größten war: Ein Reich von Britannien bis Persien",
+    "summary": "<p>Als \"bester Fürst\" wird Roms Kaiser Trajan verehrt - unter ihm erreicht das Imperium im Jahr 116 seine größte Ausdehnung. Der Erfolg ist nur von kurzer Dauer - und genießen kann Trajan ihn auch nicht.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Helene Pawlitzki:</strong><br><ul><li>warum Expansion für die Römer als nahezu selbstverständliches Staatsziel gilt, </li><li>weshalb manche Gebiete für Rom attraktiv sind und andere bewusst außerhalb des Imperiums bleiben sollen, </li><li>wie Handel, Infrastruktur und Alltagskultur das Leben in den Provinzen verändern, </li><li>warum die Eroberungen Trajans zwar spektakulär, aber nur schwer dauerhaft zu sichern sind, </li><li>weshalb Kaiser Trajan noch Jahrhunderte nach seinem Tod als vorbildlicher Kaiser gilt.</li></ul><br>Als Kaiser Trajan im Jahr 116 den Persischen Golf erreicht, scheint die römische Expansion ihren Höhepunkt gefunden zu haben. Für viele Zeitgenossen erfüllt sich damit ein Anspruch, der tief in der römischen Selbstwahrnehmung verwurzelt ist: die Herrschaft über die bekannte Welt. <br><br>Doch Größe hat ihren Preis. Die Versorgung der Legionen, die Verwaltung entfernter Provinzen und wiederkehrende Aufstände zeigen die Grenzen römischer Macht. Gerade in dem Moment, als das Imperium seine größte Ausdehnung erreicht, wird deutlich, wie schwierig es ist, ein solches Reich dauerhaft zusammenzuhalten. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Dr . phil . Jörg Fündling (Althistoriker an der RWTH Aachen)</li><li>Tilmann Bechert ( Hg. ): Die Provinzen des Römischen Reiches. Einführung und Überblick. Mainz 1999</li><li>Jörg Fündling: Kaiser von morgens bis abends. Ein Tag an der Spitze des Römischen Reichs. Darmstadt 2009</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 08.08.117: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-todestag-kaiser-trajan-100.html\" rel=\"noopener\" target=\"_blank\">Der römische Kaiser Trajan stirbt</a></li><li>Zeitzeichen 27.10.97: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/trajan100.html\" rel=\"noopener\" target=\"_blank\">Kaiser Nerva adoptiert Trajan</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Helene Pawlitzki<br>Redaktion: Hildegard Schulte, Frank Zirpins",
+    "date": "2026-08-30T04:00:56.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-als-rom-am-groessten-war-ein-reich-von-britannien-bis-persien-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-rom-trajan-britannien-persien-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/30/3b339d0b-4863-4613-aaa8-6b97355ae424/3b339d0b-4863-4613-aaa8-6b97355ae424_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:56c7e3be-0ee8-54ff-a4d8-f9e3b8a6c2f6",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -22,6 +45,160 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9305d1d1-5182-5426-9292-9ec5217522a2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 29.08.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-29T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/kulturmeldungen_29082026_dlf_20260829_1756_03876580.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:936484cc-8cba-55c2-845e-c99a9b67fd14",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturgutschutz nach dem Brand. Hürtgenwalds Bürgermeister Stefan Cranen i.G.",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-29T15:42:45.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturgutschutz-nach-dem-brand-huertgenwalds-buergermeister-stefan-cranen-i-g-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/kulturgutschutz_nach_dem_brand_huertgenwalds_buergermeister_dlf_20260829_1742_7e823b21.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:433da8df-b6de-5a23-96b4-8c8e885c14ba",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Ein Rummelnachtstraum\" in Kassel - Kirmes, Kunst, Theater im Freien",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-29T15:37:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-rummelnachtstraum-in-kassel-kirmes-kunst-theater-im-freien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/ein_rummelnachtstraum_in_kassel_kirmes_kunst_theater_im_dlf_20260829_1737_637fb2ad.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9c94fffc-21a2-59cb-91f6-8727d0f076e5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Verharmlosung von NS und DDR? Wie die AfD Geschichte instrumentalisiert",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-29T15:30:28.000Z",
+    "url": "https://www.deutschlandfunk.de/verharmlosung-von-ns-und-ddr-wie-die-afd-geschichte-instrumentalisiert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/verharmlosung_von_ns_und_ddr_wie_die_afd_geschichte_dlf_20260829_1730_f67cef05.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7435a394-0b8f-56a2-8021-b8244f41ee15",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Paul Banks, Interpol: \"Ich liebe Amerika und ich hasse, was da gerade passiert\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-29T13:35:17.000Z",
+    "url": "https://www.deutschlandfunk.de/paul-banks-interpol-ich-liebe-amerika-und-ich-hasse-was-da-gerade-passiert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/paul_banks_interpol_ich_liebe_amerika_und_ich_hasse_was_da_dlf_20260829_1535_a8c20db1.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f05bcad3-326c-583d-91ed-e5cbb00c06a6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Album von Mine - Was bleibt, wenn die Lichter ausgehen?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-29T13:10:22.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-album-von-mine-was-bleibt-wenn-die-lichter-ausgehen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/neues_album_von_mine_was_bleibt_wenn_die_lichter_ausgehen_dlf_20260829_1510_4d81e2df.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -320,202 +497,6 @@
     "image": "https://bilder.deutschlandfunk.de/fd/c1/17/8f/fdc1178f-e669-4762-a05e-911afe5084a9/1001-nacht-34-102-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/nacht_94_drei_moerder_und_keine_leiche_dlf_20260828_0808_5b1829ef.mp3?refId=1001-nacht-100",
     "duration": "5 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:dcab6c84-e031-5a18-8dfa-98b331a9fa7a",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 92 - Zwanzig Jahre Saus und Braus",
-    "summary": "Der redselige Friseur erzählt: sein Bruder hat den Hausherrn beeindruckt, wird zu dessen Zechkumpan und Vermögensverwalter. Als der Herr stirbt und der Bruder verarmt, kommt der Friseur auch für seinen sechsten Bruder auf – so rechtschaffen ist er!<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte. <br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Der Friseur - „Herr Schweigsam“ – ist Teil einer der am stärksten verschachtelten Erzählungen von 1001 Nacht. <a href=\"https://www.deutschlandfunkkultur.de/1001-nacht-die-2-staffel-das-making-of-100.html\" rel=\"noopener\" target=\"_blank\">Die Schauspielerin Roxana Samadi gibt Einblicke ins Making-Of der Studioarbeit.</a></li><li><a href=\"https://www.deutschlandfunk.de/elegantes-und-derbes-arabisch-schauspielerin-susana-abdulmajid-100.html\" rel=\"noopener\" target=\"_blank\">Eine unserer Making-of-Folgen widmet sich den arabischen Texten im Podcast – mit der Schauspielerin Susana AbdulMajid.</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Wie so oft in „1001 Nacht“ wird auch in dieser Geschichte Wein getrunken. <a href=\"https://www.deutschlandfunkkultur.de/islam-und-alkohol-im-paradies-ist-wein-erlaubt-dlf-kultur-08cd2627-100.html\" rel=\"noopener\" target=\"_blank\">Zum Verhältnis von Islam und Alkohol - Im Paradies ist Wein erlaubt</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-28T06:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-92-zwanzig-jahre-saus-und-braus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/07/52/d0/ea/0752d0ea-3a2f-4bf3-85b6-861da7425900/1001-nacht-32-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/nacht_92_zwanzig_jahre_saus_und_braus_dlf_20260828_0806_6517baab.mp3?refId=1001-nacht-100",
-    "duration": "6 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:3493ec05-85a6-51da-9ee2-e15f4bdbf66f",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 91 - Fata Morgana im Kuppelsaal",
-    "summary": "Der Hausherr lässt seine Diener allerhand Leckereien holen: Sauerfleisch, mit Pistazien gemästete Küken, Mandelspeise. Allesamt unsichtbar. Der Bruder spielt mit, tut so, als würde er essen. Wie kann er sich rächen? Klar ist: mehr Wein muss her!<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte. <br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Als \"urzeitliches Schwindelgefühl\" beschreibt der Literaturwissenschaftler Paulo Lemos Horta das Eintauchen ins Erzähluniversum von 1001 Nacht. <a href=\"https://www.deutschlandfunk.de/ein-urzeitliches-schwindelgefuehl-wieso-laesst-uns-1001-nacht-nicht-los-100.html\" rel=\"noopener\" target=\"_blank\">Wir haben ihn gefragt: \"Wieso lässt uns 1001 Nacht nicht los?\"</a></li><li>Die Aufzählung von Speisen in dieser Folge deutet an, wie vor über 500 Jahren gegessen und Handel betrieben wurde. <a href=\"https://www.deutschlandfunk.de/historischer-check-up-von-welcher-gesellschaft-erzaehlt-1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">Der Islamwissenschaftler Reinhard Schulze nimmt einen historischen Abgleich von Geschichte und Geschichten vor.</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://shibaskitchen.de/arabisches-essen/\" rel=\"noopener\" target=\"_blank\">Wer echte Gerichte kochen und essen möchte, findet hier Rezepte aus der Region von 1001 Nacht</a> – und eine Köchin, die sie als so köstlich wie in 1001 Nacht beschreibt</li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-28T06:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-91-fata-morgana-im-kuppelsaal-100.html",
-    "image": "https://bilder.deutschlandfunk.de/fd/07/cd/41/fd07cd41-12e5-4abe-b9bc-e0785edc2b9e/1001-nacht-31-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/nacht_91_fata_morgana_im_kuppelsaal_dlf_20260828_0805_4017b9aa.mp3?refId=1001-nacht-100",
-    "duration": "7 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:eabe79b5-2a7a-536a-affe-c4e0522cef37",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 90 - Der Mann mit dem freundlichen Gesicht",
-    "summary": "Der Friseur holt aus und erzählt von seinem sechsten Bruder. Der war verarmt. Ein freundlicher Mann lädt ihn ein: der Tisch ist gedeckt, er soll sich die Hände waschen. Doch der Bruder ist irritiert: er kann weder Essen noch Waschschüssel sehen.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte. <br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Was bedeutet es, mit 1001 Nacht zu leben? <a href=\"https://www.deutschlandfunk.de/1001-nacht-uebersetzen-aladin-sindbad-und-ali-baba-100.html\" rel=\"noopener\" target=\"_blank\">Ein Gespräch Claudia Ott, die seit mehr als 20 Jahren alte arabische Handschriften von „Tausendundeine Nacht“ ins Deutsche übersetzt</a></li><li><a href=\"https://www.deutschlandfunk.de/erzaehlen-gegen-den-untergang-100.html\" rel=\"noopener\" target=\"_blank\">Geschichtenerzählen verwandelt Chaos in Kausalität, Angst in Spannung und Ohnmacht in Handlung</a> - Essay von Samira El Ouassil</li></ul> <br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-28T06:04:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-90-der-mann-mit-dem-freundlichen-gesicht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/cc/15/d4/37/cc15d437-3d68-4bd4-8fe2-c6ec26a64e39/1001-nacht-03-106-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/nacht_90_der_mann_mit_dem_freundlichen_gesicht_dlf_20260828_0804_0517b9b0.mp3?refId=1001-nacht-100",
-    "duration": "6 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:4ec6854e-b62a-55c5-b363-3d37dcc7a019",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 89 - Rachefeldzug mit Folgen",
-    "summary": "Der Bruder mit den Glaswaren schwört Rache an seinen Folterern. Verkleidet kehrt er in das Haus der alten Frau zurück, tötet den Sklaven, die Dienerin, die Kellermeisterin. Das Mädchen fleht ihn an – sie sei selbst ein Opfer. Er glaubt ihr.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte. <br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Nacht für Nacht erzählt Schahrasad. <a href=\"https://www.deutschlandfunk.de/im-dunkeln-erzaehlen-welche-bedeutung-hat-die-nacht-in-1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">Die Kulturwissenschaftlerin Elisabeth Bronfen weiß, welche besonderen Räume die Nacht eröffnet.</a></li><li>Viel Interessantes zur Geschichte hinter den Geschichten von 1001 Nacht enthält der Essay <a href=\"https://www.deutschlandfunk.de/sex-dschinn-religion-1001-nacht-gegen-114-suren-102.html\" rel=\"noopener\" target=\"_blank\">Sex, Dschinn, Religion - 1001 Nacht gegen 114 Suren?</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://www.maerchengesellschaft.ch/fileadmin/kundendaten/maerchen/maerchenkunde/grausamkeit/maerchen_grausamkeiten.pdf\" rel=\"noopener\" target=\"_blank\">Über Grausamkeit im Märchen</a> hat die Schweizerische Märchengesellschaft ein interessantes Dokument veröffentlicht</li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br><strong>Unser Podcast-Tipp:</strong><br><ul><li><a href=\"https://www.ardsounds.de/sendung/eat-read-sleep-der-podcast-der-das-lesen-feiert/urn:ard:show:21785c45dc44e254/\" rel=\"noopener\" target=\"_blank\">eat.READ.sleep. Der Podcast, der das Lesen feiert · Neue Folgen - Jetzt Podcast anhören! </a></li></ul>Essen – Lesen – Schlafen – der Name ist Programm. eat.READ.sleep weckt Leidenschaft für Literatur, und es gibt auch tatsächlich was zu essen im Podcast, zum Beispiel Tolstois Lieblingskuchen oder Pippi Langstrumpfs Pfefferkuchen.<br><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-28T06:03:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-89-rachefeldzug-mit-folgen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b0/a7/51/37/b0a75137-bc63-4866-8439-e72d05c2737f/1001-nacht-05-106-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/nacht_89_rachefeldzug_mit_folgen_dlf_20260828_0803_43173b5a.mp3?refId=1001-nacht-100",
-    "duration": "6 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:dd77f185-c324-5e0c-afb4-d81880b2f1b5",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 88 - Grausame Spiele",
-    "summary": "Eine alte Frau will den Bruder verkuppeln. Er lässt sich darauf ein und folgt ihr. Kerzengerade steht er vor einer Schönen. Die spielt mit ihm, bis sie keine Lust mehr hat und verschwindet. Als ein Muskelprotz erscheint, nimmt das Unheil seinen Lauf.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte. <br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Immer wieder tauchen Sklaven und Sklavinnen in den Geschichten auf. <a href=\"https://www.deutschlandfunk.de/versklavung-und-race-weisse-sklavenmaedchen-in-1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">Woher kamen Versklavte im islamischen Mittelalter? Wie regelte islamisches Recht Versklavung? Ein Deep Dive mit der Arabistin Rachel Schine</a></li><li>Making-of 1001 Nacht:<a href=\"https://www.deutschlandfunk.de/der-soundtrack-flirrt-und-flimmert-100.html\" rel=\"noopener\" target=\"_blank\"> Der Komponist Philipp Johann Thimm öffnete während der Arbeit für die erste Staffel seine Studio-Türen</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-28T06:02:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-88-grausame-spiele-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ab/f8/f4/7d/abf8f47d-3ab4-4a17-aac4-555710330284/1001-nacht-30-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/nacht_88_grausame_spiele_dlf_20260828_0802_3f173a59.mp3?refId=1001-nacht-100",
-    "duration": "8 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:7d4b28e1-59c8-5b49-9f48-89542fb5524c",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 87 - Böse Fantastereien",
-    "summary": "Der Friseur erzählt dem Kalifen, dass sich sein Bruder gierige Allmachtsfantasien ausmalte, sich vorstellte, wie er seine zukünftige Ehefrau regelrecht erniedrigen wird. Doch dann schlägt ihm seine Fantasie in der realen Welt ein böses Schnippchen.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte. <br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li><a href=\"https://www.deutschlandfunk.de/spannend-erzaehlen-hat-1001-nacht-den-cliffhanger-erfunden-100.html\" rel=\"noopener\" target=\"_blank\">Mit der Geschichtensammlung „Tausendundeine Nacht“ wurde der Cliffhanger erfunden, sagt der Literaturwissenschaftler Vincent Fröhlich</a> – und weiß noch einiges mehr über die Regeln des Storytellings</li><li><a href=\"https://www.deutschlandfunk.de/ein-versprechen-dass-es-weiter-gehen-koennte-100.html\" rel=\"noopener\" target=\"_blank\">Wie es zu der Fortsetzung von 1001 Nacht kam</a>, erzählen Sabine Küchler und Julia Tieke vom Hörspiel bei Deutschlandfunk</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Die Moral dieser Folge lautet <a href=\"https://sprueche-des-tages.de/woher-kommt-das-sprichwort-hochmut-kommt-vor-dem-fall/#\" rel=\"noopener\" target=\"_blank\">„Hochmut kommt vor dem Fall“ – ein Sprichwort, das seinen Ursprung in der Bibel hat</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-28T06:01:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-87-boese-fantastereien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b3/03/92/df/b30392df-089d-4cd7-9da3-c64a2974d33e/1001-nacht-28-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/nacht_87_boese_fantastereien_dlf_20260828_0801_98174366.mp3?refId=1001-nacht-100",
-    "duration": "6 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:b02dc593-6ebc-5053-bc68-6bb884bca96b",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 86 - Der Bruder mit den abgeschnittenen Ohren",
-    "summary": "Der Friseur und seine sechs Brüder erben vom Vater jeweils 100 Dirham. Einer investiert alles begeistert in Glaswaren. In seiner Fantasie macht ihn der Glashandel zum reichsten Mann von Bagdad. Mindestens. Seine Tagträume kennen keine Grenzen.<br> <br> <strong>Die Spielerinnen:</strong><br> Roxana Samadi erzählt als Schahrasad alle Geschichten.<br> Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br> Susana AbdulMajid spricht die arabischen Texte. <br> <br> <strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Fragen an 1001 Nacht? Wir haben zahlreiche Gespräche geführt, zum Beispiel dazu, wo der „Orient“ liegt - <a href=\"https://www.deutschlandfunk.de/1001-nacht-und-der-orientalismus-wo-liegt-der-orient-100.html\" rel=\"noopener\" target=\"_blank\">Kulturwissenschaftlerin Andrea Polaschegg <em>orientiert</em> uns im Kulturraum der Geschichten</a></li><li><a href=\"https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=dira_18E76A2E8EFA11F078E5B883034AF4D0\" rel=\"noopener\" target=\"_blank\">Tagträumen: Was passiert, wenn wir unsere Gedanken schweifen lassen</a></li></ul><br> <strong>Weiterführende Links:</strong><br><ul><li>Wie lief der <a href=\"https://www.deutschlandfunk.de/glashandel-an-der-seidenstrasse-100.html\" rel=\"noopener\" target=\"_blank\">Glashandel an der Seidenstraße historisch?</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br> +++++<br> <br> 1001 Nacht – Staffel zwei <br> Nach der Neuübersetzung von Claudia Ott <br> Auswahl der Geschichten: Safiye Can <br> Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi <br> Mit Roxana Samadi, Susana AbdulMajid und Jasmin Shakeri <br> Besetzung: Kathi Bonjour <br> Regieassistenz: Vanessa Gräfingholt und Delia Lang <br> Expertin für Arabisch: Heba Tebakhi <br> Übersetzung und philologische Beratung: Claudia Ott <br> Copyright der Übersetzung: Verlag C. H. Beck <br> Nach der arabischen Edition von Muhsin Mahdi<br> Redaktionelle Mitarbeit: Matthias Karow <br> Komposition und Musik: Philipp Johann Thimm <br> Weitere Musik: Roshanak Rafani an Daf, Tombak und Bendir und Nabil Arbaain an der Oud <br> Ton: Andreas Stoffels und Susanne Beyer, sowie Alexander Brennecke<br> Disposition: Dagmar Goyk <br> Regie: Judith Lorentz <br> Dramaturgie: Sabine Küchler und Julia Tieke <br> Deutschlandfunk 2026<br> <br> +++++<br> <br> Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br> <br> +++++<br> <br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-28T06:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-86-der-bruder-mit-den-abgeschnittenen-ohren-lv-100.html",
-    "image": "https://bilder.deutschlandfunk.de/20/df/1b/86/20df1b86-bda4-472c-a7cb-31d86ab14cbf/1001-nacht-27-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/nacht_86_der_bruder_mit_den_abgeschnittenen_ohren_lv_dlf_20260828_0800_172202ae.mp3?refId=1001-nacht-100",
-    "duration": "8 Min",
     "tags": [
       "horspiel",
       "literatur",

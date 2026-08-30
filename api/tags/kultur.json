@@ -26,6 +26,160 @@
     "language": "de"
   },
   {
+    "id": "dlf-kultur-heute:9305d1d1-5182-5426-9292-9ec5217522a2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 29.08.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-29T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/kulturmeldungen_29082026_dlf_20260829_1756_03876580.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:936484cc-8cba-55c2-845e-c99a9b67fd14",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturgutschutz nach dem Brand. Hürtgenwalds Bürgermeister Stefan Cranen i.G.",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-29T15:42:45.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturgutschutz-nach-dem-brand-huertgenwalds-buergermeister-stefan-cranen-i-g-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/kulturgutschutz_nach_dem_brand_huertgenwalds_buergermeister_dlf_20260829_1742_7e823b21.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:433da8df-b6de-5a23-96b4-8c8e885c14ba",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Ein Rummelnachtstraum\" in Kassel - Kirmes, Kunst, Theater im Freien",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-29T15:37:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-rummelnachtstraum-in-kassel-kirmes-kunst-theater-im-freien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/ein_rummelnachtstraum_in_kassel_kirmes_kunst_theater_im_dlf_20260829_1737_637fb2ad.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9c94fffc-21a2-59cb-91f6-8727d0f076e5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Verharmlosung von NS und DDR? Wie die AfD Geschichte instrumentalisiert",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-29T15:30:28.000Z",
+    "url": "https://www.deutschlandfunk.de/verharmlosung-von-ns-und-ddr-wie-die-afd-geschichte-instrumentalisiert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/verharmlosung_von_ns_und_ddr_wie_die_afd_geschichte_dlf_20260829_1730_f67cef05.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7435a394-0b8f-56a2-8021-b8244f41ee15",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Paul Banks, Interpol: \"Ich liebe Amerika und ich hasse, was da gerade passiert\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-29T13:35:17.000Z",
+    "url": "https://www.deutschlandfunk.de/paul-banks-interpol-ich-liebe-amerika-und-ich-hasse-was-da-gerade-passiert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/paul_banks_interpol_ich_liebe_amerika_und_ich_hasse_was_da_dlf_20260829_1535_a8c20db1.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f05bcad3-326c-583d-91ed-e5cbb00c06a6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Album von Mine - Was bleibt, wenn die Lichter ausgehen?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-29T13:10:22.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-album-von-mine-was-bleibt-wenn-die-lichter-ausgehen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/neues_album_von_mine_was_bleibt_wenn_die_lichter_ausgehen_dlf_20260829_1510_4d81e2df.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:4228a6c4-ce39-510b-9f0d-ece51f4c62bb",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -534,110 +688,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:0cbea7bc-c629-5081-8383-f8faeb595280",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Corinna Harfouch u. Götz Schubert in Shakespeares \"Hamlet\" beim Lausitz Festival",
-    "summary": "Kasch, Georg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-27T15:51:31.000Z",
-    "url": "https://www.deutschlandfunk.de/corinna-harfouch-u-goetz-schubert-in-shakespeares-hamlet-beim-lausitz-festival-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/corinna_harfouch_u_goetz_schubert_in_shakespeares_hamlet_dlf_20260827_1751_2c13b527.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4d65373f-96d8-5797-b31b-b709f2ef6dc0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Staatsschutz\" - Der Justizthriller von Faraz Shariat kommt ins Kino",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-27T15:46:10.000Z",
-    "url": "https://www.deutschlandfunk.de/staatsschutz-der-justizthriller-von-faraz-shariat-kommt-ins-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/staatsschutz_der_justizthriller_von_faraz_shariat_kommt_ins_dlf_20260827_1746_1610e7b3.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:81dca787-4686-59df-91b9-08829d642642",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fördergeldaffäre Antisemitismus - Debatte über Abschlussbericht",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-27T15:41:20.000Z",
-    "url": "https://www.deutschlandfunk.de/foerdergeldaffaere-antisemitismus-debatte-ueber-abschlussbericht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/foerdergeldaffaere_antisemitismus_debatte_ueber_dlf_20260827_1741_ff0d5fec.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f576e971-362a-5a35-b916-108431dc82f4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Es gibt noch viel zu entdecken. Y. Dziewior zum Tod der Künstlerin Yayoi Kusama",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-27T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/es-gibt-noch-viel-zu-entdecken-y-dziewior-zum-tod-der-kuenstlerin-yayoi-kusama-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/es_gibt_noch_viel_zu_entdecken_y_dziewior_zum_tod_der_dlf_20260827_1735_a3094b6b.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:e8dc90c4-e1ac-5f07-94f9-16712925f788",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -788,31 +838,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:3890c7b3-9a0e-50b3-8a80-061b4ba00739",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Dolly Parton als queere Ikone - Ben Miller vom Schwulen Museum Berlin",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-26T13:10:18.000Z",
-    "url": "https://www.deutschlandfunk.de/dolly-parton-als-queere-ikone-ben-miller-vom-schwulen-museum-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/dolly_parton_als_queere_ikone_ben_miller_vom_schwulen_museum_dlf_20260826_1510_8f5d91c3.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeit-alles-gesagt:484742f8-9200-4af0-bbd7-e43b85bb75a2",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -887,31 +912,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:fa9819a6-fbdb-5fd3-9a10-c37edcd68b57",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Unterwegs im Omegaverse - Seifenoper mit schwangeren KI-Werwölfen",
-    "summary": "Raabe, Mathis www.deutschlandfunk.de, Corso",
-    "date": "2026-08-25T13:24:16.000Z",
-    "url": "https://www.deutschlandfunk.de/unterwegs-im-omegaverse-seifenoper-mit-schwangeren-ki-werwoelfen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/unterwegs_im_omegaverse_seifenoper_mit_schwangeren_ki_dlf_20260825_1524_5417ee8c.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
