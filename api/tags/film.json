@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:50682a75-f0bc-5e6b-b614-b1c570c6d5f0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 30.08.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-30T15:56:05.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/kulturmeldungen_30082026_dlf_20260830_1756_8f8a77da.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3c9e0d81-f587-5dc9-95eb-3c91154fdafa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Theater in Südafrika - Erinnerung, Heilung und historisches Erbe",
+    "summary": "Wehrheim, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-30T15:50:20.000Z",
+    "url": "https://www.deutschlandfunk.de/theater-in-suedafrika-erinnerung-heilung-und-historisches-erbe-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/theater_in_suedafrika_erinnerung_heilung_und_historisches_dlf_20260830_1750_3e851fec.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:06729689-c65a-5d0e-b0aa-cddb3fac217f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Promis wie Johnny Depp und ihre Kunstambitionen - Hubertus Butin im Gespräch",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-30T15:43:27.000Z",
+    "url": "https://www.deutschlandfunk.de/promis-wie-johnny-depp-und-ihre-kunstambitionen-hubertus-butin-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/promis_wie_johnny_depp_und_ihre_kunstambitionen_hubertus_dlf_20260830_1743_03832ea1.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1e1dd51a-e10f-5cc5-b283-2408e05fdffc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturhauptstadterbe - Das Chemnitzer Kosmos-Festival",
+    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-30T15:38:21.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturhauptstadterbe-das-chemnitzer-kosmos-festival-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/kulturhauptstadterbe_das_chemnitzer_kosmos_festival_dlf_20260830_1738_54818a4a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9ee6104a-d134-5316-9383-48367def32f2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hundert Jahre GEDOK - Das Kunstmuseum Bonn zeigt Graphik von Frauen",
+    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-30T15:30:24.000Z",
+    "url": "https://www.deutschlandfunk.de/hundert-jahre-gedok-das-kunstmuseum-bonn-zeigt-graphik-von-frauen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/hundert_jahre_gedok_das_kunstmuseum_bonn_zeigt_graphik_von_dlf_20260830_1730_4f805820.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:9305d1d1-5182-5426-9292-9ec5217522a2",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -11,6 +141,32 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/kulturmeldungen_29082026_dlf_20260829_1756_03876580.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0f66a060-cf7e-515d-a3c9-9de795e87350",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vor den Wahlen in Sachsen-Anhalt - Sorgen und Hoffnungen der Filmszene",
+    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-29T15:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/vor-den-wahlen-in-sachsen-anhalt-sorgen-und-hoffnungen-der-filmszene-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/vor_den_wahlen_in_sachsen_anhalt_sorgen_und_hoffnungen_der_dlf_20260829_1715_f5845974.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",
@@ -89,162 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/verharmlosung_von_ns_und_ddr_wie_die_afd_geschichte_dlf_20260829_1730_f67cef05.mp3?refId=kultur-heute-104",
     "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4228a6c4-ce39-510b-9f0d-ece51f4c62bb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 28.08.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-28T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-28-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/kulturmeldungen_28082026_dlf_20260828_1756_da2a1e4f.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:84f12464-0a3b-5baf-bdf4-33f7e2dac82f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kunstraub in Ostspanien - Historischer Goldschatz aus Museum gestohlen",
-    "summary": "Buschschlüter, Nicholas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-28T15:53:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kunstraub-in-ostspanien-historischer-goldschatz-aus-museum-gestohlen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/kunstraub_in_ostspanien_historischer_goldschatz_aus_museum_dlf_20260828_1753_f22e4239.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ca0ae714-112d-5c0a-859c-058452018936",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Erste umfassende Ausstellung über den Architekten Josef Kaiser in Berlin",
-    "summary": "Wheeler, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-28T15:48:00.000Z",
-    "url": "https://www.deutschlandfunk.de/erste-umfassende-ausstellung-ueber-den-architekten-josef-kaiser-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/erste_umfassende_ausstellung_ueber_den_architekten_josef_dlf_20260828_1748_352d19f4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cb2370aa-3700-58c5-84bc-a76ccbe38e4b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Raja, Pärt, Tsinikoris - Verleihung der Goethe-Medaillen in Weimar",
-    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-28T15:43:00.000Z",
-    "url": "https://www.deutschlandfunk.de/raja-paert-tsinikoris-verleihung-der-goethe-medaillen-in-weimar-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/raja_paert_tsinikoris_verleihung_der_goethe_medaillen_in_dlf_20260828_1743_b62c3fc9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:939d5a4a-3619-5c56-874d-2b5953f9378e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Norwegen steht still. Erik Fosnes Hansen zum Tod des norwegischen Königs Harald",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-28T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/norwegen-steht-still-erik-fosnes-hansen-zum-tod-des-norwegischen-koenigs-harald-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/norwegen_steht_still_erik_fosnes_hansen_zum_tod_des_dlf_20260828_1736_9b2b1174.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2fa786fa-8af3-5bc5-9179-d1f5b4d5a2b8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 27.08.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-27T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-27-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/kulturmeldungen_27082026_dlf_20260827_1756_7a163fde.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",
