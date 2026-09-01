@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:6431a6a7-dfea-537a-9e26-558e16782396",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "doku drops 16: Minidrops - Jeden Monat neue Kurzdokus",
+    "summary": "Warum viele Worte verlieren? Neue dokumentarische Hörstücke im nochmals reduzierten Miniaturformat erzählen kompakt, aber nicht verkürzt: über Seelen, Pflanzen, Tiere, Menschen, über Lebens- und Geschmacksfragen. div. www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-01T06:30:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/doku-drops-16-minidrops-102.html",
+    "image": "https://bilder.deutschlandfunk.de/7b/50/84/2b/7b50842b-c4eb-4a18-9ff5-301024cdd14b/doku-drops-16-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/doku_drops_16_minidrops_drk_20260905_1830_77aaf4d6.mp3?refId=das-feature-104",
+    "duration": "27 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:56c7e3be-0ee8-54ff-a4d8-f9e3b8a6c2f6",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/b8/a5/6a/10/b8a56a10-cc42-4d26-a1ee-eaefd9da530f/doku-drops-14-jung-und-alt-bild-satt-gruen-ausschnitt-1-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/doku_drops_14_jung_alt_drk_20260711_1805_9c4b1726.mp3?refId=das-feature-104",
     "duration": "29 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-16-regulierte-wahrheit-ueber-den-kampf-gegen-fakenews-dlf-20260616-1915-0a3cb568-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Regulierte Wahrheit - Über den Kampf gegen Fakenews",
-    "summary": "Was darf gesagt werden – und wer entscheidet darüber? Der Kampf gegen Desinformation ist ein globaler Konflikt, an dem die Zukunft der liberalen Demokratien hängt. Von Christian Jakob www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-30T05:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/regulierte-wahrheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/73/5b/42/5b/735b425b-82a7-40a5-895d-6397b0d4ac5a/bild-fuer-regulierte-wahrheit-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/16/regulierte_wahrheit_ueber_den_kampf_gegen_fakenews_dlf_20260616_1915_0a3cb568.mp3?refId=das-feature-104",
-    "duration": "44 Min",
     "tags": [
       "feature",
       "dokumentation",

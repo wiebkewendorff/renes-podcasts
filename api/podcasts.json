@@ -1,5 +1,336 @@
 [
   {
+    "id": "dlf-das-feature:6431a6a7-dfea-537a-9e26-558e16782396",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "doku drops 16: Minidrops - Jeden Monat neue Kurzdokus",
+    "summary": "Warum viele Worte verlieren? Neue dokumentarische Hörstücke im nochmals reduzierten Miniaturformat erzählen kompakt, aber nicht verkürzt: über Seelen, Pflanzen, Tiere, Menschen, über Lebens- und Geschmacksfragen. div. www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-01T06:30:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/doku-drops-16-minidrops-102.html",
+    "image": "https://bilder.deutschlandfunk.de/7b/50/84/2b/7b50842b-c4eb-4a18-9ff5-301024cdd14b/doku-drops-16-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/doku_drops_16_minidrops_drk_20260905_1830_77aaf4d6.mp3?refId=das-feature-104",
+    "duration": "27 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:25707d7b3f2cdd859237929efab20256",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Vom Khanat zum Zarenreich: Die russische Eroberung Sibiriens",
+    "summary": "<p>Am 1.9.1581 zieht der Kosak Jermak Timofejew mit einem Söldner-Trupp los Richtung Sibirien. Aus einem Streit unter Nachbarn wird die Eroberung eines halben Kontinents.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Uli Hufen:</strong><br><ul><li>wie eine kleine Söldnertruppe den Startschuss für die Eroberung eines halben Kontinents gibt, </li><li>weshalb Pelze für Moskau wertvoller sind als Gold, </li><li>warum Zar Iwan IV. den Feldzug zunächst ablehnt und später belohnt, </li><li>wie Kosaken innerhalb weniger Jahrzehnte bis an den Pazifik gelangen, </li><li>welche Folgen die Expansion für die indigenen Völker Sibiriens hat.</li></ul><br>13 Millionen Quadratkilometer, endlose Wälder, gewaltige Flüsse und enorme Rohstoffvorkommen: Sibirien scheint heute untrennbar mit Russland verbunden. Doch Ende des 16. Jahrhunderts ist die Region noch kein Teil des russischen Reiches. Als der Kosakenführer Jermak im Auftrag der Kaufmannsfamilie Stroganow nach Osten zieht, beginnt eine Entwicklung von historischer Tragweite. <br><br>Im Mittelpunkt stehen wirtschaftliche Interessen. Das begehrte \"weiche Gold\" der Pelze treibt Händler, Abenteurer und Herrscher an. Aus einzelnen Forts entlang großer Flüsse wächst ein Netz russischer Macht, das sich innerhalb weniger Generationen bis an den Pazifik ausdehnt. Die Geschichte dieser Landnahme ist zugleich eine Geschichte von Entdeckungen, Härten, Widerstand und kolonialer Gewalt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Sören Urbansky (Historiker) </li><li>Alexander Etkind: Internal Colonisation. Russia’s Imperial Experience. Cambridge 2011 </li><li>Marina Mogilner et al.: A New Imperial History of Northern Eurasia, 600-1700. From Russian to Global History. Bloomsbury 2025</li><li>Dittmar Dahlmann: Sibirien. Vom 16. Jahrhundert bis zur Gegenwart. Brill 2009 </li><li>Basil Dmytryshyn: Russia’s Conquest of Siberia 1558-1700. A Documentary Record. Oregon 1985</li><li>Sören Urbansky und Martin Wagner: China und Russland. Kurze Geschichte einer langen Beziehung. Berlin 2025</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 04.04.1558: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/sibirien-108.html\" rel=\"noopener\" target=\"_blank\">Kolonisierung Sibiriens beginnt</a></li><li>Planet Wisen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/kultur/asien/sibirien/index.html\" rel=\"noopener\" target=\"_blank\">Sibirien</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Uli Hufen<br>Redaktion: Sefa Inci Suvak, Christoph Tiegel",
+    "date": "2026-09-01T04:00:07.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-vom-khanat-zum-zarenreich-die-russische-eroberung-sibiriens-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-sibirien-eroberung-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/17/2f7ade53-ee6a-4a97-80e2-99fa80327925/2f7ade53-ee6a-4a97-80e2-99fa80327925_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeit-auch-das-noch:444c0934-edbd-418b-8115-7a3ecf01e00d",
+    "source": "zeit-auch-das-noch",
+    "sourceTitle": "Auch das noch? – DIE ZEIT",
+    "type": "rss",
+    "title": "»Im Zweifelsfall rettet mich der Staat – das ist halt nicht so«",
+    "summary": "<p>Von <i>Schutz in Krisenzeiten</i> handelt das neue Buch der Friedens- und Sicherheitsforscherin Ursula Schröder von der Universität Hamburg. Sie beschreibt darin, wie unsere Gesellschaft durch die parallelen Krisen der Gegenwart dauerhafte Unsicherheit erfährt. Sich darauf zu verlassen, dass der Staat Vorkehrungen für alle Eventualitäten treffe, hält sie für falsch. Vielmehr biete der Einsatz der Bürger ein »riesiges Potenzial«. Das geht weit über persönliche Krisenvorsorge hinaus und hat viel mit Ehrenamt, Engagement und Solidarität zu tun. Wir sprechen mit Ursula Schröder über Zivilschutz in der Polykrise. </p>\n<p>In jeder Folge von Auch das noch? – Der freundliche Krisenpodcast sprechen <a href=\"https://www.zeit.de/autoren/P/Petra_Pinzler/index.xml\" rel=\"noopener\" target=\"_blank\">ZEIT-Politikredakteurin Petra Pinzler</a> und <a href=\"https://www.zeit.de/autoren/S/Stefan_Schmitt/index.xml\" rel=\"noopener\" target=\"_blank\">Wissenschaftsredakteur Stefan Schmitt</a> über eine Krise der Gegenwart: Es geht um die Klimakrise, das Artensterben, die Energiekrise und Kriege. Jedes Mal hilft eine Expertin oder ein Experte zu verstehen, wie alles zusammenhängt. Nicht um zu verzweifeln, sondern weil Verstehen der erste Schritt zur Lösung ist. Und um Lösungen geht es natürlich auch.</p>\n<p><i>Senden Sie Kritik und Anregungen gerne per E-Mail an </i><i>krisen@zeit.de</i></a><i>.</i></p>\n<p><i>Wir interessieren uns außerdem für Ihre Meinung. In einer kurzen Umfrage möchten wir besser verstehen, wie Sie die ZEIT-Podcasts nutzen, was Ihnen daran wichtig ist und was Sie sich wünschen. Wir freuen uns sehr, wenn Sie teilnehmen. Das geht ganz einfach hier – und noch bis Ende September. Vielen Dank!</i></p>\n<p> </p>\n<p>Die Links zur Folge:</p>\n<ul>\n<li>Ursula Schröder <a href=\"https://www.ifsh.de/personen/person/schroeder\" rel=\"noopener\" target=\"_blank\">ist wissenschaftliche Direktorin</a> des Instituts für Friedensforschung und Sicherheitspolitik (IFSH) an der Universität Hamburg.</li>\n<li>Ihr Buch (Piper, 2026) heißt<i> </i><a href=\"https://www.piper.de/buecher/schutz-in-krisenzeiten-isbn-978-3-492-07396-7\" rel=\"noopener\" target=\"_blank\"><i>Schutz in Krisenzeiten</i></a>.</li>\n<li>Die eingangs zitierte <i>Checkliste zur Vorsorge für Krisen und Katastrophen</i> des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBK) <a href=\"https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/Checklisten-zur-Vorsorge-Krisen-und-Katastrophen.pdf\" rel=\"noopener\" target=\"_blank\">gibt es als PDF</a>.</li>\n<li>Zwei frühere Krisenpodcast-Episoden haben wir im Gespräch mit Ursula Schröder erwähnt, es sind <a href=\"https://www.zeit.de/wissen/2025-03/klimakrise-sicherheit-frank-sauer-krisenpodcast\" rel=\"noopener\" target=\"_blank\">diese mit dem Sicherheitsforscher Frank Sauer</a> von der Universität der Bundeswehr in München über die neue geopolitische Lage und die Klimakrise als sicherheitspolitischer Faktor (März 2025).</li>\n<li>Und <a href=\"https://www.zeit.de/politik/2026-02/weltraumpolitik-eu-aufruestung-krisenpodcast\" rel=\"noopener\" target=\"_blank\">diese mit der Konfliktforscherin Juliana Süß</a> von der Berliner Stiftung Wissenschaft und Politik über den Erdorbit als Krisenschauplatz und die Militarisierung des Alls (Februar 2026).</li>\n</ul>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Doku-Podcasts, Bonusfolgen und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen.</a> Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht’s zum Angebot</a><strong>.</strong></p>",
+    "date": "2026-09-01T03:55:00.000Z",
+    "url": "https://www.zeit.de/auch-das-noch-krisenpodcast",
+    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f1e25ec7-2e55-45b6-a911-ce88f7d0b73e/3000x3000/auch-das-noch.jpg?aid=rss_feed",
+    "audio": "https://zeitonline.simplecastaudio.com/6debd049-34b3-4994-96b0-039fabb2761b/episodes/b0ddea85-f0fb-4a2c-9ae8-2aef06b77551/audio/128/default.mp3?aid=rss_feed&awCollectionId=6debd049-34b3-4994-96b0-039fabb2761b&awEpisodeId=b0ddea85-f0fb-4a2c-9ae8-2aef06b77551&feed=Sdxt6Bhy",
+    "duration": "54 Min",
+    "tags": [
+      "klima",
+      "krisen",
+      "umwelt",
+      "gesellschaft",
+      "politik",
+      "zeit"
+    ],
+    "category": [
+      "Öko-Wissenschaft",
+      "Gesellschaft",
+      "Politik"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4043875",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "40 Jahre DDR-Umweltbibliothek",
+    "summary": "Bücher, Protest und ein Stück Freiheit im Keller\n<p>Sie wollten mehr als über dreckige Flüsse und zerstörte Landschaften reden: In der Berliner Umweltbibliothek trafen sich junge Menschen, die sich gegen Umweltzerstörung, Militarisierung und staatliche Bevormundung stellten. 1986 entstand die Bibliothek in den Kellerräumen der Berliner Zionskirchgemeinde — und wurde schnell zu einem wichtigen Treffpunkt der DDR-Opposition. Der Begriff „Umwelt“ war dabei bewusst weit gefasst.</p>\n<p>Neben Veranstaltungen und einer kleinen Bibliothek entstanden die <em>Umweltblätter</em>. Sie berichteten über Ökologie und über Menschenrechte, politische Themen und staatliche Übergriffe. Vor allem aber verband die Bibliothek Menschen im ganzen Land: Die Zeitschriften wurden weitergegeben, Informationen kamen zurück — und so entstand ein Netzwerk, das weit über Berlin hinausreichte.</p>\nStaatliche Repression, überraschende Gegenwehr\n<p>Für die Beteiligten war das Engagement riskant. Mitgründer Christian Halbrock selbst wurde mehrfach festgenommen und geriet wegen seines politischen Auftretens beruflich unter Druck. Der entscheidende Einschnitt kam im November 1987, als die Staatssicherheit die Räume der Umweltbibliothek stürmte und Aktivistinnen und Aktivisten verhaftete. Doch statt einzuschüchtern, löste der Angriff Protest aus: Mahnwachen vor der Kirche wurden organisiert und schließlich kamen die Gefangenen wieder frei.</p>\n<p>Die Aktion machte die Umweltbibliothek über die DDR hinaus bekannt. Nach dem Mauerfall war für Halbrock die ursprüngliche Aufgabe der Umweltbiliothek erfüllt. Geblieben ist die Überzeugung, dass gesellschaftliche Veränderung Solidarität braucht — und dass Umweltengagement mehr sein kann als Protest.</p>\n<p>1986 hat der deutsche Historiker <strong>Christian Halbrock</strong> mit ein paar Mitstreitern die DDR-Umweltbibliothek in Ostberlin gegründet. Welche Erkenntnisse aus den Erfahrungen damals heute noch Bestand haben, das erzählt er in dieser Folge von „Mission Energiewende“ mit <em>detektor.fm</em>-Moderatorin Ina Lebedjew.</p>",
+    "date": "2026-09-01T03:45:31.000Z",
+    "url": "https://feedpress.me/link/19604/17436099/mission-energiewende-40-jahre-ddr-umweltbibliothek",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/20260901missionenergiewendeddrumweltbibliothek.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/20260901missionenergiewendeddrumweltbibliothek.63.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "10-minuten-wissen-kunst:6a961169cbb539139739db65",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
+    "type": "rss",
+    "title": "Beliebteste Folge: Caspar David Friedrich - Der Wanderer über dem Nebelmeer: Ein Gipfel zwischen Himmel und Seele",
+    "summary": "<p>Wir sind in der letzten Woche unserer Sommerpause: Diese Woche gibt es eine weitere unserer bisher meistgehörten Folgen, ab nächster Woche geht es mit einer neuen Folge weiter!</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p><strong>Die Geschichte hinter dem ikonischen Gemälde der deutschen Romantik – eine meisterhaft komponierte Fiktion über den Menschen, die Natur und den Blick ins Ungewisse. </strong>Ein Mann steht auf einem Felsgipfel, den Rücken uns zugewandt, und blickt auf ein endloses Meer aus Nebel. Caspar David Friedrichs \"Wanderer über dem Nebelmeer\" ist eines der berühmtesten Bilder der deutschen Kunstgeschichte. Doch was verbirgt sich hinter dieser scheinbar einfachen Szene? Ist es ein echtes Porträt? Eine reale Landschaft?</p><p>In dieser Folge von entschlüsseln wir die Geheimnisse dieses Meisterwerks. Wir entdecken, dass die Landschaft eine kunstvolle Collage aus verschiedenen Orten ist, analysieren die politische Bedeutung der Kleidung des Wanderers und tauchen ein in die Philosophie des \"Erhabenen\", die das Herz der Romantik bildet. Erfahrt, wie Friedrich die Rückenfigur perfektionierte, um uns zu Stellvertretern seiner Vision zu machen, und warum dieses Bild trotz seiner Vereinnahmung durch die Nazis heute als zeitlose Metapher für die menschliche Suche nach Sinn und Orientierung gilt.</p><br><p><strong>Weiterführende Links:</strong></p><p>• <strong>Das Original in Hamburg:</strong> <a href=\"https://online-sammlung.hamburger-kunsthalle.de/de/objekt/HK-5161/der-wanderer-ueber-dem-nebelmeer%3Fterm%3DWanderer%2520%25C3%25BCber%2520dem%2520Nebelmeer%26context%3Ddefault%26index%3D0\" rel=\"noopener\" target=\"_blank\">Hamburger Kunsthalle – Der Wanderer über dem Nebelmeer</a></p><p>• <strong>Erkundet das Gemälde in hoher Auflösung:</strong> <a href=\"https://de.wikipedia.org/wiki/Der_Wanderer_%C3%BCber_dem_Nebelmeer#/media/Datei:Ueber-die-sammlung-19-jahrhundert-caspar-david-friedrich-wanderer-ueber-dem-nebelmeer.jpg\" rel=\"noopener\" target=\"_blank\">Der Wanderer auf Wikipedia</a></p><p>• <strong>Vertieft euer Wissen:</strong> <a href=\"https://de.wikipedia.org/wiki/Der_Wanderer_%C3%BCber_dem_Nebelmeer\" rel=\"noopener\" target=\"_blank\">Wikipedia-Artikel zum Gemälde</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-09-01T03:00:00.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/caspar-david-friedrichbeliebtestefolge",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a961169cbb539139739db65/media.mp3",
+    "duration": "13 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
+    ],
+    "category": [
+      "Kunst",
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0462e8c7-14aa-5a02-bc1a-df69e2db6039",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 31.08.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:56:26.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-31-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/kulturmeldungen_31082026_dlf_20260831_1756_27a94f41.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:453e567e-68da-58ca-82cb-2c2e2f31d186",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Feuchtwanger \"Villa Aurora\" in Kalifornien nach dem Brand",
+    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:51:11.000Z",
+    "url": "https://www.deutschlandfunk.de/die-feuchtwanger-villa-aurora-in-kalifornien-nach-dem-brand-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/die_feuchtwanger_villa_aurora_in_kalifornien_nach_dem_brand_dlf_20260831_1751_16a6b0b7.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e0772144-55ca-5102-9d38-1ea6752cfa7b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Demokratiearbeit im Alltag. Maximilian Pichl über öffentliche Begegnungsorte",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:46:03.000Z",
+    "url": "https://www.deutschlandfunk.de/demokratiearbeit-im-alltag-maximilian-pichl-ueber-oeffentliche-begegnungsorte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/demokratiearbeit_im_alltag_maximilian_pichl_ueber_dlf_20260831_1746_0aa5818c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:77f2b49e-73ba-5b9a-a0f3-d84ec0e3eab7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Unordnung als Chance? Reflexe und Reflexionen bei den Berliner Festspielen",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:41:10.000Z",
+    "url": "https://www.deutschlandfunk.de/unordnung-als-chance-reflexe-und-reflexionen-bei-den-berliner-festspielen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/unordnung_als_chance_reflexe_und_reflexionen_bei_den_dlf_20260831_1741_9fa47d3c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c6b8d543-5512-58e6-8fa4-cc43de943158",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gedächtnislücken. Polens Botschafter Jan Tombinski zum Gedenken an den 1.9.1939",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:35:15.000Z",
+    "url": "https://www.deutschlandfunk.de/gedaechtnisluecken-polens-botschafter-jan-tombinski-zum-gedenken-an-den-1-9-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/gedaechtnisluecken_polens_botschafter_jan_tombinski_zum_dlf_20260831_1735_5ea232f7.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:02ba7eae-89eb-5817-b72c-c0378ca7d253",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Für mehr Solidarität unter Veranstaltern - Felix Grädler über den \"Club-Euro\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-31T13:15:54.000Z",
+    "url": "https://www.deutschlandfunk.de/fuer-mehr-solidaritaet-unter-veranstaltern-felix-graedler-ueber-den-club-euro-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/fuer_mehr_solidaritaet_unter_veranstaltern_felix_graedler_dlf_20260831_1515_1621ab20.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4f18c156-7fb6-5f9d-a02d-5f6f10101056",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "75 Jahre LP in Deutschland - Peter Runge über Bio-Schallplatten aus Speiseöl",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-31T13:08:47.000Z",
+    "url": "https://www.deutschlandfunk.de/75-jahre-lp-in-deutschland-peter-runge-ueber-bio-schallplatten-aus-speiseoel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/75_jahre_lp_in_deutschland_peter_runge_ueber_bio_dlf_20260831_1508_3a225c71.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e1dc6798-1496-590c-8dc2-0aaafc732659",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Buch \"Poppkultur\" - Warum Sexfantasien wichtig sind",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-31T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/buch-poppkultur-warum-sexfantasien-wichtig-sind-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/buch_poppkultur_warum_sexfantasien_wichtig_sind_dlf_20260831_1506_999246e3.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:d76eb48cb05cfe1b6c5e1e94854e3f7d",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -252,136 +583,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:9305d1d1-5182-5426-9292-9ec5217522a2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 29.08.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/kulturmeldungen_29082026_dlf_20260829_1756_03876580.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0f66a060-cf7e-515d-a3c9-9de795e87350",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vor den Wahlen in Sachsen-Anhalt - Sorgen und Hoffnungen der Filmszene",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/vor-den-wahlen-in-sachsen-anhalt-sorgen-und-hoffnungen-der-filmszene-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/vor_den_wahlen_in_sachsen_anhalt_sorgen_und_hoffnungen_der_dlf_20260829_1715_f5845974.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:936484cc-8cba-55c2-845e-c99a9b67fd14",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturgutschutz nach dem Brand. Hürtgenwalds Bürgermeister Stefan Cranen i.G.",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:42:45.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturgutschutz-nach-dem-brand-huertgenwalds-buergermeister-stefan-cranen-i-g-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/kulturgutschutz_nach_dem_brand_huertgenwalds_buergermeister_dlf_20260829_1742_7e823b21.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:433da8df-b6de-5a23-96b4-8c8e885c14ba",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Ein Rummelnachtstraum\" in Kassel - Kirmes, Kunst, Theater im Freien",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:37:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ein-rummelnachtstraum-in-kassel-kirmes-kunst-theater-im-freien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/ein_rummelnachtstraum_in_kassel_kirmes_kunst_theater_im_dlf_20260829_1737_637fb2ad.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9c94fffc-21a2-59cb-91f6-8727d0f076e5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verharmlosung von NS und DDR? Wie die AfD Geschichte instrumentalisiert",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:30:28.000Z",
-    "url": "https://www.deutschlandfunk.de/verharmlosung-von-ns-und-ddr-wie-die-afd-geschichte-instrumentalisiert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/verharmlosung_von_ns_und_ddr_wie_die_afd_geschichte_dlf_20260829_1730_f67cef05.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:7435a394-0b8f-56a2-8021-b8244f41ee15",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -418,6 +619,31 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/neues_album_von_mine_was_bleibt_wenn_die_lichter_ausgehen_dlf_20260829_1510_4d81e2df.mp3?refId=corso-104",
     "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f63af500-e74a-5cb3-b991-dade1d8202a6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mike D: Zurück zur Musik - 14 Jahre nach dem Ende der Beastie Boys",
+    "summary": "Groß, Torsten www.deutschlandfunk.de, Corso",
+    "date": "2026-08-29T12:10:31.000Z",
+    "url": "https://www.deutschlandfunk.de/mike-d-zurueck-zur-musik-14-jahre-nach-dem-ende-der-beastie-boys-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/mike_d_zurueck_zur_musik_14_jahre_nach_dem_ende_der_beastie_dlf_20260829_1410_9a80347b.mp3?refId=corso-104",
+    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
@@ -979,56 +1205,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:f5dbeb5a-99f9-514c-ac40-fe39ded826d7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Dr. Frank-N-Furter - Nachruf auf Schauspieler und Sänger Tim Curry",
-    "summary": "Rähling, Lisa-Maria www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:09:46.000Z",
-    "url": "https://www.deutschlandfunk.de/dr-frank-n-furter-nachruf-auf-schauspieler-und-saenger-tim-curry-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/dr_frank_n_furter_nachruf_auf_schauspieler_und_saenger_tim_dlf_20260827_1509_108e5435.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:154c6708-3d68-589c-9565-d69079d87422",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rassismus - Regisseur Faraz Shariat über den Film \"Staatsschutz\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/rassismus-regisseur-faraz-shariat-ueber-den-film-staatsschutz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/rassismus_regisseur_faraz_shariat_ueber_den_film_dlf_20260827_1506_99a772ea.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4043219",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -1148,56 +1324,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:df32a682-f2ab-5fc0-897a-7e590689251e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: Der Heimatlose, Strange River, Staatsschutz",
-    "summary": "Jörg Albrecht www.deutschlandfunk.de, Corso",
-    "date": "2026-08-26T13:20:47.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-der-heimatlose-strange-river-staatsschutz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/neue_filme_der_heimatlose_strange_river_staatsschutz_dlf_20260826_1520_8959691d.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:55f56133-6ff8-5623-ae99-06606d7914ae",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kreative Krise? Die Gamescom zwischen Indie und AAA-Games",
-    "summary": "Nowak, Tobias www.deutschlandfunk.de, Corso",
-    "date": "2026-08-26T13:10:49.000Z",
-    "url": "https://www.deutschlandfunk.de/kreative-krise-die-gamescom-zwischen-indie-und-aaa-games-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/kreative_krise_die_gamescom_zwischen_indie_und_aaa_games_dlf_20260826_1510_bb583e59.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1402,7 +1528,7 @@
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
     "type": "rss",
-    "title": "Beliebteste Folge: Yayoi Kusama – Pumpkin: Das gelbe Herz im Meer der Unendlichkeit",
+    "title": "Aktuell: Yayoi Kusama – Pumpkin: Das gelbe Herz im Meer der Unendlichkeit",
     "summary": "<p>Wir machen eine kurze Sommerpause: Diese Woche gibt es eine weitere unserer bisher meistgehörten Folgen.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>Auf der japanischen Kunstinsel Naoshima ruht das Werk <strong>„Pumpkin“</strong>. Es ist ein Anblick von fast surrealer Stille, der Besucher empfängt – ein bauchiger, erdverbundener Wächter, der dem Rhythmus der Gezeiten trotzt. Doch hinter der scheinbaren Ruhe der Skulptur und ihrem hypnotischen Muster aus schwarzen Punkten verbirgt sich eine Geschichte von existenzieller Dringlichkeit. Für Yayoi Kusama war dieser Kürbis nie bloß ein dekoratives Objekt, sondern ein seelischer Rettungsanker – ein vertrauter Begleiter aus den Gärtnereien ihrer Kindheit, der ihr half, die stürmischen Halluzinationen ihrer eigenen Psyche zu bändigen und in eine universelle Sprache zu übersetzen.</p><p>In dieser Folge von <strong>10 Minuten Wissen: Kunst</strong> entschlüsseln wir das radikale Universum einer Frau, die ihre tiefsten Ängste in ein globales Phänomen verwandelte. Wir begleiten Kusama von den strengen Traditionen Japans in das rücksichtslose New York der 60er-Jahre, wo sie sich als Pionierin gegen die Giganten der Kunstwelt behauptete. Wir erfahren, wie aus der obsessiven Wiederholung eines Musters die Heilung durch <strong>„Self-Obliteration“</strong> – die Selbstauslöschung im Unendlichen – wurde. Es ist die Reise einer Künstlerin, die heute, mit weit über 90 Jahren, die Welt mit ihren Punkten überzieht, um uns daran zu erinnern, dass wir alle Teil eines größeren, unendlichen Ganzen sind.</p><br><p><strong>Weiterführende Links zur Folge:</strong></p><p>• <a href=\"https://benesse-artsite.jp/en/story/20220930-2466.html\" rel=\"noopener\" target=\"_blank\"><strong>Das Kunstwerk im Blick:</strong> Hochauflösendes Bild von „Pumpkin“ am Gotanji-Steg</a></p><p>• <a href=\"https://de.wikipedia.org/wiki/Yayoi_Kusama\" rel=\"noopener\" target=\"_blank\"><strong>Die Künstlerin verstehen:</strong> Yayoi Kusama auf Wikipedia (Deutsch)</a></p><p>• <a href=\"https://yayoikusamamuseum.jp/en/\" rel=\"noopener\" target=\"_blank\"><strong>Offizielle Webseite:</strong> Das Yayoi Kusama Museum in Tokio</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
     "date": "2026-08-24T22:00:00.000Z",
     "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/yayoi-kusama-pumpkin-das-gelbe-herz-im-meer-der-unendlichkei",
@@ -1497,29 +1623,6 @@
     "language": "de"
   },
   {
-    "id": "zeitzeichen:7628be33d4513436159721ee82e7992d",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Selbstverbrennung eines Pfarrers in der DDR: radikale Opposition",
-    "summary": "<p>Am 22. August 1976 stirbt Oskar Brüsewitz an den Folgen seiner Selbstverbrennung. Er wollte die DDR anklagen. Sein Tod löst Debatten aus - mit Folgen für die Opposition.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Uli Hufen:</strong><br><ul><li>wie Oskar Brüsewitz seinen Freitod inszeniert, </li><li>dass die Kirche ihn zunächst als Pfarrer für ungeeignet hält, </li><li>erst die Art der Berichterstattung über seinen Tod zum Skandal führt.</li></ul><br>Weder Staat noch Kirche wollen aus der Selbstverbrennung von Oskar Brüsewitz einen Skandal machen. Die Kirche hat sich mit dem DDR-Regime arrangiert, die SED-Führung kann keinen Märtyrer gebrauchen. Doch in Westdeutschland lösen Brüsewitz' Tod Schlagzeilen und Proteste aus. Nun sehen sich die DDR-Medien genötigt, den Pfarrer als \"abnormal und krankhaft veranlagt\" zu diffamieren.<br><br>Damit erreichen sie genau das Gegenteil, auch in der DDR beginnt der Protest. Unter dem Druck der Ereignisse bekräftigt Erich Honecker die Religionsfreiheit. Damit schafft Oskar Brüsewitz' Tod letztlich neue Freiräume und stärkt eine kirchliche Opposition, die 1989 zum Ende der DDR beiträgt. <br><br><strong>Unser Tipp:</strong> <br><a href=\"https://www1.wdr.de/app/ost-west-zeitzeugen/index.html\" rel=\"noopener\" target=\"_blank\">Die App \"OstWest Zeitzeugen\" der ARD</a><br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Karsten Krampitz, Historiker</li><li>Sabine Stach, Historikerin</li><li>Karsten Krampitz: 1976. Die DDR in der Krise. Berlin 2016</li><li>Karsten Krampitz: Der Fall Brüsewitz: Staat und Kirche in der DDR. Berlin 2016</li><li>Sabine Stach: Vermächtnispolitik. Jan Palach und Oskar Brüsewitz als politische Märtyrer. Göttingen 2016</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen:<a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-michael-gartenschlaeger-102.html\" rel=\"noopener\" target=\"_blank\"> 30.04.1976: DDR-Widerständler Michael Gartenschläger wird erschossen</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-wolf-biermann-konzert-koeln-100.html\" rel=\"noopener\" target=\"_blank\">13. November 1976 - Wolf Biermann gibt folgenreiches Konzert in Köln</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/deutsche_geschichte/ddr/ddr-der-alltag-100.html\" rel=\"noopener\" target=\"_blank\">Das Leben in der DDR - Alltag in der DDR </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Uli Hufen <br>Redaktion: Sefa Inci Suvak",
-    "date": "2026-08-22T04:00:10.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-selbstverbrennung-eines-pfarrers-in-der-ddr-radikale-opposition-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-oskar-bruesewitz-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/16/06449bcf-43bb-4182-a5c6-252460d1ac35/06449bcf-43bb-4182-a5c6-252460d1ac35_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-1001-nacht:5bbba1ad-953f-59b0-a128-a6881032dc0f",
     "source": "dlf-1001-nacht",
     "sourceTitle": "1001 Nacht – Deutschlandfunk",
@@ -1559,30 +1662,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260821-02brandeinsrabea-weihser.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260821-02brandeinsrabea-weihser.63.mp3",
     "duration": "30 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4037592",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Streit um den Wald der Zukunft",
-    "summary": "Der umkämpfte Wald\n<p>Unsere Vorstellungen vom Wald sind häufig romantisch verklärt: ein tiefer, dunkler Forst, unberührte Natur. Doch unsere Wälder sollen gleichzeitig diverse Funktionen erfüllen: Erträge für die Holzwirtschaft einbringen, Natur- und Klimaschutz gerecht werden, Erholung bieten. Oft konkurrieren verschiedene Parteien um den Wald — von Kommunen über Jagdvereine, Freizeit-Waldliebhaber und -liebhaberinnen bis hin zu Umweltschutzverbänden.</p>\n<p>Forschende zeigen, dass solche Konflikte nur durch transparente Kommunikation und frühzeitigen Dialog gelöst werden können. Wie also kann man all diese unterschiedlichen Interessen verbinden?</p>\n<p>Eine mögliche Antwort liefert der sogenannte Mittelwald im fränkischen Bad Windsheim. Dort setzt man auf eine jahrhundertealte Form der Bewirtschaftung. Dabei werden einzelne Flächen regelmäßig genutzt, während andere über Jahrzehnte wachsen können. So entsteht ein Mosaik aus offenen Bereichen, Sträuchern, jungen und alten Bäumen sowie Totholz.</p>\nWie wird der Wald widerstandsfähig?\n<p>Nur rund ein Prozent der deutschen Waldfläche wird so bewirtschaftet. Doch gerade diese Vielfalt schafft Lebensräume für zahlreiche Pflanzen, Pilze und Tiere.</p>\n<p>Zwar gilt der Mittelwald in Bad Windsheim nicht als Modell, das überall kopiert werden kann. Hier zeigt sich jedoch, wie unterschiedliche Interessen zusammengeführt werden können. Entscheidend ist dabei weniger eine bestimmte Bewirtschaftungsform als die Bereitschaft, wissenschaftliche Erkenntnisse ernst zu nehmen und verschiedene Perspektiven einzubeziehen. Der Wald der Zukunft braucht nicht nur ökologische Vielfalt, sondern auch gesellschaftliche Kompromissfähigkeit.</p>\n<p>„Emotionalität ist für eine sachliche Diskussion meistens nicht so zuträglich“, sagt <strong>Verena Tang.</strong> Sie ist Redakteurin bei <em>Spektrum der Wissenschaft</em> und hat gemeinsam mit ihrer Kollegin Katharina Menne den Mittelwald im fränkischen Bad Windsheim besucht. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt sie, warum diese Form der Bewirtschaftung vielleicht die Zukunft sein könnte und welche Konflikte es um den Wald gibt.</p>",
-    "date": "2026-08-21T02:53:23.000Z",
-    "url": "https://feedpress.me/link/19604/17424888/spektrum-podcast-wald-konflikte-zukunft",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260821spektrum-podcastwaldkonflikte.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260821spektrum-podcastwaldkonflikte.63.mp3",
-    "duration": "26 Min",
     "tags": [
       "wissenschaft",
       "forschung",
@@ -1671,33 +1750,6 @@
       "Kunst",
       "Geschichte",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-auch-das-noch:e853deb2-8660-428b-919f-8b6ad73b9840",
-    "source": "zeit-auch-das-noch",
-    "sourceTitle": "Auch das noch? – DIE ZEIT",
-    "type": "rss",
-    "title": "»Die Klimakrise ist eine Ungerechtigkeitskrise.«",
-    "summary": "<p>Während die Folgen der Klimakrise vor aller Augen eskalieren, verliert der Schutz von Klima und Umwelt politisch an Bedeutung. Darüber könnte man verzweifeln! Die Juristin Baro Gabbert hat jahrelang die Klimabewegung begleitet, gründete die erste Rechtsberatung für Klimaaktivisten. Bis heute setzt sie sich für bessere Gesetze ein, inzwischen vertritt sie bei Greenpeace das Thema sozial-ökologischer Gerechtigkeit. Mit ihr sprechen wir darüber, was ihr Hoffnung gibt. Und was dieses große Wort ganz praktisch für sie bedeutet.</p>\n<p>In jeder Folge von <i>Auch das noch? – Der freundliche Krisenpodcast</i> sprechen ZEIT-Politikredakteurin <a href=\"https://www.zeit.de/autoren/P/Petra_Pinzler/index.xml\" rel=\"noopener\" target=\"_blank\">Petra Pinzler</a> und Wissenschaftsredakteur <a href=\"https://www.zeit.de/autoren/S/Stefan_Schmitt/index.xml\" rel=\"noopener\" target=\"_blank\">Stefan Schmitt</a> über eine Krise der Gegenwart: Es geht um die Klimakrise, das Artensterben, die Energiekrise und Kriege. Jedes Mal hilft eine Expertin oder ein Experte zu verstehen, wie alles zusammenhängt. Nicht um zu verzweifeln, sondern weil Verstehen der erste Schritt zur Lösung ist. Und um Lösungen geht es natürlich auch.</p>\n<p>Die Links zur Folge:</p>\n<ul>\n<li>In <a href=\"https://www.piper.de/buecher/keine-zukunft-ist-auch-keine-loesung-isbn-978-3-492-06580-1\" rel=\"noopener\" target=\"_blank\">diesem Buch</a> greift Baro Gabbert zusammen mit Fabian Grischkat die aktuell entmutigende Lage bei Ökologie, Klimaschutz und sozialer Gerechtigkeit auf und argumentiert dafür, sich dennoch zu engagieren. Keine Hoffnung ist auch keine Lösung (Piper, 2025).</li>\n<li><a href=\"https://www.oekom.de/buch/was-wir-meinen-wenn-wir-hoffnung-sagen-9783987265167\" rel=\"noopener\" target=\"_blank\"><i>Was wir meinen, wenn wir Hoffnung sagen</i></a> heißt die bei Oekom erschienene Essaysammlung verschiedener Autoren aus diesem Frühjahr, in der Baro Gabbert ihren Hoffnungsbegriff erklärt.</li>\n<li>Bei <a href=\"https://www.greenpeace.de/ueber-uns/expertinnen/baro-vicenta-ra-gabbert\" rel=\"noopener\" target=\"_blank\">Greenpeace Deutschland</a> ist Gabbert Sprecherin für sozial-ökologische Gerechtigkeit.</li>\n<li>Die <a href=\"https://www.climateclinic.de/\" rel=\"noopener\" target=\"_blank\">Climate Clinic </a>ist ein Zusammenschluss von Juristinnen und Juristen, die mit ihrer Expertise zum Beispiel Klimaaktivistinnen und -aktivisten unterstützen.</li>\n<li>Die <a href=\"https://bundesjugendkuratorium.de/\" rel=\"noopener\" target=\"_blank\">Website des Bundesjugendkuratoriums,</a> dessen Mitglied Gabbert gewesen ist.</li>\n<li>Als <a href=\"https://www.spiegel.de/panorama/baro-vicenta-ra-gabbert-die-gruenderin-der-climate-clinic-kaempft-fuer-den-klimaschutz-a-4cde14d9-4589-4c20-8ea7-fc819ce43e25\" rel=\"noopener\" target=\"_blank\">eine von hundert »Hoffnungsträgerinnen«</a> hat <i>Der Spiegel</i> Gabbert Anfang 2025 ausgezeichnet. Zu den Stichworten Überreichtum und Milliardärssteuer sind dies die beiden versprochenen Links zu früheren Episoden: mit Martyna Linartas sprachen wir.</li>\n<li>Und in diesem Frühjahr erschien das ebenfalls erwähnte Gespräch mit Heinrich Strößenreuther über <a href=\"https://www.zeit.de/politik/2026-03/buergerentscheide-heinrich-stroessenreuter-ziviles-engagement-auch-das-noch\" rel=\"noopener\" target=\"_blank\">lokale Verkehrswende- und Klimainitiativen.</a></li>\n</ul>\n<p> </p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Doku-Podcasts, Bonusfolgen und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen.</a> Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht’s zum Angebot</a><strong>.</strong></p>",
-    "date": "2026-08-18T03:55:00.000Z",
-    "url": "https://www.zeit.de/auch-das-noch-krisenpodcast",
-    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f1e25ec7-2e55-45b6-a911-ce88f7d0b73e/3000x3000/auch-das-noch.jpg?aid=rss_feed",
-    "audio": "https://zeitonline.simplecastaudio.com/6debd049-34b3-4994-96b0-039fabb2761b/episodes/8f40b549-1b20-45af-b2d2-88059e5d48b1/audio/128/default.mp3?aid=rss_feed&awCollectionId=6debd049-34b3-4994-96b0-039fabb2761b&awEpisodeId=8f40b549-1b20-45af-b2d2-88059e5d48b1&feed=Sdxt6Bhy",
-    "duration": "47 Min",
-    "tags": [
-      "klima",
-      "krisen",
-      "umwelt",
-      "gesellschaft",
-      "politik",
-      "zeit"
-    ],
-    "category": [
-      "Öko-Wissenschaft",
-      "Gesellschaft",
-      "Politik"
     ],
     "language": "de"
   },
@@ -2096,7 +2148,7 @@
     "sourceTitle": "10 Minuten Wissen – Kunst",
     "type": "rss",
     "title": "Beliebteste Folge: Claude Monet - Die Seerosen: Das unendliche Spiel des Lichts",
-    "summary": "<p><strong>Wir machen eine kurze Sommerpause: Diese Woche gibt es noch einmal die bisher meistgehörte Folge.</strong></p><p><strong>Nächste Woche, am 28. Juli sind wir mit einer neuen Folge zurück!</strong></p><br><p>Sie sind ein Universum aus Licht und Wasser: Claude Monets berühmte Seerosen. In dieser Folge von <strong>\"10 Minuten Wissen: Kunst\"</strong> tauchen wir ein in die Geschichte von Monets größter Obsession, die ihn die letzten 30 Jahre seines Lebens beschäftigte. Wir reisen nach Giverny und erleben, wie der Maler zum Architekten seines eigenen Motivs wurde – indem er Flüsse umleitete, gegen den Protest seiner Nachbarn einen Teich anlegte und einen Garten wie eine Farbpalette komponierte.</p><p>Wir verfolgen seinen dramatischen Kampf gegen den Grauen Star, der seine Farbwahrnehmung radikal veränderte, und entdecken, wie diese Tragödie ihn an die Grenzen der Abstraktion trieb. Am Ende steht sein monumentales Geschenk an Frankreich: die großen Seerosen-Panoramen in der Orangerie in Paris, ein Werk, das seiner Zeit so weit voraus war, dass es erst Jahrzehnte später von den amerikanischen Expressionisten als Revolution verstanden wurde.</p><br><p><strong>Weiterführende Links:</strong></p><p>• <strong>Das Seerosen-Panorama in Paris:</strong> <a href=\"https://www.musee-orangerie.fr/en/node/197502\" rel=\"noopener\" target=\"_blank\">Musée de l'Orangerie – Offizielle Webseite (EN/FR)</a></p><p>• <strong>Monets Garten heute:</strong> <a href=\"https://claudemonetgiverny.fr/en/\" rel=\"noopener\" target=\"_blank\">Fondation Monet in Giverny (EN)</a></p><p>• <strong>Erkundet die Seerosen digital:</strong> <a href=\"https://fondation-monet.com/visite-virtuelle/\" rel=\"noopener\" target=\"_blank\">Virtuelle Tour durch das Haus und den Garten</a></p><p>• <strong>Vertieft euer Wissen:</strong> <a href=\"https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series)\" rel=\"noopener\" target=\"_blank\">Wikipedia-Artikel zu den Seerosen-Bilder (EN)</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "summary": "<p>Sie sind ein Universum aus Licht und Wasser: Claude Monets berühmte Seerosen. In dieser Folge von <strong>\"10 Minuten Wissen: Kunst\"</strong> tauchen wir ein in die Geschichte von Monets größter Obsession, die ihn die letzten 30 Jahre seines Lebens beschäftigte. Wir reisen nach Giverny und erleben, wie der Maler zum Architekten seines eigenen Motivs wurde – indem er Flüsse umleitete, gegen den Protest seiner Nachbarn einen Teich anlegte und einen Garten wie eine Farbpalette komponierte.</p><p>Wir verfolgen seinen dramatischen Kampf gegen den Grauen Star, der seine Farbwahrnehmung radikal veränderte, und entdecken, wie diese Tragödie ihn an die Grenzen der Abstraktion trieb. Am Ende steht sein monumentales Geschenk an Frankreich: die großen Seerosen-Panoramen in der Orangerie in Paris, ein Werk, das seiner Zeit so weit voraus war, dass es erst Jahrzehnte später von den amerikanischen Expressionisten als Revolution verstanden wurde.</p><br><p><strong>Weiterführende Links:</strong></p><p>• <strong>Das Seerosen-Panorama in Paris:</strong> <a href=\"https://www.musee-orangerie.fr/en/node/197502\" rel=\"noopener\" target=\"_blank\">Musée de l'Orangerie – Offizielle Webseite (EN/FR)</a></p><p>• <strong>Monets Garten heute:</strong> <a href=\"https://claudemonetgiverny.fr/en/\" rel=\"noopener\" target=\"_blank\">Fondation Monet in Giverny (EN)</a></p><p>• <strong>Erkundet die Seerosen digital:</strong> <a href=\"https://fondation-monet.com/visite-virtuelle/\" rel=\"noopener\" target=\"_blank\">Virtuelle Tour durch das Haus und den Garten</a></p><p>• <strong>Vertieft euer Wissen:</strong> <a href=\"https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series)\" rel=\"noopener\" target=\"_blank\">Wikipedia-Artikel zu den Seerosen-Bilder (EN)</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
     "date": "2026-07-21T02:06:49.000Z",
     "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/beliebteste-folge-claude-monet",
     "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
@@ -2374,32 +2426,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-16-regulierte-wahrheit-ueber-den-kampf-gegen-fakenews-dlf-20260616-1915-0a3cb568-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Regulierte Wahrheit - Über den Kampf gegen Fakenews",
-    "summary": "Was darf gesagt werden – und wer entscheidet darüber? Der Kampf gegen Desinformation ist ein globaler Konflikt, an dem die Zukunft der liberalen Demokratien hängt. Von Christian Jakob www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-30T05:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/regulierte-wahrheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/73/5b/42/5b/735b425b-82a7-40a5-895d-6397b0d4ac5a/bild-fuer-regulierte-wahrheit-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/16/regulierte_wahrheit_ueber_den_kampf_gegen_fakenews_dlf_20260616_1915_0a3cb568.mp3?refId=das-feature-104",
-    "duration": "44 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6a433f386c42755eb6cd719c",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -2448,32 +2474,6 @@
     "category": [
       "Geschichte",
       "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "10-minuten-wissen-kunst:6a39ff9f30d470180fcae838",
-    "source": "10-minuten-wissen-kunst",
-    "sourceTitle": "10 Minuten Wissen – Kunst",
-    "type": "rss",
-    "title": "Tamara de Lempicka – Tamara im grünen Bugatti: Am Steuer eines selbstbestimmten Lebens im Rausch der Moderne",
-    "summary": "<p>Ein kühler Blick, die Hand sicher am Lenkrad, gehüllt in Leder und ein sattes, glänzendes Grün: Das Selbstporträt „Tamara im grünen Bugatti“ von neunzehnhundertneunundzwanzig ist das unverkennbare Aushängeschild des Art-déco-Stils. Doch hinter dem glamourösen Titelblatt der Modezeitschrift „Die Dame“ verbirgt sich weit mehr als ein perfekt inszeniertes Lebensgefühl der mondänen Großstadt. In dieser Folge blicken wir hinter die makellose, kühle Fassade einer Malerin, die sich entschieden weigerte, jemals nur Beifahrerin ihrer eigenen Geschichte zu sein. Wie wurde aus einer mittellosen Geflüchteten eine weltberühmte Ikone? Und welche faszinierende Wahrheit steckt eigentlich hinter dem berühmten grünen Sportwagen?</p><p>Wir reisen zurück in das pulsierende Paris der Zwanzigerjahre – eine Epoche zwischen dem rasanten Aufbruch in die Moderne, Jazz und elektrischem Licht. Es ist die Zeit einer neuen Generation von Frauen, die herrschende Vorurteile bricht. Mittendrin erfindet sich Tamara de Lempicka Schicht für Schicht neu. Wir beleuchten ihre dramatische Flucht vor der russischen Revolution, ihre unerbittliche Arbeitsdisziplin, ihre tiefen Obsessionen in der Halbwelt und ihren späteren Weg als exzentrische „Baronin mit dem Pinsel“ in Hollywood – bis hin zu ihrem spektakulären Abschied über einem mexikanischen Vulkan.</p><br><p>Weiterführende Links</p><p>• <strong>Das Werk in hoher Auflösung</strong>: <a href=\"https://en.wikipedia.org/wiki/File:Tamara_de_Lempicka,_Autoportrait_(Tamara_in_a_Green_Bugatti).jpeg\" rel=\"noopener\" target=\"_blank\">Tamara im grünen Bugatti</a></p><p>•<strong> Wikipedia-Eintrag zur Künstlerin</strong>: <a href=\"https://de.wikipedia.org/wiki/Tamara_de_Lempicka\" rel=\"noopener\" target=\"_blank\">Wikipedia – Tamara de Lempicka</a></p><p>•<strong> Wikipedia-Eintrag zum Meisterwerk</strong>: <a href=\"https://de.wikipedia.org/wiki/Tamara_im_gr%C3%BCnen_Bugatti\" rel=\"noopener\" target=\"_blank\">Wikipedia – Tamara im grünen Bugatti</a></p><p>•<strong> Die Berliner Ausstellung</strong>: <a href=\"https://www.smb.museum/ausstellungen/detail/ruin-und-rausch/\" rel=\"noopener\" target=\"_blank\">Staatliche Museen zu Berlin – Neue Nationalgalerie: Ruin und Rausch</a></p><p>• <strong>Das Broadway-Musical</strong>: <a href=\"https://lempickamusical.com/music\" rel=\"noopener\" target=\"_blank\">Lempicka on Broadway – Das Musical</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
-    "date": "2026-06-23T03:56:35.000Z",
-    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/tamara-de-lempicka",
-    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
-    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a39ff9f30d470180fcae838/media.mp3",
-    "duration": "18 Min",
-    "tags": [
-      "kunst",
-      "kunstgeschichte",
-      "bildung",
-      "wissen",
-      "kultur"
-    ],
-    "category": [
-      "Kunst",
-      "Geschichte",
       "Bildung"
     ],
     "language": "de"

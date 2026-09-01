@@ -1,5 +1,236 @@
 [
   {
+    "id": "dlf-das-feature:6431a6a7-dfea-537a-9e26-558e16782396",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "doku drops 16: Minidrops - Jeden Monat neue Kurzdokus",
+    "summary": "Warum viele Worte verlieren? Neue dokumentarische Hörstücke im nochmals reduzierten Miniaturformat erzählen kompakt, aber nicht verkürzt: über Seelen, Pflanzen, Tiere, Menschen, über Lebens- und Geschmacksfragen. div. www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-01T06:30:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/doku-drops-16-minidrops-102.html",
+    "image": "https://bilder.deutschlandfunk.de/7b/50/84/2b/7b50842b-c4eb-4a18-9ff5-301024cdd14b/doku-drops-16-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/doku_drops_16_minidrops_drk_20260905_1830_77aaf4d6.mp3?refId=das-feature-104",
+    "duration": "27 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0462e8c7-14aa-5a02-bc1a-df69e2db6039",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 31.08.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:56:26.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-31-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/kulturmeldungen_31082026_dlf_20260831_1756_27a94f41.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:453e567e-68da-58ca-82cb-2c2e2f31d186",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Feuchtwanger \"Villa Aurora\" in Kalifornien nach dem Brand",
+    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:51:11.000Z",
+    "url": "https://www.deutschlandfunk.de/die-feuchtwanger-villa-aurora-in-kalifornien-nach-dem-brand-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/die_feuchtwanger_villa_aurora_in_kalifornien_nach_dem_brand_dlf_20260831_1751_16a6b0b7.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e0772144-55ca-5102-9d38-1ea6752cfa7b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Demokratiearbeit im Alltag. Maximilian Pichl über öffentliche Begegnungsorte",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:46:03.000Z",
+    "url": "https://www.deutschlandfunk.de/demokratiearbeit-im-alltag-maximilian-pichl-ueber-oeffentliche-begegnungsorte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/demokratiearbeit_im_alltag_maximilian_pichl_ueber_dlf_20260831_1746_0aa5818c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:77f2b49e-73ba-5b9a-a0f3-d84ec0e3eab7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Unordnung als Chance? Reflexe und Reflexionen bei den Berliner Festspielen",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:41:10.000Z",
+    "url": "https://www.deutschlandfunk.de/unordnung-als-chance-reflexe-und-reflexionen-bei-den-berliner-festspielen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/unordnung_als_chance_reflexe_und_reflexionen_bei_den_dlf_20260831_1741_9fa47d3c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c6b8d543-5512-58e6-8fa4-cc43de943158",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gedächtnislücken. Polens Botschafter Jan Tombinski zum Gedenken an den 1.9.1939",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-31T15:35:15.000Z",
+    "url": "https://www.deutschlandfunk.de/gedaechtnisluecken-polens-botschafter-jan-tombinski-zum-gedenken-an-den-1-9-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/gedaechtnisluecken_polens_botschafter_jan_tombinski_zum_dlf_20260831_1735_5ea232f7.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:02ba7eae-89eb-5817-b72c-c0378ca7d253",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Für mehr Solidarität unter Veranstaltern - Felix Grädler über den \"Club-Euro\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-31T13:15:54.000Z",
+    "url": "https://www.deutschlandfunk.de/fuer-mehr-solidaritaet-unter-veranstaltern-felix-graedler-ueber-den-club-euro-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/fuer_mehr_solidaritaet_unter_veranstaltern_felix_graedler_dlf_20260831_1515_1621ab20.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4f18c156-7fb6-5f9d-a02d-5f6f10101056",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "75 Jahre LP in Deutschland - Peter Runge über Bio-Schallplatten aus Speiseöl",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-31T13:08:47.000Z",
+    "url": "https://www.deutschlandfunk.de/75-jahre-lp-in-deutschland-peter-runge-ueber-bio-schallplatten-aus-speiseoel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/75_jahre_lp_in_deutschland_peter_runge_ueber_bio_dlf_20260831_1508_3a225c71.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e1dc6798-1496-590c-8dc2-0aaafc732659",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Buch \"Poppkultur\" - Warum Sexfantasien wichtig sind",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-31T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/buch-poppkultur-warum-sexfantasien-wichtig-sind-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/buch_poppkultur_warum_sexfantasien_wichtig_sind_dlf_20260831_1506_999246e3.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:50682a75-f0bc-5e6b-b614-b1c570c6d5f0",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -156,136 +387,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:9305d1d1-5182-5426-9292-9ec5217522a2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 29.08.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/kulturmeldungen_29082026_dlf_20260829_1756_03876580.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0f66a060-cf7e-515d-a3c9-9de795e87350",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vor den Wahlen in Sachsen-Anhalt - Sorgen und Hoffnungen der Filmszene",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/vor-den-wahlen-in-sachsen-anhalt-sorgen-und-hoffnungen-der-filmszene-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/vor_den_wahlen_in_sachsen_anhalt_sorgen_und_hoffnungen_der_dlf_20260829_1715_f5845974.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:936484cc-8cba-55c2-845e-c99a9b67fd14",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturgutschutz nach dem Brand. Hürtgenwalds Bürgermeister Stefan Cranen i.G.",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:42:45.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturgutschutz-nach-dem-brand-huertgenwalds-buergermeister-stefan-cranen-i-g-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/kulturgutschutz_nach_dem_brand_huertgenwalds_buergermeister_dlf_20260829_1742_7e823b21.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:433da8df-b6de-5a23-96b4-8c8e885c14ba",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Ein Rummelnachtstraum\" in Kassel - Kirmes, Kunst, Theater im Freien",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:37:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ein-rummelnachtstraum-in-kassel-kirmes-kunst-theater-im-freien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/ein_rummelnachtstraum_in_kassel_kirmes_kunst_theater_im_dlf_20260829_1737_637fb2ad.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9c94fffc-21a2-59cb-91f6-8727d0f076e5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verharmlosung von NS und DDR? Wie die AfD Geschichte instrumentalisiert",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-29T15:30:28.000Z",
-    "url": "https://www.deutschlandfunk.de/verharmlosung-von-ns-und-ddr-wie-die-afd-geschichte-instrumentalisiert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/verharmlosung_von_ns_und_ddr_wie_die_afd_geschichte_dlf_20260829_1730_f67cef05.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:7435a394-0b8f-56a2-8021-b8244f41ee15",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -322,6 +423,31 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/neues_album_von_mine_was_bleibt_wenn_die_lichter_ausgehen_dlf_20260829_1510_4d81e2df.mp3?refId=corso-104",
     "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f63af500-e74a-5cb3-b991-dade1d8202a6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mike D: Zurück zur Musik - 14 Jahre nach dem Ende der Beastie Boys",
+    "summary": "Groß, Torsten www.deutschlandfunk.de, Corso",
+    "date": "2026-08-29T12:10:31.000Z",
+    "url": "https://www.deutschlandfunk.de/mike-d-zurueck-zur-musik-14-jahre-nach-dem-ende-der-beastie-boys-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/mike_d_zurueck_zur_musik_14_jahre_nach_dem_ende_der_beastie_dlf_20260829_1410_9a80347b.mp3?refId=corso-104",
+    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
@@ -715,56 +841,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:f5dbeb5a-99f9-514c-ac40-fe39ded826d7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Dr. Frank-N-Furter - Nachruf auf Schauspieler und Sänger Tim Curry",
-    "summary": "Rähling, Lisa-Maria www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:09:46.000Z",
-    "url": "https://www.deutschlandfunk.de/dr-frank-n-furter-nachruf-auf-schauspieler-und-saenger-tim-curry-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/dr_frank_n_furter_nachruf_auf_schauspieler_und_saenger_tim_dlf_20260827_1509_108e5435.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:154c6708-3d68-589c-9565-d69079d87422",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rassismus - Regisseur Faraz Shariat über den Film \"Staatsschutz\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/rassismus-regisseur-faraz-shariat-ueber-den-film-staatsschutz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/rassismus_regisseur_faraz_shariat_ueber_den_film_dlf_20260827_1506_99a772ea.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-der-rest-ist-geschichte:9cd5ca1b-9e3b-5a35-9131-c454f4e2e0f6",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -788,56 +864,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:df32a682-f2ab-5fc0-897a-7e590689251e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: Der Heimatlose, Strange River, Staatsschutz",
-    "summary": "Jörg Albrecht www.deutschlandfunk.de, Corso",
-    "date": "2026-08-26T13:20:47.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-der-heimatlose-strange-river-staatsschutz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/neue_filme_der_heimatlose_strange_river_staatsschutz_dlf_20260826_1520_8959691d.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:55f56133-6ff8-5623-ae99-06606d7914ae",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kreative Krise? Die Gamescom zwischen Indie und AAA-Games",
-    "summary": "Nowak, Tobias www.deutschlandfunk.de, Corso",
-    "date": "2026-08-26T13:10:49.000Z",
-    "url": "https://www.deutschlandfunk.de/kreative-krise-die-gamescom-zwischen-indie-und-aaa-games-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/kreative_krise_die_gamescom_zwischen_indie_und_aaa_games_dlf_20260826_1510_bb583e59.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1344,32 +1370,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-06-16-regulierte-wahrheit-ueber-den-kampf-gegen-fakenews-dlf-20260616-1915-0a3cb568-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Regulierte Wahrheit - Über den Kampf gegen Fakenews",
-    "summary": "Was darf gesagt werden – und wer entscheidet darüber? Der Kampf gegen Desinformation ist ein globaler Konflikt, an dem die Zukunft der liberalen Demokratien hängt. Von Christian Jakob www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-06-30T05:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/regulierte-wahrheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/73/5b/42/5b/735b425b-82a7-40a5-895d-6397b0d4ac5a/bild-fuer-regulierte-wahrheit-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/16/regulierte_wahrheit_ueber_den_kampf_gegen_fakenews_dlf_20260616_1915_0a3cb568.mp3?refId=das-feature-104",
-    "duration": "44 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
     ],
     "language": "de"
   },
