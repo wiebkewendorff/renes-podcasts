@@ -1,5 +1,236 @@
 [
   {
+    "id": "zeit-augen-zu:ddd4da0e-0217-431e-b750-a91b704d65df",
+    "source": "zeit-augen-zu",
+    "sourceTitle": "Augen zu – DIE ZEIT",
+    "type": "rss",
+    "title": "Die Welt mit David Hockneys Augen sehen",
+    "summary": "<p>Er kam aus dem verregneten Norden Englands, der Arbeiterstadt Bradford, wo er 1937 geboren wurde. Aber dann wurde er zum Maler des Lichts und der bunten Farben: <a href=\"https://www.zeit.de/thema/david-hockney\" rel=\"noopener\" target=\"_blank\"> David Hockney </a>. Die neueste Folge des Podcasts »Augen zu« von <a href=\"https://www.zeit.de/autoren/I/Florian_Illies/index.xml\" rel=\"noopener\" target=\"_blank\"> Florian Illies </a> und <a href=\"https://www.zeit.de/autoren/L/Giovanni_di_Lorenzo/index.xml\" rel=\"noopener\" target=\"_blank\"> Giovanni di Lorenzo </a> widmet sich dem britischen Exzentriker, der <a href=\"https://www.zeit.de/feuilleton/kunst/2026-06/david-hockney-kunst-swimming-pool-nachruf\" rel=\"noopener\" target=\"_blank\"> in diesem Sommer gestorben </a> ist. </p>\n<p>Seine Haare waren platinblond gefärbt und seine legendären Anzüge ein Leben lang geprägt von den schrillen Tönen des Swinging London. Ihn aber zog es von dort nach Kalifornien, wo ihm in den 1960er-Jahren ikonische Bilder einer selbstbewussten Homoerotik und des neuen »American Way of Life« in Los Angeles gelangen. </p>\n<p>Ein Leben lang war Hockney technischen Neuerungen auf der Spur – erst der Camera obscura, dann der Fotografie, schließlich dem Malen mit dem Finger auf dem iPad. Er blickte auf die Welt und malte, was er sah – diese Neugier, dieser Witz und dieser Wunsch nach Schönheit machen ihn zu einer der großen Künstlerfiguren nach 1945.</p>\n<p><i>Lob, Kritik, Anmerkungen? Schreiben Sie uns gern an </i><i> augenzu@zeit.de </i></a><i>.</i></p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen</a>. Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT</strong>. <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Angebot</a>. </p>",
+    "date": "2026-09-02T03:55:00.000Z",
+    "url": "https://www.zeit.de/serie/augen-zu",
+    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/8cca0166-1068-4682-8268-789474867bfa/3000x3000/augen-zu.jpg?aid=rss_feed",
+    "audio": "https://zeitonline.simplecastaudio.com/75dec84d-31b9-4521-816d-0bf379b39af5/episodes/0fc45e2b-305c-4a78-ba83-c757e0f3b719/audio/128/default.mp3?aid=rss_feed&awCollectionId=75dec84d-31b9-4521-816d-0bf379b39af5&awEpisodeId=0fc45e2b-305c-4a78-ba83-c757e0f3b719&feed=b1Qn2k9W",
+    "duration": "39 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "kultur",
+      "zeit",
+      "bildung"
+    ],
+    "category": [
+      "Kunst",
+      "Kultur",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:72c07cb9-ecca-532c-b4e3-9f905eff128a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 01.09.2026",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/kulturmeldungen_01092026_dlf_20260901_1756_2bca0da3.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e048db58-c3e6-5cce-9f1f-f7a101d82e1a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deutsch-russisches Kulturabkommen auf der Kippe?",
+    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/deutsch-russisches-kulturabkommen-auf-der-kippe-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/deutsch_russisches_kulturabkommen_auf_der_kippe_dlf_20260901_1752_7fc7f324.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:beaeb766-3eff-5dbc-951e-7f0cc2462377",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die ungleichen Brüder Grimm - Publizist Tilman Spreckelsen",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-ungleichen-brueder-grimm-publizist-tilman-spreckelsen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/die_ungleichen_brueder_grimm_publizist_tilman_spreckelsen_dlf_20260901_1746_4dc5e0b1.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0c8b7b3b-1bed-5070-b600-5e63deb14803",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Spitzenkandidaten in Berlin - Kulturdebatte in der Deutschen Oper",
+    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/spitzenkandidaten-in-berlin-kulturdebatte-in-der-deutschen-oper-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/spitzenkandidaten_in_berlin_kulturdebatte_in_der_deutschen_dlf_20260901_1741_29c3fe35.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0627a442-dc42-5fb6-aa97-afbe471f7f50",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wem gehört das kulturelle Erbe? Zur Wiederbeisetzung von Otto im Magdeburger Dom",
+    "summary": "Lindner, Nadine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wem-gehoert-das-kulturelle-erbe-zur-wiederbeisetzung-von-otto-im-magdeburger-dom-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/wem_gehoert_das_kulturelle_erbe_zur_wiederbeisetzung_von_dlf_20260901_1736_6bc25da0.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:360e037b-60ce-52d9-aec8-7654c0caa3fb",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie sich Kunst und Musik bedingen - Dirk von Lowtzow über sein Buch \"Detektive\"",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-09-01T13:10:46.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-sich-kunst-und-musik-bedingen-dirk-von-lowtzow-ueber-sein-buch-detektive-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/wie_sich_kunst_und_musik_bedingen_dirk_von_lowtzow_ueber_dlf_20260901_1510_c8418edf.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:129db4e0-71da-58b2-a5e7-108dfe28aa44",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Buch \"Ein Leben in Songs\" - Ein Blick ins Archiv von Freddie Mercury",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-09-01T13:10:02.000Z",
+    "url": "https://www.deutschlandfunk.de/buch-ein-leben-in-songs-ein-blick-ins-archiv-von-freddie-mercury-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/buch_ein_leben_in_songs_ein_blick_ins_archiv_von_freddie_dlf_20260901_1510_0b37c3c9.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:da53899f-04c0-58c1-92dd-627d1056d0c3",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Popkultur in Sachsen-Anhalt - Wie blicken die Akteure auf die Wahl?",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-09-01T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/popkultur-in-sachsen-anhalt-wie-blicken-die-akteure-auf-die-wahl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/popkultur_in_sachsen_anhalt_wie_blicken_die_akteure_auf_die_dlf_20260901_1506_d52b1eb1.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "10-minuten-wissen-kunst:6a961169cbb539139739db65",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -231,136 +462,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:50682a75-f0bc-5e6b-b614-b1c570c6d5f0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 30.08.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:56:05.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/kulturmeldungen_30082026_dlf_20260830_1756_8f8a77da.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3c9e0d81-f587-5dc9-95eb-3c91154fdafa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Theater in Südafrika - Erinnerung, Heilung und historisches Erbe",
-    "summary": "Wehrheim, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:50:20.000Z",
-    "url": "https://www.deutschlandfunk.de/theater-in-suedafrika-erinnerung-heilung-und-historisches-erbe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/theater_in_suedafrika_erinnerung_heilung_und_historisches_dlf_20260830_1750_3e851fec.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:06729689-c65a-5d0e-b0aa-cddb3fac217f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Promis wie Johnny Depp und ihre Kunstambitionen - Hubertus Butin im Gespräch",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:43:27.000Z",
-    "url": "https://www.deutschlandfunk.de/promis-wie-johnny-depp-und-ihre-kunstambitionen-hubertus-butin-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/promis_wie_johnny_depp_und_ihre_kunstambitionen_hubertus_dlf_20260830_1743_03832ea1.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1e1dd51a-e10f-5cc5-b283-2408e05fdffc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturhauptstadterbe - Das Chemnitzer Kosmos-Festival",
-    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:38:21.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturhauptstadterbe-das-chemnitzer-kosmos-festival-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/kulturhauptstadterbe_das_chemnitzer_kosmos_festival_dlf_20260830_1738_54818a4a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9ee6104a-d134-5316-9383-48367def32f2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hundert Jahre GEDOK - Das Kunstmuseum Bonn zeigt Graphik von Frauen",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:30:24.000Z",
-    "url": "https://www.deutschlandfunk.de/hundert-jahre-gedok-das-kunstmuseum-bonn-zeigt-graphik-von-frauen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/hundert_jahre_gedok_das_kunstmuseum_bonn_zeigt_graphik_von_dlf_20260830_1730_4f805820.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:7435a394-0b8f-56a2-8021-b8244f41ee15",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -461,86 +562,11 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:26bf11eb-d2e8-5060-a5ee-fa7074925f1c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Familiengeheimnisse\" - Differenzierte Serie über sexuellen Missbrauch",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-28T13:18:19.000Z",
-    "url": "https://www.deutschlandfunk.de/familiengeheimnisse-differenzierte-serie-ueber-sexuellen-missbrauch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/familiengeheimnisse_differenzierte_serie_ueber_sexuellen_dlf_20260828_1518_03858e29.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:39ee0698-597d-5496-a79b-3c5970c26023",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verspricht sensationellen Detailreichtum - Neuer Trailer zu GTA 6 erschienen",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-28T13:07:03.000Z",
-    "url": "https://www.deutschlandfunk.de/verspricht-sensationellen-detailreichtum-neuer-trailer-zu-gta-6-erschienen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/verspricht_sensationellen_detailreichtum_neuer_trailer_zu_dlf_20260828_1507_947b693f.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e8dc90c4-e1ac-5f07-94f9-16712925f788",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Warum ist die Politik nicht auf Twitch? Charlotte Lohmann im Gespräch",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:10:09.000Z",
-    "url": "https://www.deutschlandfunk.de/warum-ist-die-politik-nicht-auf-twitch-charlotte-lohmann-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/warum_ist_die_politik_nicht_auf_twitch_charlotte_lohmann_im_dlf_20260827_1510_188d61f9.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6a8caf456d62278f83ac70c7",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
     "type": "rss",
-    "title": "Aktuell: Yayoi Kusama – Pumpkin: Das gelbe Herz im Meer der Unendlichkeit",
+    "title": "Aktuell: Yayoi Kusama – Pumpkin: Das gelbe Herz im Meer der Unendlichkeit (Wiederholung)",
     "summary": "<p>Wir machen eine kurze Sommerpause: Diese Woche gibt es eine weitere unserer bisher meistgehörten Folgen.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>Auf der japanischen Kunstinsel Naoshima ruht das Werk <strong>„Pumpkin“</strong>. Es ist ein Anblick von fast surrealer Stille, der Besucher empfängt – ein bauchiger, erdverbundener Wächter, der dem Rhythmus der Gezeiten trotzt. Doch hinter der scheinbaren Ruhe der Skulptur und ihrem hypnotischen Muster aus schwarzen Punkten verbirgt sich eine Geschichte von existenzieller Dringlichkeit. Für Yayoi Kusama war dieser Kürbis nie bloß ein dekoratives Objekt, sondern ein seelischer Rettungsanker – ein vertrauter Begleiter aus den Gärtnereien ihrer Kindheit, der ihr half, die stürmischen Halluzinationen ihrer eigenen Psyche zu bändigen und in eine universelle Sprache zu übersetzen.</p><p>In dieser Folge von <strong>10 Minuten Wissen: Kunst</strong> entschlüsseln wir das radikale Universum einer Frau, die ihre tiefsten Ängste in ein globales Phänomen verwandelte. Wir begleiten Kusama von den strengen Traditionen Japans in das rücksichtslose New York der 60er-Jahre, wo sie sich als Pionierin gegen die Giganten der Kunstwelt behauptete. Wir erfahren, wie aus der obsessiven Wiederholung eines Musters die Heilung durch <strong>„Self-Obliteration“</strong> – die Selbstauslöschung im Unendlichen – wurde. Es ist die Reise einer Künstlerin, die heute, mit weit über 90 Jahren, die Welt mit ihren Punkten überzieht, um uns daran zu erinnern, dass wir alle Teil eines größeren, unendlichen Ganzen sind.</p><br><p><strong>Weiterführende Links zur Folge:</strong></p><p>• <a href=\"https://benesse-artsite.jp/en/story/20220930-2466.html\" rel=\"noopener\" target=\"_blank\"><strong>Das Kunstwerk im Blick:</strong> Hochauflösendes Bild von „Pumpkin“ am Gotanji-Steg</a></p><p>• <a href=\"https://de.wikipedia.org/wiki/Yayoi_Kusama\" rel=\"noopener\" target=\"_blank\"><strong>Die Künstlerin verstehen:</strong> Yayoi Kusama auf Wikipedia (Deutsch)</a></p><p>• <a href=\"https://yayoikusamamuseum.jp/en/\" rel=\"noopener\" target=\"_blank\"><strong>Offizielle Webseite:</strong> Das Yayoi Kusama Museum in Tokio</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
     "date": "2026-08-24T22:00:00.000Z",
     "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/yayoi-kusama-pumpkin-das-gelbe-herz-im-meer-der-unendlichkei",
@@ -831,32 +857,6 @@
     ],
     "category": [
       "Kunst",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-augen-zu:f9d2a7f3-4fe2-4fe1-b5fc-6124c120393d",
-    "source": "zeit-augen-zu",
-    "sourceTitle": "Augen zu – DIE ZEIT",
-    "type": "rss",
-    "title": "Die blaue Reiterin – wer war Marianne von Werefkin?",
-    "summary": "<p>Sie hat ein Leben geführt, das wie ein russischer Roman klingt: Behütet aufgewachsen in einer adligen Offiziersfamilie der Zarenzeit, hat die junge Marianne von Werefkin selbst im Sommerhaus der Familie ein eigenes Ateliergebäude. Sie ist so begabt, dass sie der berühmteste Maler der Zeit, Ilja Repin, unter seine Fittiche nimmt. Sie wird schnell so gut und berühmt, dass man vom »russischen Rembrandt« spricht. Aber dann lernt sie im Atelier ihres Lehrers den jungen Maler Alexej von Jawlensky kennen – und ihr ganzes Leben verändert sich. </p>\n<p>Sie liebt ihn – und fördert ihn dermaßen, dass sie selbst für ein Jahrzehnt ihr eigenes Malen einstellt. Schließlich zieht es die beiden um 1900 nach München, gemeinsam mit Mariannes Dienstmädchen Helene. Wenig später bekommt Helene ein Kind von Jawlensky – aber sie leben bis zum Ersten Weltkrieg in dieser unglücklichen Dreiecksbeziehung zusammen. Vor allem aber werden sie Teil des Blauen Reiters. Genau wie bei einem anderen berühmten Paar, Wassily Kandinsky und Gabriele Münter, steht auch hier die Frau sehr lange im Schatten des Mannes. Heute aber werden ihre traumverlorenen Landschaften der Einsamkeit, ihre kühnen Farbsetzungen und ihre malerischen Formulierungen von auswegloser Sehnsucht immer mehr gefeiert – ab Oktober zum Beispiel in einer großartigen Ausstellung, die im Museum Wiesbaden erstmals die Werke aller »Blauen Reiterinnen« zeigen wird.</p>\n<p>Von all dem erzählen Florian Illies und Giovanni di Lorenzo in der neuesten Folge des Podcasts <i>Augen zu</i>.</p>\n<p><i>Lob, Kritik, Anmerkungen? Schreiben Sie uns gern an </i><i>augenzu@zeit.de</i></a><i>.</i></p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen</a>. Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT</strong>. <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Angebot</a>. </p>",
-    "date": "2026-07-01T03:55:00.000Z",
-    "url": "https://www.zeit.de/serie/augen-zu",
-    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/8cca0166-1068-4682-8268-789474867bfa/3000x3000/augen-zu.jpg?aid=rss_feed",
-    "audio": "https://zeitonline.simplecastaudio.com/75dec84d-31b9-4521-816d-0bf379b39af5/episodes/54b9e068-a5a8-4529-85a3-06d814d6745b/audio/128/default.mp3?aid=rss_feed&awCollectionId=75dec84d-31b9-4521-816d-0bf379b39af5&awEpisodeId=54b9e068-a5a8-4529-85a3-06d814d6745b&feed=b1Qn2k9W",
-    "duration": "43 Min",
-    "tags": [
-      "kunst",
-      "kunstgeschichte",
-      "kultur",
-      "zeit",
-      "bildung"
-    ],
-    "category": [
-      "Kunst",
-      "Kultur",
       "Bildung"
     ],
     "language": "de"

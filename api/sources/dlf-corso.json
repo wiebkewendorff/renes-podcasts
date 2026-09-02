@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:360e037b-60ce-52d9-aec8-7654c0caa3fb",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie sich Kunst und Musik bedingen - Dirk von Lowtzow über sein Buch \"Detektive\"",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-09-01T13:10:46.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-sich-kunst-und-musik-bedingen-dirk-von-lowtzow-ueber-sein-buch-detektive-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/wie_sich_kunst_und_musik_bedingen_dirk_von_lowtzow_ueber_dlf_20260901_1510_c8418edf.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:129db4e0-71da-58b2-a5e7-108dfe28aa44",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Buch \"Ein Leben in Songs\" - Ein Blick ins Archiv von Freddie Mercury",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-09-01T13:10:02.000Z",
+    "url": "https://www.deutschlandfunk.de/buch-ein-leben-in-songs-ein-blick-ins-archiv-von-freddie-mercury-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/buch_ein_leben_in_songs_ein_blick_ins_archiv_von_freddie_dlf_20260901_1510_0b37c3c9.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:da53899f-04c0-58c1-92dd-627d1056d0c3",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Popkultur in Sachsen-Anhalt - Wie blicken die Akteure auf die Wahl?",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-09-01T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/popkultur-in-sachsen-anhalt-wie-blicken-die-akteure-auf-die-wahl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/popkultur_in_sachsen_anhalt_wie_blicken_die_akteure_auf_die_dlf_20260901_1506_d52b1eb1.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:02ba7eae-89eb-5817-b72c-c0378ca7d253",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/corso_podcast_betterov_ueber_ostdeutsche_kultur_identitaet_dlf_20260828_1522_6ebc8007.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:26bf11eb-d2e8-5060-a5ee-fa7074925f1c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Familiengeheimnisse\" - Differenzierte Serie über sexuellen Missbrauch",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-28T13:18:19.000Z",
-    "url": "https://www.deutschlandfunk.de/familiengeheimnisse-differenzierte-serie-ueber-sexuellen-missbrauch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/familiengeheimnisse_differenzierte_serie_ueber_sexuellen_dlf_20260828_1518_03858e29.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:39ee0698-597d-5496-a79b-3c5970c26023",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verspricht sensationellen Detailreichtum - Neuer Trailer zu GTA 6 erschienen",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-28T13:07:03.000Z",
-    "url": "https://www.deutschlandfunk.de/verspricht-sensationellen-detailreichtum-neuer-trailer-zu-gta-6-erschienen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/verspricht_sensationellen_detailreichtum_neuer_trailer_zu_dlf_20260828_1507_947b693f.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e8dc90c4-e1ac-5f07-94f9-16712925f788",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Warum ist die Politik nicht auf Twitch? Charlotte Lohmann im Gespräch",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:10:09.000Z",
-    "url": "https://www.deutschlandfunk.de/warum-ist-die-politik-nicht-auf-twitch-charlotte-lohmann-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/warum_ist_die_politik_nicht_auf_twitch_charlotte_lohmann_im_dlf_20260827_1510_188d61f9.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",

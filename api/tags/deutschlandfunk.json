@@ -1,13 +1,218 @@
 [
   {
+    "id": "dlf-kultur-heute:72c07cb9-ecca-532c-b4e3-9f905eff128a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 01.09.2026",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/kulturmeldungen_01092026_dlf_20260901_1756_2bca0da3.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e048db58-c3e6-5cce-9f1f-f7a101d82e1a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deutsch-russisches Kulturabkommen auf der Kippe?",
+    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/deutsch-russisches-kulturabkommen-auf-der-kippe-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/deutsch_russisches_kulturabkommen_auf_der_kippe_dlf_20260901_1752_7fc7f324.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:beaeb766-3eff-5dbc-951e-7f0cc2462377",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die ungleichen Brüder Grimm - Publizist Tilman Spreckelsen",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-ungleichen-brueder-grimm-publizist-tilman-spreckelsen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/die_ungleichen_brueder_grimm_publizist_tilman_spreckelsen_dlf_20260901_1746_4dc5e0b1.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0c8b7b3b-1bed-5070-b600-5e63deb14803",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Spitzenkandidaten in Berlin - Kulturdebatte in der Deutschen Oper",
+    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/spitzenkandidaten-in-berlin-kulturdebatte-in-der-deutschen-oper-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/spitzenkandidaten_in_berlin_kulturdebatte_in_der_deutschen_dlf_20260901_1741_29c3fe35.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0627a442-dc42-5fb6-aa97-afbe471f7f50",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wem gehört das kulturelle Erbe? Zur Wiederbeisetzung von Otto im Magdeburger Dom",
+    "summary": "Lindner, Nadine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-01T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wem-gehoert-das-kulturelle-erbe-zur-wiederbeisetzung-von-otto-im-magdeburger-dom-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/wem_gehoert_das_kulturelle_erbe_zur_wiederbeisetzung_von_dlf_20260901_1736_6bc25da0.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:360e037b-60ce-52d9-aec8-7654c0caa3fb",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie sich Kunst und Musik bedingen - Dirk von Lowtzow über sein Buch \"Detektive\"",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-09-01T13:10:46.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-sich-kunst-und-musik-bedingen-dirk-von-lowtzow-ueber-sein-buch-detektive-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/wie_sich_kunst_und_musik_bedingen_dirk_von_lowtzow_ueber_dlf_20260901_1510_c8418edf.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:129db4e0-71da-58b2-a5e7-108dfe28aa44",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Buch \"Ein Leben in Songs\" - Ein Blick ins Archiv von Freddie Mercury",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-09-01T13:10:02.000Z",
+    "url": "https://www.deutschlandfunk.de/buch-ein-leben-in-songs-ein-blick-ins-archiv-von-freddie-mercury-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/buch_ein_leben_in_songs_ein_blick_ins_archiv_von_freddie_dlf_20260901_1510_0b37c3c9.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:da53899f-04c0-58c1-92dd-627d1056d0c3",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Popkultur in Sachsen-Anhalt - Wie blicken die Akteure auf die Wahl?",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-09-01T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/popkultur-in-sachsen-anhalt-wie-blicken-die-akteure-auf-die-wahl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/popkultur_in_sachsen_anhalt_wie_blicken_die_akteure_auf_die_dlf_20260901_1506_d52b1eb1.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:6431a6a7-dfea-537a-9e26-558e16782396",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
     "type": "rss",
     "title": "doku drops 16: Minidrops - Jeden Monat neue Kurzdokus",
-    "summary": "Warum viele Worte verlieren? Neue dokumentarische Hörstücke im nochmals reduzierten Miniaturformat erzählen kompakt, aber nicht verkürzt: über Seelen, Pflanzen, Tiere, Menschen, über Lebens- und Geschmacksfragen. div. www.deutschlandfunkkultur.de, Feature",
+    "summary": "Warum viele Worte verlieren? Neue dokumentarische Hörstücke im nochmals reduzierten Miniaturformat erzählen kompakt, aber nicht verkürzt: über Seelen, Pflanzen, Tiere, Menschen, über Lebens- und Geschmacksfragen. Zusammenstellung: Judith Geffert und Ingo Kottkamp www.deutschlandfunkkultur.de, Feature",
     "date": "2026-09-01T06:30:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/doku-drops-16-minidrops-102.html",
+    "url": "https://www.hoerspielundfeature.de/doku-drops-16-minidrops-100.html",
     "image": "https://bilder.deutschlandfunk.de/7b/50/84/2b/7b50842b-c4eb-4a18-9ff5-301024cdd14b/doku-drops-16-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/doku_drops_16_minidrops_drk_20260905_1830_77aaf4d6.mp3?refId=das-feature-104",
     "duration": "27 Min",
@@ -231,136 +436,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:50682a75-f0bc-5e6b-b614-b1c570c6d5f0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 30.08.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:56:05.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/kulturmeldungen_30082026_dlf_20260830_1756_8f8a77da.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3c9e0d81-f587-5dc9-95eb-3c91154fdafa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Theater in Südafrika - Erinnerung, Heilung und historisches Erbe",
-    "summary": "Wehrheim, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:50:20.000Z",
-    "url": "https://www.deutschlandfunk.de/theater-in-suedafrika-erinnerung-heilung-und-historisches-erbe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/theater_in_suedafrika_erinnerung_heilung_und_historisches_dlf_20260830_1750_3e851fec.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:06729689-c65a-5d0e-b0aa-cddb3fac217f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Promis wie Johnny Depp und ihre Kunstambitionen - Hubertus Butin im Gespräch",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:43:27.000Z",
-    "url": "https://www.deutschlandfunk.de/promis-wie-johnny-depp-und-ihre-kunstambitionen-hubertus-butin-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/promis_wie_johnny_depp_und_ihre_kunstambitionen_hubertus_dlf_20260830_1743_03832ea1.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1e1dd51a-e10f-5cc5-b283-2408e05fdffc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturhauptstadterbe - Das Chemnitzer Kosmos-Festival",
-    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:38:21.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturhauptstadterbe-das-chemnitzer-kosmos-festival-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/kulturhauptstadterbe_das_chemnitzer_kosmos_festival_dlf_20260830_1738_54818a4a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9ee6104a-d134-5316-9383-48367def32f2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hundert Jahre GEDOK - Das Kunstmuseum Bonn zeigt Graphik von Frauen",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-30T15:30:24.000Z",
-    "url": "https://www.deutschlandfunk.de/hundert-jahre-gedok-das-kunstmuseum-bonn-zeigt-graphik-von-frauen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/30/hundert_jahre_gedok_das_kunstmuseum_bonn_zeigt_graphik_von_dlf_20260830_1730_4f805820.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-das-feature:56c7e3be-0ee8-54ff-a4d8-f9e3b8a6c2f6",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -500,56 +575,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/corso_podcast_betterov_ueber_ostdeutsche_kultur_identitaet_dlf_20260828_1522_6ebc8007.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:26bf11eb-d2e8-5060-a5ee-fa7074925f1c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Familiengeheimnisse\" - Differenzierte Serie über sexuellen Missbrauch",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-28T13:18:19.000Z",
-    "url": "https://www.deutschlandfunk.de/familiengeheimnisse-differenzierte-serie-ueber-sexuellen-missbrauch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/familiengeheimnisse_differenzierte_serie_ueber_sexuellen_dlf_20260828_1518_03858e29.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:39ee0698-597d-5496-a79b-3c5970c26023",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verspricht sensationellen Detailreichtum - Neuer Trailer zu GTA 6 erschienen",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-08-28T13:07:03.000Z",
-    "url": "https://www.deutschlandfunk.de/verspricht-sensationellen-detailreichtum-neuer-trailer-zu-gta-6-erschienen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/28/verspricht_sensationellen_detailreichtum_neuer_trailer_zu_dlf_20260828_1507_947b693f.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
@@ -812,31 +837,6 @@
       "Hörspiel",
       "Literatur",
       "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e8dc90c4-e1ac-5f07-94f9-16712925f788",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Warum ist die Politik nicht auf Twitch? Charlotte Lohmann im Gespräch",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-27T13:10:09.000Z",
-    "url": "https://www.deutschlandfunk.de/warum-ist-die-politik-nicht-auf-twitch-charlotte-lohmann-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/warum_ist_die_politik_nicht_auf_twitch_charlotte_lohmann_im_dlf_20260827_1510_188d61f9.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

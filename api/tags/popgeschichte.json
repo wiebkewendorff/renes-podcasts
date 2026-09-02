@@ -1,5 +1,55 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-403708764479376",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Schauspielerin Anna Fischer im Gespräch mit Bettina Tietjen",
+    "summary": "Die Berlinerin spielt gleich in zwei beliebten Krimireihen mit - in \"Die Bestatterin\" und in \"Harter Brocken\".",
+    "date": "2026-09-01T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspielerin-anna-fischer-im-gespraech-mit-bettina-tietjen,audio-3452202.html",
+    "image": "https://images.ndr.de/image/55feff6e-e0ca-4b3c-aa23-b1c62080059e/AAABoF3q8U8/AAABnSStX0g/1x1-big/screenshot-221222.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0901/AU-20260901-2151-1100.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-34287601628272035",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Stoffwechselforscher Dr. Tim Hollstein: \"Übergewicht ist kein Charakterfehler\"",
+    "summary": "Als Oberarzt im Bereich Endokrinologie und Leiter der Ernährungsmedizin am Universitätsklinikum in Kiel behandelt Dr. Tim Hollstein Menschen mit chronischer krankhafter Fettleibigkeit. Für seine wissenschaftliche Arbeit wurde er vor zwei Jahren mit dem Forschungspreis der Deutschen Adipositas-Gesellschaft ausgezeichnet. Als Science-Slammer vermittelt er bei Kurzvortragswettbewerben seine Erkenntnisse auf unterhaltsame Art und Weise. Sein Credo: Übergewicht ist kein Charakterfehler, sondern schlicht und einfach Biologie. Darüber wollen wir auf dem Roten Sofa mehr erfahren.",
+    "date": "2026-08-31T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/stoffwechselforscher-dr-tim-hollstein-uebergewicht-ist-kein-charakterfehler,audio-3450452.html",
+    "image": "https://images.ndr.de/image/daf11765-b635-4493-879f-e0eba504860e/AAABoFklHe4/AAABnSStX0g/1x1-big/screenshot-220666.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0901/AU-20260901-0752-4900.mp3",
+    "duration": "41 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-012602254068658447",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -86,56 +136,6 @@
     "image": "https://images.ndr.de/image/41d2de13-52df-4549-9f80-e603a9537105/AAABoESN6eo/AAABnSStX0g/1x1-big/screenshot-218782.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0828/AU-20260828-0755-5000.mp3",
     "duration": "26 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-060878865409149996",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "\"Nord bei Nordwest\": Jana Klinge über skurrile Kriminalfälle an der Ostseeküste",
-    "summary": "Wenn im fiktiven Örtchen Schwanitz mal wieder ermittelt wird, dann lockt das regelmäßig ein Millionenpublikum vor den Fernseher. Dort, an der idyllischen Ostseeküste Schleswig Holsteins, löst seit 2021 die Schauspielerin Jana Klinge als Oberkommissarin Hannah Wagner in der ARD-Erfolgsreihe \"Nord bei Nordwest\" knifflige und auch skurrile Kriminalfälle. An ihrer Seite sind der verdeckt arbeitende Hamburger Polizist Hauke Jacobs - dargestellt von Hinnerk Schönemann - und die Tierärztin Jule Christiansen, gespielt von Marleen Lohse. Die neue Folge \"Das dritte Grab\" läuft diesen Donnerstag.",
-    "date": "2026-08-26T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/nord-bei-nordwest-jana-klinge-ueber-skurrile-kriminalfaelle-an-der-ostseekueste,audio-3440886.html",
-    "image": "https://images.ndr.de/image/5928aaab-b306-4205-80f8-3fa9467ca782/AAABoD9Dm2c/AAABnSStX0g/1x1-big/screenshot-217792.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0826/AU-20260826-2045-5600.mp3",
-    "duration": "26 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-13805283135413726",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Psychiater und Neurowissenschaftler Volker Busch über erholsamen Schlaf",
-    "summary": "Sein aktuelles Werk \"Gute Nacht, Gehirn\" setzt sich mit der Frage auseinander, wie wir zu erholsamem Schlaf gelangen können.",
-    "date": "2026-08-25T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/psychiater-und-neurowissenschaftler-volker-busch-ueber-erholsamen-schlaf,audio-3439338.html",
-    "image": "https://images.ndr.de/image/144c871b-1487-481a-9acd-bb3c05c054c5/AAABoDpEA54/AAABnSStX0g/1x1-big/screenshot-217374.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0826/AU-20260826-0845-1100.mp3",
-    "duration": "39 Min",
     "tags": [
       "beatles",
       "popgeschichte",
