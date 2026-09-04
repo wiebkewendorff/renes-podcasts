@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:dbe0735d-cb01-5a5d-8967-6f0ba4dd9799",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 03.09.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:56:15.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/kulturmeldungen_03092026_dlf_20260903_1756_a635efdc.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:10abdcab-6542-5a31-9470-d9a81c2be32d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vaterland - Der neue Thomas Mann-Film von Pawel Pawlikowski kommt ins Kino",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:50:30.000Z",
+    "url": "https://www.deutschlandfunk.de/vaterland-der-neue-thomas-mann-film-von-pawel-pawlikowski-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/vaterland_der_neue_thomas_mann_film_von_pawel_pawlikowski_dlf_20260903_1750_2a34d3b4.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c9e4298e-09f8-5152-907a-f70367836cf8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ende einer Ära - Das Goethe-Institut in Russland muss schließen",
+    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:43:22.000Z",
+    "url": "https://www.deutschlandfunk.de/ende-einer-aera-das-goethe-institut-in-russland-muss-schliessen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/ende_einer_aera_das_goethe_institut_in_russland_muss_dlf_20260903_1743_bc334e71.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ae057ba5-2f50-5a40-913c-33ff0f67f4b4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Clooney, Boyle und Herzog - Die Filmfestspiele in Venedig haben begonnen",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/clooney-boyle-und-herzog-die-filmfestspiele-in-venedig-haben-begonnen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/clooney_boyle_und_herzog_die_filmfestspiele_in_venedig_haben_dlf_20260903_1735_27313515.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:4661f757-e874-5bb6-a94e-953519a01cc2",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -82,10 +186,10 @@
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Der Pianist und Komponist Hayato Sumino beim Luzern-Festival",
+    "title": "Der Pianist und Komponist Hayato Sumino beim Lucerne Festival",
     "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
     "date": "2026-09-02T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-pianist-und-komponist-hayato-sumino-beim-luzern-festival-100.html",
+    "url": "https://www.deutschlandfunk.de/der-pianist-und-komponist-hayato-sumino-beim-lucerne-festival-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/der_pianist_und_komponist_hayato_sumino_beim_luzern_festival_dlf_20260902_1741_c3eb9d32.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/kulturmeldungen_01092026_dlf_20260901_1756_2bca0da3.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e048db58-c3e6-5cce-9f1f-f7a101d82e1a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutsch-russisches Kulturabkommen auf der Kippe?",
-    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutsch-russisches-kulturabkommen-auf-der-kippe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/deutsch_russisches_kulturabkommen_auf_der_kippe_dlf_20260901_1752_7fc7f324.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:beaeb766-3eff-5dbc-951e-7f0cc2462377",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die ungleichen Brüder Grimm - Publizist Tilman Spreckelsen",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-ungleichen-brueder-grimm-publizist-tilman-spreckelsen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/die_ungleichen_brueder_grimm_publizist_tilman_spreckelsen_dlf_20260901_1746_4dc5e0b1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0c8b7b3b-1bed-5070-b600-5e63deb14803",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Spitzenkandidaten in Berlin - Kulturdebatte in der Deutschen Oper",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/spitzenkandidaten-in-berlin-kulturdebatte-in-der-deutschen-oper-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/spitzenkandidaten_in_berlin_kulturdebatte_in_der_deutschen_dlf_20260901_1741_29c3fe35.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0627a442-dc42-5fb6-aa97-afbe471f7f50",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wem gehört das kulturelle Erbe? Zur Wiederbeisetzung von Otto im Magdeburger Dom",
-    "summary": "Lindner, Nadine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wem-gehoert-das-kulturelle-erbe-zur-wiederbeisetzung-von-otto-im-magdeburger-dom-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/wem_gehoert_das_kulturelle_erbe_zur_wiederbeisetzung_von_dlf_20260901_1736_6bc25da0.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",

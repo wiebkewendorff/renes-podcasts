@@ -1,5 +1,32 @@
 [
   {
+    "id": "dlf-der-rest-ist-geschichte:97d1bf8e-41f1-5621-bcfd-645f4190634d",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Streit um den Wolf - Rotkäppchens Räuber",
+    "summary": "Wölfe dürfen in Deutschland jetzt wieder gejagt werden. Das freut Schäfer und Bauern, die das Raubtier fürchten - doch Naturschützer sind entsetzt. Das Verhältnis von Mensch und Wolf ist von Angst und Verehrung geprägt, nicht nur im Märchen.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(01:54) 1904: Der „Tiger von Sabrodt“ ist der vorerst letzte Wolf in Deutschland<br>(08:05) Systematische Ausrottung des Wolfs seit Jahrhunderten<br>(10:30) Von Rotkäppchen bis Werwölfe: Mythen und Märchen<br>(23:50) Die Wolfsjagd seit dem Mittelalter<br>(34:50) Gefundenes Fressen für Wölfe: Tote auf Schlachtfeldern<br>(39:30) Und heute? Der Wolf darf wieder gejagt werden<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li>Der Rechtshistoriker <strong>Andreas Deutsch</strong> ist Honorarprofessor an der Juristischen Fakultät der Universität Heidelberg, er forscht unter anderem zum Umgang mit dem Wolf in der Geschichte.</li></ul><br><ul><li><strong>Martin Rheinheimer</strong> ist Historiker und war Professor an der Syddansk Universitet in Esbjerg (Dänemark), er forscht zu Wölfen, Werwolfsglaube und der Ausrotten von Wölfen.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Christian Röther und Thomas Ibrahim<br>Faktencheck: Johanna Ploog und Florian Twente <br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/geschichte-der-tierethik-die-einen-gehen-gassi-die-anderen-zur-schlachtbank-dlf-90715214-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Tierethik</li><li><a href=\"https://www.deutschlandfunk.de/vegetarier-fleisch-essen-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Vegetarismus</li><li><a href=\"https://www.deutschlandfunk.de/artensterben-geschichte-mensch-katastrophe-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Artensterben</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-bundesjagdgesetz-1150486\" rel=\"noopener\" target=\"_blank\">Bundestag</a> stimmt Bejagung von Wölfen zu</li><li>Informationen beim Naturschutzbund <a href=\"https://www.nabu.de/tiere-und-pflanzen/saeugetiere/wolf/index.html\" rel=\"noopener\" target=\"_blank\">NABU e.V.</a> zu Wölfen in Deutschland</li></ul><br><strong>\"Der Rest ist Geschichte\" geht auf Tour: </strong><br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-03T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wolf-jagen-raubtier-geschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/db/de/b5/95/dbdeb595-5972-4f9a-a4db-a3c0801bdc8e/woelfe-jagd-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/streit_um_den_wolf_rotkaeppchens_raeuber_dlf_20260903_1300_77b0859f.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "46 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-auch-das-noch:444c0934-edbd-418b-8115-7a3ecf01e00d",
     "source": "zeit-auch-das-noch",
     "sourceTitle": "Auch das noch? – DIE ZEIT",
@@ -254,33 +281,6 @@
     "image": "https://bilder.deutschlandfunk.de/78/81/22/22/78812222-6242-4881-a651-902260b6919d/hosts-der-rest-ist-geschichte-tran-biesler-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/drig_empfiehlt_das_kalenderblatt_dlf_20260709_1300_df6cc12d.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
     "duration": "2 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-02-us-praesidenten-33-franklin-d-roosevelt-der-erneuerer-dlf-20260702-1300-78fdbd42-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Präsidenten (3/3) - Franklin D. Roosevelt: Der Erneuerer",
-    "summary": "Er bekämpfte die Weltwirtschaftskrise, die Nazis und die Kinderlähmung: Franklin D. Roosevelt war der einzige US-Präsident, der sich vier Mal wählen ließ. Die Weltordnung, die er erfunden hat, sollte er nicht mehr erleben. Er starb im Amt. Dritter Teil unserer Mini-Staffel über bedeutende US-Präsidenten.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:57) Franklin D. Roosevelt: Präsident im Rollstuhl<br>(07:00) Ungleiche Männer in gleicher Zeit: Roosevelt und Hitler<br>(13:30) Der einzige US-Präsident mit mehr als zwei Amtszeiten<br>(15:10) Roosevelts Rolle im Zweiten Weltkrieg<br>(22:05) Ideen für eine Weltordnung nach dem Weltkrieg<br>(25:40) Was von Roosevelt bleibt <br><br><strong>Unser Experte: </strong><br>Ronald D. Gerste beschäftigt sich als Historiker seit vielen Jahren mit der Geschichte der USA und vor allem mit US-Präsidenten. Er lebt und arbeitet in Washington D.C.. Autor unter anderem von: „Trinker, Cowboys, Sonderlinge. Die 12 seltsamsten Präsidenten der USA“ (Klett-Cotta, 2019).<br><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Produktion und Regie: Robert Hauspurg<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-trump-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über US-Präsidenten</li><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-geschichte-washington-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über George Washington </li><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-geschichte-lincoln-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Abraham Lincoln</li><li><a href=\"https://www.deutschlandfunk.de/kennedy-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über John F. Kennedy</li><li><a href=\"https://www.deutschlandfunk.de/nixon-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Richard Nixon</li><li><a href=\"https://www.deutschlandfunk.de/obama-praesident-usa-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Barack Obama</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://avalon.law.yale.edu/\" rel=\"noopener\" target=\"_blank\">The Avalon Project </a>mit historischen Dokumenten zur US-Geschichte</li><li><a href=\"https://www.fdrlibrary.org/fdr-biography\" rel=\"noopener\" target=\"_blank\">FDR Presidential Library</a> - Präsidentenbibliothek mit Materialien über Franklin Delano Roosevelt</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/zeitkapsel-2\" rel=\"noopener\" target=\"_blank\">Zeitkapsel:</a> \"Achim, wie hast Du Menschen aus der DDR geschmuggelt?\" <br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-07-02T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/us-praesidenten-geschichte-roosevelt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/4c/1f/19/89/4c1f1989-ee1e-4b96-a028-3dfeee0b4c96/franklin-d-roosevelt-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/02/us_praesidenten_33_franklin_d_roosevelt_der_erneuerer_dlf_20260702_1300_78fdbd42.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "31 Min",
     "tags": [
       "geschichte",
       "zeitgeschichte",

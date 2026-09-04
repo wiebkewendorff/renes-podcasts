@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:dbe0735d-cb01-5a5d-8967-6f0ba4dd9799",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 03.09.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:56:15.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/kulturmeldungen_03092026_dlf_20260903_1756_a635efdc.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:10abdcab-6542-5a31-9470-d9a81c2be32d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vaterland - Der neue Thomas Mann-Film von Pawel Pawlikowski kommt ins Kino",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:50:30.000Z",
+    "url": "https://www.deutschlandfunk.de/vaterland-der-neue-thomas-mann-film-von-pawel-pawlikowski-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/vaterland_der_neue_thomas_mann_film_von_pawel_pawlikowski_dlf_20260903_1750_2a34d3b4.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c9e4298e-09f8-5152-907a-f70367836cf8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ende einer Ära - Das Goethe-Institut in Russland muss schließen",
+    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:43:22.000Z",
+    "url": "https://www.deutschlandfunk.de/ende-einer-aera-das-goethe-institut-in-russland-muss-schliessen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/ende_einer_aera_das_goethe_institut_in_russland_muss_dlf_20260903_1743_bc334e71.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ae057ba5-2f50-5a40-913c-33ff0f67f4b4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Clooney, Boyle und Herzog - Die Filmfestspiele in Venedig haben begonnen",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/clooney-boyle-und-herzog-die-filmfestspiele-in-venedig-haben-begonnen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/clooney_boyle_und_herzog_die_filmfestspiele_in_venedig_haben_dlf_20260903_1735_27313515.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:03b129c3-d6f3-5ca9-85eb-ab129332077c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Deutschland, ich küss' dein Herz\" - Satirische Reisereportagen durch unser Land",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-09-03T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/deutschland-ich-kuess-dein-herz-satirische-reisereportagen-durch-unser-land-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/deutschland_ich_kuess_dein_herz_satirische_reisereportagen_dlf_20260903_1515_ae9c3da2.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1a391f19-2253-5e7a-8d4f-ee5543a4628d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gamerezension - \"The Blood of Dawnwalker\"",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-09-03T13:10:22.000Z",
+    "url": "https://www.deutschlandfunk.de/gamerezension-the-blood-of-dawnwalker-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/gamerezension_the_blood_of_dawnwalker_dlf_20260903_1510_718ae59e.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:985addd6-e9f6-52cd-b44c-53e3b698a6ea",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Glücksgefühle Festival - jetzt doch mit Alphaville?",
+    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
+    "date": "2026-09-03T13:05:15.000Z",
+    "url": "https://www.deutschlandfunk.de/gluecksgefuehle-festival-jetzt-doch-mit-alphaville-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/gluecksgefuehle_festival_jetzt_doch_mit_alphaville_dlf_20260903_1505_b6894a46.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:4661f757-e874-5bb6-a94e-953519a01cc2",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -82,10 +261,10 @@
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Der Pianist und Komponist Hayato Sumino beim Luzern-Festival",
+    "title": "Der Pianist und Komponist Hayato Sumino beim Lucerne Festival",
     "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
     "date": "2026-09-02T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-pianist-und-komponist-hayato-sumino-beim-luzern-festival-100.html",
+    "url": "https://www.deutschlandfunk.de/der-pianist-und-komponist-hayato-sumino-beim-lucerne-festival-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/der_pianist_und_komponist_hayato_sumino_beim_luzern_festival_dlf_20260902_1741_c3eb9d32.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
@@ -257,110 +436,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:e048db58-c3e6-5cce-9f1f-f7a101d82e1a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutsch-russisches Kulturabkommen auf der Kippe?",
-    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutsch-russisches-kulturabkommen-auf-der-kippe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/deutsch_russisches_kulturabkommen_auf_der_kippe_dlf_20260901_1752_7fc7f324.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:beaeb766-3eff-5dbc-951e-7f0cc2462377",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die ungleichen Brüder Grimm - Publizist Tilman Spreckelsen",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-ungleichen-brueder-grimm-publizist-tilman-spreckelsen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/die_ungleichen_brueder_grimm_publizist_tilman_spreckelsen_dlf_20260901_1746_4dc5e0b1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0c8b7b3b-1bed-5070-b600-5e63deb14803",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Spitzenkandidaten in Berlin - Kulturdebatte in der Deutschen Oper",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/spitzenkandidaten-in-berlin-kulturdebatte-in-der-deutschen-oper-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/spitzenkandidaten_in_berlin_kulturdebatte_in_der_deutschen_dlf_20260901_1741_29c3fe35.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0627a442-dc42-5fb6-aa97-afbe471f7f50",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wem gehört das kulturelle Erbe? Zur Wiederbeisetzung von Otto im Magdeburger Dom",
-    "summary": "Lindner, Nadine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wem-gehoert-das-kulturelle-erbe-zur-wiederbeisetzung-von-otto-im-magdeburger-dom-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/wem_gehoert_das_kulturelle_erbe_zur_wiederbeisetzung_von_dlf_20260901_1736_6bc25da0.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:360e037b-60ce-52d9-aec8-7654c0caa3fb",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -473,81 +548,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/fuer_mehr_solidaritaet_unter_veranstaltern_felix_graedler_dlf_20260831_1515_1621ab20.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4f18c156-7fb6-5f9d-a02d-5f6f10101056",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "75 Jahre LP in Deutschland - Peter Runge über Bio-Schallplatten aus Speiseöl",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-31T13:08:47.000Z",
-    "url": "https://www.deutschlandfunk.de/75-jahre-lp-in-deutschland-peter-runge-ueber-bio-schallplatten-aus-speiseoel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/75_jahre_lp_in_deutschland_peter_runge_ueber_bio_dlf_20260831_1508_3a225c71.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e1dc6798-1496-590c-8dc2-0aaafc732659",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Buch \"Poppkultur\" - Warum Sexfantasien wichtig sind",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-31T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/buch-poppkultur-warum-sexfantasien-wichtig-sind-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/buch_poppkultur_warum_sexfantasien_wichtig_sind_dlf_20260831_1506_999246e3.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7435a394-0b8f-56a2-8021-b8244f41ee15",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Paul Banks, Interpol: \"Ich liebe Amerika und ich hasse, was da gerade passiert\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-29T13:35:17.000Z",
-    "url": "https://www.deutschlandfunk.de/paul-banks-interpol-ich-liebe-amerika-und-ich-hasse-was-da-gerade-passiert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/paul_banks_interpol_ich_liebe_amerika_und_ich_hasse_was_da_dlf_20260829_1535_a8c20db1.mp3?refId=corso-104",
-    "duration": "13 Min",
     "tags": [
       "kultur",
       "pop",
