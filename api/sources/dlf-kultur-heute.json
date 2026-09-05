@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:1863b684-f22d-5785-b7b1-a0f11114a53d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 04.09.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-04T15:56:53.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-114.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/das_ki_festival_im_staedel_museum_in_frankfurt_dlf_20260904_1756_434b7c63.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:70a690e1-212f-50a9-89a8-b0657d2cd88b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das KI Festival im Städel Museum in Frankfurt - Projektleiterin Alexandra Reißer im Gespräch",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-04T15:52:06.000Z",
+    "url": "https://www.deutschlandfunk.de/das-ki-festival-im-staedel-museum-in-frankfurt-projektleiterin-a-reisser-im-ges-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/das_ki_festival_im_staedel_museum_in_frankfurt_dlf_20260904_1752_b448b96c.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:be1b0dc1-a99e-5fee-8e77-908bed910c1b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "The Art of Writing - Boualem Sansal eröffnet das Internationale Literaturfestival Berlin",
+    "summary": "Cornelius Wüllenkemper www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-04T15:46:56.000Z",
+    "url": "https://www.deutschlandfunk.de/the-art-of-writing-boualem-sansal-eroeffnet-das-intern-literaturfestival-berli-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/the_art_of_writing_boualem_sansal_eroeffnet_das_intern_dlf_20260904_1746_3044c362.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:21ad70af-9b1e-58f7-b2a2-a4d27754e8c8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vor den Landtagswahlen: Wie geht es der Kulturszene in Sachsen-Anhalt?",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-04T15:41:46.000Z",
+    "url": "https://www.deutschlandfunk.de/vor-den-landtagswahlen-wie-geht-es-der-kulturszene-in-sachsen-anhalt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/vor_den_landtagswahlen_wie_geht_es_der_kulturszene_in_dlf_20260904_1741_623450cb.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:fe41c620-cd99-53b5-8707-3ab600f07ea7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Balkan Erotic Epic\" - Marina Abramovićs Epos zu Ritual und Balkan-Mythologie",
+    "summary": "Ohrem, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-04T15:36:42.000Z",
+    "url": "https://www.deutschlandfunk.de/balkan-erotic-epic-marina-abramovi-s-epos-zu-ritual-und-balkan-mythologie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/balkan_erotic_epic_marina_abramovics_epos_zu_ritual_und_dlf_20260904_1736_1031a2e2.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:dbe0735d-cb01-5a5d-8967-6f0ba4dd9799",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/kulturmeldungen_02092026_dlf_20260902_1756_3ef09c2a.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:54a2e07d-7d2d-5a60-a370-11ecb87754fa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Stimme aus Teheran - Schriftsteller Amir Cheheltan über Schreiben als Refugium",
-    "summary": "Zetzsche, Cornelia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-02T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/stimme-aus-teheran-schriftsteller-amir-cheheltan-ueber-schreiben-als-refugium-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/stimme_aus_teheran_schriftsteller_amir_cheheltan_ueber_dlf_20260902_1750_e0eed7b5.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:94913fa3-8e5f-5fbb-a4b0-a5bdeea1fe2f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Goethe-Institut in Russland vor dem Aus",
-    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-02T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/goethe-institut-in-russland-vor-dem-aus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/goethe_institut_in_russland_vor_dem_aus_dlf_20260902_1746_bced41e5.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c0779daa-9b72-5fd5-b979-bbc73caa9658",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Pianist und Komponist Hayato Sumino beim Lucerne Festival",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-02T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-pianist-und-komponist-hayato-sumino-beim-lucerne-festival-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/der_pianist_und_komponist_hayato_sumino_beim_luzern_festival_dlf_20260902_1741_c3eb9d32.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:868beafa-791e-5bcc-9679-faee63bf4af4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Am Abend beginnen die Filmfestspiele Venedig",
-    "summary": "Burg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-02T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/am-abend-beginnen-die-filmfestspiele-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/am_abend_beginnen_die_filmfestspiele_venedig_dlf_20260902_1736_75e9edcc.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:72c07cb9-ecca-532c-b4e3-9f905eff128a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 01.09.2026",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/kulturmeldungen_01092026_dlf_20260901_1756_2bca0da3.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

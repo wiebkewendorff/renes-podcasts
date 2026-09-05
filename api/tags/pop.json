@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:f928c893-d708-5b9b-8db2-7d46079db821",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wendy, Lisa und Ikkimel? - Die musikalischen Girls-Idole von Rebecca Spilker",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-09-04T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wendy-lisa-und-ikkimel-die-musikalischen-girls-idole-von-rebecca-spilker-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/wendy_lisa_und_ikkimel_die_musikalischen_girls_idole_von_dlf_20260904_1515_4d0d4b0e.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4bc4e3da-8840-569f-9868-cb43333359d8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vor den Wahlen in Meck-Pomm: Wie rockt Jamel diesmal den Förster?",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-09-04T13:05:36.000Z",
+    "url": "https://www.deutschlandfunk.de/vor-den-wahlen-in-meck-pomm-wie-rockt-jamel-diesmal-den-foerster-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/vor_den_wahlen_in_meck_pomm_wie_rockt_jamel_diesmal_den_dlf_20260904_1505_83b52125.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:03b129c3-d6f3-5ca9-85eb-ab129332077c",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -50,16 +100,16 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:985addd6-e9f6-52cd-b44c-53e3b698a6ea",
+    "id": "dlf-corso:e413d12a-db83-5e87-8dd1-535514601d76",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
     "title": "Glücksgefühle Festival - jetzt doch mit Alphaville?",
     "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
-    "date": "2026-09-03T13:05:15.000Z",
-    "url": "https://www.deutschlandfunk.de/gluecksgefuehle-festival-jetzt-doch-mit-alphaville-100.html",
+    "date": "2026-09-03T13:05:29.000Z",
+    "url": "https://www.deutschlandfunk.de/gluecksgefuehle-festival-jetzt-doch-mit-alphaville-102.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/gluecksgefuehle_festival_jetzt_doch_mit_alphaville_dlf_20260903_1505_b6894a46.mp3?refId=corso-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/gluecksgefuehle_festival_jetzt_doch_mit_alphaville_dlf_20260903_1505_22b01485.mp3?refId=corso-104",
     "duration": "4 Min",
     "tags": [
       "kultur",
@@ -185,56 +235,6 @@
     "url": "https://www.deutschlandfunk.de/buch-ein-leben-in-songs-ein-blick-ins-archiv-von-freddie-mercury-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/buch_ein_leben_in_songs_ein_blick_ins_archiv_von_freddie_dlf_20260901_1510_0b37c3c9.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:da53899f-04c0-58c1-92dd-627d1056d0c3",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Popkultur in Sachsen-Anhalt - Wie blicken die Akteure auf die Wahl?",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-09-01T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/popkultur-in-sachsen-anhalt-wie-blicken-die-akteure-auf-die-wahl-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/popkultur_in_sachsen_anhalt_wie_blicken_die_akteure_auf_die_dlf_20260901_1506_d52b1eb1.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:02ba7eae-89eb-5817-b72c-c0378ca7d253",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Für mehr Solidarität unter Veranstaltern - Felix Grädler über den \"Club-Euro\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-31T13:15:54.000Z",
-    "url": "https://www.deutschlandfunk.de/fuer-mehr-solidaritaet-unter-veranstaltern-felix-graedler-ueber-den-club-euro-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/fuer_mehr_solidaritaet_unter_veranstaltern_felix_graedler_dlf_20260831_1515_1621ab20.mp3?refId=corso-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
