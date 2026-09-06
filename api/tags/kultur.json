@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:88638821-aa1d-5d81-9cf7-a161654aa69f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 05.09.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-05T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/kulturmeldungen_05092026_dlf_20260905_1756_b360cd72.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8034a689-cec7-5525-8b8b-a9ad91a2a820",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Krieg und Konfitüre\" - George Grosz x Daniel Richter im Museum in Hamm",
+    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-05T15:43:23.000Z",
+    "url": "https://www.deutschlandfunk.de/krieg-und-konfituere-george-grosz-x-daniel-richter-im-museum-in-hamm-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/krieg_und_konfituere_george_grosz_x_daniel_richter_im_museum_dlf_20260905_1743_da5da94b.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:88056e5c-2c69-5dfe-8470-602e7f7efc54",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Installation zur Eröffnung - Das Berliner Gorki-Theater unter neuer Leitung",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-05T15:38:12.000Z",
+    "url": "https://www.deutschlandfunk.de/installation-zur-eroeffnung-das-berliner-gorki-theater-unter-neuer-leitung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/installation_zur_eroeffnung_das_berliner_gorki_theater_unter_dlf_20260905_1738_2b5c10d3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:44d170fd-3deb-50f8-9d54-90ffd1874040",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Filmfestspiele Venedig - Die ersten Tage",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-05T15:31:18.000Z",
+    "url": "https://www.deutschlandfunk.de/filmfestspiele-venedig-die-ersten-tage-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/filmfestspiele_venedig_die_ersten_tage_dlf_20260905_1731_e259818c.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:456404f0-a86d-5c7c-b42e-2c640ff8b70d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "So zeitlos sein wie Prince und die Cars - \"before/after\" von Sofie Royer",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-09-05T13:40:00.000Z",
+    "url": "https://www.deutschlandfunk.de/so-zeitlos-sein-wie-prince-und-die-cars-before-after-von-sofie-royer-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/so_zeitlos_sein_wie_prince_und_die_cars_beforeafter_von_dlf_20260905_1540_f4e792fb.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:81bf77bb-9094-50ac-9bf6-4fb9d6337a7b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Wir sind die Einzigen, die noch dagegen sind\": AfD und die Clubkultur",
+    "summary": "Möller, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-09-05T13:25:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wir-sind-die-einzigen-die-noch-dagegen-sind-afd-und-die-clubkultur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/wir_sind_die_einzigen_die_noch_dagegen_sind_afd_und_die_dlf_20260905_1525_2ce4b1b1.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ce5faea9-d731-50de-8745-ae6ff07ec410",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Wir wollten einfach, dass es roh ist\" - das neue Album von Culk",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-09-05T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wir-wollten-einfach-dass-es-roh-ist-das-neue-album-von-culk-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/wir_wollten_einfach_dass_es_roh_ist_das_neue_album_von_culk_dlf_20260905_1510_fae1a6da.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:1863b684-f22d-5785-b7b1-a0f11114a53d",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -486,84 +665,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:10abdcab-6542-5a31-9470-d9a81c2be32d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vaterland - Der neue Thomas Mann-Film von Pawel Pawlikowski kommt ins Kino",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-03T15:50:30.000Z",
-    "url": "https://www.deutschlandfunk.de/vaterland-der-neue-thomas-mann-film-von-pawel-pawlikowski-kommt-ins-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/vaterland_der_neue_thomas_mann_film_von_pawel_pawlikowski_dlf_20260903_1750_2a34d3b4.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c9e4298e-09f8-5152-907a-f70367836cf8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ende einer Ära - Das Goethe-Institut in Russland muss schließen",
-    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-03T15:43:22.000Z",
-    "url": "https://www.deutschlandfunk.de/ende-einer-aera-das-goethe-institut-in-russland-muss-schliessen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/ende_einer_aera_das_goethe_institut_in_russland_muss_dlf_20260903_1743_bc334e71.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ae057ba5-2f50-5a40-913c-33ff0f67f4b4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Clooney, Boyle und Herzog - Die Filmfestspiele in Venedig haben begonnen",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-03T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/clooney-boyle-und-herzog-die-filmfestspiele-in-venedig-haben-begonnen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/clooney_boyle_und_herzog_die_filmfestspiele_in_venedig_haben_dlf_20260903_1735_27313515.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:03b129c3-d6f3-5ca9-85eb-ab129332077c",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -664,32 +765,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:4661f757-e874-5bb6-a94e-953519a01cc2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 02.09.2026",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-02T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/kulturmeldungen_02092026_dlf_20260902_1756_3ef09c2a.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:bafdbc0e-d0c2-5d16-9cd8-cf6e6959647d",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -726,31 +801,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/band_alphaville_zu_politisch_fuer_gluecksgefuehle_festival_dlf_20260902_1506_f5403336.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9cf5f2f9-060e-5ab6-bb4b-5dec3c91317d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Diamanti\" im Kino - Lisy Christl über die Kunst des Kostümdesigns",
-    "summary": "Müller, Paulus; Christl, Lisy www.deutschlandfunk.de, Corso",
-    "date": "2026-09-02T13:05:55.000Z",
-    "url": "https://www.deutschlandfunk.de/diamanti-im-kino-lisy-christl-ueber-die-kunst-des-kostuemdesigns-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/diamanti_im_kino_lisy_christl_ueber_die_kunst_des_dlf_20260902_1505_b9c4376c.mp3?refId=corso-104",
-    "duration": "14 Min",
     "tags": [
       "kultur",
       "pop",
@@ -812,56 +862,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:360e037b-60ce-52d9-aec8-7654c0caa3fb",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie sich Kunst und Musik bedingen - Dirk von Lowtzow über sein Buch \"Detektive\"",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-09-01T13:10:46.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-sich-kunst-und-musik-bedingen-dirk-von-lowtzow-ueber-sein-buch-detektive-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/wie_sich_kunst_und_musik_bedingen_dirk_von_lowtzow_ueber_dlf_20260901_1510_c8418edf.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:129db4e0-71da-58b2-a5e7-108dfe28aa44",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Buch \"Ein Leben in Songs\" - Ein Blick ins Archiv von Freddie Mercury",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-09-01T13:10:02.000Z",
-    "url": "https://www.deutschlandfunk.de/buch-ein-leben-in-songs-ein-blick-ins-archiv-von-freddie-mercury-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/buch_ein_leben_in_songs_ein_blick_ins_archiv_von_freddie_dlf_20260901_1510_0b37c3c9.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
