@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:84c2d40f-78af-5c6d-8da2-3f47d3702086",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Serie \"Possession\" - Horror auf der Sklaven-Insel",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-09-07T13:15:50.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-serie-possession-horror-auf-der-sklaven-insel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/neue_serie_possession_horror_auf_der_sklaven_insel_dlf_20260907_1515_5247d5af.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:eb761d7a-876d-5b4a-82c8-030114ecf9ba",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach der Landtagswahl: Was erwartet die Popkultur in Sachsen-Anhalt?",
+    "summary": "Herbstreuth, Mike; Sasse, Julia www.deutschlandfunk.de, Corso",
+    "date": "2026-09-07T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-der-landtagswahl-was-erwartet-die-popkultur-in-sachsen-anhalt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/nach_der_landtagswahl_was_erwartet_die_popkultur_in_sachsen_dlf_20260907_1510_fa9f12af.mp3?refId=corso-104",
+    "duration": "15 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:456404f0-a86d-5c7c-b42e-2c640ff8b70d",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -185,56 +235,6 @@
     "url": "https://www.deutschlandfunk.de/gluecksgefuehle-festival-jetzt-doch-mit-alphaville-102.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/gluecksgefuehle_festival_jetzt_doch_mit_alphaville_dlf_20260903_1505_22b01485.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bafdbc0e-d0c2-5d16-9cd8-cf6e6959647d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme - \"Vaterland\", \"That's Why The Lady Is A Champ\", \"Ghost School\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-09-02T13:20:46.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-vaterland-that-s-why-the-lady-is-a-champ-ghost-school-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/neue_filme_vaterland_thats_why_the_lady_is_a_champ_ghost_dlf_20260902_1520_4851b05c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:c2f7e3e3-048d-5d61-a4e0-fe533c2ee1fd",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Band Alphaville - Zu politisch für \"Glücksgefühle\"-Festival?",
-    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
-    "date": "2026-09-02T13:06:19.000Z",
-    "url": "https://www.deutschlandfunk.de/band-alphaville-zu-politisch-fuer-gluecksgefuehle-festival-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/band_alphaville_zu_politisch_fuer_gluecksgefuehle_festival_dlf_20260902_1506_f5403336.mp3?refId=corso-104",
     "duration": "4 Min",
     "tags": [
       "kultur",

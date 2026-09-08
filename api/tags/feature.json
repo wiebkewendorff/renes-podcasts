@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:be466a8a-1de9-5337-8125-f59c659d934b",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kill Cloud - Von 9/11 zum digitalen Krieg",
+    "summary": "Längst bestimmt die KI die Kriege der Gegenwart. Das einst freie Internet ist zum Instrument der Datenüberwachung geworden. Eine Entwicklung, die am 11. September 2001 begann. Von Andrea Rehmsmeier www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-07T22:30:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/kill-cloud-100.html",
+    "image": "https://bilder.deutschlandfunk.de/42/ad/e0/89/42ade089-6d07-4e2a-aca0-e1c57cea96d2/bild-fuer-kill-cloud-getty-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/kill_cloud_von_911_zum_digitalen_krieg_dlf_20260908_1915_28daf740.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:6431a6a7-dfea-537a-9e26-558e16782396",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/4c/c9/9e/13/4cc99e13-147e-42ca-b52c-b30e1fe20c7e/bild-fuer-boom-formel-1-rennen-gegen-die-zeit-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/ein_rennen_gegen_die_zeit_drk_20260718_1805_ac319130.mp3?refId=das-feature-104",
     "duration": "54 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-11-doku-drops-14-jung-alt-drk-20260711-1805-9c4b1726-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "doku drops 14: jung und alt - Jeden Monat neue Kurzdokus",
-    "summary": "Wie viel Kontakt haben wir mit Menschen, die wesentlich älter oder jünger sind als wir selbst und die nicht zur eigenen Familie gehören? Neue Kurzdokus erkunden die Welt jenseits der Generationenblase. Zusammenstellung: Judith Geffert und Ingo Kottkamp www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-07-07T04:00:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/doku-drops-14-jung-und-alt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b8/a5/6a/10/b8a56a10-cc42-4d26-a1ee-eaefd9da530f/doku-drops-14-jung-und-alt-bild-satt-gruen-ausschnitt-1-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/11/doku_drops_14_jung_alt_drk_20260711_1805_9c4b1726.mp3?refId=das-feature-104",
-    "duration": "29 Min",
     "tags": [
       "feature",
       "dokumentation",
