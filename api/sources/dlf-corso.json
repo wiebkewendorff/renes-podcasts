@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:800bdeaf-e020-5e0c-90e7-352b5531ae45",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Kinks of Berlin\": Ein filmischer Blick hinter die Kulissen des KitKatClubs",
+    "summary": "Müller, Paulus; Fussenegger, Philipp www.deutschlandfunk.de, Corso",
+    "date": "2026-09-08T13:05:41.000Z",
+    "url": "https://www.deutschlandfunk.de/kinks-of-berlin-ein-filmischer-blick-hinter-die-kulissen-des-kitkatclubs-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/kinks_of_berlin_ein_filmischer_blick_hinter_die_kulissen_des_dlf_20260908_1505_e150e265.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:010dbf37-8787-5bd4-8364-e57ccc6f4dc4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Memory Loss\" -Pussy-Riot-Mitglied Nadya Tolokonnikova stellt Kunst in Köln aus",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-09-08T13:05:32.000Z",
+    "url": "https://www.deutschlandfunk.de/memory-loss-pussy-riot-mitglied-nadya-tolokonnikova-stellt-kunst-in-koeln-aus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/memory_loss_pussy_riot_mitglied_nadya_tolokonnikova_stellt_dlf_20260908_1505_b25f8cfd.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8488fb31-99e3-5aca-a763-d1a7877065e6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Echt jetzt? Musikerin Nina Graf über Authentizität im Pop",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-09-08T13:05:05.000Z",
+    "url": "https://www.deutschlandfunk.de/echt-jetzt-musikerin-nina-graf-ueber-authentizitaet-im-pop-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/echt_jetzt_musikerin_nina_graf_ueber_authentizitaet_im_pop_dlf_20260908_1505_466364dd.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:84c2d40f-78af-5c6d-8da2-3f47d3702086",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/vor_den_wahlen_in_meck_pomm_wie_rockt_jamel_diesmal_den_dlf_20260904_1505_83b52125.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:03b129c3-d6f3-5ca9-85eb-ab129332077c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Deutschland, ich küss' dein Herz\" - Satirische Reisereportagen durch unser Land",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-09-03T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutschland-ich-kuess-dein-herz-satirische-reisereportagen-durch-unser-land-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/deutschland_ich_kuess_dein_herz_satirische_reisereportagen_dlf_20260903_1515_ae9c3da2.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1a391f19-2253-5e7a-8d4f-ee5543a4628d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gamerezension - \"The Blood of Dawnwalker\"",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-03T13:10:22.000Z",
-    "url": "https://www.deutschlandfunk.de/gamerezension-the-blood-of-dawnwalker-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/gamerezension_the_blood_of_dawnwalker_dlf_20260903_1510_718ae59e.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e413d12a-db83-5e87-8dd1-535514601d76",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Glücksgefühle Festival - jetzt doch mit Alphaville?",
-    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
-    "date": "2026-09-03T13:05:29.000Z",
-    "url": "https://www.deutschlandfunk.de/gluecksgefuehle-festival-jetzt-doch-mit-alphaville-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/gluecksgefuehle_festival_jetzt_doch_mit_alphaville_dlf_20260903_1505_22b01485.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",

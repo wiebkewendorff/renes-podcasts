@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:2d2dc483-9b3c-5e17-9764-3d6fc9c5f39a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 08.09.2026",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-08T15:55:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/kulturmeldungen_08092026_dlf_20260908_1755_78d1ce8e.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:900a2fe7-ab8a-5369-ad18-4812cbee2760",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Leseförderung muss Prio A werden\" - Thomas Koch zur PISA-Studie",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-08T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/lesefoerderung-muss-prio-a-werden-thomas-koch-zur-pisa-studie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/lesefoerderung_muss_prio_a_werden_thomas_koch_zur_pisa_dlf_20260908_1751_b3cfa13e.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f45c9b5e-45f3-5427-a532-19021020555a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schreiben im Namen der Demokratie - Das Internationale Literaturfestival Berlin",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-08T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/schreiben-im-namen-der-demokratie-das-internationale-literaturfestival-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/schreiben_im_namen_der_demokratie_das_internationale_dlf_20260908_1746_7fce2907.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5f97d0d2-f2e7-5431-89d0-bbd1748bb8d8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geschockt, aber kämpferisch - Kulturakteure nach der Wahl in Sachsen-Anhalt",
+    "summary": "VIETH, Vivien www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-08T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/geschockt-aber-kaempferisch-kulturakteure-nach-der-wahl-in-sachsen-anhalt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/geschockt_aber_kaempferisch_kulturakteure_nach_der_wahl_in_dlf_20260908_1741_8ecc9e4e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:23cc4d11-e5ac-5917-82e7-3b7f426156f0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Ryuichi Sakamoto - seeing sound, hearing time\" im Hamburger Bahnhof",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-08T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ryuichi-sakamoto-seeing-sound-hearing-time-im-hamburger-bahnhof-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/ryuichi_sakamoto_seeing_sound_hearing_time_im_hamburger_dlf_20260908_1736_0bcb0f17.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:528dec09-d2ff-5929-b18d-3519bd078f1c",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/06/kulturmeldungen_06092026_dlf_20260906_1751_51944660.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b9d38613-d665-5ca5-819a-a59c2ac2de8f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Wirklich\" - das Festival \"Film ohne Grenzen\" in Bad Saarow",
-    "summary": "Hamdorf, Wolfgang Martin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-06T15:46:50.000Z",
-    "url": "https://www.deutschlandfunk.de/wirklich-das-festival-film-ohne-grenzen-in-bad-saarow-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/06/wirklich_das_festival_film_ohne_grenzen_in_bad_saarow_dlf_20260906_1746_0992a1ce.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a50f8d4f-ab58-56e1-b426-aba3f7259f6c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Annemirl Bauer im MINSK Potsdam - Wiederentdeckung einer DDR-Künstlerin",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-06T15:41:52.000Z",
-    "url": "https://www.deutschlandfunk.de/annemirl-bauer-im-minsk-potsdam-wiederentdeckung-einer-ddr-kuenstlerin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/06/annemirl_bauer_im_minsk_potsdam_wiederentdeckung_einer_ddr_dlf_20260906_1741_67911c5b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f8b5382e-7b16-56c3-8a8a-8acf1f1c527f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Love, Death Shadows\": Christian Friedel insz. Shakespeares Sonette in Dresden",
-    "summary": "Koch, Vincent www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-06T15:36:45.000Z",
-    "url": "https://www.deutschlandfunk.de/love-death-shadows-christian-friedel-insz-shakespeares-sonette-in-dresden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/06/love_death_shadows_christian_friedel_insz_shakespeares_dlf_20260906_1736_93900ef6.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:88638821-aa1d-5d81-9cf7-a161654aa69f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 05.09.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-05T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/kulturmeldungen_05092026_dlf_20260905_1756_b360cd72.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8034a689-cec7-5525-8b8b-a9ad91a2a820",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Krieg und Konfitüre\" - George Grosz x Daniel Richter im Museum in Hamm",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-05T15:43:23.000Z",
-    "url": "https://www.deutschlandfunk.de/krieg-und-konfituere-george-grosz-x-daniel-richter-im-museum-in-hamm-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/krieg_und_konfituere_george_grosz_x_daniel_richter_im_museum_dlf_20260905_1743_da5da94b.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",
