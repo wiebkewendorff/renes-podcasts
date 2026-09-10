@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-08966240614464527",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Schauspieler Heino Ferch über das Reisen und \"Adams Acht\"",
+    "summary": "Berühmt wurde der Sohn eines Frachtschiff-Kapitäns durch Blockbuster wie \"Comedian Harmonists\", \"Der Untergang\" oder \"Vincent will Meer\".",
+    "date": "2026-09-09T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspieler-heino-ferch-ueber-reisen-und-adams-acht,audio-3468608.html",
+    "image": "https://images.ndr.de/image/50ce33e4-37ee-4659-8a05-f33706d145ff/AAABoIc2aWo/AAABnSStX0g/1x1-big/screenshot-224888.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0910/AU-20260910-0810-1000.mp3",
+    "duration": "39 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-893398074069156",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/9d1314ca-7a96-4a24-8e0c-108eff1d6534/AAABoG3a84o/AAABnSStX0g/1x1-big/screenshot-222986.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0906/AU-20260906-1628-2900.mp3",
     "duration": "41 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-17513694906672783",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Bestsellerautor Tahsim Durgun und Bananenbrotdosen",
-    "summary": "Tahsim Durgun ist bekannt geworden mit kurzen Videos auf Social Media, in denen es viel um seine Mutter geht. Sie lebt seit 30 Jahren in Deutschland, spricht jedoch kaum Deutsch. In den Filmen ist sie nur zu hören, nie zu sehen, aber eigentlich ist sie der Star. Das Publikum erlebt trockene, oft ruppig wirkende Dialoge über kleine und große Themen, und Tahsim Durgun hat daraus auch ein Buch gemacht. \"Mama, bitte lern Deutsch!\" ist eine Liebeserklärung, reflektiert jedoch auch die migrantische Lebenswirklichkeit in all ihren Facetten. Dafür gab es beim Bayerischen Buchpreis und dem Grimme-Online-Award Auszeichnungen. Durgun, Sohn jesidischer Kurden aus der Osttürkei, ist geboren und aufgewachsen in Oldenburg. Eigentlich wollte der heute 30-Jährige Deutschlehrer werden, entschied sich nach dem Uni-Abschluss aber anders. Zu uns kommt Tahsim Durgun mit der ARD-Comedy-Reportage \"Deutschland, ich küss‘ dein Herz\". Auf dem Roten Sofa werden wir alles darüber erfahren.",
-    "date": "2026-09-03T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/bestsellerautor-tahsim-durgun-und-bananenbrotdosen,audio-3460610.html",
-    "image": "https://images.ndr.de/image/5458e341-5bd7-4192-9d51-edae1cb0eec4/AAABoGg-YUA/AAABnSStX0g/1x1-big/screenshot-222268.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0906/AU-20260906-0805-4300.mp3",
-    "duration": "40 Min",
     "tags": [
       "beatles",
       "popgeschichte",

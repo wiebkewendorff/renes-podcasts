@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:2eeb5f45847c3beedbc322834ffc3380",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Frieden in Europa: Deutschland tritt dem Völkerbund bei",
+    "summary": "<p>Nach dem Ersten Weltkrieg ist Deutschland isoliert. Außenminister Stresemann erreicht mit dem Beitritt zum Völkerbund am 10.9.1926 die Rückkehr auf die Bühne Europas.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martina Meißner:</strong><br><ul><li>welches Ziel der nach dem Ersten Weltkrieg gegründete Völkerbund hat,</li><li>wie Gustav Stresemann aus ehemaligen Kriegsgegnern wichtige Verhandlungspartner macht,</li><li>weshalb er im eigenen Land von rechts wie von links angegriffen wird,</li><li>wie die Verträge von Locarno Deutschlands Weg zurück in die internationale Politik ebnen,</li><li>warum Historiker heute in Stresemanns Politik ein frühes Modell europäischer Zusammenarbeit sehen.</li></ul><br>Nach dem Ersten Weltkrieg scheint eine Annäherung zwischen Deutschland und den Siegermächten kaum vorstellbar. Der Versailler Vertrag belastet die Beziehungen, die Ruhrbesetzung verschärft die Spannungen zusätzlich. Trotzdem setzt Gustav Stresemann als deutscher Außenminister auf Verständigung statt Konfrontation.<br><br>Sein Engagement hat Erfolg: Im September 1926 wird Deutschland Mitglied im Völkerbund und erhält einen ständigen Sitz im wichtigsten Gremium der Organisation. Acht Jahre nach der Niederlage des deutschen Kaiserreichs ist das Land als Weimarer Republik wieder als gleichberechtigter Partner in der internationalen Politik vertreten.<br><br><strong>Das ist unser wichtigster Interviewpartner:</strong><br><ul><li>Andreas Rödder (Historiker Uni Mainz)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 10.05.1878: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-geburtstag-gustav-stresemann-100.html\" rel=\"noopener\" target=\"_blank\">Gustav Stresemann wird geboren</a></li><li>Stichtag 28.06.1919: <a href=\"https://www1.wdr.de/stichtag/stichtag-friedensvertrag-von-versailles-100.html\" rel=\"noopener\" target=\"_blank\">Friedensvertrag von Versailles unterzeichnet</a></li><li>Zeitwort 11.01.1923: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:b48150bec993a30c/\" rel=\"noopener\" target=\"_blank\">Französische und belgische Truppen besetzen das Ruhrgebiet</a></li><li>DLF Nova: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:746432696e85f61d/\" rel=\"noopener\" target=\"_blank\">Folgen des Ersten Weltkriegs – Die Verträge von Locarno 1925</a></li></ul><br><strong>Tipp:</strong> Parallel zum Start der 5.Staffel von Babylon Berlin in der ARD-Mediathek gibt es auch das<strong> Babylon Berlin Game „Eine Nacht im Moka Efti: Eine Babylon Berlin Story“, </strong>kostenlos downloadbar über <a href=\"https://store.steampowered.com/app/3975470/Eine_Nacht_im_Moka_Efti_Eine_Babylon_Berlin_Story/\" rel=\"noopener\" target=\"_blank\">Steam (für Desktop</a>)<br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martina Meißner<br>Redaktion: Carolin Rückl und David Rother<br>Technik: Moritz Raestrup",
+    "date": "2026-09-10T04:00:04.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-frieden-in-europa-deutschland-tritt-dem-voelkerbund-bei-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-deutschland-voelkerbund-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/26/e62d852d-2fda-4a60-b421-4df25485632a/e62d852d-2fda-4a60-b421-4df25485632a_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:afe15fb9444a598e5a6045233a3d279a",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -221,29 +244,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-vom-khanat-zum-zarenreich-die-russische-eroberung-sibiriens-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-sibirien-eroberung-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/17/2f7ade53-ee6a-4a97-80e2-99fa80327925/2f7ade53-ee6a-4a97-80e2-99fa80327925_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:d76eb48cb05cfe1b6c5e1e94854e3f7d",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Vitus Bering: Wie der Entdecker Asien klar von Amerika trennte",
-    "summary": "<p>Getauft wird der Däne Vitus Bering im August 1681. Seine Expeditionen in russischem Auftrag erschließen den Nordpazifik. Die letzte endet tödlich auf einer einsamen Insel.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Andrea Kath:</strong><br><ul><li>wie ein dänischer Seemann in russischen Diensten zum Leiter gewaltiger Forschungsreisen wird, </li><li>warum die Suche nach einer Verbindung zwischen Asien und Amerika Zar Peter den Großen antreibt, </li><li>weshalb Georg Wilhelm Steller und Vitus Bering auf Alaska-Kurs heftig aneinandergeraten, </li><li>mit welchem logistischen Kraftakt Tausende Menschen ganz Sibirien durchqueren, </li><li>wie eine Expedition in den Nordpazifik in einer Katastrophe endet und Geschichte schreibt.</li></ul><br>Die Namen Beringsee, Beringstraße und Beringinsel sind bis heute bekannt. Der Mann dahinter gerät dagegen lange Zeit fast in Vergessenheit. Dabei führt ihn sein Weg von Dänemark über die russische Marine bis an die Grenzen der damals bekannten Welt. <br><br>Die Zweite Kamtschatka-Expedition wird Bering berühmt machen. Nach Jahren der Vorbereitung erreicht seine Mannschaft 1741 die Küste Alaskas. An Bord kommt es zum Konflikt zwischen dem vorsichtigen Expeditionsleiter und dem ehrgeizigen Naturforscher Georg Wilhelm Steller. Auf der Rückreise schlagen Stürme, Krankheit und Hunger zu. Die Folgen prägen die Geschichte des Nordpazifiks weit über Berings Tod hinaus.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Gudrun Bucher (Sachbuchautorin, Ethnologin und Historikerin, Universität Tübingen) </li><li>Heike Heklau (Biologin, stellvertretende Vorsitzende der Georg-Wilhelm-Steller-Gesellschaft, Halle)</li><li>Gudrun Bucher: Die Entdeckung des Nordpazifiks. Eine Geschichte in 44 Objekten. Wissenschaftliche Buchgesellschaft. Darmstadt 2017</li><li>Orcutt Frost: Bering. The Russian Discovery of America. Yale University Press. New Haven/London 2003</li><li>Georg Wilhelm Steller: Die Entdeckung Alaskas mit Kapitän Bering. Von Sibirien nach Amerika 1741-1742. Lenningen 2013</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 19.12.1741: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/vitus-bering-100.html\" rel=\"noopener\" target=\"_blank\">Todestag von Vitus Bering</a></li><li>Planet Wissen:<a href=\"https://www1.wdr.de/www.planet-wissen.de/kultur/asien/sibirien/sibirien-bering-strasse-100.html\" rel=\"noopener\" target=\"_blank\"> Bering-Straße</a></li><li><a href=\"https://www.steller-gesellschaft.de/\" rel=\"noopener\" target=\"_blank\">Internationale Georg-Wilhelm-Steller-Gesellschaft e.V.</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Andrea Kath <br>Redaktion: Christoph Tiegel, Sefa Inci Suvak<br>Technik: Sarah Fitzek",
-    "date": "2026-08-31T04:00:49.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-vitus-bering-wie-der-entdecker-asien-klar-von-amerika-trennte-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-vitus-bering-taufe-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/07/31/e16754c5-3bce-47ef-8d27-c51d76e29532/e16754c5-3bce-47ef-8d27-c51d76e29532_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

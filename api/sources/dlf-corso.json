@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:428f424b-ebda-5996-b0a9-5754491e671c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ars Electronica Festival - Der KI beim Denken zuschauen",
+    "summary": "Wurth, Laura Helena www.deutschlandfunk.de, Corso",
+    "date": "2026-09-09T13:15:37.000Z",
+    "url": "https://www.deutschlandfunk.de/ars-electronica-festival-der-ki-beim-denken-zuschauen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/ars_electronica_festival_der_ki_beim_denken_zuschauen_dlf_20260909_1515_9b7adc51.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d60641cb-8556-543e-b865-15be27180301",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wortwitz trifft Zeichnung: 30 Jahre Stephan Katz Max Goldt",
+    "summary": "Müller, Paulus; Goldt, Max; Katz, Stephan www.deutschlandfunk.de, Corso",
+    "date": "2026-09-09T13:05:12.000Z",
+    "url": "https://www.deutschlandfunk.de/wortwitz-trifft-zeichnung-30-jahre-stephan-katz-max-goldt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/wortwitz_trifft_zeichnung_30_jahre_stephan_katz_max_goldt_dlf_20260909_1505_fb80028f.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:800bdeaf-e020-5e0c-90e7-352b5531ae45",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/wir_wollten_einfach_dass_es_roh_ist_das_neue_album_von_culk_dlf_20260905_1510_fae1a6da.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f928c893-d708-5b9b-8db2-7d46079db821",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wendy, Lisa und Ikkimel? - Die musikalischen Girls-Idole von Rebecca Spilker",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-09-04T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wendy-lisa-und-ikkimel-die-musikalischen-girls-idole-von-rebecca-spilker-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/wendy_lisa_und_ikkimel_die_musikalischen_girls_idole_von_dlf_20260904_1515_4d0d4b0e.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4bc4e3da-8840-569f-9868-cb43333359d8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vor den Wahlen in Meck-Pomm: Wie rockt Jamel diesmal den Förster?",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-09-04T13:05:36.000Z",
-    "url": "https://www.deutschlandfunk.de/vor-den-wahlen-in-meck-pomm-wie-rockt-jamel-diesmal-den-foerster-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/vor_den_wahlen_in_meck_pomm_wie_rockt_jamel_diesmal_den_dlf_20260904_1505_83b52125.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

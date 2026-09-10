@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:5ffe3adb-a665-576d-bdc0-988dcb042f99",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 09.09.2026",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-09T15:57:22.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/kulturmeldungen_09092026_dlf_20260909_1757_3efe8649.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1932a9c5-e60e-54a1-b917-ae35be250c18",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Paloma Varga WEISZ\" - Das neue Projekt in der Synagoge Stommeln",
+    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-09T15:51:57.000Z",
+    "url": "https://www.deutschlandfunk.de/paloma-varga-weisz-das-neue-projekt-in-der-synagoge-stommeln-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/paloma_varga_weisz_das_neue_projekt_in_der_synagoge_stommeln_dlf_20260909_1751_d6fd0efe.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:829edfc3-4af5-5ead-9d0d-9a35b2badbeb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Landestheater in NRW in Not - Ein Gutachten zeigt Lösungswege",
+    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-09T15:46:55.000Z",
+    "url": "https://www.deutschlandfunk.de/landestheater-in-nrw-in-not-ein-gutachten-zeigt-loesungswege-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/landestheater_in_nrw_in_not_ein_gutachten_zeigt_loesungswege_dlf_20260909_1746_41fb77be.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5e05f580-0ccf-56bc-a588-34a31e800a69",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deutscher Künstlerbund fordert \"Informationsstelle Kunstfreiheit\"",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-09T15:42:53.000Z",
+    "url": "https://www.deutschlandfunk.de/deutscher-kuenstlerbund-fordert-informationsstelle-kunstfreiheit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/deutscher_kuenstlerbund_fordert_informationsstelle_dlf_20260909_1742_a0fa2d80.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:117a47a3-57a6-5705-a2c7-b1f325b3e0ec",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Doku \"Musk\" und der Spielfilm \"Der Bunker\" beim Filmfestival in Venedig",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-09T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/die-doku-musk-und-der-spielfilm-der-bunker-beim-filmfestival-in-venedig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/die_doku_musk_und_der_spielfilm_der_bunker_beim_filmfestival_dlf_20260909_1735_97f85f14.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:2d2dc483-9b3c-5e17-9764-3d6fc9c5f39a",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/ryuichi_sakamoto_seeing_sound_hearing_time_im_hamburger_dlf_20260908_1736_0bcb0f17.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:528dec09-d2ff-5929-b18d-3519bd078f1c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 07.09.2026",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-07T15:56:15.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/kulturmeldungen_07092026_dlf_20260907_1756_5cbed219.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:712e6d96-b71c-5978-b955-e5400c3cd0be",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Filmfestspiele Venedig - Erste Favoriten im Wettbewerb",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-07T15:50:23.000Z",
-    "url": "https://www.deutschlandfunk.de/filmfestspiele-venedig-erste-favoriten-im-wettbewerb-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/filmfestspiele_venedig_erste_favoriten_im_wettbewerb_dlf_20260907_1750_3cbd4bd0.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:720bddc0-cb3c-5a77-8701-968457c7a542",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Worst case für Stiftung Gedenkstätten in Sachsen-Anhalt? Dir. Kai Langer im Ges.",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-07T15:44:50.000Z",
-    "url": "https://www.deutschlandfunk.de/worst-case-fuer-stiftung-gedenkstaetten-in-sachsen-anhalt-dir-kai-langer-im-ges-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/worst_case_fuer_stiftung_gedenkstaetten_in_sachsen_anhalt_dlf_20260907_1744_f3bc51a2.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:03d9f930-205f-5d8a-bfa7-2926becb11f4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zur Wahl in Sachsen-Anhalt - Soziologin und Podcasterin Katharina Warda im Gespr",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-07T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/zur-wahl-in-sachsen-anhalt-soziologin-und-podcasterin-katharina-warda-im-gespr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/zur_wahl_in_sachsen_anhalt_soziologin_und_podcasterin_dlf_20260907_1735_debb3160.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:32e9dc33-c00c-5b76-8fad-8493d452f0c7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 06.09.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-06T15:51:40.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/06/kulturmeldungen_06092026_dlf_20260906_1751_51944660.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",
