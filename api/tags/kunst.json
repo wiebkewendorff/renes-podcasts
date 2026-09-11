@@ -1,5 +1,235 @@
 [
   {
+    "id": "dlf-kultur-heute:fed2d183-1dce-595d-b54c-4bfb971b2e46",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 10.09.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-10T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/kulturmeldungen_10092026_dlf_20260910_1756_292bd36d.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:44fc6527-5c24-5137-b1ed-070671301a24",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kultstickerei - Der Teppich von Bayeux ist in London zu sehen",
+    "summary": "Prössl, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-10T15:52:35.000Z",
+    "url": "https://www.deutschlandfunk.de/kultstickerei-der-teppich-von-bayeux-ist-in-london-zu-sehen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/kultstickerei_der_teppich_von_bayeux_ist_in_london_zu_sehen_dlf_20260910_1752_c52ab044.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e9300e98-44b1-5e01-973c-765476673900",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Kreuzberg - Kunst und Migration seit 1960\" - Multidisziplinäre Schau im Gropius",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-10T15:47:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kreuzberg-kunst-und-migration-seit-1960-multidisziplinaere-schau-im-gropius-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/kreuzberg_kunst_und_migration_seit_1960_multidisziplinaere_dlf_20260910_1747_4929a900.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ef26d812-f981-5717-9fb8-41b83e205950",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Literatur in Zeiten von KI - Das Internationale Literaturfestival Berlin",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-10T15:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/literatur-in-zeiten-von-ki-das-internationale-literaturfestival-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/literatur_in_zeiten_von_ki_das_internationale_dlf_20260910_1742_ee28658b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c6bd8d74-dfb9-5e41-999a-a30a4493513f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"NAZA\" - Venedig-Premiere der Dokumentation über Israels Kriegsführung in Gaza",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-10T15:35:42.000Z",
+    "url": "https://www.deutschlandfunk.de/naza-venedig-premiere-der-dokumentation-ueber-israels-kriegsfuehrung-in-gaza-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/naza_venedig_premiere_der_dokumentation_ueber_israels_dlf_20260910_1735_8227845c.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:2935d878-fe60-5571-9c9a-e40a2c5140d8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sachbuch \"We Were Here\" - Auch Alternative-Pop hat Schwarze Pioniere",
+    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
+    "date": "2026-09-10T13:15:30.000Z",
+    "url": "https://www.deutschlandfunk.de/sachbuch-we-were-here-auch-alternative-pop-hat-schwarze-pioniere-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/sachbuch_we_were_here_auch_alternative_pop_hat_schwarze_dlf_20260910_1515_3eb84919.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a20b70c6-9e47-581b-be72-7faf1d109cf0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neuer Podcast - Echte Gedankenanstöße in \"Das Undenkbare\"?",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-09-10T13:15:23.000Z",
+    "url": "https://www.deutschlandfunk.de/neuer-podcast-echte-gedankenanstoesse-in-das-undenkbare-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/neuer_podcast_echte_gedankenanstoesse_in_das_undenkbare_dlf_20260910_1515_0e488023.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0b78a10c-879f-5de3-afdc-176ed20774a7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Letzte Staffel \"Babylon Berlin\" - Wie gegenwärtig ist 1933?",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-09-10T13:15:11.000Z",
+    "url": "https://www.deutschlandfunk.de/letzte-staffel-babylon-berlin-wie-gegenwaertig-ist-1933-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/letzte_staffel_babylon_berlin_wie_gegenwaertig_ist_1933_dlf_20260910_1515_54ca3c1e.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:80099098-482c-5851-8e51-bdb0abb54a02",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sachbuch \"We Were Here\" - Auch Alternative-Pop hat Schwarze Pioniere",
+    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
+    "date": "2026-09-10T13:05:15.000Z",
+    "url": "https://www.deutschlandfunk.de/sachbuch-we-were-here-auch-alternative-pop-hat-schwarze-pioniere-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/sachbuch_we_were_here_auch_alternative_pop_hat_schwarze_dlf_20260910_1505_d6b77de8.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:5ffe3adb-a665-576d-bdc0-988dcb042f99",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -180,136 +410,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:2d2dc483-9b3c-5e17-9764-3d6fc9c5f39a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 08.09.2026",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-08T15:55:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/kulturmeldungen_08092026_dlf_20260908_1755_78d1ce8e.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:900a2fe7-ab8a-5369-ad18-4812cbee2760",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Leseförderung muss Prio A werden\" - Thomas Koch zur PISA-Studie",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-08T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/lesefoerderung-muss-prio-a-werden-thomas-koch-zur-pisa-studie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/lesefoerderung_muss_prio_a_werden_thomas_koch_zur_pisa_dlf_20260908_1751_b3cfa13e.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f45c9b5e-45f3-5427-a532-19021020555a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schreiben im Namen der Demokratie - Das Internationale Literaturfestival Berlin",
-    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-08T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schreiben-im-namen-der-demokratie-das-internationale-literaturfestival-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/schreiben_im_namen_der_demokratie_das_internationale_dlf_20260908_1746_7fce2907.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5f97d0d2-f2e7-5431-89d0-bbd1748bb8d8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geschockt, aber kämpferisch - Kulturakteure nach der Wahl in Sachsen-Anhalt",
-    "summary": "VIETH, Vivien www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-08T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/geschockt-aber-kaempferisch-kulturakteure-nach-der-wahl-in-sachsen-anhalt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/geschockt_aber_kaempferisch_kulturakteure_nach_der_wahl_in_dlf_20260908_1741_8ecc9e4e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:23cc4d11-e5ac-5917-82e7-3b7f426156f0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Ryuichi Sakamoto - seeing sound, hearing time\" im Hamburger Bahnhof",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-08T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ryuichi-sakamoto-seeing-sound-hearing-time-im-hamburger-bahnhof-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/ryuichi_sakamoto_seeing_sound_hearing_time_im_hamburger_dlf_20260908_1736_0bcb0f17.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:800bdeaf-e020-5e0c-90e7-352b5531ae45",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -422,106 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/neue_serie_possession_horror_auf_der_sklaven_insel_dlf_20260907_1515_5247d5af.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:eb761d7a-876d-5b4a-82c8-030114ecf9ba",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach der Landtagswahl: Was erwartet die Popkultur in Sachsen-Anhalt?",
-    "summary": "Herbstreuth, Mike; Sasse, Julia www.deutschlandfunk.de, Corso",
-    "date": "2026-09-07T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-der-landtagswahl-was-erwartet-die-popkultur-in-sachsen-anhalt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/nach_der_landtagswahl_was_erwartet_die_popkultur_in_sachsen_dlf_20260907_1510_fa9f12af.mp3?refId=corso-104",
-    "duration": "15 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:456404f0-a86d-5c7c-b42e-2c640ff8b70d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "So zeitlos sein wie Prince und die Cars - \"before/after\" von Sofie Royer",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-09-05T13:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/so-zeitlos-sein-wie-prince-und-die-cars-before-after-von-sofie-royer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/so_zeitlos_sein_wie_prince_und_die_cars_beforeafter_von_dlf_20260905_1540_f4e792fb.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:81bf77bb-9094-50ac-9bf6-4fb9d6337a7b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Wir sind die Einzigen, die noch dagegen sind\": AfD und die Clubkultur",
-    "summary": "Möller, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-09-05T13:25:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wir-sind-die-einzigen-die-noch-dagegen-sind-afd-und-die-clubkultur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/wir_sind_die_einzigen_die_noch_dagegen_sind_afd_und_die_dlf_20260905_1525_2ce4b1b1.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ce5faea9-d731-50de-8745-ae6ff07ec410",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Wir wollten einfach, dass es roh ist\" - das neue Album von Culk",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-09-05T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wir-wollten-einfach-dass-es-roh-ist-das-neue-album-von-culk-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/wir_wollten_einfach_dass_es_roh_ist_das_neue_album_von_culk_dlf_20260905_1510_fae1a6da.mp3?refId=corso-104",
-    "duration": "8 Min",
     "tags": [
       "kultur",
       "pop",

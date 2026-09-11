@@ -1,253 +1,281 @@
 [
   {
-    "id": "zeitzeichen:2eeb5f45847c3beedbc322834ffc3380",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
+    "id": "dlf-1001-nacht:b83b9a33-df46-5d28-b3c6-e248b29d3739",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
     "type": "rss",
-    "title": "Frieden in Europa: Deutschland tritt dem Völkerbund bei",
-    "summary": "<p>Nach dem Ersten Weltkrieg ist Deutschland isoliert. Außenminister Stresemann erreicht mit dem Beitritt zum Völkerbund am 10.9.1926 die Rückkehr auf die Bühne Europas.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martina Meißner:</strong><br><ul><li>welches Ziel der nach dem Ersten Weltkrieg gegründete Völkerbund hat,</li><li>wie Gustav Stresemann aus ehemaligen Kriegsgegnern wichtige Verhandlungspartner macht,</li><li>weshalb er im eigenen Land von rechts wie von links angegriffen wird,</li><li>wie die Verträge von Locarno Deutschlands Weg zurück in die internationale Politik ebnen,</li><li>warum Historiker heute in Stresemanns Politik ein frühes Modell europäischer Zusammenarbeit sehen.</li></ul><br>Nach dem Ersten Weltkrieg scheint eine Annäherung zwischen Deutschland und den Siegermächten kaum vorstellbar. Der Versailler Vertrag belastet die Beziehungen, die Ruhrbesetzung verschärft die Spannungen zusätzlich. Trotzdem setzt Gustav Stresemann als deutscher Außenminister auf Verständigung statt Konfrontation.<br><br>Sein Engagement hat Erfolg: Im September 1926 wird Deutschland Mitglied im Völkerbund und erhält einen ständigen Sitz im wichtigsten Gremium der Organisation. Acht Jahre nach der Niederlage des deutschen Kaiserreichs ist das Land als Weimarer Republik wieder als gleichberechtigter Partner in der internationalen Politik vertreten.<br><br><strong>Das ist unser wichtigster Interviewpartner:</strong><br><ul><li>Andreas Rödder (Historiker Uni Mainz)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 10.05.1878: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-geburtstag-gustav-stresemann-100.html\" rel=\"noopener\" target=\"_blank\">Gustav Stresemann wird geboren</a></li><li>Stichtag 28.06.1919: <a href=\"https://www1.wdr.de/stichtag/stichtag-friedensvertrag-von-versailles-100.html\" rel=\"noopener\" target=\"_blank\">Friedensvertrag von Versailles unterzeichnet</a></li><li>Zeitwort 11.01.1923: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:b48150bec993a30c/\" rel=\"noopener\" target=\"_blank\">Französische und belgische Truppen besetzen das Ruhrgebiet</a></li><li>DLF Nova: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:746432696e85f61d/\" rel=\"noopener\" target=\"_blank\">Folgen des Ersten Weltkriegs – Die Verträge von Locarno 1925</a></li></ul><br><strong>Tipp:</strong> Parallel zum Start der 5.Staffel von Babylon Berlin in der ARD-Mediathek gibt es auch das<strong> Babylon Berlin Game „Eine Nacht im Moka Efti: Eine Babylon Berlin Story“, </strong>kostenlos downloadbar über <a href=\"https://store.steampowered.com/app/3975470/Eine_Nacht_im_Moka_Efti_Eine_Babylon_Berlin_Story/\" rel=\"noopener\" target=\"_blank\">Steam (für Desktop</a>)<br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martina Meißner<br>Redaktion: Carolin Rückl und David Rother<br>Technik: Moritz Raestrup",
-    "date": "2026-09-10T04:00:04.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-frieden-in-europa-deutschland-tritt-dem-voelkerbund-bei-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-deutschland-voelkerbund-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/26/e62d852d-2fda-4a60-b421-4df25485632a/e62d852d-2fda-4a60-b421-4df25485632a_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4053687",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Was ein Vulkanausbruch mit der Pest zu tun hat",
-    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem <strong>Leibniz-Institut für Geschichte und Kultur des östlichen Europa (GWZO)</strong>\nDie Pest als Folge von Kälte und Hunger\n<p>Jahrhundertelang hielt sich die kontrovers debattierte geschichtliche Hypothese, die Pest sei im 14. Jahrhundert quasi als biologische Waffe durch Mongolen nach Europa gelangt. Als wahrscheinlicher galt, dass die Pest den damaligen Handelsrouten folgte. Neue interdisziplinäre Forschungen zeichnen nochmal ein differenzierteres Bild dieser historischen Katastrophe: Ein gewaltiger Vulkanausbruch in den Tropen löste um das Jahr 1345 globale Klimaschwankungen aus. Von Ägypten bis Großbritannien folgten ungewöhnlich kalte und feuchte Sommer, die zu schweren Missernten und einer kontinentalen Hungersnot führten. Sowohl historische Schriftquellen als auch naturwissenschaftliche Untersuchungen an Baumringen belegen diesen abrupten Kälteeinbruch eindrucksvoll.</p>\nEine Rettungsaktion mit tödlichen Folgen\n<p>Um die eigene Bevölkerung vor dem Verhungern zu bewahren, organisierten demnach italienische Stadtstaaten wie Venedig und Genua umfangreiche Getreideimporte aus dem Schwarzmeerraum. Mit den ersehnten Schiffsfrachten kam jedoch die Pest nach Europa. Entgegen alten Mythen überlebten weder infizierte Matrosen noch Ratten die wochenlangen Seereisen über das Schwarze Meer. Stattdessen reisten Rattenflöhe als blinde Passagiere mit, die sich im Getreidestaub ernährten.<br>\nDie Ausbreitung der Seuche war somit die unbeabsichtigte Nebenwirkung einer gut gemeinten Hilfsaktion. <strong>Dr. Martin Bauch</strong> vom Leibniz-Institut für Geschichte und Kultur des östlichen Europa (GWZO) betont, wie wichtig die Zusammenarbeit von Geschichts- und Naturwissenschaften für die Erforschung dieser Zusammenhänge ist.</p>\nErkenntnisse für die moderne Welt\n<p>Der „Schwarze Tod“ traf die Regionen Europas sehr unterschiedlich, manche Gebiete wie Teile Polens oder Böhmens blieben sogar völlig verschont. Aus den historischen Ereignissen lässt sich auch für heutige Krisen lernen. Neben medizinischen Quarantänemaßnahmen offenbart der Blick in die Vergangenheit vor allem psychologische Muster. In emotional belastenden Ausnahmesituationen neigen Menschen weiterhin dazu, nach unbegründeten Sündenböcken zu suchen.</p>",
-    "date": "2026-09-10T03:07:43.000Z",
-    "url": "https://feedpress.me/link/19604/17444021/forschungsquartett-pest",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260910forschungsquartettpestforschung.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260910forschungsquartettpestforschung.63.mp3",
-    "duration": "20 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-08966240614464527",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Schauspieler Heino Ferch über das Reisen und \"Adams Acht\"",
-    "summary": "Berühmt wurde der Sohn eines Frachtschiff-Kapitäns durch Blockbuster wie \"Comedian Harmonists\", \"Der Untergang\" oder \"Vincent will Meer\".",
-    "date": "2026-09-09T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspieler-heino-ferch-ueber-reisen-und-adams-acht,audio-3468608.html",
-    "image": "https://images.ndr.de/image/50ce33e4-37ee-4659-8a05-f33706d145ff/AAABoIc2aWo/AAABnSStX0g/1x1-big/screenshot-224888.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0910/AU-20260910-0810-1000.mp3",
-    "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5ffe3adb-a665-576d-bdc0-988dcb042f99",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 09.09.2026",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:57:22.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/kulturmeldungen_09092026_dlf_20260909_1757_3efe8649.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1932a9c5-e60e-54a1-b917-ae35be250c18",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Paloma Varga WEISZ\" - Das neue Projekt in der Synagoge Stommeln",
-    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:51:57.000Z",
-    "url": "https://www.deutschlandfunk.de/paloma-varga-weisz-das-neue-projekt-in-der-synagoge-stommeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/paloma_varga_weisz_das_neue_projekt_in_der_synagoge_stommeln_dlf_20260909_1751_d6fd0efe.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:829edfc3-4af5-5ead-9d0d-9a35b2badbeb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Landestheater in NRW in Not - Ein Gutachten zeigt Lösungswege",
-    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:46:55.000Z",
-    "url": "https://www.deutschlandfunk.de/landestheater-in-nrw-in-not-ein-gutachten-zeigt-loesungswege-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/landestheater_in_nrw_in_not_ein_gutachten_zeigt_loesungswege_dlf_20260909_1746_41fb77be.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5e05f580-0ccf-56bc-a588-34a31e800a69",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutscher Künstlerbund fordert \"Informationsstelle Kunstfreiheit\"",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:42:53.000Z",
-    "url": "https://www.deutschlandfunk.de/deutscher-kuenstlerbund-fordert-informationsstelle-kunstfreiheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/deutscher_kuenstlerbund_fordert_informationsstelle_dlf_20260909_1742_a0fa2d80.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:117a47a3-57a6-5705-a2c7-b1f325b3e0ec",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Doku \"Musk\" und der Spielfilm \"Der Bunker\" beim Filmfestival in Venedig",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/die-doku-musk-und-der-spielfilm-der-bunker-beim-filmfestival-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/die_doku_musk_und_der_spielfilm_der_bunker_beim_filmfestival_dlf_20260909_1735_97f85f14.mp3?refId=kultur-heute-104",
+    "title": "Nacht 114 - Das große Happy End",
+    "summary": "Nach dem Sieg von König Badrs Familie fehlt nur noch eine Frau für ihn. Seine Mutter Dschullanar lässt in allen Städten und Ländern Ausschau halten. Doch er weiß längst, wen er will: nur diese eine, Königin Dschahara. Stimmt ihr Vater diesmal zu?<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Wie können wir uns aus der Angst heraus, in eine Zukunft hinein erzählen, damit auch wir den nächsten Morgen noch erleben? – so lautet die Grundfrage in <a href=\"https://www.deutschlandfunk.de/erzaehlen-gegen-den-untergang-100.html\" rel=\"noopener\" target=\"_blank\">Samira El Ouassils Radio-Essay „Erzählen gegen den Untergang - Scheherazades Kunst und die Kraft der Fiktionen in Zeiten der Bedrohung\"</a></li><li>Ganz am Ende dieser Folge verspricht Schahrasad eine Geschichte, in der Tiere zu Wort kommen – <a href=\"https://www.deutschlandfunk.de/elegantes-und-derbes-arabisch-schauspielerin-susana-abdulmajid-100.html\" rel=\"noopener\" target=\"_blank\">im Echo mit der arabischen Stimme von Susana AbdulMajid, die hier im Making-of von der Arbeit erzählt</a></li></ul> <br><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:09:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-114-das-grosse-happy-end-100.html",
+    "image": "https://bilder.deutschlandfunk.de/97/78/fa/24/9778fa24-acc0-4013-8305-926881cd4899/1001-nacht-57-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_114_das_grosse_happy_end_dlf_20260911_0809_41515bf4.mp3?refId=1001-nacht-100",
     "duration": "7 Min",
     "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
       "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-corso:428f424b-ebda-5996-b0a9-5754491e671c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
+    "id": "dlf-1001-nacht:3848ea24-e0c9-5c8d-b437-d8d5de6e3fa1",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
     "type": "rss",
-    "title": "Ars Electronica Festival - Der KI beim Denken zuschauen",
-    "summary": "Wurth, Laura Helena www.deutschlandfunk.de, Corso",
-    "date": "2026-09-09T13:15:37.000Z",
-    "url": "https://www.deutschlandfunk.de/ars-electronica-festival-der-ki-beim-denken-zuschauen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/ars_electronica_festival_der_ki_beim_denken_zuschauen_dlf_20260909_1515_9b7adc51.mp3?refId=corso-104",
+    "title": "Nacht 113 - Königinnen und Zauberinnen",
+    "summary": "Badr verkauft die Maultierstute einer alten Frau. Sie ist Königin Labs Mutter und verwandelt das Tier zurück in ihre Tochter. Badrs Flucht misslingt. Er wird in einen hässlichen Vogel verzaubert und in einen Käfig gesperrt. Eine Dienerin hat Mitleid.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>In dieser Folge mischen Dschinn und Ifrite mit, Zwischenwesen, die selbstverständlicher Teil muslimischer Welten sind. <a href=\"https://www.deutschlandfunk.de/magie-sex-schicksal-wie-viel-islam-steckt-in-1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">„Magie, Sex, Schicksal – Wie viel Islam steckt in 1001 Nacht?“ hat uns der Theologe Ali Ghandour beantwortet</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Auch Darstellungen von Dschinn gibt es unter den <a href=\"https://publicdomainreview.org/collection/kitab-al-bulhan-or-book-of-wonders-late-14thc/\" rel=\"noopener\" target=\"_blank\">beeindruckenden Illustrationen im „Buch der Wunder“ aus dem 14. Jahrhundert in Bagdad</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br><strong>Unser Podcast-Tipp:</strong><br><ul><li><a href=\"https://www.ardsounds.de/sendung/lamyas-buch-der-scharlatane-ard-hoerspiel-serie/urn:ard:show:2fcd2d4965e7303e/\" rel=\"noopener\" target=\"_blank\">Lamyas Buch der Scharlatane</a></li></ul>Ein Dschinni, genauer: eine Dschinnia, taucht im Leben der Jurastudentin Lamya auf, als sie ein geheimnisvolles Buch entdeckt. Plötzlich geht es in ihrem Leben noch chaotischer zu. Lamya eckt bei ihrem Vorgesetzten an, und dann offenbart ihr ihre Schwester eine folgenschwere Diagnose – und den Wunsch, vor der Behandlung einen Kurzurlaub in ihrer Heimat Marokko zu machen. Bald muss Lamya sich entscheiden, ob sie die Geister der Vergangenheit entfesselt, um ein vertuschtes koloniales Verbrechen aufzuklären. <br><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-113-koeniginnen-und-zauberinnen-cp-100.html",
+    "image": "https://bilder.deutschlandfunk.de/7e/28/5a/ba/7e285aba-0e48-4ac6-942d-427f1522c198/1001-nacht-56-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_113_koeniginnen_und_zauberinnen_+_cp_dlf_20260911_0808_1647494f.mp3?refId=1001-nacht-100",
+    "duration": "9 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-1001-nacht:bd75dac2-6f9d-5efe-9ae2-3d4f3626def3",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nacht 112 - Verwandlung in eine Maultierstute",
+    "summary": "Königin Lab merkt, dass ihr Zauberspruch bei Badr nicht wirkt. Sie habe nur Spaß gemacht, versichert sie. Und probiert von seinem Gerstenbrei. Da zittert sie am ganzen Körper. Badr verwandelt sie in eine Maultierstute und reitet auf ihr in die Welt.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>In vielen Geschichten spielt das Schicksal eine große Rolle – <a href=\"https://www.deutschlandfunkkultur.de/schicksal-und-religion-die-dunkle-macht-100.html\" rel=\"noopener\" target=\"_blank\">ausführlich widmet sich dieses Feature dem Thema: „Schicksal und Religion - Die dunkle Macht“</a></li><li>„Wie ich Scheherazade tötete“ heißt ein Buch der libanesischen Autorin und Aktivistin Joumana Haddad – von ihr wollten wir wissen: <a href=\"https://www.deutschlandfunk.de/bild-der-arabischen-frau-ist-schahrasad-eine-heldin-fuer-heute-100.html\" rel=\"noopener\" target=\"_blank\">Ist Schahrasad eine Heldin für heute?</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Die Rahmenhandlung von 1001 Nacht spielt im Königreich der Sassaniden, dem vorislamischen Persien. Damals war der Zoroastrismus Staatsreligion – <a href=\"https://www.deutschlandfunkkultur.de/im-land-der-feuertempel-100.html\" rel=\"noopener\" target=\"_blank\">und von der handelt der Text „Im Land der Feuertempel“</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:07:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-112-verwandlung-in-eine-maultierstute-100.html",
+    "image": "https://bilder.deutschlandfunk.de/07/cb/72/0f/07cb720f-deb0-45b7-a635-9052304cb9cc/1001-nacht-55-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_112_verwandlung_in_eine_maultierstute_dlf_20260911_0807_b650bfc2.mp3?refId=1001-nacht-100",
+    "duration": "7 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-1001-nacht:d311829b-58fe-5a7a-917f-080a2bf9945b",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nacht 111 - Zweierlei Gerstenbrei",
+    "summary": "Badr beobachtet nachts die mächtige Königin Lab: sie zaubert einen Fluss in den Palast, lässt Gerste wachsen, stellt aus den Ähren Mehl, und daraus einen Brei her. Der Gemüsehändler weiß was zu tun ist. Er überreicht Badr seinen eigenen Gerstenbrei.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Königin Lab ist eine „Feueranbeterin“, eine zoroastrische Figur - <a href=\"https://www.deutschlandfunkkultur.de/wie-erzaehlt-man-geschichten-als-hoertheater-die-neue-staffel-von-1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">über die Darstellung verschiedener Religionen in 1001 Nacht hat die Dramaturgin Julia Tieke Auskunft gegeben</a></li><li>In einer Studie zur Religionsangehörigkeit von Iraner*innen gaben 8 % an, zoroastrisch zu sein - <a href=\"https://www.deutschlandfunk.de/saekularisierung-im-iran-islamische-republik-ohne-100.html\" rel=\"noopener\" target=\"_blank\">Säkularisierung im Iran - Islamische Republik ohne islamische Mehrheit</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Mit dem Verhältnis des Islam zu anderen monotheistischen Religionen befasst sich ein Beitrag der Reihe „Koran erklärt“: <a href=\"https://www.deutschlandfunk.de/sure-2-vers-256-kein-zwang-im-glauben-oder-100.html\" rel=\"noopener\" target=\"_blank\">Sure 2 Vers 256 - \"Kein Zwang im Glauben\" - oder?</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-111-zweierlei-gerstenbre-100.html",
+    "image": "https://bilder.deutschlandfunk.de/62/6b/0a/11/626b0a11-d768-4083-a6b7-297a9d585d2f/1001-nacht-54-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_111_zweierlei_gerstenbre_dlf_20260911_0806_2550c1c8.mp3?refId=1001-nacht-100",
     "duration": "5 Min",
     "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
       "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
       "deutschlandfunk"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-corso:d60641cb-8556-543e-b865-15be27180301",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
+    "id": "dlf-1001-nacht:89334f01-8e5c-5101-bcb4-7090a1c8a56a",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
     "type": "rss",
-    "title": "Wortwitz trifft Zeichnung: 30 Jahre Stephan Katz Max Goldt",
-    "summary": "Müller, Paulus; Goldt, Max; Katz, Stephan www.deutschlandfunk.de, Corso",
-    "date": "2026-09-09T13:05:12.000Z",
-    "url": "https://www.deutschlandfunk.de/wortwitz-trifft-zeichnung-30-jahre-stephan-katz-max-goldt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/wortwitz_trifft_zeichnung_30_jahre_stephan_katz_max_goldt_dlf_20260909_1505_fb80028f.mp3?refId=corso-104",
-    "duration": "8 Min",
+    "title": "Nacht 110 - Seltsame Vögel",
+    "summary": "Badr beobachtet, wie ein schwarzer Vogel einen weißen begattet, der danach menschliche Gestalt annimmt – Königin Lab! Badr ist wütend, eifersüchtig. Als er den Gemüsehändler besucht, weiht der ihn ein: all die Vögel sind verzauberte junge Männer.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Schahrasad spiegelt in dieser Geschichte geschickt Motive aus der Rahmenhandlung von 1001 Nacht: Eifersucht, Betrug, Wut. <a href=\"https://www.deutschlandfunk.de/was-zuvor-geschah-100.html\" rel=\"noopener\" target=\"_blank\">Die Vorgeschichte von König Schahriyar steht am Anfang unseres Podcasts - „Was zuvor geschah…“</a></li><li>Von welcher Gesellschaft erzählt 1001 Nacht? <a href=\"https://www.deutschlandfunk.de/historischer-check-up-von-welcher-gesellschaft-erzaehlt-1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">Der Islamwissenschaftler Reinhard Schulze nennt das Werk eine „Enzyklopädie der Moral“ und beleuchtet Frauen- und Männerrollen, Macht und Herrschaft im historischen Check-Up</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Wer über 1001 Nacht lieber lesen als hören möchte, findet hier <a href=\"https://wwwuser.gwdguser.de/~umarzol/files/67Marzolph_1001Nacht-transnational.pdf\" rel=\"noopener\" target=\"_blank\">„Die Erzählungen aus Tausendundeine Nacht als Monument transnationaler Erzählkunst“ des Erzählforschers Ulrich Marzolph</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-110-seltsame-voegel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/92/ae/84/37/92ae8437-f91b-4a2a-99c9-ce1290d76163/1001-nacht-53-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_110_seltsame_voegel_dlf_20260911_0805_3c5099aa.mp3?refId=1001-nacht-100",
+    "duration": "7 Min",
     "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
       "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
       "deutschlandfunk"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-1001-nacht:d79c0542-05cb-5081-941f-4b0233b26b53",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nacht 109 - Badr im Liebestaumel",
+    "summary": "Für König Badr geht ein Traum in Erfüllung: 40 Tage und Nächte vergnügt er sich mit Königin Lab. Sie essen, trinken, lieben sich, und Badr vergisst den Kummer der Fremde. Nirgends sonst will er sein. Am nächsten Morgen ist die Königin fort.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Bei allen arabischen Sprachaufnahmen war Heba Tebakhi als Expertin im Studio – <a href=\"https://www.deutschlandfunk.de/arabischstunde-mit-1001-nacht-was-erzaehlt-die-originalsprache-der-geschichten-100.html\" rel=\"noopener\" target=\"_blank\">in einer „Arabischstunde mit 1001 Nacht“ erzählt sie über die Sprache, Kontexte und aktuelle arabische Erzählkultur</a></li><li><a href=\"https://www.deutschlandfunkkultur.de/claudia-ott-neuuebersetzung-tausendundeine-nacht-100.html\" rel=\"noopener\" target=\"_blank\">\"Ich übersetze immer mit der Priorität des Klangs\" sagt Claudia Ott</a> – drei Bände mit 1001 Nacht Geschichten hat sie schon aus dem Arabischen übersetzt, zwei weitere sollen folgen</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:04:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-109-badr-im-liebestaumel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/43/2c/20/f1/432c20f1-145d-4842-a2e9-307cc0874279/1001-nacht-52-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_109_badr_im_liebestaumel_dlf_20260911_0804_ab509db2.mp3?refId=1001-nacht-100",
+    "duration": "7 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-1001-nacht:c07b8181-2479-5b49-ab58-1d9931d9708b",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nacht 108 - Ein Palast wie aus dem Garten Eden",
+    "summary": "Als Königin Lab ihren Schleier lüftet, ist es um den jungen König Badr geschehen. Darf er wirklich Tage und Nächte mit ihr auf dem Liebeslager verbringen? Dafür würde Badr glatt sterben. Der Gemüsehändler gibt ihn frei. Und die Königin triumphiert.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Essay zur Geschichte hinter den Geschichten von 1001 Nacht - <a href=\"https://www.deutschlandfunk.de/sex-dschinn-religion-1001-nacht-gegen-114-suren-102.html\" rel=\"noopener\" target=\"_blank\">Sex, Dschinn, Religion - 1001 Nacht gegen 114 Suren?</a></li><li>Die Geschichtensammlung von 1001 Nacht hat sich über viele Jahrhunderte hinweg entwickelt. <a href=\"https://www.deutschlandfunk.de/das-motiv-der-drei-wuensche-warum-ist-1001-nacht-weltweit-so-populaer-100.html\" rel=\"noopener\" target=\"_blank\">Manche Figuren und Motive sind weltweit aus Kultur, Werbung und Alltag nicht mehr wegzudenken - der Erzählforscher Ulrich Marzolph im Gespräch</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:03:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-108-ein-palast-wie-aus-dem-garten-eden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/03/44/c0/70/0344c070-4abb-43d2-8c8d-e7b65e531bd9/1001-nacht-50-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_108_ein_palast_wie_aus_dem_garten_eden_dlf_20260911_0803_d94ffb68.mp3?refId=1001-nacht-100",
+    "duration": "6 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-1001-nacht:f35c25ec-1ca1-5a54-b076-6611e1b95ca2",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nacht 107 - Herrscherin über die Zauberstadt",
+    "summary": "König Badr lebt einen Monat beim Gemüsehändler. Dann taucht Königin Lab mit ihrer Armee auf, um Badr zu holen. Der Gemüsehändler gibt ihn als seinen Neffen aus. Die Königin schwört, ihm kein Härchen zu krümmen, und der Alte muss zustimmen.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Königin Lab ist eine „Feueranbeterin“ – so heißen in „1001 Nacht“ die Religionsangehörigen des Zoroastrismus. <a href=\"https://www.deutschlandfunk.de/zweite-staffel-des-podcasts-1001-nacht-die-wichtige-rolle-der-zoroastrier-100.html\" rel=\"noopener\" target=\"_blank\">Wie und warum Zoroastrier in den Geschichten auftauchen, erklärt Julia Tieke vom Hörspiel des Deutschlandfunks</a></li><li>Eins unserer Hintergrundgespräche fragt nach der Rolle der Nacht und der Dunkelheit für die Geschichten: <a href=\"https://www.deutschlandfunk.de/im-dunkeln-erzaehlen-welche-bedeutung-hat-die-nacht-in-1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">Welche Bedeutung hat die Nacht in 1001 Nacht? - mit der Kulturwissenschaftlerin Elisabeth Bronfen</a></li></ul> <br><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:02:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-107-herrscherin-ueber-die-zauberstadt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/87/e3/6e/3f/87e36e3f-7848-4e92-8a7d-3b76b964d39a/1001-nacht-49-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_107_herrscherin_ueber_die_zauberstadt_dlf_20260911_0802_1d4ffb6b.mp3?refId=1001-nacht-100",
+    "duration": "6 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-1001-nacht:bb412d2c-1f42-5245-a432-a95f2a57fd7b",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nacht 106 - Von einem Zauber in den nächsten",
+    "summary": "Ein alter Gemüsehändler gewährt Badr Schutz. Er erzählt: in der grauen Stadt herrscht Königin Lab. Sie nimmt sich jeden jungen Neuankömmling für 40 Tage, dann verzaubert sie ihn in ein Tier. Badr bangt – er war doch eben erst verzaubert!<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>„Mondgleiche Sklavinnen“ sind Teil der Armee von Königin Lab. <a href=\"https://www.deutschlandfunk.de/versklavung-und-race-weisse-sklavenmaedchen-in-1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">Woher kamen versklavte Menschen im islamischen Mittelalter? Wie regelte islamisches Recht Versklavung? Ein Deep Dive mit der Arabistin Rachel Schine</a></li><li>Die bekanntesten Zwischenwesen in 1001 Nacht sind <a href=\"https://www.deutschlandfunkkultur.de/dschinn-im-koran-neutral-im-alltag-gefuerchtet-bei-disney-verklaert-dlf-kultur-30b52511-100.html\" rel=\"noopener\" target=\"_blank\">Dschinn - im Koran neutral, im Alltag gefürchtet, bei Disney verklärt</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://www.ardmediathek.de/video/dokus-und-reportagen/rafik-schami-erzaehler/hr/YTg4MmU2NDgtZjhkMi00YzRjLTllNDUtMjk4ZTVkZDJmNTUw\" rel=\"noopener\" target=\"_blank\">Video-Porträt von Rafik Schami, dem großen Geschichtenerzähler in der Tradition von 1001 Nacht</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br> <strong>Unser Podcast-Tipp:</strong><br><ul><li><a href=\"https://www.ardsounds.de/sendung/kult-klassiker-der-weltliteratur-als-hoerbuecher/urn:ard:show:5012a809f8b1971e/\" rel=\"noopener\" target=\"_blank\">KULT! – Klassiker der Weltliteratur</a></li></ul>Ihr wollt mehr Weltliteratur? Der Podcast KULT! hat Hörbücher von antiken Abenteuergeschichten bis zur frühen Science-Fiction – quer durch Literaturepochen, gelesen von herausragenden Interpretinnen und Interpreten. Abonniert den Kanal in <a href=\"https://www.ardsounds.de/sendung/kult-klassiker-der-weltliteratur-als-hoerbuecher/urn:ard:show:5012a809f8b1971e/\" rel=\"noopener\" target=\"_blank\">ARD Sounds</a> und ihr bekommt immer donnerstags einen neuen Klassiker als Hörbuch.<br><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:01:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-106-von-einem-zauber-in-den-naechsten-cp-100.html",
+    "image": "https://bilder.deutschlandfunk.de/4a/d7/3b/5b/4ad73b5b-a6cb-4fcc-8451-affcc8f85272/1001-nacht-48-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_106_von_einem_zauber_in_den_naechsten_+_cp_dlf_20260911_0801_22474751.mp3?refId=1001-nacht-100",
+    "duration": "7 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-1001-nacht:1012d14d-9d77-5e77-928b-d6298aba39b8",
+    "source": "dlf-1001-nacht",
+    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nacht 105 - Im tosenden Meer",
+    "summary": "König Badr tritt die Heimreise an. Ein Seesturm schmettert sein Schiff gegen einen Felsen, tagelang treibt er im Meer. Als er vor einer geheimnisvollen Stadt strandet, eilen Tiere herbei. Sie hindern Badr mit Tritten daran, aus dem Wasser zu kommen.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Hat 1001 Nacht den Cliffhanger erfunden? <a href=\"https://www.deutschlandfunk.de/spannend-erzaehlen-hat-1001-nacht-den-cliffhanger-erfunden-100.html\" rel=\"noopener\" target=\"_blank\">Der Literaturwissenschaftler Vincent Fröhlich beantwortet diese und weitere Fragen: Wie funktionieren Cliffhanger? Wie prägen sie unser Storytelling, nicht zuletzt im Alltag?</a></li><li><a href=\"https://www.deutschlandfunk.de/ein-versprechen-dass-es-weiter-gehen-koennte-100.html\" rel=\"noopener\" target=\"_blank\">Wie es zu der Fortsetzung von 1001 Nacht kam, erzählen Sabine Küchler und Julia Tieke vom Hörspiel im Deutschlandfunk</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht – Staffel zwei <br>Nach der Neuübersetzung von Claudia Ott <br>Auswahl der Geschichten: Safiye Can <br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi <br>Mit Roxana Samadi, Susana AbdulMajid und Jasmin Shakeri <br>Besetzung: Kathi Bonjour <br>Regieassistenz: Vanessa Gräfingholt und Delia Lang <br>Expertin für Arabisch: Heba Tebakhi <br>Übersetzung und philologische Beratung: Claudia Ott <br>Copyright der Übersetzung: Verlag C. H. Beck <br>Nach der arabischen Edition von Muhsin Mahdi<br>Redaktionelle Mitarbeit: Matthias Karow <br>Komposition und Musik: Philipp Johann Thimm <br>Weitere Musik: Roshanak Rafani an Daf, Tombak und Bendir und Nabil Arbaain an der Oud <br>Ton: Andreas Stoffels und Susanne Beyer, sowie Alexander Brennecke<br>Disposition: Dagmar Goyk <br>Regie: Judith Lorentz <br>Dramaturgie: Sabine Küchler und Julia Tieke <br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-11T06:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nacht-105-im-tosenden-meer-100.html",
+    "image": "https://bilder.deutschlandfunk.de/f3/af/51/2d/f3af512d-1e99-43e0-8a3d-61a249138282/1001-nacht-47-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/nacht_105_im_tosenden_meer_dlf_20260911_0800_5e4fff75.mp3?refId=1001-nacht-100",
+    "duration": "6 Min",
+    "tags": [
+      "horspiel",
+      "literatur",
+      "1001-nacht",
+      "schahrasad",
+      "klassiker",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Hörspiel",
+      "Literatur",
+      "Kultur"
     ],
     "language": "de"
   }

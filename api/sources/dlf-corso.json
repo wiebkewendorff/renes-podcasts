@@ -1,5 +1,105 @@
 [
   {
+    "id": "dlf-corso:2935d878-fe60-5571-9c9a-e40a2c5140d8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sachbuch \"We Were Here\" - Auch Alternative-Pop hat Schwarze Pioniere",
+    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
+    "date": "2026-09-10T13:15:30.000Z",
+    "url": "https://www.deutschlandfunk.de/sachbuch-we-were-here-auch-alternative-pop-hat-schwarze-pioniere-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/sachbuch_we_were_here_auch_alternative_pop_hat_schwarze_dlf_20260910_1515_3eb84919.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a20b70c6-9e47-581b-be72-7faf1d109cf0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neuer Podcast - Echte Gedankenanstöße in \"Das Undenkbare\"?",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-09-10T13:15:23.000Z",
+    "url": "https://www.deutschlandfunk.de/neuer-podcast-echte-gedankenanstoesse-in-das-undenkbare-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/neuer_podcast_echte_gedankenanstoesse_in_das_undenkbare_dlf_20260910_1515_0e488023.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0b78a10c-879f-5de3-afdc-176ed20774a7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Letzte Staffel \"Babylon Berlin\" - Wie gegenwärtig ist 1933?",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-09-10T13:15:11.000Z",
+    "url": "https://www.deutschlandfunk.de/letzte-staffel-babylon-berlin-wie-gegenwaertig-ist-1933-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/letzte_staffel_babylon_berlin_wie_gegenwaertig_ist_1933_dlf_20260910_1515_54ca3c1e.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:80099098-482c-5851-8e51-bdb0abb54a02",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sachbuch \"We Were Here\" - Auch Alternative-Pop hat Schwarze Pioniere",
+    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
+    "date": "2026-09-10T13:05:15.000Z",
+    "url": "https://www.deutschlandfunk.de/sachbuch-we-were-here-auch-alternative-pop-hat-schwarze-pioniere-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/sachbuch_we_were_here_auch_alternative_pop_hat_schwarze_dlf_20260910_1505_d6b77de8.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:428f424b-ebda-5996-b0a9-5754491e671c",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -136,106 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/neue_serie_possession_horror_auf_der_sklaven_insel_dlf_20260907_1515_5247d5af.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:eb761d7a-876d-5b4a-82c8-030114ecf9ba",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach der Landtagswahl: Was erwartet die Popkultur in Sachsen-Anhalt?",
-    "summary": "Herbstreuth, Mike; Sasse, Julia www.deutschlandfunk.de, Corso",
-    "date": "2026-09-07T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-der-landtagswahl-was-erwartet-die-popkultur-in-sachsen-anhalt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/nach_der_landtagswahl_was_erwartet_die_popkultur_in_sachsen_dlf_20260907_1510_fa9f12af.mp3?refId=corso-104",
-    "duration": "15 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:456404f0-a86d-5c7c-b42e-2c640ff8b70d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "So zeitlos sein wie Prince und die Cars - \"before/after\" von Sofie Royer",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-09-05T13:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/so-zeitlos-sein-wie-prince-und-die-cars-before-after-von-sofie-royer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/so_zeitlos_sein_wie_prince_und_die_cars_beforeafter_von_dlf_20260905_1540_f4e792fb.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:81bf77bb-9094-50ac-9bf6-4fb9d6337a7b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Wir sind die Einzigen, die noch dagegen sind\": AfD und die Clubkultur",
-    "summary": "Möller, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-09-05T13:25:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wir-sind-die-einzigen-die-noch-dagegen-sind-afd-und-die-clubkultur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/wir_sind_die_einzigen_die_noch_dagegen_sind_afd_und_die_dlf_20260905_1525_2ce4b1b1.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ce5faea9-d731-50de-8745-ae6ff07ec410",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Wir wollten einfach, dass es roh ist\" - das neue Album von Culk",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-09-05T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wir-wollten-einfach-dass-es-roh-ist-das-neue-album-von-culk-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/wir_wollten_einfach_dass_es_roh_ist_das_neue_album_von_culk_dlf_20260905_1510_fae1a6da.mp3?refId=corso-104",
-    "duration": "8 Min",
     "tags": [
       "kultur",
       "pop",
