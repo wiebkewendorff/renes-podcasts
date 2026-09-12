@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:8ab5e0a5-4a76-5db8-a702-c666f62df5e0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 11.09.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-11T15:56:03.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-11-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/kulturmeldungen_11092026_dlf_20260911_1756_28505476.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7ebde290-5e62-593e-bdde-c14dbb54c45c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vielstimmigkeit in Zeiten des Krieges: das Lyrikfestival in Czernowitz",
+    "summary": "Oppen, Stephanie von www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-11T15:52:30.000Z",
+    "url": "https://www.deutschlandfunk.de/vielstimmigkeit-in-zeiten-des-krieges-das-lyrikfestival-in-czernowitz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/vielstimmigkeit_in_zeiten_des_krieges_das_lyrikfestival_in_dlf_20260911_1752_6753f4e9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0386d1e0-8096-5cf8-a4d8-3cb9f9caedfa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Tanz und Gesang zur Erleuchtung - \"Siddharta\" bei der Ruhrtriennale",
+    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-11T15:47:33.000Z",
+    "url": "https://www.deutschlandfunk.de/tanz-und-gesang-zur-erleuchtung-siddharta-bei-der-ruhrtriennale-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/tanz_und_gesang_zur_erleuchtung_siddharta_bei_der_dlf_20260911_1747_2759b6cb.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:78a8094d-cf77-598d-a94f-856c3f4939ff",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Adolf Hitler und Oskar Matzerath: Maurizio Cattelan in der Neuen Nationalgalerie",
+    "summary": "Reber, Simone www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-11T15:42:21.000Z",
+    "url": "https://www.deutschlandfunk.de/adolf-hitler-und-oskar-matzerath-maurizio-cattelan-in-der-neuen-nationalgalerie-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/adolf_hitler_und_oskar_matzerath_maurizio_cattelan_in_der_dlf_20260911_1742_315da881.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:713ee702-03cc-5939-b5f2-fb6b5482d377",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zwischen Trauma und Vergeltung - 25 Jahre nach 9/11",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-11T15:36:01.000Z",
+    "url": "https://www.deutschlandfunk.de/zwischen-trauma-und-vergeltung-25-jahre-nach-9-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/zwischen_trauma_und_vergeltung_25_jahre_nach_911_dlf_20260911_1736_e2618c0f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:fed2d183-1dce-595d-b54c-4bfb971b2e46",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/naza_venedig_premiere_der_dokumentation_ueber_israels_dlf_20260910_1735_8227845c.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5ffe3adb-a665-576d-bdc0-988dcb042f99",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 09.09.2026",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:57:22.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/kulturmeldungen_09092026_dlf_20260909_1757_3efe8649.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1932a9c5-e60e-54a1-b917-ae35be250c18",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Paloma Varga WEISZ\" - Das neue Projekt in der Synagoge Stommeln",
-    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:51:57.000Z",
-    "url": "https://www.deutschlandfunk.de/paloma-varga-weisz-das-neue-projekt-in-der-synagoge-stommeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/paloma_varga_weisz_das_neue_projekt_in_der_synagoge_stommeln_dlf_20260909_1751_d6fd0efe.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:829edfc3-4af5-5ead-9d0d-9a35b2badbeb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Landestheater in NRW in Not - Ein Gutachten zeigt Lösungswege",
-    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:46:55.000Z",
-    "url": "https://www.deutschlandfunk.de/landestheater-in-nrw-in-not-ein-gutachten-zeigt-loesungswege-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/landestheater_in_nrw_in_not_ein_gutachten_zeigt_loesungswege_dlf_20260909_1746_41fb77be.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5e05f580-0ccf-56bc-a588-34a31e800a69",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutscher Künstlerbund fordert \"Informationsstelle Kunstfreiheit\"",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:42:53.000Z",
-    "url": "https://www.deutschlandfunk.de/deutscher-kuenstlerbund-fordert-informationsstelle-kunstfreiheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/deutscher_kuenstlerbund_fordert_informationsstelle_dlf_20260909_1742_a0fa2d80.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:117a47a3-57a6-5705-a2c7-b1f325b3e0ec",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Doku \"Musk\" und der Spielfilm \"Der Bunker\" beim Filmfestival in Venedig",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-09T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/die-doku-musk-und-der-spielfilm-der-bunker-beim-filmfestival-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/die_doku_musk_und_der_spielfilm_der_bunker_beim_filmfestival_dlf_20260909_1735_97f85f14.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "theater",

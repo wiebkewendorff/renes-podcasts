@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:5ed2482a-9322-51d2-8c3e-9cd57bfcf98b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der 11. September 2001 veränderte die Ästhetik des Hollywoodfilms",
+    "summary": "9/11 gilt als Zäsur in der Filmbranche. Vor den Anschlägen hat man in Kinofilmen ein bisschen geschossen, sagt Medienwissenschaftlerin Vanessa Ossa. Danach prägten Folter, Terror und Überwachung Filme und Serien – und selbst Batman wurde düsterer. Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-09-11T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/vanessa-ossa-ueber-9-11-und-wie-der-anschlag-film-und-fernsehen-veraendert-hat-100.html",
+    "image": "https://bilder.deutschlandfunk.de/f0/39/ce/3b/f039ce3b-63de-43ac-8fcc-2adfd848c2cb/oliver-stone-world-trade-center-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/vanessa_ossa_ueber_911_und_wie_der_anschlag_film_und_dlf_20260911_1510_0066b309.mp3?refId=corso-104",
+    "duration": "15 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:6ef7f2bf-a042-5a38-b3ef-a55d69ec95b8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Tarnun in Knallfarben: Kann Mode vor KI-Überwachung schützen?",
+    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
+    "date": "2026-09-11T13:05:15.000Z",
+    "url": "https://www.deutschlandfunk.de/tarnun-in-knallfarben-kann-mode-vor-ki-ueberwachung-schuetzen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/tarnung_in_knallfarben_kann_mode_vor_ki_ueberwachung_dlf_20260911_1505_90faf2b5.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:2935d878-fe60-5571-9c9a-e40a2c5140d8",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/memory_loss_pussy_riot_mitglied_nadya_tolokonnikova_stellt_dlf_20260908_1505_b25f8cfd.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8488fb31-99e3-5aca-a763-d1a7877065e6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Echt jetzt? Musikerin Nina Graf über Authentizität im Pop",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-09-08T13:05:05.000Z",
-    "url": "https://www.deutschlandfunk.de/echt-jetzt-musikerin-nina-graf-ueber-authentizitaet-im-pop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/echt_jetzt_musikerin_nina_graf_ueber_authentizitaet_im_pop_dlf_20260908_1505_466364dd.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:84c2d40f-78af-5c6d-8da2-3f47d3702086",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Serie \"Possession\" - Horror auf der Sklaven-Insel",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-07T13:15:50.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-serie-possession-horror-auf-der-sklaven-insel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/neue_serie_possession_horror_auf_der_sklaven_insel_dlf_20260907_1515_5247d5af.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
