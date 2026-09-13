@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:13e49205-8878-56b9-8cf8-2e91fafb34f8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Weniger ist mehr: This is Lorelei mit \"The Singer In My Band\"",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-09-12T13:40:00.000Z",
+    "url": "https://www.deutschlandfunk.de/weniger-ist-mehr-this-is-lorelei-mit-the-singer-in-my-band-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/weniger_ist_mehr_this_is_lorelei_mit_the_singer_in_my_band_dlf_20260912_1540_d613fe6e.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:2fa0f786-8927-5d6c-b2c4-0ce35c72fd73",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Distance In Static\" von Bonobo - Trost finden im Tumult",
+    "summary": "Möller, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-09-12T13:25:00.000Z",
+    "url": "https://www.deutschlandfunk.de/distance-in-static-von-bonobo-trost-finden-im-tumult-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/distance_in_static_von_bonobo_trost_finden_im_tumult_dlf_20260912_1525_3f0f22c8.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:bd1c4730-c5e9-5450-9103-57405882362d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Persönlich und dennoch universell: Ebow mit \"Typologie eines Lebens\"",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-09-12T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/persoenlich-und-dennoch-universell-ebow-mit-typologie-eines-lebens-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/persoenlich_und_dennoch_universell_ebow_mit_typologie_eines_dlf_20260912_1515_2709a8c0.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:5ed2482a-9322-51d2-8c3e-9cd57bfcf98b",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/ars_electronica_festival_der_ki_beim_denken_zuschauen_dlf_20260909_1515_9b7adc51.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d60641cb-8556-543e-b865-15be27180301",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wortwitz trifft Zeichnung: 30 Jahre Stephan Katz Max Goldt",
-    "summary": "Müller, Paulus; Goldt, Max; Katz, Stephan www.deutschlandfunk.de, Corso",
-    "date": "2026-09-09T13:05:12.000Z",
-    "url": "https://www.deutschlandfunk.de/wortwitz-trifft-zeichnung-30-jahre-stephan-katz-max-goldt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/wortwitz_trifft_zeichnung_30_jahre_stephan_katz_max_goldt_dlf_20260909_1505_fb80028f.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:800bdeaf-e020-5e0c-90e7-352b5531ae45",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Kinks of Berlin\": Ein filmischer Blick hinter die Kulissen des KitKatClubs",
-    "summary": "Müller, Paulus; Fussenegger, Philipp www.deutschlandfunk.de, Corso",
-    "date": "2026-09-08T13:05:41.000Z",
-    "url": "https://www.deutschlandfunk.de/kinks-of-berlin-ein-filmischer-blick-hinter-die-kulissen-des-kitkatclubs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/kinks_of_berlin_ein_filmischer_blick_hinter_die_kulissen_des_dlf_20260908_1505_e150e265.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:010dbf37-8787-5bd4-8364-e57ccc6f4dc4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Memory Loss\" -Pussy-Riot-Mitglied Nadya Tolokonnikova stellt Kunst in Köln aus",
-    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
-    "date": "2026-09-08T13:05:32.000Z",
-    "url": "https://www.deutschlandfunk.de/memory-loss-pussy-riot-mitglied-nadya-tolokonnikova-stellt-kunst-in-koeln-aus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/memory_loss_pussy_riot_mitglied_nadya_tolokonnikova_stellt_dlf_20260908_1505_b25f8cfd.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",
