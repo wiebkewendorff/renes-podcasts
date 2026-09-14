@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:3de66aac-bc97-582b-9089-eca29a02d50b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 13.09.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-13T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/13/kulturmeldungen_13092026_dlf_20260913_1756_8d90b369.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b6d228d0-02fe-5a45-8d63-7db9bc94058c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Abenteuer des braven Soldaten Schwejk\" am Schauspiel Frankfurt",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-13T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-abenteuer-des-braven-soldaten-schwejk-am-schauspiel-frankfurt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/13/die_abenteuer_des_braven_soldaten_schwejk_am_schauspiel_dlf_20260913_1751_218ecdec.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:79317622-6e02-5080-be7a-41a6bdadf0f7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Gutes altes Deutschland\"? Historiker Tobias Becker zu AfD und Nostalgie",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-13T15:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gutes-altes-deutschland-historiker-tobias-becker-zu-afd-und-nostalgie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/13/gutes_altes_deutschland_historiker_tobias_becker_zu_afd_und_dlf_20260913_1742_ab8cf8f7.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5e976821-b719-5d67-81e1-712d11d0210c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Pique Dame\" - Roland Schwab inszeniert in Hannover Tschaikowsky",
+    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-13T15:37:00.000Z",
+    "url": "https://www.deutschlandfunk.de/pique-dame-roland-schwab-inszeniert-in-hannover-tschaikowsky-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/13/pique_dame_roland_schwab_inszeniert_in_hannover_tschaikowsky_dlf_20260913_1737_618b57ba.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3ff0b14e-e9be-5a3f-814a-48f8f46c94f4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach dem Löwenbrüllen - Fazit der Filmfestspiele Venedig",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-13T15:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-dem-loewenbruellen-fazit-der-filmfestspiele-venedig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/13/nach_dem_loewenbruellen_fazit_der_filmfestspiele_venedig_dlf_20260913_1731_23893e83.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:9d63a5d0-cee9-5066-84ea-d28e046e4b22",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/veraenderung_erzaehlen_zum_auftakt_des_osten_festivals_in_dlf_20260912_1736_1c701e9b.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:10796aa5-1f00-5e75-aa7d-78d4e3326c99",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kurz vor Schluss - Die Filmfestspiele Venedig vor der Preisvergabe",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-12T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kurz-vor-schluss-die-filmfestspiele-venedig-vor-der-preisvergabe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/kurz_vor_schluss_die_filmfestspiele_venedig_vor_der_dlf_20260912_1731_556e9b54.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8ab5e0a5-4a76-5db8-a702-c666f62df5e0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 11.09.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-11T15:56:03.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-11-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/kulturmeldungen_11092026_dlf_20260911_1756_28505476.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7ebde290-5e62-593e-bdde-c14dbb54c45c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vielstimmigkeit in Zeiten des Krieges: das Lyrikfestival in Czernowitz",
-    "summary": "Oppen, Stephanie von www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-11T15:52:30.000Z",
-    "url": "https://www.deutschlandfunk.de/vielstimmigkeit-in-zeiten-des-krieges-das-lyrikfestival-in-czernowitz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/vielstimmigkeit_in_zeiten_des_krieges_das_lyrikfestival_in_dlf_20260911_1752_6753f4e9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0386d1e0-8096-5cf8-a4d8-3cb9f9caedfa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Tanz und Gesang zur Erleuchtung - \"Siddharta\" bei der Ruhrtriennale",
-    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-11T15:47:33.000Z",
-    "url": "https://www.deutschlandfunk.de/tanz-und-gesang-zur-erleuchtung-siddharta-bei-der-ruhrtriennale-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/tanz_und_gesang_zur_erleuchtung_siddharta_bei_der_dlf_20260911_1747_2759b6cb.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:78a8094d-cf77-598d-a94f-856c3f4939ff",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Adolf Hitler und Oskar Matzerath: Maurizio Cattelan in der Neuen Nationalgalerie",
-    "summary": "Reber, Simone www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-11T15:42:21.000Z",
-    "url": "https://www.deutschlandfunk.de/adolf-hitler-und-oskar-matzerath-maurizio-cattelan-in-der-neuen-nationalgalerie-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/adolf_hitler_und_oskar_matzerath_maurizio_cattelan_in_der_dlf_20260911_1742_315da881.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

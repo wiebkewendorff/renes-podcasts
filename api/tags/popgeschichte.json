@@ -1,5 +1,55 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-1488595941909685",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Schauspielerin Rhea Harder-Vennewald nicht nur über \"Notruf Hafenkante\"",
+    "summary": "Aufs Rote Sofa bringt die dreifache Mutter jedoch auch Eindrücke einer Folge \"Terra Xplore\" im Zweiten mit.",
+    "date": "2026-09-12T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspielerin-rhea-harder-vennewald-nicht-nur-ueber-notruf-hafenkante,audio-3473966.html",
+    "image": "https://images.ndr.de/image/a084d44e-8cdc-4636-bae7-43d4aff2a704/AAABoJaO49k/AAABnSStX0g/1x1-big/screenshot-226496.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0913/AU-20260913-0707-5200.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-9597982475362519",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Dr. Guido Steinberg und 25 Jahre nach dem 11. September 2001",
+    "summary": "Wie haben die Attentate von 9/11 die internationale Sicherheitspolitik verändert? Der Islamwissenschaftler Dr. Guido Steinberg kennt die Antworten.",
+    "date": "2026-09-11T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/dr-guido-steinberg-und-25-jahre-nach-dem-11-september-2001,audio-3473964.html",
+    "image": "https://images.ndr.de/image/d5329e94-e0db-4ce1-b34c-227504e8a01f/AAABoJHZ6Yo/AAABnSStX0g/1x1-big/screenshot-226250.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0913/AU-20260913-0707-2800.mp3",
+    "duration": "37 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-5437373634657229",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -86,56 +136,6 @@
     "image": "https://images.ndr.de/image/859ab4c0-585a-4b47-8a39-35255935f93f/AAABoH0lLtw/AAABnSStX0g/1x1-big/screenshot-224084.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0908/AU-20260908-0800-3400.mp3",
     "duration": "32 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-6638541126898437",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Entertainer und Magier Marc Weide verzaubert nicht nur Bettina auf dem Roten Sofa",
-    "summary": "Kaninchen aus dem Hut hervorzuholen ist nicht so das Ding des Zauberkünstlers Marc Weide. Anstelle von angestaubten Zylindertricks gibt es bei ihm eine unterhaltsame Mischung aus verblüffender Mentalmagie und spontaner Comedy zu sehen. Darin ist Weide so gut, dass er sogar \"Weltmeister der Zauberkunst\" wurde. Seine Shows leben von der Nähe zum Publikum, das er mit viel Selbstironie in seine Illusionen einbindet. Weides aktuelles Programm heißt \"Magier des Monats\" und steht für gleichermaßen humorvolles wie magisches Entertainment, das sich an alle Generationen richtet - natürlich gibt es auf dem Roten Sofa eine Kostprobe. Außerdem wird uns Marc Weide von seinem nicht ganz leichten Weg erzählen, es vom kindlichen Traum zum Zauberkünstlerleben zu schaffen.",
-    "date": "2026-09-06T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/entertainer-und-magier-marc-weide-verzaubert-nicht-nur-bettina-auf-dem-roten-sofa,audio-3461820.html",
-    "image": "https://images.ndr.de/image/527fae5d-45a8-47e1-82ac-3012d8ef7bb0/AAABoHe9TiI/AAABnSStX0g/1x1-big/screenshot-223398.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0907/AU-20260907-0647-2300.mp3",
-    "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-806608886059533",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Autorin Fatou Schröder mit Sohn und Basketballer Dennis Schröder auf dem Roten Sofa",
-    "summary": "Wer sich hierzulande auch nur ein Fitzelchen für Sport interessiert, kennt Dennis Schröder. Als Kapitän der deutschen Basketball-Nationalmannschaft führte er das Team 2023 zur Weltmeisterschaft, zwei Jahre später folgte dann der Europameistertitel. Geprägt wurde er sehr stark von seiner alleinerziehenden Mutter. Fatou Schröder wanderte als junge Frau aus Gambia nach Deutschland ein und baute sich in Braunschweig mit einem Friseursalon eine Existenz auf, hielt die Familie in schwierigen Zeiten zusammen. Ihrem Sohn Dennis vermittelte sie wichtige Werte fürs Leben und für seine Karriere, die ihn in bis die US-amerikanische Basketball-Profiliga NBA führte. Mit \"Never give up - Meine Familie ist alles für mich\" hat Fatou Schröder nun ihre Autobiografie veröffentlicht. Gemeinsam mit Sohn Dennis wird sie auf dem Roten Sofa darüber sprechen.",
-    "date": "2026-09-05T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/autorin-fatou-schroeder-mit-sohn-und-basketballer-dennis-schroeder-auf-dem-roten-sofa,audio-3460600.html",
-    "image": "https://images.ndr.de/image/5257e3b7-a9e0-4f34-8e59-8104caf6ee5c/AAABoHKek5g/AAABnSStX0g/1x1-big/screenshot-223208.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0906/AU-20260906-0803-5800.mp3",
-    "duration": "38 Min",
     "tags": [
       "beatles",
       "popgeschichte",
