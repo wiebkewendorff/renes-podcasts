@@ -1,5 +1,211 @@
 [
   {
+    "id": "10-minuten-wissen-kunst:6aa8a5d45b93419447d21ad5",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
+    "type": "rss",
+    "title": "Helen Frankenthaler – Mountains and Sea: Vom Mut, die Farbe fließen zu lassen, bis die Leinwand zu leuchten beginnt",
+    "summary": "<p>Helen Frankenthaler ließ die Farbe in die Leinwand sinken – und lehrte die Malerei das Fließen.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>An einem Oktobernachmittag des Jahres 1952 rollt eine junge Malerin in Manhattan eine riesige Leinwand auf den Boden – und gießt verdünnte Farbe darüber, statt sie zu malen. Wie aus diesem Experiment „Mountains and Sea\" entstand, warum zwei Maler aus Washington vor dem Bild ihre eigene Zukunft erkannten und weshalb die Frau, die eine ganze Kunstbewegung auslöste, zusehen musste, wie zunächst die Männer berühmt wurden, enthüllt der Blick hinter dieses Werk.</p><br><p>Weiterführende Links</p><p>Das Werk in hoher Auflösung: <a href=\"https://www.frankenthalerfoundation.org/artworks/mountains-and-sea/details/all\" rel=\"noopener\" target=\"_blank\">Helen Frankenthaler Foundation – Mountains and Sea</a></p><p>Wikipedia-Eintrag zum Werk: <a href=\"https://en.wikipedia.org/wiki/Mountains_and_Sea\" rel=\"noopener\" target=\"_blank\">Wikipedia – Mountains and Sea (EN)</a></p><p>Wikipedia-Eintrag zur Künstlerin: <a href=\"https://de.wikipedia.org/wiki/Helen_Frankenthaler\" rel=\"noopener\" target=\"_blank\">Wikipedia – Helen Frankenthaler</a></p><p>Die Retrospektive 2026: <a href=\"https://kunstmuseumbasel.ch/en/exhibitions/2026/helen-frankenthaler\" rel=\"noopener\" target=\"_blank\">Kunstmuseum Basel – Helen Frankenthaler</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-09-15T02:09:37.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/helen-frankenthaler",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6aa8a5d45b93419447d21ad5/media.mp3",
+    "duration": "18 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
+    ],
+    "category": [
+      "Kunst",
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c2e35f47-6151-5ecd-baf0-c8594d2ca707",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 14.09.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-14T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/kulturmeldungen_14092026_dlf_20260914_1757_4cce9822.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0d700c55-593d-50c2-a6f7-5d0320c35003",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie ein Fotograf und Künstler im Alltag hilft - Ausstellung \"Postcode Ukraine\"",
+    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-14T15:51:28.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-ein-fotograf-und-kuenstler-im-alltag-hilft-ausstellung-postcode-ukraine-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/wie_ein_fotograf_und_kuenstler_im_alltag_hilft_ausstellung_dlf_20260914_1751_accd99fb.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:99d16426-3d33-5a77-950d-b686e86d707f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Farben, Farben!\" - Der Lackfabrikant Kurt Herberts und seine Künstler",
+    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-14T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/farben-farben-der-lackfabrikant-kurt-herberts-und-seine-kuenstler-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/farben_farben_der_lackfabrikant_kurt_herberts_und_seine_dlf_20260914_1746_23cc90b3.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bda5d9e9-40c3-5e1d-86d1-463c9a5d9c1f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Claiming Common Spaces\" - Das Festival freier Produktionshäuser in Düsseldorf",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-14T15:40:30.000Z",
+    "url": "https://www.deutschlandfunk.de/claiming-common-spaces-das-festival-freier-produktionshaeuser-in-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/claiming_common_spaces_das_festival_freier_dlf_20260914_1740_aacb2d3e.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:52128191-b30b-5f59-88ad-6e57e777a11c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schuld und Unschuld - Kaja Saariahos zeitgenössische Oper \"Innocence\" in Bremen",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-14T15:35:41.000Z",
+    "url": "https://www.deutschlandfunk.de/schuld-und-unschuld-kaja-saariahos-zeitgenoessische-oper-innocence-in-bremen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/schuld_und_unschuld_kaja_saariahos_zeitgenoessische_oper_dlf_20260914_1735_eeca03fd.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7cd27af2-de9e-586b-8f65-9415ba4c63ae",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Razzien in der Türkei - LGBTQ-Community in Angst",
+    "summary": "Weber, Benjamin www.deutschlandfunk.de, Corso",
+    "date": "2026-09-14T13:05:13.000Z",
+    "url": "https://www.deutschlandfunk.de/razzien-in-der-tuerkei-lgbtq-community-in-angst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/razzien_in_der_tuerkei_lgbtq_community_in_angst_dlf_20260914_1505_321a405d.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b6b45276-cab4-5407-a640-e0f273489437",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "True Crime bei Dokus - Geht es auch ohne Mord und Totschlag?",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-09-14T13:05:11.000Z",
+    "url": "https://www.deutschlandfunk.de/true-crime-bei-dokus-geht-es-auch-ohne-mord-und-totschlag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/true_crime_bei_dokus_geht_es_auch_ohne_mord_und_totschlag_dlf_20260914_1505_632e3dd4.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:3de66aac-bc97-582b-9089-eca29a02d50b",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +321,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/13/nach_dem_loewenbruellen_fazit_der_filmfestspiele_venedig_dlf_20260913_1731_23893e83.mp3?refId=kultur-heute-104",
     "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9d63a5d0-cee9-5066-84ea-d28e046e4b22",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 12.09.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-12T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/kulturmeldungen_12092026_dlf_20260912_1757_6b6d06f6.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:22159f78-074e-5ee2-8cff-34d9db1518ec",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von Monet bis Picasso - Ausstellung zeigt jüdische Kunstsammler in Deutschland",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-12T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/von-monet-bis-picasso-ausstellung-zeigt-juedische-kunstsammler-in-deutschland-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/von_monet_bis_picasso_ausstellung_zeigt_juedische_dlf_20260912_1752_937453a3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2c235e51-e684-5569-ba96-744ca0911a60",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Steht am Ende die Freiheit? Ein Blick in den Iran. INTV Aidin Halimi",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-12T15:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/steht-am-ende-die-freiheit-ein-blick-in-den-iran-intv-aidin-halimi-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/steht_am_ende_die_freiheit_ein_blick_in_den_iran_intv_aidin_dlf_20260912_1747_fe72a65f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f32ef41b-4032-5d09-b463-7f695349f479",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schweigende Mitläufer - \"Deutsches Haus\" feiert Uraufführung in Hamburg",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-12T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schweigende-mitlaeufer-deutsches-haus-feiert-urauffuehrung-in-hamburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/schweigende_mitlaeufer_deutsches_haus_feiert_urauffuehrung_dlf_20260912_1741_b9715aed.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7e85e310-e623-5e66-b48c-27d813730ee7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Veränderung erzählen - Zum Auftakt des OSTEN-Festivals in Bitterfeld-Wolfen",
-    "summary": "Burkhardt, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-12T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/veraenderung-erzaehlen-zum-auftakt-des-osten-festivals-in-bitterfeld-wolfen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/veraenderung_erzaehlen_zum_auftakt_des_osten_festivals_in_dlf_20260912_1736_1c701e9b.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",
@@ -460,62 +536,12 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:80099098-482c-5851-8e51-bdb0abb54a02",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sachbuch \"We Were Here\" - Auch Alternative-Pop hat Schwarze Pioniere",
-    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
-    "date": "2026-09-10T13:05:15.000Z",
-    "url": "https://www.deutschlandfunk.de/sachbuch-we-were-here-auch-alternative-pop-hat-schwarze-pioniere-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/sachbuch_we_were_here_auch_alternative_pop_hat_schwarze_dlf_20260910_1505_d6b77de8.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:428f424b-ebda-5996-b0a9-5754491e671c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ars Electronica Festival - Der KI beim Denken zuschauen",
-    "summary": "Wurth, Laura Helena www.deutschlandfunk.de, Corso",
-    "date": "2026-09-09T13:15:37.000Z",
-    "url": "https://www.deutschlandfunk.de/ars-electronica-festival-der-ki-beim-denken-zuschauen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/ars_electronica_festival_der_ki_beim_denken_zuschauen_dlf_20260909_1515_9b7adc51.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6a9f53c7eea4f5ac9a4f79ce",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
     "type": "rss",
     "title": "Georg Baselitz – Der Wald auf dem Kopf: Ein Bruch mit der Wirklichkeit, der das Auge wieder das Sehen lehrt",
-    "summary": "<p>Georg Baselitz stellte die Welt auf den Kopf – damit wir endlich die Malerei selbst sehen.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>In einem Kölner Museumssaal hängt ein Wald verkehrt herum – und das mit voller Absicht: Seit 1969 stellte Georg Baselitz seine Motive auf den Kopf. Was ein Schulbild aus seiner sächsischen Kindheit damit zu tun hat, wie ein Skandal den jungen Maler beinahe ruinierte und warum ausgerechnet die verkehrte Welt die Augen für die Malerei öffnet, enthüllt der Blick hinter dieses Werk.</p><br><p>Weiterführende Links</p><p>Das Werk in hoher Auflösung: <a href=\"https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010012/rba_d051454_01\" rel=\"noopener\" target=\"_blank\">Der Wald auf dem Kopf</a></p><p>Das Werk beim besitzenden Museum: <a href=\"https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010012\" rel=\"noopener\" target=\"_blank\">Museum Ludwig – Sammlung Online</a></p><p>Wikipedia-Eintrag zum Künstler: <a href=\"https://de.wikipedia.org/wiki/Georg_Baselitz\" rel=\"noopener\" target=\"_blank\">Wikipedia – Georg Baselitz</a></p><p>Das Vorbild aus der Schulaula: <a href=\"https://skd-online-collection.skd.museum/Details/Index/173926\" rel=\"noopener\" target=\"_blank\">SKD Online Collection – Ferdinand von Rayski, Wermsdorfer Wald</a></p><p>Das Skandalbild von 1963: <a href=\"https://en.wikipedia.org/wiki/Die_gro%C3%9Fe_Nacht_im_Eimer\" rel=\"noopener\" target=\"_blank\">Wikipedia – Die große Nacht im Eimer</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><br><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "summary": "<p>Georg Baselitz stellte die Welt auf den Kopf – damit wir endlich die Malerei selbst sehen.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>In einem Kölner Museumssaal hängt ein Wald verkehrt herum – und das mit voller Absicht: Seit 1969 stellte Georg Baselitz seine Motive auf den Kopf. Was ein Schulbild aus seiner sächsischen Kindheit damit zu tun hat, wie ein Skandal den jungen Maler beinahe ruinierte und warum ausgerechnet die verkehrte Welt die Augen für die Malerei öffnet, enthüllt der Blick hinter dieses Werk.</p><br><p>Weiterführende Links</p><p>Das Werk in hoher Auflösung: <a href=\"https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010012/rba_d051454_01\" rel=\"noopener\" target=\"_blank\">Der Wald auf dem Kopf</a></p><p>Das Werk beim besitzenden Museum: <a href=\"https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010012\" rel=\"noopener\" target=\"_blank\">Museum Ludwig – Sammlung Online</a></p><p>Wikipedia-Eintrag zum Künstler: <a href=\"https://de.wikipedia.org/wiki/Georg_Baselitz\" rel=\"noopener\" target=\"_blank\">Wikipedia – Georg Baselitz</a></p><p>Das Vorbild aus der Schulaula: <a href=\"https://skd-online-collection.skd.museum/Details/Index/173926\" rel=\"noopener\" target=\"_blank\">SKD Online Collection – Ferdinand von Rayski, Wermsdorfer Wald</a></p><p>Das Skandalbild von 1963: <a href=\"https://en.wikipedia.org/wiki/Die_gro%C3%9Fe_Nacht_im_Eimer\" rel=\"noopener\" target=\"_blank\">Wikipedia – Die große Nacht im Eimer</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
     "date": "2026-09-08T00:27:57.000Z",
     "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/georg-baselitz",
     "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
@@ -824,32 +850,6 @@
     "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
     "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a55b4ec7987e974ea1eb3f1/media.mp3",
     "duration": "25 Min",
-    "tags": [
-      "kunst",
-      "kunstgeschichte",
-      "bildung",
-      "wissen",
-      "kultur"
-    ],
-    "category": [
-      "Kunst",
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "10-minuten-wissen-kunst:6a4c8158e4f7d40f0620f992",
-    "source": "10-minuten-wissen-kunst",
-    "sourceTitle": "10 Minuten Wissen – Kunst",
-    "type": "rss",
-    "title": "Jan van Eyck – Die Arnolfini-Hochzeit: Eine wegweisende Komposition und ihr ungelöstes Mysterium",
-    "summary": "<p>Jan van Eycks Arnolfini-Porträt entzieht sich auch nach fast sechs Jahrhunderten einer eindeutigen Interpretation. Diese Episode beleuchtet die feinen Details der meisterhaften Komposition und wägt die verschiedenen kunsthistorischen Deutungsansätze ab – vom feierlichen Ehegelübde bis zum tragischen Totengedenken. Neben den verborgenen Symbolen im Raum zeichnet die Folge die wechselvolle Provenienz des Gemäldes nach, die vom burgundischen Hof über den spanischen Königspalast bis in die Londoner National Gallery führt. Dort steht das Werk nun im Zentrum einer außergewöhnlichen Zusammenführung, die einen völlig neuen Blick auf van Eycks wegweisende Porträtkunst ermöglicht.</p><br><p>Weiterführende Links</p><p> <strong>Das Werk in hoher Auflösung</strong>: <a href=\"https://artsandculture.google.com/asset/portrait-of-giovanni-arnolfini-and-his-wife-0016/1wESsXmIEyCSSg\" rel=\"noopener\" target=\"_blank\">Google Arts & Culture – The Arnolfini Portrait</a></p><p> <strong>Wikipedia-Eintrag zum Künstler</strong>: <a href=\"https://de.wikipedia.org/wiki/Jan_van_Eyck\" rel=\"noopener\" target=\"_blank\">Wikipedia – Jan van Eyck</a></p><p> <strong>Wikipedia-Eintrag zum Meisterwerk</strong>: <a href=\"https://de.wikipedia.org/wiki/Arnolfini-Bildnis\" rel=\"noopener\" target=\"_blank\">Wikipedia – Arnolfini-Hochzeiti</a></p><p> <strong>Das Bildnis aus der Gemäldegalerie Berlin</strong>: <a href=\"https://artsandculture.google.com/asset/bildnis-eines-mannes-aus-der-familie-arnolfini-jan-van-eyck/IQGIiGWGToMtwQ\" rel=\"noopener\" target=\"_blank\">Jan van Eyck: Bildnis eines Mannes mit rotem Chaperon</a></p><p> <strong>Das Original im Museum</strong>: <a href=\"https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait\" rel=\"noopener\" target=\"_blank\">The National Gallery London – The Arnolfini Portrait</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p>Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.In der Postproduktion werden KI-Tools zur Stabilisierung und zum Stimme-Enhancement eingesetzt.</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
-    "date": "2026-07-07T04:45:48.000Z",
-    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/jan-van-eyck-die-arnolfini-hochzeit-eine-wegweisende-komposi",
-    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
-    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a4c8158e4f7d40f0620f992/media.mp3",
-    "duration": "23 Min",
     "tags": [
       "kunst",
       "kunstgeschichte",

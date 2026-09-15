@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:7cd27af2-de9e-586b-8f65-9415ba4c63ae",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Razzien in der Türkei - LGBTQ-Community in Angst",
+    "summary": "Weber, Benjamin www.deutschlandfunk.de, Corso",
+    "date": "2026-09-14T13:05:13.000Z",
+    "url": "https://www.deutschlandfunk.de/razzien-in-der-tuerkei-lgbtq-community-in-angst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/razzien_in_der_tuerkei_lgbtq_community_in_angst_dlf_20260914_1505_321a405d.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b6b45276-cab4-5407-a640-e0f273489437",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "True Crime bei Dokus - Geht es auch ohne Mord und Totschlag?",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-09-14T13:05:11.000Z",
+    "url": "https://www.deutschlandfunk.de/true-crime-bei-dokus-geht-es-auch-ohne-mord-und-totschlag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/true_crime_bei_dokus_geht_es_auch_ohne_mord_und_totschlag_dlf_20260914_1505_632e3dd4.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:13e49205-8878-56b9-8cf8-2e91fafb34f8",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/letzte_staffel_babylon_berlin_wie_gegenwaertig_ist_1933_dlf_20260910_1515_54ca3c1e.mp3?refId=corso-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:80099098-482c-5851-8e51-bdb0abb54a02",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sachbuch \"We Were Here\" - Auch Alternative-Pop hat Schwarze Pioniere",
-    "summary": "Franz, Christine www.deutschlandfunk.de, Corso",
-    "date": "2026-09-10T13:05:15.000Z",
-    "url": "https://www.deutschlandfunk.de/sachbuch-we-were-here-auch-alternative-pop-hat-schwarze-pioniere-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/sachbuch_we_were_here_auch_alternative_pop_hat_schwarze_dlf_20260910_1505_d6b77de8.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:428f424b-ebda-5996-b0a9-5754491e671c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ars Electronica Festival - Der KI beim Denken zuschauen",
-    "summary": "Wurth, Laura Helena www.deutschlandfunk.de, Corso",
-    "date": "2026-09-09T13:15:37.000Z",
-    "url": "https://www.deutschlandfunk.de/ars-electronica-festival-der-ki-beim-denken-zuschauen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/09/ars_electronica_festival_der_ki_beim_denken_zuschauen_dlf_20260909_1515_9b7adc51.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

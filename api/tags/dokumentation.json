@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2020-07-07-wie-wir-lernten-die-atomkraft-zu-lieben-dlf-20200707-1915-3342d45f-mp3-refid-das-feature-104",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie wir lernten, die Atomkraft zu lieben - In Belarus geht ein AKW ans Netz",
+    "summary": "2011 nach der Katastrophe von Fukushima beschließt Deutschland den Atomausstieg. Belarus beginnt mit dem Bau seines ersten Atomkraftwerks – obwohl kein Land stärker von den Folgen von Tschernobyl betroffen ist. In Litauen übt man für den Ernstfall. Von Inga Lizengevic www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-14T17:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/in-belarus-geht-ein-akw-ans-netz-wie-wir-lernten-die-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_9/eb/FILE_9eb61a20eaf0c2b922684525a39a1569/dsc0095-neu-jpeg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2020/07/07/wie_wir_lernten_die_atomkraft_zu_lieben_dlf_20200707_1915_3342d45f.mp3?refId=das-feature-104",
+    "duration": "55 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:be466a8a-1de9-5337-8125-f59c659d934b",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/0c/46/0f/37/0c460f37-3c06-4c63-886d-b57bc12ef2dc/bild-fuer-wir-sind-die-piraten-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/wir_sind_piraten_ein_professor_und_seine_studierenden_dlf_20260724_2005_622902f7.mp3?refId=das-feature-104",
     "duration": "53 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:f7c7b028-83be-529e-9de6-34000cbde554",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ein Rennen gegen die Zeit - Warum boomt die Formel 1?",
-    "summary": "Rasende Autos, Männlichkeitsrituale, viel Geld und jede Menge Lärm. Und das in Zeiten des Klimawandels und steigender Gender-Sensibilität. Was ist so faszinierend an der Formel 1? Von Sebastian Friedrich und Gabriel Kuhn www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-07-18T16:05:01.000Z",
-    "url": "https://www.hoerspielundfeature.de/ein-rennen-gegen-die-zeit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/4c/c9/9e/13/4cc99e13-147e-42ca-b52c-b30e1fe20c7e/bild-fuer-boom-formel-1-rennen-gegen-die-zeit-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/ein_rennen_gegen_die_zeit_drk_20260718_1805_ac319130.mp3?refId=das-feature-104",
-    "duration": "54 Min",
     "tags": [
       "feature",
       "dokumentation",
