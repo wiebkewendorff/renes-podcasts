@@ -1,5 +1,79 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4010078",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Welche neuen Ansätze gibt es in der Krebsforschung, Jona Kayser?",
+    "summary": "Volkskrankheit: Krebs\n<p> Eine Krebsdiagnose kann das Leben von einem auf den anderen Moment komplett verändern. Statistisch gesehen droht fast jedem zweiten Menschen in Deutschland im Laufe des Lebens eine Erkrankung. Trotz großer Fortschritte in der Medizin bleibt Krebs eine der häufigsten Todesursachen weltweit. </p>\n<p> Gleichzeitig hat sich die Forschung in den vergangenen Jahren rasant weiterentwickelt. Heute geht es längst nicht mehr nur darum, Tumore möglichst schnell zu entfernen oder mit Chemo- und Strahlentherapie zu behandeln. Forschende entwickeln immer gezieltere und personalisiertere Therapien. „Wir machen ganz fantastische Fortschritte. Wir können mittlerweile z. B. viele Kinder heilen, die an Leukämie erkrankt sind. Vor kurzem konnten wir das noch nicht. Krebs ist immer noch so eine große Herausforderung. Aber das sollte nicht davon ablenken, dass unsere Investitionen und Anstrengungen tolle Früchte tragen“, sagt Dr. Jona Kayser. </p>\nEvolutionsbasierte Therapien\n<p>Dr. Jona Kayser vom Max-Planck-Institut für die Physik des Lichts und dem Max-Planck-Zentrum für Physik und Medizin in Erlangen erforscht Krebs aus einer ungewöhnlichen Perspektive: der Physik. Gemeinsam mit Kolleginnen und Kollegen aus Medizin und Biologie untersucht er, wie sich Tumorzellen verhalten, warum Therapien manchmal scheitern und welche Rolle die physikalischen Eigenschaften dabei spielen. Denn ein Tumor besteht nicht aus einer einzigen Zellart. Durch zufällige Veränderungen entstehen unterschiedliche Zelltypen — darunter auch solche, die gegenüber einer Behandlung resistent sind.</p>\n<p>Ein Ansatz der Forschung ist die evolutionsbasierte Therapie. Dabei geht es nicht nur darum, möglichst alle Tumorzellen zu zerstören, sondern die Entwicklung resistenter Zellen gezielt zu beeinflussen. Mithilfe von Mikroskopie, Computermodellen und künstlicher Intelligenz versuchen Forschende, die Dynamik von Tumoren besser vorherzusagen und neue Behandlungsstrategien zu entwickeln. Denn Tumoren haben trotz aller Unterschiede bestimmte gemeinsame Eigenschaften, etwa die räumliche Organisation von Zellen oder die Konkurrenz um Nährstoffe und Platz. Genau diese universellen Mechanismen könnten neue Ansatzpunkte für Therapien bieten.</p>\n<p>Wie kann Physik helfen, Krebs besser zu verstehen? Und wie nah ist die Forschung an einer individuelleren Krebsmedizin? Darüber spricht <em>detektor.fm</em>-Moderatorin Jessica Hughes mit <strong>Dr. Jona Kayser</strong> in dieser Folge von „Ach, Mensch!“.</p>",
+    "date": "2026-09-16T03:00:46.000Z",
+    "url": "https://feedpress.me/link/19604/17463154/ach-mensch-jona-kayser",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260916ach-menschkayserv2.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260916ach-menschkayserv2.63.mp3",
+    "duration": "37 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4eb7966e-6055-599f-bd15-e6ce13c15630",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie KI-Musik Menschen aus dem Burnout helfen kann",
+    "summary": "Kastrup, Dennis www.deutschlandfunk.de, Corso",
+    "date": "2026-09-15T13:15:40.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-ki-musik-menschen-aus-dem-burnout-helfen-kann-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/wie_ki_musik_menschen_aus_dem_burnout_helfen_kann_dlf_20260915_1515_c256b5da.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1d6c9cfc-0199-5b62-b493-f54c0f26c783",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Serial Cleaner im ZDF - Wie man Morde am Besten vertuscht",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-09-15T13:10:51.000Z",
+    "url": "https://www.deutschlandfunk.de/serial-cleaner-im-zdf-wie-man-morde-am-besten-vertuscht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/serial_cleaner_im_zdf_wie_man_morde_am_besten_vertuscht_dlf_20260915_1510_07507aa4.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-auch-das-noch:1b0a94aa-8cd9-4c00-bf15-5f9ca5ce4653",
     "source": "zeit-auch-das-noch",
     "sourceTitle": "Auch das noch? – DIE ZEIT",
@@ -376,56 +450,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:a20b70c6-9e47-581b-be72-7faf1d109cf0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neuer Podcast - Echte Gedankenanstöße in \"Das Undenkbare\"?",
-    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
-    "date": "2026-09-10T13:15:23.000Z",
-    "url": "https://www.deutschlandfunk.de/neuer-podcast-echte-gedankenanstoesse-in-das-undenkbare-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/neuer_podcast_echte_gedankenanstoesse_in_das_undenkbare_dlf_20260910_1515_0e488023.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0b78a10c-879f-5de3-afdc-176ed20774a7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Letzte Staffel \"Babylon Berlin\" - Wie gegenwärtig ist 1933?",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-09-10T13:15:11.000Z",
-    "url": "https://www.deutschlandfunk.de/letzte-staffel-babylon-berlin-wie-gegenwaertig-ist-1933-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/10/letzte_staffel_babylon_berlin_wie_gegenwaertig_ist_1933_dlf_20260910_1515_54ca3c1e.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4053730",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -595,30 +619,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4049087",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Historischer Wahlabend in Sachsen-Anhalt",
-    "summary": "Landtagswahl Sachsen-Anhalt 2026\n<p>Die AfD geht als Wahlsieger aus der Landtagswahl in Sachsen-Anhalt 2026. Sie gewinnt mehr als 23 Prozentpunkte im Vergleich zur letzten Wahl und damit fast 44 Prozent der Stimmen. Die CDU verliert gut 20 Prozentpunkte und erreicht nur noch etwas mehr als 17 Prozent. SPD, Grüne und Linke liegen um die neun Prozent sehr nah beieinander, die FDP fliegt aus dem Landtag und das BSW überspringt die 5-Prozent-Hürde.</p>\nHinter den Kulissen der Wahl\n<p>Die DAZWISCHEN-Reporter Katja, Leonard und Christian sind am Wahlwochenende in Magdeburg unterwegs gewesen. In dieser Sonderfolge zur Landtagswahl zeichnen sie ein chronologisches Bild des Wahltags nach. Dafür sprechen sie unter anderem mit der Landeswahlleiterin, Menschen auf dem Domplatz oder Vertreterinnen und Vertretern der Zivilgesellschaft. Zu Wort kommt auch Claudia Wittig vom BSW. Denn die Partei kann als „Königsmacher“ vermutlich über den kommenden Ministerpräsidenten mitentscheiden.</p>\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm oder schickt uns eine Sprachnachricht über WhatsApp an die Nummer 0175 6807345. In unserem WhatsApp-Kanal bekommt ihr zusätzliche Infos. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</p>",
-    "date": "2026-09-06T23:22:04.000Z",
-    "url": "https://feedpress.me/link/19604/17441520/dazwischen-landtagswahl-sachsen-anhalt-2026-wahlabend-magdeburg",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26090625-dazwischenwahltag.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26090625-dazwischenwahltag.63.mp3",
-    "duration": "37 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
     ],
     "language": "de"
   },

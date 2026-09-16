@@ -1,5 +1,57 @@
 [
   {
+    "id": "dlf-kultur-heute:4fc20da9-f2e6-5504-b47b-ca8ed6bd5bae",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 15.09.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-15T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/kulturmeldungen_15092026_dlf_20260915_1756_71fea3cc.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:882dbfd7-0b75-5324-99b0-95a3199f8311",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Demokratie erzählen: Filmproduzentin Alice Brauner über Fiktion und Gesellschaft",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-15T15:55:20.000Z",
+    "url": "https://www.deutschlandfunk.de/demokratie-erzaehlen-filmproduzentin-alice-brauner-ueber-fiktion-und-gesellschaft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/demokratie_erzaehlen_filmproduzentin_alice_brauner_ueber_dlf_20260915_1755_41fbbd20.mp3?refId=kultur-heute-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:c2e35f47-6151-5ecd-baf0-c8594d2ca707",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -193,58 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/13/gutes_altes_deutschland_historiker_tobias_becker_zu_afd_und_dlf_20260913_1742_ab8cf8f7.mp3?refId=kultur-heute-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5e976821-b719-5d67-81e1-712d11d0210c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Pique Dame\" - Roland Schwab inszeniert in Hannover Tschaikowsky",
-    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-13T15:37:00.000Z",
-    "url": "https://www.deutschlandfunk.de/pique-dame-roland-schwab-inszeniert-in-hannover-tschaikowsky-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/13/pique_dame_roland_schwab_inszeniert_in_hannover_tschaikowsky_dlf_20260913_1737_618b57ba.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3ff0b14e-e9be-5a3f-814a-48f8f46c94f4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach dem Löwenbrüllen - Fazit der Filmfestspiele Venedig",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-13T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-dem-loewenbruellen-fazit-der-filmfestspiele-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/13/nach_dem_loewenbruellen_fazit_der_filmfestspiele_venedig_dlf_20260913_1731_23893e83.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "theater",
