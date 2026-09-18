@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-tatort-kunst:d34f4d1c-d144-597c-ac5a-ad4564e62419",
+    "source": "dlf-tatort-kunst",
+    "sourceTitle": "Tatort Kunst – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bitte melden: Was wollt ihr von \"Tatort Kunst\" wissen?",
+    "summary": "Während wir an neuen Fällen arbeiten, würden wir gern von euch wissen: Welche Fragen habt ihr an Rahel und Stefan? Schreibt uns bis zum 4. Oktober an tatortkunst@deutschlandfunk.de – Antworten gibt’s Ende des Jahres. Klein, Rahel",
+    "date": "2026-09-18T08:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/bitte-melden-was-wollt-ihr-von-tatort-kunst-wissen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/5b/e7/8e/e4/5be78ee4-9d4a-45c1-8d45-260fe0ce8bdc/trailer-tatort-kunst-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/bitte_melden_was_wollt_ihr_von_tatort_kunst_wissen_dlf_20260921_0600_e9650e7a.mp3?refId=tatort-kunst-102",
+    "duration": "1 Min",
+    "tags": [
+      "kunst",
+      "kunstmarkt",
+      "true-crime",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kunst",
+      "Kultur",
+      "True Crime"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-tatort-kunst:https-podcast-mp3-dradio-de-podcast-2026-01-18-entfuehrte-bilder-die-geschichte-des-artnappings-dlf-20260118-1500-18cb9087-mp3-refid-tatort-kunst-102",
     "source": "dlf-tatort-kunst",
     "sourceTitle": "Tatort Kunst – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/40/82/29/58/40822958-40ce-46d6-943d-b1b566e45d00/tatort-kunst-gold-der-preis-der-gier-1-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2025/11/06/gold_der_preis_der_gier_12_dlf_20251106_0600_6419b159.mp3?refId=tatort-kunst-102",
     "duration": "41 Min",
-    "tags": [
-      "kunst",
-      "kunstmarkt",
-      "true-crime",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kunst",
-      "Kultur",
-      "True Crime"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-tatort-kunst:https-podcast-mp3-dradio-de-podcast-2025-11-06-trailer-ab-611-tatort-kunst-die-neuen-faelle-2025-dlf-20251106-0600-6d8e3bc5-mp3-refid-tatort-kunst-102",
-    "source": "dlf-tatort-kunst",
-    "sourceTitle": "Tatort Kunst – Deutschlandfunk",
-    "type": "rss",
-    "title": "Trailer - Tatort Kunst – die neuen Fälle 2025",
-    "summary": "Tatort Kunst ist wieder da! In vier neuen Fällen dreht sich alles um Goldschätze, Entführungen und Kunstfälschungen. Und die Suche nach einem berühmten Lächeln führt das Team an einen geheimen Ort. Preger, Anne",
-    "date": "2025-11-06T04:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/tatort-kunst-trailer-2025-feed-100.html",
-    "image": "https://bilder.deutschlandfunk.de/5b/e7/8e/e4/5be78ee4-9d4a-45c1-8d45-260fe0ce8bdc/trailer-tatort-kunst-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/11/06/trailer_ab_611_tatort_kunst_die_neuen_faelle_2025_dlf_20251106_0600_6d8e3bc5.mp3?refId=tatort-kunst-102",
-    "duration": "1 Min",
     "tags": [
       "kunst",
       "kunstmarkt",

@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:319570a6-e292-51be-8ab7-1a07540aa8a0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Good Vibes Only: Wie viel Politik darf auf die Live-Bühne?",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-09-17T13:15:43.000Z",
+    "url": "https://www.deutschlandfunk.de/good-vibes-only-wie-viel-politik-darf-auf-die-live-buehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/good_vibes_only_wie_viel_politik_darf_auf_die_live_buehne_dlf_20260917_1515_c8e3b3f8.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:91d0e15d-5f6e-5c1e-b1be-39a4813a2d55",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Slop of the Pops? Neue KI-Tools in der Musikproduktion",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-09-17T13:15:01.000Z",
+    "url": "https://www.deutschlandfunk.de/slop-of-the-pops-neue-ki-tools-in-der-musikproduktion-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/slop_of_the_pops_neue_ki_tools_in_der_musikproduktion_dlf_20260917_1515_08ad374f.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:e5407bc6-00de-5ad1-8ab6-8db44f01eee6",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/distance_in_static_von_bonobo_trost_finden_im_tumult_dlf_20260912_1525_3f0f22c8.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bd1c4730-c5e9-5450-9103-57405882362d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Persönlich und dennoch universell: Ebow mit \"Typologie eines Lebens\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-09-12T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/persoenlich-und-dennoch-universell-ebow-mit-typologie-eines-lebens-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/persoenlich_und_dennoch_universell_ebow_mit_typologie_eines_dlf_20260912_1515_2709a8c0.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5ed2482a-9322-51d2-8c3e-9cd57bfcf98b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der 11. September 2001 veränderte die Ästhetik des Hollywoodfilms",
-    "summary": "9/11 gilt als Zäsur in der Filmbranche. Vor den Anschlägen hat man in Kinofilmen ein bisschen geschossen, sagt Medienwissenschaftlerin Vanessa Ossa. Danach prägten Folter, Terror und Überwachung Filme und Serien – und selbst Batman wurde düsterer. Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-09-11T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/vanessa-ossa-ueber-9-11-und-wie-der-anschlag-film-und-fernsehen-veraendert-hat-100.html",
-    "image": "https://bilder.deutschlandfunk.de/f0/39/ce/3b/f039ce3b-63de-43ac-8fcc-2adfd848c2cb/oliver-stone-world-trade-center-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/vanessa_ossa_ueber_911_und_wie_der_anschlag_film_und_dlf_20260911_1510_0066b309.mp3?refId=corso-104",
-    "duration": "15 Min",
     "tags": [
       "kultur",
       "pop",

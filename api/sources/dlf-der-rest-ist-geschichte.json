@@ -1,5 +1,32 @@
 [
   {
+    "id": "dlf-der-rest-ist-geschichte:dde70533-81c3-5f19-9559-7f36fa03327c",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deutschland und Belgien - Pragmatische Versöhnung",
+    "summary": "Die Deutschen haben Belgien in zwei Weltkriegen überfallen. Es folgten Gewalt, Besatzung und Zerstörung. Heute sind beide Länder enge Partner. Wie konnte das gelingen – und welche Rolle spielte dabei die deutschsprachige Gemeinschaft in Belgien? <br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(04:43) Die deutschsprachige Gemeinschaft in Belgien<br>(08:48) Der erste Weltkrieg in der belgischen Erinnerungskultur<br>(18:30) Zweiter Weltkrieg und Widerstand in Belgien<br>(21:10) Die deutschsprachigen Belgier im zweiten Weltkrieg<br>(26:00) Rundfunkpionierin Irene Janetzky<br>(33:20) 1951: Wiederaufnahme der deutsch-belgischen Beziehungen <br>(37:30) Westintegration und pragmatische Versöhnung im Kalten Krieg<br><br>Diese Folge haben wir am 8. September in Brüssel vor Publikum aufgenommen.<br><br><strong>Unsere Gäste auf der Bühne: </strong><br><br><ul><li><strong>Christoph Brüll</strong> ist Historiker und Professor an der Universität Luxemburg. Er forscht zu den deutsch-belgischen Beziehungen und zur Rolle der deutschsprachigen Gemeinschaft in Belgien.</li></ul><br><ul><li><strong>Alain Kniebs</strong> ist Direktor beim deutschsprachigen Belgischen Rundfunk BRF. Er hat eine Biografie über die belgische Rundfunkpionierin Irene Janetzky geschrieben (\"Ein Leben im Zeichen des Belgischen Rundfunks\", Grenz-Echo-Verlag 2025)</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Anh Tran<br>Recherche und Produktion: Sonja Ernst und Carina Schroeder<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/deutschland-frankreich-weltkrieg-versoehnung-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Versöhnung mit Frankreich</li><li><a href=\"https://www.deutschlandfunk.de/geschichte-der-eu-friedensprojekt-mit-hintergedanken-dlf-7235ceb1-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Europäische Union</li><li><a href=\"https://www.deutschlandfunk.de/krieg-frieden-geschichte-pazifismus-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Pazifismus</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/podcast-106.html\" rel=\"noopener\" target=\"_blank\">Der Politikpodcast</a> - aus dem Deutschlandradio-Hauptstadtstudio<br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-17T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/deutschland-belgien-versoehnung-geschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/39/52/fd/ad/3952fdad-ec7a-4141-89a5-2df49085c7a1/belgien-deutschland-weltkrieg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/deutschland_und_belgien_pragmatische_versoehnung_dlf_20260917_1300_8709407a.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "45 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-09-drig-empfiehlt-das-kalenderblatt-dlf-20260709-1300-df6cc12d-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -227,33 +254,6 @@
     "image": "https://bilder.deutschlandfunk.de/1c/5b/ca/af/1c5bcaaf-5ee1-41e9-aa2c-ad4270680796/schulklasse-bevoelkerungspolitik-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/geburtenpolitik_der_staat_im_schlafzimmer_dlf_20260723_1300_dea0a391.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
     "duration": "48 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-16-kuba-kommunistischer-stachel-im-fleisch-der-usa-dlf-20260716-1300-0d670384-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kuba - Kommunistischer Stachel im Fleisch der USA",
-    "summary": "Die Menschen in Kuba leiden: Es fehlen Medikamente und Lebensmittel, die Müllberge wachsen, dauernd fällt der Strom aus. Grund dafür sind auch die immer schärferen Sanktionen der USA. Die Feindschaft der beiden Länder hat eine lange Geschichte.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(02:09) Die Krise in Kuba spitzt sich zu<br>(07:10) Im 16. Jahrhundert wird Kuba spanische Kolonie<br>(10:02) 1902: Kuba wird unabhängig – aber nicht so ganz<br>(13:30) Fulgencio Batista: Kubas Diktator<br>(16:00) Fidel Castro und die kubanische Revolution <br>(23:30) 1961: Die US-Invasion in der Schweinebucht scheitert<br>(26:29) Die Kubakrise 1962<br>(34:45) Nach dem Kalten Krieg: Kuba bleibt kommunistisch<br>(39:30) 2016: US-Präsident Barack Obama besucht Kuba<br>(42:00) Die kubanische Exil-Community in den USA<br><br><strong>Unsere Gäste in dieser Folge: <br></strong><br><ul><li><strong>Jenny Barke</strong> ist ARD-Korrespondentin in Mexiko, Kuba gehört zu ihrem Berichtsgebiet. </li></ul><br><ul><li><strong>Stefan Rinke</strong> ist Professor für die Geschichte Lateinamerikas an der Freien Universität Berlin.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler <br>Skript, Regie und Produktion: Josephine Kuban und Carina Schroeder<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-kuba-trump-angreifen-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über das Verhältnis der USA zu Kuba: Wird Donald Trump die Diktatur angreifen? </li><li><a href=\"https://www.deutschlandfunk.de/venezuela-usa-geschichte-regime-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Venezuela</li><li><a href=\"https://www.deutschlandfunk.de/chile-praesident-geschichte-diktatur-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Chile</li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li>Informationen der <a href=\"https://guides.loc.gov/world-of-1898/teller-platt-amendments\" rel=\"noopener\" target=\"_blank\">Kongress-Bibliothek</a> zum Spanisch-Amerikanischen Krieg 1898</li><li>Das <a href=\"https://www.archives.gov/milestone-documents/platt-amendment\" rel=\"noopener\" target=\"_blank\">Platt-Amendment</a> von 1903</li><li>Material bei der <a href=\"https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-bay-of-pigs\" rel=\"noopener\" target=\"_blank\">John F. Kennedy-Bibliothek</a> über die gescheiterte Invasion in der Schweinebucht 1961</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br>IQ - Wissenschaft und Forschung\" target=\"_blank\" href=\"https://1.ard.de/IQWissenschaft\" class=\"click-tracking-paragraph\" data-tracking=\"{\"name\":\"Link in Beitrag\",\"chapter1\":\"https://1.ard.de/IQWissenschaft\",\"chapter2\":\"<br>IQ - Wissenschaft und Forschung\",\"chapter3\":\"Kuba - Kommunistischer Stachel im Fleisch der USA\",\"level2\":1}\"><br>IQ - Wissenschaft und Forschung</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-07-16T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kuba-kommunismus-geschichte-usa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/25/1a/ab/7f/251aab7f-f869-44e5-917d-16eb1ff978fe/kommunismus-kuba-usa-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/16/kuba_kommunistischer_stachel_im_fleisch_der_usa_dlf_20260716_1300_0d670384.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "50 Min",
     "tags": [
       "geschichte",
       "zeitgeschichte",

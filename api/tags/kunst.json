@@ -1,5 +1,211 @@
 [
   {
+    "id": "dlf-tatort-kunst:d34f4d1c-d144-597c-ac5a-ad4564e62419",
+    "source": "dlf-tatort-kunst",
+    "sourceTitle": "Tatort Kunst – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bitte melden: Was wollt ihr von \"Tatort Kunst\" wissen?",
+    "summary": "Während wir an neuen Fällen arbeiten, würden wir gern von euch wissen: Welche Fragen habt ihr an Rahel und Stefan? Schreibt uns bis zum 4. Oktober an tatortkunst@deutschlandfunk.de – Antworten gibt’s Ende des Jahres. Klein, Rahel",
+    "date": "2026-09-18T08:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/bitte-melden-was-wollt-ihr-von-tatort-kunst-wissen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/5b/e7/8e/e4/5be78ee4-9d4a-45c1-8d45-260fe0ce8bdc/trailer-tatort-kunst-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/bitte_melden_was_wollt_ihr_von_tatort_kunst_wissen_dlf_20260921_0600_e9650e7a.mp3?refId=tatort-kunst-102",
+    "duration": "1 Min",
+    "tags": [
+      "kunst",
+      "kunstmarkt",
+      "true-crime",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kunst",
+      "Kultur",
+      "True Crime"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:386bf4fc-1420-5240-9da9-f44306a756ae",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 17.09.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-17T15:56:22.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-17-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/kulturmeldungen_17092026_dlf_20260917_1756_1462a71f.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:57ca54df-ffc7-555b-a609-ac7e56ef9906",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Nature of a Fall\" - Zur Eröffnung des Tanzfestivals Chemnitz",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-17T15:50:30.000Z",
+    "url": "https://www.deutschlandfunk.de/nature-of-a-fall-zur-eroeffnung-des-tanzfestivals-chemnitz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/nature_of_a_fall_zur_eroeffnung_des_tanzfestivals_chemnitz_dlf_20260917_1750_01616af6.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:dfc243b4-58f9-59df-a86c-759b19bee342",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nationalsymbole für alle? Der neue Umgang mit Schwarz Rot Gold",
+    "summary": "Becker, Martin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-17T15:46:40.000Z",
+    "url": "https://www.deutschlandfunk.de/nationalsymbole-fuer-alle-der-neue-umgang-mit-schwarz-rot-gold-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/nationalsymbole_fuer_alle_der_neue_umgang_mit_schwarz_rot_dlf_20260917_1746_985fb3c2.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bd44017e-1cfa-5719-8aa6-bb9161cf0f51",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lear - Aribert Reimanns Oper auf dem Flughafen Tempelhof",
+    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-17T15:41:20.000Z",
+    "url": "https://www.deutschlandfunk.de/lear-aribert-reimanns-oper-auf-dem-flughafen-tempelhof-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/lear_aribert_reimanns_oper_auf_dem_flughafen_tempelhof_dlf_20260917_1741_455e7089.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:872f6f55-c938-556f-8b87-c8c46e9c9f21",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Gentle Monster\" - Marie Kreutzers Film über Missbrauchsdarstellungen von Kinder",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-17T15:35:42.000Z",
+    "url": "https://www.deutschlandfunk.de/gentle-monster-marie-kreutzers-film-ueber-missbrauchsdarstellungen-von-kinder-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/gentle_monster_marie_kreutzers_film_ueber_dlf_20260917_1735_3a5d45c4.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:319570a6-e292-51be-8ab7-1a07540aa8a0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Good Vibes Only: Wie viel Politik darf auf die Live-Bühne?",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-09-17T13:15:43.000Z",
+    "url": "https://www.deutschlandfunk.de/good-vibes-only-wie-viel-politik-darf-auf-die-live-buehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/good_vibes_only_wie_viel_politik_darf_auf_die_live_buehne_dlf_20260917_1515_c8e3b3f8.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:91d0e15d-5f6e-5c1e-b1be-39a4813a2d55",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Slop of the Pops? Neue KI-Tools in der Musikproduktion",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-09-17T13:15:01.000Z",
+    "url": "https://www.deutschlandfunk.de/slop-of-the-pops-neue-ki-tools-in-der-musikproduktion-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/slop_of_the_pops_neue_ki_tools_in_der_musikproduktion_dlf_20260917_1515_08ad374f.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "30-minuten-kunst:4d2c236e6f0883c93481ad373f510740",
     "source": "30-minuten-kunst",
     "sourceTitle": "30 Minuten Kunst",
@@ -203,32 +409,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:882dbfd7-0b75-5324-99b0-95a3199f8311",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Demokratie erzählen: Filmproduzentin Alice Brauner über Fiktion und Gesellschaft",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-15T15:55:20.000Z",
-    "url": "https://www.deutschlandfunk.de/demokratie-erzaehlen-filmproduzentin-alice-brauner-ueber-fiktion-und-gesellschaft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/demokratie_erzaehlen_filmproduzentin_alice_brauner_ueber_dlf_20260915_1755_41fbbd20.mp3?refId=kultur-heute-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:4eb7966e-6055-599f-bd15-e6ce13c15630",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -301,110 +481,6 @@
       "Kunst",
       "Geschichte",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c2e35f47-6151-5ecd-baf0-c8594d2ca707",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 14.09.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-14T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/kulturmeldungen_14092026_dlf_20260914_1757_4cce9822.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0d700c55-593d-50c2-a6f7-5d0320c35003",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie ein Fotograf und Künstler im Alltag hilft - Ausstellung \"Postcode Ukraine\"",
-    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-14T15:51:28.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-ein-fotograf-und-kuenstler-im-alltag-hilft-ausstellung-postcode-ukraine-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/wie_ein_fotograf_und_kuenstler_im_alltag_hilft_ausstellung_dlf_20260914_1751_accd99fb.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:99d16426-3d33-5a77-950d-b686e86d707f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Farben, Farben!\" - Der Lackfabrikant Kurt Herberts und seine Künstler",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-14T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/farben-farben-der-lackfabrikant-kurt-herberts-und-seine-kuenstler-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/farben_farben_der_lackfabrikant_kurt_herberts_und_seine_dlf_20260914_1746_23cc90b3.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bda5d9e9-40c3-5e1d-86d1-463c9a5d9c1f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Claiming Common Spaces\" - Das Festival freier Produktionshäuser in Düsseldorf",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-14T15:40:30.000Z",
-    "url": "https://www.deutschlandfunk.de/claiming-common-spaces-das-festival-freier-produktionshaeuser-in-duesseldorf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/claiming_common_spaces_das_festival_freier_dlf_20260914_1740_aacb2d3e.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -495,56 +571,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/distance_in_static_von_bonobo_trost_finden_im_tumult_dlf_20260912_1525_3f0f22c8.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bd1c4730-c5e9-5450-9103-57405882362d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Persönlich und dennoch universell: Ebow mit \"Typologie eines Lebens\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-09-12T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/persoenlich-und-dennoch-universell-ebow-mit-typologie-eines-lebens-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/persoenlich_und_dennoch_universell_ebow_mit_typologie_eines_dlf_20260912_1515_2709a8c0.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5ed2482a-9322-51d2-8c3e-9cd57bfcf98b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der 11. September 2001 veränderte die Ästhetik des Hollywoodfilms",
-    "summary": "9/11 gilt als Zäsur in der Filmbranche. Vor den Anschlägen hat man in Kinofilmen ein bisschen geschossen, sagt Medienwissenschaftlerin Vanessa Ossa. Danach prägten Folter, Terror und Überwachung Filme und Serien – und selbst Batman wurde düsterer. Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-09-11T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/vanessa-ossa-ueber-9-11-und-wie-der-anschlag-film-und-fernsehen-veraendert-hat-100.html",
-    "image": "https://bilder.deutschlandfunk.de/f0/39/ce/3b/f039ce3b-63de-43ac-8fcc-2adfd848c2cb/oliver-stone-world-trade-center-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/11/vanessa_ossa_ueber_911_und_wie_der_anschlag_film_und_dlf_20260911_1510_0066b309.mp3?refId=corso-104",
-    "duration": "15 Min",
     "tags": [
       "kultur",
       "pop",
@@ -1245,32 +1271,6 @@
     "image": "https://bilder.deutschlandfunk.de/40/82/29/58/40822958-40ce-46d6-943d-b1b566e45d00/tatort-kunst-gold-der-preis-der-gier-1-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2025/11/06/gold_der_preis_der_gier_12_dlf_20251106_0600_6419b159.mp3?refId=tatort-kunst-102",
     "duration": "41 Min",
-    "tags": [
-      "kunst",
-      "kunstmarkt",
-      "true-crime",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kunst",
-      "Kultur",
-      "True Crime"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-tatort-kunst:https-podcast-mp3-dradio-de-podcast-2025-11-06-trailer-ab-611-tatort-kunst-die-neuen-faelle-2025-dlf-20251106-0600-6d8e3bc5-mp3-refid-tatort-kunst-102",
-    "source": "dlf-tatort-kunst",
-    "sourceTitle": "Tatort Kunst – Deutschlandfunk",
-    "type": "rss",
-    "title": "Trailer - Tatort Kunst – die neuen Fälle 2025",
-    "summary": "Tatort Kunst ist wieder da! In vier neuen Fällen dreht sich alles um Goldschätze, Entführungen und Kunstfälschungen. Und die Suche nach einem berühmten Lächeln führt das Team an einen geheimen Ort. Preger, Anne",
-    "date": "2025-11-06T04:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/tatort-kunst-trailer-2025-feed-100.html",
-    "image": "https://bilder.deutschlandfunk.de/5b/e7/8e/e4/5be78ee4-9d4a-45c1-8d45-260fe0ce8bdc/trailer-tatort-kunst-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/11/06/trailer_ab_611_tatort_kunst_die_neuen_faelle_2025_dlf_20251106_0600_6d8e3bc5.mp3?refId=tatort-kunst-102",
-    "duration": "1 Min",
     "tags": [
       "kunst",
       "kunstmarkt",
