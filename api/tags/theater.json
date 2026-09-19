@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:33e05677-f8c4-5997-8e5b-80584f8f9dc9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 18.09.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:56:50.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/kulturmeldungen_18092026_dlf_20260918_1756_0a527f29.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0b567ca3-7eba-5fa2-85e5-399b39f109f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Picasso - Bacon. What It Feels Like to Be Human\" in der Albertina Wien",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:52:38.000Z",
+    "url": "https://www.deutschlandfunk.de/picasso-bacon-what-it-feels-like-to-be-human-in-der-albertina-wien-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/picasso_bacon_what_it_feels_like_to_be_human_in_der_dlf_20260918_1752_0455b34a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b3cbb7c6-9a6f-5cbd-a79c-9d95dcb75199",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach 14 Jahren Sanierung - die Oper Köln vor der Wiedereröffnung",
+    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:46:18.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-14-jahren-sanierung-die-oper-koeln-vor-der-wiedereroeffnung-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nach_14_jahren_sanierung_die_oper_koeln_vor_der_dlf_20260918_1746_065482e8.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3b0b2dc7-890b-5f3a-b6d5-960c47b75ed6",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Deutscher Herbst\" - Christopher Rüping inszeniert bei der Ruhrtriennale",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:41:36.000Z",
+    "url": "https://www.deutschlandfunk.de/deutscher-herbst-christopher-rueping-inszeniert-bei-der-ruhrtriennale-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/deutscher_herbst_christopher_rueping_inszeniert_bei_der_dlf_20260918_1741_3053d99f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:16762672-92f7-5771-9eda-f9f8f0c623d7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mephisto\" - Frank Castorf inszeniert nach Klaus Mann am Berliner Ensemble",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:36:55.000Z",
+    "url": "https://www.deutschlandfunk.de/mephisto-frank-castorf-inszeniert-nach-klaus-mann-am-berliner-ensemble-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/mephisto_frank_castorf_inszeniert_nach_klaus_mann_am_dlf_20260918_1736_0553436c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:386bf4fc-1420-5240-9da9-f44306a756ae",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/gentle_monster_marie_kreutzers_film_ueber_dlf_20260917_1735_3a5d45c4.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:eb3606cc-508e-5471-b7d8-9e7694aae081",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 16.09.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-16T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/kulturmeldungen_16092026_dlf_20260916_1757_08095093.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4ecacf86-bde8-54e4-9a6a-88e50cc2a4b2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Über's Sprechen-Dürfen - Die deutsche Autorin Jenny Erpenbeck auf China-Reise",
-    "summary": "Kober, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-16T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ueber-s-sprechen-duerfen-die-deutsche-autorin-jenny-erpenbeck-auf-china-reise-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/uebers_sprechen_duerfen_die_deutsche_autorin_jenny_erpenbeck_dlf_20260916_1752_df074b1e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cee5fa64-3c8a-5d76-9583-70ba23de2e0b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Maria Magdalena - Sin. Pray. Love.\" - Ausstellung im Städel Museum Frankfurt/M.",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-16T15:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/maria-magdalena-sin-pray-love-ausstellung-im-staedel-museum-frankfurt-m-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/maria_magdalena_sin_pray_love_ausstellung_im_staedel_museum_dlf_20260916_1740_c6035c2c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:75130f23-4ec4-56bb-a8c3-c3078d8779e3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Entscheidung in Salzburg? Peter de Caluwe soll Intendant der Festspiele werden",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-16T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/entscheidung-in-salzburg-peter-de-caluwe-soll-intendant-der-festspiele-werden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/entscheidung_in_salzburg_peter_de_caluwe_soll_intendant_der_dlf_20260916_1736_a4014ec2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4fc20da9-f2e6-5504-b47b-ca8ed6bd5bae",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 15.09.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-15T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/kulturmeldungen_15092026_dlf_20260915_1756_71fea3cc.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

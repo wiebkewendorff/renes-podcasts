@@ -1,139 +1,128 @@
 [
   {
-    "id": "dlf-tatort-kunst:d34f4d1c-d144-597c-ac5a-ad4564e62419",
-    "source": "dlf-tatort-kunst",
-    "sourceTitle": "Tatort Kunst – Deutschlandfunk",
+    "id": "zeitzeichen:b483cd0af05d53e972715950302907d3",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Bitte melden: Was wollt ihr von \"Tatort Kunst\" wissen?",
-    "summary": "Während wir an neuen Fällen arbeiten, würden wir gern von euch wissen: Welche Fragen habt ihr an Rahel und Stefan? Schreibt uns bis zum 4. Oktober an tatortkunst@deutschlandfunk.de – Antworten gibt’s Ende des Jahres. Klein, Rahel",
-    "date": "2026-09-18T08:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/bitte-melden-was-wollt-ihr-von-tatort-kunst-wissen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/5b/e7/8e/e4/5be78ee4-9d4a-45c1-8d45-260fe0ce8bdc/trailer-tatort-kunst-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/bitte_melden_was_wollt_ihr_von_tatort_kunst_wissen_dlf_20260921_0600_e9650e7a.mp3?refId=tatort-kunst-102",
-    "duration": "1 Min",
+    "title": "Die Akte Ötzi: Wie starb der Steinzeit-Mann?",
+    "summary": "<p>Als Wanderer am 19.9.1991 eine Leiche im Eis finden, ist ihnen die Sensation nicht gleich klar. Doch dann wird langsam deutlich: Der Tote liegt seit 5300 Jahren dort - und er ist ein Mordopfer.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Stephan Beuting:</strong><br><ul><li>warum der gute Zustand der Mumie ihr fast zum Verhängnis wird,</li><li>vom richtigen Riecher Reinhold Messners,</li><li>was man alles über Ötzi herausgefunden hat - von der Todesursache bis hin zu Tattoos,</li><li>wo man Ötzi heute besuchen kann.</li></ul><br>Am 19. September 1991, einem heißen Spätsommertag, entdeckt ein Ehepaar aus Nürnberg auf seiner Wanderung in den Ötztaler Alpen die Gletschermumie Ötzi. Der Fund erregt international Aufsehen. Das gab es noch nie: Eine Mumie, mehrere tausend Jahre alt und in ausgezeichnetem Zustand - mitsamt vollständiger Bekleidung und Ausrüstungsgegenständen.<br><br>Für die Wissenschaft öffnet sich durch Ötzi ein Fenster zu einer Epoche, die als verschüttet galt. Die Mumie \"erzählt\", wie Menschen vor 5.300 Jahren ihr Leben meistern, dass sie auch damals schon an sogenannten \"Zivilisationskrankheiten\" leiden und sogar alternative Behandlungsmethoden entwickeln. Und so wie es aussieht, ist Ötzis Geschichte noch lange nicht zu Ende.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Albert Zink, Anthropologe und Mumienforscher</li><li>Albert Zink: Ötzi. 100 Seiten. Ditzingen 2016</li><li><a href=\"https://www.iceman.it/de/oetzi/database\" rel=\"noopener\" target=\"_blank\">Ötzi-Wissensdatenbank</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag3764.html\" rel=\"noopener\" target=\"_blank\">18. Dezember 2009 - Entdeckung der \"Grotte Chauvet\"</a></li><li>Frag doch mal die Maus: <a href=\"https://www1.wdr.de/radio/wdr2/themen/frag-doch-mal-die-maus/mumie-106.html\" rel=\"noopener\" target=\"_blank\">Warum heißen Mumien so?</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Stephan Beuting<br>Redaktion: Frank Zirpins",
+    "date": "2026-09-19T04:00:16.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-akte-oetzi-wie-starb-der-steinzeit-mann-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-oetzi-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/a44f362c-cfe6-4a24-a65d-c8ede8a3807d/a44f362c-cfe6-4a24-a65d-c8ede8a3807d_MP3-128.mp3",
+    "duration": "15 Min",
     "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:33e05677-f8c4-5997-8e5b-80584f8f9dc9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 18.09.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:56:50.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/kulturmeldungen_18092026_dlf_20260918_1756_0a527f29.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
       "kunst",
-      "kunstmarkt",
-      "true-crime",
-      "kultur",
+      "film",
+      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
-      "Kunst",
       "Kultur",
-      "True Crime"
+      "Gesellschaft"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-1001-nacht:beb984bf-aaab-5dbb-a9f6-a4758dc54187",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "id": "dlf-kultur-heute:0b567ca3-7eba-5fa2-85e5-399b39f109f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Nacht 121 - Eine freundliche Antilope",
-    "summary": "Eine Antilope freundet sich mit Frau Pfau und der Ente an. Eines Tages ankert in der Nähe ein Schiff. Frau Pfau fliegt davon, die Antilope rennt in die Steppe. Nur die Ente ist zu langsam und wird zur Jagdbeute. Und Schahrasad fragt: Was ist Glück?<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Am Ende der zweiten Staffel empfehlen wir nochmal <a href=\"https://www.deutschlandfunk.de/ein-urzeitliches-schwindelgefuehl-wieso-laesst-uns-1001-nacht-nicht-los-100.html\" rel=\"noopener\" target=\"_blank\">„Wieso lässt uns 1001 Nacht nicht los?“ – ein Gespräch mit dem Literaturwissenschaftler Paulo Lemos Horta</a></li><li><a href=\"https://www.deutschlandfunk.de/erzaehlen-gegen-den-untergang-100.html\" rel=\"noopener\" target=\"_blank\">Und auch den Essay der preisgekrönten Autorin Samira El Ouassil: \"Erzählen gegen den Untergang - Scheherazades Kunst und die Kraft der Fiktionen in Zeiten der Bedrohung\"</a> Wie erzählen wir uns aus der Angst heraus in eine Zukunft hinein, damit auch wir die nächsten Morgen noch erleben?</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht – Staffel zwei <br>Nach der Neuübersetzung von Claudia Ott <br>Auswahl der Geschichten: Safiye Can <br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi <br>Mit Roxana Samadi, Susana AbdulMajid und Jasmin Shakeri <br>Besetzung: Kathi Bonjour <br>Regieassistenz: Vanessa Gräfingholt und Delia Lang <br>Expertin für Arabisch: Heba Tebakhi <br>Übersetzung und philologische Beratung: Claudia Ott <br>Copyright der Übersetzung: Verlag C. H. Beck <br>Nach einer arabischen Handschrift der Raşit-Efendi-Bibliothek in Kayseri, Türkei.<br>Redaktionelle Mitarbeit: Matthias Karow <br>Komposition und Musik: Philipp Johann Thimm <br>Weitere Musik: Roshanak Rafani an Daf, Tombak und Bendir und Nabil Arbaain an der Oud <br>Ton: Andreas Stoffels und Susanne Beyer, sowie Alexander Brennecke<br>Disposition: Dagmar Goyk <br>Regie: Judith Lorentz <br>Dramaturgie: Sabine Küchler und Julia Tieke <br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-09-18T06:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-121-eine-freundliche-antilope-lf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/28/2f/4b/aa/282f4baa-1dfb-4113-b704-738c66caa086/1001-nacht-62-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nacht_121_eine_freundliche_antilope_lf_dlf_20260918_0806_8c5bdba2.mp3?refId=1001-nacht-100",
-    "duration": "10 Min",
+    "title": "\"Picasso - Bacon. What It Feels Like to Be Human\" in der Albertina Wien",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:52:38.000Z",
+    "url": "https://www.deutschlandfunk.de/picasso-bacon-what-it-feels-like-to-be-human-in-der-albertina-wien-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/picasso_bacon_what_it_feels_like_to_be_human_in_der_dlf_20260918_1752_0455b34a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
     "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
       "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
+      "Kultur",
+      "Gesellschaft"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-1001-nacht:018c7860-103f-5fc6-a231-7c488a3b7553",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
+    "id": "dlf-kultur-heute:b3cbb7c6-9a6f-5cbd-a79c-9d95dcb75199",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Nacht 120 - Ein niederträchtiger Adamssohn",
-    "summary": "Der Zimmermann baut eine Kiste. Der Löwe soll hineingehen, um Maß zu nehmen. Die ist doch zu klein?! Doch der Zimmermann zwängt ihn hinein und nagelt die Kiste zu. Er triumphiert. Das muss dieser Adamssohn sein, vor dem alle Tiere Angst haben.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Nicht nur philosophisch, auch juristisch werden Tierrechte debattiert: <a href=\"https://www.deutschlandfunkkultur.de/tierrechte-deutschland-102.html\" rel=\"noopener\" target=\"_blank\">Die Natur als gleichberechtigte Akteurin</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zu den arabischen Tierfabeln „Kalila und Dimna“ gab es in London eine Kunstausstellung, <a href=\"https://www.kalilawadimnaexhibit.com/\" rel=\"noopener\" target=\"_blank\">inspirierend dokumentiert auf der Website Kalila wa Dimna (englisch)</a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-09-18T06:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-120-ein-niedertraechtiger-adamssohn-100.html",
-    "image": "https://bilder.deutschlandfunk.de/d5/e0/53/9f/d5e0539f-416f-4953-bdc2-9942f0e88dac/1001-nacht-66-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nacht_120_ein_niedertraechtiger_adamssohn_dlf_20260918_0805_895bdaaa.mp3?refId=1001-nacht-100",
-    "duration": "7 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:274b27f2-08fc-54ea-a564-0b78a85712ca",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 119 - Ein unerkannter Mensch",
-    "summary": "Ein alter Mann taucht auf. Rasch unterwirft er sich dem zähnefletschenden Löwen. Da dieser noch nie einen Menschen gesehen hat, erkennt er den Zimmermann nicht. Der hat den Auftrag, eine Schutzhütte für den Gepard zu zimmern. Die will der Löwe auch!<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Gerechtigkeit für Tiere? <a href=\"https://www.deutschlandfunkkultur.de/bernd-ladwig-politische-philosophie-der-tierrechte-100.html\" rel=\"noopener\" target=\"_blank\">Eine Buchbesprechung widmet sich Bernd Ladwigs \"Politische Philosophie der Tierrechte\"</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br><strong>Unser Podcast-Tipp:</strong><br><ul><li><a href=\"https://www.ardsounds.de/sendung/eat-read-sleep-der-podcast-der-das-lesen-feiert/urn:ard:show:21785c45dc44e254/\" rel=\"noopener\" target=\"_blank\">eat.READ.sleep</a></li></ul>Essen – Lesen – Schlafen – der Name ist Programm. eat.READ.sleep weckt Leidenschaft für Literatur, und es gibt auch tatsächlich was zu essen im Podcast, zum Beispiel Tolstois Lieblingskuchen oder Pippi Langstrumpfs Pfefferkuchen.<br><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-09-18T06:04:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-119-ein-unerkannter-mensch-cp-100.html",
-    "image": "https://bilder.deutschlandfunk.de/8f/43/7e/f5/8f437ef5-8469-44dc-99e8-d7fea1f910cd/1001-nacht-65-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nacht_119_ein_unerkannter_mensch_+_cp_dlf_20260918_0804_c15bd991.mp3?refId=1001-nacht-100",
-    "duration": "10 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:eab58fd9-f6aa-563f-b384-2fa4607e00df",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 118 - Ein panisches Kamel",
-    "summary": "Verschlagen, heimtückisch, listig. So zeigen sich die Menschen den Tieren. Aus einer Staubwolke tritt ein rennendes Kamel hervor. Die riesige Kreatur erzählt von ihren Demütigungen. Und von akuter Gefahr – denn ein Mensch ist hinter ihm her.<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Dieser Essay ist für uns schon ein Klassiker rund um die Geschichten von Tausendundeine Nacht: <a href=\"https://www.deutschlandfunk.de/sex-dschinn-religion-1001-nacht-gegen-114-suren-102.html\" rel=\"noopener\" target=\"_blank\">Sex, Dschinn, Religion - 1001 Nacht gegen 114 Suren?</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Wie soll der Mensch mit Tieren umgehen? Haben Tiere eine Würde? <a href=\"https://www.bpb.de/themen/umwelt/bioethik/175477/schwerpunkt-tierethik/\" rel=\"noopener\" target=\"_blank\">Die Bundeszentrale für politische Bildung hält eine interessante Sammlung von Filmen und Texten zur Tierethik bereit </a></li><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht - nach der Neuübersetzung von Claudia Ott<br> Auswahl der Geschichten: Safiye Can<br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi<br>Komposition: Philipp Johann Thimm, mit Roshanak Rafani und Nabil Arbaain<br>Regie: Judith Lorentz<br>Dramaturgie: Sabine Küchler und Julia Tieke<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-09-18T06:03:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-118-ein-panisches-kamel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/f2/66/bc/25/f266bc25-e26d-4e96-96ed-e0e1f475e44c/1001-nacht-64-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nacht_118_ein_panisches_kamel_dlf_20260918_0803_b95bdc90.mp3?refId=1001-nacht-100",
+    "title": "Nach 14 Jahren Sanierung - die Oper Köln vor der Wiedereröffnung",
+    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:46:18.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-14-jahren-sanierung-die-oper-koeln-vor-der-wiedereroeffnung-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nach_14_jahren_sanierung_die_oper_koeln_vor_der_dlf_20260918_1746_065482e8.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
     "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
       "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3b0b2dc7-890b-5f3a-b6d5-960c47b75ed6",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Deutscher Herbst\" - Christopher Rüping inszeniert bei der Ruhrtriennale",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:41:36.000Z",
+    "url": "https://www.deutschlandfunk.de/deutscher-herbst-christopher-rueping-inszeniert-bei-der-ruhrtriennale-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/deutscher_herbst_christopher_rueping_inszeniert_bei_der_dlf_20260918_1741_3053d99f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
     ],
     "language": "de"
   }

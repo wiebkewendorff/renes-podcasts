@@ -1,5 +1,233 @@
 [
   {
+    "id": "zeitzeichen:b483cd0af05d53e972715950302907d3",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Die Akte Ötzi: Wie starb der Steinzeit-Mann?",
+    "summary": "<p>Als Wanderer am 19.9.1991 eine Leiche im Eis finden, ist ihnen die Sensation nicht gleich klar. Doch dann wird langsam deutlich: Der Tote liegt seit 5300 Jahren dort - und er ist ein Mordopfer.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Stephan Beuting:</strong><br><ul><li>warum der gute Zustand der Mumie ihr fast zum Verhängnis wird,</li><li>vom richtigen Riecher Reinhold Messners,</li><li>was man alles über Ötzi herausgefunden hat - von der Todesursache bis hin zu Tattoos,</li><li>wo man Ötzi heute besuchen kann.</li></ul><br>Am 19. September 1991, einem heißen Spätsommertag, entdeckt ein Ehepaar aus Nürnberg auf seiner Wanderung in den Ötztaler Alpen die Gletschermumie Ötzi. Der Fund erregt international Aufsehen. Das gab es noch nie: Eine Mumie, mehrere tausend Jahre alt und in ausgezeichnetem Zustand - mitsamt vollständiger Bekleidung und Ausrüstungsgegenständen.<br><br>Für die Wissenschaft öffnet sich durch Ötzi ein Fenster zu einer Epoche, die als verschüttet galt. Die Mumie \"erzählt\", wie Menschen vor 5.300 Jahren ihr Leben meistern, dass sie auch damals schon an sogenannten \"Zivilisationskrankheiten\" leiden und sogar alternative Behandlungsmethoden entwickeln. Und so wie es aussieht, ist Ötzis Geschichte noch lange nicht zu Ende.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Albert Zink, Anthropologe und Mumienforscher</li><li>Albert Zink: Ötzi. 100 Seiten. Ditzingen 2016</li><li><a href=\"https://www.iceman.it/de/oetzi/database\" rel=\"noopener\" target=\"_blank\">Ötzi-Wissensdatenbank</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag3764.html\" rel=\"noopener\" target=\"_blank\">18. Dezember 2009 - Entdeckung der \"Grotte Chauvet\"</a></li><li>Frag doch mal die Maus: <a href=\"https://www1.wdr.de/radio/wdr2/themen/frag-doch-mal-die-maus/mumie-106.html\" rel=\"noopener\" target=\"_blank\">Warum heißen Mumien so?</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Stephan Beuting<br>Redaktion: Frank Zirpins",
+    "date": "2026-09-19T04:00:16.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-akte-oetzi-wie-starb-der-steinzeit-mann-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-oetzi-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/a44f362c-cfe6-4a24-a65d-c8ede8a3807d/a44f362c-cfe6-4a24-a65d-c8ede8a3807d_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:33e05677-f8c4-5997-8e5b-80584f8f9dc9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 18.09.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:56:50.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/kulturmeldungen_18092026_dlf_20260918_1756_0a527f29.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0b567ca3-7eba-5fa2-85e5-399b39f109f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Picasso - Bacon. What It Feels Like to Be Human\" in der Albertina Wien",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:52:38.000Z",
+    "url": "https://www.deutschlandfunk.de/picasso-bacon-what-it-feels-like-to-be-human-in-der-albertina-wien-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/picasso_bacon_what_it_feels_like_to_be_human_in_der_dlf_20260918_1752_0455b34a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b3cbb7c6-9a6f-5cbd-a79c-9d95dcb75199",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach 14 Jahren Sanierung - die Oper Köln vor der Wiedereröffnung",
+    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:46:18.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-14-jahren-sanierung-die-oper-koeln-vor-der-wiedereroeffnung-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nach_14_jahren_sanierung_die_oper_koeln_vor_der_dlf_20260918_1746_065482e8.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3b0b2dc7-890b-5f3a-b6d5-960c47b75ed6",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Deutscher Herbst\" - Christopher Rüping inszeniert bei der Ruhrtriennale",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:41:36.000Z",
+    "url": "https://www.deutschlandfunk.de/deutscher-herbst-christopher-rueping-inszeniert-bei-der-ruhrtriennale-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/deutscher_herbst_christopher_rueping_inszeniert_bei_der_dlf_20260918_1741_3053d99f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:16762672-92f7-5771-9eda-f9f8f0c623d7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mephisto\" - Frank Castorf inszeniert nach Klaus Mann am Berliner Ensemble",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-18T15:36:55.000Z",
+    "url": "https://www.deutschlandfunk.de/mephisto-frank-castorf-inszeniert-nach-klaus-mann-am-berliner-ensemble-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/mephisto_frank_castorf_inszeniert_nach_klaus_mann_am_dlf_20260918_1736_0553436c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1f11726b-82d7-5583-b2bb-dd9b36ee1393",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Annekathrin Kohout über die Geschichte des Einhorns vom Fabelwesen zum Meme",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-18T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/annekathrin-kohout-ueber-die-geschichte-des-einhorns-vom-fabelwesen-zum-meme-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/annekathrin_kohout_ueber_die_geschichte_des_einhorns_vom_dlf_20260918_1515_76d479fe.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:739090ff-5d98-544d-8560-8ad33894ee94",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Reeperbahnfestival - Wie Clubs mehr Geld verdienen könnten",
+    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
+    "date": "2026-09-18T13:09:34.000Z",
+    "url": "https://www.deutschlandfunk.de/reeperbahnfestival-wie-clubs-mehr-geld-verdienen-koennten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/reeperbahnfestival_wie_clubs_mehr_geld_verdienen_koennten_dlf_20260918_1509_18da23bd.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:76a2b2c5-9d50-53cf-a7c7-8ca59689ffc5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Installation: Der Internet Explorer als begehbares Internet-Café",
+    "summary": "Terschüren, Hagen www.deutschlandfunk.de, Corso",
+    "date": "2026-09-18T13:07:06.000Z",
+    "url": "https://www.deutschlandfunk.de/installation-der-internet-explorer-als-begehbares-internet-caf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/installation_der_internet_explorer_als_begehbares_internet_dlf_20260918_1507_edd7f84c.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-tatort-kunst:d34f4d1c-d144-597c-ac5a-ad4564e62419",
     "source": "dlf-tatort-kunst",
     "sourceTitle": "Tatort Kunst – Deutschlandfunk",
@@ -668,110 +896,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:eb3606cc-508e-5471-b7d8-9e7694aae081",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 16.09.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-16T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/kulturmeldungen_16092026_dlf_20260916_1757_08095093.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4ecacf86-bde8-54e4-9a6a-88e50cc2a4b2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Über's Sprechen-Dürfen - Die deutsche Autorin Jenny Erpenbeck auf China-Reise",
-    "summary": "Kober, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-16T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ueber-s-sprechen-duerfen-die-deutsche-autorin-jenny-erpenbeck-auf-china-reise-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/uebers_sprechen_duerfen_die_deutsche_autorin_jenny_erpenbeck_dlf_20260916_1752_df074b1e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cee5fa64-3c8a-5d76-9583-70ba23de2e0b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Maria Magdalena - Sin. Pray. Love.\" - Ausstellung im Städel Museum Frankfurt/M.",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-16T15:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/maria-magdalena-sin-pray-love-ausstellung-im-staedel-museum-frankfurt-m-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/maria_magdalena_sin_pray_love_ausstellung_im_staedel_museum_dlf_20260916_1740_c6035c2c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:75130f23-4ec4-56bb-a8c3-c3078d8779e3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Entscheidung in Salzburg? Peter de Caluwe soll Intendant der Festspiele werden",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-16T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/entscheidung-in-salzburg-peter-de-caluwe-soll-intendant-der-festspiele-werden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/entscheidung_in_salzburg_peter_de_caluwe_soll_intendant_der_dlf_20260916_1736_a4014ec2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:e5407bc6-00de-5ad1-8ab6-8db44f01eee6",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -890,32 +1014,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4fc20da9-f2e6-5504-b47b-ca8ed6bd5bae",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 15.09.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-15T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/kulturmeldungen_15092026_dlf_20260915_1756_71fea3cc.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1146,31 +1244,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:b6b45276-cab4-5407-a640-e0f273489437",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "True Crime bei Dokus - Geht es auch ohne Mord und Totschlag?",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-09-14T13:05:11.000Z",
-    "url": "https://www.deutschlandfunk.de/true-crime-bei-dokus-geht-es-auch-ohne-mord-und-totschlag-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/true_crime_bei_dokus_geht_es_auch_ohne_mord_und_totschlag_dlf_20260914_1505_632e3dd4.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeitzeichen:f9c8bb3ca2bedc58c1b0b2e70bf7af56",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -1290,56 +1363,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:13e49205-8878-56b9-8cf8-2e91fafb34f8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Weniger ist mehr: This is Lorelei mit \"The Singer In My Band\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-09-12T13:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/weniger-ist-mehr-this-is-lorelei-mit-the-singer-in-my-band-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/weniger_ist_mehr_this_is_lorelei_mit_the_singer_in_my_band_dlf_20260912_1540_d613fe6e.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:2fa0f786-8927-5d6c-b2c4-0ce35c72fd73",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Distance In Static\" von Bonobo - Trost finden im Tumult",
-    "summary": "Möller, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-09-12T13:25:00.000Z",
-    "url": "https://www.deutschlandfunk.de/distance-in-static-von-bonobo-trost-finden-im-tumult-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/12/distance_in_static_von_bonobo_trost_finden_im_tumult_dlf_20260912_1525_3f0f22c8.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1583,29 +1606,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-frieden-in-europa-deutschland-tritt-dem-voelkerbund-bei-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-deutschland-voelkerbund-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/26/e62d852d-2fda-4a60-b421-4df25485632a/e62d852d-2fda-4a60-b421-4df25485632a_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:afe15fb9444a598e5a6045233a3d279a",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Der blutige Attica-Gefängnisaufstand 1971: Was geschah wirklich?",
-    "summary": "<p>Im September 1971 bringen fast 1300 Häftlinge das Gefängnis Attica unter ihre Kontrolle. Nach fünf Tagen stürmt die Polizei das Gefängnis - mit fatalen Folgen. Was wirklich geschah, wird jahrzehntelang vertuscht.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Kolja Sand:</strong><br><ul><li>welche Zustände 1971 im Attica-Gefängnis herrschen und wie brutal Häftlinge behandelt werden,</li><li>wie aus einem chaotischen Aufruhr ein organisierter Protest von mehr als 1.200 Gefangenen wird,</li><li>welche Rolle Häftling Don Noble und Wärter Michael Smith während der Geiselnahme spielen,</li><li>wie die Polizei beim Sturm des Gefängnisses 38 Menschen durch Schüsse tötet,</li><li>welche Falschmeldungen anschließend von der Polizei in Umlauf gebracht werden.</li></ul><br>Der Gefängnisaufstand von Attica zählt zu den folgenreichsten Ereignissen der US-Justizgeschichte. Die Gefangenen protestieren gegen Überbelegung, mangelhafte medizinische Versorgung und Misshandlungen. Nach Beginn des Aufstands übernehmen sie Teile des Gefängnisses und treten mit konkreten Forderungen an die Öffentlichkeit.<br><br>Fünf Tage lang richten sich die Blicke des ganzen Landes auf das Gefängnis. Journalisten, Politiker und Vermittler verfolgen die Verhandlungen, während die Situation zunehmend außer Kontrolle gerät. Als Sicherheitskräfte eingreifen, endet die Konfrontation in einem Blutbad. Die Folgen beschäftigen Gerichte, Historiker und Betroffene noch Jahrzehnte später.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Heather Ann Thompson (Historikerin)</li><li>Heather Ann Thompson: Blood in the Water. The Attica Prison Uprising of 1971 and Its Legacy. New York 2016</li><li>Tom Wicker: A Time to Die. The Attica Prison Revolt. New York 1975</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Panorama: <a href=\"https://www.ardmediathek.de/video/panorama/meuterei-und-blutbad-in-attica/das-erste/Y3JpZDovL25kci5kZS8xMjNjY2IyZC1kYjEwLTRjZmUtODAxMi1kODhlYTBmOTViNGY\" rel=\"noopener\" target=\"_blank\">Meuterei und Blutbad in Attica</a> (Beitrag vom 20.09.1971)</li><li>Spiegel: <a href=\"https://www.spiegel.de/politik/lieber-sterben-a-da91f177-0002-0001-0000-000043078662\" rel=\"noopener\" target=\"_blank\">Gefängnisse - Lieber sterben</a> (19.09.1971)</li><li>ZDF: <a href=\"https://www.zdf.de/dokus/ueberleben-hinter-gittern-100\" rel=\"noopener\" target=\"_blank\">Überleben hinter Gittern</a> - Doku-Serie über Gefängnisse der Welt</li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Kolja Sand<br>Redaktion: Matti Hesse",
-    "date": "2026-09-09T04:00:05.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-blutige-attica-gefaengnisaufstand-was-geschah-wirklich-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-attica-gefaengnis-aufstand-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/01/76354787-727e-439e-8637-625a1a5cdc96/76354787-727e-439e-8637-625a1a5cdc96_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
