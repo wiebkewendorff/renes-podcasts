@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:aa85b335-1065-5370-b9b2-8d907949f44e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Haszcara über 10 Jahre Sister*Queens Kollektiv und Empowerment durch Rap",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-19T13:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/haszcara-ueber-10-jahre-sister-queens-kollektiv-und-empowerment-durch-rap-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/haszcara_ueber_10_jahre_sisterqueens_kollektiv_und_dlf_20260919_1545_000dc1fe.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fd1082df-be47-5fda-a4a1-358b105fd7ab",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wenn Worte fehlen: \"The Meaning Of Flowers\" von Agnes Obel",
+    "summary": "Poppendieck, Kerstin www.deutschlandfunk.de, Corso",
+    "date": "2026-09-19T13:30:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wenn-worte-fehlen-the-meaning-of-flowers-von-agnes-obel-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/wenn_worte_fehlen_the_meaning_of_flowers_von_agnes_obel_dlf_20260919_1530_390a3c48.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:dafed674-f416-5586-9c25-3a9cc5cc67da",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Band Nachtkinder im Gespräch über ihr Debütalbum und Emotionalität im Pop",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-19T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-band-nachtkinder-im-gespraech-ueber-ihr-debuetalbum-und-emotionalitaet-im-pop-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/die_band_nachtkinder_im_gespraech_ueber_ihr_debuetalbum_und_dlf_20260919_1520_ef082ff6.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:1f11726b-82d7-5583-b2bb-dd9b36ee1393",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -346,56 +421,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:4eb7966e-6055-599f-bd15-e6ce13c15630",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie KI-Musik Menschen aus dem Burnout helfen kann",
-    "summary": "Kastrup, Dennis www.deutschlandfunk.de, Corso",
-    "date": "2026-09-15T13:15:40.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-ki-musik-menschen-aus-dem-burnout-helfen-kann-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/wie_ki_musik_menschen_aus_dem_burnout_helfen_kann_dlf_20260915_1515_c256b5da.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1d6c9cfc-0199-5b62-b493-f54c0f26c783",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Serial Cleaner im ZDF - Wie man Morde am Besten vertuscht",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-09-15T13:10:51.000Z",
-    "url": "https://www.deutschlandfunk.de/serial-cleaner-im-zdf-wie-man-morde-am-besten-vertuscht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/serial_cleaner_im_zdf_wie_man_morde_am_besten_vertuscht_dlf_20260915_1510_07507aa4.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeit-auch-das-noch:1b0a94aa-8cd9-4c00-bf15-5f9ca5ce4653",
     "source": "zeit-auch-das-noch",
     "sourceTitle": "Auch das noch? – DIE ZEIT",
@@ -469,31 +494,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7cd27af2-de9e-586b-8f65-9415ba4c63ae",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Razzien in der Türkei - LGBTQ-Community in Angst",
-    "summary": "Weber, Benjamin www.deutschlandfunk.de, Corso",
-    "date": "2026-09-14T13:05:13.000Z",
-    "url": "https://www.deutschlandfunk.de/razzien-in-der-tuerkei-lgbtq-community-in-angst-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/razzien_in_der_tuerkei_lgbtq_community_in_angst_dlf_20260914_1505_321a405d.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

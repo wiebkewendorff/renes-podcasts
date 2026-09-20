@@ -1,5 +1,236 @@
 [
   {
+    "id": "dlf-kultur-heute:0730f1fe-f60c-55aa-804f-ffd12242064e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 19.09.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-19T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/kulturmeldungen_19092026_dlf_20260919_1757_c97d4c9a.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e11b1121-4a73-5eaf-8a39-e51e56c13b0e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Was Mecklenburg-Vorpommerns Kinsoszene vor der Wahl beschäftigt",
+    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-19T15:52:30.000Z",
+    "url": "https://www.deutschlandfunk.de/was-mecklenburg-vorpommerns-kinsoszene-vor-der-wahl-beschaeftigt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/was_mecklenburg_vorpommerns_kinsoszene_vor_der_wahl_dlf_20260919_1752_de81abb6.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0c31ca70-7cc0-5ab9-824b-866829f387b2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "William Kentridge - Neue Arbeiten in einer großen Ausstellung in Brüssel",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-19T15:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/william-kentridge-neue-arbeiten-in-einer-grossen-ausstellung-in-bruessel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/william_kentridge_neue_arbeiten_in_einer_grossen_ausstellung_dlf_20260919_1747_a980aa7a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c16057ea-1380-5ef9-91cb-a1eef18daf18",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Correggio\" - Dresden zeigt größte Überblicksausstellung außerhalb Italiens",
+    "summary": "Wheeler, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-19T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/correggio-dresden-zeigt-groesste-ueberblicksausstellung-ausserhalb-italiens-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/correggio_dresden_zeigt_groesste_ueberblicksausstellung_dlf_20260919_1741_fa7ffa4c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:442b0c7e-21b3-5690-9cf6-3feb28d4e6aa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kleists \"Prinz Friedrich von Homburg\" am Schauspielhaus Düsseldorf",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-19T15:35:20.000Z",
+    "url": "https://www.deutschlandfunk.de/kleists-prinz-friedrich-von-homburg-am-schauspielhaus-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/kleists_prinz_friedrich_von_homburg_am_schauspielhaus_dlf_20260919_1735_7e7f3805.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5fca78cf-2edc-54d0-844f-b33977f7da19",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Verwandlung - Neue Kafka-Oper wird in Winterthur uraufgeführt",
+    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-19T15:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-verwandlung-neue-kafka-oper-wird-in-winterthur-uraufgefuehrt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/die_verwandlung_neue_kafka_oper_wird_in_winterthur_dlf_20260919_1731_317e58c7.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:aa85b335-1065-5370-b9b2-8d907949f44e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Haszcara über 10 Jahre Sister*Queens Kollektiv und Empowerment durch Rap",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-19T13:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/haszcara-ueber-10-jahre-sister-queens-kollektiv-und-empowerment-durch-rap-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/haszcara_ueber_10_jahre_sisterqueens_kollektiv_und_dlf_20260919_1545_000dc1fe.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fd1082df-be47-5fda-a4a1-358b105fd7ab",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wenn Worte fehlen: \"The Meaning Of Flowers\" von Agnes Obel",
+    "summary": "Poppendieck, Kerstin www.deutschlandfunk.de, Corso",
+    "date": "2026-09-19T13:30:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wenn-worte-fehlen-the-meaning-of-flowers-von-agnes-obel-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/wenn_worte_fehlen_the_meaning_of_flowers_von_agnes_obel_dlf_20260919_1530_390a3c48.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:dafed674-f416-5586-9c25-3a9cc5cc67da",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Band Nachtkinder im Gespräch über ihr Debütalbum und Emotionalität im Pop",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-19T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-band-nachtkinder-im-gespraech-ueber-ihr-debuetalbum-und-emotionalitaet-im-pop-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/die_band_nachtkinder_im_gespraech_ueber_ihr_debuetalbum_und_dlf_20260919_1520_ef082ff6.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:33e05677-f8c4-5997-8e5b-80584f8f9dc9",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -89,32 +320,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/deutscher_herbst_christopher_rueping_inszeniert_bei_der_dlf_20260918_1741_3053d99f.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:16762672-92f7-5771-9eda-f9f8f0c623d7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mephisto\" - Frank Castorf inszeniert nach Klaus Mann am Berliner Ensemble",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-18T15:36:55.000Z",
-    "url": "https://www.deutschlandfunk.de/mephisto-frank-castorf-inszeniert-nach-klaus-mann-am-berliner-ensemble-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/mephisto_frank_castorf_inszeniert_nach_klaus_mann_am_dlf_20260918_1736_0553436c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
@@ -452,136 +657,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:386bf4fc-1420-5240-9da9-f44306a756ae",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 17.09.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-17T15:56:22.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-17-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/kulturmeldungen_17092026_dlf_20260917_1756_1462a71f.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:57ca54df-ffc7-555b-a609-ac7e56ef9906",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Nature of a Fall\" - Zur Eröffnung des Tanzfestivals Chemnitz",
-    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-17T15:50:30.000Z",
-    "url": "https://www.deutschlandfunk.de/nature-of-a-fall-zur-eroeffnung-des-tanzfestivals-chemnitz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/nature_of_a_fall_zur_eroeffnung_des_tanzfestivals_chemnitz_dlf_20260917_1750_01616af6.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:dfc243b4-58f9-59df-a86c-759b19bee342",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nationalsymbole für alle? Der neue Umgang mit Schwarz Rot Gold",
-    "summary": "Becker, Martin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-17T15:46:40.000Z",
-    "url": "https://www.deutschlandfunk.de/nationalsymbole-fuer-alle-der-neue-umgang-mit-schwarz-rot-gold-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/nationalsymbole_fuer_alle_der_neue_umgang_mit_schwarz_rot_dlf_20260917_1746_985fb3c2.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bd44017e-1cfa-5719-8aa6-bb9161cf0f51",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lear - Aribert Reimanns Oper auf dem Flughafen Tempelhof",
-    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-17T15:41:20.000Z",
-    "url": "https://www.deutschlandfunk.de/lear-aribert-reimanns-oper-auf-dem-flughafen-tempelhof-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/lear_aribert_reimanns_oper_auf_dem_flughafen_tempelhof_dlf_20260917_1741_455e7089.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:872f6f55-c938-556f-8b87-c8c46e9c9f21",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Gentle Monster\" - Marie Kreutzers Film über Missbrauchsdarstellungen von Kinder",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-17T15:35:42.000Z",
-    "url": "https://www.deutschlandfunk.de/gentle-monster-marie-kreutzers-film-ueber-missbrauchsdarstellungen-von-kinder-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/gentle_monster_marie_kreutzers_film_ueber_dlf_20260917_1735_3a5d45c4.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:319570a6-e292-51be-8ab7-1a07540aa8a0",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -755,56 +830,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:4eb7966e-6055-599f-bd15-e6ce13c15630",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie KI-Musik Menschen aus dem Burnout helfen kann",
-    "summary": "Kastrup, Dennis www.deutschlandfunk.de, Corso",
-    "date": "2026-09-15T13:15:40.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-ki-musik-menschen-aus-dem-burnout-helfen-kann-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/wie_ki_musik_menschen_aus_dem_burnout_helfen_kann_dlf_20260915_1515_c256b5da.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1d6c9cfc-0199-5b62-b493-f54c0f26c783",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Serial Cleaner im ZDF - Wie man Morde am Besten vertuscht",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-09-15T13:10:51.000Z",
-    "url": "https://www.deutschlandfunk.de/serial-cleaner-im-zdf-wie-man-morde-am-besten-vertuscht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/15/serial_cleaner_im_zdf_wie_man_morde_am_besten_vertuscht_dlf_20260915_1510_07507aa4.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6aa8a5d45b93419447d21ad5",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -878,31 +903,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7cd27af2-de9e-586b-8f65-9415ba4c63ae",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Razzien in der Türkei - LGBTQ-Community in Angst",
-    "summary": "Weber, Benjamin www.deutschlandfunk.de, Corso",
-    "date": "2026-09-14T13:05:13.000Z",
-    "url": "https://www.deutschlandfunk.de/razzien-in-der-tuerkei-lgbtq-community-in-angst-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/14/razzien_in_der_tuerkei_lgbtq_community_in_angst_dlf_20260914_1505_321a405d.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
