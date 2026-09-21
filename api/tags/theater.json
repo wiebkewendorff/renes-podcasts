@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:ee18083f-edae-5b68-a668-dcfb56e85f83",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 20.09.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:51:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/kulturmeldungen_20092026_dlf_20260920_1751_84acbad0.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ee64f71c-6c2a-5445-8379-b4f6381f91e6",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fotografien von Machtstrukturen und Religiosität: Carrie Mae Weems im C/O Berlin",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:46:40.000Z",
+    "url": "https://www.deutschlandfunk.de/fotografien-von-machtstrukturen-und-religiositaet-carrie-mae-weems-im-c-o-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/fotografien_von_machtstrukturen_und_religiositaet_carrie_mae_dlf_20260920_1746_bfab1d87.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4c88221c-43f4-5e8f-b03d-22c2aa90b05c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Holländerinnen\" - Elmigers Roman kommt in Magdeburg auf die Bühne",
+    "summary": "Koch, Vincent www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:41:50.000Z",
+    "url": "https://www.deutschlandfunk.de/die-hollaenderinnen-elmigers-roman-kommt-in-magdeburg-auf-die-buehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/die_hollaenderinnen_elmigers_roman_kommt_in_magdeburg_auf_dlf_20260920_1741_32a9d840.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:142cd4d8-bdf3-5521-b247-7b0dc861d115",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mittwoch aus Licht\" - Susanne Kennedy inszeniert Stockhausen in Berlin",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:35:45.000Z",
+    "url": "https://www.deutschlandfunk.de/mittwoch-aus-licht-susanne-kennedy-inszeniert-stockhausen-in-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/mittwoch_aus_licht_susanne_kennedy_inszeniert_stockhausen_in_dlf_20260920_1735_74a8abf5.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:0730f1fe-f60c-55aa-804f-ffd12242064e",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -140,110 +244,6 @@
     "url": "https://www.deutschlandfunk.de/die-verwandlung-neue-kafka-oper-wird-in-winterthur-uraufgefuehrt-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/die_verwandlung_neue_kafka_oper_wird_in_winterthur_dlf_20260919_1731_317e58c7.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:33e05677-f8c4-5997-8e5b-80584f8f9dc9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 18.09.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-18T15:56:50.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/kulturmeldungen_18092026_dlf_20260918_1756_0a527f29.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0b567ca3-7eba-5fa2-85e5-399b39f109f1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Picasso - Bacon. What It Feels Like to Be Human\" in der Albertina Wien",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-18T15:52:38.000Z",
-    "url": "https://www.deutschlandfunk.de/picasso-bacon-what-it-feels-like-to-be-human-in-der-albertina-wien-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/picasso_bacon_what_it_feels_like_to_be_human_in_der_dlf_20260918_1752_0455b34a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b3cbb7c6-9a6f-5cbd-a79c-9d95dcb75199",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach 14 Jahren Sanierung - die Oper Köln vor der Wiedereröffnung",
-    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-18T15:46:18.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-14-jahren-sanierung-die-oper-koeln-vor-der-wiedereroeffnung-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nach_14_jahren_sanierung_die_oper_koeln_vor_der_dlf_20260918_1746_065482e8.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3b0b2dc7-890b-5f3a-b6d5-960c47b75ed6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Deutscher Herbst\" - Christopher Rüping inszeniert bei der Ruhrtriennale",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-18T15:41:36.000Z",
-    "url": "https://www.deutschlandfunk.de/deutscher-herbst-christopher-rueping-inszeniert-bei-der-ruhrtriennale-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/deutscher_herbst_christopher_rueping_inszeniert_bei_der_dlf_20260918_1741_3053d99f.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
     "tags": [
       "kultur",

@@ -1,5 +1,132 @@
 [
   {
+    "id": "zeitzeichen:f6278cb3369b8f9157c77628a029a0bd",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Zeitmaschinen und ferne Galaxien: Der Autor H. G. Wells",
+    "summary": "<p>H. G. Wells (geboren 21. September 1866) blickte in die Zukunft - und sah eine Menschheit am Abgrund. Seine Science-Fiction war spannend, politisch und hellsichtig.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christoph Tiemann:</strong><br><ul><li>von Wells' beruflichem Werdegang - vom Chemiegehlifen über Hilfslehrer bis zum Autor,</li><li>wie der berühmte Darwin-Anhänger Thomas Huxley seine Werke beeinflusst,</li><li>von zwei Ehen und vielen Liebschaften,</li><li>von Wells' Treffen mit dem Hörspiel-Regisseur Orson Welles.</li></ul><br>Zeitreisen, Alien-Invasionen und die grotesken Experimente skrupelloser Wissenschaftler - das sind die Welten, die der britische Schriftsteller H.G. Wells erfindet. Und zwar Jahrzehnte bevor Hollywood anfängt diese Stoffe in Masse zu produzieren. <br><br>Herbert George Wells wird am 21. September 1866 in Bromley geboren. Es ist ein Unfall, der dem Sohn aus kleinbürgerlichen Verhältnissen den Weg zur Literatur ebnet. Als Achtjähriger bricht sich Wells bei einem Sturz den Fuß und beginnt zu lesen.<br><br>Er wird zu einem der bekanntesten Autoren der Welt. Sein Roman \"Der Krieg der Welten\" wird zweimal verfilmt, zuletzt 2005 von Steven Spielberg. H.G. Wells stirbt 1946 in London. Bis heute gilt er als Pionier der Science-Fiction-Literatur. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Elmar Schenkel, emeritierter Professor für britische Literatur an der Universität Leipzig</li><li>Michael Foot: H.G. - The History of Mr Wells. Berlin/Prag 1996</li><li>H.G. Wells: Experiment in Autobiography (1934)</li><li>Adam Roberts: A History of Science Fiction (2016)</li><li>Elmar Schenkel: Der Prophet im Labyrinth. Eine essayistische Erkundung. München 2004</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag8962.html\" rel=\"noopener\" target=\"_blank\">6. Mai 1915 - Orson Welles wird geboren</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-steven-spielberg-100.html\" rel=\"noopener\" target=\"_blank\">18. Dezember 1946 - Der amerikanische Regisseur Steven Spielberg wird geboren</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christoph Tiemann<br>Redaktion: Sefa Inci Suvak<br>Technik: Moritz Raestrup",
+    "date": "2026-09-21T04:00:17.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-zeitmaschinen-und-ferne-galaxien-der-autor-h-g-wells-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-herbert-george-wells-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/15/00da60e3-f399-4caa-82bf-fe98b2c5722e/00da60e3-f399-4caa-82bf-fe98b2c5722e_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ee18083f-edae-5b68-a668-dcfb56e85f83",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 20.09.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:51:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/kulturmeldungen_20092026_dlf_20260920_1751_84acbad0.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ee64f71c-6c2a-5445-8379-b4f6381f91e6",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fotografien von Machtstrukturen und Religiosität: Carrie Mae Weems im C/O Berlin",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:46:40.000Z",
+    "url": "https://www.deutschlandfunk.de/fotografien-von-machtstrukturen-und-religiositaet-carrie-mae-weems-im-c-o-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/fotografien_von_machtstrukturen_und_religiositaet_carrie_mae_dlf_20260920_1746_bfab1d87.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4c88221c-43f4-5e8f-b03d-22c2aa90b05c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Holländerinnen\" - Elmigers Roman kommt in Magdeburg auf die Bühne",
+    "summary": "Koch, Vincent www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:41:50.000Z",
+    "url": "https://www.deutschlandfunk.de/die-hollaenderinnen-elmigers-roman-kommt-in-magdeburg-auf-die-buehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/die_hollaenderinnen_elmigers_roman_kommt_in_magdeburg_auf_dlf_20260920_1741_32a9d840.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:142cd4d8-bdf3-5521-b247-7b0dc861d115",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mittwoch aus Licht\" - Susanne Kennedy inszeniert Stockhausen in Berlin",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:35:45.000Z",
+    "url": "https://www.deutschlandfunk.de/mittwoch-aus-licht-susanne-kennedy-inszeniert-stockhausen-in-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/mittwoch_aus_licht_susanne_kennedy_inszeniert_stockhausen_in_dlf_20260920_1735_74a8abf5.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:b932623a74938220788246c83be82f9b",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -19,6 +146,31 @@
     "category": [
       "Geschichte",
       "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-8984010521289395",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Gehört zur ersten Riege deutscher Schauspieler: Benno Fürmann",
+    "summary": "Mit der finalen fünften Staffel ist die Mammutserie \"Babylon Berlin\" im Jahr 1933 angekommen - und Benno Fürmann ist darin aktuell wieder als skrupelloser und rechtsextremer Regierungsrat Oberst Wendt zu sehen. Wie er den sinistren Charakter verkörpert, belegt einmal mehr, dass Fürmann zur ersten Riege deutscher Schauspieler gehört. Auf dem Roten Sofa wird Benno Fürmann auch über sein Engagement für den Umweltschutz berichten.",
+    "date": "2026-09-19T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspieler-benno-fuermann,audio-3488388.html",
+    "image": "https://images.ndr.de/image/4289e628-a9a5-476d-9b0c-488dec467e04/AAABoLq22ys/AAABnSStX0g/1x1-big/screenshot-230846.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0920/AU-20260920-2041-2900.mp3",
+    "duration": "41 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
     ],
     "language": "de"
   },
@@ -92,159 +244,6 @@
       "kunst",
       "film",
       "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c16057ea-1380-5ef9-91cb-a1eef18daf18",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Correggio\" - Dresden zeigt größte Überblicksausstellung außerhalb Italiens",
-    "summary": "Wheeler, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-19T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/correggio-dresden-zeigt-groesste-ueberblicksausstellung-ausserhalb-italiens-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/correggio_dresden_zeigt_groesste_ueberblicksausstellung_dlf_20260919_1741_fa7ffa4c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:442b0c7e-21b3-5690-9cf6-3feb28d4e6aa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kleists \"Prinz Friedrich von Homburg\" am Schauspielhaus Düsseldorf",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-19T15:35:20.000Z",
-    "url": "https://www.deutschlandfunk.de/kleists-prinz-friedrich-von-homburg-am-schauspielhaus-duesseldorf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/kleists_prinz_friedrich_von_homburg_am_schauspielhaus_dlf_20260919_1735_7e7f3805.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5fca78cf-2edc-54d0-844f-b33977f7da19",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Verwandlung - Neue Kafka-Oper wird in Winterthur uraufgeführt",
-    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-19T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-verwandlung-neue-kafka-oper-wird-in-winterthur-uraufgefuehrt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/die_verwandlung_neue_kafka_oper_wird_in_winterthur_dlf_20260919_1731_317e58c7.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:aa85b335-1065-5370-b9b2-8d907949f44e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Haszcara über 10 Jahre Sister*Queens Kollektiv und Empowerment durch Rap",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-19T13:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/haszcara-ueber-10-jahre-sister-queens-kollektiv-und-empowerment-durch-rap-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/haszcara_ueber_10_jahre_sisterqueens_kollektiv_und_dlf_20260919_1545_000dc1fe.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:fd1082df-be47-5fda-a4a1-358b105fd7ab",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wenn Worte fehlen: \"The Meaning Of Flowers\" von Agnes Obel",
-    "summary": "Poppendieck, Kerstin www.deutschlandfunk.de, Corso",
-    "date": "2026-09-19T13:30:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wenn-worte-fehlen-the-meaning-of-flowers-von-agnes-obel-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/wenn_worte_fehlen_the_meaning_of_flowers_von_agnes_obel_dlf_20260919_1530_390a3c48.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:dafed674-f416-5586-9c25-3a9cc5cc67da",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Band Nachtkinder im Gespräch über ihr Debütalbum und Emotionalität im Pop",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-19T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-band-nachtkinder-im-gespraech-ueber-ihr-debuetalbum-und-emotionalitaet-im-pop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/die_band_nachtkinder_im_gespraech_ueber_ihr_debuetalbum_und_dlf_20260919_1520_ef082ff6.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
       "deutschlandfunk"
     ],
     "category": [

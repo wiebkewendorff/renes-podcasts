@@ -1,5 +1,132 @@
 [
   {
+    "id": "zeitzeichen:f6278cb3369b8f9157c77628a029a0bd",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Zeitmaschinen und ferne Galaxien: Der Autor H. G. Wells",
+    "summary": "<p>H. G. Wells (geboren 21. September 1866) blickte in die Zukunft - und sah eine Menschheit am Abgrund. Seine Science-Fiction war spannend, politisch und hellsichtig.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christoph Tiemann:</strong><br><ul><li>von Wells' beruflichem Werdegang - vom Chemiegehlifen über Hilfslehrer bis zum Autor,</li><li>wie der berühmte Darwin-Anhänger Thomas Huxley seine Werke beeinflusst,</li><li>von zwei Ehen und vielen Liebschaften,</li><li>von Wells' Treffen mit dem Hörspiel-Regisseur Orson Welles.</li></ul><br>Zeitreisen, Alien-Invasionen und die grotesken Experimente skrupelloser Wissenschaftler - das sind die Welten, die der britische Schriftsteller H.G. Wells erfindet. Und zwar Jahrzehnte bevor Hollywood anfängt diese Stoffe in Masse zu produzieren. <br><br>Herbert George Wells wird am 21. September 1866 in Bromley geboren. Es ist ein Unfall, der dem Sohn aus kleinbürgerlichen Verhältnissen den Weg zur Literatur ebnet. Als Achtjähriger bricht sich Wells bei einem Sturz den Fuß und beginnt zu lesen.<br><br>Er wird zu einem der bekanntesten Autoren der Welt. Sein Roman \"Der Krieg der Welten\" wird zweimal verfilmt, zuletzt 2005 von Steven Spielberg. H.G. Wells stirbt 1946 in London. Bis heute gilt er als Pionier der Science-Fiction-Literatur. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Elmar Schenkel, emeritierter Professor für britische Literatur an der Universität Leipzig</li><li>Michael Foot: H.G. - The History of Mr Wells. Berlin/Prag 1996</li><li>H.G. Wells: Experiment in Autobiography (1934)</li><li>Adam Roberts: A History of Science Fiction (2016)</li><li>Elmar Schenkel: Der Prophet im Labyrinth. Eine essayistische Erkundung. München 2004</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag8962.html\" rel=\"noopener\" target=\"_blank\">6. Mai 1915 - Orson Welles wird geboren</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-steven-spielberg-100.html\" rel=\"noopener\" target=\"_blank\">18. Dezember 1946 - Der amerikanische Regisseur Steven Spielberg wird geboren</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christoph Tiemann<br>Redaktion: Sefa Inci Suvak<br>Technik: Moritz Raestrup",
+    "date": "2026-09-21T04:00:17.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-zeitmaschinen-und-ferne-galaxien-der-autor-h-g-wells-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-herbert-george-wells-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/15/00da60e3-f399-4caa-82bf-fe98b2c5722e/00da60e3-f399-4caa-82bf-fe98b2c5722e_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ee18083f-edae-5b68-a668-dcfb56e85f83",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 20.09.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:51:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/kulturmeldungen_20092026_dlf_20260920_1751_84acbad0.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ee64f71c-6c2a-5445-8379-b4f6381f91e6",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fotografien von Machtstrukturen und Religiosität: Carrie Mae Weems im C/O Berlin",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:46:40.000Z",
+    "url": "https://www.deutschlandfunk.de/fotografien-von-machtstrukturen-und-religiositaet-carrie-mae-weems-im-c-o-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/fotografien_von_machtstrukturen_und_religiositaet_carrie_mae_dlf_20260920_1746_bfab1d87.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4c88221c-43f4-5e8f-b03d-22c2aa90b05c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Holländerinnen\" - Elmigers Roman kommt in Magdeburg auf die Bühne",
+    "summary": "Koch, Vincent www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:41:50.000Z",
+    "url": "https://www.deutschlandfunk.de/die-hollaenderinnen-elmigers-roman-kommt-in-magdeburg-auf-die-buehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/die_hollaenderinnen_elmigers_roman_kommt_in_magdeburg_auf_dlf_20260920_1741_32a9d840.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:142cd4d8-bdf3-5521-b247-7b0dc861d115",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mittwoch aus Licht\" - Susanne Kennedy inszeniert Stockhausen in Berlin",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-20T15:35:45.000Z",
+    "url": "https://www.deutschlandfunk.de/mittwoch-aus-licht-susanne-kennedy-inszeniert-stockhausen-in-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/mittwoch_aus_licht_susanne_kennedy_inszeniert_stockhausen_in_dlf_20260920_1735_74a8abf5.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:b932623a74938220788246c83be82f9b",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -19,6 +146,31 @@
     "category": [
       "Geschichte",
       "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-8984010521289395",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Gehört zur ersten Riege deutscher Schauspieler: Benno Fürmann",
+    "summary": "Mit der finalen fünften Staffel ist die Mammutserie \"Babylon Berlin\" im Jahr 1933 angekommen - und Benno Fürmann ist darin aktuell wieder als skrupelloser und rechtsextremer Regierungsrat Oberst Wendt zu sehen. Wie er den sinistren Charakter verkörpert, belegt einmal mehr, dass Fürmann zur ersten Riege deutscher Schauspieler gehört. Auf dem Roten Sofa wird Benno Fürmann auch über sein Engagement für den Umweltschutz berichten.",
+    "date": "2026-09-19T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspieler-benno-fuermann,audio-3488388.html",
+    "image": "https://images.ndr.de/image/4289e628-a9a5-476d-9b0c-488dec467e04/AAABoLq22ys/AAABnSStX0g/1x1-big/screenshot-230846.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0920/AU-20260920-2041-2900.mp3",
+    "duration": "41 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
     ],
     "language": "de"
   },
@@ -277,106 +429,27 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:33e05677-f8c4-5997-8e5b-80584f8f9dc9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "id": "ndr-being-the-beatles:rnd0-646119468611328",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
     "type": "rss",
-    "title": "Kulturmeldungen 18.09.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-18T15:56:50.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/kulturmeldungen_18092026_dlf_20260918_1756_0a527f29.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
+    "title": "Astrophysikerin, Philosophin und Weltenerklärerin: Sibylle Anderl",
+    "summary": "Sibylle Anderl ist eine Weltenerklärerin. Die studierte Astrophysikerin und Philosophin besitzt das außerordentliche Talent, komplexe Materie und komplizierte Sachverhalte so zu erklären, dass auch Normalos den Durchblick bekommen. In ihrem Buch \"Bequeme neue Welt\" setzt sie sich mit den Folgen von Künstlicher Intelligenz für uns auseinander. Ihre These: Wer Denken, Entscheiden und Urteilen an Algorithmen auslagert, verliert nicht nur seinen Verstand - sondern langfristig auch seine Freiheit. Auf dem Roten Sofa werden wir ein Plädoyer für mehr geistige Anstrengung und Verantwortung hören.",
+    "date": "2026-09-18T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/astrophysikerin-philosophin-und-weltenerklaererin-sibylle-anderl,audio-3488386.html",
+    "image": "https://images.ndr.de/image/21360d8a-71a9-42df-9cd6-b6760a9ede6f/AAABoLXniw0/AAABnSStX0g/1x1-big/screenshot-230510.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0920/AU-20260920-2040-5900.mp3",
+    "duration": "40 Min",
     "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
       "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
+      "60er"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0b567ca3-7eba-5fa2-85e5-399b39f109f1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Picasso - Bacon. What It Feels Like to Be Human\" in der Albertina Wien",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-18T15:52:38.000Z",
-    "url": "https://www.deutschlandfunk.de/picasso-bacon-what-it-feels-like-to-be-human-in-der-albertina-wien-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/picasso_bacon_what_it_feels_like_to_be_human_in_der_dlf_20260918_1752_0455b34a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b3cbb7c6-9a6f-5cbd-a79c-9d95dcb75199",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach 14 Jahren Sanierung - die Oper Köln vor der Wiedereröffnung",
-    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-18T15:46:18.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-14-jahren-sanierung-die-oper-koeln-vor-der-wiedereroeffnung-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nach_14_jahren_sanierung_die_oper_koeln_vor_der_dlf_20260918_1746_065482e8.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3b0b2dc7-890b-5f3a-b6d5-960c47b75ed6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Deutscher Herbst\" - Christopher Rüping inszeniert bei der Ruhrtriennale",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-18T15:41:36.000Z",
-    "url": "https://www.deutschlandfunk.de/deutscher-herbst-christopher-rueping-inszeniert-bei-der-ruhrtriennale-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/deutscher_herbst_christopher_rueping_inszeniert_bei_der_dlf_20260918_1741_3053d99f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Musik",
+      "Geschichte"
     ],
     "language": "de"
   },
@@ -427,85 +500,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:76a2b2c5-9d50-53cf-a7c7-8ca59689ffc5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Installation: Der Internet Explorer als begehbares Internet-Café",
-    "summary": "Terschüren, Hagen www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:07:06.000Z",
-    "url": "https://www.deutschlandfunk.de/installation-der-internet-explorer-als-begehbares-internet-caf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/installation_der_internet_explorer_als_begehbares_internet_dlf_20260918_1507_edd7f84c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-tatort-kunst:d34f4d1c-d144-597c-ac5a-ad4564e62419",
-    "source": "dlf-tatort-kunst",
-    "sourceTitle": "Tatort Kunst – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bitte melden: Was wollt ihr von \"Tatort Kunst\" wissen?",
-    "summary": "Während wir an neuen Fällen arbeiten, würden wir gern von euch wissen: Welche Fragen habt ihr an Rahel und Stefan? Schreibt uns bis zum 4. Oktober an tatortkunst@deutschlandfunk.de – Antworten gibt’s Ende des Jahres. Klein, Rahel",
-    "date": "2026-09-18T08:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/bitte-melden-was-wollt-ihr-von-tatort-kunst-wissen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/5b/e7/8e/e4/5be78ee4-9d4a-45c1-8d45-260fe0ce8bdc/trailer-tatort-kunst-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/bitte_melden_was_wollt_ihr_von_tatort_kunst_wissen_dlf_20260921_0600_e9650e7a.mp3?refId=tatort-kunst-102",
-    "duration": "1 Min",
-    "tags": [
-      "kunst",
-      "kunstmarkt",
-      "true-crime",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kunst",
-      "Kultur",
-      "True Crime"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-1001-nacht:beb984bf-aaab-5dbb-a9f6-a4758dc54187",
-    "source": "dlf-1001-nacht",
-    "sourceTitle": "1001 Nacht – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nacht 121 - Eine freundliche Antilope",
-    "summary": "Eine Antilope freundet sich mit Frau Pfau und der Ente an. Eines Tages ankert in der Nähe ein Schiff. Frau Pfau fliegt davon, die Antilope rennt in die Steppe. Nur die Ente ist zu langsam und wird zur Jagdbeute. Und Schahrasad fragt: Was ist Glück?<br><br><strong>Die Spielerinnen:</strong><br>Roxana Samadi erzählt als Schahrasad alle Geschichten.<br>Jasmin Shakeri setzt den Rahmen um jede Geschichte.<br>Susana AbdulMajid spricht die arabischen Texte.<br><br><strong>Mehr zum Thema in der Deutschlandfunk App:</strong><br><ul><li>Am Ende der zweiten Staffel empfehlen wir nochmal <a href=\"https://www.deutschlandfunk.de/ein-urzeitliches-schwindelgefuehl-wieso-laesst-uns-1001-nacht-nicht-los-100.html\" rel=\"noopener\" target=\"_blank\">„Wieso lässt uns 1001 Nacht nicht los?“ – ein Gespräch mit dem Literaturwissenschaftler Paulo Lemos Horta</a></li><li><a href=\"https://www.deutschlandfunk.de/erzaehlen-gegen-den-untergang-100.html\" rel=\"noopener\" target=\"_blank\">Und auch den Essay der preisgekrönten Autorin Samira El Ouassil: \"Erzählen gegen den Untergang - Scheherazades Kunst und die Kraft der Fiktionen in Zeiten der Bedrohung\"</a> Wie erzählen wir uns aus der Angst heraus in eine Zukunft hinein, damit auch wir die nächsten Morgen noch erleben?</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Hier findet ihr <a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">alle 1001 Nacht Hörspielfolgen, unsere Gespräche zu „Fragen an 1001 Nacht“ und viele Making-of-Interviews</a></li><li>Und hier steht <a href=\"https://www.deutschlandfunk.de/1001-nacht-alles-ueber-100.html\" rel=\"noopener\" target=\"_blank\">alles über unseren „1001 Nacht“-Podcast</a></li></ul><br>+++++<br><br>1001 Nacht – Staffel zwei <br>Nach der Neuübersetzung von Claudia Ott <br>Auswahl der Geschichten: Safiye Can <br>Hörspielbearbeitung und Storytelling: Judith Lorentz und Roxana Samadi <br>Mit Roxana Samadi, Susana AbdulMajid und Jasmin Shakeri <br>Besetzung: Kathi Bonjour <br>Regieassistenz: Vanessa Gräfingholt und Delia Lang <br>Expertin für Arabisch: Heba Tebakhi <br>Übersetzung und philologische Beratung: Claudia Ott <br>Copyright der Übersetzung: Verlag C. H. Beck <br>Nach einer arabischen Handschrift der Raşit-Efendi-Bibliothek in Kayseri, Türkei.<br>Redaktionelle Mitarbeit: Matthias Karow <br>Komposition und Musik: Philipp Johann Thimm <br>Weitere Musik: Roshanak Rafani an Daf, Tombak und Bendir und Nabil Arbaain an der Oud <br>Ton: Andreas Stoffels und Susanne Beyer, sowie Alexander Brennecke<br>Disposition: Dagmar Goyk <br>Regie: Judith Lorentz <br>Dramaturgie: Sabine Küchler und Julia Tieke <br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn euch „1001 Nacht\" gefällt, abonniert und bewertet den Podcast und empfehlt uns weiter. Ihr habt Feedback für uns? Dann schreibt gerne an hoererservice@deutschlandradio.de</a><br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"http://instagram.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"http://facebook.com/deutschlandfunk\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-09-18T06:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nacht-121-eine-freundliche-antilope-lf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/28/2f/4b/aa/282f4baa-1dfb-4113-b704-738c66caa086/1001-nacht-62-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/nacht_121_eine_freundliche_antilope_lf_dlf_20260918_0806_8c5bdba2.mp3?refId=1001-nacht-100",
-    "duration": "10 Min",
-    "tags": [
-      "horspiel",
-      "literatur",
-      "1001-nacht",
-      "schahrasad",
-      "klassiker",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Hörspiel",
-      "Literatur",
-      "Kultur"
     ],
     "language": "de"
   }
