@@ -1,5 +1,57 @@
 [
   {
+    "id": "dlf-das-feature:5fd1a590-0beb-52f9-b309-d373093249d8",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Unter dem Salz der Anden - Die Kehrseite der Energiewende - Rohstoffe für die Energiewende",
+    "summary": "Lithium gilt als Schlüsselrohstoff der Energiewende. Doch in den Salzwüsten der Anden geraten Wasserhaushalt, Ökosysteme und indigene Lebensweisen unter Druck. Wer profitiert vom Boom – und wer trägt die Kosten? Von Sophia Boddenberg www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-22T05:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/unter-dem-salz-der-anden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/06/3e/75/8c/063e758c-e30d-49df-9c2b-e547e5018388/bild-fuer-das-salz-der-anden-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/unter_dem_salz_der_anden_die_kehrseite_der_energiewende_dlf_20260922_1915_d37f7b43.mp3?refId=das-feature-104",
+    "duration": "48 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-das-feature:2c700129-b696-58af-b60a-45f9c5fa9884",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zwischen den Sirenen – Die vielen Gesichter des ukrainischen Widerstands",
+    "summary": "Viele Ukrainer verteidigen ihr Land nicht nur mit Cyberattacken und Waffen. Sie schreiben, malen, musizieren und beraten auch. Denn die Kultur des Landes muss sichtbar und hörbar bleiben, auch um den Menschen Mut und Hoffnung zu schenken. Von Philipp Landauer und Luca Faccio www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-22T05:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/zwischen-den-sirenen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/48/96/72/01/48967201-613f-4bab-93b8-4591c9803685/zwischen-den-sirenen-feature-bild-spielplatz-ukraine-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/zwischen_den_sirenen_die_vielen_gesichter_des_ukrainischen_dlf_20260926_1805_c8d1f1cb.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2020-07-07-wie-wir-lernten-die-atomkraft-zu-lieben-dlf-20200707-1915-3342d45f-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -193,58 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/5d/c3/1f/38/5dc31f38-6f9c-4428-ae53-1da19f2ca8c2/doku-drops-15-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/doku_drops_15_innenansichten_drk_20260804_1805_cd4b90c6.mp3?refId=das-feature-104",
     "duration": "28 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2025-09-16-sesamstrasse-im-krieg-donald-trump-hat-angst-vor-elmo-mit-dlf-20250916-1915-ee8945d5-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sesamstraße im Krieg - Donald Trump hat Angst vor Elmo",
-    "summary": "Von den Taliban über Putin bis zu Trump: Die Sesamstraße steht plötzlich im Mittelpunkt der Weltgeschichte. Warum eine Kindershow, die Kindern elementare Bildung vermittelt, Erwachsene wie den amerikanischen Präsidenten ärgert. Von Alexander Bühler www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-07-28T08:55:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/sesamstrasse-im-krieg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/72/9d/d5/ce/729dd5ce-2068-48c0-b4e2-f6e6fa695f9a/bild-collage-fuer-feature-donald-trump-hat-angst-vor-elmo-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/09/16/sesamstrasse_im_krieg_donald_trump_hat_angst_vor_elmo_mit_dlf_20250916_1915_ee8945d5.mp3?refId=das-feature-104",
-    "duration": "44 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-24-wir-sind-piraten-ein-professor-und-seine-studierenden-dlf-20260724-2005-622902f7-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wir sind die Piraten - Ein Professor und seine Studierenden gründen ein Hausprojekt",
-    "summary": "Leben, Lehren, Arbeiten. Für den Fotografie-Professor Christoph Bangert gehört das untrennbar zusammen. Also renoviert er mit Studierenden ein Haus auf dem Land und gründet dort eine WG. Doch was als radikale Idee beginnt, bringt ihm bald viel Kritik ein. Von Anna Seibt www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-07-21T09:30:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/wir-sind-die-piraten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/0c/46/0f/37/0c460f37-3c06-4c63-886d-b57bc12ef2dc/bild-fuer-wir-sind-die-piraten-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/wir_sind_piraten_ein_professor_und_seine_studierenden_dlf_20260724_2005_622902f7.mp3?refId=das-feature-104",
-    "duration": "53 Min",
     "tags": [
       "feature",
       "dokumentation",

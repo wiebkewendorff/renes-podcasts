@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:8b77b1d8-e2c6-5552-9bda-3350168468f2",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Grobi, Elmo und Co - Bildband zur \"Sesamstraße\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-09-21T13:20:43.000Z",
+    "url": "https://www.deutschlandfunk.de/grobi-elmo-und-co-bildband-zur-sesamstrasse-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/grobi_elmo_und_co_bildband_zur_sesamstrasse_dlf_20260921_1520_a3ee2ce4.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:985a8706-d2db-56b8-8550-fcdbff41654f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Barbie Breakout über die Doku \"Feindbild Queer\" und ihre Realität",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-09-21T13:13:30.000Z",
+    "url": "https://www.deutschlandfunk.de/barbie-breakout-ueber-die-doku-feindbild-queer-und-ihre-realitaet-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/barbie_breakout_ueber_die_doku_feindbild_queer_und_ihre_dlf_20260921_1513_5953b906.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:59b23a4d-1db8-5407-b781-e3a761b57771",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach der Berlin-Wahl - Was ein neuer Kultursenator reparieren muss",
+    "summary": "Balzer, Jens www.deutschlandfunk.de, Corso",
+    "date": "2026-09-21T13:06:48.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-der-berlin-wahl-was-ein-neuer-kultursenator-reparieren-muss-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/nach_der_berlin_wahl_was_ein_neuer_kultursenator_reparieren_dlf_20260921_1506_63f48f59.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:aa85b335-1065-5370-b9b2-8d907949f44e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/good_vibes_only_wie_viel_politik_darf_auf_die_live_buehne_dlf_20260917_1515_c8e3b3f8.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:91d0e15d-5f6e-5c1e-b1be-39a4813a2d55",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Slop of the Pops? Neue KI-Tools in der Musikproduktion",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-17T13:15:01.000Z",
-    "url": "https://www.deutschlandfunk.de/slop-of-the-pops-neue-ki-tools-in-der-musikproduktion-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/slop_of_the_pops_neue_ki_tools_in_der_musikproduktion_dlf_20260917_1515_08ad374f.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e5407bc6-00de-5ad1-8ab6-8db44f01eee6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Serie \"City of Blood\" - Wenn die Vampire Berlin übernehmen",
-    "summary": "Wollner, Anna www.deutschlandfunk.de, Corso",
-    "date": "2026-09-16T13:07:38.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-serie-city-of-blood-wenn-die-vampire-berlin-uebernehmen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/neue_serie_city_of_blood_wenn_die_vampire_berlin_uebernehmen_dlf_20260916_1507_a58b83af.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:48d17e55-0346-55e0-b005-62a324a06176",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: Gentle Monster, Kalter Hund, Adams Acht",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-09-16T13:05:21.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-gentle-monster-kalter-hund-adams-acht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/16/neue_filme_gentle_monster_kalter_hund_adams_acht_dlf_20260916_1505_7b8971bd.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
