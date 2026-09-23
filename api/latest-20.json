@@ -1,5 +1,231 @@
 [
   {
+    "id": "zeitzeichen:67a675d97c92b340d8e5a8f6f832523e",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Wie eine Expedition die USA erweitern sollte",
+    "summary": "Durchschlagen bis zum Pazifik: Das war das Ziel der Lewis-und-Clark-Expedition, die am 23.9.1806 zu Ende ging. Die Crew sollte den Westen der USA erkunden und stieß dabei auf einige Probleme.",
+    "date": "2026-09-23T04:00:26.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wie-eine-expedition-die-usa-erweitern-sollte-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-lewis-clark-expedition-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/1f14546d-a44f-40b2-bb54-0cba8b7d6246/1f14546d-a44f-40b2-bb54-0cba8b7d6246_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4063845",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Bernhard Riemann und die Struktur der Zahlen",
+    "summary": "<p> </p>\n<p> </p>",
+    "date": "2026-09-23T03:00:24.000Z",
+    "url": "https://feedpress.me/link/19604/17470787/geschichten-aus-der-mathematik-bernhard-riemann",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26092300geschichtenausdermathematikbernhardriemann.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26092300geschichtenausdermathematikbernhardriemann.63.mp3",
+    "duration": "52 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-917158317693886",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Bestsellerautorin Caroline Wahl im Talk mit Ilka Petersen",
+    "summary": "Sie verrät, wie es sich anfühlt, mit 31 Jahren zu einer der meistdiskutierten Stimmen der deutschsprachigen Literatur zu gehören.",
+    "date": "2026-09-22T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/bestsellerautorin-caroline-wahl-im-talk-mit-ilka-petersen,audio-3492906.html",
+    "image": "https://images.ndr.de/image/5dd05058-f693-4429-905e-de261eb77387/AAABoMoxVdY/AAABnSStX0g/1x1-big/screenshot-232386.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0922/AU-20260922-2116-3400.mp3",
+    "duration": "34 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:35118801-c265-54aa-8b61-e03bcd43e172",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 22.09.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/kulturmeldungen_22092026_dlf_20260922_1756_6fe8c997.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:eeb09d2e-d6bb-57c0-85c6-7a4d12837492",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Van Gogh, Hodler und ein Cabriolet\" - Sammlerin Gertrud Dübi-Müller in Basel",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/van-gogh-hodler-und-ein-cabriolet-sammlerin-gertrud-duebi-mueller-in-basel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/van_gogh_hodler_und_ein_cabriolet_sammlerin_gertrud_duebi_dlf_20260922_1751_d4e6a027.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7fb4e860-6236-5fb6-b0d3-9f99d2e2900c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach der Berlin-Wahl - Christophe Knoch über Perspektiven für die Kulturpolitik",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:43:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-der-berlin-wahl-christophe-knoch-ueber-perspektiven-fuer-die-kulturpolitik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/nach_der_berlin_wahl_christophe_knoch_ueber_perspektiven_dlf_20260922_1743_e7e53b59.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:93af6ccd-cb19-55a1-bd11-ec7d206e5f3e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Lücken\" - Schriftstellerin Shida Bazyar erhält Wilhelm-Raabe-Literaturpreis",
+    "summary": "Porombka, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-luecken-schriftstellerin-shida-bazyar-erhaelt-wilhelm-raabe-literaturpreis-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/die_luecken_schriftstellerin_shida_bazyar_erhaelt_wilhelm_dlf_20260922_1736_17e333f4.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b7bfec3b-0ed7-5362-b50e-8ff5666715b0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sammelband \"Der Körper im HipHop\" - Physis als Zentrum der HipHop-Kultur",
+    "summary": "Luerweg, Susanne; Frost, Friederike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sammelband-der-koerper-im-hiphop-physis-als-zentrum-der-hiphop-kultur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/sammelband_der_koerper_im_hiphop_physis_als_zentrum_der_dlf_20260922_1515_ddda3802.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8b456081-c15d-5a37-a360-7e342eee4a76",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Comic \"Gib nicht auf!\" - Birgit Weyhe illustriert die Verfolgung einer Jesidin",
+    "summary": "Heinze, Andrea www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:08:32.000Z",
+    "url": "https://www.deutschlandfunk.de/comic-gib-nicht-auf-birgit-weyhe-illustriert-die-verfolgung-einer-jesidin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/comic_gib_nicht_auf_birgit_weyhe_illustriert_die_verfolgung_dlf_20260922_1508_6664ce78.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-alles-gesagt:82b81ed3-8fde-4203-9664-d51ca9baed97",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -152,6 +378,31 @@
     "language": "de"
   },
   {
+    "id": "ndr-being-the-beatles:rnd0-06920175193657752",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Journalistin und Autorin Marieke Reimann über den Tag nach den Wahlen",
+    "summary": "Der Tag nach den Wahlen: Was sagen die Ergebnisse über den Zustand unserer Demokratie? Marieke Reimann dazu auf dem Roten Sofa.",
+    "date": "2026-09-21T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/journalistin-und-autorin-marieke-reimann-ueber-tag-nach-wahlen,audio-3491564.html",
+    "image": "https://images.ndr.de/image/77ec3052-4d2d-4462-b4ce-fdf76ccc6f5b/AAABoMTqB0o/AAABnSStX0g/1x1-big/screenshot-231820.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0922/AU-20260922-1053-2200.mp3",
+    "duration": "39 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:d66544b4-8e0b-58a7-a0fa-1e0c10fac680",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -252,256 +503,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8b77b1d8-e2c6-5552-9bda-3350168468f2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Grobi, Elmo und Co - Bildband zur \"Sesamstraße\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-21T13:20:43.000Z",
-    "url": "https://www.deutschlandfunk.de/grobi-elmo-und-co-bildband-zur-sesamstrasse-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/grobi_elmo_und_co_bildband_zur_sesamstrasse_dlf_20260921_1520_a3ee2ce4.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:985a8706-d2db-56b8-8550-fcdbff41654f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Barbie Breakout über die Doku \"Feindbild Queer\" und ihre Realität",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-21T13:13:30.000Z",
-    "url": "https://www.deutschlandfunk.de/barbie-breakout-ueber-die-doku-feindbild-queer-und-ihre-realitaet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/barbie_breakout_ueber_die_doku_feindbild_queer_und_ihre_dlf_20260921_1513_5953b906.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:59b23a4d-1db8-5407-b781-e3a761b57771",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach der Berlin-Wahl - Was ein neuer Kultursenator reparieren muss",
-    "summary": "Balzer, Jens www.deutschlandfunk.de, Corso",
-    "date": "2026-09-21T13:06:48.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-der-berlin-wahl-was-ein-neuer-kultursenator-reparieren-muss-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/nach_der_berlin_wahl_was_ein_neuer_kultursenator_reparieren_dlf_20260921_1506_63f48f59.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:f6278cb3369b8f9157c77628a029a0bd",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Zeitmaschinen und ferne Galaxien: Der Autor H. G. Wells",
-    "summary": "<p>H. G. Wells (geboren 21. September 1866) blickte in die Zukunft - und sah eine Menschheit am Abgrund. Seine Science-Fiction war spannend, politisch und hellsichtig.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christoph Tiemann:</strong><br><ul><li>von Wells' beruflichem Werdegang - vom Chemiegehlifen über Hilfslehrer bis zum Autor,</li><li>wie der berühmte Darwin-Anhänger Thomas Huxley seine Werke beeinflusst,</li><li>von zwei Ehen und vielen Liebschaften,</li><li>von Wells' Treffen mit dem Hörspiel-Regisseur Orson Welles.</li></ul><br>Zeitreisen, Alien-Invasionen und die grotesken Experimente skrupelloser Wissenschaftler - das sind die Welten, die der britische Schriftsteller H.G. Wells erfindet. Und zwar Jahrzehnte bevor Hollywood anfängt diese Stoffe in Masse zu produzieren. <br><br>Herbert George Wells wird am 21. September 1866 in Bromley geboren. Es ist ein Unfall, der dem Sohn aus kleinbürgerlichen Verhältnissen den Weg zur Literatur ebnet. Als Achtjähriger bricht sich Wells bei einem Sturz den Fuß und beginnt zu lesen.<br><br>Er wird zu einem der bekanntesten Autoren der Welt. Sein Roman \"Der Krieg der Welten\" wird zweimal verfilmt, zuletzt 2005 von Steven Spielberg. H.G. Wells stirbt 1946 in London. Bis heute gilt er als Pionier der Science-Fiction-Literatur. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Elmar Schenkel, emeritierter Professor für britische Literatur an der Universität Leipzig</li><li>Michael Foot: H.G. - The History of Mr Wells. Berlin/Prag 1996</li><li>H.G. Wells: Experiment in Autobiography (1934)</li><li>Adam Roberts: A History of Science Fiction (2016)</li><li>Elmar Schenkel: Der Prophet im Labyrinth. Eine essayistische Erkundung. München 2004</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag8962.html\" rel=\"noopener\" target=\"_blank\">6. Mai 1915 - Orson Welles wird geboren</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-steven-spielberg-100.html\" rel=\"noopener\" target=\"_blank\">18. Dezember 1946 - Der amerikanische Regisseur Steven Spielberg wird geboren</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christoph Tiemann<br>Redaktion: Sefa Inci Suvak<br>Technik: Moritz Raestrup",
-    "date": "2026-09-21T04:00:17.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-zeitmaschinen-und-ferne-galaxien-der-autor-h-g-wells-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-herbert-george-wells-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/15/00da60e3-f399-4caa-82bf-fe98b2c5722e/00da60e3-f399-4caa-82bf-fe98b2c5722e_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ee18083f-edae-5b68-a668-dcfb56e85f83",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 20.09.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:51:40.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/kulturmeldungen_20092026_dlf_20260920_1751_84acbad0.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ee64f71c-6c2a-5445-8379-b4f6381f91e6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fotografien von Machtstrukturen und Religiosität: Carrie Mae Weems im C/O Berlin",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:46:40.000Z",
-    "url": "https://www.deutschlandfunk.de/fotografien-von-machtstrukturen-und-religiositaet-carrie-mae-weems-im-c-o-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/fotografien_von_machtstrukturen_und_religiositaet_carrie_mae_dlf_20260920_1746_bfab1d87.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4c88221c-43f4-5e8f-b03d-22c2aa90b05c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Holländerinnen\" - Elmigers Roman kommt in Magdeburg auf die Bühne",
-    "summary": "Koch, Vincent www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:41:50.000Z",
-    "url": "https://www.deutschlandfunk.de/die-hollaenderinnen-elmigers-roman-kommt-in-magdeburg-auf-die-buehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/die_hollaenderinnen_elmigers_roman_kommt_in_magdeburg_auf_dlf_20260920_1741_32a9d840.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:142cd4d8-bdf3-5521-b247-7b0dc861d115",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mittwoch aus Licht\" - Susanne Kennedy inszeniert Stockhausen in Berlin",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:35:45.000Z",
-    "url": "https://www.deutschlandfunk.de/mittwoch-aus-licht-susanne-kennedy-inszeniert-stockhausen-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/mittwoch_aus_licht_susanne_kennedy_inszeniert_stockhausen_in_dlf_20260920_1735_74a8abf5.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:b932623a74938220788246c83be82f9b",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Wie eine Krankenpflegerin die Polio-Behandlung revolutionierte",
-    "summary": "<p>In den 1940er-Jahren sagen fast alle Ärzte: Polio-Patienten müssen ruhig gestellt werden. Doch Elizabeth Kenny (angeblich geb. 20.09.1886) macht das Gegenteil und wird damit berühmt.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Kolja Sand:</strong><br><ul><li>wie Poliomyelitis - auch bekannt als Kinderlähmung - in der ersten Hälfte des 20. Jahrhunderts schwere Epidemien auslöst,</li><li>wie die australische Krankenpflegerin Elizabeth Kenny um 1910 das erste Mal auf Kinder mit Polio trifft, </li><li>vom Gründungsmythos der Kenny-Methode,</li><li>dass Elizabeth Kenny ihre eigene Lebensgeschichte etliche Male aufhübscht.</li></ul><br>In den 1940er-Jahren gehen Bilder von Kindern durch die Medien, deren Körper mit Schienen und Gurten auf Metallrahmen fixiert sind. Der Name hinter dem Grauen lautet: Poliomyelitis - auch bekannt als Kinderlähmung oder einfach Polio. Besonders große Ausmaße erreichen die Ausbrüche in den USA in den 1940er- und 50er-Jahren. <br><br>In dieser ungewissen Zeit setzen mehr und mehr Menschen ihre Hoffnung in eine über 60 Jahre alte Frau: Elizabeth Kenny. Keine Ärztin, keine Wissenschaftlerin, sondern eine Krankenpflegerin aus dem Hinterland Australiens. Kenny wird zur Heilsfigur von Millionen von Eltern und zu einer der prominentesten Frauen in den USA. Sie verändert die Behandlung von Menschen mit Polio nachhaltig.<br><br>Kenny setzt auf Wärme und gezielte Bewegungsübungen, also auf Physiotherapie. Viele Ärzte sind misstrauisch. Einige bezeichnen sie als Spinnerin, andere beschweren sich über ihren Charakter. Trotzdem verändert Kenny die Behandlung von Menschen mit Polio und verschafft damit auch Physiotherapeuten größere Anerkennung.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br>• Naomi Rogers, Medizinhistorikerin<br>Naomi Rogers: Polio Wars: Sister Kenny and the Golden Age of American Medicine. New York: Oxford University Press. 2013.<br>• Allan Hildon: The Woman Who Invented Herself: An Interdisciplinary Exploration of the Construction of Elizabeth Kenny’s Polio Treatment Discovery Story. PhD thesis, University of Essex. 2019.<br>• Victor Cohn: Sister Kenny: The Woman Who Challenged the Doctors. Minneapolis: University of Minnesota Press. 1975 <br><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag8264.html\" rel=\"noopener\" target=\"_blank\">26. April 1954 - Massenimpfungen gegen Polio in den USA beginnen</a></li><li>Zeitzeichen: <a href=\"https://www.ndr.de/geschichte/chronologie/Polio-Ein-Mittel-gegen-die-verheerende-Infektion,audio200737.html\" rel=\"noopener\" target=\"_blank\">26. April 1954 - Polio: Ein Mittel gegen die verheerende Infektion</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag8602.html\" rel=\"noopener\" target=\"_blank\">14. September 1929 - Eiserne Lunge wird erstmals vorgestellt</a></li><li>Sister Kenny Memorial Project Committee: <a href=\"https://www.abc.net.au/news/2022-10-31/bush-nurse-honoured-for-pioneering-polio-treatment/101592086\" rel=\"noopener\" target=\"_blank\">Lehrvideo von Elizabeth Kenny</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/medizin/impfung/krankheiten-impfen-100.html\" rel=\"noopener\" target=\"_blank\">Impfungen - Schutz gegen Krankheiten</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Kolja Sand<br>Redaktion: Jakob Schiffer, Sefa Inci Suvak<br>Technik: Moritz Raestrup",
-    "date": "2026-09-20T04:00:57.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wie-eine-krankenpflegerin-die-polio-behandlung-revolutionierte-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-elizabeth-kenny-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/09/0beb41bb-663c-45a4-a7e7-755caee2d597/0beb41bb-663c-45a4-a7e7-755caee2d597_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-8984010521289395",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Gehört zur ersten Riege deutscher Schauspieler: Benno Fürmann",
-    "summary": "Mit der finalen fünften Staffel ist die Mammutserie \"Babylon Berlin\" im Jahr 1933 angekommen - und Benno Fürmann ist darin aktuell wieder als skrupelloser und rechtsextremer Regierungsrat Oberst Wendt zu sehen. Wie er den sinistren Charakter verkörpert, belegt einmal mehr, dass Fürmann zur ersten Riege deutscher Schauspieler gehört. Auf dem Roten Sofa wird Benno Fürmann auch über sein Engagement für den Umweltschutz berichten.",
-    "date": "2026-09-19T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspieler-benno-fuermann,audio-3488388.html",
-    "image": "https://images.ndr.de/image/4289e628-a9a5-476d-9b0c-488dec467e04/AAABoLq22ys/AAABnSStX0g/1x1-big/screenshot-230846.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0920/AU-20260920-2041-2900.mp3",
-    "duration": "41 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   }

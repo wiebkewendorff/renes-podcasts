@@ -1,5 +1,159 @@
 [
   {
+    "id": "dlf-kultur-heute:35118801-c265-54aa-8b61-e03bcd43e172",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 22.09.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/kulturmeldungen_22092026_dlf_20260922_1756_6fe8c997.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:eeb09d2e-d6bb-57c0-85c6-7a4d12837492",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Van Gogh, Hodler und ein Cabriolet\" - Sammlerin Gertrud Dübi-Müller in Basel",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/van-gogh-hodler-und-ein-cabriolet-sammlerin-gertrud-duebi-mueller-in-basel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/van_gogh_hodler_und_ein_cabriolet_sammlerin_gertrud_duebi_dlf_20260922_1751_d4e6a027.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7fb4e860-6236-5fb6-b0d3-9f99d2e2900c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach der Berlin-Wahl - Christophe Knoch über Perspektiven für die Kulturpolitik",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:43:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-der-berlin-wahl-christophe-knoch-ueber-perspektiven-fuer-die-kulturpolitik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/nach_der_berlin_wahl_christophe_knoch_ueber_perspektiven_dlf_20260922_1743_e7e53b59.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:93af6ccd-cb19-55a1-bd11-ec7d206e5f3e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Lücken\" - Schriftstellerin Shida Bazyar erhält Wilhelm-Raabe-Literaturpreis",
+    "summary": "Porombka, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-luecken-schriftstellerin-shida-bazyar-erhaelt-wilhelm-raabe-literaturpreis-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/die_luecken_schriftstellerin_shida_bazyar_erhaelt_wilhelm_dlf_20260922_1736_17e333f4.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b7bfec3b-0ed7-5362-b50e-8ff5666715b0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sammelband \"Der Körper im HipHop\" - Physis als Zentrum der HipHop-Kultur",
+    "summary": "Luerweg, Susanne; Frost, Friederike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sammelband-der-koerper-im-hiphop-physis-als-zentrum-der-hiphop-kultur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/sammelband_der_koerper_im_hiphop_physis_als_zentrum_der_dlf_20260922_1515_ddda3802.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8b456081-c15d-5a37-a360-7e342eee4a76",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Comic \"Gib nicht auf!\" - Birgit Weyhe illustriert die Verfolgung einer Jesidin",
+    "summary": "Heinze, Andrea www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:08:32.000Z",
+    "url": "https://www.deutschlandfunk.de/comic-gib-nicht-auf-birgit-weyhe-illustriert-die-verfolgung-einer-jesidin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/comic_gib_nicht_auf_birgit_weyhe_illustriert_die_verfolgung_dlf_20260922_1508_6664ce78.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:5fd1a590-0beb-52f9-b309-d373093249d8",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -283,110 +437,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:4c88221c-43f4-5e8f-b03d-22c2aa90b05c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Holländerinnen\" - Elmigers Roman kommt in Magdeburg auf die Bühne",
-    "summary": "Koch, Vincent www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:41:50.000Z",
-    "url": "https://www.deutschlandfunk.de/die-hollaenderinnen-elmigers-roman-kommt-in-magdeburg-auf-die-buehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/die_hollaenderinnen_elmigers_roman_kommt_in_magdeburg_auf_dlf_20260920_1741_32a9d840.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:142cd4d8-bdf3-5521-b247-7b0dc861d115",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mittwoch aus Licht\" - Susanne Kennedy inszeniert Stockhausen in Berlin",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:35:45.000Z",
-    "url": "https://www.deutschlandfunk.de/mittwoch-aus-licht-susanne-kennedy-inszeniert-stockhausen-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/mittwoch_aus_licht_susanne_kennedy_inszeniert_stockhausen_in_dlf_20260920_1735_74a8abf5.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0730f1fe-f60c-55aa-804f-ffd12242064e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 19.09.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-19T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/kulturmeldungen_19092026_dlf_20260919_1757_c97d4c9a.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e11b1121-4a73-5eaf-8a39-e51e56c13b0e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Was Mecklenburg-Vorpommerns Kinsoszene vor der Wahl beschäftigt",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-19T15:52:30.000Z",
-    "url": "https://www.deutschlandfunk.de/was-mecklenburg-vorpommerns-kinsoszene-vor-der-wahl-beschaeftigt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/was_mecklenburg_vorpommerns_kinsoszene_vor_der_wahl_dlf_20260919_1752_de81abb6.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:aa85b335-1065-5370-b9b2-8d907949f44e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -498,31 +548,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/reeperbahnfestival_wie_clubs_mehr_geld_verdienen_koennten_dlf_20260918_1509_18da23bd.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:76a2b2c5-9d50-53cf-a7c7-8ca59689ffc5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Installation: Der Internet Explorer als begehbares Internet-Café",
-    "summary": "Terschüren, Hagen www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:07:06.000Z",
-    "url": "https://www.deutschlandfunk.de/installation-der-internet-explorer-als-begehbares-internet-caf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/installation_der_internet_explorer_als_begehbares_internet_dlf_20260918_1507_edd7f84c.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
@@ -755,31 +780,6 @@
       "Hörspiel",
       "Literatur",
       "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:319570a6-e292-51be-8ab7-1a07540aa8a0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Good Vibes Only: Wie viel Politik darf auf die Live-Bühne?",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-17T13:15:43.000Z",
-    "url": "https://www.deutschlandfunk.de/good-vibes-only-wie-viel-politik-darf-auf-die-live-buehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/good_vibes_only_wie_viel_politik_darf_auf_die_live_buehne_dlf_20260917_1515_c8e3b3f8.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

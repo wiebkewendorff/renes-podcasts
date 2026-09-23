@@ -1,5 +1,79 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4063845",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Bernhard Riemann und die Struktur der Zahlen",
+    "summary": "<p> </p>\n<p> </p>",
+    "date": "2026-09-23T03:00:24.000Z",
+    "url": "https://feedpress.me/link/19604/17470787/geschichten-aus-der-mathematik-bernhard-riemann",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26092300geschichtenausdermathematikbernhardriemann.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26092300geschichtenausdermathematikbernhardriemann.63.mp3",
+    "duration": "52 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b7bfec3b-0ed7-5362-b50e-8ff5666715b0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sammelband \"Der Körper im HipHop\" - Physis als Zentrum der HipHop-Kultur",
+    "summary": "Luerweg, Susanne; Frost, Friederike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sammelband-der-koerper-im-hiphop-physis-als-zentrum-der-hiphop-kultur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/sammelband_der_koerper_im_hiphop_physis_als_zentrum_der_dlf_20260922_1515_ddda3802.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8b456081-c15d-5a37-a360-7e342eee4a76",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Comic \"Gib nicht auf!\" - Birgit Weyhe illustriert die Verfolgung einer Jesidin",
+    "summary": "Heinze, Andrea www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:08:32.000Z",
+    "url": "https://www.deutschlandfunk.de/comic-gib-nicht-auf-birgit-weyhe-illustriert-die-verfolgung-einer-jesidin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/comic_gib_nicht_auf_birgit_weyhe_illustriert_die_verfolgung_dlf_20260922_1508_6664ce78.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-alles-gesagt:82b81ed3-8fde-4203-9664-d51ca9baed97",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -303,31 +377,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:76a2b2c5-9d50-53cf-a7c7-8ca59689ffc5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Installation: Der Internet Explorer als begehbares Internet-Café",
-    "summary": "Terschüren, Hagen www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:07:06.000Z",
-    "url": "https://www.deutschlandfunk.de/installation-der-internet-explorer-als-begehbares-internet-caf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/installation_der_internet_explorer_als_begehbares_internet_dlf_20260918_1507_edd7f84c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4054558",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -396,31 +445,6 @@
     "category": [
       "Wissenschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:319570a6-e292-51be-8ab7-1a07540aa8a0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Good Vibes Only: Wie viel Politik darf auf die Live-Bühne?",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-17T13:15:43.000Z",
-    "url": "https://www.deutschlandfunk.de/good-vibes-only-wie-viel-politik-darf-auf-die-live-buehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/good_vibes_only_wie_viel_politik_darf_auf_die_live_buehne_dlf_20260917_1515_c8e3b3f8.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -612,30 +636,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
     "duration": "28 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:297df801-28de-4160-9cd2-289656a175a6",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interview: Welche Bedeutung hat die Handmade-Szene heute, Jan Heine?",
-    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Jan Heine</strong> um die Rahmenbaumesse MADE in Portland/Oregon, wie relativ Erfolg sein kann und Charlie Cunningham.</p>\nFahrradeinzelstücke im Massenmarkt\n<p>Die meisten Fahrräder werden industriell hergestellt. In großen Fabriken entstehen Serienmodelle mit festen Spezifikationen. So rollen jährlich Millionen Fahrräder auf den Markt. Doch in der Fahrradwelt gibt es auch die Nische der handgebauten Einzelstücke — Fahrräder, deren Rahmen von Hand gebaut werden, auf einen speziellen Einsatzzweck und Kundenwunsch zugeschnitten. Solche Räder sieht man auf Rahmenbaumessen wie der „MADE“ in Portland/Oregon oder der „Bespoked“ in Dresden und anderen Städten.</p>\n<p>Die Szene der handgebauten Räder hat in der Vergangenheit immer wieder Impulse gesetzt. Besonders dann, wenn in der Serie keine große Vielfalt angeboten wurde. Doch die Marktbedingungen haben sich geändert, die Serienhersteller haben von der Experimentierfreude und Kreativität der Rahmenbauerinnen und Rahmenbauer gelernt und sich stark von ihnen inspirieren lassen. Am Massenmarkt findet sich heute eine sehr große Vielfalt. Verkaufsschlager wie das Gravelbike in all seinen Spielarten haben ihren Ursprung in der Welt des Custom-Rahmenbaus, also der Einzelstückfertigung.</p>\nJan Heine auf der MADE\n<p>Jan Heine aus Seattle ist zur diesjährigen Ausgabe der „MADE“ gefahren und hat sich dort umgeschaut. Jan stellt selbst keine Fahrräder her, produziert aber seit vielen Jahren das Magazin <em>Bicycle Quarterly</em> und unter seiner Marke „René Herse Cycles“ Fahrradkomponenten. Besonders bekannt ist die Marke für die frühe Entwicklung von breiten Reifen für renngelenkte Fahrräder. Auch dieser Markt ist in den letzten Jahren stark gewachsen und viele Hersteller haben den Trend adaptiert. Auch hier spielt das Gravelbike eine wichtige Rolle.</p>\nJan Heine im Gespräch\n<p>Wir sprechen einmal im Jahr mit Jan Heine, z.B. 2024 über Lenkgeometrien von Fahrrädern. Für diese Ausgabe hat Gerolf mit Jan über seine Eindrücke von der „MADE“, die Rolle des Einzelstückbaus auf dem Markt und darüber gesprochen, wie relativ Erfolg ist. Es geht außerdem um die Erinnerung an Charlie Cunningham und den immer wieder verfangenden Reiz des Radfahrens abseits des Asphalts.</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>\nPassend zu unseren Folgen könnt ihr hier unsere Spotify-Playlist hören:\n<p> </p>",
-    "date": "2026-09-11T03:00:57.000Z",
-    "url": "https://feedpress.me/link/19604/17444999/antritt-jan-heine-ueber-made-erfolg-mit-reifen-und-charlie-cunningham",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26091101antrittjanheine.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26091101antrittjanheine.63.mp3",
-    "duration": "55 Min",
     "tags": [
       "wissenschaft",
       "forschung",

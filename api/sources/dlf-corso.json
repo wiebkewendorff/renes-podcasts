@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:b7bfec3b-0ed7-5362-b50e-8ff5666715b0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sammelband \"Der Körper im HipHop\" - Physis als Zentrum der HipHop-Kultur",
+    "summary": "Luerweg, Susanne; Frost, Friederike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sammelband-der-koerper-im-hiphop-physis-als-zentrum-der-hiphop-kultur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/sammelband_der_koerper_im_hiphop_physis_als_zentrum_der_dlf_20260922_1515_ddda3802.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8b456081-c15d-5a37-a360-7e342eee4a76",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Comic \"Gib nicht auf!\" - Birgit Weyhe illustriert die Verfolgung einer Jesidin",
+    "summary": "Heinze, Andrea www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:08:32.000Z",
+    "url": "https://www.deutschlandfunk.de/comic-gib-nicht-auf-birgit-weyhe-illustriert-die-verfolgung-einer-jesidin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/comic_gib_nicht_auf_birgit_weyhe_illustriert_die_verfolgung_dlf_20260922_1508_6664ce78.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:8b77b1d8-e2c6-5552-9bda-3350168468f2",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -185,56 +235,6 @@
     "url": "https://www.deutschlandfunk.de/reeperbahnfestival-wie-clubs-mehr-geld-verdienen-koennten-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/reeperbahnfestival_wie_clubs_mehr_geld_verdienen_koennten_dlf_20260918_1509_18da23bd.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:76a2b2c5-9d50-53cf-a7c7-8ca59689ffc5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Installation: Der Internet Explorer als begehbares Internet-Café",
-    "summary": "Terschüren, Hagen www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:07:06.000Z",
-    "url": "https://www.deutschlandfunk.de/installation-der-internet-explorer-als-begehbares-internet-caf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/installation_der_internet_explorer_als_begehbares_internet_dlf_20260918_1507_edd7f84c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:319570a6-e292-51be-8ab7-1a07540aa8a0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Good Vibes Only: Wie viel Politik darf auf die Live-Bühne?",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-17T13:15:43.000Z",
-    "url": "https://www.deutschlandfunk.de/good-vibes-only-wie-viel-politik-darf-auf-die-live-buehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/good_vibes_only_wie_viel_politik_darf_auf_die_live_buehne_dlf_20260917_1515_c8e3b3f8.mp3?refId=corso-104",
     "duration": "6 Min",
     "tags": [
       "kultur",

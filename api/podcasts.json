@@ -1,5 +1,231 @@
 [
   {
+    "id": "zeitzeichen:67a675d97c92b340d8e5a8f6f832523e",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Wie eine Expedition die USA erweitern sollte",
+    "summary": "Durchschlagen bis zum Pazifik: Das war das Ziel der Lewis-und-Clark-Expedition, die am 23.9.1806 zu Ende ging. Die Crew sollte den Westen der USA erkunden und stieß dabei auf einige Probleme.",
+    "date": "2026-09-23T04:00:26.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wie-eine-expedition-die-usa-erweitern-sollte-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-lewis-clark-expedition-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/1f14546d-a44f-40b2-bb54-0cba8b7d6246/1f14546d-a44f-40b2-bb54-0cba8b7d6246_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4063845",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Bernhard Riemann und die Struktur der Zahlen",
+    "summary": "<p> </p>\n<p> </p>",
+    "date": "2026-09-23T03:00:24.000Z",
+    "url": "https://feedpress.me/link/19604/17470787/geschichten-aus-der-mathematik-bernhard-riemann",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26092300geschichtenausdermathematikbernhardriemann.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26092300geschichtenausdermathematikbernhardriemann.63.mp3",
+    "duration": "52 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-917158317693886",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Bestsellerautorin Caroline Wahl im Talk mit Ilka Petersen",
+    "summary": "Sie verrät, wie es sich anfühlt, mit 31 Jahren zu einer der meistdiskutierten Stimmen der deutschsprachigen Literatur zu gehören.",
+    "date": "2026-09-22T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/bestsellerautorin-caroline-wahl-im-talk-mit-ilka-petersen,audio-3492906.html",
+    "image": "https://images.ndr.de/image/5dd05058-f693-4429-905e-de261eb77387/AAABoMoxVdY/AAABnSStX0g/1x1-big/screenshot-232386.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0922/AU-20260922-2116-3400.mp3",
+    "duration": "34 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:35118801-c265-54aa-8b61-e03bcd43e172",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 22.09.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/kulturmeldungen_22092026_dlf_20260922_1756_6fe8c997.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:eeb09d2e-d6bb-57c0-85c6-7a4d12837492",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Van Gogh, Hodler und ein Cabriolet\" - Sammlerin Gertrud Dübi-Müller in Basel",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/van-gogh-hodler-und-ein-cabriolet-sammlerin-gertrud-duebi-mueller-in-basel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/van_gogh_hodler_und_ein_cabriolet_sammlerin_gertrud_duebi_dlf_20260922_1751_d4e6a027.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7fb4e860-6236-5fb6-b0d3-9f99d2e2900c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach der Berlin-Wahl - Christophe Knoch über Perspektiven für die Kulturpolitik",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:43:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-der-berlin-wahl-christophe-knoch-ueber-perspektiven-fuer-die-kulturpolitik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/nach_der_berlin_wahl_christophe_knoch_ueber_perspektiven_dlf_20260922_1743_e7e53b59.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:93af6ccd-cb19-55a1-bd11-ec7d206e5f3e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Lücken\" - Schriftstellerin Shida Bazyar erhält Wilhelm-Raabe-Literaturpreis",
+    "summary": "Porombka, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-22T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-luecken-schriftstellerin-shida-bazyar-erhaelt-wilhelm-raabe-literaturpreis-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/die_luecken_schriftstellerin_shida_bazyar_erhaelt_wilhelm_dlf_20260922_1736_17e333f4.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b7bfec3b-0ed7-5362-b50e-8ff5666715b0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sammelband \"Der Körper im HipHop\" - Physis als Zentrum der HipHop-Kultur",
+    "summary": "Luerweg, Susanne; Frost, Friederike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sammelband-der-koerper-im-hiphop-physis-als-zentrum-der-hiphop-kultur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/sammelband_der_koerper_im_hiphop_physis_als_zentrum_der_dlf_20260922_1515_ddda3802.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8b456081-c15d-5a37-a360-7e342eee4a76",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Comic \"Gib nicht auf!\" - Birgit Weyhe illustriert die Verfolgung einer Jesidin",
+    "summary": "Heinze, Andrea www.deutschlandfunk.de, Corso",
+    "date": "2026-09-22T13:08:32.000Z",
+    "url": "https://www.deutschlandfunk.de/comic-gib-nicht-auf-birgit-weyhe-illustriert-die-verfolgung-einer-jesidin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/comic_gib_nicht_auf_birgit_weyhe_illustriert_die_verfolgung_dlf_20260922_1508_6664ce78.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-alles-gesagt:82b81ed3-8fde-4203-9664-d51ca9baed97",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -148,6 +374,31 @@
       "Kunst",
       "Geschichte",
       "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-06920175193657752",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Journalistin und Autorin Marieke Reimann über den Tag nach den Wahlen",
+    "summary": "Der Tag nach den Wahlen: Was sagen die Ergebnisse über den Zustand unserer Demokratie? Marieke Reimann dazu auf dem Roten Sofa.",
+    "date": "2026-09-21T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/journalistin-und-autorin-marieke-reimann-ueber-tag-nach-wahlen,audio-3491564.html",
+    "image": "https://images.ndr.de/image/77ec3052-4d2d-4462-b4ce-fdf76ccc6f5b/AAABoMTqB0o/AAABnSStX0g/1x1-big/screenshot-231820.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0922/AU-20260922-1053-2200.mp3",
+    "duration": "39 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
     ],
     "language": "de"
   },
@@ -406,58 +657,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:4c88221c-43f4-5e8f-b03d-22c2aa90b05c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Holländerinnen\" - Elmigers Roman kommt in Magdeburg auf die Bühne",
-    "summary": "Koch, Vincent www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:41:50.000Z",
-    "url": "https://www.deutschlandfunk.de/die-hollaenderinnen-elmigers-roman-kommt-in-magdeburg-auf-die-buehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/die_hollaenderinnen_elmigers_roman_kommt_in_magdeburg_auf_dlf_20260920_1741_32a9d840.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:142cd4d8-bdf3-5521-b247-7b0dc861d115",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mittwoch aus Licht\" - Susanne Kennedy inszeniert Stockhausen in Berlin",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:35:45.000Z",
-    "url": "https://www.deutschlandfunk.de/mittwoch-aus-licht-susanne-kennedy-inszeniert-stockhausen-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/mittwoch_aus_licht_susanne_kennedy_inszeniert_stockhausen_in_dlf_20260920_1735_74a8abf5.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeitzeichen:b932623a74938220788246c83be82f9b",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -502,58 +701,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0730f1fe-f60c-55aa-804f-ffd12242064e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 19.09.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-19T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/kulturmeldungen_19092026_dlf_20260919_1757_c97d4c9a.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e11b1121-4a73-5eaf-8a39-e51e56c13b0e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Was Mecklenburg-Vorpommerns Kinsoszene vor der Wahl beschäftigt",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-19T15:52:30.000Z",
-    "url": "https://www.deutschlandfunk.de/was-mecklenburg-vorpommerns-kinsoszene-vor-der-wahl-beschaeftigt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/was_mecklenburg_vorpommerns_kinsoszene_vor_der_wahl_dlf_20260919_1752_de81abb6.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -717,31 +864,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/reeperbahnfestival_wie_clubs_mehr_geld_verdienen_koennten_dlf_20260918_1509_18da23bd.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:76a2b2c5-9d50-53cf-a7c7-8ca59689ffc5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Installation: Der Internet Explorer als begehbares Internet-Café",
-    "summary": "Terschüren, Hagen www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:07:06.000Z",
-    "url": "https://www.deutschlandfunk.de/installation-der-internet-explorer-als-begehbares-internet-caf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/installation_der_internet_explorer_als_begehbares_internet_dlf_20260918_1507_edd7f84c.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
@@ -1098,31 +1220,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:319570a6-e292-51be-8ab7-1a07540aa8a0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Good Vibes Only: Wie viel Politik darf auf die Live-Bühne?",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-17T13:15:43.000Z",
-    "url": "https://www.deutschlandfunk.de/good-vibes-only-wie-viel-politik-darf-auf-die-live-buehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/good_vibes_only_wie_viel_politik_darf_auf_die_live_buehne_dlf_20260917_1515_c8e3b3f8.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4059367",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -1316,31 +1413,6 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-9461233573144355",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Gründer der \"Arche Hamburg\" Tobias Lucht",
-    "summary": "Tobias Lucht engagiert sich seit vielen Jahren unermüdlich im Kampf gegen Kinderarmut. Anfang der 2000er-Jahre gründete er \"Die Arche Hamburg\", um Kindern aus sozial benachteiligten Verhältnissen eine sichere Anlaufstelle zu bieten. Im Mittelpunkt seiner täglichen Arbeit steht die ganzheitliche Versorgung von hunderten Heranwachsenden, die dort kostenlose Mahlzeiten und eine verlässliche Gemeinschaft erhalten. In diesem Jahr feiert die das Erfolgsprojekt sein 20-jähriges Bestehen - und wir feiern mit Tobias Lucht auf dem Roten Sofa mit.",
-    "date": "2026-09-15T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/gruender-der-arche-hamburg-tobias-lucht,audio-3479820.html",
-    "image": "https://images.ndr.de/image/b225880b-ecfd-43bc-8b8f-2004b4038421/AAABoKZsAyc/AAABnSStX0g/1x1-big/screenshot-228384.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0916/AU-20260916-0820-2400.mp3",
-    "duration": "35 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeitzeichen:f7c6abc932ab53212e05c8898eb2af94",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -1467,31 +1539,6 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-9295324107847941",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Schlägt musikalisch leise Töne an: Comedian und Musiker Bülent Ceylan",
-    "summary": "Auf dem Roten Sofa erzählt er, zu welcher Gelegenheit er zu Hause strammstehen muss. Außerdem schlägt er musikalisch leise Töne an.",
-    "date": "2026-09-14T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schlaegt-musikalisch-leise-toene-an-comedian-und-musiker-buelent-ceylan,audio-3476986.html",
-    "image": "https://images.ndr.de/image/89d92d53-0e6f-43af-9dd8-b244885b895e/AAABoKEjJ64/AAABnSStX0g/1x1-big/screenshot-227540.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0914/AU-20260914-2255-0300.mp3",
-    "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeitzeichen:f9c8bb3ca2bedc58c1b0b2e70bf7af56",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -1502,29 +1549,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-dante-alighieri-wie-die-hoelle-einen-dichter-unsterblich-macht-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-dante-alighieri-102~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/01/03ecfcf1-6285-404d-a1d2-3e56203bbdf9/03ecfcf1-6285-404d-a1d2-3e56203bbdf9_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:be0287d2b2561add8c0582e4a6e80cc1",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Albert Einstein und Mileva Marić: Eine Lovestory ohne Happy End",
-    "summary": "<p>1896 beginnt die Liebesgeschichte von Mileva Marić und Albert Einstein. Sie forschen gemeinsam. Dann zerbricht die Beziehung: ihre Liebesbriefe enthüllen Geheimnisse.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martina Meißner:</strong><br><ul><li>wie ein sensationeller Brieffund 1986 völlig neue Einblicke in Einsteins Privatleben liefert,</li><li>warum Mileva Marić zu den ersten Physikstudentinnen im deutschsprachigen Raum gehört,</li><li>welches lange verborgene Familiengeheimnis erst durch die Liebesbriefe bekannt wird,</li><li>weshalb Milevas Anteil an Einsteins wissenschaftlichem Werk bis heute umstritten ist,</li><li>mit welcher Taktik Mileva bei der Scheidung ihre Zukunft absichert.</li></ul><br>Albert Einstein und Mileva Marić lernen sich 1896 am Polytechnikum in Zürich kennen. Aus einem zunächst fachlichen Austausch über Physik und Mathematik entwickelt sich eine intensive Liebesbeziehung. Die erhaltenen Briefe zeigen zwei junge Menschen, die gemeinsam diskutieren, musizieren und von einer Zukunft als gleichberechtigte Partner träumen.<br><br>Doch auf die unbeschwerte Studienzeit folgen Rückschläge, familiäre Widerstände und zunehmende Spannungen. Während Einstein wissenschaftlich immer erfolgreicher wird, verändert sich das Verhältnis der beiden grundlegend. Erst Jahrzehnte später ermöglichen die wiederentdeckten Briefe einen neuen Blick auf ihre Beziehung.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Anne-Kathrin Kilg-Meyer (Autorin und Scheidungsanwältin)</li><li>Anne-Kathrin Kilg-Meyer: Wie sich Mileva Einstein Alberts Nobelpreisgeld sicherte. München 2025</li><li>Albert Einstein und Mileva Marić: Am Sonntag küss ich Dich mündlich. Die Liebesbriefe 1897-1903. München 1992</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 24.03.1934: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-albert-einstein-ausbuergerung-100.html\" rel=\"noopener\" target=\"_blank\">Albert Einstein wird die deutsche Staatsbürgerschaft aberkannt</a></li><li>Zeitzeichen 09.07.1955: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/russell-einstein-100.html\" rel=\"noopener\" target=\"_blank\">Das Russell-Einstein-Manifest wird veröffentlicht</a></li><li>Bayern 2: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:7b42921e9bd82b91/\" rel=\"noopener\" target=\"_blank\">Mileva Marić - Die Frau hinter Einsteins Relativitätstheorie?</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und der Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Martina Meißner<br>Redaktion: Matti Hesse",
-    "date": "2026-09-13T04:00:02.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-albert-einstein-und-mileva-maric-eine-lovestory-ohne-happy-end-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-einstein-maric-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/02/c03ea006-9388-405d-9096-7e8a8d1663aa/c03ea006-9388-405d-9096-7e8a8d1663aa_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
@@ -1633,30 +1657,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
     "duration": "28 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:297df801-28de-4160-9cd2-289656a175a6",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interview: Welche Bedeutung hat die Handmade-Szene heute, Jan Heine?",
-    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Jan Heine</strong> um die Rahmenbaumesse MADE in Portland/Oregon, wie relativ Erfolg sein kann und Charlie Cunningham.</p>\nFahrradeinzelstücke im Massenmarkt\n<p>Die meisten Fahrräder werden industriell hergestellt. In großen Fabriken entstehen Serienmodelle mit festen Spezifikationen. So rollen jährlich Millionen Fahrräder auf den Markt. Doch in der Fahrradwelt gibt es auch die Nische der handgebauten Einzelstücke — Fahrräder, deren Rahmen von Hand gebaut werden, auf einen speziellen Einsatzzweck und Kundenwunsch zugeschnitten. Solche Räder sieht man auf Rahmenbaumessen wie der „MADE“ in Portland/Oregon oder der „Bespoked“ in Dresden und anderen Städten.</p>\n<p>Die Szene der handgebauten Räder hat in der Vergangenheit immer wieder Impulse gesetzt. Besonders dann, wenn in der Serie keine große Vielfalt angeboten wurde. Doch die Marktbedingungen haben sich geändert, die Serienhersteller haben von der Experimentierfreude und Kreativität der Rahmenbauerinnen und Rahmenbauer gelernt und sich stark von ihnen inspirieren lassen. Am Massenmarkt findet sich heute eine sehr große Vielfalt. Verkaufsschlager wie das Gravelbike in all seinen Spielarten haben ihren Ursprung in der Welt des Custom-Rahmenbaus, also der Einzelstückfertigung.</p>\nJan Heine auf der MADE\n<p>Jan Heine aus Seattle ist zur diesjährigen Ausgabe der „MADE“ gefahren und hat sich dort umgeschaut. Jan stellt selbst keine Fahrräder her, produziert aber seit vielen Jahren das Magazin <em>Bicycle Quarterly</em> und unter seiner Marke „René Herse Cycles“ Fahrradkomponenten. Besonders bekannt ist die Marke für die frühe Entwicklung von breiten Reifen für renngelenkte Fahrräder. Auch dieser Markt ist in den letzten Jahren stark gewachsen und viele Hersteller haben den Trend adaptiert. Auch hier spielt das Gravelbike eine wichtige Rolle.</p>\nJan Heine im Gespräch\n<p>Wir sprechen einmal im Jahr mit Jan Heine, z.B. 2024 über Lenkgeometrien von Fahrrädern. Für diese Ausgabe hat Gerolf mit Jan über seine Eindrücke von der „MADE“, die Rolle des Einzelstückbaus auf dem Markt und darüber gesprochen, wie relativ Erfolg ist. Es geht außerdem um die Erinnerung an Charlie Cunningham und den immer wieder verfangenden Reiz des Radfahrens abseits des Asphalts.</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>\nPassend zu unseren Folgen könnt ihr hier unsere Spotify-Playlist hören:\n<p> </p>",
-    "date": "2026-09-11T03:00:57.000Z",
-    "url": "https://feedpress.me/link/19604/17444999/antritt-jan-heine-ueber-made-erfolg-mit-reifen-und-charlie-cunningham",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26091101antrittjanheine.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26091101antrittjanheine.63.mp3",
-    "duration": "55 Min",
     "tags": [
       "wissenschaft",
       "forschung",

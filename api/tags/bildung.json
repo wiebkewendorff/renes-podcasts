@@ -1,5 +1,52 @@
 [
   {
+    "id": "zeitzeichen:67a675d97c92b340d8e5a8f6f832523e",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Wie eine Expedition die USA erweitern sollte",
+    "summary": "Durchschlagen bis zum Pazifik: Das war das Ziel der Lewis-und-Clark-Expedition, die am 23.9.1806 zu Ende ging. Die Crew sollte den Westen der USA erkunden und stieß dabei auf einige Probleme.",
+    "date": "2026-09-23T04:00:26.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wie-eine-expedition-die-usa-erweitern-sollte-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-lewis-clark-expedition-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/1f14546d-a44f-40b2-bb54-0cba8b7d6246/1f14546d-a44f-40b2-bb54-0cba8b7d6246_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4063845",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Bernhard Riemann und die Struktur der Zahlen",
+    "summary": "<p> </p>\n<p> </p>",
+    "date": "2026-09-23T03:00:24.000Z",
+    "url": "https://feedpress.me/link/19604/17470787/geschichten-aus-der-mathematik-bernhard-riemann",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26092300geschichtenausdermathematikbernhardriemann.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26092300geschichtenausdermathematikbernhardriemann.63.mp3",
+    "duration": "52 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-alles-gesagt:82b81ed3-8fde-4203-9664-d51ca9baed97",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -528,29 +575,6 @@
     "language": "de"
   },
   {
-    "id": "zeitzeichen:be0287d2b2561add8c0582e4a6e80cc1",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Albert Einstein und Mileva Marić: Eine Lovestory ohne Happy End",
-    "summary": "<p>1896 beginnt die Liebesgeschichte von Mileva Marić und Albert Einstein. Sie forschen gemeinsam. Dann zerbricht die Beziehung: ihre Liebesbriefe enthüllen Geheimnisse.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martina Meißner:</strong><br><ul><li>wie ein sensationeller Brieffund 1986 völlig neue Einblicke in Einsteins Privatleben liefert,</li><li>warum Mileva Marić zu den ersten Physikstudentinnen im deutschsprachigen Raum gehört,</li><li>welches lange verborgene Familiengeheimnis erst durch die Liebesbriefe bekannt wird,</li><li>weshalb Milevas Anteil an Einsteins wissenschaftlichem Werk bis heute umstritten ist,</li><li>mit welcher Taktik Mileva bei der Scheidung ihre Zukunft absichert.</li></ul><br>Albert Einstein und Mileva Marić lernen sich 1896 am Polytechnikum in Zürich kennen. Aus einem zunächst fachlichen Austausch über Physik und Mathematik entwickelt sich eine intensive Liebesbeziehung. Die erhaltenen Briefe zeigen zwei junge Menschen, die gemeinsam diskutieren, musizieren und von einer Zukunft als gleichberechtigte Partner träumen.<br><br>Doch auf die unbeschwerte Studienzeit folgen Rückschläge, familiäre Widerstände und zunehmende Spannungen. Während Einstein wissenschaftlich immer erfolgreicher wird, verändert sich das Verhältnis der beiden grundlegend. Erst Jahrzehnte später ermöglichen die wiederentdeckten Briefe einen neuen Blick auf ihre Beziehung.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Anne-Kathrin Kilg-Meyer (Autorin und Scheidungsanwältin)</li><li>Anne-Kathrin Kilg-Meyer: Wie sich Mileva Einstein Alberts Nobelpreisgeld sicherte. München 2025</li><li>Albert Einstein und Mileva Marić: Am Sonntag küss ich Dich mündlich. Die Liebesbriefe 1897-1903. München 1992</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 24.03.1934: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-albert-einstein-ausbuergerung-100.html\" rel=\"noopener\" target=\"_blank\">Albert Einstein wird die deutsche Staatsbürgerschaft aberkannt</a></li><li>Zeitzeichen 09.07.1955: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/russell-einstein-100.html\" rel=\"noopener\" target=\"_blank\">Das Russell-Einstein-Manifest wird veröffentlicht</a></li><li>Bayern 2: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:7b42921e9bd82b91/\" rel=\"noopener\" target=\"_blank\">Mileva Marić - Die Frau hinter Einsteins Relativitätstheorie?</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und der Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Martina Meißner<br>Redaktion: Matti Hesse",
-    "date": "2026-09-13T04:00:02.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-albert-einstein-und-mileva-maric-eine-lovestory-ohne-happy-end-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-einstein-maric-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/02/c03ea006-9388-405d-9096-7e8a8d1663aa/c03ea006-9388-405d-9096-7e8a8d1663aa_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4054720",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -562,30 +586,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
     "duration": "28 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:297df801-28de-4160-9cd2-289656a175a6",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interview: Welche Bedeutung hat die Handmade-Szene heute, Jan Heine?",
-    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Jan Heine</strong> um die Rahmenbaumesse MADE in Portland/Oregon, wie relativ Erfolg sein kann und Charlie Cunningham.</p>\nFahrradeinzelstücke im Massenmarkt\n<p>Die meisten Fahrräder werden industriell hergestellt. In großen Fabriken entstehen Serienmodelle mit festen Spezifikationen. So rollen jährlich Millionen Fahrräder auf den Markt. Doch in der Fahrradwelt gibt es auch die Nische der handgebauten Einzelstücke — Fahrräder, deren Rahmen von Hand gebaut werden, auf einen speziellen Einsatzzweck und Kundenwunsch zugeschnitten. Solche Räder sieht man auf Rahmenbaumessen wie der „MADE“ in Portland/Oregon oder der „Bespoked“ in Dresden und anderen Städten.</p>\n<p>Die Szene der handgebauten Räder hat in der Vergangenheit immer wieder Impulse gesetzt. Besonders dann, wenn in der Serie keine große Vielfalt angeboten wurde. Doch die Marktbedingungen haben sich geändert, die Serienhersteller haben von der Experimentierfreude und Kreativität der Rahmenbauerinnen und Rahmenbauer gelernt und sich stark von ihnen inspirieren lassen. Am Massenmarkt findet sich heute eine sehr große Vielfalt. Verkaufsschlager wie das Gravelbike in all seinen Spielarten haben ihren Ursprung in der Welt des Custom-Rahmenbaus, also der Einzelstückfertigung.</p>\nJan Heine auf der MADE\n<p>Jan Heine aus Seattle ist zur diesjährigen Ausgabe der „MADE“ gefahren und hat sich dort umgeschaut. Jan stellt selbst keine Fahrräder her, produziert aber seit vielen Jahren das Magazin <em>Bicycle Quarterly</em> und unter seiner Marke „René Herse Cycles“ Fahrradkomponenten. Besonders bekannt ist die Marke für die frühe Entwicklung von breiten Reifen für renngelenkte Fahrräder. Auch dieser Markt ist in den letzten Jahren stark gewachsen und viele Hersteller haben den Trend adaptiert. Auch hier spielt das Gravelbike eine wichtige Rolle.</p>\nJan Heine im Gespräch\n<p>Wir sprechen einmal im Jahr mit Jan Heine, z.B. 2024 über Lenkgeometrien von Fahrrädern. Für diese Ausgabe hat Gerolf mit Jan über seine Eindrücke von der „MADE“, die Rolle des Einzelstückbaus auf dem Markt und darüber gesprochen, wie relativ Erfolg ist. Es geht außerdem um die Erinnerung an Charlie Cunningham und den immer wieder verfangenden Reiz des Radfahrens abseits des Asphalts.</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>\nPassend zu unseren Folgen könnt ihr hier unsere Spotify-Playlist hören:\n<p> </p>",
-    "date": "2026-09-11T03:00:57.000Z",
-    "url": "https://feedpress.me/link/19604/17444999/antritt-jan-heine-ueber-made-erfolg-mit-reifen-und-charlie-cunningham",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26091101antrittjanheine.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/26091101antrittjanheine.63.mp3",
-    "duration": "55 Min",
     "tags": [
       "wissenschaft",
       "forschung",
