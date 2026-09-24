@@ -1,5 +1,104 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4062995",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "KI-gestützte Katalysatorforschung - Wie KI die Chemieindustrie unabängiger macht",
+    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem Helmholtz-Zentrum Berlin\nOhne Katalysatoren geht gar nichts\n<p>Katalysatoren sind nicht nur im Auto verbaut, sie sind auch für andere Produkte unerlässlich — von Medikamenten über Dünger bis zu Kosmetik. Diese alltäglichen Dinge werden aus Basischemikalien hergestellt wie Methanol, Ethylen, Propylen oder Ammoniak. Diese Grundstoffe herzustellen, ist sehr energieintensiv. Deshalb spielen bei den Herstellungsprozessen Katalysatoren eine zentrale Rolle. Sie beschleunigen die chemische Reaktion und machen Verfahren so energieeffizienter.</p>\nPartner aus Forschung und Industrie\n<p>Das Projekt ASCEND möchte die Entwicklung von Katalysatoren der nächsten Generation beschleunigen. Dahinter stecken mehrere Partner aus Forschung und Industrie — darunter das Helmholtz-Zentrum Berlin (HZB), Dunia Innovations und die Technische Universität Berlin.</p>\n<p>ASCEND führt zwei neue Ansätze zusammen: digitale Katalyse und Dünnschichtkatalysatoren. Dünnschichtkatalysatoren reduzieren den Materialverbrauch und verbessern die Effizienz. Die digitale Katalyse nutzt künstliche Intelligenz (KI), Simulationen und selbststeuernde Labore (Self-Driving Labs, kurz: SDLs), um Hochleistungsmaterialien schneller zu entwickeln, sagt Projektmanagerin Dr. Steffi Hlawenka.</p>\nTeure Materialien ersetzen\n<p>Die KI beschleunigt die Planung erheblich, sie kann Experimente vorschlagen, um bestimmte Materialkombinationen zu erforschen. Denn Katalysatoren bestehen oft aus kostspieligen Materialien wie Platin oder Iridium; ASCEND will diese Materialien beispielsweise durch Nickel oder Eisen ersetzen.</p>\n<p>Ziel dieser Forschung ist es, nachhaltige synthetische Kraftstoffe und Basischemikalien als Ersatzstoffe für die Industrie bereitzustellen, damit die industrielle Wettbewerbsfähigkeit — vor allem im Chemiesektor — erhalten bleibt.</p>",
+    "date": "2026-09-24T03:00:41.000Z",
+    "url": "https://feedpress.me/link/19604/17471898/forschungsquartett-ki-gestuetzte-katalysatorforschung",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260924forschungsquartettdigitalekatalyse.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260924forschungsquartettdigitalekatalyse.63.mp3",
+    "duration": "17 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:83ff0a37-c66b-5606-acc4-18fcfdc5e1e1",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dirndl in der Popkultur - Zwischen Tradition und Moderne_fin",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-09-23T13:10:12.000Z",
+    "url": "https://www.deutschlandfunk.de/dirndl-in-der-popkultur-zwischen-tradition-und-moderne-fin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/dirndl_in_der_popkultur_zwischen_tradition_und_moderne_fin_dlf_20260923_1510_289a69b1.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b2b01313-28a3-5b61-8aa2-cb46b4da3718",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme - Primetime, Das geträumte Abenteuer, Ein Nobody gegen Putin",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-09-23T13:08:16.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-primetime-das-getraeumte-abenteuer-ein-nobody-gegen-putin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/neue_filme_primetime_das_getraeumte_abenteuer_ein_nobody_dlf_20260923_1508_1798ad1b.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:90d87561-cde2-5a4c-a810-10fafc8cd3fe",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sicherer Feiern? - Was das neue KO-Tropfen Gesetz wirklich bringt",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-09-23T13:07:23.000Z",
+    "url": "https://www.deutschlandfunk.de/sicherer-feiern-was-das-neue-ko-tropfen-gesetz-wirklich-bringt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/sicherer_feiern_was_das_neue_ko_tropfen_gesetz_wirklich_dlf_20260923_1507_c39b8328.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4063845",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -302,81 +401,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:dafed674-f416-5586-9c25-3a9cc5cc67da",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Band Nachtkinder im Gespräch über ihr Debütalbum und Emotionalität im Pop",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-19T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-band-nachtkinder-im-gespraech-ueber-ihr-debuetalbum-und-emotionalitaet-im-pop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/die_band_nachtkinder_im_gespraech_ueber_ihr_debuetalbum_und_dlf_20260919_1520_ef082ff6.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1f11726b-82d7-5583-b2bb-dd9b36ee1393",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Annekathrin Kohout über die Geschichte des Einhorns vom Fabelwesen zum Meme",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/annekathrin-kohout-ueber-die-geschichte-des-einhorns-vom-fabelwesen-zum-meme-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/annekathrin_kohout_ueber_die_geschichte_des_einhorns_vom_dlf_20260918_1515_76d479fe.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:739090ff-5d98-544d-8560-8ad33894ee94",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Reeperbahnfestival - Wie Clubs mehr Geld verdienen könnten",
-    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:09:34.000Z",
-    "url": "https://www.deutschlandfunk.de/reeperbahnfestival-wie-clubs-mehr-geld-verdienen-koennten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/reeperbahnfestival_wie_clubs_mehr_geld_verdienen_koennten_dlf_20260918_1509_18da23bd.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4054558",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -621,30 +645,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4054720",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Das Beste und das Schlechteste an Familienunternehmen: die Familie",
-    "summary": "<b>Hunderttausende Unternehmensnachfolgen</b>\n<p>Unternehmen können deutlich älter als Menschen werden. Doch das bedeutet auch: Die Führung muss zwangsläufig wechseln. Dieser Prozess ist kompliziert, denn hier müssen Menschen mit viel Erfahrung den Platz für andere freimachen, die vor allem Ideen mitbringen. In Deutschland steht dieser Führungsübergang allein bis 2030 für hunderttausende Unternehmen an. Er ist so vielschichtig, dass es dafür sogar Professuren gibt. Birgit Felden hat die Professur für Mittelstand und Unternehmensnachfolge an der Hochschule für Wirtschaft und Recht Berlin inne und ist in dieser Ausgabe des „brand eins Podcasts“ zu Gast. Sie sagt: „Es gibt so einen schönen Spruch: Neue Besen kehren gut, aber die alten wissen, wo der Dreck sitzt.“</p>\n<b>Birgit Felden über Übergaben</b>\n<p>In Filmen und Literatur gibt es ein Übergabeklischee: Der Firmenpatriarch übergibt sein Lebenswerk an den Nachwuchs — widerwillig und als Kontrollfreak, der immer wieder dazwischenfunkt. Laut Birgit Felden gibt es solche Übergaben, sie werden aber seltener. Dass das Thema komplex und manchmal auch konflikbehaftet ist, entspricht aber der Realität. Denn Unternehmensführung selbst ist ein komplexes Handwerk. Wer sich mit dem Resultat jahrzehntelanger Arbeit identifiziert, ist zwangsläufig skeptisch, wenn der Einfluss schwindet. Doch Unternehmensübergaben bergen immer auch Chancen, wenn eingefahrene Prozesse und Produkte sich mit neuen Ideen messen müssen. Ein übernommenes Unternehmen bringt außerdem beträchtliche Substanz mit — im Unterschied zu Neugründungen, die ausdauernd und mit viel Engagement aufgebaut werden müssen. „Wenn ich behutsam vorgehe, indem ich Bewährtes bewahre und nicht alles sofort ändern möchte, dann kann ich auf einen gewachsenen Organismus zugreifen. Das reduziert aus meiner Sicht das Risiko des Scheiterns erheblich“, so Felden.</p>\n<p>In der neuen Episode des „brand eins Podcasts“ spricht <i>detektor.fm-</i>Moderator <b>Christian Bollert</b> mit<strong> Birgit Felden</strong> darüber, welche Übergabeszenarien es gibt, welche Gefahren und Chancen darin liegen und wer ein Unternehmen übernehmen sollte — und wer besser nicht.</p>",
-    "date": "2026-09-11T03:10:21.000Z",
-    "url": "https://feedpress.me/link/19604/17444998/brand-eins-podcast-birgit-felden-familienunternehmen",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
-    "duration": "28 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
     ],
     "language": "de"
   },

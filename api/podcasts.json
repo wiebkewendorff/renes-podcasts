@@ -1,11 +1,288 @@
 [
   {
+    "id": "zeitzeichen:1f99738e7d20e685d8d287f181778669",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Paracelsus: Wie der \"Luther der Medizin\" das Heilen reformiert",
+    "summary": "<p>Paracelsus stellt die Medizin auf den Kopf. Statt auf die Lehren der Antike setzt er auf Erfahrung - und gerät so bis zu seinem Tod am 24.9.1541 ständig in Konflikte.\n</p><br><br><p><strong>In diesem Zeitzeichen erzählt Doris Arp:</strong><br><ul><li>warum an der Echtheit der überlieferten Paracelsus-Texte Zweifel bestehen,</li><li>wie Paracelsus vom Vater viel über Berufskrankheiten lernt,</li><li>wie der 15-jährige Paracelsus sich auf seinen Streifzügen eine neue, ganzheitliche Medizin in die Welt bringt,</li><li>welches Paracelsus-Zitat in den Volksmund übergegangen ist. </li></ul><br>Vermutlich 1493 oder 1494 im schweizerischen Einsiedeln als Theophrastus von Hohenheim geboren, nennt er sich später selbst Paracelsus. Er kommt aus einer verarmten Adelsfamilie. Sein Vater ist Arzt und zieht mit dem etwa Achtjährigen nach Kärnten.<br><br>Später bereist er zu Fuß, zu Pferd, auf alten Lastkähnen übers Wasser viele fremde Länder. Stets steckt er Augen, Nase, Ohren und seinen Kopf tief in die Landschaft, Kultur und sozialen Umstände. Sicher besucht er auch die ein oder andere medizinische Fakultät am Wegesrand, bleibt aber vermutlich ohne akademischen Titel.<br><br>Paracelsus hält es nirgendwo lange aus und ist wohl auch für andere keine angenehme Gesellschaft. Er ist ein schwieriger Mensch, der es auf Konflikt anlegt.<br>Trotzdem sorgt seine Anhängerschaft, die er schon zu Lebzeiten hat, für einen glorreichen Nachruf. Viele Apotheken, Krankenhäuser, Heilkundliche Schulen schmücken sich bis heute mit seinem Namen. Der Rebell unter den Ärzten lenkt vor fast 600 Jahren den Blick auf den ganzen Menschen. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Tillmann Taape, Medizinhistoriker am medizinhistorischen Institut der Charité in Berlin</li><li> Udo Benzenhöfer: Paracelsus.Reinbeck 1997</li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Doris Arp<br>Redaktion: Caroline Rückl und Matti Hesse<br>",
+    "date": "2026-09-24T04:00:01.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-paracelsus-wie-der-luther-der-medizin-das-heilen-reformiert-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-paracelsus-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/07/3ac71e05-e708-42fb-8fca-82bb13d80cfe/3ac71e05-e708-42fb-8fca-82bb13d80cfe_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4062995",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "KI-gestützte Katalysatorforschung - Wie KI die Chemieindustrie unabängiger macht",
+    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem Helmholtz-Zentrum Berlin\nOhne Katalysatoren geht gar nichts\n<p>Katalysatoren sind nicht nur im Auto verbaut, sie sind auch für andere Produkte unerlässlich — von Medikamenten über Dünger bis zu Kosmetik. Diese alltäglichen Dinge werden aus Basischemikalien hergestellt wie Methanol, Ethylen, Propylen oder Ammoniak. Diese Grundstoffe herzustellen, ist sehr energieintensiv. Deshalb spielen bei den Herstellungsprozessen Katalysatoren eine zentrale Rolle. Sie beschleunigen die chemische Reaktion und machen Verfahren so energieeffizienter.</p>\nPartner aus Forschung und Industrie\n<p>Das Projekt ASCEND möchte die Entwicklung von Katalysatoren der nächsten Generation beschleunigen. Dahinter stecken mehrere Partner aus Forschung und Industrie — darunter das Helmholtz-Zentrum Berlin (HZB), Dunia Innovations und die Technische Universität Berlin.</p>\n<p>ASCEND führt zwei neue Ansätze zusammen: digitale Katalyse und Dünnschichtkatalysatoren. Dünnschichtkatalysatoren reduzieren den Materialverbrauch und verbessern die Effizienz. Die digitale Katalyse nutzt künstliche Intelligenz (KI), Simulationen und selbststeuernde Labore (Self-Driving Labs, kurz: SDLs), um Hochleistungsmaterialien schneller zu entwickeln, sagt Projektmanagerin Dr. Steffi Hlawenka.</p>\nTeure Materialien ersetzen\n<p>Die KI beschleunigt die Planung erheblich, sie kann Experimente vorschlagen, um bestimmte Materialkombinationen zu erforschen. Denn Katalysatoren bestehen oft aus kostspieligen Materialien wie Platin oder Iridium; ASCEND will diese Materialien beispielsweise durch Nickel oder Eisen ersetzen.</p>\n<p>Ziel dieser Forschung ist es, nachhaltige synthetische Kraftstoffe und Basischemikalien als Ersatzstoffe für die Industrie bereitzustellen, damit die industrielle Wettbewerbsfähigkeit — vor allem im Chemiesektor — erhalten bleibt.</p>",
+    "date": "2026-09-24T03:00:41.000Z",
+    "url": "https://feedpress.me/link/19604/17471898/forschungsquartett-ki-gestuetzte-katalysatorforschung",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260924forschungsquartettdigitalekatalyse.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260924forschungsquartettdigitalekatalyse.63.mp3",
+    "duration": "17 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-2548101393703094",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Hoher Besuch auf dem Roten Sofa: Star-Koch und Autor Yotam Ottolenghi",
+    "summary": "Er ist der Mann, der Blumenkohl sexy gemacht hat: Yotam Ottolenghi, Star-Koch und Bestsellerautor. Obwohl er selbst kein strenger Vegetarier ist, hat er die Gemüseküche revolutioniert und ein kulinarisches Imperium aufgebaut - mit Restaurant, Feinkostläden und einer globalen Fan-Gemeinde. In den Rezepten aus seinem neuesten Buch \"Simple Too\" setzt er auf weniger Aufwand, weniger Abwasch und weniger als zehn Zutaten.",
+    "date": "2026-09-23T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/hoher-besuch-auf-dem-roten-sofa-star-koch-und-autor-yotam-ottolenghi,audio-3496046.html",
+    "image": "https://images.ndr.de/image/36602cc4-b3e7-455a-8c2b-1be0d3680f9d/AAABoM87Ypk/AAABnSStX0g/1x1-big/screenshot-232798.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0924/AU-20260924-0944-0900.mp3",
+    "duration": "38 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1352feff-fced-5335-985f-775128911b8b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 23.09.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:56:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/kulturmeldungen_23092026_dlf_20260923_1756_771e16a3.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f2c13aa0-eb62-5291-9371-65d68e85a359",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doch kein Ort für die Freie Szene: Wie es im Schauspiel-Depot in Köln weitergeht",
+    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:51:52.000Z",
+    "url": "https://www.deutschlandfunk.de/doch-kein-ort-fuer-die-freie-szene-wie-es-im-schauspiel-depot-in-koeln-weitergeht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/doch_kein_ort_fuer_die_freie_szene_wie_es_im_schauspiel_dlf_20260923_1751_371cbf63.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:aac58d04-12ba-5099-b662-9448e4420644",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Cézanne et nous\" - Ausstellung über den Einfluss Cézannes im Grand Palais Paris",
+    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:46:30.000Z",
+    "url": "https://www.deutschlandfunk.de/c-zanne-et-nous-ausstellung-ueber-den-einfluss-c-zannes-im-grand-palais-paris-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/cezanne_et_nous_ausstellung_ueber_den_einfluss_cezannes_im_dlf_20260923_1746_ba1ba209.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bd77e5d9-92d6-560d-94a3-470911b4e8b9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Morgen kommen die Russen\". CHILL - Internationales Literaturfestival in Moldau",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:41:18.000Z",
+    "url": "https://www.deutschlandfunk.de/morgen-kommen-die-russen-chill-internationales-literaturfestival-in-moldau-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/morgen_kommen_die_russen_chill_internationales_dlf_20260923_1741_da19efab.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:88687c7b-8f63-5626-b069-b0a669c56b5d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Das geträumte Abenteuer\" - Der neue Film von Valeska Grisebach",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:35:31.000Z",
+    "url": "https://www.deutschlandfunk.de/das-getraeumte-abenteuer-der-neue-film-von-valeska-grisebach-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/das_getraeumte_abenteuer_der_neue_film_von_valeska_grisebach_dlf_20260923_1735_af14979d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:83ff0a37-c66b-5606-acc4-18fcfdc5e1e1",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dirndl in der Popkultur - Zwischen Tradition und Moderne_fin",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-09-23T13:10:12.000Z",
+    "url": "https://www.deutschlandfunk.de/dirndl-in-der-popkultur-zwischen-tradition-und-moderne-fin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/dirndl_in_der_popkultur_zwischen_tradition_und_moderne_fin_dlf_20260923_1510_289a69b1.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b2b01313-28a3-5b61-8aa2-cb46b4da3718",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme - Primetime, Das geträumte Abenteuer, Ein Nobody gegen Putin",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-09-23T13:08:16.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-primetime-das-getraeumte-abenteuer-ein-nobody-gegen-putin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/neue_filme_primetime_das_getraeumte_abenteuer_ein_nobody_dlf_20260923_1508_1798ad1b.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:90d87561-cde2-5a4c-a810-10fafc8cd3fe",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sicherer Feiern? - Was das neue KO-Tropfen Gesetz wirklich bringt",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-09-23T13:07:23.000Z",
+    "url": "https://www.deutschlandfunk.de/sicherer-feiern-was-das-neue-ko-tropfen-gesetz-wirklich-bringt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/sicherer_feiern_was_das_neue_ko_tropfen_gesetz_wirklich_dlf_20260923_1507_c39b8328.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:67a675d97c92b340d8e5a8f6f832523e",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
     "title": "Wie eine Expedition die USA erweitern sollte",
-    "summary": "Durchschlagen bis zum Pazifik: Das war das Ziel der Lewis-und-Clark-Expedition, die am 23.9.1806 zu Ende ging. Die Crew sollte den Westen der USA erkunden und stieß dabei auf einige Probleme.",
+    "summary": "<p>Durchschlagen bis zum Pazifik: Das war das Ziel der Lewis-und-Clark-Expedition, die am 23.9.1806 zu Ende ging. Die Crew sollte den Westen der USA erkunden und stieß dabei auf einige Probleme.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Nik Berger:</strong><br><ul><li>wie eine schwangere Shoshone-Frau eine wichtige und gleichzeitig bedauernswerte Teilnehmerin der Expedition ist,</li><li>warum die Expedition sich einen Monat lang an einer Strecke abarbeitet, für die Google Maps heute acht Stunden zu Fuß veranschlagt,</li><li>unter welch widrigen Umständen die Expedition im November 1805 den Pazifik erreicht,</li><li>warum die Lewis- und Clark-Expedition noch heute für viele indigene Stämme als große Katastrophe gilt.</li></ul><br>US-Präsident Thomas Jefferson möchte Anfang des 19. Jahrhunderts expandieren. Im April 1803 bekommt er die Gelegenheit dazu. Frankreich braucht Geld für den Krieg in Europa und möchte das sogenannte Louisiana-Territorium verkaufen. Ein riesiges Gebiet, mit dem sich die Fläche der jungen USA verdoppelt. Jefferson schlägt zu und will den Kontinent erkunden lassen.<br><br>Er beauftragt seinen Privatsekretär Meriwether Lewis und den ehemaligen Artillerie-Offizier William Clark mit einer Expedition, die den gesamten Lauf des Missouri erkunden soll. Ziel ist herauszufinden, ob es einen Wasserweg quer durch den Kontinent zum Pazifischen Ozean gibt, auf dem sich Handel treiben lässt.<br><br>Die Expedition ist mehr als zwei Jahre unterwegs und kehrt am 23. September 1806 zum Ausgangspunkt St. Louis zurück. Man findet zwar keine durchgehende Wasserroute zum Pazifik - die existiert halt auch nicht - knüpft aber viele Kontakte zu Indigenen, fertigt eine detaillierte Karte und sammelt unzählige wissenschaftliche Notizen über Tier- und Pflanzenwelt. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Craig Fehrman, US-Historiker</li><li>Craig Fehrman: This Vast Enterprise: A New History of Lewis & Clark. New York 2026.</li><li>William Clark/Meriwether Lewis: Journals of 1804-1806. In: Reuben Gold Thwaites (Hrsg.): Original Journals of the Lewis & Clark Expedition. Scituate, Massachusetts 2001 (Band 1-5)</li><li>Richard Stinshoff (Hrsg\": Mit dem Boot über die Rocky Mountains - Unter Wölfen, Büffeln, Bären und Indianern. Die Reise von Lewis und Clark. (Landesmuseum für Natur und Mensch: Schriftenreihe des Landesmuseums Natur und Mensch 40). Oldenburg 2005 </li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/thomasjefferson100.html\" rel=\"noopener\" target=\"_blank\">13.04.1743 - Geburtstag von Thomas Jefferson</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/natur/gebirge/rocky_mountains/rocky-mountains-besiedlung-102.html\" rel=\"noopener\" target=\"_blank\">Die Besiedlungsgeschichte der Rocky Mountains</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/voelker/indigene_voelker_nordamerikas/pwwbindigenevoelkernordamerikas100.html\" rel=\"noopener\" target=\"_blank\">Indianer / Indigene Völker Nordamerikas</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Nik Berger <br>Redaktion: Jakob Schiffer und David Rother",
     "date": "2026-09-23T04:00:26.000Z",
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wie-eine-expedition-die-usa-erweitern-sollte-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-lewis-clark-expedition-102~_v-Podcast.jpg",
@@ -429,84 +706,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:8dfa485b-e602-5f8c-82ad-2cd429eb0fe8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Redemption Song\" - Die Schriftstellerin Léonora Miano inszeniert in Paris",
-    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-21T15:51:51.000Z",
-    "url": "https://www.deutschlandfunk.de/redemption-song-die-schriftstellerin-l-onora-miano-inszeniert-in-paris-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/redemption_song_die_schriftstellerin_leonora_miano_dlf_20260921_1751_9ec8c05f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bdf52c2d-49db-5501-9e3c-aef626241c2f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Große Ausdauer und Treue zum Personal. Zum Tod der Verlegerin Antje Kunstmann",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-21T15:44:17.000Z",
-    "url": "https://www.deutschlandfunk.de/grosse-ausdauer-und-treue-zum-personal-zum-tod-der-verlegerin-antje-kunstmann-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/grosse_ausdauer_und_treue_zum_personal_zum_tod_der_dlf_20260921_1744_dac7b323.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c25e3393-2ac2-5ff9-a4ad-f54332e12b19",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Begegnungsräume schaffen. Kulturmanagerin K. Husemann nach der Wahl in MV",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-21T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/begegnungsraeume-schaffen-kulturmanagerin-k-husemann-nach-der-wahl-in-mv-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/begegnungsraeume_schaffen_kulturmanagerin_k_husemann_nach_dlf_20260921_1735_56c65890.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:8b77b1d8-e2c6-5552-9bda-3350168468f2",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -601,58 +800,6 @@
     "category": [
       "Geschichte",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ee18083f-edae-5b68-a668-dcfb56e85f83",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 20.09.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:51:40.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/kulturmeldungen_20092026_dlf_20260920_1751_84acbad0.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ee64f71c-6c2a-5445-8379-b4f6381f91e6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fotografien von Machtstrukturen und Religiosität: Carrie Mae Weems im C/O Berlin",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:46:40.000Z",
-    "url": "https://www.deutschlandfunk.de/fotografien-von-machtstrukturen-und-religiositaet-carrie-mae-weems-im-c-o-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/fotografien_von_machtstrukturen_und_religiositaet_carrie_mae_dlf_20260920_1746_bfab1d87.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -755,31 +902,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:dafed674-f416-5586-9c25-3a9cc5cc67da",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Band Nachtkinder im Gespräch über ihr Debütalbum und Emotionalität im Pop",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-19T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-band-nachtkinder-im-gespraech-ueber-ihr-debuetalbum-und-emotionalitaet-im-pop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/die_band_nachtkinder_im_gespraech_ueber_ihr_debuetalbum_und_dlf_20260919_1520_ef082ff6.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeitzeichen:b483cd0af05d53e972715950302907d3",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -824,56 +946,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1f11726b-82d7-5583-b2bb-dd9b36ee1393",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Annekathrin Kohout über die Geschichte des Einhorns vom Fabelwesen zum Meme",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/annekathrin-kohout-ueber-die-geschichte-des-einhorns-vom-fabelwesen-zum-meme-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/annekathrin_kohout_ueber_die_geschichte_des_einhorns_vom_dlf_20260918_1515_76d479fe.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:739090ff-5d98-544d-8560-8ad33894ee94",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Reeperbahnfestival - Wie Clubs mehr Geld verdienen könnten",
-    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:09:34.000Z",
-    "url": "https://www.deutschlandfunk.de/reeperbahnfestival-wie-clubs-mehr-geld-verdienen-koennten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/reeperbahnfestival_wie_clubs_mehr_geld_verdienen_koennten_dlf_20260918_1509_18da23bd.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1341,31 +1413,6 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-4899806198677472",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "In Jubiläumslaune: Miniatur Wunderland-Gründer Gerrit &amp; Frederik Braun",
-    "summary": "Das \"Miniatur Wunderland Hamburg\" in der historischen Speicherstadt ist seit einem Vierteljahrhundert ein riesiger Zuschauermagnet. Auf über 1.690 Quadratmetern Fläche in detailreich gestalteten spektakulären Kulissen - darunter auch ein Flughafen im Kleinformat - auf fast 16,5 Kilometern Gleislänge fahren mehr als 1.200 Züge. Für ihr soziales Engagement wurde den beiden Unternehmern 2010 das Bundesverdienstkreuz verliehen. Auf dem Roten Sofa werden Frederik und Gerrit Braun verraten, welche Neuheit das Publikum bei ihnen ab dem Herbst bestaunen darf.",
-    "date": "2026-09-16T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/in-jubilaeumslaune-miniatur-wunderland-gruender-gerrit-frederik-braun,audio-3481514.html",
-    "image": "https://images.ndr.de/image/9cf4a954-b94d-456d-b827-c6733957ef6a/AAABoKt0LyE/AAABnSStX0g/1x1-big/screenshot-229202.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0916/AU-20260916-2042-4800.mp3",
-    "duration": "35 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeitzeichen:8c9daad8d0edef6ddf58392135ffbff2",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -1539,29 +1586,6 @@
     "language": "de"
   },
   {
-    "id": "zeitzeichen:f9c8bb3ca2bedc58c1b0b2e70bf7af56",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Dante Alighieri: Wie die Hölle einen Dichter unsterblich macht",
-    "summary": "<p>Keine Angst vor Dante (gestorben am 14.9.1321): Wer war der Dichter, der die Hölle beschrieb wie kein Zweiter und bis heute nach dem Sinn des Lebens fragen lässt?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Maren Gottschalk:</strong><br><ul><li>wie Dante trotz Verbannung, Armut und Exil sein bedeutendstes Werk vollendet, </li><li>warum die Figur der Beatrice zum Mittelpunkt seiner Dichtung wird, </li><li>weshalb die \"Göttliche Komödie\" weit mehr ist als eine Geschichte über die Hölle, </li><li>wie Dante mit seinem Werk das Italienische als Schriftsprache begründet, </li><li>warum seine Bilder von Himmel und Hölle Künstler bis in die Gegenwart inspirieren.</li></ul><br>Dante Alighieri wächst in Florenz auf, wird Politiker, Dichter und Gelehrter. Seine Lebensgeschichte bleibt in vielem rätselhaft, denn er stellt sein Werk konsequent über die eigene Biografie. Besonders die Gestalt der Beatrice prägt seine Dichtung und wird zur treibenden Kraft seiner literarischen Welt.<br><br>Nach seiner Verbannung aus Florenz lebt Dante viele Jahre im Exil. In dieser Zeit entsteht die \"Comedia\", die später als \"Göttliche Komödie\" berühmt wird. Die Vision einer Reise durch Jenseits, Läuterung und Paradies macht das Werk zu einem Meilenstein der Weltliteratur.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Prof . Winfried Wehle (Romanist, Literaturwissenschaftler und Feuilletonist, langjähriger Vorsitzender der Deutschen Dante-Gesellschaft)</li><li>Franziska Meier: Besuch in der Hölle. Dantes Göttliche Komödie. Biographie eines Jahrtausendbuchs. München 2021</li><li>Ulrich Prill: Dante. Stuttgart 1999</li><li>Dante Alighieri: Die göttliche Komödie. Köln 1979</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-zuenfte-entmachten-den-adel-in-florenz-im-jahr--100.html\" rel=\"noopener\" target=\"_blank\">Die Zünfte entmachten den Adel in Florenz (im Jahr 1293)</a></li><li><a href=\"https://dante-gesellschaft.de/\" rel=\"noopener\" target=\"_blank\">Deutsche Dante-Gesellschaft</a></li><li>Europeana: <a href=\"https://www.europeana.eu/de/collections/person/59792-dante-alighieri\" rel=\"noopener\" target=\"_blank\">Werke von Dante Alighieri</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Maren Gottschalk<br>Redaktion: Ronald Feisel und Matti Hesse<br>Technik: Sascha Schiemann",
-    "date": "2026-09-14T04:00:53.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-dante-alighieri-wie-die-hoelle-einen-dichter-unsterblich-macht-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-dante-alighieri-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/01/03ecfcf1-6285-404d-a1d2-3e56203bbdf9/03ecfcf1-6285-404d-a1d2-3e56203bbdf9_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-1001-nacht:b83b9a33-df46-5d28-b3c6-e248b29d3739",
     "source": "dlf-1001-nacht",
     "sourceTitle": "1001 Nacht – Deutschlandfunk",
@@ -1642,30 +1666,6 @@
       "Hörspiel",
       "Literatur",
       "Kultur"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4054720",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Das Beste und das Schlechteste an Familienunternehmen: die Familie",
-    "summary": "<b>Hunderttausende Unternehmensnachfolgen</b>\n<p>Unternehmen können deutlich älter als Menschen werden. Doch das bedeutet auch: Die Führung muss zwangsläufig wechseln. Dieser Prozess ist kompliziert, denn hier müssen Menschen mit viel Erfahrung den Platz für andere freimachen, die vor allem Ideen mitbringen. In Deutschland steht dieser Führungsübergang allein bis 2030 für hunderttausende Unternehmen an. Er ist so vielschichtig, dass es dafür sogar Professuren gibt. Birgit Felden hat die Professur für Mittelstand und Unternehmensnachfolge an der Hochschule für Wirtschaft und Recht Berlin inne und ist in dieser Ausgabe des „brand eins Podcasts“ zu Gast. Sie sagt: „Es gibt so einen schönen Spruch: Neue Besen kehren gut, aber die alten wissen, wo der Dreck sitzt.“</p>\n<b>Birgit Felden über Übergaben</b>\n<p>In Filmen und Literatur gibt es ein Übergabeklischee: Der Firmenpatriarch übergibt sein Lebenswerk an den Nachwuchs — widerwillig und als Kontrollfreak, der immer wieder dazwischenfunkt. Laut Birgit Felden gibt es solche Übergaben, sie werden aber seltener. Dass das Thema komplex und manchmal auch konflikbehaftet ist, entspricht aber der Realität. Denn Unternehmensführung selbst ist ein komplexes Handwerk. Wer sich mit dem Resultat jahrzehntelanger Arbeit identifiziert, ist zwangsläufig skeptisch, wenn der Einfluss schwindet. Doch Unternehmensübergaben bergen immer auch Chancen, wenn eingefahrene Prozesse und Produkte sich mit neuen Ideen messen müssen. Ein übernommenes Unternehmen bringt außerdem beträchtliche Substanz mit — im Unterschied zu Neugründungen, die ausdauernd und mit viel Engagement aufgebaut werden müssen. „Wenn ich behutsam vorgehe, indem ich Bewährtes bewahre und nicht alles sofort ändern möchte, dann kann ich auf einen gewachsenen Organismus zugreifen. Das reduziert aus meiner Sicht das Risiko des Scheiterns erheblich“, so Felden.</p>\n<p>In der neuen Episode des „brand eins Podcasts“ spricht <i>detektor.fm-</i>Moderator <b>Christian Bollert</b> mit<strong> Birgit Felden</strong> darüber, welche Übergabeszenarien es gibt, welche Gefahren und Chancen darin liegen und wer ein Unternehmen übernehmen sollte — und wer besser nicht.</p>",
-    "date": "2026-09-11T03:10:21.000Z",
-    "url": "https://feedpress.me/link/19604/17444998/brand-eins-podcast-birgit-felden-familienunternehmen",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
-    "duration": "28 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
     ],
     "language": "de"
   },

@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:1352feff-fced-5335-985f-775128911b8b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 23.09.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:56:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/kulturmeldungen_23092026_dlf_20260923_1756_771e16a3.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f2c13aa0-eb62-5291-9371-65d68e85a359",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doch kein Ort für die Freie Szene: Wie es im Schauspiel-Depot in Köln weitergeht",
+    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:51:52.000Z",
+    "url": "https://www.deutschlandfunk.de/doch-kein-ort-fuer-die-freie-szene-wie-es-im-schauspiel-depot-in-koeln-weitergeht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/doch_kein_ort_fuer_die_freie_szene_wie_es_im_schauspiel_dlf_20260923_1751_371cbf63.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:aac58d04-12ba-5099-b662-9448e4420644",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Cézanne et nous\" - Ausstellung über den Einfluss Cézannes im Grand Palais Paris",
+    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:46:30.000Z",
+    "url": "https://www.deutschlandfunk.de/c-zanne-et-nous-ausstellung-ueber-den-einfluss-c-zannes-im-grand-palais-paris-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/cezanne_et_nous_ausstellung_ueber_den_einfluss_cezannes_im_dlf_20260923_1746_ba1ba209.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bd77e5d9-92d6-560d-94a3-470911b4e8b9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Morgen kommen die Russen\". CHILL - Internationales Literaturfestival in Moldau",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:41:18.000Z",
+    "url": "https://www.deutschlandfunk.de/morgen-kommen-die-russen-chill-internationales-literaturfestival-in-moldau-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/morgen_kommen_die_russen_chill_internationales_dlf_20260923_1741_da19efab.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:88687c7b-8f63-5626-b069-b0a669c56b5d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Das geträumte Abenteuer\" - Der neue Film von Valeska Grisebach",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-23T15:35:31.000Z",
+    "url": "https://www.deutschlandfunk.de/das-getraeumte-abenteuer-der-neue-film-von-valeska-grisebach-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/das_getraeumte_abenteuer_der_neue_film_von_valeska_grisebach_dlf_20260923_1735_af14979d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:35118801-c265-54aa-8b61-e03bcd43e172",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/kulturmeldungen_21092026_dlf_20260921_1756_2eca2dd7.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8dfa485b-e602-5f8c-82ad-2cd429eb0fe8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Redemption Song\" - Die Schriftstellerin Léonora Miano inszeniert in Paris",
-    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-21T15:51:51.000Z",
-    "url": "https://www.deutschlandfunk.de/redemption-song-die-schriftstellerin-l-onora-miano-inszeniert-in-paris-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/redemption_song_die_schriftstellerin_leonora_miano_dlf_20260921_1751_9ec8c05f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bdf52c2d-49db-5501-9e3c-aef626241c2f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Große Ausdauer und Treue zum Personal. Zum Tod der Verlegerin Antje Kunstmann",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-21T15:44:17.000Z",
-    "url": "https://www.deutschlandfunk.de/grosse-ausdauer-und-treue-zum-personal-zum-tod-der-verlegerin-antje-kunstmann-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/grosse_ausdauer_und_treue_zum_personal_zum_tod_der_dlf_20260921_1744_dac7b323.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c25e3393-2ac2-5ff9-a4ad-f54332e12b19",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Begegnungsräume schaffen. Kulturmanagerin K. Husemann nach der Wahl in MV",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-21T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/begegnungsraeume-schaffen-kulturmanagerin-k-husemann-nach-der-wahl-in-mv-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/begegnungsraeume_schaffen_kulturmanagerin_k_husemann_nach_dlf_20260921_1735_56c65890.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ee18083f-edae-5b68-a668-dcfb56e85f83",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 20.09.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:51:40.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/kulturmeldungen_20092026_dlf_20260920_1751_84acbad0.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ee64f71c-6c2a-5445-8379-b4f6381f91e6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fotografien von Machtstrukturen und Religiosität: Carrie Mae Weems im C/O Berlin",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-20T15:46:40.000Z",
-    "url": "https://www.deutschlandfunk.de/fotografien-von-machtstrukturen-und-religiositaet-carrie-mae-weems-im-c-o-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/20/fotografien_von_machtstrukturen_und_religiositaet_carrie_mae_dlf_20260920_1746_bfab1d87.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

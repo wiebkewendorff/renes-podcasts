@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:83ff0a37-c66b-5606-acc4-18fcfdc5e1e1",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dirndl in der Popkultur - Zwischen Tradition und Moderne_fin",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-09-23T13:10:12.000Z",
+    "url": "https://www.deutschlandfunk.de/dirndl-in-der-popkultur-zwischen-tradition-und-moderne-fin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/dirndl_in_der_popkultur_zwischen_tradition_und_moderne_fin_dlf_20260923_1510_289a69b1.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b2b01313-28a3-5b61-8aa2-cb46b4da3718",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme - Primetime, Das geträumte Abenteuer, Ein Nobody gegen Putin",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-09-23T13:08:16.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-primetime-das-getraeumte-abenteuer-ein-nobody-gegen-putin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/neue_filme_primetime_das_getraeumte_abenteuer_ein_nobody_dlf_20260923_1508_1798ad1b.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:90d87561-cde2-5a4c-a810-10fafc8cd3fe",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sicherer Feiern? - Was das neue KO-Tropfen Gesetz wirklich bringt",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-09-23T13:07:23.000Z",
+    "url": "https://www.deutschlandfunk.de/sicherer-feiern-was-das-neue-ko-tropfen-gesetz-wirklich-bringt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/sicherer_feiern_was_das_neue_ko_tropfen_gesetz_wirklich_dlf_20260923_1507_c39b8328.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:b7bfec3b-0ed7-5362-b50e-8ff5666715b0",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -160,81 +235,6 @@
     "url": "https://www.deutschlandfunk.de/wenn-worte-fehlen-the-meaning-of-flowers-von-agnes-obel-102.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/wenn_worte_fehlen_the_meaning_of_flowers_von_agnes_obel_dlf_20260919_1530_390a3c48.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:dafed674-f416-5586-9c25-3a9cc5cc67da",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Band Nachtkinder im Gespräch über ihr Debütalbum und Emotionalität im Pop",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-19T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-band-nachtkinder-im-gespraech-ueber-ihr-debuetalbum-und-emotionalitaet-im-pop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/19/die_band_nachtkinder_im_gespraech_ueber_ihr_debuetalbum_und_dlf_20260919_1520_ef082ff6.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1f11726b-82d7-5583-b2bb-dd9b36ee1393",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Annekathrin Kohout über die Geschichte des Einhorns vom Fabelwesen zum Meme",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/annekathrin-kohout-ueber-die-geschichte-des-einhorns-vom-fabelwesen-zum-meme-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/annekathrin_kohout_ueber_die_geschichte_des_einhorns_vom_dlf_20260918_1515_76d479fe.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:739090ff-5d98-544d-8560-8ad33894ee94",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Reeperbahnfestival - Wie Clubs mehr Geld verdienen könnten",
-    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
-    "date": "2026-09-18T13:09:34.000Z",
-    "url": "https://www.deutschlandfunk.de/reeperbahnfestival-wie-clubs-mehr-geld-verdienen-koennten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/18/reeperbahnfestival_wie_clubs_mehr_geld_verdienen_koennten_dlf_20260918_1509_18da23bd.mp3?refId=corso-104",
     "duration": "6 Min",
     "tags": [
       "kultur",

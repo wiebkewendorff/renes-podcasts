@@ -1,11 +1,58 @@
 [
   {
+    "id": "zeitzeichen:1f99738e7d20e685d8d287f181778669",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Paracelsus: Wie der \"Luther der Medizin\" das Heilen reformiert",
+    "summary": "<p>Paracelsus stellt die Medizin auf den Kopf. Statt auf die Lehren der Antike setzt er auf Erfahrung - und gerät so bis zu seinem Tod am 24.9.1541 ständig in Konflikte.\n</p><br><br><p><strong>In diesem Zeitzeichen erzählt Doris Arp:</strong><br><ul><li>warum an der Echtheit der überlieferten Paracelsus-Texte Zweifel bestehen,</li><li>wie Paracelsus vom Vater viel über Berufskrankheiten lernt,</li><li>wie der 15-jährige Paracelsus sich auf seinen Streifzügen eine neue, ganzheitliche Medizin in die Welt bringt,</li><li>welches Paracelsus-Zitat in den Volksmund übergegangen ist. </li></ul><br>Vermutlich 1493 oder 1494 im schweizerischen Einsiedeln als Theophrastus von Hohenheim geboren, nennt er sich später selbst Paracelsus. Er kommt aus einer verarmten Adelsfamilie. Sein Vater ist Arzt und zieht mit dem etwa Achtjährigen nach Kärnten.<br><br>Später bereist er zu Fuß, zu Pferd, auf alten Lastkähnen übers Wasser viele fremde Länder. Stets steckt er Augen, Nase, Ohren und seinen Kopf tief in die Landschaft, Kultur und sozialen Umstände. Sicher besucht er auch die ein oder andere medizinische Fakultät am Wegesrand, bleibt aber vermutlich ohne akademischen Titel.<br><br>Paracelsus hält es nirgendwo lange aus und ist wohl auch für andere keine angenehme Gesellschaft. Er ist ein schwieriger Mensch, der es auf Konflikt anlegt.<br>Trotzdem sorgt seine Anhängerschaft, die er schon zu Lebzeiten hat, für einen glorreichen Nachruf. Viele Apotheken, Krankenhäuser, Heilkundliche Schulen schmücken sich bis heute mit seinem Namen. Der Rebell unter den Ärzten lenkt vor fast 600 Jahren den Blick auf den ganzen Menschen. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Tillmann Taape, Medizinhistoriker am medizinhistorischen Institut der Charité in Berlin</li><li> Udo Benzenhöfer: Paracelsus.Reinbeck 1997</li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Doris Arp<br>Redaktion: Caroline Rückl und Matti Hesse<br>",
+    "date": "2026-09-24T04:00:01.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-paracelsus-wie-der-luther-der-medizin-das-heilen-reformiert-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-paracelsus-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/07/3ac71e05-e708-42fb-8fca-82bb13d80cfe/3ac71e05-e708-42fb-8fca-82bb13d80cfe_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4062995",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "KI-gestützte Katalysatorforschung - Wie KI die Chemieindustrie unabängiger macht",
+    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem Helmholtz-Zentrum Berlin\nOhne Katalysatoren geht gar nichts\n<p>Katalysatoren sind nicht nur im Auto verbaut, sie sind auch für andere Produkte unerlässlich — von Medikamenten über Dünger bis zu Kosmetik. Diese alltäglichen Dinge werden aus Basischemikalien hergestellt wie Methanol, Ethylen, Propylen oder Ammoniak. Diese Grundstoffe herzustellen, ist sehr energieintensiv. Deshalb spielen bei den Herstellungsprozessen Katalysatoren eine zentrale Rolle. Sie beschleunigen die chemische Reaktion und machen Verfahren so energieeffizienter.</p>\nPartner aus Forschung und Industrie\n<p>Das Projekt ASCEND möchte die Entwicklung von Katalysatoren der nächsten Generation beschleunigen. Dahinter stecken mehrere Partner aus Forschung und Industrie — darunter das Helmholtz-Zentrum Berlin (HZB), Dunia Innovations und die Technische Universität Berlin.</p>\n<p>ASCEND führt zwei neue Ansätze zusammen: digitale Katalyse und Dünnschichtkatalysatoren. Dünnschichtkatalysatoren reduzieren den Materialverbrauch und verbessern die Effizienz. Die digitale Katalyse nutzt künstliche Intelligenz (KI), Simulationen und selbststeuernde Labore (Self-Driving Labs, kurz: SDLs), um Hochleistungsmaterialien schneller zu entwickeln, sagt Projektmanagerin Dr. Steffi Hlawenka.</p>\nTeure Materialien ersetzen\n<p>Die KI beschleunigt die Planung erheblich, sie kann Experimente vorschlagen, um bestimmte Materialkombinationen zu erforschen. Denn Katalysatoren bestehen oft aus kostspieligen Materialien wie Platin oder Iridium; ASCEND will diese Materialien beispielsweise durch Nickel oder Eisen ersetzen.</p>\n<p>Ziel dieser Forschung ist es, nachhaltige synthetische Kraftstoffe und Basischemikalien als Ersatzstoffe für die Industrie bereitzustellen, damit die industrielle Wettbewerbsfähigkeit — vor allem im Chemiesektor — erhalten bleibt.</p>",
+    "date": "2026-09-24T03:00:41.000Z",
+    "url": "https://feedpress.me/link/19604/17471898/forschungsquartett-ki-gestuetzte-katalysatorforschung",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260924forschungsquartettdigitalekatalyse.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260924forschungsquartettdigitalekatalyse.63.mp3",
+    "duration": "17 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:67a675d97c92b340d8e5a8f6f832523e",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
     "title": "Wie eine Expedition die USA erweitern sollte",
-    "summary": "Durchschlagen bis zum Pazifik: Das war das Ziel der Lewis-und-Clark-Expedition, die am 23.9.1806 zu Ende ging. Die Crew sollte den Westen der USA erkunden und stieß dabei auf einige Probleme.",
+    "summary": "<p>Durchschlagen bis zum Pazifik: Das war das Ziel der Lewis-und-Clark-Expedition, die am 23.9.1806 zu Ende ging. Die Crew sollte den Westen der USA erkunden und stieß dabei auf einige Probleme.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Nik Berger:</strong><br><ul><li>wie eine schwangere Shoshone-Frau eine wichtige und gleichzeitig bedauernswerte Teilnehmerin der Expedition ist,</li><li>warum die Expedition sich einen Monat lang an einer Strecke abarbeitet, für die Google Maps heute acht Stunden zu Fuß veranschlagt,</li><li>unter welch widrigen Umständen die Expedition im November 1805 den Pazifik erreicht,</li><li>warum die Lewis- und Clark-Expedition noch heute für viele indigene Stämme als große Katastrophe gilt.</li></ul><br>US-Präsident Thomas Jefferson möchte Anfang des 19. Jahrhunderts expandieren. Im April 1803 bekommt er die Gelegenheit dazu. Frankreich braucht Geld für den Krieg in Europa und möchte das sogenannte Louisiana-Territorium verkaufen. Ein riesiges Gebiet, mit dem sich die Fläche der jungen USA verdoppelt. Jefferson schlägt zu und will den Kontinent erkunden lassen.<br><br>Er beauftragt seinen Privatsekretär Meriwether Lewis und den ehemaligen Artillerie-Offizier William Clark mit einer Expedition, die den gesamten Lauf des Missouri erkunden soll. Ziel ist herauszufinden, ob es einen Wasserweg quer durch den Kontinent zum Pazifischen Ozean gibt, auf dem sich Handel treiben lässt.<br><br>Die Expedition ist mehr als zwei Jahre unterwegs und kehrt am 23. September 1806 zum Ausgangspunkt St. Louis zurück. Man findet zwar keine durchgehende Wasserroute zum Pazifik - die existiert halt auch nicht - knüpft aber viele Kontakte zu Indigenen, fertigt eine detaillierte Karte und sammelt unzählige wissenschaftliche Notizen über Tier- und Pflanzenwelt. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Craig Fehrman, US-Historiker</li><li>Craig Fehrman: This Vast Enterprise: A New History of Lewis & Clark. New York 2026.</li><li>William Clark/Meriwether Lewis: Journals of 1804-1806. In: Reuben Gold Thwaites (Hrsg.): Original Journals of the Lewis & Clark Expedition. Scituate, Massachusetts 2001 (Band 1-5)</li><li>Richard Stinshoff (Hrsg\": Mit dem Boot über die Rocky Mountains - Unter Wölfen, Büffeln, Bären und Indianern. Die Reise von Lewis und Clark. (Landesmuseum für Natur und Mensch: Schriftenreihe des Landesmuseums Natur und Mensch 40). Oldenburg 2005 </li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/thomasjefferson100.html\" rel=\"noopener\" target=\"_blank\">13.04.1743 - Geburtstag von Thomas Jefferson</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/natur/gebirge/rocky_mountains/rocky-mountains-besiedlung-102.html\" rel=\"noopener\" target=\"_blank\">Die Besiedlungsgeschichte der Rocky Mountains</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/voelker/indigene_voelker_nordamerikas/pwwbindigenevoelkernordamerikas100.html\" rel=\"noopener\" target=\"_blank\">Indianer / Indigene Völker Nordamerikas</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Nik Berger <br>Redaktion: Jakob Schiffer und David Rother",
     "date": "2026-09-23T04:00:26.000Z",
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wie-eine-expedition-die-usa-erweitern-sollte-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-lewis-clark-expedition-102~_v-Podcast.jpg",
@@ -547,53 +594,6 @@
     "category": [
       "Kunst",
       "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:f9c8bb3ca2bedc58c1b0b2e70bf7af56",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Dante Alighieri: Wie die Hölle einen Dichter unsterblich macht",
-    "summary": "<p>Keine Angst vor Dante (gestorben am 14.9.1321): Wer war der Dichter, der die Hölle beschrieb wie kein Zweiter und bis heute nach dem Sinn des Lebens fragen lässt?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Maren Gottschalk:</strong><br><ul><li>wie Dante trotz Verbannung, Armut und Exil sein bedeutendstes Werk vollendet, </li><li>warum die Figur der Beatrice zum Mittelpunkt seiner Dichtung wird, </li><li>weshalb die \"Göttliche Komödie\" weit mehr ist als eine Geschichte über die Hölle, </li><li>wie Dante mit seinem Werk das Italienische als Schriftsprache begründet, </li><li>warum seine Bilder von Himmel und Hölle Künstler bis in die Gegenwart inspirieren.</li></ul><br>Dante Alighieri wächst in Florenz auf, wird Politiker, Dichter und Gelehrter. Seine Lebensgeschichte bleibt in vielem rätselhaft, denn er stellt sein Werk konsequent über die eigene Biografie. Besonders die Gestalt der Beatrice prägt seine Dichtung und wird zur treibenden Kraft seiner literarischen Welt.<br><br>Nach seiner Verbannung aus Florenz lebt Dante viele Jahre im Exil. In dieser Zeit entsteht die \"Comedia\", die später als \"Göttliche Komödie\" berühmt wird. Die Vision einer Reise durch Jenseits, Läuterung und Paradies macht das Werk zu einem Meilenstein der Weltliteratur.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Prof . Winfried Wehle (Romanist, Literaturwissenschaftler und Feuilletonist, langjähriger Vorsitzender der Deutschen Dante-Gesellschaft)</li><li>Franziska Meier: Besuch in der Hölle. Dantes Göttliche Komödie. Biographie eines Jahrtausendbuchs. München 2021</li><li>Ulrich Prill: Dante. Stuttgart 1999</li><li>Dante Alighieri: Die göttliche Komödie. Köln 1979</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-zuenfte-entmachten-den-adel-in-florenz-im-jahr--100.html\" rel=\"noopener\" target=\"_blank\">Die Zünfte entmachten den Adel in Florenz (im Jahr 1293)</a></li><li><a href=\"https://dante-gesellschaft.de/\" rel=\"noopener\" target=\"_blank\">Deutsche Dante-Gesellschaft</a></li><li>Europeana: <a href=\"https://www.europeana.eu/de/collections/person/59792-dante-alighieri\" rel=\"noopener\" target=\"_blank\">Werke von Dante Alighieri</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Maren Gottschalk<br>Redaktion: Ronald Feisel und Matti Hesse<br>Technik: Sascha Schiemann",
-    "date": "2026-09-14T04:00:53.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-dante-alighieri-wie-die-hoelle-einen-dichter-unsterblich-macht-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-dante-alighieri-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/01/03ecfcf1-6285-404d-a1d2-3e56203bbdf9/03ecfcf1-6285-404d-a1d2-3e56203bbdf9_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4054720",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Das Beste und das Schlechteste an Familienunternehmen: die Familie",
-    "summary": "<b>Hunderttausende Unternehmensnachfolgen</b>\n<p>Unternehmen können deutlich älter als Menschen werden. Doch das bedeutet auch: Die Führung muss zwangsläufig wechseln. Dieser Prozess ist kompliziert, denn hier müssen Menschen mit viel Erfahrung den Platz für andere freimachen, die vor allem Ideen mitbringen. In Deutschland steht dieser Führungsübergang allein bis 2030 für hunderttausende Unternehmen an. Er ist so vielschichtig, dass es dafür sogar Professuren gibt. Birgit Felden hat die Professur für Mittelstand und Unternehmensnachfolge an der Hochschule für Wirtschaft und Recht Berlin inne und ist in dieser Ausgabe des „brand eins Podcasts“ zu Gast. Sie sagt: „Es gibt so einen schönen Spruch: Neue Besen kehren gut, aber die alten wissen, wo der Dreck sitzt.“</p>\n<b>Birgit Felden über Übergaben</b>\n<p>In Filmen und Literatur gibt es ein Übergabeklischee: Der Firmenpatriarch übergibt sein Lebenswerk an den Nachwuchs — widerwillig und als Kontrollfreak, der immer wieder dazwischenfunkt. Laut Birgit Felden gibt es solche Übergaben, sie werden aber seltener. Dass das Thema komplex und manchmal auch konflikbehaftet ist, entspricht aber der Realität. Denn Unternehmensführung selbst ist ein komplexes Handwerk. Wer sich mit dem Resultat jahrzehntelanger Arbeit identifiziert, ist zwangsläufig skeptisch, wenn der Einfluss schwindet. Doch Unternehmensübergaben bergen immer auch Chancen, wenn eingefahrene Prozesse und Produkte sich mit neuen Ideen messen müssen. Ein übernommenes Unternehmen bringt außerdem beträchtliche Substanz mit — im Unterschied zu Neugründungen, die ausdauernd und mit viel Engagement aufgebaut werden müssen. „Wenn ich behutsam vorgehe, indem ich Bewährtes bewahre und nicht alles sofort ändern möchte, dann kann ich auf einen gewachsenen Organismus zugreifen. Das reduziert aus meiner Sicht das Risiko des Scheiterns erheblich“, so Felden.</p>\n<p>In der neuen Episode des „brand eins Podcasts“ spricht <i>detektor.fm-</i>Moderator <b>Christian Bollert</b> mit<strong> Birgit Felden</strong> darüber, welche Übergabeszenarien es gibt, welche Gefahren und Chancen darin liegen und wer ein Unternehmen übernehmen sollte — und wer besser nicht.</p>",
-    "date": "2026-09-11T03:10:21.000Z",
-    "url": "https://feedpress.me/link/19604/17444998/brand-eins-podcast-birgit-felden-familienunternehmen",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinsbirgitfelden.63.mp3",
-    "duration": "28 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
       "Bildung"
     ],
     "language": "de"
