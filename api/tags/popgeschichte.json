@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-08775623979056535",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Osteoporose-Experte Henning Kunter im Sofa-Talk",
+    "summary": "Wenn sich jemand mit porösen Knochen auskennt, dann er. Prof. Dr. Henning Kunter ist ein renommierter Facharzt für Orthopädie, Unfallchirurgie und Chirurgie und gilt auf dem Gebiet Osteoporose als Koryphäe. Mindestens sechs Millionen Menschen leiden hierzulande am Knochenabbau – vor allem Frauen. Spezifische Ernährung und gezieltes Kraft- und Koordinationstraining können allerdings helfen, die Erkrankung zu bremsen. Welche Übungen gut sind und welches Essen sinnvoll ist, erklärt Prof. Kunter auf dem Roten Sofa.",
+    "date": "2026-09-25T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/osteoporose-experte-henning-kunter-im-sofa-talk,audio-3499682.html",
+    "image": "https://images.ndr.de/image/17c15bed-0341-41c9-a3fd-115c52807b0e/AAABoNnUTks/AAABnSStX0g/1x1-big/screenshot-234120.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0925/AU-20260925-1946-1900.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-417030565604957",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/4289e628-a9a5-476d-9b0c-488dec467e04/AAABoLq22ys/AAABnSStX0g/1x1-big/screenshot-230846.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0920/AU-20260920-2041-2900.mp3",
     "duration": "41 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-646119468611328",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Astrophysikerin, Philosophin und Weltenerklärerin: Sibylle Anderl",
-    "summary": "Sibylle Anderl ist eine Weltenerklärerin. Die studierte Astrophysikerin und Philosophin besitzt das außerordentliche Talent, komplexe Materie und komplizierte Sachverhalte so zu erklären, dass auch Normalos den Durchblick bekommen. In ihrem Buch \"Bequeme neue Welt\" setzt sie sich mit den Folgen von Künstlicher Intelligenz für uns auseinander. Ihre These: Wer Denken, Entscheiden und Urteilen an Algorithmen auslagert, verliert nicht nur seinen Verstand - sondern langfristig auch seine Freiheit. Auf dem Roten Sofa werden wir ein Plädoyer für mehr geistige Anstrengung und Verantwortung hören.",
-    "date": "2026-09-18T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/astrophysikerin-philosophin-und-weltenerklaererin-sibylle-anderl,audio-3488386.html",
-    "image": "https://images.ndr.de/image/21360d8a-71a9-42df-9cd6-b6760a9ede6f/AAABoLXniw0/AAABnSStX0g/1x1-big/screenshot-230510.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0920/AU-20260920-2040-5900.mp3",
-    "duration": "40 Min",
     "tags": [
       "beatles",
       "popgeschichte",

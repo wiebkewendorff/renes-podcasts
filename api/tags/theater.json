@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:351b4869-6c28-5af6-8438-ce470ebb700e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 25.09.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-25-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/kulturmeldungen_25092026_dlf_20260925_1757_d960f4d2.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:10cac5f2-8311-5e52-a92a-c9756d7e3343",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kein Antisemitismus - Neue Bedingungen für die Berliner Kulturförderung",
+    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kein-antisemitismus-neue-bedingungen-fuer-die-berliner-kulturfoerderung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/kein_antisemitismus_neue_bedingungen_fuer_die_berliner_dlf_20260925_1752_e6673027.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8b3c5a24-3c88-5116-80ab-4fb84de1e7fa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Geierwally\" am Münchner Volkstheater",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:47:04.000Z",
+    "url": "https://www.deutschlandfunk.de/die-geierwally-am-muenchner-volkstheater-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/die_geierwally_am_muenchner_volkstheater_dlf_20260925_1747_d365d3e4.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f1ce11e5-ee7d-558c-ab36-71f14ac65bbb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gegenwart der Vergangenheit - Ein literarisch-musikalischer Abend in München",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gegenwart-der-vergangenheit-ein-literarisch-musikalischer-abend-in-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/gegenwart_der_vergangenheit_ein_literarisch_musikalischer_dlf_20260925_1742_8f6500a9.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:72dc0f51-cd7e-555f-96b3-92f7741f0ee8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mehr Mut, weniger Kanon - Mainz ist Opernhaus des Jahres",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:36:35.000Z",
+    "url": "https://www.deutschlandfunk.de/mehr-mut-weniger-kanon-mainz-ist-opernhaus-des-jahres-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/mehr_mut_weniger_kanon_mainz_ist_opernhaus_des_jahres_dlf_20260925_1736_0e633775.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:89c4c7db-0061-57ef-9166-019256dde3a0",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -114,136 +244,6 @@
     "url": "https://www.deutschlandfunk.de/die-franzoesische-linke-und-der-antisemitismus-fachkonferenz-in-paris-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/24/die_franzoesische_linke_und_der_antisemitismus_fachkonferenz_dlf_20260924_1735_4466d3e2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1352feff-fced-5335-985f-775128911b8b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 23.09.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:56:40.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/kulturmeldungen_23092026_dlf_20260923_1756_771e16a3.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f2c13aa0-eb62-5291-9371-65d68e85a359",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Doch kein Ort für die Freie Szene: Wie es im Schauspiel-Depot in Köln weitergeht",
-    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:51:52.000Z",
-    "url": "https://www.deutschlandfunk.de/doch-kein-ort-fuer-die-freie-szene-wie-es-im-schauspiel-depot-in-koeln-weitergeht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/doch_kein_ort_fuer_die_freie_szene_wie_es_im_schauspiel_dlf_20260923_1751_371cbf63.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:aac58d04-12ba-5099-b662-9448e4420644",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Cézanne et nous\" - Ausstellung über den Einfluss Cézannes im Grand Palais Paris",
-    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:46:30.000Z",
-    "url": "https://www.deutschlandfunk.de/c-zanne-et-nous-ausstellung-ueber-den-einfluss-c-zannes-im-grand-palais-paris-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/cezanne_et_nous_ausstellung_ueber_den_einfluss_cezannes_im_dlf_20260923_1746_ba1ba209.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bd77e5d9-92d6-560d-94a3-470911b4e8b9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Morgen kommen die Russen\". CHILL - Internationales Literaturfestival in Moldau",
-    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:41:18.000Z",
-    "url": "https://www.deutschlandfunk.de/morgen-kommen-die-russen-chill-internationales-literaturfestival-in-moldau-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/morgen_kommen_die_russen_chill_internationales_dlf_20260923_1741_da19efab.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:88687c7b-8f63-5626-b069-b0a669c56b5d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Das geträumte Abenteuer\" - Der neue Film von Valeska Grisebach",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:35:31.000Z",
-    "url": "https://www.deutschlandfunk.de/das-getraeumte-abenteuer-der-neue-film-von-valeska-grisebach-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/das_getraeumte_abenteuer_der_neue_film_von_valeska_grisebach_dlf_20260923_1735_af14979d.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",

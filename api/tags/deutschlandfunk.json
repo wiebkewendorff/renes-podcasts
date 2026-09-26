@@ -1,10 +1,215 @@
 [
   {
+    "id": "dlf-kultur-heute:351b4869-6c28-5af6-8438-ce470ebb700e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 25.09.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-25-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/kulturmeldungen_25092026_dlf_20260925_1757_d960f4d2.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:10cac5f2-8311-5e52-a92a-c9756d7e3343",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kein Antisemitismus - Neue Bedingungen für die Berliner Kulturförderung",
+    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kein-antisemitismus-neue-bedingungen-fuer-die-berliner-kulturfoerderung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/kein_antisemitismus_neue_bedingungen_fuer_die_berliner_dlf_20260925_1752_e6673027.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8b3c5a24-3c88-5116-80ab-4fb84de1e7fa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Geierwally\" am Münchner Volkstheater",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:47:04.000Z",
+    "url": "https://www.deutschlandfunk.de/die-geierwally-am-muenchner-volkstheater-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/die_geierwally_am_muenchner_volkstheater_dlf_20260925_1747_d365d3e4.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f1ce11e5-ee7d-558c-ab36-71f14ac65bbb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gegenwart der Vergangenheit - Ein literarisch-musikalischer Abend in München",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gegenwart-der-vergangenheit-ein-literarisch-musikalischer-abend-in-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/gegenwart_der_vergangenheit_ein_literarisch_musikalischer_dlf_20260925_1742_8f6500a9.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:72dc0f51-cd7e-555f-96b3-92f7741f0ee8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mehr Mut, weniger Kanon - Mainz ist Opernhaus des Jahres",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-25T15:36:35.000Z",
+    "url": "https://www.deutschlandfunk.de/mehr-mut-weniger-kanon-mainz-ist-opernhaus-des-jahres-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/mehr_mut_weniger_kanon_mainz_ist_opernhaus_des_jahres_dlf_20260925_1736_0e633775.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4601f082-657c-5743-9db7-c372018bfaed",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Was spielt man als Zugabe? Die Pulp-Doku \"What Do You Do For An Encore?\"",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-25T13:24:34.000Z",
+    "url": "https://www.deutschlandfunk.de/was-spielt-man-als-zugabe-die-pulp-doku-what-do-you-do-for-an-encore-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/was_spielt_man_als_zugabe_die_pulp_doku_what_do_you_do_for_dlf_20260925_1524_35c35259.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b22c66b8-97cf-57d7-a05e-f6073f29bff8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Edith Löhle über ihre Satire \"Kurzer Prozess\" und Pumuckl, Alf Co. vor Gericht",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-25T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/edith-loehle-ueber-ihre-satire-kurzer-prozess-und-pumuckl-alf-co-vor-gericht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/edith_loehle_ueber_ihre_satire_kurzer_prozess_und_pumuckl_dlf_20260925_1515_bd210954.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0654fd28-6909-5b44-ac1a-f3ba331da0f7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "The Beauty of Ballroom - Doku über queere Szene in Südostasien",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-09-25T13:06:10.000Z",
+    "url": "https://www.deutschlandfunk.de/the-beauty-of-ballroom-doku-ueber-queere-szene-in-suedostasien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/the_beauty_of_ballroom_doku_ueber_queere_szene_in_dlf_20260925_1506_98d245b7.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-zeitzeugen-im-gespraech:dcf03ae4-9234-5bc4-a7bd-7597b74aeb3c",
     "source": "dlf-zeitzeugen-im-gespraech",
     "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
     "type": "rss",
-    "title": "Opposition in der DDR: Zwei Theologinnen erinnern sich",
+    "title": "Opposition in der DDR - Zwei Theologinnen erinnern sich",
     "summary": "Eigentlich wollten Friederike Spengler und Katja Simon 1989 in Jena Theologie studieren. Doch dann kam alles anders. Sie organisierten politische Andachten und wurden Teil der Friedlichen Revolution. Für DDR-Nostalgie aber haben sie nichts übrig. Herzing, Johanna www.deutschlandfunk.de, Zeitzeugen im Gespräch",
     "date": "2026-09-24T17:15:00.000Z",
     "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-kirche-und-ddr-opposition-f-spengler-und-k-simon-100.html",
@@ -259,136 +464,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:1352feff-fced-5335-985f-775128911b8b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 23.09.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:56:40.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/kulturmeldungen_23092026_dlf_20260923_1756_771e16a3.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f2c13aa0-eb62-5291-9371-65d68e85a359",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Doch kein Ort für die Freie Szene: Wie es im Schauspiel-Depot in Köln weitergeht",
-    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:51:52.000Z",
-    "url": "https://www.deutschlandfunk.de/doch-kein-ort-fuer-die-freie-szene-wie-es-im-schauspiel-depot-in-koeln-weitergeht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/doch_kein_ort_fuer_die_freie_szene_wie_es_im_schauspiel_dlf_20260923_1751_371cbf63.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:aac58d04-12ba-5099-b662-9448e4420644",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Cézanne et nous\" - Ausstellung über den Einfluss Cézannes im Grand Palais Paris",
-    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:46:30.000Z",
-    "url": "https://www.deutschlandfunk.de/c-zanne-et-nous-ausstellung-ueber-den-einfluss-c-zannes-im-grand-palais-paris-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/cezanne_et_nous_ausstellung_ueber_den_einfluss_cezannes_im_dlf_20260923_1746_ba1ba209.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bd77e5d9-92d6-560d-94a3-470911b4e8b9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Morgen kommen die Russen\". CHILL - Internationales Literaturfestival in Moldau",
-    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:41:18.000Z",
-    "url": "https://www.deutschlandfunk.de/morgen-kommen-die-russen-chill-internationales-literaturfestival-in-moldau-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/morgen_kommen_die_russen_chill_internationales_dlf_20260923_1741_da19efab.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:88687c7b-8f63-5626-b069-b0a669c56b5d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Das geträumte Abenteuer\" - Der neue Film von Valeska Grisebach",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-23T15:35:31.000Z",
-    "url": "https://www.deutschlandfunk.de/das-getraeumte-abenteuer-der-neue-film-von-valeska-grisebach-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/das_getraeumte_abenteuer_der_neue_film_von_valeska_grisebach_dlf_20260923_1735_af14979d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:83ff0a37-c66b-5606-acc4-18fcfdc5e1e1",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -489,31 +564,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:8b456081-c15d-5a37-a360-7e342eee4a76",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Comic \"Gib nicht auf!\" - Birgit Weyhe illustriert die Verfolgung einer Jesidin",
-    "summary": "Heinze, Andrea www.deutschlandfunk.de, Corso",
-    "date": "2026-09-22T13:08:32.000Z",
-    "url": "https://www.deutschlandfunk.de/comic-gib-nicht-auf-birgit-weyhe-illustriert-die-verfolgung-einer-jesidin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/comic_gib_nicht_auf_birgit_weyhe_illustriert_die_verfolgung_dlf_20260922_1508_6664ce78.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-das-feature:5fd1a590-0beb-52f9-b309-d373093249d8",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -562,56 +612,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8b77b1d8-e2c6-5552-9bda-3350168468f2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Grobi, Elmo und Co - Bildband zur \"Sesamstraße\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-21T13:20:43.000Z",
-    "url": "https://www.deutschlandfunk.de/grobi-elmo-und-co-bildband-zur-sesamstrasse-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/grobi_elmo_und_co_bildband_zur_sesamstrasse_dlf_20260921_1520_a3ee2ce4.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:985a8706-d2db-56b8-8550-fcdbff41654f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Barbie Breakout über die Doku \"Feindbild Queer\" und ihre Realität",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-21T13:13:30.000Z",
-    "url": "https://www.deutschlandfunk.de/barbie-breakout-ueber-die-doku-feindbild-queer-und-ihre-realitaet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/barbie_breakout_ueber_die_doku_feindbild_queer_und_ihre_dlf_20260921_1513_5953b906.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

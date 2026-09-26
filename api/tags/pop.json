@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:4601f082-657c-5743-9db7-c372018bfaed",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Was spielt man als Zugabe? Die Pulp-Doku \"What Do You Do For An Encore?\"",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-25T13:24:34.000Z",
+    "url": "https://www.deutschlandfunk.de/was-spielt-man-als-zugabe-die-pulp-doku-what-do-you-do-for-an-encore-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/was_spielt_man_als_zugabe_die_pulp_doku_what_do_you_do_for_dlf_20260925_1524_35c35259.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b22c66b8-97cf-57d7-a05e-f6073f29bff8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Edith Löhle über ihre Satire \"Kurzer Prozess\" und Pumuckl, Alf Co. vor Gericht",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-09-25T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/edith-loehle-ueber-ihre-satire-kurzer-prozess-und-pumuckl-alf-co-vor-gericht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/edith_loehle_ueber_ihre_satire_kurzer_prozess_und_pumuckl_dlf_20260925_1515_bd210954.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0654fd28-6909-5b44-ac1a-f3ba331da0f7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "The Beauty of Ballroom - Doku über queere Szene in Südostasien",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-09-25T13:06:10.000Z",
+    "url": "https://www.deutschlandfunk.de/the-beauty-of-ballroom-doku-ueber-queere-szene-in-suedostasien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/the_beauty_of_ballroom_doku_ueber_queere_szene_in_dlf_20260925_1506_98d245b7.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:8b451871-04d3-5994-b329-5a62bebb4632",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/sammelband_der_koerper_im_hiphop_physis_als_zentrum_der_dlf_20260922_1515_ddda3802.mp3?refId=corso-104",
     "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8b456081-c15d-5a37-a360-7e342eee4a76",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Comic \"Gib nicht auf!\" - Birgit Weyhe illustriert die Verfolgung einer Jesidin",
-    "summary": "Heinze, Andrea www.deutschlandfunk.de, Corso",
-    "date": "2026-09-22T13:08:32.000Z",
-    "url": "https://www.deutschlandfunk.de/comic-gib-nicht-auf-birgit-weyhe-illustriert-die-verfolgung-einer-jesidin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/comic_gib_nicht_auf_birgit_weyhe_illustriert_die_verfolgung_dlf_20260922_1508_6664ce78.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8b77b1d8-e2c6-5552-9bda-3350168468f2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Grobi, Elmo und Co - Bildband zur \"Sesamstraße\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-21T13:20:43.000Z",
-    "url": "https://www.deutschlandfunk.de/grobi-elmo-und-co-bildband-zur-sesamstrasse-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/grobi_elmo_und_co_bildband_zur_sesamstrasse_dlf_20260921_1520_a3ee2ce4.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:985a8706-d2db-56b8-8550-fcdbff41654f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Barbie Breakout über die Doku \"Feindbild Queer\" und ihre Realität",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-09-21T13:13:30.000Z",
-    "url": "https://www.deutschlandfunk.de/barbie-breakout-ueber-die-doku-feindbild-queer-und-ihre-realitaet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/21/barbie_breakout_ueber_die_doku_feindbild_queer_und_ihre_dlf_20260921_1513_5953b906.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
