@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:91b37662-24c1-594a-8e1c-a8283437cced",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 26.09.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-26T15:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/kulturmeldungen_26092026_dlf_20260926_1757_5f96ea19.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:261efacb-ccc9-5c6d-a089-f1b6dbfcbb0e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Warner Bros. und Paramount: Rettung oder Untergang des Kinos?",
+    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-26T15:52:15.000Z",
+    "url": "https://www.deutschlandfunk.de/warner-bros-und-paramount-rettung-oder-untergang-des-kinos-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/warner_bros_und_paramount_rettung_oder_untergang_des_kinos_dlf_20260926_1752_8c94049f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7b0eb35c-a98c-5394-b081-bcc1726360bb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bauhaus-Künstlerin Benita Koch-Otte in einer Ausstellung in Halle",
+    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-26T15:47:10.000Z",
+    "url": "https://www.deutschlandfunk.de/bauhaus-kuenstlerin-benita-koch-otte-in-einer-ausstellung-in-halle-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/bauhaus_kuenstlerin_benita_koch_otte_in_einer_ausstellung_in_dlf_20260926_1747_1590e3d2.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6afde102-09d3-5501-92e7-8936b3e40f05",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Julia Wissert inszeniert \"Richard III.\" mit dem RambaZamba Theater Berlin",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-26T15:42:05.000Z",
+    "url": "https://www.deutschlandfunk.de/julia-wissert-inszeniert-richard-iii-mit-dem-rambazamba-theater-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/julia_wissert_inszeniert_richard_iii_mit_dem_rambazamba_dlf_20260926_1742_508d0e33.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ba3405c8-f408-5612-8ee5-5bb39cf2ae3d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"In bester Lage\" - Kay Voges eröffnet das neue alte Kölner Schauspielhaus",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-26T15:37:00.000Z",
+    "url": "https://www.deutschlandfunk.de/in-bester-lage-kay-voges-eroeffnet-das-neue-alte-koelner-schauspielhaus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/in_bester_lage_kay_voges_eroeffnet_das_neue_alte_koelner_dlf_20260926_1737_e688ce7d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b6e61002-c9bc-5e5a-8caf-35db81ea7321",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kim Hess über ihren Film \"Between Times - The Hamburg Ballett in Transition\"",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-26T15:30:45.000Z",
+    "url": "https://www.deutschlandfunk.de/kim-hess-ueber-ihren-film-between-times-the-hamburg-ballett-in-transition-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/kim_hess_ueber_ihren_film_between_times_the_hamburg_ballett_dlf_20260926_1730_e686a13c.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:351b4869-6c28-5af6-8438-ce470ebb700e",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -89,162 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/gegenwart_der_vergangenheit_ein_literarisch_musikalischer_dlf_20260925_1742_8f6500a9.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:72dc0f51-cd7e-555f-96b3-92f7741f0ee8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mehr Mut, weniger Kanon - Mainz ist Opernhaus des Jahres",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-25T15:36:35.000Z",
-    "url": "https://www.deutschlandfunk.de/mehr-mut-weniger-kanon-mainz-ist-opernhaus-des-jahres-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/mehr_mut_weniger_kanon_mainz_ist_opernhaus_des_jahres_dlf_20260925_1736_0e633775.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:89c4c7db-0061-57ef-9166-019256dde3a0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 24.09.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-24T15:56:15.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/24/kulturmeldungen_24092026_dlf_20260924_1756_b86c0a4f.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3c17fc14-f481-5d70-8f1f-8e2a56452f60",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Für die Kunstfreiheit - Die Initiative \"European Artistic Freedom Act\"",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-24T15:50:52.000Z",
-    "url": "https://www.deutschlandfunk.de/fuer-die-kunstfreiheit-die-initiative-european-artistic-freedom-act-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/24/fuer_die_kunstfreiheit_die_initiative_european_artistic_dlf_20260924_1750_bb6add23.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d994f65a-a7a7-5adb-a5c6-8ffeeb6a6891",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Immendorff\" - Der Malerfürst in einer großen Ausstellung in Düsseldorf",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-24T15:45:33.000Z",
-    "url": "https://www.deutschlandfunk.de/immendorff-der-malerfuerst-in-einer-grossen-ausstellung-in-duesseldorf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/24/immendorff_der_malerfuerst_in_einer_grossen_ausstellung_in_dlf_20260924_1745_5769a456.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:66bc7b2d-b0f7-5c56-883b-8ff4acb60900",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie antisemitisch sind die Deutschen? Zu Adornos \"Gruppenexperiment\"",
-    "summary": "Scheffer, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-24T15:40:30.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-antisemitisch-sind-die-deutschen-zu-adornos-gruppenexperiment-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/24/wie_antisemitisch_sind_die_deutschen_zu_adornos_dlf_20260924_1740_d6682d25.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e40d57fa-15fd-538d-b4cd-adaa9bf2d727",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die französische Linke und der Antisemitismus - Fachkonferenz in Paris",
-    "summary": "Detjen, Stephan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-24T15:35:15.000Z",
-    "url": "https://www.deutschlandfunk.de/die-franzoesische-linke-und-der-antisemitismus-fachkonferenz-in-paris-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/24/die_franzoesische_linke_und_der_antisemitismus_fachkonferenz_dlf_20260924_1735_4466d3e2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
