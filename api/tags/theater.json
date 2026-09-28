@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:1dc26a5b-001b-53c1-bff3-60b371352425",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 27.09.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-27T15:56:29.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-27-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/kulturmeldungen_27092026_dlf_20260927_1756_67bb07d1.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d28b314d-7526-52f1-bff7-97d20aafc595",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Historiker Nils Franke zur Hufeisentheorie: Sind links und rechts gleich?",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-27T15:47:45.000Z",
+    "url": "https://www.deutschlandfunk.de/historiker-nils-franke-zur-hufeisentheorie-sind-links-und-rechts-gleich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/historiker_nils_franke_zur_hufeisentheorie_sind_links_und_dlf_20260927_1747_7cba0498.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:31165e06-c930-56f1-a930-ac3bdbb0ccf0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Architektur für die Sinne - Ausstellung zu Geoffrey Bawas Werk in Weil am Rhein",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-27T15:43:30.000Z",
+    "url": "https://www.deutschlandfunk.de/architektur-fuer-die-sinne-ausstellung-zu-geoffrey-bawas-werk-in-weil-am-rhein-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/architektur_fuer_die_sinne_ausstellung_zu_geoffrey_bawas_dlf_20260927_1743_92b8f370.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1e88a294-8e16-55cc-a4af-657596365a8a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Fremde Sonne\" - Der neue Antiken-Marathon von Roland Schimmelpfennig in Hamburg",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-27T15:37:45.000Z",
+    "url": "https://www.deutschlandfunk.de/fremde-sonne-der-neue-antiken-marathon-von-roland-schimmelpfennig-in-hamburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/fremde_sonne_der_neue_antiken_marathon_von_roland_dlf_20260927_1737_39b7c63d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:49666877-2d87-5314-b27a-6dd91b4a9527",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"La Vestale\" von Gaspare Spontini an der Berliner Lindenoper",
+    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-27T15:30:30.000Z",
+    "url": "https://www.deutschlandfunk.de/la-vestale-von-gaspare-spontini-an-der-berliner-lindenoper-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/la_vestale_von_gaspare_spontini_an_der_berliner_lindenoper_dlf_20260927_1730_83b6cc1a.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:91b37662-24c1-594a-8e1c-a8283437cced",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/in_bester_lage_kay_voges_eroeffnet_das_neue_alte_koelner_dlf_20260926_1737_e688ce7d.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b6e61002-c9bc-5e5a-8caf-35db81ea7321",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kim Hess über ihren Film \"Between Times - The Hamburg Ballett in Transition\"",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-26T15:30:45.000Z",
-    "url": "https://www.deutschlandfunk.de/kim-hess-ueber-ihren-film-between-times-the-hamburg-ballett-in-transition-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/kim_hess_ueber_ihren_film_between_times_the_hamburg_ballett_dlf_20260926_1730_e686a13c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:351b4869-6c28-5af6-8438-ce470ebb700e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 25.09.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-25T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-25-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/kulturmeldungen_25092026_dlf_20260925_1757_d960f4d2.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:10cac5f2-8311-5e52-a92a-c9756d7e3343",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kein Antisemitismus - Neue Bedingungen für die Berliner Kulturförderung",
-    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-25T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kein-antisemitismus-neue-bedingungen-fuer-die-berliner-kulturfoerderung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/kein_antisemitismus_neue_bedingungen_fuer_die_berliner_dlf_20260925_1752_e6673027.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8b3c5a24-3c88-5116-80ab-4fb84de1e7fa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Geierwally\" am Münchner Volkstheater",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-25T15:47:04.000Z",
-    "url": "https://www.deutschlandfunk.de/die-geierwally-am-muenchner-volkstheater-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/die_geierwally_am_muenchner_volkstheater_dlf_20260925_1747_d365d3e4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f1ce11e5-ee7d-558c-ab36-71f14ac65bbb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gegenwart der Vergangenheit - Ein literarisch-musikalischer Abend in München",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-25T15:42:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gegenwart-der-vergangenheit-ein-literarisch-musikalischer-abend-in-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/gegenwart_der_vergangenheit_ein_literarisch_musikalischer_dlf_20260925_1742_8f6500a9.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",

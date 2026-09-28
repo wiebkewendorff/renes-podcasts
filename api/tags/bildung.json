@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:0da475ac385fb5bc221e3fb2002a12fc",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Vom Holz zum Himmel: William Edward Boeing",
+    "summary": "<p>Das Leben des Flugzeugpioniers William Edward Boeing endet am 23.9.1956 auf seiner Yacht in der Meeresbucht vor Seattle. Sein Name bleibt in und über unseren Köpfen.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Wolfgang Meyer:</strong><br><ul><li>wie William Edward Boeing nach dem Ersten Weltkrieg von der Flugzeugproduktion auf Schlafzimmermöbel umsteigt,</li><li>mit welchem Flugzeugtyp Boeing im Jahr 1933 Luftfahrtgeschichte schreibt,</li><li>warum William Boeing der Luftfahrtbranche schon mit 52 Jahren den Rücken kehrt</li><li>und von den Rätseln um den Tod des Flugzeugbauers William Edward Boeing</li></ul><br>William Edward Boeing ist der Sohn des deutschen Bergbau-Ingenieurs Wilhelm Böing und der ebenfalls deutschstämmigen Marie Ortmann. Sein Vater verlässt als 22-Jähriger seine Heimatstadt Hohenlimburg an der Lenne im Ruhrgebiet und kommt im US-amerikanischen Detroit mit Bauholzhandel zu beträchtlichem Reichtum.<br><br>1910 wird Boeing als 28-Jähriger in Los Angeles bei der ersten großen Flugschau Amerikas von der Faszination der Fliegerei gepackt. 1915 beginnt Boeing in Seattle zusammen mit seinem Kollegen George Conrad Westervelt die Arbeit an einem Wasserflugzeug aus Holz, Leinen und Draht.<br><br>Rund 38 Jahre nach der ersten Firmengründung rollt ein Prototyp aus den Boeing-Hallen - es ist der Urahn der Boeing 707, des ersten großen Düsenverkehrsflugzeugs. Bei der Taufe ist der Gründer noch einmal dabei. Mit 72 Jahren schaut William Boeing auf den Beginn des Jet-Zeitalters. Erleben wird er es nicht mehr.<br><br><strong>Das sind unsere wichtigsten Quellen:</strong><br><ul><li>HistoryLink.org: William Edward (1881–1956) Boeing. Essay 8023</li><li>Brian Schefke: William Edward Boeing. In: Immigrant Entrepreneurship - German-American Business Biographies (German Historical Institute). 2011/2018 </li><li>Mike Lombardi: Historical Perspective - 50 Years at the Leading Edge. Boeing Frontiers. August 2009</li><li>Heimatverein Hohenlimburg: Dokumentation Gedenktafel Boeing-Geburtshaus, 2016</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/stichtag/stichtag4214.html\" rel=\"noopener\" target=\"_blank\">09. Februar 2009 - Vor 40 Jahren: Erstflug der Boeing 747</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag-gruendung-boeing-100.html\" rel=\"noopener\" target=\"_blank\">15. Juli 1916: Gründung der Boeing-Flugzeugwerke</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/technik/luftfahrt/fliegen_nach_dem_vorbild_der_natur/otto-lilienthal-fliegen-vorbild-natur-100.html\" rel=\"noopener\" target=\"_blank\">Otto Lilienthal und das Fliegen</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/technik/luftfahrt/pwtkluftfahrt100.html\" rel=\"noopener\" target=\"_blank\">Übersichtsseite Luftfahrt</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Wolfgang Meyer<br>Redaktion: Christoph Tiegel und Sefa Inci Suvak",
+    "date": "2026-09-28T04:00:39.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-vom-holz-zum-himmel-william-boeing-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-william-edward-boeing-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/23/8f8f9a56-b29d-4645-94d6-057808ba2e8e/8f8f9a56-b29d-4645-94d6-057808ba2e8e_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:ea98d0eec255c5c6cb1034e5c9be7484",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -468,29 +491,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-akte-oetzi-wie-starb-der-steinzeit-mann-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-oetzi-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/a44f362c-cfe6-4a24-a65d-c8ede8a3807d/a44f362c-cfe6-4a24-a65d-c8ede8a3807d_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:264cbdadc8ce2d00ba8644b9703437ae",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Kampf gegen die Revolution der Männer: Olympe de Gouges",
-    "summary": "<p>Ist in der Französischen Revolution von Menschenrechten die Rede, sind nur die Rechte von Männern gemeint. Olympe de Gouges kämpft im September 1791 dagegen an - und gibt dafür ihr Leben.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Claudia Friedrich:</strong><br><ul><li>wie Olympe de Gouges aus Männerrechten Menschenrechte macht, </li><li>warum sie schon früh gegen Sklaverei und Unterdrückung anschreibt, </li><li>weshalb ihre Forderungen nach Gleichberechtigung auf taube Ohren stoßen, </li><li>wie sie zur schärfsten Kritikerin Robespierres wird, </li><li>warum ihr Name fast 200 Jahre lang vergessen bleibt.</li></ul><br>Mit der Französischen Revolution verbinden viele Menschen die Parole \"Freiheit, Gleichheit, Brüderlichkeit\". Olympe de Gouges erkennt jedoch früh, dass die gefeierten Menschenrechte Frauen nicht einschließen. 1791 formuliert sie deshalb ihre eigene Erklärung der Rechte der Frau und Bürgerin und fordert politische, gesellschaftliche und rechtliche Gleichstellung.<br><br>Die Schriftstellerin mischt sich immer wieder in die politischen Konflikte ihrer Zeit ein. Sie kritisiert Gewalt, Terror, Machtmissbrauch und Sklaverei und verteidigt ihre Überzeugungen unbeirrt. Damit macht sie sich mächtige Feinde. Nach ihrer Verhaftung wird sie 1793 vor das Revolutionstribunal gestellt und hingerichtet. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Dr . Heike Specht (Historikerin und Autorin)</li><li> Olympe de Gouges : Die Rechte der Frau und andere Texte. Stuttgart 2018</li><li> Olympe de Gouges : Denkschrift der Madame de Valmont . Sulzbach 1987</li><li>Heike Specht: Nicht mit uns! Wie Frauen Geschichte schrieben und wieder ausradiert wurden. Eine Warnung. München 2026</li><li>Sibylle Peine: Olympe de Gouges . In: Ohne Furcht ins Weite hinaus. Biographien streitbarer Frauen. Solothurn und Düsseldorf 1995</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://www.fembio.org/biographie.php/frau/biographie/olympe-de-gouges\" rel=\"noopener\" target=\"_blank\"> Olympe de Gouges bei FemBio</a></li><li>Olympe de Gouges: <a href=\"https://www.hs-augsburg.de/gallica/Chronologie/18siecle/DeGouges/gou_negr.html\" rel=\"noopener\" target=\"_blank\">Reflexionen über die versklavten schwarzen Menschen (französisch)</a></li><li>Olympe de Gouges: <a href=\"https://fr.wikisource.org/wiki/Testament_politique_d%E2%80%99Olympe_de_Gouges\" rel=\"noopener\" target=\"_blank\">Politisches Testament (französisch)</a></li><li>Zeitzeichen 06.05.1758: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-robespierre-geburtstag-100.html\" rel=\"noopener\" target=\"_blank\">Maximilien Robespierre wird geboren </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Claudia Friedrich<br>Redaktion: Frank Zirpins",
-    "date": "2026-09-18T04:00:49.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-kampf-gegen-die-revolution-der-maenner-olympe-de-gouges-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-olympe-de-gouges-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/55915a19-7201-4c66-8317-15fd55f1d377/55915a19-7201-4c66-8317-15fd55f1d377_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
