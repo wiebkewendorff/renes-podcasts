@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:42546f49-fd3d-5db4-8797-cb18e5230834",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Klimaalbtraum - Kohlenstoffprojekte gefährden indigene Völker",
+    "summary": "Volkswagen setzt in Tansania auf CO₂-Projekte, um seine Klimabilanz zu verbessern. Dafür soll die traditionelle Weidewirtschaft der Massai verändert werden. Eine Recherche zur wissenschaftlichen Grundlage der Klimaversprechen – und die Folgen für die Massai, deren Lebensweise auf dem Spiel steht. Von Katharina Nickoleit www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-29T08:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/klimaalbtraum-kohlenstoffprojekte-gefaehrden-indigene-voelker-100.html",
+    "image": "https://bilder.deutschlandfunk.de/78/e1/de/71/78e1de71-4780-4303-b672-912d44c97c9d/bild-fuer-klimaalbtraum-massaii-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/klimaalbtraum_wie_die_massai_die_co2_bilanz_von_vw_dlf_20260923_1915_32ed401f.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:5fd1a590-0beb-52f9-b309-d373093249d8",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/ca/c3/a8/62/cac3a862-e69f-4190-8621-11984804c650/bild-fuer-breaking-dad-afp-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/breaking_dad_xu_wei_rettet_sein_kind_dlf_20260811_1915_ccd72371.mp3?refId=das-feature-104",
     "duration": "53 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-08-04-doku-drops-15-innenansichten-drk-20260804-1805-cd4b90c6-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "doku drops 15: Innenansichten - Jeden Monat neue Kurzdokus",
-    "summary": "Was kann uns unser Körper sagen, wenn wir ganz genau hinhören? Drei Autorinnen kehren das Innere nach Außen und betrachten, was im Körper brodelt. Ein Remix aus alten und neuen Kurzdokus. Zusammenstellung: Judith Geffert www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-08-04T16:05:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/doku-drops-15-innenansichten-102.html",
-    "image": "https://bilder.deutschlandfunk.de/5d/c3/1f/38/5dc31f38-6f9c-4428-ae53-1da19f2ca8c2/doku-drops-15-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/doku_drops_15_innenansichten_drk_20260804_1805_cd4b90c6.mp3?refId=das-feature-104",
-    "duration": "28 Min",
     "tags": [
       "feature",
       "dokumentation",

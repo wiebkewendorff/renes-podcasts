@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:612e36d5-c556-5517-bd8c-97f6779a6560",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Angst zieht Camouflage an - Outfits für den 3. Weltkrieg auf TikTok",
+    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
+    "date": "2026-09-28T13:25:48.000Z",
+    "url": "https://www.deutschlandfunk.de/angst-zieht-camouflage-an-outfits-fuer-den-3-weltkrieg-auf-tiktok-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/angst_zieht_camouflage_an_outfits_fuer_den_3_weltkrieg_auf_dlf_20260928_1525_fa4fd4f6.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ed382519-4f51-522d-acc0-b466258d2aef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "MTV-Awards - Welche Bedeutung spielen Videos und virale Momente?",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-09-28T13:10:33.000Z",
+    "url": "https://www.deutschlandfunk.de/mtv-awards-welche-bedeutung-spielen-videos-und-virale-momente-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/mtv_awards_welche_bedeutung_spielen_videos_und_virale_dlf_20260928_1510_8e4e2111.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:706141bb-9c52-5c5d-ad68-fe80fd635eb4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Was heute als männlich gilt, war es nicht immer",
+    "summary": "Leistung, Muskeln, Ergebnisse - das gängige Männlichkeitsideal scheint klar definiert. Das Stereotyp habe historisch betrachtet aber nicht immer so ausgesehen, sagt Moderator und Autor Riccardo Simonetti. Darüber hat er nun ein Buch geschrieben. Müller, Paulus; Simonetti, Riccardo www.deutschlandfunk.de, Corso",
+    "date": "2026-09-28T13:05:56.000Z",
+    "url": "https://www.deutschlandfunk.de/die-facetten-von-maennlichkeit-zum-buch-wann-ist-ein-mann-ein-mann-100.html",
+    "image": "https://bilder.deutschlandfunk.de/1e/5b/54/10/1e5b5410-934b-4d5a-b510-2b93c70239d0/bodybuilder-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/die_facetten_von_maennlichkeit_zum_buch_wann_ist_ein_mann_dlf_20260928_1505_5df77232.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:902958fa-9f8f-52b8-876b-452e8c0586b8",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/trailer_podcast_crashkurs_wirtschaft_trifft_geschichte_dlf_20260925_1505_eb62b56c.mp3?refId=corso-104",
     "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8b451871-04d3-5994-b329-5a62bebb4632",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Eindrücke vom Set - Wie aus Babylon Berlin 4 Blocks Zero wird",
-    "summary": "Wollner, Anna www.deutschlandfunk.de, Corso",
-    "date": "2026-09-24T13:15:28.000Z",
-    "url": "https://www.deutschlandfunk.de/eindruecke-vom-set-wie-aus-babylon-berlin-4-blocks-zero-wird-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/24/eindruecke_vom_set_wie_aus_babylon_berlin_4_blocks_zero_wird_dlf_20260924_1515_d4b62201.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8caec6d7-6f1e-560d-9c48-eaaebcd262cf",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"More than Gossip\" - Gespräch mit Gizem Çelik",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-09-24T13:15:23.000Z",
-    "url": "https://www.deutschlandfunk.de/more-than-gossip-gespraech-mit-gizem-elik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/24/more_than_gossip_gespraech_mit_gizem_celik_dlf_20260924_1515_f7b82694.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e6cc7271-9c7b-5af2-b62b-fe3a27353515",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Im Rennen um die Oscar-Shortlist: \"Von Scham und Geld\"",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-09-24T13:05:05.000Z",
-    "url": "https://www.deutschlandfunk.de/im-rennen-um-die-oscar-shortlist-von-scham-und-geld-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/24/im_rennen_um_die_oscar_shortlist_von_scham_und_geld_dlf_20260924_1505_e4afedab.mp3?refId=corso-104",
-    "duration": "8 Min",
     "tags": [
       "kultur",
       "pop",

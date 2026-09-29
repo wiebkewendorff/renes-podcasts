@@ -1,5 +1,360 @@
 [
   {
+    "id": "dlf-das-feature:42546f49-fd3d-5db4-8797-cb18e5230834",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Klimaalbtraum - Kohlenstoffprojekte gefährden indigene Völker",
+    "summary": "Volkswagen setzt in Tansania auf CO₂-Projekte, um seine Klimabilanz zu verbessern. Dafür soll die traditionelle Weidewirtschaft der Massai verändert werden. Eine Recherche zur wissenschaftlichen Grundlage der Klimaversprechen – und die Folgen für die Massai, deren Lebensweise auf dem Spiel steht. Von Katharina Nickoleit www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-29T08:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/klimaalbtraum-kohlenstoffprojekte-gefaehrden-indigene-voelker-100.html",
+    "image": "https://bilder.deutschlandfunk.de/78/e1/de/71/78e1de71-4780-4303-b672-912d44c97c9d/bild-fuer-klimaalbtraum-massaii-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/klimaalbtraum_wie_die_massai_die_co2_bilanz_von_vw_dlf_20260923_1915_32ed401f.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:3128fc263e1ca6fa8cbed53b7ea5b430",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Der letzte Mensch, der alles wusste: Enrico Fermi",
+    "summary": "<p>Der größte italienische Wissenschaftler seit Galilei, genialer Nobelpeisträger, Vater des Atomzeitalters. Enrico Fermi, geboren am 29.9.1901, war wohl der letzte Mensch, der die gesamte Physik verstand.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martin Herzog:</strong><br><ul><li>wie aus einer beiläufigen Mittagsdiskussion das berühmte Fermi-Paradoxon entsteht, </li><li>warum Fermi als \"der letzte Mensch, der alles wusste\" bezeichnet wird, </li><li>wie seine Pi-mal-Daumen-Methode zu erstaunlich präzisen Ergebnissen führt, </li><li>weshalb er Mussolinis Italien nach der Nobelpreisverleihung verlässt, </li><li>welche Schlüsselrolle er beim Bau des ersten Atomreaktors spielt.</li></ul><br>In der Physik begegnet man seinem Namen auf Schritt und Tritt: Fermi-Dirac-Statistik, Fermi-Wechselwirkung oder Fermi-Paradoxon. Schon als Jugendlicher verschlingt Enrico Fermi Fachliteratur und beeindruckt seine Umgebung mit außergewöhnlicher Begabung. Später gehört er zu den prägenden Köpfen einer Epoche, in der Relativitäts- und Quantentheorie das Weltbild revolutionieren.<br><br>Sein Leben führt von Rom über Stockholm und New York bis nach Los Alamos. Dort wirkt er entscheidend an Entwicklungen mit, die das 20. Jahrhundert verändern. Trotz seines gewaltigen Wissens bleibt Fermi laut Weggefährten zugänglich, begeisterter Lehrer und jemand, der komplexe Probleme auf ihren einfachsten Kern reduziert.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>David Schwartz (Fermi-Biograf)</li><li>David Schwartz: The Last Man Who Knew Everything. The Life and Times of Enrico Fermi, Father of the Nuclear Age. New York 2017</li><li>To Fermi with Love: <a href=\"https://ahf.nuclearmuseum.org/voices/oral-histories/fermi-love-part-1/\" rel=\"noopener\" target=\"_blank\">Erinnerungen seiner Freunde und Wegbegleiter</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 06.08.1945: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/hiroshima-106.html\" rel=\"noopener\" target=\"_blank\">Abwurf der Atombombe auf Hiroshima</a></li><li>Zeitzeichen 26.03.1938: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-ettore-majorana-100.html\" rel=\"noopener\" target=\"_blank\">Der italienische Physiker Ettore Majorana verschwindet</a></li><li>Zeitzeichen 23.10.1912: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-wernher-von-braun-geboren-100.html\" rel=\"noopener\" target=\"_blank\">Raketeningenieur Wernher von Braun wird geboren </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martin Herzog<br>Redaktion: David Rother",
+    "date": "2026-09-29T04:00:59.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-letzte-mensch-der-alles-wusste-enrico-fermi-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-enrico-fermi-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/ccc485a3-ae1f-44a5-bae4-4c25d56e909a/ccc485a3-ae1f-44a5-bae4-4c25d56e909a_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4062916",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Energiewende in Afrika",
+    "summary": "Solar boomt in Afrika\n\n<p> Auf dem afrikanischen Kontinent boomt die Energiewende: Für dieses Jahr wird ein Wachstum der Kapazität um 17 Gigawatt prognostiziert. Rund 100.000 Solarpanele werden auf dem Kontinent jeden Tag auf Dächern und Freiflächen installiert. Die Voraussetzungen für die Energiewende sind in jedem Land unterschiedlich, genauso wie die Herausforderungen, die damit verbunden sind. In Madagaskar haben laut Weltbank 42,5 Prozent der Bevölkerung Zugang zu Elektrizität, in ländlichen Gegenden sind es 26,5 Prozent. Die staatliche Stromversorgung steht dabei vor einer besonderen Herausforderung: In den dünn besiedelten ländlichen Regionen ist es sehr aufwändig, überall ein klassisches, zentrales Stromnetz auszubauen. Deshalb vergibt die Regierung Konzessionen an Unternehmen wie Kintana, die den Zugang zu Elektrizität dezentral aufbauen sollen.</p>\n\nStromversorgung in ländlichen Gebieten aufbauen\n\n<p>Kintana hat eine Konzession dafür, ländliche Gemeinden dezentral durch Solaranlagen in sogenannten Mini- oder Nano-Grids mit Strom zu versorgen. Das bedeutet ganz konkret: Sie ziehen die ganze Infrastruktur hoch und sind anschließend auch der Stromanbieter. Das Konzessionsgebiet von Kintana umfasst nach Angaben des Unternehmens 340.000 Menschen. Außerdem soll ein Wasserkraftwerk gebaut werden. Kintana-CEO Moritz Brauchle sagt, dass das auch bei einer Konzession über 25 Jahre ein ambitioniertes Ziel sei.</p>\n\nWie die Energiewende in Madagaskar finanziert wird und wie es in Südafrika und Kenia läuft, darüber hat <em>detektor.fm</em>-Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“ mit ihrer Kollegin Marisa Becker gesprochen.",
+    "date": "2026-09-29T04:00:32.000Z",
+    "url": "https://feedpress.me/link/19604/17477120/mission-energiewende-energiewende-in-afrika",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260929-02missionenergiewendeenergiewendeinafrika.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260929-02missionenergiewendeenergiewendeinafrika.63.mp3",
+    "duration": "24 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeit-auch-das-noch:35ec57ab-a8ee-480c-ac6c-5e68a89a972a",
+    "source": "zeit-auch-das-noch",
+    "sourceTitle": "Auch das noch? – DIE ZEIT",
+    "type": "rss",
+    "title": "Warum dieser langjährige Klimaschützer jetzt auf KI setzt",
+    "summary": "<p>Bernhard Lorentz hat den Thinktank Agora Energiewende und die Stiftung Klimaneutralität mit ins Leben gerufen. Beim globalen Beratungskonzern Deloitte ist er verantwortlich für Global Climate and Infrastructure – und er setzt auf künstliche Intelligenz als zentrales Werkzeug für die Dekarbonisierung. Über diese »grüne KI« hat er ein Buch geschrieben. Aber steht KI in der aktuellen Debatte nicht für alles Mögliche, nur nicht für Nachhaltigkeit und eine gerechtere Zukunft? Darüber unterhalten wir uns mit Lorentz im Krisenpodcast.</p><p>In jeder Folge von »Auch das noch? – Der freundliche Krisenpodcast« sprechen ZEIT-Politikredakteurin <a href=\"https://www.zeit.de/autoren/P/Petra_Pinzler/index.xml\" rel=\"noopener\" target=\"_blank\">Petra Pinzler</a> und Wissenschaftsredakteur <a href=\"https://www.zeit.de/autoren/S/Stefan_Schmitt/index.xml\" rel=\"noopener\" target=\"_blank\">Stefan Schmitt</a> über eine Krise der Gegenwart: Es geht um die Klimakrise, das Artensterben, die Energiekrise und Kriege. Jedes Mal hilft eine Expertin oder ein Experte, zu verstehen, wie alles zusammenhängt. Nicht um zu verzweifeln, sondern weil Verstehen der erste Schritt zur Lösung ist. Und um Lösungen geht es natürlich auch.</p><p> </p><p><strong>Die Links zur Folge: </strong></p><ul><li><i>Grüne KI. Wie die Wirtschaft das Klima retten und den Wohlstand mehren kann</i> heißt das Buch von Bernhard Lorentz (Campus, 2026): <a href=\"https://campus.de/business-management/fuehrung-management/gruene-ki/CAM52286?srsltid=AfmBOor_u4zfRC8Qz5Yk2xVB7N3NpTZmPwK3DDeceUVdyWqMcjlIvDVP\" rel=\"noopener\" target=\"_blank\">https://campus.de/business-management/fuehrung-management/gruene-ki/CAM52286</a></li><li><i>Powering artificial intelligence</i> heißt die Studie des Beratungsunternehmens Deloitte vom November 2024, die im Podcast angesprochen wird: <a href=\"http://www.deloitte.com/global/en/issues/climate/powering-ai.html\" rel=\"noopener\" target=\"_blank\">www.deloitte.com/global/en/issues/climate/powering-ai.html</a></li><li>Und aus dem Folgejahr stammt die Deloitte-Studie <i>AI for energy systems</i>: <a href=\"https://www.deloitte.com/global/en/issues/climate/ai-for-energy-systems.html\" rel=\"noopener\" target=\"_blank\">https://www.deloitte.com/global/en/issues/climate/ai-for-energy-systems.html</a></li><li>Das ist der Artikel von Juliane Schäuble über die Proteste der Anwohner eines gigantischen Rechenzentrum-Projekts im US-Bundesstaat Utah aus der ZEIT 35/2026: <a href=\"https://www.zeit.de/2026/35/ki-rechenzentrum-utah-bau-infrastruktur-protest\" rel=\"noopener\" target=\"_blank\">https://www.zeit.de/2026/35/ki-rechenzentrum-utah-bau-infrastruktur-protest</a></li><li>Und im Autorenprofil von Nicolas Killian finden Sie alle Texte des KI-Korrespondenten der ZEIT im Silicon Valley: <a href=\"https://www.zeit.de/autoren/K/Nicolas_Killian/index\" rel=\"noopener\" target=\"_blank\">https://www.zeit.de/autoren/K/Nicolas_Killian/index</a></li></ul>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Doku-Podcasts, Bonusfolgen und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen.</a> Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht’s zum Angebot</a><strong>.</strong></p>",
+    "date": "2026-09-29T03:55:00.000Z",
+    "url": "https://www.zeit.de/auch-das-noch-krisenpodcast",
+    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f1e25ec7-2e55-45b6-a911-ce88f7d0b73e/3000x3000/auch-das-noch.jpg?aid=rss_feed",
+    "audio": "https://zeitonline.simplecastaudio.com/6debd049-34b3-4994-96b0-039fabb2761b/episodes/fd042c86-0a54-4319-a4d2-4e72c5c6de68/audio/128/default.mp3?aid=rss_feed&awCollectionId=6debd049-34b3-4994-96b0-039fabb2761b&awEpisodeId=fd042c86-0a54-4319-a4d2-4e72c5c6de68&feed=Sdxt6Bhy",
+    "duration": "60 Min",
+    "tags": [
+      "klima",
+      "krisen",
+      "umwelt",
+      "gesellschaft",
+      "politik",
+      "zeit"
+    ],
+    "category": [
+      "Öko-Wissenschaft",
+      "Gesellschaft",
+      "Politik"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "10-minuten-wissen-kunst:6abb270ef4720dfefb534afb",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
+    "type": "rss",
+    "title": "Gustave Courbet – Der Verzweifelte: Wie ein stummer Schrei der Jugend zur bittersten Wahrheit seines Lebens wurde",
+    "summary": "<p>Gustave Courbet malte mit 25 die Verzweiflung als Rolle – dreißig Jahre später war sie sein Leben geworden.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>In Genf hängt im Herbst 1877 ein kleines Bild unter dem Wort „Verzweiflung\": das Gesicht eines jungen Mannes, die Augen aufgerissen, die Hände im Haar – gemalt dreißig Jahre zuvor von einem Anfänger, eingereicht von einem todkranken Flüchtling. Wie Gustave Courbet sich als Fünfundzwanzigjähriger in Panik malte, warum ein gestürztes Denkmal ihn ins Exil trieb und wie dieses Gesicht heute als Meme um die Welt geht, enthüllt der Blick hinter dieses Werk.</p><br><p>Weiterführende Links</p><p>Das Werk beim Musée d'Orsay: <a href=\"https://www.musee-orsay.fr/en/artworks/autoportrait-de-lartiste-dit-aussi-desespoir-ou-encore-le-desespere-272956\" rel=\"noopener\" target=\"_blank\">Musée d'Orsay – Autoportrait dit Le Désespéré (EN)</a> </p><p>Wikipedia-Eintrag zum Werk: <a href=\"https://en.wikipedia.org/wiki/Le_D%C3%A9sesp%C3%A9r%C3%A9\" rel=\"noopener\" target=\"_blank\">Wikipedia – Le Désespéré (EN)</a> </p><p>Wikipedia-Eintrag zum Künstler: <a href=\"https://de.wikipedia.org/wiki/Gustave_Courbet\" rel=\"noopener\" target=\"_blank\">Wikipedia – Gustave Courbet</a> </p><p>Das Begräbnis in Ornans: <a href=\"https://de.wikipedia.org/wiki/Ein_Begr%C3%A4bnis_in_Ornans\" rel=\"noopener\" target=\"_blank\">Wikipedia</a> </p><p>Die Retrospektive in Essen: <a href=\"https://www.museum-folkwang.de/en/exhibition/i-gustave-courbet\" rel=\"noopener\" target=\"_blank\">Museum Folkwang – Ich, Gustave Courbet. Maler und Rebell</a> </p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-09-29T03:29:34.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/gustave-courbet-der-verzweifelte",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6abb270ef4720dfefb534afb/media.mp3",
+    "duration": "20 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
+    ],
+    "category": [
+      "Kunst",
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4064931",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Ersan Mondtag — Nackt im Museum",
+    "summary": "Nackte Körper\n<p>In Pferdekutschen, zu Fuß, gestützt oder auf dem Rücken werden die Alten und Gebrechlichen zum Wasser getragen. Im Gemälde „Der Jungbrunnen“ von Lucas Cranach dem Älteren steht eben jener im Zentrum. Er zeigt die Verwandlung alter und gebrechlicher Frauen in ihre jüngeren Ebenbilder. Manche steigen zögerlich ins Wasser, andere mit mehr Selbstbewusstsein, um dann erfrischt und verjüngt aus dem Wasser wieder hervorzugehen. Von einem — natürlich bekleideten — Kavalier werden sie daraufhin in ein Zelt geleitet, das sie prunkvoll gekleidet wieder verlassen, um den meist älteren Herren zu Tisch oder beim Tanz Gesellschaft zu leisten. Das Gemälde von 1546 spiegelt die Sehnsucht nach ewiger Jugend und Unsterblichkeit wider. Für Ersan Mondtag und Nadim Samman wurde es zum Ausgangspunkt für die Performance „Alternde Meister“ in der Gemäldegalerie, die im Rahmen der Berlin Art Week Anfang des Monats gezeigt wurde.</p>\n<p>Insgesamt 25 Performerinnen und Performer traten in dem Werk „Alternde Meister“ in einen Dialog mit den sie umgebenden Werken.</p>\nStaubige Körper\n<p>Der Körper mit all seinen gelebten Facetten, seiner Geschichte, seinem Werden und Vergehen spielte auch in Mondtags Werk „Monument eines unbekannten Menschen“ (2024) für den Deutschen Pavillon auf der 60. Venedig-Biennale vor zwei Jahren eine zentrale Rolle. Gemeinsam mit Yael Bartana vertrat Ersan Mondtag dort Deutschland und tauchte dafür tief in seine eigene Familiengeschichte ein. Mit „Monument eines unbekannten Menschen“ zeigte er ein sehr intimes und zugleich entlarvendes Werk über die deutsche Nachkriegszeit. Ersan Mondtag arbeitet als Regisseur, Bühnen- und Kostümbildner derzeit am Berliner Ensemble. Zuletzt inszenierte Mondtag im Rahmen der Salzburger Festspiele die Oper „Ariadne auf Naxos“ von Richard Strauss.</p>\n<p>In dieser Folge von „Kunst und Leben“, dem Podcast in Kooperation mit dem <em>Monopol-</em>Magazin, spricht <strong>Elke Buhr</strong>, Chefredakteurin des <em>Monopol</em>-Magazins mit <strong>Ersan Mondtag</strong> über seine Performance „Alternde Meister“, seinen Weg in die Kunst und seine Arbeit für den Deutschen Pavillon bei der 60. Venedig-Biennale.</p>",
+    "date": "2026-09-29T02:45:57.000Z",
+    "url": "https://feedpress.me/link/19604/17477028/monopol-podcast-ersan-mondtag",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/29092026monopol-podcastersan-mondtag.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/29092026monopol-podcastersan-mondtag.63.mp3",
+    "duration": "32 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0d512ff9-16ab-5a89-b8d0-606423fa698c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 28.09.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-28T15:56:29.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-28-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/kulturmeldungen_28092026_dlf_20260928_1756_28dbcc88.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:68b8e804-588e-5565-bea2-93bfa43e9b62",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Staatsrechtler Christoph Möllers zu 75 Jahre Bundesverfassungsgericht",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-28T15:50:33.000Z",
+    "url": "https://www.deutschlandfunk.de/staatsrechtler-christoph-moellers-zu-75-jahre-bundesverfassungsgericht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/staatsrechtler_christoph_moellers_zu_75_jahre_dlf_20260928_1750_4ddacc51.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:12759223-39f1-5104-89fd-aa37cabcee75",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Afrika Film Festival - Der Kino-Kontinent zu Gast in Köln",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-28T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/afrika-film-festival-der-kino-kontinent-zu-gast-in-koeln-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/afrika_film_festival_der_kino_kontinent_zu_gast_in_koeln_dlf_20260928_1746_a3d83fd2.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f7964bae-7bb4-5e04-ad39-ab83767c629d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Dreigroschenoper\" von Bertolt Brecht am Münchner Residenztheater",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-28T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-dreigroschenoper-von-bertolt-brecht-am-muenchner-residenztheater-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/die_dreigroschenoper_von_bertolt_brecht_am_muenchner_dlf_20260928_1741_f4d73f9e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bd8722c6-c89c-5dfb-80ed-eb9c1f5e354b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Strauss' Rosenkavalier - Eröffnungspremiere der Kölner Oper",
+    "summary": "Struck-Schloen, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-28T15:35:15.000Z",
+    "url": "https://www.deutschlandfunk.de/strauss-rosenkavalier-eroeffnungspremiere-der-koelner-oper-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/strauss_rosenkavalier_eroeffnungspremiere_der_koelner_oper_dlf_20260928_1735_98d61c67.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:612e36d5-c556-5517-bd8c-97f6779a6560",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Angst zieht Camouflage an - Outfits für den 3. Weltkrieg auf TikTok",
+    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
+    "date": "2026-09-28T13:25:48.000Z",
+    "url": "https://www.deutschlandfunk.de/angst-zieht-camouflage-an-outfits-fuer-den-3-weltkrieg-auf-tiktok-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/angst_zieht_camouflage_an_outfits_fuer_den_3_weltkrieg_auf_dlf_20260928_1525_fa4fd4f6.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ed382519-4f51-522d-acc0-b466258d2aef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "MTV-Awards - Welche Bedeutung spielen Videos und virale Momente?",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-09-28T13:10:33.000Z",
+    "url": "https://www.deutschlandfunk.de/mtv-awards-welche-bedeutung-spielen-videos-und-virale-momente-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/mtv_awards_welche_bedeutung_spielen_videos_und_virale_dlf_20260928_1510_8e4e2111.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:706141bb-9c52-5c5d-ad68-fe80fd635eb4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Was heute als männlich gilt, war es nicht immer",
+    "summary": "Leistung, Muskeln, Ergebnisse - das gängige Männlichkeitsideal scheint klar definiert. Das Stereotyp habe historisch betrachtet aber nicht immer so ausgesehen, sagt Moderator und Autor Riccardo Simonetti. Darüber hat er nun ein Buch geschrieben. Müller, Paulus; Simonetti, Riccardo www.deutschlandfunk.de, Corso",
+    "date": "2026-09-28T13:05:56.000Z",
+    "url": "https://www.deutschlandfunk.de/die-facetten-von-maennlichkeit-zum-buch-wann-ist-ein-mann-ein-mann-100.html",
+    "image": "https://bilder.deutschlandfunk.de/1e/5b/54/10/1e5b5410-934b-4d5a-b510-2b93c70239d0/bodybuilder-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/die_facetten_von_maennlichkeit_zum_buch_wann_ist_ein_mann_dlf_20260928_1505_5df77232.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:0da475ac385fb5bc221e3fb2002a12fc",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -148,359 +503,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:49666877-2d87-5314-b27a-6dd91b4a9527",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"La Vestale\" von Gaspare Spontini an der Berliner Lindenoper",
-    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-27T15:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/la-vestale-von-gaspare-spontini-an-der-berliner-lindenoper-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/la_vestale_von_gaspare_spontini_an_der_berliner_lindenoper_dlf_20260927_1730_83b6cc1a.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:ea98d0eec255c5c6cb1034e5c9be7484",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Let There Be Rock: Der Film \"Die Halbstarken\" feiert Premiere",
-    "summary": "<p>\"Die Halbstarken\" erscheint am 27. September 1956 - da diskutiert die Adenauer-Republik bereits hitzig über Rock’n’Roll, Kinokrawalle und Feinripp. Die Elterngeneration ist verstört - Jugendliche und ihre Kultur werden kriminalisiert.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christiane Kopka:</strong><br><ul><li>wie \"Die Halbstarken\" zum Schreckbild der 1950er-Jahre werden, </li><li>warum Rock’n’Roll und Kino die Jugendkultur verändern, </li><li>wie Medien und Politik die Angst vor der Jugend anheizen, </li><li>wie das Kino den Mythos der rebellischen Jugend prägt,</li><li>warum der Film \"Die Halbstarken\" Kultstatus erreicht.</li></ul><br>Mit dem Film \"Die Halbstarken\" greift Regisseur Georg Tressler 1956 ein Thema auf, das die Bundesrepublik bewegt: Jugendliche, die anders aussehen, andere Musik hören und sich den Erwartungen der Erwachsenen entziehen. Der Begriff \"Halbstarke\" wird zum Sammelbecken für alles, was als unbequem oder rebellisch gilt.<br><br>Doch hinter der moralischen Aufregung steckt ein tiefer gesellschaftlicher Wandel. Die Nachkriegsgeneration verfügt über mehr Geld, entdeckt neue Freiheiten und orientiert sich an amerikanischer Musik, Mode und Lebensart. Der Film trifft damit den Nerv seiner Zeit und macht seine Hauptdarsteller Karin Baal und Horst Buchholz zu Stars.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Dr . Bodo Mrozek (Zeit- und Kulturhistoriker)</li><li>Bodo Mrozek: Jugend-Pop-Kultur. Eine transnationale Geschichte. Berlin 2019</li><li>Deutsches Filmmuseum: Zwischen Gestern und Morgen. Westdeutscher Nachkriegsfilm 1946-1963. Frankfurt am Main 1989</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/deutsche_geschichte/jugend_in_den_fuenfziger_jahren/index.html\" rel=\"noopener\" target=\"_blank\">Jugend in den 1950er-Jahren</a></li><li>Jugendkulturen in Deutschland: <a href=\"https://www.bpb.de/themen/zeit-kulturgeschichte/jugendkulturen-in-deutschland/36156/die-halbstarken/\" rel=\"noopener\" target=\"_blank\">Die Halbstarken</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Christiane Kopka<br>Redaktion: Emily Jeuckens, Frank Zirpins<br>Technik: Theo Kramer",
-    "date": "2026-09-27T04:33:22.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-let-there-be-rock-der-film-die-halbstarken-feiert-premiere-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-halbstarken-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/501d2995-a97b-4a8b-a925-b5c28f375f1a/501d2995-a97b-4a8b-a925-b5c28f375f1a_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-3281939295478492",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Blickt auf eine außergewöhnliche Karriere zurück: Matthias Reim",
-    "summary": "Zusammen mit Matthias Reim blicken wir auf eine außergewöhnliche Karriere zurück. Mit Hinnerk Baumgarten spricht er aber auch über aktuelle Projekte, seine vielköpfige Familie, seine Begeisterung für Motorräder und seine Liebe zum Bodensee. Der mittlerweile 68-Jährige schrieb 1990 mit \"Verdammt, ich lieb’ Dich\" Musikgeschichte. Auf dem Roten Sofa gibt er Einblicke in die Entstehung seines neuen Albums und seine kreativen Pläne für die kommenden Monate.",
-    "date": "2026-09-26T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/blickt-auf-eine-aussergewoehnliche-karriere-zurueck-matthias-reim,audio-3502228.html",
-    "image": "https://images.ndr.de/image/303e38e5-c558-4596-8c3c-c08dc7a59b1e/AAABoN6jEG4/AAABnSStX0g/1x1-big/screenshot-234446.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0927/AU-20260927-2254-5800.mp3",
-    "duration": "37 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:91b37662-24c1-594a-8e1c-a8283437cced",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 26.09.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-26T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/kulturmeldungen_26092026_dlf_20260926_1757_5f96ea19.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:261efacb-ccc9-5c6d-a089-f1b6dbfcbb0e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Warner Bros. und Paramount: Rettung oder Untergang des Kinos?",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-26T15:52:15.000Z",
-    "url": "https://www.deutschlandfunk.de/warner-bros-und-paramount-rettung-oder-untergang-des-kinos-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/warner_bros_und_paramount_rettung_oder_untergang_des_kinos_dlf_20260926_1752_8c94049f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7b0eb35c-a98c-5394-b081-bcc1726360bb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bauhaus-Künstlerin Benita Koch-Otte in einer Ausstellung in Halle",
-    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-26T15:47:10.000Z",
-    "url": "https://www.deutschlandfunk.de/bauhaus-kuenstlerin-benita-koch-otte-in-einer-ausstellung-in-halle-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/bauhaus_kuenstlerin_benita_koch_otte_in_einer_ausstellung_in_dlf_20260926_1747_1590e3d2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6afde102-09d3-5501-92e7-8936b3e40f05",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Julia Wissert inszeniert \"Richard III.\" mit dem RambaZamba Theater Berlin",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-26T15:42:05.000Z",
-    "url": "https://www.deutschlandfunk.de/julia-wissert-inszeniert-richard-iii-mit-dem-rambazamba-theater-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/julia_wissert_inszeniert_richard_iii_mit_dem_rambazamba_dlf_20260926_1742_508d0e33.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ba3405c8-f408-5612-8ee5-5bb39cf2ae3d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"In bester Lage\" - Kay Voges eröffnet das neue alte Kölner Schauspielhaus",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-26T15:37:00.000Z",
-    "url": "https://www.deutschlandfunk.de/in-bester-lage-kay-voges-eroeffnet-das-neue-alte-koelner-schauspielhaus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/in_bester_lage_kay_voges_eroeffnet_das_neue_alte_koelner_dlf_20260926_1737_e688ce7d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:902958fa-9f8f-52b8-876b-452e8c0586b8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nichtseattle über \"Große Liebe\": \"Liebe ist ein Gefühl - und nicht ein Mensch\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-09-26T13:30:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nichtseattle-ueber-grosse-liebe-liebe-ist-ein-gefuehl-und-nicht-ein-mensch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/nichtseattle_ueber_grosse_liebe_liebe_ist_ein_gefuehl_und_dlf_20260926_1530_4a15a6a9.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b72bbc95-1b7d-50eb-8728-53173d2aeed2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Out into\" von Son Lux: Soundtrack für die unruhige Gegenwart",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-26T13:20:35.000Z",
-    "url": "https://www.deutschlandfunk.de/out-into-von-son-lux-soundtrack-fuer-die-unruhige-gegenwart-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/out_into_von_son_lux_soundtrack_fuer_die_unruhige_gegenwart_dlf_20260926_1520_d110bfc4.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a1300ebb-9656-539a-9fe5-19e7fa0673e5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Songwriterin Julia Jacklin: \"Ich mag mich heute viel mehr\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-09-26T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/songwriterin-julia-jacklin-ich-mag-mich-heute-viel-mehr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/songwriterin_julia_jacklin_ich_mag_mich_heute_viel_mehr_dlf_20260926_1510_ba0ec813.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:9175b83caafa119a8de7da9f9b56e005",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Winnie Mandela; Ikone des Widerstands gegen die Apartheid",
-    "summary": "<p>Während Nelson Mandela jahrzehntelang im Gefängnis sitzt, kämpft Winnie draußen gegen die Apartheid. Sie wird zur Symbolfigur - und greift selbst zur Gewalt. 1936 wird sie geboren.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Irene Dänzer-Vanotti:</strong><br><ul><li>wie Winnie Mandela in den 1950er-Jahren als Winifred Madikizela nach Johannesburg kommt,</li><li>wie sie erkennt, dass die Ehe mit Nelson Mandela im südafrikanischen Freiheitskampf eine große Rolle spielen kann,</li><li>wie nach Nelsons Inhaftierung für Winnie Schikanen, Bespitzelung und Verhöre beginnen,</li><li>wie Winnie Mandela ausgerechnet in der Verbannung politische Bedeutung bekommt.</li></ul><br>Als Winifred Madikizela Mitte der 1950er-Jahre Nelson Mandela kennenlernt, ist ihr klar, dass sie diesen Mann mit der halben Welt teilen muss. Er wird auf der Straße, im Restaurant angesprochen, ist bereits im Anti-Apartheid-Kampf aktiv. Und dennoch: sie verlieben sich und heiraten 1958.<br><br>1963 werden Nelson und weitere Angeklagte des ANC wegen Sabotage und Waffenbesitz zu lebenslanger Haft auf der Gefängnisinsel Robben Island verurteilt. 27 Jahre lang ist er ein Gefangener. Für Winnie Mandela beginnen Schikanen, Festnahmen, Bespitzelung und Verhöre.<br><br>Winnie Mandela sieht sich als Repräsentantin der politisch Verfolgten. Ihren Kampf führt sie zunehmend mit brutaler Gewalt. Diese kompromisslose Radikalität wird ihr schließlich zum Verhängnis. Ihre Feinde werfen ihr kriminelle Aktivitäten vor. In den Übergangsjahren nach der Apartheid landet sie im politischen Abseits. <br><br>Am 2. April 2018 stirbt Winnie Madikizela-Mandela im Alter von 81 Jahren in Johannesburg.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Jonny Steinberg, Autor</li><li>Rita Schäfer, Soziologin, Schwerpunkt Südafrika und Frauenpolitik</li><li>Johnny Steinberg: Winnie and Nelson, Portrait of a marriage. Johannesburg 2023</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/afrika/geschichte_suedafrikas/pwwbgeschichtesuedafrikas100.html\" rel=\"noopener\" target=\"_blank\">Geschichte Südafrikas</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-suedafrika-apartheid-100.html\" rel=\"noopener\" target=\"_blank\">27.04.1994: Ende der Apartheid in Südafrika</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/nelson-mandela-102.html\" rel=\"noopener\" target=\"_blank\">18.07.1918 - Geburtstag von Nelson Mandela</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Irene Dänzer-Vanotti<br>Redaktion: Sefa Inci Suvak",
-    "date": "2026-09-26T04:00:26.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-winnie-mandela-ikone-des-widerstands-gegen-die-apartheid-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-winnie-mandela-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/16/03a44921-e7a4-4e59-bc1e-e8f01ed7281f/03a44921-e7a4-4e59-bc1e-e8f01ed7281f_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-wie-war-das-noch-mal:08f29eb2-d579-476d-acbd-f03b1cb68999",
-    "source": "zeit-wie-war-das-noch-mal",
-    "sourceTitle": "Wie war das noch mal? – DIE ZEIT",
-    "type": "rss",
-    "title": "Otto Lilienthal: Segler im Luftmeer",
-    "summary": "<p>Der 9. August 1896 ist ein Sonntag. <a href=\"https://www.zeit.de/2011/08/Flugpionier-Berblinger/komplettansicht\" rel=\"noopener\" target=\"_blank\"> Otto Lilienthal </a> ist nach Stölln im Havelland gefahren, vom Gollenberg will er hinabgleiten: Fliegen wie ein Vogel, wie er es schon so oft getan hat. Er schlüpft in seinen Normalsegelapparat, ein Gestell aus Weidenruten mit sieben Meter Spannweite, das mit Baumwollgewebe bespannt ist. Mehr als 2.000 Sprünge hat Lilienthal schon absolviert, als er an diesem Tag zum Flug ansetzt. Vielleicht fühlt er sich einfach zu sicher.</p><p>Es ist kühl und windig an diesem Tag. Lilienthal segelt schon in etwa 15 Metern Höhe, als eine Sonnenböe – ein unerwarteter Aufwind - sein Fluggerät ergreift und es in einer halben Drehung über den rechten Flügel abstürzen lässt. Lilienthal scheint noch kurz in der Luft zu stehen, dann fällt er vom Himmel. Er verletzt sich schwer und wird nach Berlin gebracht. Am nächsten Tag ist <a href=\"https://www.zeit.de/mobilitaet/2019-02/geschichte-fliegen-berlin-luftfahrt-luftkriegsakademie-luftbruecke-fs\" rel=\"noopener\" target=\"_blank\"> Otto Lilienthal </a> tot.</p><p>Für Lilienthals Kritiker scheint der Beweis erbracht: Mit einem Apparat fliegen zu wollen, der schwerer ist als Luft, wie ein Vogel also – das ist Unsinn. Das Prinzip »leichter als Luft« habe gewonnen, meinen sie: In der Ballonfahrt liege die Zukunft des Fliegens.</p><p>In der neuen Folge von <i>Wie war das noch mal?</i> erzählen wir vom Weg des Flugpioniers Otto Lilienthal, der schon von früher Jugend seinen Traum vom Fliegen verfolgt. Gemeinsam mit seinem Bruder Gustav erforscht er die Besonderheiten des Vogelflugs. Immer neue Apparate bauen sie zusammen, um zu verstehen, warum Vögel fliegen können – und was es bräuchte, damit Menschen es auch können.</p><p>Wir sprechen mit Peter Busse, dem Leiter des Otto-Lilienthal-Museums in Anklam, der Geburtsstadt Lilienthals, und lassen uns erklären, wie Lilienthal vorgegangen ist. Markus Raffel vom Deutschen Zentrum für Luft- und Raumfahrt erzählt uns von seiner Reise an die Pazifikküste Kaliforniens, wo er mit einem nachgebauten Lilienthal-Hängegleiter selbst geflogen ist. Und wir fragen uns: Ist Lilienthal gescheitert, weil er abgestürzt ist? Oder zeigt sein Absturz genau das Gegenteil: Dass nur abstürzen kann, wer zuvor geflogen ist?</p><p>Das aktuelle ZEIT Geschichte-Heft <i>Wie Technik die Welt verändert. Mensch oder Maschine: Wer hat die Macht? Von der Dampfkraft bis zur KI </i>bekommen Sie online im <a href=\"https://shop.zeit.de/sortiment/zeit-kiosk/zeit-magazine/zeit-geschichte\" rel=\"noopener\" target=\"_blank\"> ZEIT Shop </a> oder im Handel. <a href=\"https://abo.zeit.de/zg-testen/?icode=01w0169k0575angaudall2110&utm_medium=audio&utm_source=zgpodcast&utm_campaign=zg_zon_podcast&utm_content=&wt_zmc=audall.int.zabo.zgpodcast.zg_zon_podcast....x\" rel=\"noopener\" target=\"_blank\"> Unter diesem Link </a> können Sie ein Abo abschließen und eine Gratisausgabe von ZEIT Geschichte zum Testen bestellen. </p><p><i>Alle Folgen des Podcasts hören Sie </i><a href=\"https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.zeit.de%2Fserie%2Fwie-war-das-noch-mal&data=05%7C02%7Cmarkus.flohr%40zeit.de%7C4b211f919a4f4404b27808dde67f216c%7Cf6fef55b9aba48ae9c6d7ee8872bd9ed%7C0%7C0%7C638920155894085285%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=UQxp5ZiyIwq2h66PFE7Bn%2F7RqLjfkwFIqpKJdIxcN0k%3D&reserved=0\" rel=\"noopener\" target=\"_blank\"><i> hier </i></a><i>. Die Redaktion erreichen Sie per Mail unter </i><i> zeitgeschichte@zeit.de </i></a><i>.</i></p><p>Unsere weiteren Empfehlungen: </p><ul><li>Manuela Runge und Bernd Lukasch: Erfinderleben. Die Brüder Otto und Gustav Lilienthal, Berlin Verlag 2005</li><li>Die Aufnahme von Reinhard Meys Lied »Lilienthals Traum« ist <a href=\"https://www.reinhard-mey.de/blog/lilienthals-traum/\" rel=\"noopener\" target=\"_blank\"> hier </a> in voller Länge nachzuhören. </li><li>Das Online-Archiv mit der Bilddatenbank des Otto Lilienthal Museums in Anklam ist <a href=\"https://lilienthal-museum.museumnet.eu/bilder\" rel=\"noopener\" target=\"_blank\"> hier </a> zu erreichen. </li></ul>\n<p><p><a href=\"https://abo.zeit.de/zg-testen/?icode=01w0557k1001angaudall2403&utm_medium=audio&utm_source=shownotes&utm_campaign=standard&utm_content=01w0557k1001angaudall2403&wt_zmc=audall.Int.zabo.shownotes.standard.x\" rel=\"noopener\" target=\"_blank\"><i><strong>Hier</strong></i></a><i> können Sie eine aktuelle Gratisausgabe von ZEIT Geschichte zum Testen bestellen. Sie bekommen das Heft zum Bauernkrieg, aber auch viele andere, im Handel oder online im ZEIT Shop.</i></p><p>Vergünstigtes Podcast-Abo für ZEIT GESCHICHTE-Leser <a href=\"https://abo.zeit.de/podcast_8w_gratis_plusrabatt_zgpodcast/?icode=01w0813k1001angaudint2601&utm_medium=audio&utm_source=geschichtspodcast_redaktion&utm_campaign=Standard&utm_content=01w0813k1001angaudint2601&wt_zmc=audint.Int.zabo.geschichtspodcast_redaktion.Standard.x\" rel=\"noopener\" target=\"_blank\">zeit.de/abo-geschichte.</a><br> </p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen</a>. Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT</strong>. <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Angebot</a>. </p>",
-    "date": "2026-09-26T03:55:00.000Z",
-    "url": "https://www.zeit.de/serie/wie-war-das-nochmal",
-    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f57c3e5e-6f9d-47aa-90bc-0dec153dc682/3000x3000/wie-war-das-noch-mal.jpg?aid=rss_feed",
-    "audio": "https://zeitonline.simplecastaudio.com/4d384d00-4f76-41fc-ac1c-8ff9276a7999/episodes/f7c15853-c070-4d04-9b94-463e8e9918a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=4d384d00-4f76-41fc-ac1c-8ff9276a7999&awEpisodeId=f7c15853-c070-4d04-9b94-463e8e9918a3&feed=DV4gq1zP",
-    "duration": "1 Std 12 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "bildung",
-      "zeit"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-08775623979056535",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Osteoporose-Experte Henning Kunter im Sofa-Talk",
-    "summary": "Wenn sich jemand mit porösen Knochen auskennt, dann er. Prof. Dr. Henning Kunter ist ein renommierter Facharzt für Orthopädie, Unfallchirurgie und Chirurgie und gilt auf dem Gebiet Osteoporose als Koryphäe. Mindestens sechs Millionen Menschen leiden hierzulande am Knochenabbau – vor allem Frauen. Spezifische Ernährung und gezieltes Kraft- und Koordinationstraining können allerdings helfen, die Erkrankung zu bremsen. Welche Übungen gut sind und welches Essen sinnvoll ist, erklärt Prof. Kunter auf dem Roten Sofa.",
-    "date": "2026-09-25T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/osteoporose-experte-henning-kunter-im-sofa-talk,audio-3499682.html",
-    "image": "https://images.ndr.de/image/17c15bed-0341-41c9-a3fd-115c52807b0e/AAABoNnUTks/AAABnSStX0g/1x1-big/screenshot-234120.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0925/AU-20260925-1946-1900.mp3",
-    "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   }

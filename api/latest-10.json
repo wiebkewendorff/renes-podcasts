@@ -1,15 +1,41 @@
 [
   {
-    "id": "zeitzeichen:0da475ac385fb5bc221e3fb2002a12fc",
+    "id": "dlf-das-feature:42546f49-fd3d-5db4-8797-cb18e5230834",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Klimaalbtraum - Kohlenstoffprojekte gefährden indigene Völker",
+    "summary": "Volkswagen setzt in Tansania auf CO₂-Projekte, um seine Klimabilanz zu verbessern. Dafür soll die traditionelle Weidewirtschaft der Massai verändert werden. Eine Recherche zur wissenschaftlichen Grundlage der Klimaversprechen – und die Folgen für die Massai, deren Lebensweise auf dem Spiel steht. Von Katharina Nickoleit www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-29T08:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/klimaalbtraum-kohlenstoffprojekte-gefaehrden-indigene-voelker-100.html",
+    "image": "https://bilder.deutschlandfunk.de/78/e1/de/71/78e1de71-4780-4303-b672-912d44c97c9d/bild-fuer-klimaalbtraum-massaii-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/23/klimaalbtraum_wie_die_massai_die_co2_bilanz_von_vw_dlf_20260923_1915_32ed401f.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:3128fc263e1ca6fa8cbed53b7ea5b430",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Vom Holz zum Himmel: William Edward Boeing",
-    "summary": "<p>Das Leben des Flugzeugpioniers William Edward Boeing endet am 23.9.1956 auf seiner Yacht in der Meeresbucht vor Seattle. Sein Name bleibt in und über unseren Köpfen.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Wolfgang Meyer:</strong><br><ul><li>wie William Edward Boeing nach dem Ersten Weltkrieg von der Flugzeugproduktion auf Schlafzimmermöbel umsteigt,</li><li>mit welchem Flugzeugtyp Boeing im Jahr 1933 Luftfahrtgeschichte schreibt,</li><li>warum William Boeing der Luftfahrtbranche schon mit 52 Jahren den Rücken kehrt</li><li>und von den Rätseln um den Tod des Flugzeugbauers William Edward Boeing</li></ul><br>William Edward Boeing ist der Sohn des deutschen Bergbau-Ingenieurs Wilhelm Böing und der ebenfalls deutschstämmigen Marie Ortmann. Sein Vater verlässt als 22-Jähriger seine Heimatstadt Hohenlimburg an der Lenne im Ruhrgebiet und kommt im US-amerikanischen Detroit mit Bauholzhandel zu beträchtlichem Reichtum.<br><br>1910 wird Boeing als 28-Jähriger in Los Angeles bei der ersten großen Flugschau Amerikas von der Faszination der Fliegerei gepackt. 1915 beginnt Boeing in Seattle zusammen mit seinem Kollegen George Conrad Westervelt die Arbeit an einem Wasserflugzeug aus Holz, Leinen und Draht.<br><br>Rund 38 Jahre nach der ersten Firmengründung rollt ein Prototyp aus den Boeing-Hallen - es ist der Urahn der Boeing 707, des ersten großen Düsenverkehrsflugzeugs. Bei der Taufe ist der Gründer noch einmal dabei. Mit 72 Jahren schaut William Boeing auf den Beginn des Jet-Zeitalters. Erleben wird er es nicht mehr.<br><br><strong>Das sind unsere wichtigsten Quellen:</strong><br><ul><li>HistoryLink.org: William Edward (1881–1956) Boeing. Essay 8023</li><li>Brian Schefke: William Edward Boeing. In: Immigrant Entrepreneurship - German-American Business Biographies (German Historical Institute). 2011/2018 </li><li>Mike Lombardi: Historical Perspective - 50 Years at the Leading Edge. Boeing Frontiers. August 2009</li><li>Heimatverein Hohenlimburg: Dokumentation Gedenktafel Boeing-Geburtshaus, 2016</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/stichtag/stichtag4214.html\" rel=\"noopener\" target=\"_blank\">09. Februar 2009 - Vor 40 Jahren: Erstflug der Boeing 747</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag-gruendung-boeing-100.html\" rel=\"noopener\" target=\"_blank\">15. Juli 1916: Gründung der Boeing-Flugzeugwerke</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/technik/luftfahrt/fliegen_nach_dem_vorbild_der_natur/otto-lilienthal-fliegen-vorbild-natur-100.html\" rel=\"noopener\" target=\"_blank\">Otto Lilienthal und das Fliegen</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/technik/luftfahrt/pwtkluftfahrt100.html\" rel=\"noopener\" target=\"_blank\">Übersichtsseite Luftfahrt</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Wolfgang Meyer<br>Redaktion: Christoph Tiegel und Sefa Inci Suvak",
-    "date": "2026-09-28T04:00:39.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-vom-holz-zum-himmel-william-boeing-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-william-edward-boeing-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/23/8f8f9a56-b29d-4645-94d6-057808ba2e8e/8f8f9a56-b29d-4645-94d6-057808ba2e8e_MP3-128.mp3",
+    "title": "Der letzte Mensch, der alles wusste: Enrico Fermi",
+    "summary": "<p>Der größte italienische Wissenschaftler seit Galilei, genialer Nobelpeisträger, Vater des Atomzeitalters. Enrico Fermi, geboren am 29.9.1901, war wohl der letzte Mensch, der die gesamte Physik verstand.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martin Herzog:</strong><br><ul><li>wie aus einer beiläufigen Mittagsdiskussion das berühmte Fermi-Paradoxon entsteht, </li><li>warum Fermi als \"der letzte Mensch, der alles wusste\" bezeichnet wird, </li><li>wie seine Pi-mal-Daumen-Methode zu erstaunlich präzisen Ergebnissen führt, </li><li>weshalb er Mussolinis Italien nach der Nobelpreisverleihung verlässt, </li><li>welche Schlüsselrolle er beim Bau des ersten Atomreaktors spielt.</li></ul><br>In der Physik begegnet man seinem Namen auf Schritt und Tritt: Fermi-Dirac-Statistik, Fermi-Wechselwirkung oder Fermi-Paradoxon. Schon als Jugendlicher verschlingt Enrico Fermi Fachliteratur und beeindruckt seine Umgebung mit außergewöhnlicher Begabung. Später gehört er zu den prägenden Köpfen einer Epoche, in der Relativitäts- und Quantentheorie das Weltbild revolutionieren.<br><br>Sein Leben führt von Rom über Stockholm und New York bis nach Los Alamos. Dort wirkt er entscheidend an Entwicklungen mit, die das 20. Jahrhundert verändern. Trotz seines gewaltigen Wissens bleibt Fermi laut Weggefährten zugänglich, begeisterter Lehrer und jemand, der komplexe Probleme auf ihren einfachsten Kern reduziert.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>David Schwartz (Fermi-Biograf)</li><li>David Schwartz: The Last Man Who Knew Everything. The Life and Times of Enrico Fermi, Father of the Nuclear Age. New York 2017</li><li>To Fermi with Love: <a href=\"https://ahf.nuclearmuseum.org/voices/oral-histories/fermi-love-part-1/\" rel=\"noopener\" target=\"_blank\">Erinnerungen seiner Freunde und Wegbegleiter</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 06.08.1945: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/hiroshima-106.html\" rel=\"noopener\" target=\"_blank\">Abwurf der Atombombe auf Hiroshima</a></li><li>Zeitzeichen 26.03.1938: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-ettore-majorana-100.html\" rel=\"noopener\" target=\"_blank\">Der italienische Physiker Ettore Majorana verschwindet</a></li><li>Zeitzeichen 23.10.1912: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-wernher-von-braun-geboren-100.html\" rel=\"noopener\" target=\"_blank\">Raketeningenieur Wernher von Braun wird geboren </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martin Herzog<br>Redaktion: David Rother",
+    "date": "2026-09-29T04:00:59.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-letzte-mensch-der-alles-wusste-enrico-fermi-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-enrico-fermi-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/ccc485a3-ae1f-44a5-bae4-4c25d56e909a/ccc485a3-ae1f-44a5-bae4-4c25d56e909a_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
@@ -23,41 +49,117 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-4356905720794687",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4062916",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Michaela Benthaus über ihr Leben zwischen Schwerkraft und Schwerelosigkeit",
-    "summary": "Als erster Mensch mit Querschnittslähmung flog Michaela Benthaus im Dezember 2025 auf einem Parabelflug ins All und erlebte den Zustand der Schwerelosigkeit. Auf dem Roten Sofa erzählt die Luft- und Raumfahrt-Ingenieurin von ihrem außergewöhnlichen Lebensweg zwischen Wissenschaft, Technik und persönlicher Stärke. In ihrem demnächst erscheinenden Buch \"Zwischen Schwerkraft und Schwerelosigkeit\" berichtet sie auch über ihr Leben mit einer Querschnittslähmung, die ihren Weg nachhaltig geprägt hat.",
-    "date": "2026-09-27T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/michaela-benthaus-ueber-ihr-leben-zwischen-schwerkraft-und-schwerelosigkeit,audio-3502232.html",
-    "image": "https://images.ndr.de/image/b69b7eee-bd17-4f3a-860f-919ffc6301fe/AAABoOPO3cQ/AAABnSStX0g/1x1-big/screenshot-234974.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0927/AU-20260927-2255-3900.mp3",
-    "duration": "42 Min",
+    "title": "Energiewende in Afrika",
+    "summary": "Solar boomt in Afrika\n\n<p> Auf dem afrikanischen Kontinent boomt die Energiewende: Für dieses Jahr wird ein Wachstum der Kapazität um 17 Gigawatt prognostiziert. Rund 100.000 Solarpanele werden auf dem Kontinent jeden Tag auf Dächern und Freiflächen installiert. Die Voraussetzungen für die Energiewende sind in jedem Land unterschiedlich, genauso wie die Herausforderungen, die damit verbunden sind. In Madagaskar haben laut Weltbank 42,5 Prozent der Bevölkerung Zugang zu Elektrizität, in ländlichen Gegenden sind es 26,5 Prozent. Die staatliche Stromversorgung steht dabei vor einer besonderen Herausforderung: In den dünn besiedelten ländlichen Regionen ist es sehr aufwändig, überall ein klassisches, zentrales Stromnetz auszubauen. Deshalb vergibt die Regierung Konzessionen an Unternehmen wie Kintana, die den Zugang zu Elektrizität dezentral aufbauen sollen.</p>\n\nStromversorgung in ländlichen Gebieten aufbauen\n\n<p>Kintana hat eine Konzession dafür, ländliche Gemeinden dezentral durch Solaranlagen in sogenannten Mini- oder Nano-Grids mit Strom zu versorgen. Das bedeutet ganz konkret: Sie ziehen die ganze Infrastruktur hoch und sind anschließend auch der Stromanbieter. Das Konzessionsgebiet von Kintana umfasst nach Angaben des Unternehmens 340.000 Menschen. Außerdem soll ein Wasserkraftwerk gebaut werden. Kintana-CEO Moritz Brauchle sagt, dass das auch bei einer Konzession über 25 Jahre ein ambitioniertes Ziel sei.</p>\n\nWie die Energiewende in Madagaskar finanziert wird und wie es in Südafrika und Kenia läuft, darüber hat <em>detektor.fm</em>-Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“ mit ihrer Kollegin Marisa Becker gesprochen.",
+    "date": "2026-09-29T04:00:32.000Z",
+    "url": "https://feedpress.me/link/19604/17477120/mission-energiewende-energiewende-in-afrika",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260929-02missionenergiewendeenergiewendeinafrika.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260929-02missionenergiewendeenergiewendeinafrika.63.mp3",
+    "duration": "24 Min",
     "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
     ],
     "category": [
-      "Musik",
-      "Geschichte"
+      "Wissenschaft",
+      "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:1dc26a5b-001b-53c1-bff3-60b371352425",
+    "id": "zeit-auch-das-noch:35ec57ab-a8ee-480c-ac6c-5e68a89a972a",
+    "source": "zeit-auch-das-noch",
+    "sourceTitle": "Auch das noch? – DIE ZEIT",
+    "type": "rss",
+    "title": "Warum dieser langjährige Klimaschützer jetzt auf KI setzt",
+    "summary": "<p>Bernhard Lorentz hat den Thinktank Agora Energiewende und die Stiftung Klimaneutralität mit ins Leben gerufen. Beim globalen Beratungskonzern Deloitte ist er verantwortlich für Global Climate and Infrastructure – und er setzt auf künstliche Intelligenz als zentrales Werkzeug für die Dekarbonisierung. Über diese »grüne KI« hat er ein Buch geschrieben. Aber steht KI in der aktuellen Debatte nicht für alles Mögliche, nur nicht für Nachhaltigkeit und eine gerechtere Zukunft? Darüber unterhalten wir uns mit Lorentz im Krisenpodcast.</p><p>In jeder Folge von »Auch das noch? – Der freundliche Krisenpodcast« sprechen ZEIT-Politikredakteurin <a href=\"https://www.zeit.de/autoren/P/Petra_Pinzler/index.xml\" rel=\"noopener\" target=\"_blank\">Petra Pinzler</a> und Wissenschaftsredakteur <a href=\"https://www.zeit.de/autoren/S/Stefan_Schmitt/index.xml\" rel=\"noopener\" target=\"_blank\">Stefan Schmitt</a> über eine Krise der Gegenwart: Es geht um die Klimakrise, das Artensterben, die Energiekrise und Kriege. Jedes Mal hilft eine Expertin oder ein Experte, zu verstehen, wie alles zusammenhängt. Nicht um zu verzweifeln, sondern weil Verstehen der erste Schritt zur Lösung ist. Und um Lösungen geht es natürlich auch.</p><p> </p><p><strong>Die Links zur Folge: </strong></p><ul><li><i>Grüne KI. Wie die Wirtschaft das Klima retten und den Wohlstand mehren kann</i> heißt das Buch von Bernhard Lorentz (Campus, 2026): <a href=\"https://campus.de/business-management/fuehrung-management/gruene-ki/CAM52286?srsltid=AfmBOor_u4zfRC8Qz5Yk2xVB7N3NpTZmPwK3DDeceUVdyWqMcjlIvDVP\" rel=\"noopener\" target=\"_blank\">https://campus.de/business-management/fuehrung-management/gruene-ki/CAM52286</a></li><li><i>Powering artificial intelligence</i> heißt die Studie des Beratungsunternehmens Deloitte vom November 2024, die im Podcast angesprochen wird: <a href=\"http://www.deloitte.com/global/en/issues/climate/powering-ai.html\" rel=\"noopener\" target=\"_blank\">www.deloitte.com/global/en/issues/climate/powering-ai.html</a></li><li>Und aus dem Folgejahr stammt die Deloitte-Studie <i>AI for energy systems</i>: <a href=\"https://www.deloitte.com/global/en/issues/climate/ai-for-energy-systems.html\" rel=\"noopener\" target=\"_blank\">https://www.deloitte.com/global/en/issues/climate/ai-for-energy-systems.html</a></li><li>Das ist der Artikel von Juliane Schäuble über die Proteste der Anwohner eines gigantischen Rechenzentrum-Projekts im US-Bundesstaat Utah aus der ZEIT 35/2026: <a href=\"https://www.zeit.de/2026/35/ki-rechenzentrum-utah-bau-infrastruktur-protest\" rel=\"noopener\" target=\"_blank\">https://www.zeit.de/2026/35/ki-rechenzentrum-utah-bau-infrastruktur-protest</a></li><li>Und im Autorenprofil von Nicolas Killian finden Sie alle Texte des KI-Korrespondenten der ZEIT im Silicon Valley: <a href=\"https://www.zeit.de/autoren/K/Nicolas_Killian/index\" rel=\"noopener\" target=\"_blank\">https://www.zeit.de/autoren/K/Nicolas_Killian/index</a></li></ul>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Doku-Podcasts, Bonusfolgen und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen.</a> Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht’s zum Angebot</a><strong>.</strong></p>",
+    "date": "2026-09-29T03:55:00.000Z",
+    "url": "https://www.zeit.de/auch-das-noch-krisenpodcast",
+    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f1e25ec7-2e55-45b6-a911-ce88f7d0b73e/3000x3000/auch-das-noch.jpg?aid=rss_feed",
+    "audio": "https://zeitonline.simplecastaudio.com/6debd049-34b3-4994-96b0-039fabb2761b/episodes/fd042c86-0a54-4319-a4d2-4e72c5c6de68/audio/128/default.mp3?aid=rss_feed&awCollectionId=6debd049-34b3-4994-96b0-039fabb2761b&awEpisodeId=fd042c86-0a54-4319-a4d2-4e72c5c6de68&feed=Sdxt6Bhy",
+    "duration": "60 Min",
+    "tags": [
+      "klima",
+      "krisen",
+      "umwelt",
+      "gesellschaft",
+      "politik",
+      "zeit"
+    ],
+    "category": [
+      "Öko-Wissenschaft",
+      "Gesellschaft",
+      "Politik"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "10-minuten-wissen-kunst:6abb270ef4720dfefb534afb",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
+    "type": "rss",
+    "title": "Gustave Courbet – Der Verzweifelte: Wie ein stummer Schrei der Jugend zur bittersten Wahrheit seines Lebens wurde",
+    "summary": "<p>Gustave Courbet malte mit 25 die Verzweiflung als Rolle – dreißig Jahre später war sie sein Leben geworden.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>In Genf hängt im Herbst 1877 ein kleines Bild unter dem Wort „Verzweiflung\": das Gesicht eines jungen Mannes, die Augen aufgerissen, die Hände im Haar – gemalt dreißig Jahre zuvor von einem Anfänger, eingereicht von einem todkranken Flüchtling. Wie Gustave Courbet sich als Fünfundzwanzigjähriger in Panik malte, warum ein gestürztes Denkmal ihn ins Exil trieb und wie dieses Gesicht heute als Meme um die Welt geht, enthüllt der Blick hinter dieses Werk.</p><br><p>Weiterführende Links</p><p>Das Werk beim Musée d'Orsay: <a href=\"https://www.musee-orsay.fr/en/artworks/autoportrait-de-lartiste-dit-aussi-desespoir-ou-encore-le-desespere-272956\" rel=\"noopener\" target=\"_blank\">Musée d'Orsay – Autoportrait dit Le Désespéré (EN)</a> </p><p>Wikipedia-Eintrag zum Werk: <a href=\"https://en.wikipedia.org/wiki/Le_D%C3%A9sesp%C3%A9r%C3%A9\" rel=\"noopener\" target=\"_blank\">Wikipedia – Le Désespéré (EN)</a> </p><p>Wikipedia-Eintrag zum Künstler: <a href=\"https://de.wikipedia.org/wiki/Gustave_Courbet\" rel=\"noopener\" target=\"_blank\">Wikipedia – Gustave Courbet</a> </p><p>Das Begräbnis in Ornans: <a href=\"https://de.wikipedia.org/wiki/Ein_Begr%C3%A4bnis_in_Ornans\" rel=\"noopener\" target=\"_blank\">Wikipedia</a> </p><p>Die Retrospektive in Essen: <a href=\"https://www.museum-folkwang.de/en/exhibition/i-gustave-courbet\" rel=\"noopener\" target=\"_blank\">Museum Folkwang – Ich, Gustave Courbet. Maler und Rebell</a> </p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-09-29T03:29:34.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/gustave-courbet-der-verzweifelte",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6abb270ef4720dfefb534afb/media.mp3",
+    "duration": "20 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
+    ],
+    "category": [
+      "Kunst",
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4064931",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Ersan Mondtag — Nackt im Museum",
+    "summary": "Nackte Körper\n<p>In Pferdekutschen, zu Fuß, gestützt oder auf dem Rücken werden die Alten und Gebrechlichen zum Wasser getragen. Im Gemälde „Der Jungbrunnen“ von Lucas Cranach dem Älteren steht eben jener im Zentrum. Er zeigt die Verwandlung alter und gebrechlicher Frauen in ihre jüngeren Ebenbilder. Manche steigen zögerlich ins Wasser, andere mit mehr Selbstbewusstsein, um dann erfrischt und verjüngt aus dem Wasser wieder hervorzugehen. Von einem — natürlich bekleideten — Kavalier werden sie daraufhin in ein Zelt geleitet, das sie prunkvoll gekleidet wieder verlassen, um den meist älteren Herren zu Tisch oder beim Tanz Gesellschaft zu leisten. Das Gemälde von 1546 spiegelt die Sehnsucht nach ewiger Jugend und Unsterblichkeit wider. Für Ersan Mondtag und Nadim Samman wurde es zum Ausgangspunkt für die Performance „Alternde Meister“ in der Gemäldegalerie, die im Rahmen der Berlin Art Week Anfang des Monats gezeigt wurde.</p>\n<p>Insgesamt 25 Performerinnen und Performer traten in dem Werk „Alternde Meister“ in einen Dialog mit den sie umgebenden Werken.</p>\nStaubige Körper\n<p>Der Körper mit all seinen gelebten Facetten, seiner Geschichte, seinem Werden und Vergehen spielte auch in Mondtags Werk „Monument eines unbekannten Menschen“ (2024) für den Deutschen Pavillon auf der 60. Venedig-Biennale vor zwei Jahren eine zentrale Rolle. Gemeinsam mit Yael Bartana vertrat Ersan Mondtag dort Deutschland und tauchte dafür tief in seine eigene Familiengeschichte ein. Mit „Monument eines unbekannten Menschen“ zeigte er ein sehr intimes und zugleich entlarvendes Werk über die deutsche Nachkriegszeit. Ersan Mondtag arbeitet als Regisseur, Bühnen- und Kostümbildner derzeit am Berliner Ensemble. Zuletzt inszenierte Mondtag im Rahmen der Salzburger Festspiele die Oper „Ariadne auf Naxos“ von Richard Strauss.</p>\n<p>In dieser Folge von „Kunst und Leben“, dem Podcast in Kooperation mit dem <em>Monopol-</em>Magazin, spricht <strong>Elke Buhr</strong>, Chefredakteurin des <em>Monopol</em>-Magazins mit <strong>Ersan Mondtag</strong> über seine Performance „Alternde Meister“, seinen Weg in die Kunst und seine Arbeit für den Deutschen Pavillon bei der 60. Venedig-Biennale.</p>",
+    "date": "2026-09-29T02:45:57.000Z",
+    "url": "https://feedpress.me/link/19604/17477028/monopol-podcast-ersan-mondtag",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/29092026monopol-podcastersan-mondtag.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/29092026monopol-podcastersan-mondtag.63.mp3",
+    "duration": "32 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0d512ff9-16ab-5a89-b8d0-606423fa698c",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Kulturmeldungen 27.09.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-27T15:56:29.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-27-09-102.html",
+    "title": "Kulturmeldungen 28.09.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-28T15:56:29.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-28-09-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/kulturmeldungen_27092026_dlf_20260927_1756_67bb07d1.mp3?refId=kultur-heute-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/kulturmeldungen_28092026_dlf_20260928_1756_28dbcc88.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
     "tags": [
       "kultur",
@@ -74,42 +176,16 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:d28b314d-7526-52f1-bff7-97d20aafc595",
+    "id": "dlf-kultur-heute:68b8e804-588e-5565-bea2-93bfa43e9b62",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Historiker Nils Franke zur Hufeisentheorie: Sind links und rechts gleich?",
+    "title": "Staatsrechtler Christoph Möllers zu 75 Jahre Bundesverfassungsgericht",
     "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-27T15:47:45.000Z",
-    "url": "https://www.deutschlandfunk.de/historiker-nils-franke-zur-hufeisentheorie-sind-links-und-rechts-gleich-100.html",
+    "date": "2026-09-28T15:50:33.000Z",
+    "url": "https://www.deutschlandfunk.de/staatsrechtler-christoph-moellers-zu-75-jahre-bundesverfassungsgericht-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/historiker_nils_franke_zur_hufeisentheorie_sind_links_und_dlf_20260927_1747_7cba0498.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:31165e06-c930-56f1-a930-ac3bdbb0ccf0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Architektur für die Sinne - Ausstellung zu Geoffrey Bawas Werk in Weil am Rhein",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-27T15:43:30.000Z",
-    "url": "https://www.deutschlandfunk.de/architektur-fuer-die-sinne-ausstellung-zu-geoffrey-bawas-werk-in-weil-am-rhein-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/architektur_fuer_die_sinne_ausstellung_zu_geoffrey_bawas_dlf_20260927_1743_92b8f370.mp3?refId=kultur-heute-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/staatsrechtler_christoph_moellers_zu_75_jahre_dlf_20260928_1750_4ddacc51.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
@@ -126,16 +202,16 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:1e88a294-8e16-55cc-a4af-657596365a8a",
+    "id": "dlf-kultur-heute:12759223-39f1-5104-89fd-aa37cabcee75",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "\"Fremde Sonne\" - Der neue Antiken-Marathon von Roland Schimmelpfennig in Hamburg",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-27T15:37:45.000Z",
-    "url": "https://www.deutschlandfunk.de/fremde-sonne-der-neue-antiken-marathon-von-roland-schimmelpfennig-in-hamburg-100.html",
+    "title": "Afrika Film Festival - Der Kino-Kontinent zu Gast in Köln",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-28T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/afrika-film-festival-der-kino-kontinent-zu-gast-in-koeln-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/fremde_sonne_der_neue_antiken_marathon_von_roland_dlf_20260927_1737_39b7c63d.mp3?refId=kultur-heute-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/afrika_film_festival_der_kino_kontinent_zu_gast_in_koeln_dlf_20260928_1746_a3d83fd2.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
@@ -152,91 +228,17 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:49666877-2d87-5314-b27a-6dd91b4a9527",
+    "id": "dlf-kultur-heute:f7964bae-7bb4-5e04-ad39-ab83767c629d",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "\"La Vestale\" von Gaspare Spontini an der Berliner Lindenoper",
-    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-27T15:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/la-vestale-von-gaspare-spontini-an-der-berliner-lindenoper-100.html",
+    "title": "\"Die Dreigroschenoper\" von Bertolt Brecht am Münchner Residenztheater",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-28T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-dreigroschenoper-von-bertolt-brecht-am-muenchner-residenztheater-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/27/la_vestale_von_gaspare_spontini_an_der_berliner_lindenoper_dlf_20260927_1730_83b6cc1a.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:ea98d0eec255c5c6cb1034e5c9be7484",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Let There Be Rock: Der Film \"Die Halbstarken\" feiert Premiere",
-    "summary": "<p>\"Die Halbstarken\" erscheint am 27. September 1956 - da diskutiert die Adenauer-Republik bereits hitzig über Rock’n’Roll, Kinokrawalle und Feinripp. Die Elterngeneration ist verstört - Jugendliche und ihre Kultur werden kriminalisiert.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christiane Kopka:</strong><br><ul><li>wie \"Die Halbstarken\" zum Schreckbild der 1950er-Jahre werden, </li><li>warum Rock’n’Roll und Kino die Jugendkultur verändern, </li><li>wie Medien und Politik die Angst vor der Jugend anheizen, </li><li>wie das Kino den Mythos der rebellischen Jugend prägt,</li><li>warum der Film \"Die Halbstarken\" Kultstatus erreicht.</li></ul><br>Mit dem Film \"Die Halbstarken\" greift Regisseur Georg Tressler 1956 ein Thema auf, das die Bundesrepublik bewegt: Jugendliche, die anders aussehen, andere Musik hören und sich den Erwartungen der Erwachsenen entziehen. Der Begriff \"Halbstarke\" wird zum Sammelbecken für alles, was als unbequem oder rebellisch gilt.<br><br>Doch hinter der moralischen Aufregung steckt ein tiefer gesellschaftlicher Wandel. Die Nachkriegsgeneration verfügt über mehr Geld, entdeckt neue Freiheiten und orientiert sich an amerikanischer Musik, Mode und Lebensart. Der Film trifft damit den Nerv seiner Zeit und macht seine Hauptdarsteller Karin Baal und Horst Buchholz zu Stars.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Dr . Bodo Mrozek (Zeit- und Kulturhistoriker)</li><li>Bodo Mrozek: Jugend-Pop-Kultur. Eine transnationale Geschichte. Berlin 2019</li><li>Deutsches Filmmuseum: Zwischen Gestern und Morgen. Westdeutscher Nachkriegsfilm 1946-1963. Frankfurt am Main 1989</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/deutsche_geschichte/jugend_in_den_fuenfziger_jahren/index.html\" rel=\"noopener\" target=\"_blank\">Jugend in den 1950er-Jahren</a></li><li>Jugendkulturen in Deutschland: <a href=\"https://www.bpb.de/themen/zeit-kulturgeschichte/jugendkulturen-in-deutschland/36156/die-halbstarken/\" rel=\"noopener\" target=\"_blank\">Die Halbstarken</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Christiane Kopka<br>Redaktion: Emily Jeuckens, Frank Zirpins<br>Technik: Theo Kramer",
-    "date": "2026-09-27T04:33:22.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-let-there-be-rock-der-film-die-halbstarken-feiert-premiere-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-halbstarken-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/501d2995-a97b-4a8b-a925-b5c28f375f1a/501d2995-a97b-4a8b-a925-b5c28f375f1a_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-3281939295478492",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Blickt auf eine außergewöhnliche Karriere zurück: Matthias Reim",
-    "summary": "Zusammen mit Matthias Reim blicken wir auf eine außergewöhnliche Karriere zurück. Mit Hinnerk Baumgarten spricht er aber auch über aktuelle Projekte, seine vielköpfige Familie, seine Begeisterung für Motorräder und seine Liebe zum Bodensee. Der mittlerweile 68-Jährige schrieb 1990 mit \"Verdammt, ich lieb’ Dich\" Musikgeschichte. Auf dem Roten Sofa gibt er Einblicke in die Entstehung seines neuen Albums und seine kreativen Pläne für die kommenden Monate.",
-    "date": "2026-09-26T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/blickt-auf-eine-aussergewoehnliche-karriere-zurueck-matthias-reim,audio-3502228.html",
-    "image": "https://images.ndr.de/image/303e38e5-c558-4596-8c3c-c08dc7a59b1e/AAABoN6jEG4/AAABnSStX0g/1x1-big/screenshot-234446.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0927/AU-20260927-2254-5800.mp3",
-    "duration": "37 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:91b37662-24c1-594a-8e1c-a8283437cced",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 26.09.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-26T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/kulturmeldungen_26092026_dlf_20260926_1757_5f96ea19.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/die_dreigroschenoper_von_bertolt_brecht_am_muenchner_dlf_20260928_1741_f4d73f9e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

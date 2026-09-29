@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:3128fc263e1ca6fa8cbed53b7ea5b430",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Der letzte Mensch, der alles wusste: Enrico Fermi",
+    "summary": "<p>Der größte italienische Wissenschaftler seit Galilei, genialer Nobelpeisträger, Vater des Atomzeitalters. Enrico Fermi, geboren am 29.9.1901, war wohl der letzte Mensch, der die gesamte Physik verstand.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martin Herzog:</strong><br><ul><li>wie aus einer beiläufigen Mittagsdiskussion das berühmte Fermi-Paradoxon entsteht, </li><li>warum Fermi als \"der letzte Mensch, der alles wusste\" bezeichnet wird, </li><li>wie seine Pi-mal-Daumen-Methode zu erstaunlich präzisen Ergebnissen führt, </li><li>weshalb er Mussolinis Italien nach der Nobelpreisverleihung verlässt, </li><li>welche Schlüsselrolle er beim Bau des ersten Atomreaktors spielt.</li></ul><br>In der Physik begegnet man seinem Namen auf Schritt und Tritt: Fermi-Dirac-Statistik, Fermi-Wechselwirkung oder Fermi-Paradoxon. Schon als Jugendlicher verschlingt Enrico Fermi Fachliteratur und beeindruckt seine Umgebung mit außergewöhnlicher Begabung. Später gehört er zu den prägenden Köpfen einer Epoche, in der Relativitäts- und Quantentheorie das Weltbild revolutionieren.<br><br>Sein Leben führt von Rom über Stockholm und New York bis nach Los Alamos. Dort wirkt er entscheidend an Entwicklungen mit, die das 20. Jahrhundert verändern. Trotz seines gewaltigen Wissens bleibt Fermi laut Weggefährten zugänglich, begeisterter Lehrer und jemand, der komplexe Probleme auf ihren einfachsten Kern reduziert.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>David Schwartz (Fermi-Biograf)</li><li>David Schwartz: The Last Man Who Knew Everything. The Life and Times of Enrico Fermi, Father of the Nuclear Age. New York 2017</li><li>To Fermi with Love: <a href=\"https://ahf.nuclearmuseum.org/voices/oral-histories/fermi-love-part-1/\" rel=\"noopener\" target=\"_blank\">Erinnerungen seiner Freunde und Wegbegleiter</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 06.08.1945: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/hiroshima-106.html\" rel=\"noopener\" target=\"_blank\">Abwurf der Atombombe auf Hiroshima</a></li><li>Zeitzeichen 26.03.1938: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-ettore-majorana-100.html\" rel=\"noopener\" target=\"_blank\">Der italienische Physiker Ettore Majorana verschwindet</a></li><li>Zeitzeichen 23.10.1912: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-wernher-von-braun-geboren-100.html\" rel=\"noopener\" target=\"_blank\">Raketeningenieur Wernher von Braun wird geboren </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martin Herzog<br>Redaktion: David Rother",
+    "date": "2026-09-29T04:00:59.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-letzte-mensch-der-alles-wusste-enrico-fermi-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-enrico-fermi-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/ccc485a3-ae1f-44a5-bae4-4c25d56e909a/ccc485a3-ae1f-44a5-bae4-4c25d56e909a_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:0da475ac385fb5bc221e3fb2002a12fc",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -274,29 +297,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wie-eine-krankenpflegerin-die-polio-behandlung-revolutionierte-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-elizabeth-kenny-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/09/0beb41bb-663c-45a4-a7e7-755caee2d597/0beb41bb-663c-45a4-a7e7-755caee2d597_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:b483cd0af05d53e972715950302907d3",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Die Akte Ötzi: Wie starb der Steinzeit-Mann?",
-    "summary": "<p>Als Wanderer am 19.9.1991 eine Leiche im Eis finden, ist ihnen die Sensation nicht gleich klar. Doch dann wird langsam deutlich: Der Tote liegt seit 5300 Jahren dort - und er ist ein Mordopfer.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Stephan Beuting:</strong><br><ul><li>warum der gute Zustand der Mumie ihr fast zum Verhängnis wird,</li><li>vom richtigen Riecher Reinhold Messners,</li><li>was man alles über Ötzi herausgefunden hat - von der Todesursache bis hin zu Tattoos,</li><li>wo man Ötzi heute besuchen kann.</li></ul><br>Am 19. September 1991, einem heißen Spätsommertag, entdeckt ein Ehepaar aus Nürnberg auf seiner Wanderung in den Ötztaler Alpen die Gletschermumie Ötzi. Der Fund erregt international Aufsehen. Das gab es noch nie: Eine Mumie, mehrere tausend Jahre alt und in ausgezeichnetem Zustand - mitsamt vollständiger Bekleidung und Ausrüstungsgegenständen.<br><br>Für die Wissenschaft öffnet sich durch Ötzi ein Fenster zu einer Epoche, die als verschüttet galt. Die Mumie \"erzählt\", wie Menschen vor 5.300 Jahren ihr Leben meistern, dass sie auch damals schon an sogenannten \"Zivilisationskrankheiten\" leiden und sogar alternative Behandlungsmethoden entwickeln. Und so wie es aussieht, ist Ötzis Geschichte noch lange nicht zu Ende.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Albert Zink, Anthropologe und Mumienforscher</li><li>Albert Zink: Ötzi. 100 Seiten. Ditzingen 2016</li><li><a href=\"https://www.iceman.it/de/oetzi/database\" rel=\"noopener\" target=\"_blank\">Ötzi-Wissensdatenbank</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag3764.html\" rel=\"noopener\" target=\"_blank\">18. Dezember 2009 - Entdeckung der \"Grotte Chauvet\"</a></li><li>Frag doch mal die Maus: <a href=\"https://www1.wdr.de/radio/wdr2/themen/frag-doch-mal-die-maus/mumie-106.html\" rel=\"noopener\" target=\"_blank\">Warum heißen Mumien so?</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Stephan Beuting<br>Redaktion: Frank Zirpins",
-    "date": "2026-09-19T04:00:16.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-akte-oetzi-wie-starb-der-steinzeit-mann-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-oetzi-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/a44f362c-cfe6-4a24-a65d-c8ede8a3807d/a44f362c-cfe6-4a24-a65d-c8ede8a3807d_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
