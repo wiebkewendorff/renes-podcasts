@@ -1,5 +1,79 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4016152",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Was sagt unser Schlaf über unsere Gesellschaft aus, Julia Vorhölter?",
+    "summary": "Eine biologische Notwendigkeit\n<p>Wenn wir schlafen, regeneriert sich unser Körper; Schlaf unterstützt das Immunsystem und hilft unserem Gehirn, Erlebtes zu verarbeiten. Fehlt uns Schlaf oder schlafen wir schlecht, wirkt sich das schnell auf unser Wohlbefinden aus, langfristig kann es auch unsere Gesundheit beeinträchtigen. Doch was Menschen unter „gutem Schlaf“ verstehen, ist keineswegs universell. Schlafgewohnheiten und Vorstellungen davon, wie viel und wie wir schlafen sollten, sind historisch wandelbar sowie gesellschaftlich und kulturell geprägt.</p>\n<p>Am Max-Planck-Institut für ethnologische Forschung untersucht Julia Vorhölter Schlaf deshalb nicht nur als biologischen Zustand, sondern auch als kulturelle und soziale Praxis. Ihre Forschung führt dabei mitten hinein in eine Frage, die viele Menschen beschäftigt: Warum fällt es uns manchmal so schwer, zu schlafen?</p>\nSchlaf ist politisch\n<p>Ob wir gut schlafen, ist auch eine Frage der Lebensbedingungen. Ein sicherer Ort zum Schlafen, geregelte Arbeitszeiten und ausreichend Ruhe sind keine Selbstverständlichkeiten. Schichtarbeit, Leistungsdruck oder ständige Erreichbarkeit können unseren Schlaf ebenso beeinflussen wie gesellschaftliche Vorstellungen davon, was als „normal“ oder „gesund“ gilt.</p>\n<p>\n<p>Gleichzeitig ist Schlaf längst zum Gegenstand einer ganzen Optimierungsindustrie geworden: Apps, Tracker und populärwissenschaftliche Ratgeber versprechen, uns dabei zu helfen, besser zu schlafen. Doch die ständige Beschäftigung mit der eigenen Schlafqualität kann selbst zum Problem werden. In diesem Zusammenhang wird Orthosomnie als Phänomen diskutiert: die zwanghafte Beschäftigung damit, möglichst „perfekt“ zu schlafen.</p>\nFeldforschung im Schlaflabor\n<p>Vorhölters Forschung schlägt eine Brücke zwischen Ethnologie und Schlafmedizin. Sie zeigt: Schlafen ist zwar eine biologische Notwendigkeit, aber wie wir schlafen, für wie erholsam wir das empfinden und wie wir mit Schlafproblemen umgehen, ist immer auch von unserer Umwelt und unserer Gesellschaft geprägt.</p>\n<p>In dieser Folge von „Ach, Mensch!“ spricht <strong>Dr. Julia Vorhölter</strong> mit <em>detektor.fm</em>-Moderatorin Jessica Hughes darüber, warum Schlaf weit mehr ist als eine biologische Funktion und was unser Schlaf über die Gesellschaft erzählt, in der wir leben.</p>",
+    "date": "2026-09-30T03:21:26.000Z",
+    "url": "https://feedpress.me/link/19604/17478368/ach-mensch-julia-vorhoelter-schlaf",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260930achmenschjuliavorhoelter.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260930achmenschjuliavorhoelter.63.mp3",
+    "duration": "43 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:00a9d54b-030d-5414-82ad-42017c5d3c44",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sehnsuchtsort des popkulturellen Lebens? - unser Bild von New York",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-09-29T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sehnsuchtsort-des-popkulturellen-lebens-unser-bild-von-new-york-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/sehnsuchtsort_des_popkulturellen_lebens_unser_bild_von_new_dlf_20260929_1520_211baedf.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:eba9de1d-bcb4-56e8-adae-6d7770020fcd",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aufwachsen in der digitalen Welt - die \"Social Studies\" von Lauren Greenfield",
+    "summary": "kröger,jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-09-29T13:10:35.000Z",
+    "url": "https://www.deutschlandfunk.de/aufwachsen-in-der-digitalen-welt-die-social-studies-von-lauren-greenfield-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/aufwachsen_in_der_digitalen_welt_die_social_studies_von_dlf_20260929_1510_bb6c1908.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:42546f49-fd3d-5db4-8797-cb18e5230834",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -327,56 +401,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:0654fd28-6909-5b44-ac1a-f3ba331da0f7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "The Beauty of Ballroom - Doku über queere Szene in Südostasien",
-    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
-    "date": "2026-09-25T13:06:10.000Z",
-    "url": "https://www.deutschlandfunk.de/the-beauty-of-ballroom-doku-ueber-queere-szene-in-suedostasien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/the_beauty_of_ballroom_doku_ueber_queere_szene_in_dlf_20260925_1506_98d245b7.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f5186e20-dccc-563c-a0f8-53d82b86acde",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Trailer Podcast \"Crashkurs-Wirtschaft trifft Geschichte\"",
-    "summary": "Oehme, Alexander www.deutschlandfunk.de, Corso",
-    "date": "2026-09-25T13:05:05.000Z",
-    "url": "https://www.deutschlandfunk.de/trailer-podcast-crashkurs-wirtschaft-trifft-geschichte-108.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/trailer_podcast_crashkurs_wirtschaft_trifft_geschichte_dlf_20260925_1505_eb62b56c.mp3?refId=corso-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4064802",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -665,30 +689,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260909missionenergiewendeafrikaundklima.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260909missionenergiewendeafrikaundklima.63.mp3",
     "duration": "30 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4054558",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Wenn Führungskräfte mal offen reden können",
-    "summary": "<b>brand eins Peergroups: Hosen runter</b>\n<p>Je weiter Menschen in Unternehmen nach oben kommen, desto kleiner wird oft der Kreis derjenigen, mit denen sie wirklich offen sprechen können. Genau hier setzen die <i>brand eins</i> Peergroups an: Führungskräfte aus unterschiedlichen Branchen bringen ihre konkreten Herausforderungen mit, diskutieren sie miteinander und bekommen einen Blick von außen — ohne Konkurrenz, ohne interne Interessen, ohne die Agenda eines klassischen Beratungsmandats.</p>\n<p>Die Themen reichen von Silos — also Abteilungen oder Bereichen, die zu stark für sich arbeiten und zu wenig miteinander — über Hierarchien bis zur Frage, wie man die Nachfolge im Unternehmen gut regeln kann. Manche Probleme tauchen dabei immer wieder auf.</p>\n<p>„Ich wünsche mir, dass meine Mitarbeiter mehr Eigenverantwortung übernehmen — das Thema ist einfach ein Evergreen.“ Das sagt <b>Patricia Döhle</b>, sie hat die <i>brand eins</i> Academy aufgebaut und begleitet die Peergroups seit acht Jahren.</p>\n<p>Damit der Austausch funktioniert, braucht es Vertrauen. Die Gruppen sind klein, die Teilnehmenden werden bewusst ausgewählt — und Offenheit gehört ausdrücklich dazu. Der inoffizielle Dresscode lautet: Hosen runter.</p>\n<b>Zu wenig Führung? Von wegen!</b>\n<p>Wie wirksam das sein kann, das hat <b>André Roitzsch,</b> CEO von SHOPMACHER, in den Gesprächen mit den anderen Teilnehmenden seiner Peergroup erlebt: „ Dieses Auflegen von Widersprüchen, das ist im ersten Moment nicht besonders schön, aber in jedem Fall hilfreich.“</p>\n<p>Er ist mit der Annahme in seine Peergroup gegangen, seinem Unternehmen fehle Führung. Nach den gemeinsamen Sessions stand plötzlich eine ganz andere Erkenntnis im Raum: Nicht zu wenig, sondern zu viel Führung ist das Problem gewesen. Wie kann das sein? Wie ist aus mehr Agilität plötzlich zu viel Führung geworden — und was hat die Peergroup gesehen, worauf Roitzsch selbst nicht gekommen ist?</p>\n<p>Was bei SHOPMACHER schließlich verändert worden ist und warum André Roitzsch die Erfahrung bis heute als „mind-blowing“ bezeichnet, darüber sprechen er und Patricia Döhle in dieser neuen Folge des <i>brand eins</i> Podcasts mit <i>detektor.fm-</i>Moderator Christian Bollert.</p>",
-    "date": "2026-09-18T03:30:47.000Z",
-    "url": "https://feedpress.me/link/19604/17465142/brand-eins-podcast-patricia-doehle-und-andre-roitzsch-peergroups",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinspatricia-doehle-andre-roitzsch.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/202609brandeinspatricia-doehle-andre-roitzsch.63.mp3",
-    "duration": "27 Min",
     "tags": [
       "wissenschaft",
       "forschung",

@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:00a9d54b-030d-5414-82ad-42017c5d3c44",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sehnsuchtsort des popkulturellen Lebens? - unser Bild von New York",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-09-29T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sehnsuchtsort-des-popkulturellen-lebens-unser-bild-von-new-york-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/sehnsuchtsort_des_popkulturellen_lebens_unser_bild_von_new_dlf_20260929_1520_211baedf.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:eba9de1d-bcb4-56e8-adae-6d7770020fcd",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aufwachsen in der digitalen Welt - die \"Social Studies\" von Lauren Greenfield",
+    "summary": "kröger,jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-09-29T13:10:35.000Z",
+    "url": "https://www.deutschlandfunk.de/aufwachsen-in-der-digitalen-welt-die-social-studies-von-lauren-greenfield-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/aufwachsen_in_der_digitalen_welt_die_social_studies_von_dlf_20260929_1510_bb6c1908.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:612e36d5-c556-5517-bd8c-97f6779a6560",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/edith_loehle_ueber_ihre_satire_kurzer_prozess_und_pumuckl_dlf_20260925_1515_bd210954.mp3?refId=corso-104",
     "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0654fd28-6909-5b44-ac1a-f3ba331da0f7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "The Beauty of Ballroom - Doku über queere Szene in Südostasien",
-    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
-    "date": "2026-09-25T13:06:10.000Z",
-    "url": "https://www.deutschlandfunk.de/the-beauty-of-ballroom-doku-ueber-queere-szene-in-suedostasien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/the_beauty_of_ballroom_doku_ueber_queere_szene_in_dlf_20260925_1506_98d245b7.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f5186e20-dccc-563c-a0f8-53d82b86acde",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Trailer Podcast \"Crashkurs-Wirtschaft trifft Geschichte\"",
-    "summary": "Oehme, Alexander www.deutschlandfunk.de, Corso",
-    "date": "2026-09-25T13:05:05.000Z",
-    "url": "https://www.deutschlandfunk.de/trailer-podcast-crashkurs-wirtschaft-trifft-geschichte-108.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/trailer_podcast_crashkurs_wirtschaft_trifft_geschichte_dlf_20260925_1505_eb62b56c.mp3?refId=corso-104",
-    "duration": "2 Min",
     "tags": [
       "kultur",
       "pop",
