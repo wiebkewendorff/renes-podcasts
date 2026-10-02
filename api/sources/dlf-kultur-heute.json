@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:a62c84f0-babc-5ff6-b569-270c2db25656",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 01.10.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:56:27.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/kulturmeldungen_01102026_dlf_20261001_1756_924d0040.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f18e154b-96f9-5f6f-a6ab-d81b6d25f366",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wer hat den Krug zerbrochen? Neue Kritik an Wolfram Weimer",
+    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:54:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wer-hat-den-krug-zerbrochen-neue-kritik-an-wolfram-weimer-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/wer_hat_den_krug_zerbrochen_neue_kritik_an_wolfram_weimer_dlf_20261001_1754_c54be2b4.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:52169ed0-39d5-5185-ac06-54505fd083cc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie politisch soll die Kunst sein! Katarzyna Wielga-Skolimowska im Gespräch",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:45:35.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-politisch-soll-die-kunst-sein-katarzyna-wielga-skolimowska-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/wie_politisch_soll_die_kunst_sein_katarzyna_wielga_dlf_20261001_1745_924737ca.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d2fd0c22-f605-5440-be94-048568c07a9c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Rückgabe aus jüdischem Besitz aus München",
+    "summary": "Barenberg, Jasper www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:40:07.000Z",
+    "url": "https://www.deutschlandfunk.de/rueckgabe-aus-juedischem-besitz-aus-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/rueckgabe_aus_juedischem_besitz_aus_muenchen_dlf_20261001_1740_18454077.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1e8ea0dc-30e7-577a-ad2f-deb1efd678e5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Pflege mit KI-Roboter - Film von Doris Dörrie \"Frau Winkler verlässt das Haus\"",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:35:36.000Z",
+    "url": "https://www.deutschlandfunk.de/pflege-mit-ki-roboter-film-von-doris-doerrie-frau-winkler-verlaesst-das-haus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/pflege_mit_ki_roboter_film_von_doris_doerrie_frau_winkler_dlf_20261001_1735_2f43e43e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:59d817a7-4beb-5ef4-b039-359ee49d4e15",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -114,136 +244,6 @@
     "url": "https://www.deutschlandfunk.de/diskurs-liebe-pop-max-czollek-laedt-ins-haus-der-kulturen-der-welt-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/diskurs_liebe_pop_max_czollek_laedt_ins_haus_der_kulturen_dlf_20260930_1736_5616f880.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c850a2db-560e-549f-9340-0f10fdec3c7a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 29.09.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/kulturmeldungen_29092026_dlf_20260929_1756_45f73a96.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0c740d15-f24c-5034-8602-59fffe2c13cb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Zukünfte der Gesellschaft\" - Kongress der Deutschen Gesellschaft für Soziologie",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zukuenfte-der-gesellschaft-kongress-der-deutschen-gesellschaft-fuer-soziologie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/zukuenfte_der_gesellschaft_kongress_der_deutschen_dlf_20260929_1751_2bf4e4c7.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5c1f153f-9729-5e7b-8639-a00964e8f37a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Haltung zeigen! Wie das Züricher Theater den Faschismus bekämpfen will",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/haltung-zeigen-wie-das-zuericher-theater-den-faschismus-bekaempfen-will-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/haltung_zeigen_wie_das_zuericher_theater_den_faschismus_dlf_20260929_1746_3bf2e707.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a5dc9a25-f01e-500b-9a97-6f386e12674e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Moneyland\" und \"Tag und Nacht\" - Zwei weitere Uraufführungen am Schauspiel Köln",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/moneyland-und-tag-und-nacht-zwei-weitere-urauffuehrungen-am-schauspiel-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/moneyland_und_tag_und_nacht_zwei_weitere_urauffuehrungen_am_dlf_20260929_1741_33f1022d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2d2850d2-0772-57e0-ad5f-ed84139ae9f9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Vier Wände voller Kunst\" - Jüdische Familien und ihre Sammlungen in Leipzig",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/vier-waende-voller-kunst-juedische-familien-und-ihre-sammlungen-in-leipzig-104.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/vier_waende_voller_kunst_juedische_familien_und_ihre_dlf_20260929_1736_d7eec5a9.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",

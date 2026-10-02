@@ -1,5 +1,235 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-6137925488787478",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Sie feiern ihre Liebe mit einem Buch: Das Schauspielerpaar Christine Sommer und Martin Brambach",
+    "summary": "Kaum ein Gefühl bewegt so sehr wie die Liebe. Der Dresdner \"Tatort\"-Ermittler Martin Brambach und seine Frau Christine Sommer feiern ihre 25-jährige Beziehung daher mit einem gemeinsamen Liebesbuch. Ihre darin ausgewählten Briefe und Texte von Goethe, Tucholsky, Simone de Beauvoir, Charles Bukowski, Virginia Woolf und anderen erzählen von Sehnsucht, Verlangen, Kummer und Schmerz. Garniert werden die Geschichten mit persönlichen Erinnerungen und Anekdoten des Schauspielerpaars.",
+    "date": "2026-10-01T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/sie-feiern-ihre-liebe-mit-einem-buch-das-schauspielerpaar-christine-sommer-und-martin-brambach,audio-3511376.html",
+    "image": "https://images.ndr.de/image/71fbec1a-f8eb-47eb-b0c5-3545a1e22c28/AAABoPjI_no/AAABnSStX0g/1x1-big/screenshot-237686.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1001/AU-20261001-2225-2200.mp3",
+    "duration": "39 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a62c84f0-babc-5ff6-b569-270c2db25656",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 01.10.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:56:27.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/kulturmeldungen_01102026_dlf_20261001_1756_924d0040.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f18e154b-96f9-5f6f-a6ab-d81b6d25f366",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wer hat den Krug zerbrochen? Neue Kritik an Wolfram Weimer",
+    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:54:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wer-hat-den-krug-zerbrochen-neue-kritik-an-wolfram-weimer-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/wer_hat_den_krug_zerbrochen_neue_kritik_an_wolfram_weimer_dlf_20261001_1754_c54be2b4.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:52169ed0-39d5-5185-ac06-54505fd083cc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie politisch soll die Kunst sein! Katarzyna Wielga-Skolimowska im Gespräch",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:45:35.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-politisch-soll-die-kunst-sein-katarzyna-wielga-skolimowska-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/wie_politisch_soll_die_kunst_sein_katarzyna_wielga_dlf_20261001_1745_924737ca.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d2fd0c22-f605-5440-be94-048568c07a9c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Rückgabe aus jüdischem Besitz aus München",
+    "summary": "Barenberg, Jasper www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:40:07.000Z",
+    "url": "https://www.deutschlandfunk.de/rueckgabe-aus-juedischem-besitz-aus-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/rueckgabe_aus_juedischem_besitz_aus_muenchen_dlf_20261001_1740_18454077.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1e8ea0dc-30e7-577a-ad2f-deb1efd678e5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Pflege mit KI-Roboter - Film von Doris Dörrie \"Frau Winkler verlässt das Haus\"",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-01T15:35:36.000Z",
+    "url": "https://www.deutschlandfunk.de/pflege-mit-ki-roboter-film-von-doris-doerrie-frau-winkler-verlaesst-das-haus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/pflege_mit_ki_roboter_film_von_doris_doerrie_frau_winkler_dlf_20261001_1735_2f43e43e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:3c36639e-7ff9-5a18-a275-4b40dd923a22",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Game \"Big Walk\": Im Gehen die Welt entdecken",
+    "summary": "Nowak, Tobias www.deutschlandfunk.de, Corso",
+    "date": "2026-10-01T13:20:44.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-game-big-walk-im-gehen-die-welt-entdecken-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/neues_game_big_walk_im_gehen_die_welt_entdecken_dlf_20261001_1520_dff1bad3.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:72c1cefd-394f-573e-994f-5e971f2938bf",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ticketteuerung: die Explosion der Zweitmarktpreise",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-01T13:20:17.000Z",
+    "url": "https://www.deutschlandfunk.de/ticketteuerung-die-explosion-der-zweitmarktpreise-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/ticketteuerung_die_explosion_der_zweitmarktpreise_dlf_20261001_1520_97f03930.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0a2c9bd3-c8f3-55ef-9c29-b1ca1b6e6fef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doku \"Watching People Watching Birds\" - Vogelgucker unter Beobachtung",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-01T13:10:31.000Z",
+    "url": "https://www.deutschlandfunk.de/doku-watching-people-watching-birds-vogelgucker-unter-beobachtung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/doku_watching_people_watching_birds_vogelgucker_unter_dlf_20261001_1510_657a4524.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-6337088011531508",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -255,136 +485,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:c850a2db-560e-549f-9340-0f10fdec3c7a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 29.09.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/kulturmeldungen_29092026_dlf_20260929_1756_45f73a96.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0c740d15-f24c-5034-8602-59fffe2c13cb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Zukünfte der Gesellschaft\" - Kongress der Deutschen Gesellschaft für Soziologie",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zukuenfte-der-gesellschaft-kongress-der-deutschen-gesellschaft-fuer-soziologie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/zukuenfte_der_gesellschaft_kongress_der_deutschen_dlf_20260929_1751_2bf4e4c7.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5c1f153f-9729-5e7b-8639-a00964e8f37a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Haltung zeigen! Wie das Züricher Theater den Faschismus bekämpfen will",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/haltung-zeigen-wie-das-zuericher-theater-den-faschismus-bekaempfen-will-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/haltung_zeigen_wie_das_zuericher_theater_den_faschismus_dlf_20260929_1746_3bf2e707.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a5dc9a25-f01e-500b-9a97-6f386e12674e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Moneyland\" und \"Tag und Nacht\" - Zwei weitere Uraufführungen am Schauspiel Köln",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/moneyland-und-tag-und-nacht-zwei-weitere-urauffuehrungen-am-schauspiel-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/moneyland_und_tag_und_nacht_zwei_weitere_urauffuehrungen_am_dlf_20260929_1741_33f1022d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2d2850d2-0772-57e0-ad5f-ed84139ae9f9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Vier Wände voller Kunst\" - Jüdische Familien und ihre Sammlungen in Leipzig",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-29T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/vier-waende-voller-kunst-juedische-familien-und-ihre-sammlungen-in-leipzig-104.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/vier_waende_voller_kunst_juedische_familien_und_ihre_dlf_20260929_1736_d7eec5a9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:00a9d54b-030d-5414-82ad-42017c5d3c44",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -562,31 +662,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:706141bb-9c52-5c5d-ad68-fe80fd635eb4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Was heute als männlich gilt, war es nicht immer",
-    "summary": "Leistung, Muskeln, Ergebnisse - das gängige Männlichkeitsideal scheint klar definiert. Das Stereotyp habe historisch betrachtet aber nicht immer so ausgesehen, sagt Moderator und Autor Riccardo Simonetti. Darüber hat er nun ein Buch geschrieben. Müller, Paulus; Simonetti, Riccardo www.deutschlandfunk.de, Corso",
-    "date": "2026-09-28T13:05:56.000Z",
-    "url": "https://www.deutschlandfunk.de/die-facetten-von-maennlichkeit-zum-buch-wann-ist-ein-mann-ein-mann-100.html",
-    "image": "https://bilder.deutschlandfunk.de/1e/5b/54/10/1e5b5410-934b-4d5a-b510-2b93c70239d0/bodybuilder-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/die_facetten_von_maennlichkeit_zum_buch_wann_ist_ein_mann_dlf_20260928_1505_5df77232.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-4356905720794687",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -623,81 +698,6 @@
     "image": "https://images.ndr.de/image/303e38e5-c558-4596-8c3c-c08dc7a59b1e/AAABoN6jEG4/AAABnSStX0g/1x1-big/screenshot-234446.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0927/AU-20260927-2254-5800.mp3",
     "duration": "37 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:902958fa-9f8f-52b8-876b-452e8c0586b8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nichtseattle über \"Große Liebe\": \"Liebe ist ein Gefühl - und nicht ein Mensch\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-09-26T13:30:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nichtseattle-ueber-grosse-liebe-liebe-ist-ein-gefuehl-und-nicht-ein-mensch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/nichtseattle_ueber_grosse_liebe_liebe_ist_ein_gefuehl_und_dlf_20260926_1530_4a15a6a9.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b72bbc95-1b7d-50eb-8728-53173d2aeed2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Out into\" von Son Lux: Soundtrack für die unruhige Gegenwart",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-26T13:20:35.000Z",
-    "url": "https://www.deutschlandfunk.de/out-into-von-son-lux-soundtrack-fuer-die-unruhige-gegenwart-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/out_into_von_son_lux_soundtrack_fuer_die_unruhige_gegenwart_dlf_20260926_1520_d110bfc4.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-08775623979056535",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Osteoporose-Experte Henning Kunter im Sofa-Talk",
-    "summary": "Wenn sich jemand mit porösen Knochen auskennt, dann er. Prof. Dr. Henning Kunter ist ein renommierter Facharzt für Orthopädie, Unfallchirurgie und Chirurgie und gilt auf dem Gebiet Osteoporose als Koryphäe. Mindestens sechs Millionen Menschen leiden hierzulande am Knochenabbau – vor allem Frauen. Spezifische Ernährung und gezieltes Kraft- und Koordinationstraining können allerdings helfen, die Erkrankung zu bremsen. Welche Übungen gut sind und welches Essen sinnvoll ist, erklärt Prof. Kunter auf dem Roten Sofa.",
-    "date": "2026-09-25T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/osteoporose-experte-henning-kunter-im-sofa-talk,audio-3499682.html",
-    "image": "https://images.ndr.de/image/17c15bed-0341-41c9-a3fd-115c52807b0e/AAABoNnUTks/AAABnSStX0g/1x1-big/screenshot-234120.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0925/AU-20260925-1946-1900.mp3",
-    "duration": "40 Min",
     "tags": [
       "beatles",
       "popgeschichte",
