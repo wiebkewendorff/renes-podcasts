@@ -1,5 +1,210 @@
 [
   {
+    "id": "dlf-kultur-heute:af14824d-8200-5437-9337-570464faea26",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 02.10.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:56:08.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/kulturmeldungen_02102026_dlf_20261002_1756_da72116f.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7ce5a822-20f3-534d-aaee-cfc3f7f5953c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Es gab keinen Aufschrei: Film über den Holocaustüberlebenden Leon Weintraub",
+    "summary": "Weinreich, Charlotte www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:51:43.000Z",
+    "url": "https://www.deutschlandfunk.de/es-gab-keinen-aufschrei-film-ueber-den-holocaustueberlebenden-leon-weintraub-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/es_gab_keinen_aufschrei_film_ueber_den_dlf_20261002_1751_7070692b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4a7a587f-6d19-5b3d-8ac9-b492ba397894",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bedrohliche Leere: Installationen von Mona Hatoum in Winterthur",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:46:48.000Z",
+    "url": "https://www.deutschlandfunk.de/bedrohliche-leere-installationen-von-mona-hatoum-in-winterthur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/bedrohliche_leere_installationen_von_mona_hatoum_in_dlf_20261002_1746_566e88c9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5e3e3d12-ef4f-5cb7-a6b1-ddd9e7dd4383",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"House of Hopes\" - Rimini-Protokoll eröffnet die Berliner Volksbühne",
+    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:41:18.000Z",
+    "url": "https://www.deutschlandfunk.de/house-of-hopes-rimini-protokoll-eroeffnet-die-berliner-volksbuehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/house_of_hopes_rimini_protokoll_eroeffnet_die_berliner_dlf_20261002_1741_346bfb57.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:94de09ca-bcb8-5da6-864c-d429e8fa61d0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Stadtschloss Weimar - Die große Wiedereröffnung und die neue Dauerausstellung",
+    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:36:22.000Z",
+    "url": "https://www.deutschlandfunk.de/stadtschloss-weimar-die-grosse-wiedereroeffnung-und-die-neue-dauerausstellung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/stadtschloss_weimar_die_grosse_wiedereroeffnung_und_die_neue_dlf_20261002_1736_b569b551.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7ec0e533-6886-54c8-b72b-be4d40044489",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Berliner Ausstellung beleuchtet \"Tanzflächen der Wiedervereinigung\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/berliner-ausstellung-beleuchtet-tanzflaechen-der-wiedervereinigung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/berliner_ausstellung_beleuchtet_tanzflaechen_der_dlf_20261002_1520_d3a1738d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7489608b-011c-55b8-ab07-41e663aae0cc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Corso-Podcast-Hendrik Bolz über ostdeutsche Literatur und sein Buch \"Aus Ruinen\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:12:00.000Z",
+    "url": "https://www.deutschlandfunk.de/corso-podcast-hendrik-bolz-ueber-ostdeutsche-literatur-und-sein-buch-aus-ruinen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/corso_podcast_hendrik_bolz_ueber_ostdeutsche_literatur_und_dlf_20261002_1512_09e80ea6.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:10b3c6b5-92a3-58ad-a187-563125da84ef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach dem Skandal - Danger Dan veröffentlicht Album \"Keine Angst\"",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:07:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-dem-skandal-danger-dan-veroeffentlicht-album-keine-angst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/nach_dem_skandal_danger_dan_veroeffentlicht_album_keine_dlf_20261002_1507_86c1c644.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:a62c84f0-babc-5ff6-b569-270c2db25656",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -205,136 +410,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:59d817a7-4beb-5ef4-b039-359ee49d4e15",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 30.09.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/kulturmeldungen_30092026_dlf_20260930_1757_d21ef2f1.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:788812a0-c9d8-5594-98c5-197d1c2cec24",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Zwischenraum / Hindurchzuschaun\" - Zilla Leutenegger im Museum Tinguely Basel",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zwischenraum-hindurchzuschaun-zilla-leutenegger-im-museum-tinguely-basel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/zwischenraum_hindurchzuschaun_zilla_leutenegger_im_museum_dlf_20260930_1751_a81cb976.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3bcdfc0f-82c6-5580-a6a5-a11373f1f555",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bruegels \"Schlaraffenland\" - Dank jüdischer Mäzene in Münchens Alter Pinakothek",
-    "summary": "Krone, Tobi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/bruegels-schlaraffenland-dank-juedischer-maezene-in-muenchens-alter-pinakothek-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/bruegels_schlaraffenland_dank_juedischer_maezene_in_dlf_20260930_1746_4e1ae721.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:eb5792ed-74f5-5e9b-b28b-a69009e20b35",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nachwuchs in Bewegung - Das Tanztreffen der Jugend in Berlin",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nachwuchs-in-bewegung-das-tanztreffen-der-jugend-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/nachwuchs_in_bewegung_das_tanztreffen_der_jugend_in_berlin_dlf_20260930_1741_f518d258.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:caaec9f3-3399-5bd1-b55a-6775f4cfcc85",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Diskurs Liebe Pop - Max Czollek lädt ins Haus der Kulturen der Welt",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/diskurs-liebe-pop-max-czollek-laedt-ins-haus-der-kulturen-der-welt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/diskurs_liebe_pop_max_czollek_laedt_ins_haus_der_kulturen_dlf_20260930_1736_5616f880.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:14579ee2-50b0-5ee4-9056-7b9ec7b753a9",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -435,31 +510,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:eba9de1d-bcb4-56e8-adae-6d7770020fcd",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aufwachsen in der digitalen Welt - die \"Social Studies\" von Lauren Greenfield",
-    "summary": "kröger,jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-09-29T13:10:35.000Z",
-    "url": "https://www.deutschlandfunk.de/aufwachsen-in-der-digitalen-welt-die-social-studies-von-lauren-greenfield-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/aufwachsen_in_der_digitalen_welt_die_social_studies_von_dlf_20260929_1510_bb6c1908.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6abb270ef4720dfefb534afb",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -482,56 +532,6 @@
       "Kunst",
       "Geschichte",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:612e36d5-c556-5517-bd8c-97f6779a6560",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Angst zieht Camouflage an - Outfits für den 3. Weltkrieg auf TikTok",
-    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
-    "date": "2026-09-28T13:25:48.000Z",
-    "url": "https://www.deutschlandfunk.de/angst-zieht-camouflage-an-outfits-fuer-den-3-weltkrieg-auf-tiktok-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/angst_zieht_camouflage_an_outfits_fuer_den_3_weltkrieg_auf_dlf_20260928_1525_fa4fd4f6.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ed382519-4f51-522d-acc0-b466258d2aef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "MTV-Awards - Welche Bedeutung spielen Videos und virale Momente?",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-09-28T13:10:33.000Z",
-    "url": "https://www.deutschlandfunk.de/mtv-awards-welche-bedeutung-spielen-videos-und-virale-momente-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/mtv_awards_welche_bedeutung_spielen_videos_und_virale_dlf_20260928_1510_8e4e2111.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

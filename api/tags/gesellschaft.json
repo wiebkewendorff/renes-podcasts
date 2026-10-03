@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:7ec0e533-6886-54c8-b72b-be4d40044489",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Berliner Ausstellung beleuchtet \"Tanzflächen der Wiedervereinigung\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/berliner-ausstellung-beleuchtet-tanzflaechen-der-wiedervereinigung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/berliner_ausstellung_beleuchtet_tanzflaechen_der_dlf_20261002_1520_d3a1738d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7489608b-011c-55b8-ab07-41e663aae0cc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Corso-Podcast-Hendrik Bolz über ostdeutsche Literatur und sein Buch \"Aus Ruinen\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:12:00.000Z",
+    "url": "https://www.deutschlandfunk.de/corso-podcast-hendrik-bolz-ueber-ostdeutsche-literatur-und-sein-buch-aus-ruinen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/corso_podcast_hendrik_bolz_ueber_ostdeutsche_literatur_und_dlf_20261002_1512_09e80ea6.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:10b3c6b5-92a3-58ad-a187-563125da84ef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach dem Skandal - Danger Dan veröffentlicht Album \"Keine Angst\"",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:07:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-dem-skandal-danger-dan-veroeffentlicht-album-keine-angst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/nach_dem_skandal_danger_dan_veroeffentlicht_album_keine_dlf_20261002_1507_86c1c644.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4070896",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -394,31 +469,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:eba9de1d-bcb4-56e8-adae-6d7770020fcd",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aufwachsen in der digitalen Welt - die \"Social Studies\" von Lauren Greenfield",
-    "summary": "kröger,jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-09-29T13:10:35.000Z",
-    "url": "https://www.deutschlandfunk.de/aufwachsen-in-der-digitalen-welt-die-social-studies-von-lauren-greenfield-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/aufwachsen_in_der_digitalen_welt_die_social_studies_von_dlf_20260929_1510_bb6c1908.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-das-feature:42546f49-fd3d-5db4-8797-cb18e5230834",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -516,56 +566,6 @@
     "category": [
       "Wissenschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:612e36d5-c556-5517-bd8c-97f6779a6560",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Angst zieht Camouflage an - Outfits für den 3. Weltkrieg auf TikTok",
-    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
-    "date": "2026-09-28T13:25:48.000Z",
-    "url": "https://www.deutschlandfunk.de/angst-zieht-camouflage-an-outfits-fuer-den-3-weltkrieg-auf-tiktok-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/angst_zieht_camouflage_an_outfits_fuer_den_3_weltkrieg_auf_dlf_20260928_1525_fa4fd4f6.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ed382519-4f51-522d-acc0-b466258d2aef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "MTV-Awards - Welche Bedeutung spielen Videos und virale Momente?",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-09-28T13:10:33.000Z",
-    "url": "https://www.deutschlandfunk.de/mtv-awards-welche-bedeutung-spielen-videos-und-virale-momente-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/mtv_awards_welche_bedeutung_spielen_videos_und_virale_dlf_20260928_1510_8e4e2111.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

@@ -1,5 +1,233 @@
 [
   {
+    "id": "zeitzeichen:c42f07225e37f013a444d1522aa505e2",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "SOS: Ein Morsecode, der Leben rettet",
+    "summary": "<p>Lange funken Schiffe im Notfall unterschiedlich. Am 3.10.1906 trifft man sich, um ein einheitliches Signal zu vereinbaren. So rettet SOS noch heute Menschenleben - trotz technischen Fortschritts.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Stephan Beuting:</strong><br><ul><li>wie ein Schiffsunglück vor den Azoren zum ersten dokumentierten Einsatz des neuen Notsignals wird, </li><li>weshalb konkurrierende Funkgesellschaften die Seenotkommunikation erschweren, </li><li>warum SOS streng genommen keine Buchstabenfolge ist, </li><li>wie die Titanic-Katastrophe die Bedeutung von Notrufen auf See sichtbar macht.</li></ul><br>Zu Beginn des 20. Jahrhunderts verändert die Funktechnik die Schifffahrt grundlegend. Schiffe können erstmals über große Entfernungen miteinander kommunizieren. Damit wächst die Chance, im Notfall Hilfe zu rufen und Menschenleben zu retten.<br><br>Auf einer internationalen Funkkonferenz in Berlin einigen sich Vertreter von 27 Staaten auf ein einheitliches Notsignal. Aus dem markanten Morsezeichen entwickelt sich mit der Zeit weit mehr als ein technischer Standard: SOS wird zu einem weltweiten Symbol für Hilfe in höchster Not.<br><br><strong>Das sind unsere wichtigsten Interviewpartner:</strong><br><ul><li>Michael Straub (Amateurfunker und Morsespezialist) </li><li>Alexandre Monteiro (Instituto de Arqueologia e Paleociências, NOVA FCSH, Lissabon) </li><li>Christian Stipeldey (Deutsche Gesellschaft zur Rettung Schiffbrüchiger)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 07.01.1904: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/seenotruf106.html\" rel=\"noopener\" target=\"_blank\">Einführung des Seenotrufs CQD</a></li><li>Zeitzeichen 02.04.1872: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-samuel-morse-100.html\" rel=\"noopener\" target=\"_blank\">Der Erfinder und Maler Samuel Morse stirbt in New York</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Stephan Beuting<br>Redaktion: Carolin Rückl und Frank Zirpins",
+    "date": "2026-10-03T04:00:25.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-sos-ein-morsecode-der-leben-rettet-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-sos-notsignal-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/26/3ea15a0a-8b75-4ecc-9b7b-18af47ecf0e5/3ea15a0a-8b75-4ecc-9b7b-18af47ecf0e5_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:af14824d-8200-5437-9337-570464faea26",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 02.10.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:56:08.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/kulturmeldungen_02102026_dlf_20261002_1756_da72116f.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7ce5a822-20f3-534d-aaee-cfc3f7f5953c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Es gab keinen Aufschrei: Film über den Holocaustüberlebenden Leon Weintraub",
+    "summary": "Weinreich, Charlotte www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:51:43.000Z",
+    "url": "https://www.deutschlandfunk.de/es-gab-keinen-aufschrei-film-ueber-den-holocaustueberlebenden-leon-weintraub-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/es_gab_keinen_aufschrei_film_ueber_den_dlf_20261002_1751_7070692b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4a7a587f-6d19-5b3d-8ac9-b492ba397894",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bedrohliche Leere: Installationen von Mona Hatoum in Winterthur",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:46:48.000Z",
+    "url": "https://www.deutschlandfunk.de/bedrohliche-leere-installationen-von-mona-hatoum-in-winterthur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/bedrohliche_leere_installationen_von_mona_hatoum_in_dlf_20261002_1746_566e88c9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5e3e3d12-ef4f-5cb7-a6b1-ddd9e7dd4383",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"House of Hopes\" - Rimini-Protokoll eröffnet die Berliner Volksbühne",
+    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:41:18.000Z",
+    "url": "https://www.deutschlandfunk.de/house-of-hopes-rimini-protokoll-eroeffnet-die-berliner-volksbuehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/house_of_hopes_rimini_protokoll_eroeffnet_die_berliner_dlf_20261002_1741_346bfb57.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:94de09ca-bcb8-5da6-864c-d429e8fa61d0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Stadtschloss Weimar - Die große Wiedereröffnung und die neue Dauerausstellung",
+    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:36:22.000Z",
+    "url": "https://www.deutschlandfunk.de/stadtschloss-weimar-die-grosse-wiedereroeffnung-und-die-neue-dauerausstellung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/stadtschloss_weimar_die_grosse_wiedereroeffnung_und_die_neue_dlf_20261002_1736_b569b551.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7ec0e533-6886-54c8-b72b-be4d40044489",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Berliner Ausstellung beleuchtet \"Tanzflächen der Wiedervereinigung\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/berliner-ausstellung-beleuchtet-tanzflaechen-der-wiedervereinigung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/berliner_ausstellung_beleuchtet_tanzflaechen_der_dlf_20261002_1520_d3a1738d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7489608b-011c-55b8-ab07-41e663aae0cc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Corso-Podcast-Hendrik Bolz über ostdeutsche Literatur und sein Buch \"Aus Ruinen\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:12:00.000Z",
+    "url": "https://www.deutschlandfunk.de/corso-podcast-hendrik-bolz-ueber-ostdeutsche-literatur-und-sein-buch-aus-ruinen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/corso_podcast_hendrik_bolz_ueber_ostdeutsche_literatur_und_dlf_20261002_1512_09e80ea6.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:10b3c6b5-92a3-58ad-a187-563125da84ef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach dem Skandal - Danger Dan veröffentlicht Album \"Keine Angst\"",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:07:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-dem-skandal-danger-dan-veroeffentlicht-album-keine-angst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/nach_dem_skandal_danger_dan_veroeffentlicht_album_keine_dlf_20261002_1507_86c1c644.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:1d3254e2020fd5f5acf8ba74bec0bbe1",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -270,228 +498,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:3c36639e-7ff9-5a18-a275-4b40dd923a22",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Game \"Big Walk\": Im Gehen die Welt entdecken",
-    "summary": "Nowak, Tobias www.deutschlandfunk.de, Corso",
-    "date": "2026-10-01T13:20:44.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-game-big-walk-im-gehen-die-welt-entdecken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/neues_game_big_walk_im_gehen_die_welt_entdecken_dlf_20261001_1520_dff1bad3.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:72c1cefd-394f-573e-994f-5e971f2938bf",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ticketteuerung: die Explosion der Zweitmarktpreise",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-01T13:20:17.000Z",
-    "url": "https://www.deutschlandfunk.de/ticketteuerung-die-explosion-der-zweitmarktpreise-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/ticketteuerung_die_explosion_der_zweitmarktpreise_dlf_20261001_1520_97f03930.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0a2c9bd3-c8f3-55ef-9c29-b1ca1b6e6fef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Doku \"Watching People Watching Birds\" - Vogelgucker unter Beobachtung",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-01T13:10:31.000Z",
-    "url": "https://www.deutschlandfunk.de/doku-watching-people-watching-birds-vogelgucker-unter-beobachtung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/doku_watching_people_watching_birds_vogelgucker_unter_dlf_20261001_1510_657a4524.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4069925",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Mietfreie Ateliers in Magdeburg: Das Projekt HeARTattack",
-    "summary": "HeARTattack Magdeburg: Kunsträume für die Stadt\n<p><strong>Toralf Krüger</strong> ist eigentlich Unternehmer und nicht im Kulturbereich tätig. Das ändert sich vor einigen Jahren. Zur Kunst kommt der Magdeburger Immobilienmann über eine persönliche Krise. Er lernt die heilende und verbindende Kraft von Kunst kennen und beschließt: Das will ich auch anderen ermöglichen.</p>\n<p>Toralf Krüger verkaufte Firmenanteile und richtete in den Räumen einer ehemaligen Herzpraxis in Magdeburg Stadtfeld Ateliers ein. Die stellt er Künstlerinnen und Künstlern aus Magdeburg zur Verfügung — finanziert aus eigener Tasche, ganz ohne Gegenleistung.</p>\nRäume voller Potenzial\n<p>HeARTattack, wie das Projekt in Anlehnung an den Standort in der ehemaligen Herzpraxis heißt, ist noch jung: Erst neun Monate kennen sich die beteiligten Künstlerinnen und Künstler. Klar ist: Der interdisziplinäre Austausch und die freie kreative Entfaltung sollen im Vordergrund stehen, nicht der finanzielle Aspekt. Für <strong>Tim Kamieth</strong>, der 20 Jahre lang in Berlin Kunst gemacht hat, ist gerade das etwas Besonderes. Denn während er in Berlin vom Druck der Mieten und des Marktes getrieben war, ist hier echter Freiraum für Kunst und Künstler. „Ich müsste eigentlich erst mal weinen gehen vor Glück, dass mir das Leben so jemanden in den Weg stellt wie Toralf“, sagt Tim.</p>\n<p>Derzeit arbeiten Künstlerinnen und Künstler aus den Bereichen Fotografie, Modedesign und Malerei in den Räumlichkeiten. Langfristig soll sich HeARTattack zu einer Plattform entwickeln, die feste Arbeitsplätze mit wechselnden Ausstellungen, Workshops, offenen Ateliers und kulturellen Events verbindet. So schreibt es Toralf Krüger auf seiner Website.</p>\n<p>Wie das gelingt? Katja hat das Projekt für den Podcast besucht und sich die Ateliers angeschaut. Warum Toralf Krüger das Projekt geschaffen hat, wie es sich entwickelt und ob Magdeburg eigentlich eine gute Stadt für Kunst ist: Darum geht es in der neuen Folge DAZWISCHEN.</p>\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl und darüber hinaus ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm oder schickt uns eine Sprachnachricht über WhatsApp an die Nummer 0175 6807345. In unserem WhatsApp-Kanal bekommt ihr zusätzliche Infos. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</p>",
-    "date": "2026-10-01T12:30:27.000Z",
-    "url": "https://feedpress.me/link/19604/17483257/dazwischen-heartattack-mietfreie-ateliers-magdeburg",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260931-04dazwischenkunst.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260931-04dazwischenkunst.63.mp3",
-    "duration": "28 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:f717a729-af05-5a55-a359-c21339e7ae2c",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Macht und Krise der Bauern",
-    "summary": "Hitze, Dürre, Klimastress: Für die deutschen Bauern geht eine schlimme Erntezeit zu Ende. Noch mehr Höfe werden sterben. Trotzdem sind Landwirte nach wie vor ein politischer Machtfaktor. Das hat auch mit der bäuerlichen Protestgeschichte zu tun.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(01:39) Bäuerliches Leben in der vorindustriellen Zeit<br>(06:30) Der Bauernkrieg von 1525<br>(16:00) Die Industrialisierung im 19. Jahrhundert erreicht auch die Landwirtschaft<br>(22:10) Der organisierte Bauernprotest seit Mitte des 19. Jahrhunderts<br>(27:00) Die Bauern und die Weltkriege<br>(31:50) Zwangs-Kollektivierung der Bauern in der DDR<br>(34:50) Europäische Agrarpolitik<br>(40:35) Die Wirksamkeit von Bauern-Protesten<br><br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li>Die Historikerin <strong>Daniela Münkel</strong> leitet die Abteilung Vermittlung und Forschung im Stasi-Unterlagen-Archiv des Bundesarchivs. Sie ist Expertin für die Geschichte bäuerlichen Lebens und die Transformation der Landwirtschaft in der Bundesrepublik.</li></ul><br><ul><li><strong>Johann Kirchinger</strong> ist Historiker am Lehrstuhl für Bayerische Landesgeschichte an der Universität Regensburg. Er ist selbst Landwirt.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Anja Reinhardt und Robert Hauspurg <br>Faktencheck: Jule Dieterle und Zeyneb Karahan<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/wolf-jagen-raubtier-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Wölfe</li><li><a href=\"https://www.deutschlandfunk.de/vegetarier-fleisch-essen-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Vegetarismus</li><li><a href=\"https://www.deutschlandfunk.de/geschichte-der-tierethik-die-einen-gehen-gassi-die-anderen-zur-schlachtbank-dlf-90715214-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Tierethik</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.bundesregierung.de/breg-de/aktuelles/erntebericht-2026-2451194\" rel=\"noopener\" target=\"_blank\">Erntebericht 2026</a></li><li><a href=\"https://www.br.de/nachrichten/bayern/hoefesterben-landwirtschaft-nur-noch-ein-bauer-im-dorf,TW7rqZu\" rel=\"noopener\" target=\"_blank\">Bericht im BR</a> zum Thema Höfesterben</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br>Satirepodcast <a href=\"https://1.ard.de/extra-3-alles-gut-CP\" rel=\"noopener\" target=\"_blank\">extra 3 - alles gut!</a> <br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-10-01T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/bauern-ernte-macht-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/dc/ea/22/7d/dcea227d-aeb3-4b8a-8b8a-8063763065c8/protest-bauern-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/macht_und_krise_der_bauern_dlf_20261001_1300_12077e33.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "47 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:87abaed3096c794cfb53fbf4afd0fb04",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Die Urteile im Nürnberger Hauptkriegsverbrecherprozess",
-    "summary": "<p>Am 1.10.1946 fallen die Urteile gegen die NS-Hauptkriegsverbrecher. Das Leid von Frauen und Kindern in den KZ spielt kaum eine Rolle. Seweryna Szmaglewska will ihnen Gehör geben.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Nora Hespers:</strong><br><ul><li>wie Seweryna Szmaglewska das Grauen von Auschwitz vor Gericht bezeugt, </li><li>warum ihre Frage \"Wo sind diese Kinder?\" bis heute unbeantwortet bleibt, </li><li>weshalb die Erfahrungen von Frauen in Nürnberg lange wenig Beachtung finden, </li><li>warum Nürnberg bis heute als Symbol für internationale Gerechtigkeit gilt.</li></ul><br>Als am 1. Oktober 1946 die Urteile gegen die Hauptkriegsverbrecher des NS -Regimes verkündet werden, blickt die Welt nach Nürnberg. Im Mittelpunkt stehen Dokumente und Beweise für die systematisch geplanten Verbrechen. Die Stimmen der Überlebenden spielen dagegen nur eine vergleichsweise kleine Rolle.<br><br>Zu den wenigen Zeuginnen der Anklage gehört die polnische Widerstandskämpferin und Auschwitz-Überlebende Seweryna Szmaglewska. Erst wenige Monate zuvor hat sie das Vernichtungslager Auschwitz-Birkenau überlebt. Ihre Aussage über Frauen und Kinder in Auschwitz erschüttert den Gerichtssaal.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Nina Lutz (Leiterin Memorium Nürnberg)</li><li>Seweryna Szmaglewska: Die Frauen von Birkenau. Frankfurt a.M. 2020</li><li>Seweryna Szmaglewska: Die Unschuldigen in Nürnberg. Frankfurt a.M. 2022</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 31.08.1946: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-schlussworte-nuernberger-prozess-100.html\" rel=\"noopener\" target=\"_blank\">Schlussworte der Angeklagten im Nürnberger Kriegsverbrecherprozess</a></li><li>NDR Retro: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:b9796ece434ee5aa/\" rel=\"noopener\" target=\"_blank\">Nürnberger Prozesse - 1. Tag der Urteilsverkündung</a></li><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/deutsche_geschichte/nachkriegszeit/nuernberger-prozess-100.html\" rel=\"noopener\" target=\"_blank\">Der Nürnberger Prozess</a></li><li>Robert H Jackson Center: <a href=\"https://www.youtube.com/watch?v=weUkCX3MxA8\" rel=\"noopener\" target=\"_blank\">Nuremberg Trial Day 69 (1946) Severina Shmaglevskaya</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Nora Hespers<br>Redaktion: David Rother",
-    "date": "2026-10-01T04:00:09.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-urteile-im-nuernberger-hauptkriegsverbrecher-prozess-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-nuernberger-prozess-ende-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/28/c7942120-f85c-4748-b621-fd6648935954/c7942120-f85c-4748-b621-fd6648935954_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4069974",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Wie Pflanzen tiefe Erzlagerstätten aufspüren",
-    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem Helmholtz-Zentrum Dresden-Rossendorf\nRohstoffe schonend finden\n<p>Im sächsischen Erzgebirge verbirgt sich unter dichten Wäldern ein gewaltiges Vorkommen an strategischen Rohstoffen wie Lithium, Zinn und Wolfram. Um diese tief liegenden Schätze ohne umweltschädliche Großbohrungen aufzuspüren, setzt das europäische Forschungsprojekt DeepBEAT am Helmholtz-Zentrum Dresden-Rossendorf auf einen völlig neuen Ansatz: Die Wissenschaftler nutzen heimische Pflanzen als natürliche Geodetektive.</p>\nPhytogeochemie statt klassischer Geobotanik\n<p>Die traditionelle Geobotanik ermittelt, welche Pflanzenarten auf bestimmten Böden wachsen. Die sogenannte Phytogeochemie geht tiefer — buchstäblich. Sie analysiert, wie Blätter, Kiefernnadeln, Rinden oder Pilze im Innern chemisch zusammengesetzt sind. Und das kann viel  darüber aussagen, was sich in der Tiefe verbirgt. Denn über geologische Bruchzonen gelangen winzige Spuren der tiefen Lagerstätten nach oben und hinterlassen in der Flora messbare chemische Muster der Rohstoffe. Ursprünglich stammt die Grundidee aus der Herkunftsanalyse von Lebensmittelimporten wie Tee. „Es hat sich über die Jahre immer weiterentwickelt, dass die Pflanzen tatsächlich sehr präzise oberflächennahe Geologie abbilden können und zwar unabhängig davon, welcher Boden oben drüber liegt“, sagt Dr. Solveig Pospiech im Podcast. Sie arbeitet als Wissenschaftlerin beim Forschungsprojekt DeepBEAT am Helmholtz-Zentrum Dresden-Rossendorf.</p>\n<p>Kiefernwurzeln reichen beispielsweise bis zu neun Meter tief ins Erdreich und nehmen dort gelöste Elemente auf. Um das feine chemische Signal der Rohstoffe aus der Tiefe präzise auszuwerten, müssen die Forschenden jedoch zunächst störende Umgebungssignale aus den obersten Bodenschichten herausfiltern. Neben der technischen Präzisionsanalytik steht bei DeepBEAT vor allem der direkte Dialog mit den Menschen vor Ort im Mittelpunkt. Um Ängste vor künftigen Bergbauprojekten abzubauen, setzt das Team konsequent auf das Prinzip der freien, vorherigen und informierten Zustimmung. Dr. Solveig Pospiech betont, wie wichtig eine transparente Aufklärung ist, um die soziale Vertretbarkeit von Beginn an gemeinsam mit den Bürgerinnen und Bürgern abzuwägen und vertrauensvoll zu gestalten.</p>",
-    "date": "2026-10-01T03:14:59.000Z",
-    "url": "https://feedpress.me/link/19604/17483258/forschungsquartett-innovative-rohstoffsuche-erz",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/261001forschungsquartettdeepbeat.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/261001forschungsquartettdeepbeat.63.mp3",
-    "duration": "19 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4066109",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Macht uns die Gegenwart krank, Thomas Fuchs?",
-    "summary": "Ist unsere Psyche überfordert?\n<p>Es gibt Tage, an denen schon der Blick aufs Smartphone genügt, um das Gefühl zu bekommen: Das ist alles ein bisschen viel. Eine Nachricht jagt die nächste, zwischen Krieg und Klimakrise liegen Push-Mitteilungen, Arbeitsmails und die Erinnerung daran, dass man eigentlich noch Sport machen, sich gesund ernähren und ausreichend schlafen wollte.</p>\n<p>Gleichzeitig wissen wir so viel über psychische Gesundheit wie nie zuvor. Doch macht uns das Leben heute tatsächlich psychisch kränker oder nehmen wir unser Innenleben einfach genauer wahr als frühere Generationen?</p>\nWas braucht die Psyche?\n<p>Thomas Fuchs beschäftigt sich seit Jahrzehnten mit psychischem Leid. Der Psychiater, Psychotherapeut und Philosoph ist Professor für Philosophische Grundlagen der Psychiatrie und Psychotherapie an der Universität Heidelberg und verbindet dabei medizinische, psychologische und philosophische Perspektiven.</p>\n<p>Für ihn ist die Gegenwart durchaus eine Herausforderung. Unsere Gehirne und Körper haben sich nicht im selben Tempo verändert wie unsere Umwelt: Dass wir heute jederzeit Nachrichten aus der ganzen Welt empfangen, aber nicht direkt reagieren können, kann ein Gefühl der Ohnmacht auslösen, das dem menschlichen Bedürfnis nach Selbstwirksamkeit entgegensteht.</p>\n<p>Fuchs betont zudem, dass wir soziale Wesen sind, die auf überschaubare, unmittelbare Beziehungen angewiesen sind. Der Leiblichkeit misst er eine besondere Rolle bei, insbesondere in Zeiten von Social Media: Menschen sollten sich wieder tatsächlich treffen, miteinander sprechen, gemeinsam Zeit verbringen. Und sich ruhig auch mal knuddeln. Für Fuchs gehört deshalb die Frage nach unserer Verkörperung auch zu einer der großen Zukunftsfragen.</p>\nResilienz üben\n<p>Psychisch gesund zu sein bedeutet für Fuchs dabei nicht, ständig zufrieden oder glücklich zu sein. Entscheidend sei vielmehr die Fähigkeit, mit Belastungen und negativen Gefühlen umzugehen und nach Krisen wieder ins Gleichgewicht zu finden. Auch Resilienz entsteht nicht unbedingt dadurch, dass uns Schwierigkeiten erspart bleiben — wer schwierige Situationen bewältigt, kann daraus die Erfahrung mitnehmen: „Ich werde schon zurechtkommen.“</p>\n<p>In dieser Folge „Die großen Fragen der Wissenschaft“ sprechen <strong>Katharina Menne</strong> und <strong>Carsten Könneker</strong> von <em>Spektrum der Wissenschaft </em>mit <strong>Thomas Fuchs</strong> darüber, was psychische Gesundheit eigentlich bedeutet, ob wir unsere Widerstandskraft trainieren können und wie wir in einer Welt voller Krisen, Nachrichten und digitaler Reize gut mit uns selbst und miteinander leben können.</p>\n\n<p><em>Redaktion und Moderation: Katharina Menne und Carsten Könneker</em></p>\n<p><em>Redaktion detektor.fm: Stephan Ziegert und Jessica Hughes</em></p>\n<p><em>Audioproduktion: Stanley Baldauf </em></p>",
-    "date": "2026-10-01T03:00:21.000Z",
-    "url": "https://feedpress.me/link/19604/17483259/die-grossen-fragen-der-wissenschaft-thomas-fuchs",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1790/71/dgfdwmacht-uns-die-gegenwart-krankfuchs2209.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1790/71/dgfdwmacht-uns-die-gegenwart-krankfuchs2209.63.mp3",
-    "duration": "1 Std 34 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-6337088011531508",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Hat 34 Deutsche Rekorde aufgestellt: Apnoetaucherin Anna von Boetticher",
-    "summary": "Auf der Suche nach den Geheimnissen und Schönheiten der Erde taucht Anna von Boetticher ohne technische Hilfsmittel mit nur einem einzigen Atemzug über 80 Meter tief. Die Apnoetaucherin gleitet unter das Eis eines gefrorenen Fjords in Grönland, erforscht geflutete Eisenerzminen und begegnet Blauhaien und Krokodilen. Die Ausnahmesportlerin hat 34 Deutsche Rekorde aufgestellt und trägt eine unbändige Entdeckerfreude in sich. Ihr Motto: \"Es ist nie nichts\". Das Tauchen ist für \"Waterwoman\" Anna von Boetticher immer auch ein Ausloten ihrer eigenen Grenzen.",
-    "date": "2026-09-30T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/hat-34-deutsche-rekorde-aufgestellt-apnoetaucherin-anna-von-boetticher,audio-3509118.html",
-    "image": "https://images.ndr.de/image/137c87eb-e93b-4142-a422-643e47e3d124/AAABoPOLVb0/AAABnSStX0g/1x1-big/screenshot-236976.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0930/AU-20260930-2236-4800.mp3",
-    "duration": "41 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   }
