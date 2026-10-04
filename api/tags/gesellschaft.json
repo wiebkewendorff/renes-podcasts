@@ -1,5 +1,30 @@
 [
   {
+    "id": "dlf-corso:5b79e144-6d6d-517e-a4d3-27835ff07c6e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Popkultur - Archäologische Funde aus der Zukunft",
+    "summary": "Es ist das Jahr 2626. Ein Team aus Historikern macht einen besonderen Fund. Mithilfe einer Zeitmaschine nähern sie sich einer interessanten Kunstepoche des 20. und 21. Jahrhunderts. Der sogenannten Popkultur. Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-10-03T13:05:26.000Z",
+    "url": "https://www.deutschlandfunk.de/corso-spezial-popkultur-archaeologische-funde-aus-der-zukunft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/40/91/39/28/40913928-73c4-45e5-923b-9e00a4900070/blick-zurueck-auf-die-popkultur-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/corso_spezial_popkultur_archaeologische_funde_aus_der_dlf_20261003_1505_7fc33b77.mp3?refId=corso-104",
+    "duration": "50 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:7ec0e533-6886-54c8-b72b-be4d40044489",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -440,31 +465,6 @@
     "category": [
       "Wissenschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:00a9d54b-030d-5414-82ad-42017c5d3c44",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sehnsuchtsort des popkulturellen Lebens? - unser Bild von New York",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-09-29T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/sehnsuchtsort-des-popkulturellen-lebens-unser-bild-von-new-york-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/sehnsuchtsort_des_popkulturellen_lebens_unser_bild_von_new_dlf_20260929_1520_211baedf.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:1ebfb0fb-8ad1-5ce9-a71b-82b5c82c0040",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 03.10.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-03T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/kulturmeldungen_03102026_dlf_20261003_1756_3f9d107c.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1b0d4916-5123-5194-812c-35bd8e875a90",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Along the Color Line\" - Schwarze Positionen im Kölner Museum Ludwig",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-03T15:45:05.000Z",
+    "url": "https://www.deutschlandfunk.de/along-the-color-line-schwarze-positionen-im-koelner-museum-ludwig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/along_the_color_line_schwarze_positionen_im_koelner_museum_dlf_20261003_1745_5b9869da.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2957a2c4-3dfd-5047-b3c0-8737182b3935",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Freiheit: Simson\" - Eine Theater-Uraufführung in Suhl",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-03T15:39:35.000Z",
+    "url": "https://www.deutschlandfunk.de/freiheit-simson-eine-theater-urauffuehrung-in-suhl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/freiheit_simson_eine_theater_urauffuehrung_in_suhl_dlf_20261003_1739_4795ab91.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9337882d-565d-57a9-86a5-bd21e2b0ce82",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die geteilte Schrift - Christine Hartmann über deutsch-deutsche Typen",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-03T15:30:38.000Z",
+    "url": "https://www.deutschlandfunk.de/die-geteilte-schrift-christine-hartmann-ueber-deutsch-deutsche-typen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/die_geteilte_schrift_christine_hartmann_ueber_deutsch_dlf_20261003_1730_b991dc36.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:af14824d-8200-5437-9337-570464faea26",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/kulturmeldungen_01102026_dlf_20261001_1756_924d0040.mp3?refId=kultur-heute-104",
     "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f18e154b-96f9-5f6f-a6ab-d81b6d25f366",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wer hat den Krug zerbrochen? Neue Kritik an Wolfram Weimer",
-    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-01T15:54:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wer-hat-den-krug-zerbrochen-neue-kritik-an-wolfram-weimer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/wer_hat_den_krug_zerbrochen_neue_kritik_an_wolfram_weimer_dlf_20261001_1754_c54be2b4.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:52169ed0-39d5-5185-ac06-54505fd083cc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie politisch soll die Kunst sein! Katarzyna Wielga-Skolimowska im Gespräch",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-01T15:45:35.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-politisch-soll-die-kunst-sein-katarzyna-wielga-skolimowska-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/wie_politisch_soll_die_kunst_sein_katarzyna_wielga_dlf_20261001_1745_924737ca.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d2fd0c22-f605-5440-be94-048568c07a9c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rückgabe aus jüdischem Besitz aus München",
-    "summary": "Barenberg, Jasper www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-01T15:40:07.000Z",
-    "url": "https://www.deutschlandfunk.de/rueckgabe-aus-juedischem-besitz-aus-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/rueckgabe_aus_juedischem_besitz_aus_muenchen_dlf_20261001_1740_18454077.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1e8ea0dc-30e7-577a-ad2f-deb1efd678e5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Pflege mit KI-Roboter - Film von Doris Dörrie \"Frau Winkler verlässt das Haus\"",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-01T15:35:36.000Z",
-    "url": "https://www.deutschlandfunk.de/pflege-mit-ki-roboter-film-von-doris-doerrie-frau-winkler-verlaesst-das-haus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/pflege_mit_ki_roboter_film_von_doris_doerrie_frau_winkler_dlf_20261001_1735_2f43e43e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
