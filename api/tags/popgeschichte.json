@@ -1,5 +1,55 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-5693614240845116",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Ehrlich, selbstironisch und lässig: Fußballexperte und Autor Christoph Kramer",
+    "summary": "Fußball war sein Leben. Aber schon längst hat er neue Berufungen gefunden: Christoph Kramer ist heute TV-Experte, Podcast-Host und Schriftsteller. Der beliebte Fußballexperte erzählt über das Schreiben und wie es sich anfühlt, erst in den größten Stadien der Welt zu spielen und heute Hallen mit Lesungen zu füllen. Der Weltmeister von 2014 spricht außerdem über besondere Begegnungen mit Menschen und darüber, wie sie unser Leben berühren können. Ehrlich, selbstironisch und lässig: Christoph Kramer auf dem Roten Sofa.",
+    "date": "2026-10-04T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/ehrlich-selbstironisch-und-laessig-fussballexperte-und-autor-christoph-kramer,audio-3516098.html",
+    "image": "https://images.ndr.de/image/75e8945b-d480-4d6e-b654-bc638111c04b/AAABoQgomac/AAABnSStX0g/1x1-big/screenshot-239050.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1004/AU-20261004-2141-5100.mp3",
+    "duration": "38 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-1883657093548552",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Historikerin und Autorin Andrea Wulf im Talk über Weltumsegler Georg Forster",
+    "summary": "Georg Forster - ein Mann, der mit Captain Cook die Welt umsegelte, die Französische Revolution miterlebte und dabei nie aufhörte, die Welt mit staunenden Augen zu betrachten. Die britisch-deutsche Bestsellerautorin und Historikerin Andrea Wulf erzählt seine faszinierende und zu Unrecht vergessene Lebensgeschichte. Zu seiner Zeit war Forster auch berühmt für seine Zeichnungen von Fauna und Flora, denen er auf seinen Reisen begegnete. Die in Indien geborene Andrea Wulf, wurde zuletzt für ihr umfangreiches Werk über Alexander von Humboldt gefeiert. Hier beweist Sie einmal mehr, dass sie Geschichte lebendig erzählen kann. Auf dem Roten Sofa verrät sie, warum Forster topaktuell ist - und was ein Weltumsegler aus dem 18. Jahrhundert uns über Freiheit, Verantwortung und Neugier lehren kann.",
+    "date": "2026-10-02T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/historikerin-und-autorin-andrea-wulf-im-talk-ueber-weltumsegler-georg-forster,audio-3516096.html",
+    "image": "https://images.ndr.de/image/c6f984e2-e50d-4375-992d-ca904c35cffc/AAABoP3Q-1U/AAABnSStX0g/1x1-big/screenshot-238230.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1004/AU-20261004-2141-1100.mp3",
+    "duration": "37 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-6137925488787478",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -86,56 +136,6 @@
     "image": "https://images.ndr.de/image/9e115170-cac6-4347-be70-206d761b408f/AAABoOlKKRw/AAABnSStX0g/1x1-big/screenshot-235810.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0929/AU-20260929-0951-3200.mp3",
     "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-4356905720794687",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Michaela Benthaus über ihr Leben zwischen Schwerkraft und Schwerelosigkeit",
-    "summary": "Als erster Mensch mit Querschnittslähmung flog Michaela Benthaus im Dezember 2025 auf einem Parabelflug ins All und erlebte den Zustand der Schwerelosigkeit. Auf dem Roten Sofa erzählt die Luft- und Raumfahrt-Ingenieurin von ihrem außergewöhnlichen Lebensweg zwischen Wissenschaft, Technik und persönlicher Stärke. In ihrem demnächst erscheinenden Buch \"Zwischen Schwerkraft und Schwerelosigkeit\" berichtet sie auch über ihr Leben mit einer Querschnittslähmung, die ihren Weg nachhaltig geprägt hat.",
-    "date": "2026-09-27T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/michaela-benthaus-ueber-ihr-leben-zwischen-schwerkraft-und-schwerelosigkeit,audio-3502232.html",
-    "image": "https://images.ndr.de/image/b69b7eee-bd17-4f3a-860f-919ffc6301fe/AAABoOPO3cQ/AAABnSStX0g/1x1-big/screenshot-234974.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0927/AU-20260927-2255-3900.mp3",
-    "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-3281939295478492",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Blickt auf eine außergewöhnliche Karriere zurück: Matthias Reim",
-    "summary": "Zusammen mit Matthias Reim blicken wir auf eine außergewöhnliche Karriere zurück. Mit Hinnerk Baumgarten spricht er aber auch über aktuelle Projekte, seine vielköpfige Familie, seine Begeisterung für Motorräder und seine Liebe zum Bodensee. Der mittlerweile 68-Jährige schrieb 1990 mit \"Verdammt, ich lieb’ Dich\" Musikgeschichte. Auf dem Roten Sofa gibt er Einblicke in die Entstehung seines neuen Albums und seine kreativen Pläne für die kommenden Monate.",
-    "date": "2026-09-26T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/blickt-auf-eine-aussergewoehnliche-karriere-zurueck-matthias-reim,audio-3502228.html",
-    "image": "https://images.ndr.de/image/303e38e5-c558-4596-8c3c-c08dc7a59b1e/AAABoN6jEG4/AAABnSStX0g/1x1-big/screenshot-234446.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0927/AU-20260927-2254-5800.mp3",
-    "duration": "37 Min",
     "tags": [
       "beatles",
       "popgeschichte",

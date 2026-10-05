@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:e7ef5295b8fd2422bc69d25356956d29",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "In der Verzweiflung oft der letzte Halt: die Telefonseelsorge",
+    "summary": "<p>Am 5. Oktober 1956 klingelt in West-Berlin erstmals das Telefon einer \"Lebensmüdenbetreung\". Aus der privaten Initiative eines Ehepaars wird ein bundesweites Gesprächsangebot für Menschen in Lebenskrisen.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Uwe Schulz:</strong><br><ul><li>wie sich die Telefonseelsorge in den vergangenen 70 Jahren verändert hat,</li><li>warum zuhören manchmal schon helfen kann,</li><li>auf welchen Wegen man die Telefonseelsorge heute erreicht,</li><li>ob KI menschliches Zuhören ersetzen kann,</li><li>wie die Zukunft der Telefonseelsorge aussehen könnte.</li></ul><br>1956 ist Deutschland noch von den Folgen des Kriegs geprägt. Viele Menschen sind einsam, verzweifelt oder wissen nicht, mit wem sie über ihre Sorgen sprechen können. In Berlin entscheidet sich ein Ehepaar deshalb am 5. Oktober, die eigene Telefonnummer zu veröffentlichen und zuzuhören. Aus ihrer kleinen \"Lebensmüdenbetreuung\" genannten Initiative wird schnell ein bundesweites Angebot, das heute rund um die Uhr per Telefon, Mail und Chat erreichbar ist.<br><br>Mit der Zeit ändern sich die Themen, aber eine Sache bleibt: Menschen brauchen jemanden, der ihnen zuhört. Dennoch steht die Telefonseelsorge 70 Jahre später vor neuen Herausforderungen - Stichwort KI und digitale Welt. Zudem fehlen Geld und Ehrenamtliche. Doch noch geht ihre Erfolgsgeschichte weiter. Und so wird sie wohl auch in Zukunft noch zahlreichen Menschen neuen Lebensmut geben. <br><br>Wenn ihr selbst von Depressionen, Suizidgedanken oder anderen psychischen Belastungen betroffen seid, findet ihr Hilfe und Beratungsangebote auf der WDR-Hilfeseite: <a href=\"https://www1.wdr.de/radio/1live/on-air/hilfe/index.html\" rel=\"noopener\" target=\"_blank\">Hilfe bei Sucht, Ängsten und Probleme</a>n<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Frank Ertel, Leiter der Telefonseelsorge Aachen</li><li>Udo Grashoff, Historiker und Autor</li><li>Heidrun Wiese, Psychologin</li><li>Frank Ertel, Christian Klein, Ute Lohmann, Detlev Prößdorf: Gespräche auf den Punkt. Impulse für zielorientierte Gespräche. Göttingen 2023</li><li>Eberhard Hauschildt, Bernd D. Blömeke (Hg.): Telefonseelsorge interdisziplinär. Göttingen 2016</li></ul><br><ul><li><strong>Weiterführende Links:</strong></li><li>evangelisch.de: <a href=\"https://www.evangelisch.de/inhalte/112618/31-01-2015\" rel=\"noopener\" target=\"_blank\">Pfarrer Thomas und seine \"Lebensmüdenbetreuung\"</a></li><li>NDR: <a href=\"https://www.ndr.de/kirche/katholische-seelsorge-mit-ki-bruder-david-als-chatbot,kuenstlicheintelligenz-100.html\" rel=\"noopener\" target=\"_blank\">Katholische Seelsorge mit KI - Bruder David als Chatbot</a></li><li>Deutschlandfunk: <a href=\"https://www.deutschlandfunk.de/telefonseelsorge-das-ohr-am-volk-100.html?utm_source=chatgpt.com\" rel=\"noopener\" target=\"_blank\">Telefonseelsorge - Das Ohr am Volk</a></li></ul><strong>Unser Hörtipp:</strong> <br><ul><li>ARD Sounds: <a href=\"https://www.ardsounds.de/sendung/wie-wir-ticken-euer-psychologie-podcast/urn:ard:show:be34348e7e107ac6/\" rel=\"noopener\" target=\"_blank\">Wie wir ticken - Euer Psychologie Podcast</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br><br>Autor: Uwe Schulz<br>Redaktion: Christoph Tiegel und Matti Hesse",
+    "date": "2026-10-05T04:00:54.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-in-der-verzweiflung-oft-der-letzte-halt-die-telefonseelsorge-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-telefonseelsorge-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/30/b7f45496-05b8-42cf-a131-945ceda27b5b/b7f45496-05b8-42cf-a131-945ceda27b5b_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:fe1750ea83f01f653a1a1aa6c1f19934",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -255,29 +278,6 @@
     "category": [
       "Geschichte",
       "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:071ca1d4ce066dd46718a6c737b80a2e",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Wladimir Putin: Als der Bundestag begeistert applaudierte",
-    "summary": "<p>Ist Putins Rede im Bundestag der Beginn einer neuen deutsch-russischen Partnerschaft? Vor 25 Jahren hoffen viele darauf. Heute wissen wir, wie die Geschichte weiterging.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Thomas Klug:</strong><br><ul><li>worüber Putin kurz nach den Anschlägen auf das World Trade Center im Bundestag spricht,</li><li>von der freundlichen Seite der russischen Besatzer,</li><li>von Putins Zeit als KGB-Agent in der DDR,</li><li>welcher Abgeordnete bei Putins Rede demonstrativ den Plenarsaal verlässt.</li></ul><br>Der 25. September 2001 ist ein besonderer Tag. Mit Wladimir Putin kommt erstmals ein russischer Präsident in den Deutschen Bundestag, um eine Rede zu halten. Zur Freude der Abgeordneten hält Putin seine Rede größtenteils in deutscher Sprache. Deutsch hat er zwischen 1985 und 1990 als Offizier des sowjetischen Geheimdienstes KGB in der DDR gelernt.<br><br>14 Tage zuvor steuern islamistische Terroristen zwei Flugzeuge in das New Yorker World Trade Center, die westliche Welt steht noch immer unter Schock. Vor diesem Hintergrund geht es Putin in Berlin vor allem darum, um Verständnis für seinen Krieg in Tschetschenien zu werben und gleichzeitig Russlands Rolle als Weltmacht neu zu beleben.<br><br>Für seine Rede bekommt Putin im Bundestag großen Applaus, als vermeintlicher Hoffnungsträger für einen neue Ära der Zusammenarbeit. Aus heutiger Sicht, mit Blick auf den Angriffskrieg gegen die Ukraine und Putins innenpolitische Repression, wirkt dieser Moment wie eine historische Täuschung. <br><br><strong>Das sind unsere wichtigsten Interviewpartner:</strong><br><ul><li>Manfred Quiring, langjähriger Russland-Korrespondent und Sachbuchautor</li><li>Ilko-Sascha Kowalcuk, Historiker</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-honecker-loest-ulbricht-ab-100.html\" rel=\"noopener\" target=\"_blank\">03.05.1971: Erich Honecker löst Walter Ulbricht als SED-Chef ab</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-aufstand-ddr-100.html\" rel=\"noopener\" target=\"_blank\">17. Juni 1953 - Aufstand in Ostberlin und in der DDR</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-nikita-chruschtschow-102.html\" rel=\"noopener\" target=\"_blank\">17.04.1894: Geburtstag des sowjetischen Politikers Nikita Chruschtschow</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/deutsche_geschichte/ddr/ddr-spione-im-kalten-krieg-100.html\" rel=\"noopener\" target=\"_blank\">Spione im Kalten Krieg</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Thomas Klug <br>Redaktion: Matti Hesse",
-    "date": "2026-09-25T04:00:09.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wladimir-putin-als-der-bundestag-begeistert-applaudierte-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-putin-bundestag-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/16f9d2cc-d25e-4b8c-b44a-fb4da8dd7b65/16f9d2cc-d25e-4b8c-b44a-fb4da8dd7b65_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
       "Bildung"
     ],
     "language": "de"
