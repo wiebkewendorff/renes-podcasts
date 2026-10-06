@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:34f74a63-e09f-59f9-9932-c52ff26ad989",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schon lange kein Frühling - Unser Vater, das Haus in Rumänien und wir",
+    "summary": "Ihr Vater ist 2013 mit 83 Jahren gestorben. Da war Maria 24, Alexandra 21 Jahre alt. Sein Testament endete mit den Worten, dass seine Töchter in seinem Willen weiterleben sollen. Was heißt das? Wie sollen sie leben? Hütete der Vater ein Geheimnis? www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-10-06T05:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/schon-lange-kein-fruehling-100.html",
+    "image": "https://bilder.deutschlandfunk.de/9a/54/bf/cb/9a54bfcb-f249-4566-9146-ae23af9d8562/bild-fuer-scho-lage-kei-fruehling-tata-und-alexandra-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/schon_lange_kein_fruehling_unser_vater_das_haus_in_rumaenien_dlf_20261006_1915_77f44274.mp3?refId=das-feature-104",
+    "duration": "58 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:42546f49-fd3d-5db4-8797-cb18e5230834",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/2d/43/45/13/2d434513-d0f7-40ef-aa1b-f619e443ce47/der-klang-der-vielfalt-102-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/15/der_klang_der_vielfalt_drk_20260815_1805_ea4c3b84.mp3?refId=das-feature-104",
     "duration": "54 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:75c8bae3-3f2d-5e83-a01b-20a7084ce5c9",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Breaking Dad – Xu Wei rettet sein Kind - Ein Vater gegen die seltene Krankheit seines Sohnes",
-    "summary": "Wie weit geht ein Vater, wenn der Tod seines Kindes unvermeidbar scheint? Haoyang wird mit dem Menkes-Syndrom diagnostiziert. Weil niemand eine Therapie entwickelt, baut Xu Wei in der Abstellkammer seiner Eltern ein Labor. Er hat keine Ausbildung, keine Erlaubnis und zwei Jahre Zeit. Von Baran Datlı www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-08-11T17:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/breaking-dad-xu-wei-rettet-sein-kind-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ca/c3/a8/62/cac3a862-e69f-4190-8621-11984804c650/bild-fuer-breaking-dad-afp-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/11/breaking_dad_xu_wei_rettet_sein_kind_dlf_20260811_1915_ccd72371.mp3?refId=das-feature-104",
-    "duration": "53 Min",
     "tags": [
       "feature",
       "dokumentation",

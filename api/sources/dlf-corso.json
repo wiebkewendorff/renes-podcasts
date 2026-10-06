@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:bd9716c5-1bcc-5cef-9248-292f7db4a074",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hamburg Comic Festival: Lee Lai präsentiert das preisgekrönte Buch \"Cannon\"",
+    "summary": "Schwyzer, Andrea www.deutschlandfunk.de, Corso",
+    "date": "2026-10-05T13:15:59.000Z",
+    "url": "https://www.deutschlandfunk.de/hamburg-comic-festival-lee-lai-praesentiert-das-preisgekroente-buch-cannon-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/hamburg_comic_festival_lee_lai_praesentiert_das_dlf_20261005_1515_815d5dd1.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f114f0b3-7eeb-5ac9-ab0a-9336359b396a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie steht's um den deutschen Filmnachwuchs? Der First Steps Award wird verliehen",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-05T13:10:58.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-steht-s-um-den-deutschen-filmnachwuchs-der-first-steps-award-wird-verliehen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/wie_stehts_um_den_deutschen_filmnachwuchs_der_first_steps_dlf_20261005_1510_a8641b1f.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:07e65785-6055-59f0-a60b-0b918576df07",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ein Meister seines Fachs: Ausstellung über den Anime-Szenografen Nizo Yamamoto",
+    "summary": "Riekeles, Stefan; Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-05T13:10:01.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-meister-seines-fachs-ausstellung-ueber-den-anime-szenografen-nizo-yamamoto-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/ein_meister_seines_fachs_ausstellung_ueber_den_anime_dlf_20261005_1510_995c7c97.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:5b79e144-6d6d-517e-a4d3-27835ff07c6e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/doku_watching_people_watching_birds_vogelgucker_unter_dlf_20261001_1510_657a4524.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:14579ee2-50b0-5ee4-9056-7b9ec7b753a9",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: DIGGER, CORPUS DELICTI und FRAU WINKLER VERLÄSST DAS HAUS",
-    "summary": "Jörg Albrecht www.deutschlandfunk.de, Corso",
-    "date": "2026-09-30T13:20:39.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-digger-corpus-delicti-und-frau-winkler-verlaesst-das-haus-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/neue_filme_digger_corpus_delicti_und_frau_winkler_verlaesst_dlf_20260930_1520_c6933b78.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:343f8fa1-2652-50c3-8032-d047f5b90dc0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gamesförderung - Bundesregierung antwortet auf AfD-Anfrage",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-09-30T13:10:28.000Z",
-    "url": "https://www.deutschlandfunk.de/gamesfoerderung-bundesregierung-antwortet-auf-afd-anfrage-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/gamesfoerderung_bundesregierung_antwortet_auf_afd_anfrage_dlf_20260930_1510_85940fa6.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0b7f3f3b-4bf7-55d6-acf0-e3edc795b59d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Satire und politische Debatten: Jens-Christian Rabe über sein Buch \"Komisch\"",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-09-30T13:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/satire-und-politische-debatten-jens-christian-rabe-ueber-sein-buch-komisch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/satire_und_politische_debatten_jens_christian_rabe_ueber_dlf_20260930_1405_f5349fd5.mp3?refId=corso-104",
-    "duration": "13 Min",
     "tags": [
       "kultur",
       "pop",

@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:1065c9a9-1309-5ee1-8967-250e7ce37d40",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 05.10.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-05T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/kulturmeldungen_05102026_dlf_20261005_1756_1a06e9e7.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e54f33f3-4c21-5563-99f1-f93647048d4a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Havel zum 90. Geburtstag: Sein Vermächtnis in Tschechien",
+    "summary": "Allweiss, Marianne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-05T15:51:15.000Z",
+    "url": "https://www.deutschlandfunk.de/havel-zum-90-geburtstag-sein-vermaechtnis-in-tschechien-106.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/havel_zum_90_geburtstag_sein_vermaechtnis_in_tschechien_dlf_20261005_1751_0d04969a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d84b4975-d052-5525-9bb1-f4c9b20347a1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Erinnern ist Heimat - Kapitel III der Bürgerbühnen-Arbeit am Neuen Theater Halle",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-05T15:46:25.000Z",
+    "url": "https://www.deutschlandfunk.de/erinnern-ist-heimat-kapitel-iii-der-buergerbuehnen-arbeit-am-neuen-theater-halle-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/erinnern_ist_heimat_kapitel_iii_der_buergerbuehnen_arbeit_am_dlf_20261005_1746_f5036a67.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:71f0e5e1-49d3-590d-acf8-e45ffaec74d8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Opernkunst in Dresden: Angela Denoke inszeniert Verdis Maskenball",
+    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-05T15:40:45.000Z",
+    "url": "https://www.deutschlandfunk.de/opernkunst-in-dresden-angela-denoke-inszeniert-verdis-maskenball-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/opernkunst_in_dresden_angela_denoke_inszeniert_verdis_dlf_20261005_1740_60ff1f20.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c9fb474f-b48d-5c28-89df-db74312bcfff",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Protestkunst in Dresden: Bühnenverein gegen Kürzungen im Kulturetat",
+    "summary": "Gerlach, Alexandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-05T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/protestkunst-in-dresden-buehnenverein-gegen-kuerzungen-im-kulturetat-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/protestkunst_in_dresden_buehnenverein_gegen_kuerzungen_im_dlf_20261005_1735_3bfdd6d7.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:484b7e92-7a78-5f92-9891-89466218eac4",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/04/trash_und_theater_teil_zwei_des_volksbuehnen_eroeffnungs_dlf_20261004_1736_f6b1c9af.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0755ec75-6a4a-51c7-b88b-38949e10e4f9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bonn prüft Schauspiel-Schließung - Intendant Bernhard Helmich im Gespräch",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-04T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/bonn-prueft-schauspiel-schliessung-intendant-bernhard-helmich-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/04/bonn_prueft_schauspiel_schliessung_intendant_bernhard_dlf_20261004_1731_89b04a5d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1ebfb0fb-8ad1-5ce9-a71b-82b5c82c0040",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 03.10.2026",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-03T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/kulturmeldungen_03102026_dlf_20261003_1756_3f9d107c.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1b0d4916-5123-5194-812c-35bd8e875a90",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Along the Color Line\" - Schwarze Positionen im Kölner Museum Ludwig",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-03T15:45:05.000Z",
-    "url": "https://www.deutschlandfunk.de/along-the-color-line-schwarze-positionen-im-koelner-museum-ludwig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/along_the_color_line_schwarze_positionen_im_koelner_museum_dlf_20261003_1745_5b9869da.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2957a2c4-3dfd-5047-b3c0-8737182b3935",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Freiheit: Simson\" - Eine Theater-Uraufführung in Suhl",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-03T15:39:35.000Z",
-    "url": "https://www.deutschlandfunk.de/freiheit-simson-eine-theater-urauffuehrung-in-suhl-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/freiheit_simson_eine_theater_urauffuehrung_in_suhl_dlf_20261003_1739_4795ab91.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9337882d-565d-57a9-86a5-bd21e2b0ce82",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die geteilte Schrift - Christine Hartmann über deutsch-deutsche Typen",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-03T15:30:38.000Z",
-    "url": "https://www.deutschlandfunk.de/die-geteilte-schrift-christine-hartmann-ueber-deutsch-deutsche-typen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/die_geteilte_schrift_christine_hartmann_ueber_deutsch_dlf_20261003_1730_b991dc36.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
     "tags": [
       "kultur",
       "theater",
