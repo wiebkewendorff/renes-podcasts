@@ -1,5 +1,185 @@
 [
   {
+    "id": "dlf-kultur-heute:390770ea-ff5d-5e6f-a2a0-813147aa7842",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 06.10.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-06T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/kulturmeldungen_06102026_dlf_20261006_1756_2a09ebd6.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:396a8683-4822-5727-9be6-5aab10352b8d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Es war einmal in Amerika\" - Der deutsche Blick auf die Kunstfreiheit in den USA",
+    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-06T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/es-war-einmal-in-amerika-der-deutsche-blick-auf-die-kunstfreiheit-in-den-usa-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/es_war_einmal_in_amerika_der_deutsche_blick_auf_die_dlf_20261006_1751_1907e55d.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:227f0352-4ce5-553f-b690-3455536f5d99",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schillernd wie seine Romanhelden - Britischer Bestsellerautor Jeffrey Archer tot",
+    "summary": "Röhling, Lisa-Maria www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-06T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/schillernd-wie-seine-romanhelden-britischer-bestsellerautor-jeffrey-archer-tot-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/schillernd_wie_seine_romanhelden_britischer_bestsellerautor_dlf_20261006_1746_740635f4.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c588a8b5-74f4-5e08-b881-f58e3d1880ab",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deutscher Buchpreis für Shida Bazyars Roman \"Die Lücken\"",
+    "summary": "Drees, Jan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-06T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/deutscher-buchpreis-fuer-shida-bazyars-roman-die-luecken-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/deutscher_buchpreis_fuer_shida_bazyars_roman_die_luecken_dlf_20261006_1741_3905067f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e08750a8-adee-56c7-af37-3a7defae552e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Literarischer Ausblick auf die Frankfurter Buchmesse",
+    "summary": "Bonhage, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-06T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/literarischer-ausblick-auf-die-frankfurter-buchmesse-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/literarischer_ausblick_auf_die_frankfurter_buchmesse_dlf_20261006_1736_b503742d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d68b1695-3fa1-5e05-9c70-79d198af2634",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Was bleibt vom Mythos? - Ulrich Blanché über seine neue Banksy-Biografie",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-06T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/was-bleibt-vom-mythos-ulrich-blanch-ueber-seine-neue-banksy-biografie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/was_bleibt_vom_mythos_ulrich_blanche_ueber_seine_neue_banksy_dlf_20261006_1515_1ef61e72.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:84384a35-59e2-5df4-afb9-14e97822fab3",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das Duo Suchtpotenzial über den Salzburger Stier 2027 und Wurstsalat-Opern",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-06T13:10:28.000Z",
+    "url": "https://www.deutschlandfunk.de/das-duo-suchtpotenzial-ueber-den-salzburger-stier-2027-und-wurstsalat-opern-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/das_duo_suchtpotenzial_ueber_den_salzburger_stier_2027_und_dlf_20261006_1510_cd89c4db.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:34f74a63-e09f-59f9-9932-c52ff26ad989",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -231,136 +411,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:484b7e92-7a78-5f92-9891-89466218eac4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 04.10.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-04T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-04-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/04/kulturmeldungen_04102026_dlf_20261004_1757_80b884ed.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b4ba0f5d-7975-58aa-9207-598fa86f8edb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zur Kunst! Die Manifesta Ruhr geht zu Ende - eine Bilanz",
-    "summary": "Dichter, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-04T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zur-kunst-die-manifesta-ruhr-geht-zu-ende-eine-bilanz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/04/zur_kunst_die_manifesta_ruhr_geht_zu_ende_eine_bilanz_dlf_20261004_1752_e5b6734e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:75f01add-4898-50f3-8922-f6646c22eb49",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Constellations\" - Ausstellung im neuen Zumthor-Bau in der Fondation Beyeler",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-04T15:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/constellations-ausstellung-im-neuen-zumthor-bau-in-der-fondation-beyeler-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/04/constellations_ausstellung_im_neuen_zumthor_bau_in_der_dlf_20261004_1747_30b4e9eb.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3fa3eb4a-053d-5245-bbee-303b1961fd04",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Moses und Aron\" von Arnold Schönberg am Theater Basel",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-04T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/moses-und-aron-von-arnold-schoenberg-am-theater-basel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/04/moses_und_aron_von_arnold_schoenberg_am_theater_basel_dlf_20261004_1741_3bb360ad.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b54b915d-ddb9-568c-a2d6-3de66ccabb20",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Trash und Theater - Teil zwei des Volksbühnen-Eröffnungs-Wochenendes in Berlin",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-04T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/trash-und-theater-teil-zwei-des-volksbuehnen-eroeffnungs-wochenendes-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/04/trash_und_theater_teil_zwei_des_volksbuehnen_eroeffnungs_dlf_20261004_1736_f6b1c9af.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:5b79e144-6d6d-517e-a4d3-27835ff07c6e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -472,56 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/neues_game_big_walk_im_gehen_die_welt_entdecken_dlf_20261001_1520_dff1bad3.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:72c1cefd-394f-573e-994f-5e971f2938bf",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ticketteuerung: die Explosion der Zweitmarktpreise",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-01T13:20:17.000Z",
-    "url": "https://www.deutschlandfunk.de/ticketteuerung-die-explosion-der-zweitmarktpreise-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/ticketteuerung_die_explosion_der_zweitmarktpreise_dlf_20261001_1520_97f03930.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0a2c9bd3-c8f3-55ef-9c29-b1ca1b6e6fef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Doku \"Watching People Watching Birds\" - Vogelgucker unter Beobachtung",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-01T13:10:31.000Z",
-    "url": "https://www.deutschlandfunk.de/doku-watching-people-watching-birds-vogelgucker-unter-beobachtung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/doku_watching_people_watching_birds_vogelgucker_unter_dlf_20261001_1510_657a4524.mp3?refId=corso-104",
-    "duration": "8 Min",
     "tags": [
       "kultur",
       "pop",

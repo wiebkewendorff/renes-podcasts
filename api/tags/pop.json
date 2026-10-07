@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:d68b1695-3fa1-5e05-9c70-79d198af2634",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Was bleibt vom Mythos? - Ulrich Blanché über seine neue Banksy-Biografie",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-06T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/was-bleibt-vom-mythos-ulrich-blanch-ueber-seine-neue-banksy-biografie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/was_bleibt_vom_mythos_ulrich_blanche_ueber_seine_neue_banksy_dlf_20261006_1515_1ef61e72.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:84384a35-59e2-5df4-afb9-14e97822fab3",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das Duo Suchtpotenzial über den Salzburger Stier 2027 und Wurstsalat-Opern",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-06T13:10:28.000Z",
+    "url": "https://www.deutschlandfunk.de/das-duo-suchtpotenzial-ueber-den-salzburger-stier-2027-und-wurstsalat-opern-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/das_duo_suchtpotenzial_ueber_den_salzburger_stier_2027_und_dlf_20261006_1510_cd89c4db.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:bd9716c5-1bcc-5cef-9248-292f7db4a074",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/neues_game_big_walk_im_gehen_die_welt_entdecken_dlf_20261001_1520_dff1bad3.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:72c1cefd-394f-573e-994f-5e971f2938bf",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ticketteuerung: die Explosion der Zweitmarktpreise",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-01T13:20:17.000Z",
-    "url": "https://www.deutschlandfunk.de/ticketteuerung-die-explosion-der-zweitmarktpreise-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/ticketteuerung_die_explosion_der_zweitmarktpreise_dlf_20261001_1520_97f03930.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0a2c9bd3-c8f3-55ef-9c29-b1ca1b6e6fef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Doku \"Watching People Watching Birds\" - Vogelgucker unter Beobachtung",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-01T13:10:31.000Z",
-    "url": "https://www.deutschlandfunk.de/doku-watching-people-watching-birds-vogelgucker-unter-beobachtung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/doku_watching_people_watching_birds_vogelgucker_unter_dlf_20261001_1510_657a4524.mp3?refId=corso-104",
-    "duration": "8 Min",
     "tags": [
       "kultur",
       "pop",

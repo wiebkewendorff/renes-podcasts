@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:3b74f56e7f24ea3d320adbdaba1c8b23",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Zwischen Kirche und NS-Regime: Widerstandskämpfer Nikolaus Groß",
+    "summary": "<p>Als überzeugter Christ stellt sich Nikolaus Groß gegen Hitler. Er bezahlt mit dem Leben - und wird am 7.10.2001 dafür seliggesprochen. Bis heute ringen Familie und Kirche um sein Erbe.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martin Herzog:</strong><br><ul><li>warum Nikolaus Groß Adolf Hitler schon früh als \"Scharlatan\" und \"falschen Propheten\" bezeichnet, </li><li>wie er Kritik am NS-Regime zwischen den Zeilen seiner Zeitung versteckt, </li><li>warum ein Gnadengesuch des Kölner Kardinals für Nikolaus Groß zu spät kommt</li><li>wie die Kirche Groß' Widerstand im Nachhinein für sich beansprucht.</li></ul><br>Bergmann, Gewerkschafter, Journalist, Familienvater und tief gläubiger Katholik: Nikolaus Groß geht einen ungewöhnlichen Weg. Als Schriftleiter der Westdeutschen Arbeiterzeitung warnt er früh vor dem Nationalsozialismus. Für ihn sind Führerstaat, Rassismus und Antisemitismus mit seinem christlichen Glauben unvereinbar. <br><br>Nach dem Verbot seiner Zeitung setzt Groß seinen Widerstand im Geheimen fort. Über die Widerstandsgruppe Kölner Kreis knüpft er Kontakte zu anderen Widerständlern. Nach dem Attentat auf Hitler vom 20. Juli 1944 wird Groß als vermeintlicher Mitverschwörer verhaftet, zum Tode verurteilt und hingerichtet. <br><br>2001 spricht Papst Johannes Paul II. Nikolaus Groß selig. Doch die kirchliche Ehrung ist umstritten: Einige Angehörige werfen der katholischen Kirche vor, Groß im Nachhinein für sich zu vereinnahmen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Thomas Groß, Enkel von Nikolaus Groß</li><li>Olaf Blaschke, Professor für Neuere und Neueste Geschichte, Universität Münster</li><li>Jürgen Aretz, Historiker in Bonn</li><li>Jürgen Aretz: Nikolaus Groß. Christ - Arbeiterführer - Widerstandskämpfer. Briefe aus dem Gefängnis, Münster 2019</li><li>Jürgen Aretz: Katholische Arbeitervereine und Nationalsozialismus. Der Verband katholischer Arbeiter- und Knappenvereine Westdeutschlands 1923-1945, Mainz 1980 </li><li>Olaf Blaschke: Die Kirchen und der Nationalsozialismus, Stuttgart 2014</li><li>Alexander Groß: Gehorsame Kirche, ungehorsame Christen im Nationalsozialismus, Mainz 2000</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:affb3619f5a033af/\" rel=\"noopener\" target=\"_blank\">Heiligsprechung der Nonne Edith Stein (am 11.10.1998)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:5dde1e3ac0cff632/\" rel=\"noopener\" target=\"_blank\">Seligsprechung des Paters Engelmar Unzeitig (am 24.09.2016)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:29198a3b667e4c6f/\" rel=\"noopener\" target=\"_blank\">Corrie ten Boom, NS-Widerstand (Geburtstag, 15.04.1892)</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martin Herzog<br>Redaktion: Carolin Rückl und David Rother",
+    "date": "2026-10-07T04:00:54.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-zwischen-kirche-und-ns-regime-widerstandskaempfer-nikolaus-gross-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-nikolaus-gross-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/28/00c50dbf-0d1b-44d0-8502-b5a17c291393/00c50dbf-0d1b-44d0-8502-b5a17c291393_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:e5125b394d04e7a3f0af1139283bee24",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-vom-holz-zum-himmel-william-boeing-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-william-edward-boeing-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/23/8f8f9a56-b29d-4645-94d6-057808ba2e8e/8f8f9a56-b29d-4645-94d6-057808ba2e8e_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:ea98d0eec255c5c6cb1034e5c9be7484",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Let There Be Rock: Der Film \"Die Halbstarken\" feiert Premiere",
-    "summary": "<p>\"Die Halbstarken\" erscheint am 27. September 1956 - da diskutiert die Adenauer-Republik bereits hitzig über Rock’n’Roll, Kinokrawalle und Feinripp. Die Elterngeneration ist verstört - Jugendliche und ihre Kultur werden kriminalisiert.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christiane Kopka:</strong><br><ul><li>wie \"Die Halbstarken\" zum Schreckbild der 1950er-Jahre werden, </li><li>warum Rock’n’Roll und Kino die Jugendkultur verändern, </li><li>wie Medien und Politik die Angst vor der Jugend anheizen, </li><li>wie das Kino den Mythos der rebellischen Jugend prägt,</li><li>warum der Film \"Die Halbstarken\" Kultstatus erreicht.</li></ul><br>Mit dem Film \"Die Halbstarken\" greift Regisseur Georg Tressler 1956 ein Thema auf, das die Bundesrepublik bewegt: Jugendliche, die anders aussehen, andere Musik hören und sich den Erwartungen der Erwachsenen entziehen. Der Begriff \"Halbstarke\" wird zum Sammelbecken für alles, was als unbequem oder rebellisch gilt.<br><br>Doch hinter der moralischen Aufregung steckt ein tiefer gesellschaftlicher Wandel. Die Nachkriegsgeneration verfügt über mehr Geld, entdeckt neue Freiheiten und orientiert sich an amerikanischer Musik, Mode und Lebensart. Der Film trifft damit den Nerv seiner Zeit und macht seine Hauptdarsteller Karin Baal und Horst Buchholz zu Stars.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Dr . Bodo Mrozek (Zeit- und Kulturhistoriker)</li><li>Bodo Mrozek: Jugend-Pop-Kultur. Eine transnationale Geschichte. Berlin 2019</li><li>Deutsches Filmmuseum: Zwischen Gestern und Morgen. Westdeutscher Nachkriegsfilm 1946-1963. Frankfurt am Main 1989</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/deutsche_geschichte/jugend_in_den_fuenfziger_jahren/index.html\" rel=\"noopener\" target=\"_blank\">Jugend in den 1950er-Jahren</a></li><li>Jugendkulturen in Deutschland: <a href=\"https://www.bpb.de/themen/zeit-kulturgeschichte/jugendkulturen-in-deutschland/36156/die-halbstarken/\" rel=\"noopener\" target=\"_blank\">Die Halbstarken</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Christiane Kopka<br>Redaktion: Emily Jeuckens, Frank Zirpins<br>Technik: Theo Kramer",
-    "date": "2026-09-27T04:33:22.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-let-there-be-rock-der-film-die-halbstarken-feiert-premiere-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-halbstarken-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/501d2995-a97b-4a8b-a925-b5c28f375f1a/501d2995-a97b-4a8b-a925-b5c28f375f1a_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
