@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:77bd9abd-594d-5120-a617-7b34d5551611",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "5 Jahre Facebook Files - Was haben wir aus der Social-Media-Enthüllung gelernt?",
+    "summary": "von Gehlen, Dirk; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-07T13:15:21.000Z",
+    "url": "https://www.deutschlandfunk.de/5-jahre-facebook-files-was-haben-wir-aus-der-social-media-enthuellung-gelernt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/5_jahre_facebook_files_was_haben_wir_aus_der_social_media_dlf_20261007_1515_3eacecde.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:5b5270cf-9456-5dfd-a2ed-82e955ff1101",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme - \"The Social Reckoning\", \"Alte Liebe\", \"Camouflage\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-10-07T13:10:15.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-the-social-reckoning-alte-liebe-camouflage-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/neue_filme_the_social_reckoning_alte_liebe_camouflage_dlf_20261007_1510_aa84003c.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:c2b6cc61-ad62-5166-905a-3d2d61dd7d11",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Musikstreaming - Erster großer Bot-Betrüger verurteilt",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-07T13:07:00.000Z",
+    "url": "https://www.deutschlandfunk.de/musikstreaming-erster-grosser-bot-betrueger-verurteilt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/musikstreaming_erster_grosser_bot_betrueger_verurteilt_dlf_20261007_1507_4b82610a.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:d68b1695-3fa1-5e05-9c70-79d198af2634",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -160,81 +235,6 @@
     "url": "https://www.deutschlandfunk.de/berliner-ausstellung-beleuchtet-tanzflaechen-der-wiedervereinigung-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/berliner_ausstellung_beleuchtet_tanzflaechen_der_dlf_20261002_1520_d3a1738d.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7489608b-011c-55b8-ab07-41e663aae0cc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Corso-Podcast-Hendrik Bolz über ostdeutsche Literatur und sein Buch \"Aus Ruinen\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-10-02T13:12:00.000Z",
-    "url": "https://www.deutschlandfunk.de/corso-podcast-hendrik-bolz-ueber-ostdeutsche-literatur-und-sein-buch-aus-ruinen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/corso_podcast_hendrik_bolz_ueber_ostdeutsche_literatur_und_dlf_20261002_1512_09e80ea6.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:10b3c6b5-92a3-58ad-a187-563125da84ef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach dem Skandal - Danger Dan veröffentlicht Album \"Keine Angst\"",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-02T13:07:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-dem-skandal-danger-dan-veroeffentlicht-album-keine-angst-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/nach_dem_skandal_danger_dan_veroeffentlicht_album_keine_dlf_20261002_1507_86c1c644.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:3c36639e-7ff9-5a18-a275-4b40dd923a22",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Game \"Big Walk\": Im Gehen die Welt entdecken",
-    "summary": "Nowak, Tobias www.deutschlandfunk.de, Corso",
-    "date": "2026-10-01T13:20:44.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-game-big-walk-im-gehen-die-welt-entdecken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/neues_game_big_walk_im_gehen_die_welt_entdecken_dlf_20261001_1520_dff1bad3.mp3?refId=corso-104",
     "duration": "5 Min",
     "tags": [
       "kultur",

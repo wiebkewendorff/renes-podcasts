@@ -1,11 +1,35 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4074575",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Heilung nach dem Herzinfarkt: Das Geheimnis der Zebrafische",
+    "summary": "Das Forschungsquartett — dieses Mal in Kooperation mit dem Max Delbrück Center\nRegenerationswunder Zebrafisch\n<p>Erleidet eine Person einen Herzinfarkt, zählt jede Minute. Denn bei einem Infarkt verschließt ein Blutgerinnsel ein Herzkranzgefäß, wodurch der Herzmuskel nicht mehr mit Sauerstoff versorgt wird und so abstirbt. Wenn die Person überlebt, vernarbt der Herzmuskel und kann nicht mehr genug Blut pumpen. Die Folge davon ist, dass der Patient nur noch bedingt leistungsfähig ist.</p>\n<p>Ganz anders beim Zebrafisch — wird bei ihm das Herz verletzt, dann geschieht ein kleines biologisches Wunder. Während beim Menschen unbewegliches Narbengewebe zurückbleibt, wächst beim Fisch innerhalb von vier Wochen neues Herzmuskelgewebe nach.</p>\nEin Millimeter klein, großes Potenzial\n<p>Im Berliner Labor von Entwicklungsbiologe <strong>Jan Philipp Junker</strong> am Max Delbrück Center schwimmen Tausende der schimmernden Zierfische. Ihr Herz misst gerade einmal einen Millimeter im Durchmesser. Trotz dieser Miniaturgröße hat der Zebrafisch erstaunliche Heilkräfte. Um diese Selbstheilung zu erforschen, wird das Herz des Zebrafischs mit einer eiskalten Nadel berührt. Dadurch entsteht eine Verletzung und wie beim menschlichen Herzinfarkt stirbt auch beim Fisch zunächst Gewebe ab. Doch statt dauerhaft zu vernarben, wächst neues Gewebe nach.</p>\n<p>Mithilfe moderner Einzelzellgenomik und genetischer Barcodes hat sich das Team um Prof. Dr. Jan Philipp Junker die Arbeitsweise der einzelnen Zellen ganz genau angeschaut. Dabei sind die Forschenden auf eine Überraschung gestoßen: Das Narbengewebe, genauer die sogenannten Fibroblasten, kurbeln den Regenerationsprozess an. Sie schalten vorübergehend in einen aktivierten Zustand und geben ein Signal an die Herzmuskelzellen, damit diese sich wieder teilen.</p>\nWeiter Weg zum Medikament\n<p>Warum der Mensch diese Fähigkeit nicht hat, bleibt bisher ein Rätsel. Bei neugeborenen Mäusen haben die Forschenden beobachten können, dass sich ihr Herz in den ersten zwei Lebenstagen ebenfalls regenerieren kann. So gibt es die Hoffnung, dass Menschen auch diese Regenerationskraft haben und in der Zukunft Medikamente dabei helfen können, bleibende Herzschäden bei Patienten und Patientinnen zu verringern.</p>",
+    "date": "2026-10-08T03:07:02.000Z",
+    "url": "https://feedpress.me/link/19604/17491896/forschungsquartett-zebrafische-herzinfarkt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261008forschungsquartettzebrafische.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261008forschungsquartettzebrafische.63.mp3",
+    "duration": "17 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4053728",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Archimedes und die Frage nach dem Nichts",
-    "summary": "<p>Vor 26 Jahren hat das Clay Mathematics Institute je eine Million US-Dollar für diejenigen ausgelobt, die eines der sieben sogenannten Millenium-Probleme lösen: das Navier-Stokes-Problem, die Riemannsche Vermutung, die Hodge-Vermutung, die Yang-Mills-Theorie und Masselücke, die Birch-und-Swinnerton-Dyer-Vermutung, das P-versus-NP-Problem sowie die Poincaré-Vermutung. Letztere wurde 2002 von Grigori Perelman gelöst, bleiben also noch sechs ungelöste Probleme. </p>\nLevent Alpöge und Tristan Buckmaster vs. OpenAI\n<p>Bis jetzt: Denn im September 2026 wurden gleich zwei Lösungsansätze zum Navier-Stokes-Problem veröffentlicht — am gleichen Tag sogar. Das könnte eigentlich ein Grund zur Freude in der Mathe-Community sein, es wäre auf jeden Fall ein riesiger Fortschritt im Bereich der partiellen Differenzialgleichungen. Doch die Freude über die mögliche Lösung des Millenium-Problems wird von einem Streit überschattet.</p>\n<p>Auf der einen Seite sind die Mathematiker Levent Alpöge und Tristan Buckmaster. Die beiden haben sich etwa ein Jahr früher zusammengetan, um in ihrer Freizeit mittels ihres Wissens und diverser Künstlicher Intelligenz (KI) eine Lösung zu den Navier-Stokes-Gleichungen zu finden. Auf der anderen Seite ist das KI-Unternehmen OpenAI, das unter anderem hinter ChatGPT steht. Es steht der Vorwurf im Raum, dass OpenAI auf die Daten von Alpöge und Buckmaster zugegriffen haben soll, die die beiden Wissenschaftler in die OpenAI-KI eingegeben haben.</p>\nWie verändert die KI die Wissenschaft?\n<p>Das Unternehmen bestreitet diesen Vorwurf, kann aber nach eigenen Angaben nicht ausschließen, dass ihre KI die Daten eigenständig aufbereitet und die hausinternen Mathematiker damit auf eine Idee zur Lösung des Problems gebracht hat.</p>\n<p>Die aktuelle Debatte bietet viel Sprengstoff: Wie wollen Wissenschaftler und Wissenschaftlerinnen in Zukunft KI bei ihrer Forschung einbinden? Welche Rolle sollen und werden KI-Unternehmen wie OpenAI in Zukunft in der Wissenschaft spielen? Wem gehören eigentlich die Ergebnisse, wenn KI zur Lösung eines Mathe-Problems beiträgt? Und — nicht ganz unwichtig — wer hat denn jetzt eigentlich das Millenium-Problem gelöst? Darüber spricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit<strong> Manon Bischoff</strong> und <strong>Demian Nahuel Goos</strong> von Spektrum der Wissenschaft.</p>",
+    "title": "Levent Alpöge, Tristan Buckmaster und das Millennium-Problem",
+    "summary": "<p>Vor 26 Jahren hat das Clay Mathematics Institute je eine Million US-Dollar für diejenigen ausgelobt, die eines der sieben sogenannten Millennium-Probleme lösen: das Navier-Stokes-Problem, die Riemannsche Vermutung, die Hodge-Vermutung, die Yang-Mills-Theorie und Masselücke, die Birch-und-Swinnerton-Dyer-Vermutung, das P-versus-NP-Problem sowie die Poincaré-Vermutung. Letztere wurde 2002 von Grigori Perelman gelöst, bleiben also noch sechs ungelöste Probleme. </p>\nLevent Alpöge und Tristan Buckmaster vs. OpenAI\n<p>Bis jetzt: Denn im September 2026 wurden gleich zwei Lösungsansätze zum Navier-Stokes-Problem veröffentlicht — am gleichen Tag sogar. Das könnte eigentlich ein Grund zur Freude in der Mathe-Community sein, es wäre auf jeden Fall ein riesiger Fortschritt im Bereich der partiellen Differenzialgleichungen. Doch die Freude über die mögliche Lösung des Millennium-Problems wird von einem Streit überschattet.</p>\n<p>Auf der einen Seite sind die Mathematiker Levent Alpöge und Tristan Buckmaster. Die beiden haben sich etwa ein Jahr früher zusammengetan, um in ihrer Freizeit mittels ihres Wissens und diverser Künstlicher Intelligenz (KI) eine Lösung zu den Navier-Stokes-Gleichungen zu finden. Auf der anderen Seite ist das KI-Unternehmen OpenAI, das unter anderem hinter ChatGPT steht. Es steht der Vorwurf im Raum, dass OpenAI auf die Daten von Alpöge und Buckmaster zugegriffen haben soll, die die beiden Wissenschaftler in die OpenAI-KI eingegeben haben.</p>\nWie verändert die KI die Wissenschaft?\n<p>Das Unternehmen bestreitet diesen Vorwurf, kann aber nach eigenen Angaben nicht ausschließen, dass ihre KI die Daten eigenständig aufbereitet und die hausinternen Mathematiker damit auf eine Idee zur Lösung des Problems gebracht hat.</p>\n<p>Die aktuelle Debatte bietet viel Sprengstoff: Wie wollen Wissenschaftler und Wissenschaftlerinnen in Zukunft KI bei ihrer Forschung einbinden? Welche Rolle sollen und werden KI-Unternehmen wie OpenAI in Zukunft in der Wissenschaft spielen? Wem gehören eigentlich die Ergebnisse, wenn KI zur Lösung eines Mathe-Problems beiträgt? Und — nicht ganz unwichtig — wer hat denn jetzt eigentlich das Millennium-Problem gelöst? Darüber spricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit<strong> Manon Bischoff</strong> und <strong>Demian Nahuel Goos</strong> von Spektrum der Wissenschaft.</p>",
     "date": "2026-10-07T03:42:53.000Z",
     "url": "https://feedpress.me/link/19604/17491028/geschichten-aus-der-mathematik-levent-alpoege-und-tristan-buckmaster",
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/261005geschichtenausdermathematik.63.mp3",
@@ -203,30 +227,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1790/71/dgfdwmacht-uns-die-gegenwart-krankfuchs2209.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1790/71/dgfdwmacht-uns-die-gegenwart-krankfuchs2209.63.mp3",
     "duration": "1 Std 34 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4016152",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Was sagt unser Schlaf über unsere Gesellschaft aus, Julia Vorhölter?",
-    "summary": "Eine biologische Notwendigkeit\n<p>Wenn wir schlafen, regeneriert sich unser Körper; Schlaf unterstützt das Immunsystem und hilft unserem Gehirn, Erlebtes zu verarbeiten. Fehlt uns Schlaf oder schlafen wir schlecht, wirkt sich das schnell auf unser Wohlbefinden aus, langfristig kann es auch unsere Gesundheit beeinträchtigen. Doch was Menschen unter „gutem Schlaf“ verstehen, ist keineswegs universell. Schlafgewohnheiten und Vorstellungen davon, wie viel und wie wir schlafen sollten, sind historisch wandelbar sowie gesellschaftlich und kulturell geprägt.</p>\n<p>Am Max-Planck-Institut für ethnologische Forschung untersucht Julia Vorhölter Schlaf deshalb nicht nur als biologischen Zustand, sondern auch als kulturelle und soziale Praxis. Ihre Forschung führt dabei mitten hinein in eine Frage, die viele Menschen beschäftigt: Warum fällt es uns manchmal so schwer, zu schlafen?</p>\nSchlaf ist politisch\n<p>Ob wir gut schlafen, ist auch eine Frage der Lebensbedingungen. Ein sicherer Ort zum Schlafen, geregelte Arbeitszeiten und ausreichend Ruhe sind keine Selbstverständlichkeiten. Schichtarbeit, Leistungsdruck oder ständige Erreichbarkeit können unseren Schlaf ebenso beeinflussen wie gesellschaftliche Vorstellungen davon, was als „normal“ oder „gesund“ gilt.</p>\n<p>\n<p>Gleichzeitig ist Schlaf längst zum Gegenstand einer ganzen Optimierungsindustrie geworden: Apps, Tracker und populärwissenschaftliche Ratgeber versprechen, uns dabei zu helfen, besser zu schlafen. Doch die ständige Beschäftigung mit der eigenen Schlafqualität kann selbst zum Problem werden. In diesem Zusammenhang wird Orthosomnie als Phänomen diskutiert: die zwanghafte Beschäftigung damit, möglichst „perfekt“ zu schlafen.</p>\nFeldforschung im Schlaflabor\n<p>Vorhölters Forschung schlägt eine Brücke zwischen Ethnologie und Schlafmedizin. Sie zeigt: Schlafen ist zwar eine biologische Notwendigkeit, aber wie wir schlafen, für wie erholsam wir das empfinden und wie wir mit Schlafproblemen umgehen, ist immer auch von unserer Umwelt und unserer Gesellschaft geprägt.</p>\n<p>In dieser Folge von „Ach, Mensch!“ spricht <strong>Dr. Julia Vorhölter</strong> mit <em>detektor.fm</em>-Moderatorin Jessica Hughes darüber, warum Schlaf weit mehr ist als eine biologische Funktion und was unser Schlaf über die Gesellschaft erzählt, in der wir leben.</p>",
-    "date": "2026-09-30T03:21:26.000Z",
-    "url": "https://feedpress.me/link/19604/17478368/ach-mensch-julia-vorhoelter-schlaf",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260930achmenschjuliavorhoelter.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/260930achmenschjuliavorhoelter.63.mp3",
-    "duration": "43 Min",
     "tags": [
       "wissenschaft",
       "forschung",

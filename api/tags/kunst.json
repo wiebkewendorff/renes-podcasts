@@ -1,5 +1,210 @@
 [
   {
+    "id": "dlf-kultur-heute:6e92b425-4b4a-5c76-8ea8-0c2095f46fdf",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 07.10.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-07T15:56:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/kulturmeldungen_07102026_dlf_20261007_1756_514d6ece.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:003eda44-175c-5b26-a692-c94fcf71ad2f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Verlegerin Nora Pester über jüdische Autoren drei Jahre nach dem 7. Oktober",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-07T15:48:25.000Z",
+    "url": "https://www.deutschlandfunk.de/verlegerin-nora-pester-ueber-juedische-autoren-drei-jahre-nach-dem-7-oktober-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/verlegerin_nora_pester_ueber_juedische_autoren_drei_jahre_dlf_20261007_1748_ef4c42a7.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1ebc2849-b3a4-595c-85eb-d093a2d92857",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Start der Buchmesse - Gespräch mit Peter Kraus vom Cleff",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-07T15:42:10.000Z",
+    "url": "https://www.deutschlandfunk.de/zum-start-der-buchmesse-gespraech-mit-peter-kraus-vom-cleff-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/zum_start_der_buchmesse_gespraech_mit_peter_kraus_vom_cleff_dlf_20261007_1742_144ac470.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bb046c4e-a1c7-5f42-b8e8-5ea068bc1639",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Proteste und Standing Ovations - Die Frankfurter Buchmesse wurde eröffnet",
+    "summary": "Basak, Anne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-07T15:39:30.000Z",
+    "url": "https://www.deutschlandfunk.de/proteste-und-standing-ovations-die-frankfurter-buchmesse-wurde-eroeffnet-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/proteste_und_standing_ovations_die_frankfurter_buchmesse_dlf_20261007_1739_a2497947.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a42254b5-40be-5c70-8d43-dacbc593f2b0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kommentar zur Wahl des AfD Kulturvordenkers Hans-Thomas Tillschneider",
+    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-07T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kommentar-zur-wahl-des-afd-kulturvordenkers-hans-thomas-tillschneider-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/kommentar_zur_wahl_des_afd_kulturvordenkers_hans_thomas_dlf_20261007_1735_f74685e4.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:77bd9abd-594d-5120-a617-7b34d5551611",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "5 Jahre Facebook Files - Was haben wir aus der Social-Media-Enthüllung gelernt?",
+    "summary": "von Gehlen, Dirk; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-07T13:15:21.000Z",
+    "url": "https://www.deutschlandfunk.de/5-jahre-facebook-files-was-haben-wir-aus-der-social-media-enthuellung-gelernt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/5_jahre_facebook_files_was_haben_wir_aus_der_social_media_dlf_20261007_1515_3eacecde.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:5b5270cf-9456-5dfd-a2ed-82e955ff1101",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme - \"The Social Reckoning\", \"Alte Liebe\", \"Camouflage\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-10-07T13:10:15.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-the-social-reckoning-alte-liebe-camouflage-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/neue_filme_the_social_reckoning_alte_liebe_camouflage_dlf_20261007_1510_aa84003c.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:c2b6cc61-ad62-5166-905a-3d2d61dd7d11",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Musikstreaming - Erster großer Bot-Betrüger verurteilt",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-07T13:07:00.000Z",
+    "url": "https://www.deutschlandfunk.de/musikstreaming-erster-grosser-bot-betrueger-verurteilt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/musikstreaming_erster_grosser_bot_betrueger_verurteilt_dlf_20261007_1507_4b82610a.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-augen-zu:2eb7d68d-19eb-4225-a23e-eec7ab6f4f0d",
     "source": "zeit-augen-zu",
     "sourceTitle": "Augen zu – DIE ZEIT",
@@ -232,136 +437,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:1065c9a9-1309-5ee1-8967-250e7ce37d40",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 05.10.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-05T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/kulturmeldungen_05102026_dlf_20261005_1756_1a06e9e7.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e54f33f3-4c21-5563-99f1-f93647048d4a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Havel zum 90. Geburtstag: Sein Vermächtnis in Tschechien",
-    "summary": "Allweiss, Marianne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-05T15:51:15.000Z",
-    "url": "https://www.deutschlandfunk.de/havel-zum-90-geburtstag-sein-vermaechtnis-in-tschechien-106.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/havel_zum_90_geburtstag_sein_vermaechtnis_in_tschechien_dlf_20261005_1751_0d04969a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d84b4975-d052-5525-9bb1-f4c9b20347a1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Erinnern ist Heimat - Kapitel III der Bürgerbühnen-Arbeit am Neuen Theater Halle",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-05T15:46:25.000Z",
-    "url": "https://www.deutschlandfunk.de/erinnern-ist-heimat-kapitel-iii-der-buergerbuehnen-arbeit-am-neuen-theater-halle-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/erinnern_ist_heimat_kapitel_iii_der_buergerbuehnen_arbeit_am_dlf_20261005_1746_f5036a67.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:71f0e5e1-49d3-590d-acf8-e45ffaec74d8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Opernkunst in Dresden: Angela Denoke inszeniert Verdis Maskenball",
-    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-05T15:40:45.000Z",
-    "url": "https://www.deutschlandfunk.de/opernkunst-in-dresden-angela-denoke-inszeniert-verdis-maskenball-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/opernkunst_in_dresden_angela_denoke_inszeniert_verdis_dlf_20261005_1740_60ff1f20.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c9fb474f-b48d-5c28-89df-db74312bcfff",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Protestkunst in Dresden: Bühnenverein gegen Kürzungen im Kulturetat",
-    "summary": "Gerlach, Alexandra www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-05T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/protestkunst-in-dresden-buehnenverein-gegen-kuerzungen-im-kulturetat-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/protestkunst_in_dresden_buehnenverein_gegen_kuerzungen_im_dlf_20261005_1735_3bfdd6d7.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:bd9716c5-1bcc-5cef-9248-292f7db4a074",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -472,81 +547,6 @@
     "url": "https://www.deutschlandfunk.de/berliner-ausstellung-beleuchtet-tanzflaechen-der-wiedervereinigung-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/berliner_ausstellung_beleuchtet_tanzflaechen_der_dlf_20261002_1520_d3a1738d.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7489608b-011c-55b8-ab07-41e663aae0cc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Corso-Podcast-Hendrik Bolz über ostdeutsche Literatur und sein Buch \"Aus Ruinen\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-10-02T13:12:00.000Z",
-    "url": "https://www.deutschlandfunk.de/corso-podcast-hendrik-bolz-ueber-ostdeutsche-literatur-und-sein-buch-aus-ruinen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/corso_podcast_hendrik_bolz_ueber_ostdeutsche_literatur_und_dlf_20261002_1512_09e80ea6.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:10b3c6b5-92a3-58ad-a187-563125da84ef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach dem Skandal - Danger Dan veröffentlicht Album \"Keine Angst\"",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-02T13:07:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-dem-skandal-danger-dan-veroeffentlicht-album-keine-angst-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/nach_dem_skandal_danger_dan_veroeffentlicht_album_keine_dlf_20261002_1507_86c1c644.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:3c36639e-7ff9-5a18-a275-4b40dd923a22",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Game \"Big Walk\": Im Gehen die Welt entdecken",
-    "summary": "Nowak, Tobias www.deutschlandfunk.de, Corso",
-    "date": "2026-10-01T13:20:44.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-game-big-walk-im-gehen-die-welt-entdecken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/01/neues_game_big_walk_im_gehen_die_welt_entdecken_dlf_20261001_1520_dff1bad3.mp3?refId=corso-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
