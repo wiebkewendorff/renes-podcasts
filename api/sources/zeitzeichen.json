@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:cd737c5cd56a405d8aa51a2a7e9fed07",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Solidarität statt \"Herr der Fliegen\": Schiffbrüchige von Tonga",
+    "summary": "<p>Was passiert, wenn Jugendliche auf einer einsamen Insel stranden: Geht es zu wie beim \"Herr der Fliegen\" mit Gewaltkonflikten und Eskalation oder arbeiten sie zusammen?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Moritz Raestrup:</strong><br><ul><li>worin sich die Tonga Castaways deutlich von den Kindern im Roman \"Herr der Fliegen\" unterscheiden,</li><li>was ihre Schüler nach Einschätzung der Münsteraner Grundschulleiterin Christiane Gränitz in solch einer Extremsituation wohl tun würden,</li><li>warum die Tonga Castaways bei ihrer Rückkehr nach Tonga erstmal festgenommen werden,</li><li>und womit der Fischer Peter Warner für die Rettung der Schiffbrüchigen belohnt wird.</li></ul><br>Im Juni 1965 beschließen sechs Schüler im Alter von 13 bis 16 Jahren auf Tonga, aus ihrem Internat abzuhauen. Mit einem Segelboot wollen sie zur Fidschi-Inselgruppe segeln. Kurz nach dem Ablegen geraten sie in einen schweren Sturm. Segel und Ruder gehen verloren. Acht Tage lang treiben die sechs ohne Vorräte auf hoher See. Dann liegt vor ihnen die kleine Insel Ata. <br><br>Anders als die englischen Jungen im Roman \"Herr der Fliegen\" von William Golding erkennen die jungen Tonganer, dass sie nur in der Gemeinschaft überleben können. Sie bauen eine Hütte und ernähren sich von dem, was das kleine Eiland zu bieten hat. <br><br>Im September 1966 wird der Fischer Peter Warner auf die Insel aufmerksam, als er Rauch entdeckt. Die Jungen werden auf das Fischerboot geholt und per Funk wird bestätigt, dass sie als vermisst und für tot gehalten werden. Ihre Rettung wird in Tonga als Wunder gefeiert. Am 9. Oktober 1966 berichtet der australische Fernsehsender Channel 7 über die Geschichte der Tonga Castaways.<br><br><strong>Das ist unsere wichtigste Interviewpartnerin:</strong><br><ul><li>Christiane Gränitz, Schulleiterin Wartburg-Grundschule Münster</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li> YouTube: <a href=\"https://www.youtube.com/watch?v=qHO_RlJxnVI\" rel=\"noopener\" target=\"_blank\">Sechs tonganische Schiffbrüchige auf der Insel Ata | Dokumentation Channel 7</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/inseln/bedrohung_der_suedsee/suedsee-geologie-navigation-100.html\" rel=\"noopener\" target=\"_blank\">Inseln - Südsee</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag-der-roman-robinson-crusoe-erscheint-erstmals-100.html\" rel=\"noopener\" target=\"_blank\">25. April 1719 - Der Roman Robinson Crusoe erscheint erstmals</a></li></ul><br><strong>Hörtipp:</strong> Wie sähe die Welt ohne Menschen aus? In drei spannenden Folgen im <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:55ad5ee1e08c0434/\" rel=\"noopener\" target=\"_blank\">Podcast \"IQ - Wissenschaft und Forschung\"</a> in ARD Sound<br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Heiner Wember<br>Redaktion: Carolin Rückl, Sefa Inci Suvak<br>Technik: Moritz Raestrup",
+    "date": "2026-10-09T04:00:00.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-solidaritaet-statt-herr-der-fliegen-schiffbruechige-von-tonga-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-tonga-castaways-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/21/10f734cc-a4e3-4fa2-9da6-8979966b5976/10f734cc-a4e3-4fa2-9da6-8979966b5976_MP3-128.mp3",
+    "duration": "16 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:cabfcbc23cabb1add468ba422044533e",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-krieg-der-kutschen-ein-kampf-um-prestige-und-macht-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-kutschenstreit-102~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/0fb4c249-9fda-4d93-987e-a0fce7459766/0fb4c249-9fda-4d93-987e-a0fce7459766_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:3128fc263e1ca6fa8cbed53b7ea5b430",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Der letzte Mensch, der alles wusste: Enrico Fermi",
-    "summary": "<p>Der größte italienische Wissenschaftler seit Galilei, genialer Nobelpeisträger, Vater des Atomzeitalters. Enrico Fermi, geboren am 29.9.1901, war wohl der letzte Mensch, der die gesamte Physik verstand.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Martin Herzog:</strong><br><ul><li>wie aus einer beiläufigen Mittagsdiskussion das berühmte Fermi-Paradoxon entsteht, </li><li>warum Fermi als \"der letzte Mensch, der alles wusste\" bezeichnet wird, </li><li>wie seine Pi-mal-Daumen-Methode zu erstaunlich präzisen Ergebnissen führt, </li><li>weshalb er Mussolinis Italien nach der Nobelpreisverleihung verlässt, </li><li>welche Schlüsselrolle er beim Bau des ersten Atomreaktors spielt.</li></ul><br>In der Physik begegnet man seinem Namen auf Schritt und Tritt: Fermi-Dirac-Statistik, Fermi-Wechselwirkung oder Fermi-Paradoxon. Schon als Jugendlicher verschlingt Enrico Fermi Fachliteratur und beeindruckt seine Umgebung mit außergewöhnlicher Begabung. Später gehört er zu den prägenden Köpfen einer Epoche, in der Relativitäts- und Quantentheorie das Weltbild revolutionieren.<br><br>Sein Leben führt von Rom über Stockholm und New York bis nach Los Alamos. Dort wirkt er entscheidend an Entwicklungen mit, die das 20. Jahrhundert verändern. Trotz seines gewaltigen Wissens bleibt Fermi laut Weggefährten zugänglich, begeisterter Lehrer und jemand, der komplexe Probleme auf ihren einfachsten Kern reduziert.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>David Schwartz (Fermi-Biograf)</li><li>David Schwartz: The Last Man Who Knew Everything. The Life and Times of Enrico Fermi, Father of the Nuclear Age. New York 2017</li><li>To Fermi with Love: <a href=\"https://ahf.nuclearmuseum.org/voices/oral-histories/fermi-love-part-1/\" rel=\"noopener\" target=\"_blank\">Erinnerungen seiner Freunde und Wegbegleiter</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 06.08.1945: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/hiroshima-106.html\" rel=\"noopener\" target=\"_blank\">Abwurf der Atombombe auf Hiroshima</a></li><li>Zeitzeichen 26.03.1938: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-ettore-majorana-100.html\" rel=\"noopener\" target=\"_blank\">Der italienische Physiker Ettore Majorana verschwindet</a></li><li>Zeitzeichen 23.10.1912: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-wernher-von-braun-geboren-100.html\" rel=\"noopener\" target=\"_blank\">Raketeningenieur Wernher von Braun wird geboren </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Martin Herzog<br>Redaktion: David Rother",
-    "date": "2026-09-29T04:00:59.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-letzte-mensch-der-alles-wusste-enrico-fermi-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-enrico-fermi-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/ccc485a3-ae1f-44a5-bae4-4c25d56e909a/ccc485a3-ae1f-44a5-bae4-4c25d56e909a_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

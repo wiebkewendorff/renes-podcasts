@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:92ab98a0-5533-5a7a-b6f9-c82580b84483",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 08.10.2026",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:56:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/kulturmeldungen_08102026_dlf_20261008_1756_2d51a0cc.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8dd12d19-f9c9-5365-8774-4ca680cf6966",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Kunst auf Kommando?\" - Ausstellung im militärhistorischen Museum in Dresden",
+    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kunst-auf-kommando-ausstellung-im-militaerhistorischen-museum-in-dresden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/kunst_auf_kommando_ausstellung_im_militaerhistorischen_dlf_20261008_1750_4150b286.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e1fb3a38-18a6-511c-ad06-d026996c9e5d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Fälscher will seine Fälschung zurück - Wolfgang Beltracchi zieht vor den BGH",
+    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:44:15.000Z",
+    "url": "https://www.deutschlandfunk.de/der-faelscher-will-seine-faelschung-zurueck-wolfgang-beltracchi-zieht-vor-den-bgh-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/der_faelscher_will_seine_faelschung_zurueck_wolfgang_dlf_20261008_1744_b94f854f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:588248c1-a744-5adc-b722-c721229dd316",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Stay between the lines\": Die kanadische Literaturnobelpreisträgerin Anne Carson",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/stay-between-the-lines-die-kanadische-literaturnobelpreistraegerin-anne-carson-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/stay_between_the_lines_die_kanadische_dlf_20261008_1735_ff4d9b06.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:6e92b425-4b4a-5c76-8ea8-0c2095f46fdf",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/kulturmeldungen_06102026_dlf_20261006_1756_2a09ebd6.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:396a8683-4822-5727-9be6-5aab10352b8d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Es war einmal in Amerika\" - Der deutsche Blick auf die Kunstfreiheit in den USA",
-    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/es-war-einmal-in-amerika-der-deutsche-blick-auf-die-kunstfreiheit-in-den-usa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/es_war_einmal_in_amerika_der_deutsche_blick_auf_die_dlf_20261006_1751_1907e55d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:227f0352-4ce5-553f-b690-3455536f5d99",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schillernd wie seine Romanhelden - Britischer Bestsellerautor Jeffrey Archer tot",
-    "summary": "Röhling, Lisa-Maria www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schillernd-wie-seine-romanhelden-britischer-bestsellerautor-jeffrey-archer-tot-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/schillernd_wie_seine_romanhelden_britischer_bestsellerautor_dlf_20261006_1746_740635f4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c588a8b5-74f4-5e08-b881-f58e3d1880ab",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutscher Buchpreis für Shida Bazyars Roman \"Die Lücken\"",
-    "summary": "Drees, Jan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutscher-buchpreis-fuer-shida-bazyars-roman-die-luecken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/deutscher_buchpreis_fuer_shida_bazyars_roman_die_luecken_dlf_20261006_1741_3905067f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e08750a8-adee-56c7-af37-3a7defae552e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Literarischer Ausblick auf die Frankfurter Buchmesse",
-    "summary": "Bonhage, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/literarischer-ausblick-auf-die-frankfurter-buchmesse-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/literarischer_ausblick_auf_die_frankfurter_buchmesse_dlf_20261006_1736_b503742d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

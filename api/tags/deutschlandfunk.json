@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:92ab98a0-5533-5a7a-b6f9-c82580b84483",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 08.10.2026",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:56:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/kulturmeldungen_08102026_dlf_20261008_1756_2d51a0cc.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8dd12d19-f9c9-5365-8774-4ca680cf6966",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Kunst auf Kommando?\" - Ausstellung im militärhistorischen Museum in Dresden",
+    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kunst-auf-kommando-ausstellung-im-militaerhistorischen-museum-in-dresden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/kunst_auf_kommando_ausstellung_im_militaerhistorischen_dlf_20261008_1750_4150b286.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e1fb3a38-18a6-511c-ad06-d026996c9e5d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Fälscher will seine Fälschung zurück - Wolfgang Beltracchi zieht vor den BGH",
+    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:44:15.000Z",
+    "url": "https://www.deutschlandfunk.de/der-faelscher-will-seine-faelschung-zurueck-wolfgang-beltracchi-zieht-vor-den-bgh-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/der_faelscher_will_seine_faelschung_zurueck_wolfgang_dlf_20261008_1744_b94f854f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:588248c1-a744-5adc-b722-c721229dd316",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Stay between the lines\": Die kanadische Literaturnobelpreisträgerin Anne Carson",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/stay-between-the-lines-die-kanadische-literaturnobelpreistraegerin-anne-carson-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/stay_between_the_lines_die_kanadische_dlf_20261008_1735_ff4d9b06.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:3f57c801-afc1-5c4a-a998-092be17e5a17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Festival of Animation Berlin: Wenn Stoppmotion-Filme die KI ausbremsen",
+    "summary": "Djukic, Pia; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-08T13:21:06.000Z",
+    "url": "https://www.deutschlandfunk.de/festival-of-animation-berlin-wenn-stoppmotion-filme-die-ki-ausbremsen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/festival_of_animation_berlin_wenn_stoppmotion_filme_die_ki_dlf_20261008_1521_14ce9846.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d8d16b54-a984-51a0-9c76-f9d1cc1cc1fc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Cool Britannia: Die Tate Britain beschwört die britische Popkultur der 90er",
+    "summary": "Hoppen, Franziska www.deutschlandfunk.de, Corso",
+    "date": "2026-10-08T13:15:17.000Z",
+    "url": "https://www.deutschlandfunk.de/cool-britannia-die-tate-britain-beschwoert-die-britische-popkultur-der-90er-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/cool_britannia_die_tate_britain_beschwoert_die_britische_dlf_20261008_1515_4029db74.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4655fb23-9cd0-59b8-a7c4-d44c3462d619",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ein Kebab, der verbindet: Tarik Karas Gemüse-Döner kommt ins Wachsfigurenmuseum",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-08T13:05:30.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-kebab-der-verbindet-tarik-karas-gemuese-doener-kommt-ins-wachsfigurenmuseum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/ein_kebab_der_verbindet_tarik_karas_gemuese_doener_kommt_ins_dlf_20261008_1505_cfc6b0e0.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-der-rest-ist-geschichte:7acd6d43-2607-579a-9052-746029cb83e1",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -258,110 +437,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:396a8683-4822-5727-9be6-5aab10352b8d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Es war einmal in Amerika\" - Der deutsche Blick auf die Kunstfreiheit in den USA",
-    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/es-war-einmal-in-amerika-der-deutsche-blick-auf-die-kunstfreiheit-in-den-usa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/es_war_einmal_in_amerika_der_deutsche_blick_auf_die_dlf_20261006_1751_1907e55d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:227f0352-4ce5-553f-b690-3455536f5d99",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schillernd wie seine Romanhelden - Britischer Bestsellerautor Jeffrey Archer tot",
-    "summary": "Röhling, Lisa-Maria www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schillernd-wie-seine-romanhelden-britischer-bestsellerautor-jeffrey-archer-tot-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/schillernd_wie_seine_romanhelden_britischer_bestsellerautor_dlf_20261006_1746_740635f4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c588a8b5-74f4-5e08-b881-f58e3d1880ab",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutscher Buchpreis für Shida Bazyars Roman \"Die Lücken\"",
-    "summary": "Drees, Jan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutscher-buchpreis-fuer-shida-bazyars-roman-die-luecken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/deutscher_buchpreis_fuer_shida_bazyars_roman_die_luecken_dlf_20261006_1741_3905067f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e08750a8-adee-56c7-af37-3a7defae552e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Literarischer Ausblick auf die Frankfurter Buchmesse",
-    "summary": "Bonhage, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/literarischer-ausblick-auf-die-frankfurter-buchmesse-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/literarischer_ausblick_auf_die_frankfurter_buchmesse_dlf_20261006_1736_b503742d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:d68b1695-3fa1-5e05-9c70-79d198af2634",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -474,81 +549,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/wie_stehts_um_den_deutschen_filmnachwuchs_der_first_steps_dlf_20261005_1510_a8641b1f.mp3?refId=corso-104",
     "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:07e65785-6055-59f0-a60b-0b918576df07",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ein Meister seines Fachs: Ausstellung über den Anime-Szenografen Nizo Yamamoto",
-    "summary": "Riekeles, Stefan; Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-05T13:10:01.000Z",
-    "url": "https://www.deutschlandfunk.de/ein-meister-seines-fachs-ausstellung-ueber-den-anime-szenografen-nizo-yamamoto-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/ein_meister_seines_fachs_ausstellung_ueber_den_anime_dlf_20261005_1510_995c7c97.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5b79e144-6d6d-517e-a4d3-27835ff07c6e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Popkultur - Archäologische Funde aus der Zukunft",
-    "summary": "Es ist das Jahr 2626. Ein Team aus Historikern macht einen besonderen Fund. Mithilfe einer Zeitmaschine nähern sie sich einer interessanten Kunstepoche des 20. und 21. Jahrhunderts. Der sogenannten Popkultur. Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-10-03T13:05:26.000Z",
-    "url": "https://www.deutschlandfunk.de/corso-spezial-popkultur-archaeologische-funde-aus-der-zukunft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/40/91/39/28/40913928-73c4-45e5-923b-9e00a4900070/blick-zurueck-auf-die-popkultur-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/corso_spezial_popkultur_archaeologische_funde_aus_der_dlf_20261003_1505_7fc33b77.mp3?refId=corso-104",
-    "duration": "50 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7ec0e533-6886-54c8-b72b-be4d40044489",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Berliner Ausstellung beleuchtet \"Tanzflächen der Wiedervereinigung\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-10-02T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/berliner-ausstellung-beleuchtet-tanzflaechen-der-wiedervereinigung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/berliner_ausstellung_beleuchtet_tanzflaechen_der_dlf_20261002_1520_d3a1738d.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

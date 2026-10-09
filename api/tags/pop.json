@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:3f57c801-afc1-5c4a-a998-092be17e5a17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Festival of Animation Berlin: Wenn Stoppmotion-Filme die KI ausbremsen",
+    "summary": "Djukic, Pia; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-08T13:21:06.000Z",
+    "url": "https://www.deutschlandfunk.de/festival-of-animation-berlin-wenn-stoppmotion-filme-die-ki-ausbremsen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/festival_of_animation_berlin_wenn_stoppmotion_filme_die_ki_dlf_20261008_1521_14ce9846.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d8d16b54-a984-51a0-9c76-f9d1cc1cc1fc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Cool Britannia: Die Tate Britain beschwört die britische Popkultur der 90er",
+    "summary": "Hoppen, Franziska www.deutschlandfunk.de, Corso",
+    "date": "2026-10-08T13:15:17.000Z",
+    "url": "https://www.deutschlandfunk.de/cool-britannia-die-tate-britain-beschwoert-die-britische-popkultur-der-90er-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/cool_britannia_die_tate_britain_beschwoert_die_britische_dlf_20261008_1515_4029db74.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4655fb23-9cd0-59b8-a7c4-d44c3462d619",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ein Kebab, der verbindet: Tarik Karas Gemüse-Döner kommt ins Wachsfigurenmuseum",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-08T13:05:30.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-kebab-der-verbindet-tarik-karas-gemuese-doener-kommt-ins-wachsfigurenmuseum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/ein_kebab_der_verbindet_tarik_karas_gemuese_doener_kommt_ins_dlf_20261008_1505_cfc6b0e0.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:77bd9abd-594d-5120-a617-7b34d5551611",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/wie_stehts_um_den_deutschen_filmnachwuchs_der_first_steps_dlf_20261005_1510_a8641b1f.mp3?refId=corso-104",
     "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:07e65785-6055-59f0-a60b-0b918576df07",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ein Meister seines Fachs: Ausstellung über den Anime-Szenografen Nizo Yamamoto",
-    "summary": "Riekeles, Stefan; Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-05T13:10:01.000Z",
-    "url": "https://www.deutschlandfunk.de/ein-meister-seines-fachs-ausstellung-ueber-den-anime-szenografen-nizo-yamamoto-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/ein_meister_seines_fachs_ausstellung_ueber_den_anime_dlf_20261005_1510_995c7c97.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5b79e144-6d6d-517e-a4d3-27835ff07c6e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Popkultur - Archäologische Funde aus der Zukunft",
-    "summary": "Es ist das Jahr 2626. Ein Team aus Historikern macht einen besonderen Fund. Mithilfe einer Zeitmaschine nähern sie sich einer interessanten Kunstepoche des 20. und 21. Jahrhunderts. Der sogenannten Popkultur. Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-10-03T13:05:26.000Z",
-    "url": "https://www.deutschlandfunk.de/corso-spezial-popkultur-archaeologische-funde-aus-der-zukunft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/40/91/39/28/40913928-73c4-45e5-923b-9e00a4900070/blick-zurueck-auf-die-popkultur-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/corso_spezial_popkultur_archaeologische_funde_aus_der_dlf_20261003_1505_7fc33b77.mp3?refId=corso-104",
-    "duration": "50 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7ec0e533-6886-54c8-b72b-be4d40044489",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Berliner Ausstellung beleuchtet \"Tanzflächen der Wiedervereinigung\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-10-02T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/berliner-ausstellung-beleuchtet-tanzflaechen-der-wiedervereinigung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/berliner_ausstellung_beleuchtet_tanzflaechen_der_dlf_20261002_1520_d3a1738d.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
