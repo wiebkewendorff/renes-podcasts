@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:60726606-62e3-5ffb-96f9-e1f0e0d2b166",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Incel-True-Crime-Kult - Wie die \"Manosphere\" im Netz Femizide feiert",
+    "summary": "Rocholl, Lena www.deutschlandfunk.de, Corso",
+    "date": "2026-10-09T13:15:31.000Z",
+    "url": "https://www.deutschlandfunk.de/incel-true-crime-kult-wie-die-manosphere-im-netz-femizide-feiert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/incel_true_crime_kult_wie_die_manosphere_im_netz_femizide_dlf_20261009_1515_892f742b.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e3d938dd-ecb6-515c-9dc1-6f04ec5bd26e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Festival Nürnberg Pop - Wie viel KI steckt in unserer Musik?",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-10-09T13:05:24.000Z",
+    "url": "https://www.deutschlandfunk.de/festival-nuernberg-pop-wie-viel-ki-steckt-in-unserer-musik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/festival_nuernberg_pop_wie_viel_ki_steckt_in_unserer_musik_dlf_20261009_1505_16ec91a3.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:3f57c801-afc1-5c4a-a998-092be17e5a17",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/das_duo_suchtpotenzial_ueber_den_salzburger_stier_2027_und_dlf_20261006_1510_cd89c4db.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bd9716c5-1bcc-5cef-9248-292f7db4a074",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hamburg Comic Festival: Lee Lai präsentiert das preisgekrönte Buch \"Cannon\"",
-    "summary": "Schwyzer, Andrea www.deutschlandfunk.de, Corso",
-    "date": "2026-10-05T13:15:59.000Z",
-    "url": "https://www.deutschlandfunk.de/hamburg-comic-festival-lee-lai-praesentiert-das-preisgekroente-buch-cannon-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/hamburg_comic_festival_lee_lai_praesentiert_das_dlf_20261005_1515_815d5dd1.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f114f0b3-7eeb-5ac9-ab0a-9336359b396a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie steht's um den deutschen Filmnachwuchs? Der First Steps Award wird verliehen",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-05T13:10:58.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-steht-s-um-den-deutschen-filmnachwuchs-der-first-steps-award-wird-verliehen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/wie_stehts_um_den_deutschen_filmnachwuchs_der_first_steps_dlf_20261005_1510_a8641b1f.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",

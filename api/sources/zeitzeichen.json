@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:34765ca1674a1d802e3d08f31ef8aee4",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Fridtjof Nansen: Ein Leben für Polarforschung und Geflüchtete",
+    "summary": "<p>Fridtjof Nansen (geboren 10.10.1861) wagt sich ins Packeis, überlebt monatelang in einer Eishöhle und wird später zum Anwalt für Staatenlose. Er prägt Flüchtlingshilfe.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Marfa Heimbach:</strong><br><ul><li>warum die Osloer Presse von Fridtjof Nansen berichtet, er sei \"nicht bei Sinnen\", </li><li>warum ein zufälliges Treffen im Eis nach drei Jahren über Leben und Tod entscheidet, </li><li>wie Nansen ganz nebenbei das Skilaufen auf dem europäischen Kontinent populär macht.</li></ul><br>Fridtjof Nansen sucht das Abenteuer im Eis. Mit 27 Jahren durchquert der Norweger als erster Mensch Grönland. Wenige Jahre später wagt er eine noch kühnere Expedition: Er lässt sein eigens konstruiertes Schiff \"Fram\" im Packeis einfrieren und hofft, mit der Strömung über den Nordpol zu treiben. Der Plan geht nicht auf – doch alle 13 Männer kehren lebend zurück. <br><br>Später wendet sich Nansen der Politik und humanitären Arbeit zu. Nach dem Ersten Weltkrieg setzt er sich für Kriegsgefangene, Flüchtlinge und Staatenlose ein. Als Hochkommissar des Völkerbunds entwickelt er den \"Nansen-Pass\", ein Identitäts- und Reisedokument für Menschen ohne Staatsangehörigkeit. 1922 erhält er für seine internationale Hilfsarbeit den Friedensnobelpreis.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Prof. Dr. Markus Rex, Atmosphärenphysiker, Leiter der MOSAiC-Expedition des Alfred-Wegener-Instituts für Polar- und Meeresforschung, Bremerhaven</li><li>Dr. Kathrin Kollmeier, Historikerin, Stiftung Humboldt-Forum, Berlin</li><li>Fridtjof Nansen: In Nacht und Eis, Wiesbaden 2026</li><li>Bernhard Nordahl und Frederick Hjalmar Johansen: In Nacht und Eis - Wir Framleute - die Besatzung der Polar-Expedition erzählt, Hamburg 2019</li><li>Detlef Brennecke: Fridtjof Nansen, Hamburg 1990</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:913330eab9c86d3b/\" rel=\"noopener\" target=\"_blank\">Nansenpass für staatenlose Flüchtlinge eingeführt (05.07.1922)</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:f399fdb6a9908241/\" rel=\"noopener\" target=\"_blank\">Kalte Einöde - Erstmals überwintern neun Frauen in der Antarktis</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:2e4277eb4fc44e02/\" rel=\"noopener\" target=\"_blank\">Verschollen im arktischen Eis: Polarforscher John Franklin</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:0e3c3c01dad1b15d/\" rel=\"noopener\" target=\"_blank\">Ernest Shackleton, brit. Polarforscher (Todestag, 05.01.1922)</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autor: Marfa Heimbach<br>Redaktion: Sefa Inci Suvak<br>Technik: Sarah Fitzek",
+    "date": "2026-10-10T04:00:53.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-fridtjof-nansen-ein-leben-fuer-polarforschung-und-gefluechtete-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/polarforscher-nansen-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/05/49313daa-1bf7-4382-8d9f-9ecfca3506a5/49313daa-1bf7-4382-8d9f-9ecfca3506a5_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:cd737c5cd56a405d8aa51a2a7e9fed07",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-urteile-im-nuernberger-hauptkriegsverbrecher-prozess-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-nuernberger-prozess-ende-102~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/28/c7942120-f85c-4748-b621-fd6648935954/c7942120-f85c-4748-b621-fd6648935954_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:dcade9902a3f2175a0139d3223d73c62",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Krieg der Kutschen: Ein Kampf um Prestige und Macht",
-    "summary": "<p>30.9.1661: In London eskaliert ein Kutschenwettstreit zwischen Frankreich und Spanien um einen Ehrenplatz. Botschafter lassen schießen - am Ende siegt Frankreich.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Heiner Wember:</strong><br><ul><li>warum eine Kutschenkolonne zum Schauplatz eines internationalen Prestigekampfs wird, </li><li>weshalb Spanien und Frankreich ihren Konflikt mitten in London austragen, </li><li>wie bezahlte Schläger und bewaffnete Gefolgsleute den Streit anheizen, </li><li>wieso die militärisch unterlegenen Spanier zunächst triumphieren, </li><li>weshalb der eigentliche Sieger am Ende doch Frankreich heißt.</li></ul><br>Im 17. Jahrhundert entscheidet nicht nur militärische Stärke über den Rang eines Herrschers. Wer bei öffentlichen Zeremonien den Vorrang erhält, demonstriert Macht vor aller Augen. Als ein schwedischer Botschafter 1661 in London feierlich empfangen werden soll, treffen die Rivalen Spanien und Frankreich aufeinander.<br><br>Der Streit um die bessere Position in einer Kutschenkolonne eskaliert. Pferde werden attackiert, Schüsse fallen, Menschen sterben. Was zunächst nur wie eine bizarre Auseinandersetzung wirkt, markiert einen Wendepunkt im europäischen Machtgefüge.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>André Krischer (Historiker, Universität Freiburg)</li><li>Mark Hengerer: Ludwig XIV. Das Leben des Sonnenkönigs. München 2015 </li><li>Elisabeth Ruffert: Das Gesandtschaftszeremoniell des brandenburgisch-preußischen Hofes um 1700. Berlin 2022</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 31.05.1669: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-samuel-pepys-100.html\" rel=\"noopener\" target=\"_blank\">Samuel Pepys macht den letzten Eintrag in seinem berühmten Tagebuch</a></li><li>Samuel Pepys Diary: <a href=\"https://www.pepysdiary.com/diary/1661/09/30/\" rel=\"noopener\" target=\"_blank\">Tagebuch-Eintrag zum 30. September 1661</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Heiner Wember<br>Redaktion: Sefa Inci Suvak<br>Technik: Moritz Raestrup",
-    "date": "2026-09-30T04:00:16.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-krieg-der-kutschen-ein-kampf-um-prestige-und-macht-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-kutschenstreit-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/0fb4c249-9fda-4d93-987e-a0fce7459766/0fb4c249-9fda-4d93-987e-a0fce7459766_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

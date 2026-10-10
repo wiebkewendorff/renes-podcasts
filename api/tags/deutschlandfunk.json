@@ -1,5 +1,185 @@
 [
   {
+    "id": "dlf-kultur-heute:072c6c04-ea34-575d-822e-ec430d34da0b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 09.10.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-09T15:56:45.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/kulturmeldungen_09102026_dlf_20261009_1756_3b78a342.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ea6c7b7e-5201-5b5c-981c-2e99c9a7a246",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die europaweit größte Retrospektive zu Willem de Kooning in Amsterdam",
+    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-09T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-europaweit-groesste-retrospektive-zu-willem-de-kooning-in-amsterdam-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/die_europaweit_groesste_retrospektive_zu_willem_de_kooning_dlf_20261009_1752_557eb05b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a5273f1d-e9d4-5e80-b1fc-87f9bfdbddbd",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Cherry Town - Jakop Ahlbom inszeniert in Amsterdam Schostakowitsch",
+    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-09T15:46:50.000Z",
+    "url": "https://www.deutschlandfunk.de/cherry-town-jakop-ahlbom-inszeniert-in-amsterdam-schostakowitsch-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/cherry_town_jakop_ahlbom_inszeniert_in_amsterdam_dlf_20261009_1746_7f7de632.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e56c0cd0-89e2-5f8a-8f42-37be046330a9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Alte Liebe\" - Der neue Film von Andreas Dresen",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-09T15:40:00.000Z",
+    "url": "https://www.deutschlandfunk.de/alte-liebe-der-neue-film-von-andreas-dresen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/alte_liebe_der_neue_film_von_andreas_dresen_dlf_20261009_1740_8a7c15c2.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a2099fa5-6a77-5780-a663-6cb9232dbbdc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "S. Fischer geht nach Berlin - Bedeutungsverlust für Frankfurt am Main?",
+    "summary": "Lischka, Gregor www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-09T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/s-fischer-geht-nach-berlin-bedeutungsverlust-fuer-frankfurt-am-main-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/s_fischer_geht_nach_berlin_bedeutungsverlust_fuer_frankfurt_dlf_20261009_1736_d77ae69a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:60726606-62e3-5ffb-96f9-e1f0e0d2b166",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Incel-True-Crime-Kult - Wie die \"Manosphere\" im Netz Femizide feiert",
+    "summary": "Rocholl, Lena www.deutschlandfunk.de, Corso",
+    "date": "2026-10-09T13:15:31.000Z",
+    "url": "https://www.deutschlandfunk.de/incel-true-crime-kult-wie-die-manosphere-im-netz-femizide-feiert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/incel_true_crime_kult_wie_die_manosphere_im_netz_femizide_dlf_20261009_1515_892f742b.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e3d938dd-ecb6-515c-9dc1-6f04ec5bd26e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Festival Nürnberg Pop - Wie viel KI steckt in unserer Musik?",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-10-09T13:05:24.000Z",
+    "url": "https://www.deutschlandfunk.de/festival-nuernberg-pop-wie-viel-ki-steckt-in-unserer-musik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/festival_nuernberg_pop_wie_viel_ki_steckt_in_unserer_musik_dlf_20261009_1505_16ec91a3.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:92ab98a0-5533-5a7a-b6f9-c82580b84483",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -232,110 +412,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:003eda44-175c-5b26-a692-c94fcf71ad2f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verlegerin Nora Pester über jüdische Autoren drei Jahre nach dem 7. Oktober",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-07T15:48:25.000Z",
-    "url": "https://www.deutschlandfunk.de/verlegerin-nora-pester-ueber-juedische-autoren-drei-jahre-nach-dem-7-oktober-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/verlegerin_nora_pester_ueber_juedische_autoren_drei_jahre_dlf_20261007_1748_ef4c42a7.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1ebc2849-b3a4-595c-85eb-d093a2d92857",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zum Start der Buchmesse - Gespräch mit Peter Kraus vom Cleff",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-07T15:42:10.000Z",
-    "url": "https://www.deutschlandfunk.de/zum-start-der-buchmesse-gespraech-mit-peter-kraus-vom-cleff-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/zum_start_der_buchmesse_gespraech_mit_peter_kraus_vom_cleff_dlf_20261007_1742_144ac470.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bb046c4e-a1c7-5f42-b8e8-5ea068bc1639",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Proteste und Standing Ovations - Die Frankfurter Buchmesse wurde eröffnet",
-    "summary": "Basak, Anne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-07T15:39:30.000Z",
-    "url": "https://www.deutschlandfunk.de/proteste-und-standing-ovations-die-frankfurter-buchmesse-wurde-eroeffnet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/proteste_und_standing_ovations_die_frankfurter_buchmesse_dlf_20261007_1739_a2497947.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a42254b5-40be-5c70-8d43-dacbc593f2b0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kommentar zur Wahl des AfD Kulturvordenkers Hans-Thomas Tillschneider",
-    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-07T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kommentar-zur-wahl-des-afd-kulturvordenkers-hans-thomas-tillschneider-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/kommentar_zur_wahl_des_afd_kulturvordenkers_hans_thomas_dlf_20261007_1735_f74685e4.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:77bd9abd-594d-5120-a617-7b34d5551611",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -402,32 +478,6 @@
       "pop",
       "kunst",
       "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:390770ea-ff5d-5e6f-a2a0-813147aa7842",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 06.10.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/kulturmeldungen_06102026_dlf_20261006_1756_2a09ebd6.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
@@ -509,56 +559,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bd9716c5-1bcc-5cef-9248-292f7db4a074",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hamburg Comic Festival: Lee Lai präsentiert das preisgekrönte Buch \"Cannon\"",
-    "summary": "Schwyzer, Andrea www.deutschlandfunk.de, Corso",
-    "date": "2026-10-05T13:15:59.000Z",
-    "url": "https://www.deutschlandfunk.de/hamburg-comic-festival-lee-lai-praesentiert-das-preisgekroente-buch-cannon-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/hamburg_comic_festival_lee_lai_praesentiert_das_dlf_20261005_1515_815d5dd1.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f114f0b3-7eeb-5ac9-ab0a-9336359b396a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wie steht's um den deutschen Filmnachwuchs? Der First Steps Award wird verliehen",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-05T13:10:58.000Z",
-    "url": "https://www.deutschlandfunk.de/wie-steht-s-um-den-deutschen-filmnachwuchs-der-first-steps-award-wird-verliehen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/wie_stehts_um_den_deutschen_filmnachwuchs_der_first_steps_dlf_20261005_1510_a8641b1f.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

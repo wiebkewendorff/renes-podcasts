@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-3779418245519699",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Heinz Galling und Horst Hennings von \"Rute raus, der Spaß beginnt!\"",
+    "summary": "\"Rute raus, der Spaß beginnt!\" - seit 15 Jahren ist diese Angelsendung ein festes und geliebtes Stück norddeutscher Fernsehkultur im NDR. Und ohne sie ist das Erfolgsformat undenkbar: Heinz Galling und Horst Hennings, die gemeinsam die schönsten Angelreviere Norddeutschlands und ganz Europas erkunden. Über das Angeln, ihre jahrelange Freundschaft und ihre beliebte Sendund erzählen Heinz Galling und Horst Hennings auf dem Roten Sofa.",
+    "date": "2026-10-09T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/heinz-galling-und-horst-hennings-von-rute-raus-der-spass-beginnt,audio-3527598.html",
+    "image": "https://images.ndr.de/image/bf4550b9-c9e5-474c-b88d-53e1d346eb5a/AAABoSHuYyU/AAABnSStX0g/1x1-big/screenshot-242240.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1009/AU-20261009-2003-0600.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-8013022774965547",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/75e8945b-d480-4d6e-b654-bc638111c04b/AAABoQgomac/AAABnSStX0g/1x1-big/screenshot-239050.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1004/AU-20261004-2141-5100.mp3",
     "duration": "38 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-1883657093548552",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Historikerin und Autorin Andrea Wulf im Talk über Weltumsegler Georg Forster",
-    "summary": "Georg Forster - ein Mann, der mit Captain Cook die Welt umsegelte, die Französische Revolution miterlebte und dabei nie aufhörte, die Welt mit staunenden Augen zu betrachten. Die britisch-deutsche Bestsellerautorin und Historikerin Andrea Wulf erzählt seine faszinierende und zu Unrecht vergessene Lebensgeschichte. Zu seiner Zeit war Forster auch berühmt für seine Zeichnungen von Fauna und Flora, denen er auf seinen Reisen begegnete. Die in Indien geborene Andrea Wulf, wurde zuletzt für ihr umfangreiches Werk über Alexander von Humboldt gefeiert. Hier beweist Sie einmal mehr, dass sie Geschichte lebendig erzählen kann. Auf dem Roten Sofa verrät sie, warum Forster topaktuell ist - und was ein Weltumsegler aus dem 18. Jahrhundert uns über Freiheit, Verantwortung und Neugier lehren kann.",
-    "date": "2026-10-02T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/historikerin-und-autorin-andrea-wulf-im-talk-ueber-weltumsegler-georg-forster,audio-3516096.html",
-    "image": "https://images.ndr.de/image/c6f984e2-e50d-4375-992d-ca904c35cffc/AAABoP3Q-1U/AAABnSStX0g/1x1-big/screenshot-238230.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1004/AU-20261004-2141-1100.mp3",
-    "duration": "37 Min",
     "tags": [
       "beatles",
       "popgeschichte",
