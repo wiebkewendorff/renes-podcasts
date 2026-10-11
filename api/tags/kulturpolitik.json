@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:a45ef1e2-8088-59fd-9956-024c4c07ae05",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 10.10.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-10T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/kulturmeldungen_10102026_dlf_20261010_1756_c9a03f72.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3b1ad89f-fa8e-5af3-a097-8350768f570a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Recherche übers Scheitern: \"Deutsche Bahn AG\" von Calle Fuhr am Schauspiel Köln",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-10T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/recherche-uebers-scheitern-deutsche-bahn-ag-von-calle-fuhr-am-schauspiel-koeln-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/recherche_uebers_scheitern_deutsche_bahn_ag_von_calle_fuhr_dlf_20261010_1752_dea7ae67.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:930b7f45-d6b2-551c-a4ef-13012515221b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Haus zur Sonne\" - Uraufführung des Romans nach Thomas Melle in Hannover",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-10T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/haus-zur-sonne-urauffuehrung-des-romans-nach-thomas-melle-in-hannover-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/haus_zur_sonne_urauffuehrung_des_romans_nach_thomas_melle_in_dlf_20261010_1746_49a51eac.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a75cc203-36da-590c-b472-bf1b030e5096",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nie wieder - Bundeskunsthalle mit Ausstellung gegen Vergessen der NS-Verbrechen",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-10T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nie-wieder-bundeskunsthalle-mit-ausstellung-gegen-vergessen-der-ns-verbrechen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/nie_wieder_bundeskunsthalle_mit_ausstellung_gegen_vergessen_dlf_20261010_1741_2ba3514d.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d3322ce5-749d-5530-afbc-dfd7fbe4a931",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ehrengast Tschechien auf der Frankfurter Buchmesse",
+    "summary": "Bonhage, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-10T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ehrengast-tschechien-auf-der-frankfurter-buchmesse-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/ehrengast_tschechien_auf_der_frankfurter_buchmesse_dlf_20261010_1736_dba2431a.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0b54b884-9661-5ba1-9f89-a75ab29be80e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ermutigung für junge Leser: R. Schweikart zum Deutschem Jugendliteraturpreis 26",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-10T15:31:25.000Z",
+    "url": "https://www.deutschlandfunk.de/ermutigung-fuer-junge-leser-r-schweikart-zum-deutschem-jugendliteraturpreis-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/ermutigung_fuer_junge_leser_r_schweikart_zum_deutschem_dlf_20261010_1731_26a193ec.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:072c6c04-ea34-575d-822e-ec430d34da0b",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -89,162 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/alte_liebe_der_neue_film_von_andreas_dresen_dlf_20261009_1740_8a7c15c2.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a2099fa5-6a77-5780-a663-6cb9232dbbdc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "S. Fischer geht nach Berlin - Bedeutungsverlust für Frankfurt am Main?",
-    "summary": "Lischka, Gregor www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-09T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/s-fischer-geht-nach-berlin-bedeutungsverlust-fuer-frankfurt-am-main-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/s_fischer_geht_nach_berlin_bedeutungsverlust_fuer_frankfurt_dlf_20261009_1736_d77ae69a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:92ab98a0-5533-5a7a-b6f9-c82580b84483",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 08.10.2026",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-08T15:56:10.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/kulturmeldungen_08102026_dlf_20261008_1756_2d51a0cc.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8dd12d19-f9c9-5365-8774-4ca680cf6966",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Kunst auf Kommando?\" - Ausstellung im militärhistorischen Museum in Dresden",
-    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-08T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kunst-auf-kommando-ausstellung-im-militaerhistorischen-museum-in-dresden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/kunst_auf_kommando_ausstellung_im_militaerhistorischen_dlf_20261008_1750_4150b286.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e1fb3a38-18a6-511c-ad06-d026996c9e5d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Fälscher will seine Fälschung zurück - Wolfgang Beltracchi zieht vor den BGH",
-    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-08T15:44:15.000Z",
-    "url": "https://www.deutschlandfunk.de/der-faelscher-will-seine-faelschung-zurueck-wolfgang-beltracchi-zieht-vor-den-bgh-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/der_faelscher_will_seine_faelschung_zurueck_wolfgang_dlf_20261008_1744_b94f854f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:588248c1-a744-5adc-b722-c721229dd316",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Stay between the lines\": Die kanadische Literaturnobelpreisträgerin Anne Carson",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-08T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/stay-between-the-lines-die-kanadische-literaturnobelpreistraegerin-anne-carson-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/stay_between_the_lines_die_kanadische_dlf_20261008_1735_ff4d9b06.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6e92b425-4b4a-5c76-8ea8-0c2095f46fdf",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 07.10.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-07T15:56:10.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/kulturmeldungen_07102026_dlf_20261007_1756_514d6ece.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

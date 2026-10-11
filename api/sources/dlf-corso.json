@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:42431548-12b6-516a-ab21-5093650440cb",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gitarrenrock ohne Nostalgie: Wishy mit dem Album \"Nature’s Pill\"",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-10-10T13:40:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gitarrenrock-ohne-nostalgie-wishy-mit-dem-album-nature-s-pill-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/gitarrenrock_ohne_nostalgie_wishy_mit_dem_album_natures_pill_dlf_20261010_1540_0c5e3864.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:150746c4-d5b6-5e8e-aca8-7ff15ec5d2b0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das Leben als große Party: Troye Sivan und \"She's The Best\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-10T13:22:00.000Z",
+    "url": "https://www.deutschlandfunk.de/das-leben-als-grosse-party-troye-sivan-und-she-s-the-best-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/das_leben_als_grosse_party_troye_sivan_und_shes_the_best_dlf_20261010_1522_6557de09.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:91d41d0b-b5c6-55ff-8ff2-72ea697301bb",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kaputte Musik für kaputte Zeiten: Bilderbuch mit \"∞+1\"",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-10-10T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kaputte-musik-fuer-kaputte-zeiten-bilderbuch-mit-1-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/kaputte_musik_fuer_kaputte_zeiten_bilderbuch_mit_+1_dlf_20261010_1510_da53f227.mp3?refId=corso-104",
+    "duration": "14 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:60726606-62e3-5ffb-96f9-e1f0e0d2b166",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/neue_filme_the_social_reckoning_alte_liebe_camouflage_dlf_20261007_1510_aa84003c.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:c2b6cc61-ad62-5166-905a-3d2d61dd7d11",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Musikstreaming - Erster großer Bot-Betrüger verurteilt",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-07T13:07:00.000Z",
-    "url": "https://www.deutschlandfunk.de/musikstreaming-erster-grosser-bot-betrueger-verurteilt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/musikstreaming_erster_grosser_bot_betrueger_verurteilt_dlf_20261007_1507_4b82610a.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d68b1695-3fa1-5e05-9c70-79d198af2634",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Was bleibt vom Mythos? - Ulrich Blanché über seine neue Banksy-Biografie",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-10-06T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/was-bleibt-vom-mythos-ulrich-blanch-ueber-seine-neue-banksy-biografie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/was_bleibt_vom_mythos_ulrich_blanche_ueber_seine_neue_banksy_dlf_20261006_1515_1ef61e72.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:84384a35-59e2-5df4-afb9-14e97822fab3",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das Duo Suchtpotenzial über den Salzburger Stier 2027 und Wurstsalat-Opern",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-10-06T13:10:28.000Z",
-    "url": "https://www.deutschlandfunk.de/das-duo-suchtpotenzial-ueber-den-salzburger-stier-2027-und-wurstsalat-opern-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/das_duo_suchtpotenzial_ueber_den_salzburger_stier_2027_und_dlf_20261006_1510_cd89c4db.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
