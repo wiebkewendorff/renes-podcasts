@@ -1,5 +1,185 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-20412053815685316",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Moderator, Autor und Schauspieler Max Moor über sein Romandebüt",
+    "summary": "Einem breiten Publikum wurde Max Moor in den Neunzigern mit dem preisgekrönten Medienmagazin \"Canale Grande\" auf Vox vertraut, und bis 2024 führte der Schweizer durch das ARD-Kulturmagazin \"ttt - titel, thesen, temperamente\". Nun hat Moor eine neue Seite aufgeschlagen: Mit \"Schwestern. Trotz allem\" legt er sein Romandebüt vor, eine eindringliche Geschichte über weibliche Selbstbehauptung, stillen Eigensinn und das Überleben in einer unbarmherzigen Zeit. Auf dem Roten Sofa wird Max Moor uns verraten, wie er zu diesem Stoff gefunden hat.",
+    "date": "2026-10-11T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/moderator-autor-und-schauspieler-max-moor-ueber-sein-romandebuet,audio-3530214.html",
+    "image": "https://images.ndr.de/image/fe47d320-f9b5-49eb-9ea4-ba7e5843acb6/AAABoSwDJ24/AAABnSStX0g/1x1-big/screenshot-242794.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1011/AU-20261011-2147-4800.mp3",
+    "duration": "41 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2d17d690-19fd-5efc-860c-25f328ce3866",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geschichte der Gewalt. Amerikanistin B.Buchenau zu angekündigter US-Exekution",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-11T15:50:10.000Z",
+    "url": "https://www.deutschlandfunk.de/geschichte-der-gewalt-amerikanistin-b-buchenau-zu-angekuendigter-us-exekution-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/geschichte_der_gewalt_amerikanistin_bbuchenau_zu_dlf_20261011_1750_e2ddca2b.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2f298cc6-a3e2-589a-a52b-b135302f44f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kann Kunst zum Kampf gegen den Klimawandel motivieren? Ein Besuch in Oulu",
+    "summary": "Bathke, Benjamin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-11T15:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kann-kunst-zum-kampf-gegen-den-klimawandel-motivieren-ein-besuch-in-oulu-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/kann_kunst_zum_kampf_gegen_den_klimawandel_motivieren_ein_dlf_20261011_1745_3ed3ecb7.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8555981b-357a-572d-91ef-ada2b35f6a1a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"König Lear\" - Manfred Zapatka spielt in Shakespeares Drama am Resi in München",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-11T15:39:59.000Z",
+    "url": "https://www.deutschlandfunk.de/koenig-lear-manfred-zapatka-spielt-in-shakespeares-drama-am-resi-in-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/koenig_lear_manfred_zapatka_spielt_in_shakespeares_drama_am_dlf_20261011_1739_aad2896f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8f2a030a-ed32-5b73-81c4-bbc2801d6085",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mit mehr Leichtigkeit: Die Leseförderung auf der Frankfurter Buchmesse",
+    "summary": "Stövesand, Catrin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-11T15:35:45.000Z",
+    "url": "https://www.deutschlandfunk.de/mit-mehr-leichtigkeit-die-lesefoerderung-auf-der-frankfurter-buchmesse-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/mit_mehr_leichtigkeit_die_lesefoerderung_auf_der_frankfurter_dlf_20261011_1735_f9d0db05.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b3205275-a5b6-57b4-920a-26a166bdcecb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Friedenspreis des Deutschen Buchhandels geht an Philippe Sands",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-11T15:30:35.000Z",
+    "url": "https://www.deutschlandfunk.de/der-friedenspreis-des-deutschen-buchhandels-geht-an-philippe-sands-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/der_friedenspreis_des_deutschen_buchhandels_geht_an_philippe_dlf_20261011_1730_76cf4bc3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-5235131615987636",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Widmet sich der gesunden Küche: TV-Koch Johann Lafer",
+    "summary": "Ende Mai macht Johann Lafer seine Krebserkrankung öffentlich. Der TV-Star-Koch kämpft und kommt zurück: Knapp drei Monate später wird er bei der Koch-Show \"Grill den Henssler\" vom Publikum mit Standing Ovations willkommen geheißen und er moderiert auch wieder die erfolgreiche ZDF-Sendung \"Die Küchenschlacht\". Gemeinsam mit dem Ernährungsmediziner Dr. Matthias Riedl widmet sich Johann Lafer der gesunden Küche. Eine Kostprobe daraus gibt es in der Studioküche.",
+    "date": "2026-10-10T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/widmet-sich-der-gesunden-kueche-tv-koch-johann-lafer,audio-3530212.html",
+    "image": "https://images.ndr.de/image/567798c5-ef72-4652-ae34-d3e52844429f/AAABoSc2MHM/AAABnSStX0g/1x1-big/screenshot-242624.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1011/AU-20261011-2147-1000.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:a45ef1e2-8088-59fd-9956-024c4c07ae05",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -130,32 +310,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:0b54b884-9661-5ba1-9f89-a75ab29be80e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ermutigung für junge Leser: R. Schweikart zum Deutschem Jugendliteraturpreis 26",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-10T15:31:25.000Z",
-    "url": "https://www.deutschlandfunk.de/ermutigung-fuer-junge-leser-r-schweikart-zum-deutschem-jugendliteraturpreis-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/ermutigung_fuer_junge_leser_r_schweikart_zum_deutschem_dlf_20261010_1731_26a193ec.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:42431548-12b6-516a-ab21-5093650440cb",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -252,110 +406,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:072c6c04-ea34-575d-822e-ec430d34da0b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 09.10.2026",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-09T15:56:45.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/kulturmeldungen_09102026_dlf_20261009_1756_3b78a342.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ea6c7b7e-5201-5b5c-981c-2e99c9a7a246",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die europaweit größte Retrospektive zu Willem de Kooning in Amsterdam",
-    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-09T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-europaweit-groesste-retrospektive-zu-willem-de-kooning-in-amsterdam-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/die_europaweit_groesste_retrospektive_zu_willem_de_kooning_dlf_20261009_1752_557eb05b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a5273f1d-e9d4-5e80-b1fc-87f9bfdbddbd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Cherry Town - Jakop Ahlbom inszeniert in Amsterdam Schostakowitsch",
-    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-09T15:46:50.000Z",
-    "url": "https://www.deutschlandfunk.de/cherry-town-jakop-ahlbom-inszeniert-in-amsterdam-schostakowitsch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/cherry_town_jakop_ahlbom_inszeniert_in_amsterdam_dlf_20261009_1746_7f7de632.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e56c0cd0-89e2-5f8a-8f42-37be046330a9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Alte Liebe\" - Der neue Film von Andreas Dresen",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-09T15:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/alte-liebe-der-neue-film-von-andreas-dresen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/alte_liebe_der_neue_film_von_andreas_dresen_dlf_20261009_1740_8a7c15c2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -711,56 +761,6 @@
       "Kunst",
       "Geschichte",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-40823287997781954",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Liedermacher und Lyriker Wolf Biermann im Gespräch auf dem Roten Sofa",
-    "summary": "Im November wird er 90. Wir blicken mit ihm auf sein bewegtes und bewegendes Leben zurück und sprechen über neue Projekte.",
-    "date": "2026-10-05T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/liedermacher-und-lyriker-wolf-biermann-im-gespraech-auf-dem-roten-sofa,audio-3519180.html",
-    "image": "https://images.ndr.de/image/f598eb5d-e6b9-4d67-a07a-62bf2fdb8f20/AAABoQz7u9Q/AAABnSStX0g/1x1-big/screenshot-239358.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1006/AU-20261006-0951-2000.mp3",
-    "duration": "35 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-5693614240845116",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Ehrlich, selbstironisch und lässig: Fußballexperte und Autor Christoph Kramer",
-    "summary": "Fußball war sein Leben. Aber schon längst hat er neue Berufungen gefunden: Christoph Kramer ist heute TV-Experte, Podcast-Host und Schriftsteller. Der beliebte Fußballexperte erzählt über das Schreiben und wie es sich anfühlt, erst in den größten Stadien der Welt zu spielen und heute Hallen mit Lesungen zu füllen. Der Weltmeister von 2014 spricht außerdem über besondere Begegnungen mit Menschen und darüber, wie sie unser Leben berühren können. Ehrlich, selbstironisch und lässig: Christoph Kramer auf dem Roten Sofa.",
-    "date": "2026-10-04T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/ehrlich-selbstironisch-und-laessig-fussballexperte-und-autor-christoph-kramer,audio-3516098.html",
-    "image": "https://images.ndr.de/image/75e8945b-d480-4d6e-b654-bc638111c04b/AAABoQgomac/AAABnSStX0g/1x1-big/screenshot-239050.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1004/AU-20261004-2141-5100.mp3",
-    "duration": "38 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   },
