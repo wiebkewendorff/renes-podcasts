@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:16647052-97e0-5cb3-8a50-12cb91192016",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Comeback der CD? - Gespräch mit GfK-Chart-Ermittler Hans Schmucker",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-12T13:24:00.000Z",
+    "url": "https://www.deutschlandfunk.de/comeback-der-cd-gespraech-mit-gfk-chart-ermittler-hans-schmucker-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/comeback_der_cd_gespraech_mit_gfk_chart_ermittler_hans_dlf_20261012_1524_e861ce49.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f022bcef-d0f6-5eab-b4e9-466ccdad482d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neuer Comic \"Irrläufer\" - Der weiße Wal im verdreckten Rhein",
+    "summary": "Hahn, Achim www.deutschlandfunk.de, Corso",
+    "date": "2026-10-12T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neuer-comic-irrlaeufer-der-weisse-wal-im-verdreckten-rhein-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/neuer_comic_irrlaeufer_der_weisse_wal_im_verdreckten_rhein_dlf_20261012_1515_975ee892.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:3c6a55e9-2fe6-56ad-9640-849b7a521029",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Von Fitness zu Faschismus\" - Radikalisierungsexpertin Julia Ebner im Interview",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-12T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/von-fitness-zu-faschismus-radikalisierungsexpertin-julia-ebner-im-interview-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/von_fitness_zu_faschismus_radikalisierungsexpertin_julia_dlf_20261012_1506_2223cbab.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:42431548-12b6-516a-ab21-5093650440cb",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/cool_britannia_die_tate_britain_beschwoert_die_britische_dlf_20261008_1515_4029db74.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4655fb23-9cd0-59b8-a7c4-d44c3462d619",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ein Kebab, der verbindet: Tarik Karas Gemüse-Döner kommt ins Wachsfigurenmuseum",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-10-08T13:05:30.000Z",
-    "url": "https://www.deutschlandfunk.de/ein-kebab-der-verbindet-tarik-karas-gemuese-doener-kommt-ins-wachsfigurenmuseum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/ein_kebab_der_verbindet_tarik_karas_gemuese_doener_kommt_ins_dlf_20261008_1505_cfc6b0e0.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:77bd9abd-594d-5120-a617-7b34d5551611",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "5 Jahre Facebook Files - Was haben wir aus der Social-Media-Enthüllung gelernt?",
-    "summary": "von Gehlen, Dirk; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-10-07T13:15:21.000Z",
-    "url": "https://www.deutschlandfunk.de/5-jahre-facebook-files-was-haben-wir-aus-der-social-media-enthuellung-gelernt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/5_jahre_facebook_files_was_haben_wir_aus_der_social_media_dlf_20261007_1515_3eacecde.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5b5270cf-9456-5dfd-a2ed-82e955ff1101",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme - \"The Social Reckoning\", \"Alte Liebe\", \"Camouflage\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-10-07T13:10:15.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-the-social-reckoning-alte-liebe-camouflage-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/07/neue_filme_the_social_reckoning_alte_liebe_camouflage_dlf_20261007_1510_aa84003c.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:6c4f631c-0c90-551a-b1cb-c919b89c18aa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 12.10.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-12T15:56:43.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/kulturmeldungen_12102026_dlf_20261012_1756_d8145e93.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ea6adfc3-a85b-5562-8f1d-c940a0c2ef8a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Es ist nicht mehr mein Problem...\": Was würde Christoph Schlingensief sagen?",
+    "summary": "Burkhardt, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-12T15:51:50.000Z",
+    "url": "https://www.deutschlandfunk.de/es-ist-nicht-mehr-mein-problem-was-wuerde-christoph-schlingensief-sagen-104.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/es_ist_nicht_mehr_mein_problem_was_wuerde_christoph_dlf_20261012_1751_7d12e852.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f46fbff0-aad3-5098-b400-f63830518008",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Eiszeit-Hamlet. Thomas Köcks \"Hamlet, Sun Off\" in Münster",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-12T15:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/eiszeit-hamlet-thomas-koecks-hamlet-sun-off-in-muenster-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/eiszeit_hamlet_thomas_koecks_hamlet_sun_off_in_muenster_dlf_20261012_1747_1d11df2e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1f7563ae-8e7a-55d2-bc6e-5cfae776755e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Nacht berührt die Erde\": Fritz Winters Kosmos der 1930er und 40er Jahre",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-12T15:41:25.000Z",
+    "url": "https://www.deutschlandfunk.de/die-nacht-beruehrt-die-erde-fritz-winters-kosmos-der-1930er-und-40er-jahre-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/die_nacht_beruehrt_die_erde_fritz_winters_kosmos_der_1930er_dlf_20261012_1741_af10e605.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:2d17d690-19fd-5efc-860c-25f328ce3866",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/kulturmeldungen_10102026_dlf_20261010_1756_c9a03f72.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3b1ad89f-fa8e-5af3-a097-8350768f570a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Recherche übers Scheitern: \"Deutsche Bahn AG\" von Calle Fuhr am Schauspiel Köln",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-10T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/recherche-uebers-scheitern-deutsche-bahn-ag-von-calle-fuhr-am-schauspiel-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/recherche_uebers_scheitern_deutsche_bahn_ag_von_calle_fuhr_dlf_20261010_1752_dea7ae67.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:930b7f45-d6b2-551c-a4ef-13012515221b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Haus zur Sonne\" - Uraufführung des Romans nach Thomas Melle in Hannover",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-10T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/haus-zur-sonne-urauffuehrung-des-romans-nach-thomas-melle-in-hannover-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/haus_zur_sonne_urauffuehrung_des_romans_nach_thomas_melle_in_dlf_20261010_1746_49a51eac.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a75cc203-36da-590c-b472-bf1b030e5096",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nie wieder - Bundeskunsthalle mit Ausstellung gegen Vergessen der NS-Verbrechen",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-10T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nie-wieder-bundeskunsthalle-mit-ausstellung-gegen-vergessen-der-ns-verbrechen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/nie_wieder_bundeskunsthalle_mit_ausstellung_gegen_vergessen_dlf_20261010_1741_2ba3514d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d3322ce5-749d-5530-afbc-dfd7fbe4a931",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ehrengast Tschechien auf der Frankfurter Buchmesse",
-    "summary": "Bonhage, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-10T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/ehrengast-tschechien-auf-der-frankfurter-buchmesse-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/ehrengast_tschechien_auf_der_frankfurter_buchmesse_dlf_20261010_1736_dba2431a.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "theater",
