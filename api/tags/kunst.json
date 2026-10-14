@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:951b3a55-1f13-5308-9f7b-f305599b20c9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 13.10.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-13T15:56:38.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/kulturmeldungen_13102026_dlf_20261013_1756_f52b0de0.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ce561c22-b5a5-5a5b-a9fd-219438ee3ed0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Analytiker der Macht. René Aguigah zum 100. Geb. von Michel Foucault",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-13T15:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/analytiker-der-macht-ren-aguigah-zum-100-geb-von-michel-foucault-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/analytiker_der_macht_rene_aguigah_zum_100_geb_von_michel_dlf_20261013_1746_4329ebbb.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:cf61db87-904f-5193-8734-fd3f9cd91087",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Schön Streng. Die Macht des Ornaments\" - Ausstellung im v. der Heydt Museum",
+    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-13T15:40:39.000Z",
+    "url": "https://www.deutschlandfunk.de/schoen-streng-die-macht-des-ornaments-ausstellung-im-v-der-heydt-museum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/schoen_streng_die_macht_des_ornaments_ausstellung_im_v_der_dlf_20261013_1740_4d282d5e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e108ca71-1598-5a87-8620-ea25bfe99cec",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Luise Bublitz zur Klage der \"Radikalen Töchter\" gegen Förderstopp",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-13T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/luise-bublitz-zur-klage-der-radikalen-toechter-gegen-foerderstopp-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/luise_bublitz_zur_klage_der_radikalen_toechter_gegen_dlf_20261013_1735_0626f818.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8fb18f86-3c14-5770-9ca0-e76c9017ff6d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kinderbuch: Entdecke 100 Jahre Popkultur",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-13T13:25:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kinderbuch-entdecke-100-jahre-popkultur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/kinderbuch_entdecke_100_jahre_popkultur_dlf_20261013_1525_dc86dc20.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:23ae62ce-9a31-55a4-afea-e1943fd0ecfd",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Psychothriller \"Die Falle\" - Friederike Becht über Grusel und Plastikflaschen",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-13T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/psychothriller-die-falle-friederike-becht-ueber-grusel-und-plastikflaschen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/psychothriller_die_falle_friederike_becht_ueber_grusel_und_dlf_20261013_1506_4fad8e1d.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:bf127ffb-5dc9-5579-acfe-6a43a35a3b25",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deutschlands Zukunft als Popmusikstandort",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-10-13T13:05:06.000Z",
+    "url": "https://www.deutschlandfunk.de/deutschlands-zukunft-als-popmusikstandort-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/deutschlands_zukunft_als_popmusikstandort_dlf_20261013_1505_438412a1.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "10-minuten-wissen-kunst:6acd86a365f99a36eb4bd9ec",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -257,110 +436,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:8555981b-357a-572d-91ef-ada2b35f6a1a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"König Lear\" - Manfred Zapatka spielt in Shakespeares Drama am Resi in München",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-11T15:39:59.000Z",
-    "url": "https://www.deutschlandfunk.de/koenig-lear-manfred-zapatka-spielt-in-shakespeares-drama-am-resi-in-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/koenig_lear_manfred_zapatka_spielt_in_shakespeares_drama_am_dlf_20261011_1739_aad2896f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8f2a030a-ed32-5b73-81c4-bbc2801d6085",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mit mehr Leichtigkeit: Die Leseförderung auf der Frankfurter Buchmesse",
-    "summary": "Stövesand, Catrin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-11T15:35:45.000Z",
-    "url": "https://www.deutschlandfunk.de/mit-mehr-leichtigkeit-die-lesefoerderung-auf-der-frankfurter-buchmesse-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/mit_mehr_leichtigkeit_die_lesefoerderung_auf_der_frankfurter_dlf_20261011_1735_f9d0db05.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b3205275-a5b6-57b4-920a-26a166bdcecb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Friedenspreis des Deutschen Buchhandels geht an Philippe Sands",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-11T15:30:35.000Z",
-    "url": "https://www.deutschlandfunk.de/der-friedenspreis-des-deutschen-buchhandels-geht-an-philippe-sands-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/der_friedenspreis_des_deutschen_buchhandels_geht_an_philippe_dlf_20261011_1730_76cf4bc3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a45ef1e2-8088-59fd-9956-024c4c07ae05",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 10.10.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-10T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/kulturmeldungen_10102026_dlf_20261010_1756_c9a03f72.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:42431548-12b6-516a-ab21-5093650440cb",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -447,81 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/incel_true_crime_kult_wie_die_manosphere_im_netz_femizide_dlf_20261009_1515_892f742b.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e3d938dd-ecb6-515c-9dc1-6f04ec5bd26e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Festival Nürnberg Pop - Wie viel KI steckt in unserer Musik?",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-10-09T13:05:24.000Z",
-    "url": "https://www.deutschlandfunk.de/festival-nuernberg-pop-wie-viel-ki-steckt-in-unserer-musik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/festival_nuernberg_pop_wie_viel_ki_steckt_in_unserer_musik_dlf_20261009_1505_16ec91a3.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:3f57c801-afc1-5c4a-a998-092be17e5a17",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Festival of Animation Berlin: Wenn Stoppmotion-Filme die KI ausbremsen",
-    "summary": "Djukic, Pia; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-10-08T13:21:06.000Z",
-    "url": "https://www.deutschlandfunk.de/festival-of-animation-berlin-wenn-stoppmotion-filme-die-ki-ausbremsen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/festival_of_animation_berlin_wenn_stoppmotion_filme_die_ki_dlf_20261008_1521_14ce9846.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d8d16b54-a984-51a0-9c76-f9d1cc1cc1fc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Cool Britannia: Die Tate Britain beschwört die britische Popkultur der 90er",
-    "summary": "Hoppen, Franziska www.deutschlandfunk.de, Corso",
-    "date": "2026-10-08T13:15:17.000Z",
-    "url": "https://www.deutschlandfunk.de/cool-britannia-die-tate-britain-beschwoert-die-britische-popkultur-der-90er-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/cool_britannia_die_tate_britain_beschwoert_die_britische_dlf_20261008_1515_4029db74.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",
