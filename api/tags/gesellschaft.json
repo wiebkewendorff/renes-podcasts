@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:0eee5224-d2cb-512b-9e1e-24e38d5fe1dc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Machen Schönheitseingriffe die Schauspielerei kaputt?",
+    "summary": "von Hirsch, Mia www.deutschlandfunk.de, Corso",
+    "date": "2026-10-14T13:25:00.000Z",
+    "url": "https://www.deutschlandfunk.de/machen-schoenheitseingriffe-die-schauspielerei-kaputt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/machen_schoenheitseingriffe_die_schauspielerei_kaputt_dlf_20261014_1525_e6afd60c.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:85a6ca33-cabd-5d53-a4e3-dca08c845921",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Call Me Queen\", \"London\", \"Heimsuchung - eine Jahrhundertgeschichte",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-10-14T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-call-me-queen-london-heimsuchung-eine-jahrhundertgeschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/neue_filme_call_me_queen_london_heimsuchung_eine_dlf_20261014_1515_82aded5d.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:9d758c30-540a-5983-aa4a-2bbfe0772728",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Film \"Camouflage\" - Wenn die neue Heimat die alte Familie fremd macht",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-14T13:06:07.000Z",
+    "url": "https://www.deutschlandfunk.de/film-camouflage-wenn-die-neue-heimat-die-alte-familie-fremd-macht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/film_camouflage_wenn_die_neue_heimat_die_alte_familie_fremd_dlf_20261014_1506_b63cdc06.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4037704",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -312,81 +387,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/gitarrenrock_ohne_nostalgie_wishy_mit_dem_album_natures_pill_dlf_20261010_1540_0c5e3864.mp3?refId=corso-104",
     "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:150746c4-d5b6-5e8e-aca8-7ff15ec5d2b0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das Leben als große Party: Troye Sivan und \"She's The Best\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-10T13:22:00.000Z",
-    "url": "https://www.deutschlandfunk.de/das-leben-als-grosse-party-troye-sivan-und-she-s-the-best-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/das_leben_als_grosse_party_troye_sivan_und_shes_the_best_dlf_20261010_1522_6557de09.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:91d41d0b-b5c6-55ff-8ff2-72ea697301bb",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kaputte Musik für kaputte Zeiten: Bilderbuch mit \"∞+1\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-10-10T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kaputte-musik-fuer-kaputte-zeiten-bilderbuch-mit-1-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/kaputte_musik_fuer_kaputte_zeiten_bilderbuch_mit_+1_dlf_20261010_1510_da53f227.mp3?refId=corso-104",
-    "duration": "14 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:60726606-62e3-5ffb-96f9-e1f0e0d2b166",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Incel-True-Crime-Kult - Wie die \"Manosphere\" im Netz Femizide feiert",
-    "summary": "Rocholl, Lena www.deutschlandfunk.de, Corso",
-    "date": "2026-10-09T13:15:31.000Z",
-    "url": "https://www.deutschlandfunk.de/incel-true-crime-kult-wie-die-manosphere-im-netz-femizide-feiert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/incel_true_crime_kult_wie_die_manosphere_im_netz_femizide_dlf_20261009_1515_892f742b.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",

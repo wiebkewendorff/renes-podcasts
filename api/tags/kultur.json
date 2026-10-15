@@ -1,5 +1,235 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-9696902116516701",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Blicken auf 25 Jahre No Angels: Jessica Wahls und Lucy Diakovska",
+    "summary": "Was im Jahr 2000 mit einer Castingshow im Privatfernsehen begann, ist ein Vierteljahrhundert später noch nicht beendet. Im Laufe der Jahre erlebte die Popgruppe \"No Angels\" einen ungeahnten Aufstieg, persönliche Rückschläge - aber auch immer wieder Comebacks. Auf dem Roten Sofa werden Lucy Diakovska und Jessica Wahls von wilden Zeiten berichten, die sie gemeinsam mit Nadja Benaissa und Sandy Mölling durchlebten. Anlass des Besuchs ist die Dokumentation \"No Angels - Das sind wir\", die ab dem 14. Oktober in der ARD-Mediathek abrufbar ist.",
+    "date": "2026-10-14T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/blicken-auf-25-jahre-no-angels-jessica-wahls-und-lucy-diakovska,audio-3536756.html",
+    "image": "https://images.ndr.de/image/d4f96b0d-065e-4e36-93eb-0ccf0a4ccef5/AAABoTuwJVg/AAABnSStX0g/1x1-big/screenshot-244474.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1014/AU-20261014-2054-5000.mp3",
+    "duration": "37 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f35f96b2-ae32-53e4-9a8f-438d25337330",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 14.10.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/kulturmeldungen_14102026_dlf_20261014_1756_4a35a396.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:34e54ea6-c27a-56a4-82c8-5574a851f7c4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schauspieler verlassen das Theater Osnabrück",
+    "summary": "Degen, Silas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:52:52.000Z",
+    "url": "https://www.deutschlandfunk.de/schauspieler-verlassen-das-theater-osnabrueck-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/schauspieler_verlassen_das_theater_osnabrueck_dlf_20261014_1752_2e396ed1.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7c444862-9e59-5029-b3ee-8396b3d5c896",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Anselm Kiefer: Alles was der Fall ist\" - Ausstellung in der Kunsthalle Würth",
+    "summary": "Langen, Andreas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:47:05.000Z",
+    "url": "https://www.deutschlandfunk.de/anselm-kiefer-alles-was-der-fall-ist-ausstellung-in-der-kunsthalle-wuerth-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/anselm_kiefer_alles_was_der_fall_ist_ausstellung_in_der_dlf_20261014_1747_5638cb78.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:05a565f7-4ae6-518b-be91-c54b11da1622",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Barbara Kruger in der Bourse de Commerce",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:42:46.000Z",
+    "url": "https://www.deutschlandfunk.de/barbara-kruger-in-der-bourse-de-commerce-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/barbara_kruger_in_der_bourse_de_commerce_dlf_20261014_1742_ef37960e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2253a760-1e91-5484-9538-e539de9cbe80",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Alles ist möglich! Blätterrauschen beim Literarischen Herbst Leipzig",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/alles-ist-moeglich-blaetterrauschen-beim-literarischen-herbst-leipzig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/alles_ist_moeglich_blaetterrauschen_beim_literarischen_dlf_20261014_1736_2e36bcd9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0eee5224-d2cb-512b-9e1e-24e38d5fe1dc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Machen Schönheitseingriffe die Schauspielerei kaputt?",
+    "summary": "von Hirsch, Mia www.deutschlandfunk.de, Corso",
+    "date": "2026-10-14T13:25:00.000Z",
+    "url": "https://www.deutschlandfunk.de/machen-schoenheitseingriffe-die-schauspielerei-kaputt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/machen_schoenheitseingriffe_die_schauspielerei_kaputt_dlf_20261014_1525_e6afd60c.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:85a6ca33-cabd-5d53-a4e3-dca08c845921",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Call Me Queen\", \"London\", \"Heimsuchung - eine Jahrhundertgeschichte",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-10-14T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-call-me-queen-london-heimsuchung-eine-jahrhundertgeschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/neue_filme_call_me_queen_london_heimsuchung_eine_dlf_20261014_1515_82aded5d.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:9d758c30-540a-5983-aa4a-2bbfe0772728",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Film \"Camouflage\" - Wenn die neue Heimat die alte Familie fremd macht",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-14T13:06:07.000Z",
+    "url": "https://www.deutschlandfunk.de/film-camouflage-wenn-die-neue-heimat-die-alte-familie-fremd-macht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/film_camouflage_wenn_die_neue_heimat_die_alte_familie_fremd_dlf_20261014_1506_b63cdc06.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-5965641233001565",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -333,84 +563,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:ea6adfc3-a85b-5562-8f1d-c940a0c2ef8a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Es ist nicht mehr mein Problem...\": Was würde Christoph Schlingensief sagen?",
-    "summary": "Burkhardt, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-12T15:51:50.000Z",
-    "url": "https://www.deutschlandfunk.de/es-ist-nicht-mehr-mein-problem-was-wuerde-christoph-schlingensief-sagen-104.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/es_ist_nicht_mehr_mein_problem_was_wuerde_christoph_dlf_20261012_1751_7d12e852.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f46fbff0-aad3-5098-b400-f63830518008",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Eiszeit-Hamlet. Thomas Köcks \"Hamlet, Sun Off\" in Münster",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-12T15:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/eiszeit-hamlet-thomas-koecks-hamlet-sun-off-in-muenster-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/eiszeit_hamlet_thomas_koecks_hamlet_sun_off_in_muenster_dlf_20261012_1747_1d11df2e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1f7563ae-8e7a-55d2-bc6e-5cfae776755e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Nacht berührt die Erde\": Fritz Winters Kosmos der 1930er und 40er Jahre",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-12T15:41:25.000Z",
-    "url": "https://www.deutschlandfunk.de/die-nacht-beruehrt-die-erde-fritz-winters-kosmos-der-1930er-und-40er-jahre-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/die_nacht_beruehrt_die_erde_fritz_winters_kosmos_der_1930er_dlf_20261012_1741_af10e605.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:16647052-97e0-5cb3-8a50-12cb91192016",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -511,58 +663,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:2d17d690-19fd-5efc-860c-25f328ce3866",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geschichte der Gewalt. Amerikanistin B.Buchenau zu angekündigter US-Exekution",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-11T15:50:10.000Z",
-    "url": "https://www.deutschlandfunk.de/geschichte-der-gewalt-amerikanistin-b-buchenau-zu-angekuendigter-us-exekution-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/geschichte_der_gewalt_amerikanistin_bbuchenau_zu_dlf_20261011_1750_e2ddca2b.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2f298cc6-a3e2-589a-a52b-b135302f44f1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kann Kunst zum Kampf gegen den Klimawandel motivieren? Ein Besuch in Oulu",
-    "summary": "Bathke, Benjamin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-11T15:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kann-kunst-zum-kampf-gegen-den-klimawandel-motivieren-ein-besuch-in-oulu-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/kann_kunst_zum_kampf_gegen_den_klimawandel_motivieren_ein_dlf_20261011_1745_3ed3ecb7.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-5235131615987636",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -613,56 +713,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:150746c4-d5b6-5e8e-aca8-7ff15ec5d2b0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das Leben als große Party: Troye Sivan und \"She's The Best\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-10T13:22:00.000Z",
-    "url": "https://www.deutschlandfunk.de/das-leben-als-grosse-party-troye-sivan-und-she-s-the-best-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/das_leben_als_grosse_party_troye_sivan_und_shes_the_best_dlf_20261010_1522_6557de09.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:91d41d0b-b5c6-55ff-8ff2-72ea697301bb",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kaputte Musik für kaputte Zeiten: Bilderbuch mit \"∞+1\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-10-10T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kaputte-musik-fuer-kaputte-zeiten-bilderbuch-mit-1-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/kaputte_musik_fuer_kaputte_zeiten_bilderbuch_mit_+1_dlf_20261010_1510_da53f227.mp3?refId=corso-104",
-    "duration": "14 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-3779418245519699",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -674,56 +724,6 @@
     "image": "https://images.ndr.de/image/bf4550b9-c9e5-474c-b88d-53e1d346eb5a/AAABoSHuYyU/AAABnSStX0g/1x1-big/screenshot-242240.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1009/AU-20261009-2003-0600.mp3",
     "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:60726606-62e3-5ffb-96f9-e1f0e0d2b166",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Incel-True-Crime-Kult - Wie die \"Manosphere\" im Netz Femizide feiert",
-    "summary": "Rocholl, Lena www.deutschlandfunk.de, Corso",
-    "date": "2026-10-09T13:15:31.000Z",
-    "url": "https://www.deutschlandfunk.de/incel-true-crime-kult-wie-die-manosphere-im-netz-femizide-feiert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/09/incel_true_crime_kult_wie_die_manosphere_im_netz_femizide_dlf_20261009_1515_892f742b.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-8013022774965547",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Auf den Spuren von Heinrich Heine: Autor Steffen Kopetzky",
-    "summary": "Steffen Kopetzky zählt zu den herausragenden Vertretern der zeitgenössischen deutschen Literatur, bekannt für seine akribisch recherchierten historischen Romane. Für sein neuestes Werk \"Harzreise\" wandelt er auf den Spuren des berühmten Literaten Heinrich Heine und verzahnt diese mit der Gegenwart. Sein Weg führt ihn von Niedersachen nach Sachsen-Anhalt. Ob er müde Beine hatte, wo er \"blühende Landschaften\" gefunden hat und was er auf seiner Wanderung durch den Harz noch alles erlebt hat, erzählt er auf dem Roten Sofa.",
-    "date": "2026-10-08T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/auf-spuren-von-heinrich-heine-autor-steffen-kopetzky,audio-3525780.html",
-    "image": "https://images.ndr.de/image/555c49fe-e354-4668-ac4e-82e4a8eb81df/AAABoRzMvRg/AAABnSStX0g/1x1-big/screenshot-241578.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1009/AU-20261009-0745-1400.mp3",
-    "duration": "34 Min",
     "tags": [
       "beatles",
       "popgeschichte",

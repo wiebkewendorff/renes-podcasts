@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:f35f96b2-ae32-53e4-9a8f-438d25337330",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 14.10.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/kulturmeldungen_14102026_dlf_20261014_1756_4a35a396.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:34e54ea6-c27a-56a4-82c8-5574a851f7c4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schauspieler verlassen das Theater Osnabrück",
+    "summary": "Degen, Silas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:52:52.000Z",
+    "url": "https://www.deutschlandfunk.de/schauspieler-verlassen-das-theater-osnabrueck-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/schauspieler_verlassen_das_theater_osnabrueck_dlf_20261014_1752_2e396ed1.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7c444862-9e59-5029-b3ee-8396b3d5c896",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Anselm Kiefer: Alles was der Fall ist\" - Ausstellung in der Kunsthalle Würth",
+    "summary": "Langen, Andreas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:47:05.000Z",
+    "url": "https://www.deutschlandfunk.de/anselm-kiefer-alles-was-der-fall-ist-ausstellung-in-der-kunsthalle-wuerth-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/anselm_kiefer_alles_was_der_fall_ist_ausstellung_in_der_dlf_20261014_1747_5638cb78.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:05a565f7-4ae6-518b-be91-c54b11da1622",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Barbara Kruger in der Bourse de Commerce",
+    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:42:46.000Z",
+    "url": "https://www.deutschlandfunk.de/barbara-kruger-in-der-bourse-de-commerce-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/barbara_kruger_in_der_bourse_de_commerce_dlf_20261014_1742_ef37960e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2253a760-1e91-5484-9538-e539de9cbe80",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Alles ist möglich! Blätterrauschen beim Literarischen Herbst Leipzig",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-14T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/alles-ist-moeglich-blaetterrauschen-beim-literarischen-herbst-leipzig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/alles_ist_moeglich_blaetterrauschen_beim_literarischen_dlf_20261014_1736_2e36bcd9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:951b3a55-1f13-5308-9f7b-f305599b20c9",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/kulturmeldungen_12102026_dlf_20261012_1756_d8145e93.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ea6adfc3-a85b-5562-8f1d-c940a0c2ef8a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Es ist nicht mehr mein Problem...\": Was würde Christoph Schlingensief sagen?",
-    "summary": "Burkhardt, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-12T15:51:50.000Z",
-    "url": "https://www.deutschlandfunk.de/es-ist-nicht-mehr-mein-problem-was-wuerde-christoph-schlingensief-sagen-104.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/es_ist_nicht_mehr_mein_problem_was_wuerde_christoph_dlf_20261012_1751_7d12e852.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f46fbff0-aad3-5098-b400-f63830518008",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Eiszeit-Hamlet. Thomas Köcks \"Hamlet, Sun Off\" in Münster",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-12T15:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/eiszeit-hamlet-thomas-koecks-hamlet-sun-off-in-muenster-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/eiszeit_hamlet_thomas_koecks_hamlet_sun_off_in_muenster_dlf_20261012_1747_1d11df2e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1f7563ae-8e7a-55d2-bc6e-5cfae776755e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Nacht berührt die Erde\": Fritz Winters Kosmos der 1930er und 40er Jahre",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-12T15:41:25.000Z",
-    "url": "https://www.deutschlandfunk.de/die-nacht-beruehrt-die-erde-fritz-winters-kosmos-der-1930er-und-40er-jahre-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/die_nacht_beruehrt_die_erde_fritz_winters_kosmos_der_1930er_dlf_20261012_1741_af10e605.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2d17d690-19fd-5efc-860c-25f328ce3866",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geschichte der Gewalt. Amerikanistin B.Buchenau zu angekündigter US-Exekution",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-11T15:50:10.000Z",
-    "url": "https://www.deutschlandfunk.de/geschichte-der-gewalt-amerikanistin-b-buchenau-zu-angekuendigter-us-exekution-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/geschichte_der_gewalt_amerikanistin_bbuchenau_zu_dlf_20261011_1750_e2ddca2b.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2f298cc6-a3e2-589a-a52b-b135302f44f1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kann Kunst zum Kampf gegen den Klimawandel motivieren? Ein Besuch in Oulu",
-    "summary": "Bathke, Benjamin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-11T15:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kann-kunst-zum-kampf-gegen-den-klimawandel-motivieren-ein-besuch-in-oulu-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/11/kann_kunst_zum_kampf_gegen_den_klimawandel_motivieren_ein_dlf_20261011_1745_3ed3ecb7.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

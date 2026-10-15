@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:e9dd44aadfaa7d3969bae745fa7c2b94",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Gegen Spott und Anfeindungen: Der erste Frauenfußballverein",
+    "summary": "<p>Lotte Specht (geb. 15.10.1911) will nicht länger nur zusehen. Also gründet sie 1930 ihren eigenen Fußballverein nur für Frauen - 40 Jahre, bevor der DFB Frauenfußball erlaubt.\n</p><br><br><p><strong>In diesem Zeitzeichen erzählt Jana Fischer:</strong><br><ul><li>warum Frauenfußball 1930 für manche als \"Gaudi\" gilt.</li><li>wie ein Nationaltorwart den Frauen mit seinem eigenen Trikot aushilft,</li><li>warum Lotte Spechts Vater von ihrer Vereinsgründung nicht begeistert ist,</li><li>von ihrer Karriere abseits des Fußballplatzes,</li><li>von \"Equal Play\" und \"Equal Pay\".</li></ul><br>Fast eine Million Frauen und Mädchen in Deutschland spielen heute Fußball im Verein. Aber der Weg dahin war lang. Und er beginnt mit einer fußballbegeisterten Metzgerstochter aus Frankfurt. Lotte Specht, geboren am 15. Oktober 1911, gründet mit nur 18 Jahren den ersten deutschen Damenfußballclub. Die jungen Frauen trainieren auf einer Wiese, spielen mangels Gegnerinnen gegeneinander und müssen Spott und Anfeindungen ertragen.<br><br>Nach nur anderthalb Jahren löst sich der Verein wieder auf. Auch danach bleibt Frauenfußball in Deutschland lange unerwünscht, 1955 verbietet ihn der DFB sogar offiziell. Erst 1970 fällt das Verbot. Seitdem hat sich viel verändert - gleiche Chancen für alle aber gibt es noch immer nicht.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Martina Knief, Sportjournalistin beim Hessischen Rundfunk und Autorin eines Buchs über Frauenfußball</li><li>Sarah Sorge, Co-Vorsitzende des Lotte Specht e.V.</li><li>Martina Knief: Kampf um Anerkennung. Wie der Frauenfußball in Hessen groß wurde. Frankfurt a. M. 2026</li><li>Axel Hofmann: Die Geschichte des Frauenfußballs bei Eintracht Frankfurt. Frankfurt a. M. 2025</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Interview mit Martina Knief im HR - <a href=\"https://www.hr2.de/podcasts/fussballpionierin-lotte-specht-hat-gesagt-was-die-maenner-koennen-koennen-wir-auch,audio-119688.html\" rel=\"noopener\" target=\"_blank\">\"Fußballpionierin Lotte Specht hat gesagt: Was die Männer können, können wir auch\"</a></li><li>ARD-Doku: <a href=\"https://www.ardmediathek.de/video/maedchen-koennen-kein-fussball-spielen/maedchen-koennen-kein-fussball-spielen/ard/Y3JpZDovL3JiYl8wYmVlNGQwYy1hNTk0LTQxYjAtOWViMC0yYWQ5MzVlNDkwODJfcHVibGljYXRpb24\" rel=\"noopener\" target=\"_blank\">Mädchen können kein Fußball spielen</a></li><li>COSMO Lost Sheroes: <a href=\"https://www1.wdr.de/mediathek/audio/cosmo/lost-sheroes/audio-heldinnen-des-fussballs---vom-underground-zur-weltspitze-102.html\" rel=\"noopener\" target=\"_blank\">Heldinnen des Fußballs - Vom Underground zur Weltspitze</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Jana Fischer<br>Redaktion: Carolin Rückl und Sefa Inci Suvak",
+    "date": "2026-10-15T04:00:29.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-gegen-spott-und-anfeindungen-der-erste-frauenfussballverein-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/lotte-specht-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/08/f62aab50-3140-42a5-9296-b1e9c09e37cf/f62aab50-3140-42a5-9296-b1e9c09e37cf_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:f0aa4d207be0a943c0cace7419688fc8",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -221,29 +244,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-william-tyndale-gegen-die-kirche-der-kampf-um-das-wort-gottes-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-william-tyndale-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/01/738017ed-939c-4ab1-9de0-d305145b2f4d/738017ed-939c-4ab1-9de0-d305145b2f4d_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:e7ef5295b8fd2422bc69d25356956d29",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "In der Verzweiflung oft der letzte Halt: die Telefonseelsorge",
-    "summary": "<p>Am 5. Oktober 1956 klingelt in West-Berlin erstmals das Telefon einer \"Lebensmüdenbetreung\". Aus der privaten Initiative eines Ehepaars wird ein bundesweites Gesprächsangebot für Menschen in Lebenskrisen.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Uwe Schulz:</strong><br><ul><li>wie sich die Telefonseelsorge in den vergangenen 70 Jahren verändert hat,</li><li>warum zuhören manchmal schon helfen kann,</li><li>auf welchen Wegen man die Telefonseelsorge heute erreicht,</li><li>ob KI menschliches Zuhören ersetzen kann,</li><li>wie die Zukunft der Telefonseelsorge aussehen könnte.</li></ul><br>1956 ist Deutschland noch von den Folgen des Kriegs geprägt. Viele Menschen sind einsam, verzweifelt oder wissen nicht, mit wem sie über ihre Sorgen sprechen können. In Berlin entscheidet sich ein Ehepaar deshalb am 5. Oktober, die eigene Telefonnummer zu veröffentlichen und zuzuhören. Aus ihrer kleinen \"Lebensmüdenbetreuung\" genannten Initiative wird schnell ein bundesweites Angebot, das heute rund um die Uhr per Telefon, Mail und Chat erreichbar ist.<br><br>Mit der Zeit ändern sich die Themen, aber eine Sache bleibt: Menschen brauchen jemanden, der ihnen zuhört. Dennoch steht die Telefonseelsorge 70 Jahre später vor neuen Herausforderungen - Stichwort KI und digitale Welt. Zudem fehlen Geld und Ehrenamtliche. Doch noch geht ihre Erfolgsgeschichte weiter. Und so wird sie wohl auch in Zukunft noch zahlreichen Menschen neuen Lebensmut geben. <br><br>Wenn ihr selbst von Depressionen, Suizidgedanken oder anderen psychischen Belastungen betroffen seid, findet ihr Hilfe und Beratungsangebote auf der WDR-Hilfeseite: <a href=\"https://www1.wdr.de/radio/1live/on-air/hilfe/index.html\" rel=\"noopener\" target=\"_blank\">Hilfe bei Sucht, Ängsten und Probleme</a>n<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Frank Ertel, Leiter der Telefonseelsorge Aachen</li><li>Udo Grashoff, Historiker und Autor</li><li>Heidrun Wiese, Psychologin</li><li>Frank Ertel, Christian Klein, Ute Lohmann, Detlev Prößdorf: Gespräche auf den Punkt. Impulse für zielorientierte Gespräche. Göttingen 2023</li><li>Eberhard Hauschildt, Bernd D. Blömeke (Hg.): Telefonseelsorge interdisziplinär. Göttingen 2016</li></ul><br><ul><li><strong>Weiterführende Links:</strong></li><li>evangelisch.de: <a href=\"https://www.evangelisch.de/inhalte/112618/31-01-2015\" rel=\"noopener\" target=\"_blank\">Pfarrer Thomas und seine \"Lebensmüdenbetreuung\"</a></li><li>NDR: <a href=\"https://www.ndr.de/kirche/katholische-seelsorge-mit-ki-bruder-david-als-chatbot,kuenstlicheintelligenz-100.html\" rel=\"noopener\" target=\"_blank\">Katholische Seelsorge mit KI - Bruder David als Chatbot</a></li><li>Deutschlandfunk: <a href=\"https://www.deutschlandfunk.de/telefonseelsorge-das-ohr-am-volk-100.html?utm_source=chatgpt.com\" rel=\"noopener\" target=\"_blank\">Telefonseelsorge - Das Ohr am Volk</a></li></ul><strong>Unser Hörtipp:</strong> <br><ul><li>ARD Sounds: <a href=\"https://www.ardsounds.de/sendung/wie-wir-ticken-euer-psychologie-podcast/urn:ard:show:be34348e7e107ac6/\" rel=\"noopener\" target=\"_blank\">Wie wir ticken - Euer Psychologie Podcast</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br><br>Autor: Uwe Schulz<br>Redaktion: Christoph Tiegel und Matti Hesse",
-    "date": "2026-10-05T04:00:54.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-in-der-verzweiflung-oft-der-letzte-halt-die-telefonseelsorge-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-telefonseelsorge-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/30/b7f45496-05b8-42cf-a131-945ceda27b5b/b7f45496-05b8-42cf-a131-945ceda27b5b_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
