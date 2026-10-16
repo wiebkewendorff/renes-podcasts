@@ -1,5 +1,235 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-3809585031026952",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Jonas Hummels über die Doku \"Tatort Jugendfußball\"",
+    "summary": "In seiner ZDF-Doku \"Tatort Jugendfußball\" deckt er gravierende Missbrauchsfälle im Nachwuchsfußball auf und gibt Betroffenen eine Stimme.",
+    "date": "2026-10-15T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/jonas-hummels-ueber-die-doku-tatort-jugendfussball,audio-3538998.html",
+    "image": "https://images.ndr.de/image/4f8072b1-9a56-4819-a40f-4e3607958ee4/AAABoUDMGo8/AAABnSStX0g/1x1-big/screenshot-245086.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1015/AU-20261015-2052-0500.mp3",
+    "duration": "36 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1bb6bb39-d8c1-56e2-807c-afd3e0ec47fa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 15.10.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:56:22.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/kulturmeldungen_15102026_dlf_20261015_1756_205f15af.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:df2162d0-5245-5403-9f87-42e1c9e74764",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lateinamerikanisches Literaturfestival Barrio Bairro Berlin",
+    "summary": "Eglau, Victoria www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:52:29.000Z",
+    "url": "https://www.deutschlandfunk.de/lateinamerikanisches-literaturfestival-barrio-bairro-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/lateinamerikanisches_literaturfestival_barrio_bairro_berlin_dlf_20261015_1752_8f623230.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c29f05f2-4c65-5e12-b7bc-50d8997e68d4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kampf gegen AIDS - Emily Atefs neuer Spielfilm \"Call Me Queen\"",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:47:38.000Z",
+    "url": "https://www.deutschlandfunk.de/kampf-gegen-aids-emily-atefs-neuer-spielfilm-call-me-queen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/kampf_gegen_aids_emily_atefs_neuer_spielfilm_call_me_queen_dlf_20261015_1747_5b657fe7.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f70c0c7a-57b9-50b4-b460-6775c7bbbf23",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Umstrittene Verwandtschaft\" - Koloniale und nationalsoz. Gewalt im DHM Berlin",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/umstrittene-verwandtschaft-koloniale-und-nationalsoz-gewalt-im-dhm-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/umstrittene_verwandtschaft_koloniale_und_nationalsoz_gewalt_dlf_20261015_1741_916a298c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:65fbf7d0-a046-5c93-afbd-452e213187d3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Leere Regale - Verkaufsstopp von Sally Rooneys Büchern in Großbritannien",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:36:19.000Z",
+    "url": "https://www.deutschlandfunk.de/leere-regale-verkaufsstopp-von-sally-rooneys-buechern-in-grossbritannien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/leere_regale_verkaufsstopp_von_sally_rooneys_buechern_in_dlf_20261015_1736_1d6f1d5a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:92ce8ba3-1a2e-5e2a-acd8-21fd5f531c72",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Horrorboom als Serie - \"Crystal Lake\" erzählt \"Freitag der 13. \"-Vorgeschichte",
+    "summary": "Harrabi, Kais www.deutschlandfunk.de, Corso",
+    "date": "2026-10-15T13:15:18.000Z",
+    "url": "https://www.deutschlandfunk.de/horrorboom-als-serie-crystal-lake-erzaehlt-freitag-der-13-vorgeschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/horrorboom_als_serie_crystal_lake_erzaehlt_freitag_der_13_dlf_20261015_1515_c9f7d801.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fd1c5e45-21b4-51bf-9d14-7e987972840e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "100 Jahre Foucault - Wie der Philosoph den Pop geprägt hat",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-15T13:15:12.000Z",
+    "url": "https://www.deutschlandfunk.de/100-jahre-foucault-wie-der-philosoph-den-pop-gepraegt-hat-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/100_jahre_foucault_wie_der_philosoph_den_pop_gepraegt_hat_dlf_20261015_1515_0af5e77d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:996051a4-177a-51de-b795-d80ee5751be4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schulproteste in Frankreich - Neue Ästhetiken des Widerstandes?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-15T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/schulproteste-in-frankreich-neue-aesthetiken-des-widerstandes-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/schulproteste_in_frankreich_neue_aesthetiken_des_dlf_20261015_1506_0d9f5c04.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-9696902116516701",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -255,110 +485,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:951b3a55-1f13-5308-9f7b-f305599b20c9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 13.10.2026",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:56:38.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/kulturmeldungen_13102026_dlf_20261013_1756_f52b0de0.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ce561c22-b5a5-5a5b-a9fd-219438ee3ed0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Analytiker der Macht. René Aguigah zum 100. Geb. von Michel Foucault",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/analytiker-der-macht-ren-aguigah-zum-100-geb-von-michel-foucault-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/analytiker_der_macht_rene_aguigah_zum_100_geb_von_michel_dlf_20261013_1746_4329ebbb.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cf61db87-904f-5193-8734-fd3f9cd91087",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Schön Streng. Die Macht des Ornaments\" - Ausstellung im v. der Heydt Museum",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:40:39.000Z",
-    "url": "https://www.deutschlandfunk.de/schoen-streng-die-macht-des-ornaments-ausstellung-im-v-der-heydt-museum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/schoen_streng_die_macht_des_ornaments_ausstellung_im_v_der_dlf_20261013_1740_4d282d5e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e108ca71-1598-5a87-8620-ea25bfe99cec",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Luise Bublitz zur Klage der \"Radikalen Töchter\" gegen Förderstopp",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/luise-bublitz-zur-klage-der-radikalen-toechter-gegen-foerderstopp-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/luise_bublitz_zur_klage_der_radikalen_toechter_gegen_dlf_20261013_1735_0626f818.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:8fb18f86-3c14-5770-9ca0-e76c9017ff6d",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -537,32 +663,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:6c4f631c-0c90-551a-b1cb-c919b89c18aa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 12.10.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-12T15:56:43.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/kulturmeldungen_12102026_dlf_20261012_1756_d8145e93.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:16647052-97e0-5cb3-8a50-12cb91192016",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -574,56 +674,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/comeback_der_cd_gespraech_mit_gfk_chart_ermittler_hans_dlf_20261012_1524_e861ce49.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f022bcef-d0f6-5eab-b4e9-466ccdad482d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neuer Comic \"Irrläufer\" - Der weiße Wal im verdreckten Rhein",
-    "summary": "Hahn, Achim www.deutschlandfunk.de, Corso",
-    "date": "2026-10-12T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neuer-comic-irrlaeufer-der-weisse-wal-im-verdreckten-rhein-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/neuer_comic_irrlaeufer_der_weisse_wal_im_verdreckten_rhein_dlf_20261012_1515_975ee892.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:3c6a55e9-2fe6-56ad-9640-849b7a521029",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Von Fitness zu Faschismus\" - Radikalisierungsexpertin Julia Ebner im Interview",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-12T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/von-fitness-zu-faschismus-radikalisierungsexpertin-julia-ebner-im-interview-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/von_fitness_zu_faschismus_radikalisierungsexpertin_julia_dlf_20261012_1506_2223cbab.mp3?refId=corso-104",
-    "duration": "10 Min",
     "tags": [
       "kultur",
       "pop",
@@ -673,56 +723,6 @@
     "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/widmet-sich-der-gesunden-kueche-tv-koch-johann-lafer,audio-3530212.html",
     "image": "https://images.ndr.de/image/567798c5-ef72-4652-ae34-d3e52844429f/AAABoSc2MHM/AAABnSStX0g/1x1-big/screenshot-242624.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1011/AU-20261011-2147-1000.mp3",
-    "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:42431548-12b6-516a-ab21-5093650440cb",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gitarrenrock ohne Nostalgie: Wishy mit dem Album \"Nature’s Pill\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-10-10T13:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gitarrenrock-ohne-nostalgie-wishy-mit-dem-album-nature-s-pill-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/gitarrenrock_ohne_nostalgie_wishy_mit_dem_album_natures_pill_dlf_20261010_1540_0c5e3864.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-3779418245519699",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Heinz Galling und Horst Hennings von \"Rute raus, der Spaß beginnt!\"",
-    "summary": "\"Rute raus, der Spaß beginnt!\" - seit 15 Jahren ist diese Angelsendung ein festes und geliebtes Stück norddeutscher Fernsehkultur im NDR. Und ohne sie ist das Erfolgsformat undenkbar: Heinz Galling und Horst Hennings, die gemeinsam die schönsten Angelreviere Norddeutschlands und ganz Europas erkunden. Über das Angeln, ihre jahrelange Freundschaft und ihre beliebte Sendund erzählen Heinz Galling und Horst Hennings auf dem Roten Sofa.",
-    "date": "2026-10-09T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/heinz-galling-und-horst-hennings-von-rute-raus-der-spass-beginnt,audio-3527598.html",
-    "image": "https://images.ndr.de/image/bf4550b9-c9e5-474c-b88d-53e1d346eb5a/AAABoSHuYyU/AAABnSStX0g/1x1-big/screenshot-242240.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1009/AU-20261009-2003-0600.mp3",
     "duration": "40 Min",
     "tags": [
       "beatles",

@@ -1,5 +1,237 @@
 [
   {
+    "id": "dlf-kultur-heute:1bb6bb39-d8c1-56e2-807c-afd3e0ec47fa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 15.10.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:56:22.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/kulturmeldungen_15102026_dlf_20261015_1756_205f15af.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:df2162d0-5245-5403-9f87-42e1c9e74764",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lateinamerikanisches Literaturfestival Barrio Bairro Berlin",
+    "summary": "Eglau, Victoria www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:52:29.000Z",
+    "url": "https://www.deutschlandfunk.de/lateinamerikanisches-literaturfestival-barrio-bairro-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/lateinamerikanisches_literaturfestival_barrio_bairro_berlin_dlf_20261015_1752_8f623230.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c29f05f2-4c65-5e12-b7bc-50d8997e68d4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kampf gegen AIDS - Emily Atefs neuer Spielfilm \"Call Me Queen\"",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:47:38.000Z",
+    "url": "https://www.deutschlandfunk.de/kampf-gegen-aids-emily-atefs-neuer-spielfilm-call-me-queen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/kampf_gegen_aids_emily_atefs_neuer_spielfilm_call_me_queen_dlf_20261015_1747_5b657fe7.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f70c0c7a-57b9-50b4-b460-6775c7bbbf23",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Umstrittene Verwandtschaft\" - Koloniale und nationalsoz. Gewalt im DHM Berlin",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/umstrittene-verwandtschaft-koloniale-und-nationalsoz-gewalt-im-dhm-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/umstrittene_verwandtschaft_koloniale_und_nationalsoz_gewalt_dlf_20261015_1741_916a298c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:65fbf7d0-a046-5c93-afbd-452e213187d3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Leere Regale - Verkaufsstopp von Sally Rooneys Büchern in Großbritannien",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:36:19.000Z",
+    "url": "https://www.deutschlandfunk.de/leere-regale-verkaufsstopp-von-sally-rooneys-buechern-in-grossbritannien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/leere_regale_verkaufsstopp_von_sally_rooneys_buechern_in_dlf_20261015_1736_1d6f1d5a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:92ce8ba3-1a2e-5e2a-acd8-21fd5f531c72",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Horrorboom als Serie - \"Crystal Lake\" erzählt \"Freitag der 13. \"-Vorgeschichte",
+    "summary": "Harrabi, Kais www.deutschlandfunk.de, Corso",
+    "date": "2026-10-15T13:15:18.000Z",
+    "url": "https://www.deutschlandfunk.de/horrorboom-als-serie-crystal-lake-erzaehlt-freitag-der-13-vorgeschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/horrorboom_als_serie_crystal_lake_erzaehlt_freitag_der_13_dlf_20261015_1515_c9f7d801.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fd1c5e45-21b4-51bf-9d14-7e987972840e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "100 Jahre Foucault - Wie der Philosoph den Pop geprägt hat",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-15T13:15:12.000Z",
+    "url": "https://www.deutschlandfunk.de/100-jahre-foucault-wie-der-philosoph-den-pop-gepraegt-hat-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/100_jahre_foucault_wie_der_philosoph_den_pop_gepraegt_hat_dlf_20261015_1515_0af5e77d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:996051a4-177a-51de-b795-d80ee5751be4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schulproteste in Frankreich - Neue Ästhetiken des Widerstandes?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-15T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/schulproteste-in-frankreich-neue-aesthetiken-des-widerstandes-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/schulproteste_in_frankreich_neue_aesthetiken_des_dlf_20261015_1506_0d9f5c04.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:009f0cec-0a22-55f6-8aaf-15ee5e1ca9ff",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Menschen als Ware - Warum es noch immer 50 Millionen Sklaven gibt",
+    "summary": "Sklaverei gab es schon in der Steinzeit, und der Wohlstand der Westens fußte auch auf Sklavenarbeit. Obwohl diese Art der Ausbeutung längst geächtet ist, leben heute noch immer Millionen Menschen unter den Bedingungen moderner Sklaverei.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(03:46) Wie Sklaverei heute aussieht <br>(11:25) Sklaven in der griechischen und römischen Antike <br>(14:43) Der Spartakus-Aufstand <br>(18:59) Der transatlantische Sklavenhandel <br>(22:45) Das Massaker auf dem Sklavenschiff Zong <br>(27:19) Sklaverei als Teil der deutschen Geschichte <br>(29:53) Widerstand, Aufstände und Revolutionen von Versklavten<br>(35:34) Wann und wie Sklaverei abgeschafft wurde <br>(39:11) Sklaven im 21. Jahrhundert - vom \"Luxus\" zur \"Wegwerfware\"<br><br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li><strong>Michael Zeuske </strong>vom Bonn Center for Dependency and Slavery Studies ist Historiker und Autor von „Sklaverei. Eine Menschheitsgeschichte von der Steinzeit bis heute\".</li></ul><br><ul><li><strong>Martin Lewerentz </strong>ist Pressesprecher von International Justice Mission Deutschland.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Anja Reinhardt und Thomas Ibrahim<br>Faktencheck: Florian Twente und Jule Dieterle<br>Redaktion: Monika Dittrich und Christian Röther <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-rassismus-sklaverei-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Sklaverei und Rassismus in den USA </li><li><a href=\"https://www.deutschlandfunk.de/voelkermord-voelkerrecht-holocaust-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Völkermord</li><li><a href=\"https://www.deutschlandfunk.de/deutsche-kolonien-verdraengte-verbrechen-dlf-0b5b6c96-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über deutsche Kolonialverbrechen</li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li>Unser Experte Michael Zeuske über <a href=\"https://www.bpb.de/shop/zeitschriften/apuz/216476/globale-sklavereien-geschichte-und-gegenwart/\" rel=\"noopener\" target=\"_blank\">Geschichte und Gegenwart von Sklaverei</a></li><li>Der Internetauftritt von <a href=\"https://ijm-deutschland.de/\" rel=\"noopener\" target=\"_blank\">International Justice Mission Deutschland</a></li></ul><br><strong>Unser Podcast-Tipp in dieser Woche:</strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen. Mit Volker Depkat</a></li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-10-15T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sklaven-geschichte-zwangsarbeit-ausbeutung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/51/4a/df/de/514adfde-0695-403f-a61e-8fc711cdfc41/moderne-sklaverei-108-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/warum_es_noch_immer_50_millionen_sklaven_gibt_dlf_20261015_1300_f214fc53.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "45 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:f35f96b2-ae32-53e4-9a8f-438d25337330",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -230,110 +462,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:951b3a55-1f13-5308-9f7b-f305599b20c9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 13.10.2026",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:56:38.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/kulturmeldungen_13102026_dlf_20261013_1756_f52b0de0.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ce561c22-b5a5-5a5b-a9fd-219438ee3ed0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Analytiker der Macht. René Aguigah zum 100. Geb. von Michel Foucault",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/analytiker-der-macht-ren-aguigah-zum-100-geb-von-michel-foucault-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/analytiker_der_macht_rene_aguigah_zum_100_geb_von_michel_dlf_20261013_1746_4329ebbb.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cf61db87-904f-5193-8734-fd3f9cd91087",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Schön Streng. Die Macht des Ornaments\" - Ausstellung im v. der Heydt Museum",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:40:39.000Z",
-    "url": "https://www.deutschlandfunk.de/schoen-streng-die-macht-des-ornaments-ausstellung-im-v-der-heydt-museum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/schoen_streng_die_macht_des_ornaments_ausstellung_im_v_der_dlf_20261013_1740_4d282d5e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e108ca71-1598-5a87-8620-ea25bfe99cec",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Luise Bublitz zur Klage der \"Radikalen Töchter\" gegen Förderstopp",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/luise-bublitz-zur-klage-der-radikalen-toechter-gegen-foerderstopp-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/luise_bublitz_zur_klage_der_radikalen_toechter_gegen_dlf_20261013_1735_0626f818.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:8fb18f86-3c14-5770-9ca0-e76c9017ff6d",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -461,32 +589,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:6c4f631c-0c90-551a-b1cb-c919b89c18aa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 12.10.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-12T15:56:43.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/kulturmeldungen_12102026_dlf_20261012_1756_d8145e93.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:16647052-97e0-5cb3-8a50-12cb91192016",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -498,81 +600,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/comeback_der_cd_gespraech_mit_gfk_chart_ermittler_hans_dlf_20261012_1524_e861ce49.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f022bcef-d0f6-5eab-b4e9-466ccdad482d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neuer Comic \"Irrläufer\" - Der weiße Wal im verdreckten Rhein",
-    "summary": "Hahn, Achim www.deutschlandfunk.de, Corso",
-    "date": "2026-10-12T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neuer-comic-irrlaeufer-der-weisse-wal-im-verdreckten-rhein-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/neuer_comic_irrlaeufer_der_weisse_wal_im_verdreckten_rhein_dlf_20261012_1515_975ee892.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:3c6a55e9-2fe6-56ad-9640-849b7a521029",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Von Fitness zu Faschismus\" - Radikalisierungsexpertin Julia Ebner im Interview",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-12T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/von-fitness-zu-faschismus-radikalisierungsexpertin-julia-ebner-im-interview-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/von_fitness_zu_faschismus_radikalisierungsexpertin_julia_dlf_20261012_1506_2223cbab.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:42431548-12b6-516a-ab21-5093650440cb",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gitarrenrock ohne Nostalgie: Wishy mit dem Album \"Nature’s Pill\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-10-10T13:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gitarrenrock-ohne-nostalgie-wishy-mit-dem-album-nature-s-pill-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/gitarrenrock_ohne_nostalgie_wishy_mit_dem_album_natures_pill_dlf_20261010_1540_0c5e3864.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",
@@ -1381,33 +1408,6 @@
     "url": "https://www.deutschlandfunk.de/nazi-vergleich-verharmlosung-geschichte-100.html",
     "image": "https://bilder.deutschlandfunk.de/e4/79/72/74/e4797274-54e7-4b7b-a88a-cf2f47bad816/adolf-hitler-108-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/20/geschichte_als_argument_sind_nazi_vergleiche_okay_dlf_20260820_1300_74f4fffb.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "50 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:cb71a668-51f6-57c4-b972-598b8b6e911e",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Macht der Kirche - Wie Päpste Politik machen",
-    "summary": "Der eine schwieg zum Holocaust, der andere bekämpfte den Kommunismus. In der Geschichte gab es Päpste, die mit Herrschern und Diktatoren um Macht und Moral rangen. Und wie politisch ist Papst Leo? Mit dem US-Präsidenten hat er sich bereits angelegt.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(01:39) Die politische Macht von Johannes Paul II. <br>(13:30) Der „Gang nach Canossa“<br>(20:00) Päpstlicher Streit mit Napoleon <br>(24:30) Macht und Kirchenstaat <br>(29:00) Lateranverträge von 1929: Macht eines Mini-Staates<br>(31:05) Päpstlicher Friedensappell von 1917 <br>(35:30) Pius XII. – War er Hitlers Papst? <br>(42:40) Papst Leos politische Vorbilder<br><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Christian Röther und Robert Hauspurg<br>Faktencheck: Kathrin Krautwasser und Florian Twente<br>Redaktion: Monika Dittrich<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Hubert Wolf</strong> ist Kirchenhistoriker und Professor an der Universität Münster, er forscht unter anderem zur Rolle von Papst Pius XII. während des Zweiten Weltkriegs. 2024 erschien von ihm: \"Die geheimen Archive des Vatikan und was sie über die Kirche verraten\" (C.H. Beck). </li></ul><br><ul><li><strong>Stefan von Kempis</strong> ist Historiker, Journalist und Redakteur bei Vatican News in Rom. 2025 erschien von ihm: \"Weißer Rauch und falsche Mönche. Eine andere Geschichte der Papstwahl\" (Herder).</li></ul><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/konklave-papst-wahl-katholische-kirche-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über die Papstwahl</li><li><a href=\"https://www.deutschlandfunk.de/keusche-kirche-die-geschichte-des-zoelibats-dlf-4f4e228f-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den Zölibat</li><li><a href=\"https://www.deutschlandfunk.de/papst-pius-xii-holocaust-nationalsozialismus-100.html\" rel=\"noopener\" target=\"_blank\">Kalenderblatt</a> über Papst Pius XII.</li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li><a href=\"https://www.uni-muenster.de/FB2/aph/\" rel=\"noopener\" target=\"_blank\">Asking the pope for help</a> - Forschungsprojekt an der Universität Münster zur Rolle von Papst Pius XII. im Holocaust</li><li>Artikel bei der <a href=\"https://www.bpb.de/kurz-knapp/hintergrund-aktuell/272739/vor-85-jahren-vatikan-und-deutsches-reich-unterzeichnen-reichskonkordat/\" rel=\"noopener\" target=\"_blank\">Bundeszentrale für politische Bildung </a>über das \"Reichskonkordat\"</li></ul><br><strong>\"Der Rest ist Geschichte\" geht auf Tour: </strong><br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/die_odyssee?cp=derrestistgeschichte\" rel=\"noopener\" target=\"_blank\">Die Odyssee </a>- erzählt von Meike Rötzer<br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-13T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/papst-politik-macht-kirche-100.html",
-    "image": "https://bilder.deutschlandfunk.de/d1/d1/c0/cf/d1d1c0cf-e254-4ac5-9352-2b9e38f7eebb/papst-rueckansicht-pforte-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/macht_der_kirche_wie_paepste_politik_machen_dlf_20260813_1300_e1a9b75e.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
     "duration": "50 Min",
     "tags": [
       "geschichte",

@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:1bb6bb39-d8c1-56e2-807c-afd3e0ec47fa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 15.10.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:56:22.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/kulturmeldungen_15102026_dlf_20261015_1756_205f15af.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:df2162d0-5245-5403-9f87-42e1c9e74764",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lateinamerikanisches Literaturfestival Barrio Bairro Berlin",
+    "summary": "Eglau, Victoria www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:52:29.000Z",
+    "url": "https://www.deutschlandfunk.de/lateinamerikanisches-literaturfestival-barrio-bairro-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/lateinamerikanisches_literaturfestival_barrio_bairro_berlin_dlf_20261015_1752_8f623230.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c29f05f2-4c65-5e12-b7bc-50d8997e68d4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kampf gegen AIDS - Emily Atefs neuer Spielfilm \"Call Me Queen\"",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:47:38.000Z",
+    "url": "https://www.deutschlandfunk.de/kampf-gegen-aids-emily-atefs-neuer-spielfilm-call-me-queen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/kampf_gegen_aids_emily_atefs_neuer_spielfilm_call_me_queen_dlf_20261015_1747_5b657fe7.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f70c0c7a-57b9-50b4-b460-6775c7bbbf23",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Umstrittene Verwandtschaft\" - Koloniale und nationalsoz. Gewalt im DHM Berlin",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/umstrittene-verwandtschaft-koloniale-und-nationalsoz-gewalt-im-dhm-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/umstrittene_verwandtschaft_koloniale_und_nationalsoz_gewalt_dlf_20261015_1741_916a298c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:65fbf7d0-a046-5c93-afbd-452e213187d3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Leere Regale - Verkaufsstopp von Sally Rooneys Büchern in Großbritannien",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-15T15:36:19.000Z",
+    "url": "https://www.deutschlandfunk.de/leere-regale-verkaufsstopp-von-sally-rooneys-buechern-in-grossbritannien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/leere_regale_verkaufsstopp_von_sally_rooneys_buechern_in_dlf_20261015_1736_1d6f1d5a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:f35f96b2-ae32-53e4-9a8f-438d25337330",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/alles_ist_moeglich_blaetterrauschen_beim_literarischen_dlf_20261014_1736_2e36bcd9.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:951b3a55-1f13-5308-9f7b-f305599b20c9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 13.10.2026",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:56:38.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/kulturmeldungen_13102026_dlf_20261013_1756_f52b0de0.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ce561c22-b5a5-5a5b-a9fd-219438ee3ed0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Analytiker der Macht. René Aguigah zum 100. Geb. von Michel Foucault",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/analytiker-der-macht-ren-aguigah-zum-100-geb-von-michel-foucault-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/analytiker_der_macht_rene_aguigah_zum_100_geb_von_michel_dlf_20261013_1746_4329ebbb.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cf61db87-904f-5193-8734-fd3f9cd91087",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Schön Streng. Die Macht des Ornaments\" - Ausstellung im v. der Heydt Museum",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:40:39.000Z",
-    "url": "https://www.deutschlandfunk.de/schoen-streng-die-macht-des-ornaments-ausstellung-im-v-der-heydt-museum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/schoen_streng_die_macht_des_ornaments_ausstellung_im_v_der_dlf_20261013_1740_4d282d5e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e108ca71-1598-5a87-8620-ea25bfe99cec",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Luise Bublitz zur Klage der \"Radikalen Töchter\" gegen Förderstopp",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-13T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/luise-bublitz-zur-klage-der-radikalen-toechter-gegen-foerderstopp-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/luise_bublitz_zur_klage_der_radikalen_toechter_gegen_dlf_20261013_1735_0626f818.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6c4f631c-0c90-551a-b1cb-c919b89c18aa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 12.10.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-12T15:56:43.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/kulturmeldungen_12102026_dlf_20261012_1756_d8145e93.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

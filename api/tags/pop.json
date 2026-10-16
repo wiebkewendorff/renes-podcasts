@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:92ce8ba3-1a2e-5e2a-acd8-21fd5f531c72",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Horrorboom als Serie - \"Crystal Lake\" erzählt \"Freitag der 13. \"-Vorgeschichte",
+    "summary": "Harrabi, Kais www.deutschlandfunk.de, Corso",
+    "date": "2026-10-15T13:15:18.000Z",
+    "url": "https://www.deutschlandfunk.de/horrorboom-als-serie-crystal-lake-erzaehlt-freitag-der-13-vorgeschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/horrorboom_als_serie_crystal_lake_erzaehlt_freitag_der_13_dlf_20261015_1515_c9f7d801.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fd1c5e45-21b4-51bf-9d14-7e987972840e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "100 Jahre Foucault - Wie der Philosoph den Pop geprägt hat",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-15T13:15:12.000Z",
+    "url": "https://www.deutschlandfunk.de/100-jahre-foucault-wie-der-philosoph-den-pop-gepraegt-hat-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/100_jahre_foucault_wie_der_philosoph_den_pop_gepraegt_hat_dlf_20261015_1515_0af5e77d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:996051a4-177a-51de-b795-d80ee5751be4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schulproteste in Frankreich - Neue Ästhetiken des Widerstandes?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-15T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/schulproteste-in-frankreich-neue-aesthetiken-des-widerstandes-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/schulproteste_in_frankreich_neue_aesthetiken_des_dlf_20261015_1506_0d9f5c04.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:0eee5224-d2cb-512b-9e1e-24e38d5fe1dc",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/comeback_der_cd_gespraech_mit_gfk_chart_ermittler_hans_dlf_20261012_1524_e861ce49.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f022bcef-d0f6-5eab-b4e9-466ccdad482d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neuer Comic \"Irrläufer\" - Der weiße Wal im verdreckten Rhein",
-    "summary": "Hahn, Achim www.deutschlandfunk.de, Corso",
-    "date": "2026-10-12T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neuer-comic-irrlaeufer-der-weisse-wal-im-verdreckten-rhein-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/neuer_comic_irrlaeufer_der_weisse_wal_im_verdreckten_rhein_dlf_20261012_1515_975ee892.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:3c6a55e9-2fe6-56ad-9640-849b7a521029",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Von Fitness zu Faschismus\" - Radikalisierungsexpertin Julia Ebner im Interview",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-12T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/von-fitness-zu-faschismus-radikalisierungsexpertin-julia-ebner-im-interview-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/12/von_fitness_zu_faschismus_radikalisierungsexpertin_julia_dlf_20261012_1506_2223cbab.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:42431548-12b6-516a-ab21-5093650440cb",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gitarrenrock ohne Nostalgie: Wishy mit dem Album \"Nature’s Pill\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-10-10T13:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gitarrenrock-ohne-nostalgie-wishy-mit-dem-album-nature-s-pill-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/10/gitarrenrock_ohne_nostalgie_wishy_mit_dem_album_natures_pill_dlf_20261010_1540_0c5e3864.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",
