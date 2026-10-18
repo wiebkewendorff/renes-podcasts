@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:4779c0df-8439-5da3-bc4e-95644568b8ca",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hoffnung ist ein Kraftakt - Endless Wellness über ihr Album \"Domino Days\"",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-10-17T13:35:00.000Z",
+    "url": "https://www.deutschlandfunk.de/hoffnung-ist-ein-kraftakt-endless-wellness-ueber-ihr-album-domino-days-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/hoffnung_ist_ein_kraftakt_endless_wellness_ueber_ihr_album_dlf_20261017_1535_6b4ab20a.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4c9b23fd-496c-5dd1-8f48-efe8d8fcb4eb",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Cameron Winter: Ein Klavier reicht für die Carnegie Hall",
+    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
+    "date": "2026-10-17T13:30:00.000Z",
+    "url": "https://www.deutschlandfunk.de/cameron-winter-ein-klavier-reicht-fuer-die-carnegie-hall-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/cameron_winter_ein_klavier_reicht_fuer_die_carnegie_hall_dlf_20261017_1530_ac466068.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:be222f0b-0bfc-5163-9a64-3aa80f302b3b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Dopamine Chamber\" von Fontaines D.C. - Kein Entkommen aus der Gegenwart",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-17T13:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/dopamine-chamber-von-fontaines-d-c-kein-entkommen-aus-der-gegenwart-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/dopamine_chamber_von_fontaines_dc_kein_entkommen_aus_der_dlf_20261017_1510_6740df90.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:98ed3dac-d49b-5500-9076-37e01efa8349",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/machen_schoenheitseingriffe_die_schauspielerei_kaputt_dlf_20261014_1525_e6afd60c.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:85a6ca33-cabd-5d53-a4e3-dca08c845921",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Call Me Queen\", \"London\", \"Heimsuchung - eine Jahrhundertgeschichte",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-10-14T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-call-me-queen-london-heimsuchung-eine-jahrhundertgeschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/neue_filme_call_me_queen_london_heimsuchung_eine_dlf_20261014_1515_82aded5d.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9d758c30-540a-5983-aa4a-2bbfe0772728",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Film \"Camouflage\" - Wenn die neue Heimat die alte Familie fremd macht",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-14T13:06:07.000Z",
-    "url": "https://www.deutschlandfunk.de/film-camouflage-wenn-die-neue-heimat-die-alte-familie-fremd-macht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/film_camouflage_wenn_die_neue_heimat_die_alte_familie_fremd_dlf_20261014_1506_b63cdc06.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8fb18f86-3c14-5770-9ca0-e76c9017ff6d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kinderbuch: Entdecke 100 Jahre Popkultur",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-13T13:25:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kinderbuch-entdecke-100-jahre-popkultur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/13/kinderbuch_entdecke_100_jahre_popkultur_dlf_20261013_1525_dc86dc20.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

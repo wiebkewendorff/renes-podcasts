@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:97ffcc89-1959-518c-8db2-adf89eb4822d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 17.10.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-17T15:56:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-17-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/kulturmeldungen_17102026_dlf_20261017_1756_4cb4607c.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:06fe1788-1b83-506d-9ffa-3312e4ef2537",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Augenöffnend: Torkwase Dysons Hypershape-Skulpturen in Bregenz",
+    "summary": "Metzdorf, Julie www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-17T15:51:10.000Z",
+    "url": "https://www.deutschlandfunk.de/augenoeffnend-torkwase-dysons-hypershape-skulpturen-in-bregenz-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/augenoeffnend_torkwase_dysons_hypershape_skulpturen_in_dlf_20261017_1751_16b256eb.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:55f68073-6f81-529e-a621-c246cfc12442",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vor den Toren von Paris - Ein neues Centre Pompidou entsteht",
+    "summary": "Dylla, Carolin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-17T15:46:40.000Z",
+    "url": "https://www.deutschlandfunk.de/vor-den-toren-von-paris-ein-neues-centre-pompidou-entsteht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/vor_den_toren_von_paris_ein_neues_centre_pompidou_entsteht_dlf_20261017_1746_67ae16e5.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5b93d985-c2ef-5705-8407-29841072dcf5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Queer in Ungarn - Ein kultureller Aufbruch? Regisseurin Borbála Nagy im Gespräch",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-17T15:41:10.000Z",
+    "url": "https://www.deutschlandfunk.de/queer-in-ungarn-ein-kultureller-aufbruch-regisseurin-borb-la-nagy-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/queer_in_ungarn_ein_kultureller_aufbruch_regisseurin_borbala_dlf_20261017_1741_95ab97b1.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:aed0a4ac-c98b-534f-beb5-a2dcc941e8d2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"König Ubu\" - Stefanie Reinsperger in Alfred Jarrys Klassiker an der Wiener Burg",
+    "summary": "Pesl, Martin Thomas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-17T15:36:10.000Z",
+    "url": "https://www.deutschlandfunk.de/koenig-ubu-stefanie-reinsperger-in-alfred-jarrys-klassiker-an-der-wiener-burg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/koenig_ubu_stefanie_reinsperger_in_alfred_jarrys_klassiker_dlf_20261017_1736_42a9525a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:41db7e6c-6201-57e1-b2cd-60c8f92a114a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Polyphonie - 20 Erst- und Uraufführungen bei den Donaueschinger Musiktagen",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-17T15:30:44.000Z",
+    "url": "https://www.deutschlandfunk.de/polyphonie-20-erst-und-urauffuehrungen-bei-den-donaueschinger-musiktagen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/polyphonie_20_erst_und_urauffuehrungen_bei_den_dlf_20261017_1730_05a67164.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:ebdc6a9b-08d9-5bf3-ab0a-ae0339c30116",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -89,162 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/16/kafkaesk_tastend_duesseldorf_zeigt_gregor_schneider_mit_haus_dlf_20261016_1736_b08d8395.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1bb6bb39-d8c1-56e2-807c-afd3e0ec47fa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 15.10.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-15T15:56:22.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/kulturmeldungen_15102026_dlf_20261015_1756_205f15af.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:df2162d0-5245-5403-9f87-42e1c9e74764",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lateinamerikanisches Literaturfestival Barrio Bairro Berlin",
-    "summary": "Eglau, Victoria www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-15T15:52:29.000Z",
-    "url": "https://www.deutschlandfunk.de/lateinamerikanisches-literaturfestival-barrio-bairro-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/lateinamerikanisches_literaturfestival_barrio_bairro_berlin_dlf_20261015_1752_8f623230.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c29f05f2-4c65-5e12-b7bc-50d8997e68d4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kampf gegen AIDS - Emily Atefs neuer Spielfilm \"Call Me Queen\"",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-15T15:47:38.000Z",
-    "url": "https://www.deutschlandfunk.de/kampf-gegen-aids-emily-atefs-neuer-spielfilm-call-me-queen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/kampf_gegen_aids_emily_atefs_neuer_spielfilm_call_me_queen_dlf_20261015_1747_5b657fe7.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f70c0c7a-57b9-50b4-b460-6775c7bbbf23",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Umstrittene Verwandtschaft\" - Koloniale und nationalsoz. Gewalt im DHM Berlin",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-15T15:41:30.000Z",
-    "url": "https://www.deutschlandfunk.de/umstrittene-verwandtschaft-koloniale-und-nationalsoz-gewalt-im-dhm-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/umstrittene_verwandtschaft_koloniale_und_nationalsoz_gewalt_dlf_20261015_1741_916a298c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:65fbf7d0-a046-5c93-afbd-452e213187d3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Leere Regale - Verkaufsstopp von Sally Rooneys Büchern in Großbritannien",
-    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-15T15:36:19.000Z",
-    "url": "https://www.deutschlandfunk.de/leere-regale-verkaufsstopp-von-sally-rooneys-buechern-in-grossbritannien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/leere_regale_verkaufsstopp_von_sally_rooneys_buechern_in_dlf_20261015_1736_1d6f1d5a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f35f96b2-ae32-53e4-9a8f-438d25337330",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 14.10.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-14T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/kulturmeldungen_14102026_dlf_20261014_1756_4a35a396.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",
