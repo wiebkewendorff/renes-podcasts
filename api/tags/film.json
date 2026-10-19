@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:dfc2c3eb-96a5-5d06-98a7-d4e1d82aeb73",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 18.10.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-18T15:57:01.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/kulturmeldungen_18102026_dlf_20261018_1757_f0e97db7.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:29634cf4-a269-517c-ae0a-bccb5917e0ad",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kunstvereine unter Druck - ADKV-Vorsitzende Ursula Schöndeling im Gespräch",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-18T15:52:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kunstvereine-unter-druck-adkv-vorsitzende-ursula-schoendeling-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/kunstvereine_unter_druck_adkv_vorsitzende_ursula_dlf_20261018_1752_56e78a78.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:02082b26-8c3b-56ae-a36c-dbff9e86ca62",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Moteur imaginaire\" - Highlight des Pariser Kunstherbstes auf der Ile Seguin",
+    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-18T15:46:45.000Z",
+    "url": "https://www.deutschlandfunk.de/moteur-imaginaire-highlight-des-pariser-kunstherbstes-auf-der-ile-seguin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/moteur_imaginaire_highlight_des_pariser_kunstherbstes_auf_dlf_20261018_1746_e2e0b450.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9a6d9b16-61dc-5d00-b7d7-9692940c7122",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das Musical \"Der Hase mit den Bernsteinaugen\" an der Oper Leipzig",
+    "summary": "Richter, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-18T15:41:01.000Z",
+    "url": "https://www.deutschlandfunk.de/das-musical-der-hase-mit-den-bernsteinaugen-an-der-oper-leipzig-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/das_musical_der_hase_mit_den_bernsteinaugen_an_der_oper_dlf_20261018_1741_c2d73b88.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:549e8935-8f46-5430-89a6-606f18cd9e28",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Jugend ohne Gott\" - Die Münchner Kammerspiele inszenieren Horváths Roman",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-18T15:36:05.000Z",
+    "url": "https://www.deutschlandfunk.de/jugend-ohne-gott-die-muenchner-kammerspiele-inszenieren-horv-ths-roman-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/jugend_ohne_gott_die_muenchner_kammerspiele_inszenieren_dlf_20261018_1736_70d457d4.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:58f74277-77f4-57d2-9273-2c64f6d09e81",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Sprache der Gewalt - Zur Ausweitung der Proteste in Frankreich",
+    "summary": "Ritte, Jürgen www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-18T15:30:40.000Z",
+    "url": "https://www.deutschlandfunk.de/die-sprache-der-gewalt-zur-ausweitung-der-proteste-in-frankreich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/die_sprache_der_gewalt_zur_ausweitung_der_proteste_in_dlf_20261018_1730_a3d06034.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:97ffcc89-1959-518c-8db2-adf89eb4822d",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -88,162 +244,6 @@
     "url": "https://www.deutschlandfunk.de/queer-in-ungarn-ein-kultureller-aufbruch-regisseurin-borb-la-nagy-im-gespraech-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/queer_in_ungarn_ein_kultureller_aufbruch_regisseurin_borbala_dlf_20261017_1741_95ab97b1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:aed0a4ac-c98b-534f-beb5-a2dcc941e8d2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"König Ubu\" - Stefanie Reinsperger in Alfred Jarrys Klassiker an der Wiener Burg",
-    "summary": "Pesl, Martin Thomas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-17T15:36:10.000Z",
-    "url": "https://www.deutschlandfunk.de/koenig-ubu-stefanie-reinsperger-in-alfred-jarrys-klassiker-an-der-wiener-burg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/koenig_ubu_stefanie_reinsperger_in_alfred_jarrys_klassiker_dlf_20261017_1736_42a9525a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:41db7e6c-6201-57e1-b2cd-60c8f92a114a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Polyphonie - 20 Erst- und Uraufführungen bei den Donaueschinger Musiktagen",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-17T15:30:44.000Z",
-    "url": "https://www.deutschlandfunk.de/polyphonie-20-erst-und-urauffuehrungen-bei-den-donaueschinger-musiktagen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/polyphonie_20_erst_und_urauffuehrungen_bei_den_dlf_20261017_1730_05a67164.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ebdc6a9b-08d9-5bf3-ab0a-ae0339c30116",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 16.10.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-16T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/16/kulturmeldungen_16102026_dlf_20261016_1756_138aaf2f.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9eb92fca-2cfd-554f-9249-3d76ae810edb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kunst oder Aktivismus? Das Palästina-Projekt in der Berliner NGBK",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-16T15:46:50.000Z",
-    "url": "https://www.deutschlandfunk.de/kunst-oder-aktivismus-das-palaestina-projekt-in-der-berliner-ngbk-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/16/kunst_oder_aktivismus_das_palaestina_projekt_in_der_berliner_dlf_20261016_1746_b28ffe2a.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:659481d0-b5f2-5f2a-bf49-13d36d13f761",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Interimsbau des Röm.-Germ.-Museums in Köln soll schließen - Lorenz Deutsch",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-16T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-interimsbau-des-roem-germ-museums-in-koeln-soll-schliessen-lorenz-deutsch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/16/der_interimsbau_des_roem_germ_museums_in_koeln_soll_dlf_20261016_1741_a88ebf01.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:59ae22c2-fa77-50eb-91d7-e7e5b36b7967",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kafkaesk tastend - Düsseldorf zeigt Gregor Schneider mit \"Haus u r 2026\"",
-    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-16T15:36:15.000Z",
-    "url": "https://www.deutschlandfunk.de/kafkaesk-tastend-duesseldorf-zeigt-gregor-schneider-mit-haus-u-r-2026-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/16/kafkaesk_tastend_duesseldorf_zeigt_gregor_schneider_mit_haus_dlf_20261016_1736_b08d8395.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
     "tags": [
       "kultur",
