@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:545aedb6-8ebc-543e-986b-8099b8f34154",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Disco und Dandiya - Wie Religion für Indiens GenZ zum Rave wird",
+    "summary": "Bodewein, Lena www.deutschlandfunk.de, Corso",
+    "date": "2026-10-19T13:20:34.000Z",
+    "url": "https://www.deutschlandfunk.de/disco-und-dandiya-wie-religion-fuer-indiens-genz-zum-rave-wird-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/disco_und_dandiya_wie_religion_fuer_indiens_genz_zum_rave_dlf_20261019_1520_02752998.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:6113e9a7-d6b7-5556-92d7-da84cd2c417f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gut geklaut ist halb viral - Warum Creator*innen ständig dieselben Witze machen",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-10-19T13:15:19.000Z",
+    "url": "https://www.deutschlandfunk.de/gut-geklaut-ist-halb-viral-warum-creator-innen-staendig-dieselben-witze-machen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/gut_geklaut_ist_halb_viral_warum_creatorinnen_staendig_dlf_20261019_1515_8e742a5e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:4779c0df-8439-5da3-bc4e-95644568b8ca",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/100_jahre_foucault_wie_der_philosoph_den_pop_gepraegt_hat_dlf_20261015_1515_0af5e77d.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:996051a4-177a-51de-b795-d80ee5751be4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schulproteste in Frankreich - Neue Ästhetiken des Widerstandes?",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-15T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schulproteste-in-frankreich-neue-aesthetiken-des-widerstandes-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/schulproteste_in_frankreich_neue_aesthetiken_des_dlf_20261015_1506_0d9f5c04.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0eee5224-d2cb-512b-9e1e-24e38d5fe1dc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Machen Schönheitseingriffe die Schauspielerei kaputt?",
-    "summary": "von Hirsch, Mia www.deutschlandfunk.de, Corso",
-    "date": "2026-10-14T13:25:00.000Z",
-    "url": "https://www.deutschlandfunk.de/machen-schoenheitseingriffe-die-schauspielerei-kaputt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/machen_schoenheitseingriffe_die_schauspielerei_kaputt_dlf_20261014_1525_e6afd60c.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",

@@ -1,5 +1,185 @@
 [
   {
+    "id": "dlf-kultur-heute:75dc7c3e-3bb3-599c-a62a-8f7a06c157c1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 19.10.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-19T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/kulturmeldungen_19102026_dlf_20261019_1756_bdf8f59d.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2283bded-eee1-5692-8193-89fa49bd1152",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Whistler. Dandy and Disruptor\": Amsterdam zeigt europaweit größte Gesamtschau",
+    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-19T15:51:22.000Z",
+    "url": "https://www.deutschlandfunk.de/whistler-dandy-and-disruptor-amsterdam-zeigt-europaweit-groesste-gesamtschau-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/whistler_dandy_and_disruptor_amsterdam_zeigt_europaweit_dlf_20261019_1751_5afbb12c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e8bc88cc-2b6b-5fd4-8b35-62261a509e5c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Dracula\" - Die Choreographie von Krzysztof Pastor an der Oper Dortmund",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-19T15:46:26.000Z",
+    "url": "https://www.deutschlandfunk.de/dracula-die-choreographie-von-krzysztof-pastor-an-der-oper-dortmund-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/dracula_die_choreographie_von_krzysztof_pastor_an_der_oper_dlf_20261019_1746_78fe8f06.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:607ecd9e-5240-555e-8ed6-99ff239321dc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wo sind die Juwelen? Ein Jahr nach dem spektakulären Kunstraub im Louvre",
+    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-19T15:41:33.000Z",
+    "url": "https://www.deutschlandfunk.de/wo-sind-die-juwelen-ein-jahr-nach-dem-spektakulaeren-kunstraub-im-louvre-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/wo_sind_die_juwelen_ein_jahr_nach_dem_spektakulaeren_dlf_20261019_1741_3e006a40.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0dcd473f-2c9a-56fe-bd56-973ebd2504e0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie sicher ist Frankreichs Kulturerbe? Isabelle Hoffmann im Gespräch",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-19T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/wie-sicher-ist-frankreichs-kulturerbe-isabelle-hoffmann-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/wie_sicher_ist_frankreichs_kulturerbe_isabelle_hoffmann_im_dlf_20261019_1735_dc04190f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:545aedb6-8ebc-543e-986b-8099b8f34154",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Disco und Dandiya - Wie Religion für Indiens GenZ zum Rave wird",
+    "summary": "Bodewein, Lena www.deutschlandfunk.de, Corso",
+    "date": "2026-10-19T13:20:34.000Z",
+    "url": "https://www.deutschlandfunk.de/disco-und-dandiya-wie-religion-fuer-indiens-genz-zum-rave-wird-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/disco_und_dandiya_wie_religion_fuer_indiens_genz_zum_rave_dlf_20261019_1520_02752998.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:6113e9a7-d6b7-5556-92d7-da84cd2c417f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gut geklaut ist halb viral - Warum Creator*innen ständig dieselben Witze machen",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-10-19T13:15:19.000Z",
+    "url": "https://www.deutschlandfunk.de/gut-geklaut-ist-halb-viral-warum-creator-innen-staendig-dieselben-witze-machen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/gut_geklaut_ist_halb_viral_warum_creatorinnen_staendig_dlf_20261019_1515_8e742a5e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:dfc2c3eb-96a5-5d06-98a7-d4e1d82aeb73",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +295,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/jugend_ohne_gott_die_muenchner_kammerspiele_inszenieren_dlf_20261018_1736_70d457d4.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:58f74277-77f4-57d2-9273-2c64f6d09e81",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Sprache der Gewalt - Zur Ausweitung der Proteste in Frankreich",
-    "summary": "Ritte, Jürgen www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-18T15:30:40.000Z",
-    "url": "https://www.deutschlandfunk.de/die-sprache-der-gewalt-zur-ausweitung-der-proteste-in-frankreich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/die_sprache_der_gewalt_zur_ausweitung_der_proteste_in_dlf_20261018_1730_a3d06034.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:97ffcc89-1959-518c-8db2-adf89eb4822d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 17.10.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-17T15:56:10.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-17-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/kulturmeldungen_17102026_dlf_20261017_1756_4cb4607c.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:06fe1788-1b83-506d-9ffa-3312e4ef2537",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Augenöffnend: Torkwase Dysons Hypershape-Skulpturen in Bregenz",
-    "summary": "Metzdorf, Julie www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-17T15:51:10.000Z",
-    "url": "https://www.deutschlandfunk.de/augenoeffnend-torkwase-dysons-hypershape-skulpturen-in-bregenz-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/augenoeffnend_torkwase_dysons_hypershape_skulpturen_in_dlf_20261017_1751_16b256eb.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:55f68073-6f81-529e-a621-c246cfc12442",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vor den Toren von Paris - Ein neues Centre Pompidou entsteht",
-    "summary": "Dylla, Carolin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-17T15:46:40.000Z",
-    "url": "https://www.deutschlandfunk.de/vor-den-toren-von-paris-ein-neues-centre-pompidou-entsteht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/vor_den_toren_von_paris_ein_neues_centre_pompidou_entsteht_dlf_20261017_1746_67ae16e5.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5b93d985-c2ef-5705-8407-29841072dcf5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Queer in Ungarn - Ein kultureller Aufbruch? Regisseurin Borbála Nagy im Gespräch",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-17T15:41:10.000Z",
-    "url": "https://www.deutschlandfunk.de/queer-in-ungarn-ein-kultureller-aufbruch-regisseurin-borb-la-nagy-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/queer_in_ungarn_ein_kultureller_aufbruch_regisseurin_borbala_dlf_20261017_1741_95ab97b1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",
@@ -460,31 +510,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:996051a4-177a-51de-b795-d80ee5751be4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schulproteste in Frankreich - Neue Ästhetiken des Widerstandes?",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-15T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schulproteste-in-frankreich-neue-aesthetiken-des-widerstandes-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/schulproteste_in_frankreich_neue_aesthetiken_des_dlf_20261015_1506_0d9f5c04.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-der-rest-ist-geschichte:009f0cec-0a22-55f6-8aaf-15ee5e1ca9ff",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -533,31 +558,6 @@
     "category": [
       "Wissenschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0eee5224-d2cb-512b-9e1e-24e38d5fe1dc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Machen Schönheitseingriffe die Schauspielerei kaputt?",
-    "summary": "von Hirsch, Mia www.deutschlandfunk.de, Corso",
-    "date": "2026-10-14T13:25:00.000Z",
-    "url": "https://www.deutschlandfunk.de/machen-schoenheitseingriffe-die-schauspielerei-kaputt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/machen_schoenheitseingriffe_die_schauspielerei_kaputt_dlf_20261014_1525_e6afd60c.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
