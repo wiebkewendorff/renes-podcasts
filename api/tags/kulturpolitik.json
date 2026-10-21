@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:8b5947e8-e072-5b23-ab14-423c11ce5959",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 20.10.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-20T15:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/kulturmeldungen_20102026_dlf_20261020_1756_071af44d.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:cfb963b1-33b9-58aa-b71b-b17e714a7af0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach der Haft - Ein Treffen mit belarussischen Widerständlern",
+    "summary": "Hamel, Christine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-20T15:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-der-haft-ein-treffen-mit-belarussischen-widerstaendlern-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/nach_der_haft_ein_treffen_mit_belarussischen_widerstaendlern_dlf_20261020_1750_901765e3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3664c1fe-4260-51a0-bd39-d7e887f7621c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wut und Worte - Dokumentarfilmerin Claudia Müller über Elfriede Jelinek zum 80.",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-20T15:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wut-und-worte-dokumentarfilmerin-claudia-mueller-ueber-elfriede-jelinek-zum-80-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/wut_und_worte_dokumentarfilmerin_claudia_mueller_ueber_dlf_20261020_1741_36158c85.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a8a8ab9e-2f47-5c41-9e8d-11d6406f0c6e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kampf der Narrative - Zur historisch-politischen Einordnung der frz. Proteste",
+    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-20T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kampf-der-narrative-zur-historisch-politischen-einordnung-der-frz-proteste-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/kampf_der_narrative_zur_historisch_politischen_einordnung_dlf_20261020_1736_e713c427.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:75dc7c3e-3bb3-599c-a62a-8f7a06c157c1",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/kulturmeldungen_18102026_dlf_20261018_1757_f0e97db7.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:29634cf4-a269-517c-ae0a-bccb5917e0ad",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kunstvereine unter Druck - ADKV-Vorsitzende Ursula Schöndeling im Gespräch",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-18T15:52:10.000Z",
-    "url": "https://www.deutschlandfunk.de/kunstvereine-unter-druck-adkv-vorsitzende-ursula-schoendeling-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/kunstvereine_unter_druck_adkv_vorsitzende_ursula_dlf_20261018_1752_56e78a78.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:02082b26-8c3b-56ae-a36c-dbff9e86ca62",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Moteur imaginaire\" - Highlight des Pariser Kunstherbstes auf der Ile Seguin",
-    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-18T15:46:45.000Z",
-    "url": "https://www.deutschlandfunk.de/moteur-imaginaire-highlight-des-pariser-kunstherbstes-auf-der-ile-seguin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/moteur_imaginaire_highlight_des_pariser_kunstherbstes_auf_dlf_20261018_1746_e2e0b450.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9a6d9b16-61dc-5d00-b7d7-9692940c7122",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das Musical \"Der Hase mit den Bernsteinaugen\" an der Oper Leipzig",
-    "summary": "Richter, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-18T15:41:01.000Z",
-    "url": "https://www.deutschlandfunk.de/das-musical-der-hase-mit-den-bernsteinaugen-an-der-oper-leipzig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/das_musical_der_hase_mit_den_bernsteinaugen_an_der_oper_dlf_20261018_1741_c2d73b88.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:549e8935-8f46-5430-89a6-606f18cd9e28",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Jugend ohne Gott\" - Die Münchner Kammerspiele inszenieren Horváths Roman",
-    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-18T15:36:05.000Z",
-    "url": "https://www.deutschlandfunk.de/jugend-ohne-gott-die-muenchner-kammerspiele-inszenieren-horv-ths-roman-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/18/jugend_ohne_gott_die_muenchner_kammerspiele_inszenieren_dlf_20261018_1736_70d457d4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
