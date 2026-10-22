@@ -1,5 +1,105 @@
 [
   {
+    "id": "dlf-corso:5237ff8b-f5c1-5615-940f-57867a6f253e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Swipen statt Flirten - Zerstören Datingplattformen die Clubkultur?",
+    "summary": "Rauchhaus, Vinz www.deutschlandfunk.de, Corso",
+    "date": "2026-10-21T13:25:42.000Z",
+    "url": "https://www.deutschlandfunk.de/swipen-statt-flirten-zerstoeren-datingplattformen-die-clubkultur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/swipen_statt_flirten_zerstoeren_datingplattformen_die_dlf_20261021_1525_33d0a25a.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:56dd1315-b941-5c61-bd7d-9832df2dfbc6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Possible Love\", \"Chopin - Eine Sonate in Paris\", \"Die andere Seite\"",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-10-21T13:15:22.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-possible-love-chopin-eine-sonate-in-paris-die-andere-seite-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/neue_filme_possible_love_chopin_eine_sonate_in_paris_die_dlf_20261021_1515_b1d2363f.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:bf560a32-e572-5836-a0ee-ea3ea65b5ad1",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Possible Love\", \"Chopin - Eine Sonate in Paris\", \"Die andere Seite\"",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-10-21T13:15:02.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-possible-love-chopin-eine-sonate-in-paris-die-andere-seite-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/neue_filme_possible_love_chopin_eine_sonate_in_paris_die_dlf_20261021_1515_25ce4707.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:567ea0e5-deac-53eb-908c-993da0a6cd73",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Jelinek-Verfilmung \"Liebhaberinnen\" - Zwischen Selbstoptimierung und Patriarchat",
+    "summary": "Wokalek, Johanna; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-21T13:10:08.000Z",
+    "url": "https://www.deutschlandfunk.de/jelinek-verfilmung-liebhaberinnen-zwischen-selbstoptimierung-und-patriarchat-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/jelinek_verfilmung_liebhaberinnen_zwischen_selbstoptimierung_dlf_20261021_1510_8afe939b.mp3?refId=corso-104",
+    "duration": "15 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:26bc0633-2a96-5b82-a065-63c5d257575f",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -136,106 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/hoffnung_ist_ein_kraftakt_endless_wellness_ueber_ihr_album_dlf_20261017_1535_6b4ab20a.mp3?refId=corso-104",
     "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4c9b23fd-496c-5dd1-8f48-efe8d8fcb4eb",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Cameron Winter: Ein Klavier reicht für die Carnegie Hall",
-    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
-    "date": "2026-10-17T13:30:00.000Z",
-    "url": "https://www.deutschlandfunk.de/cameron-winter-ein-klavier-reicht-fuer-die-carnegie-hall-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/cameron_winter_ein_klavier_reicht_fuer_die_carnegie_hall_dlf_20261017_1530_ac466068.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:be222f0b-0bfc-5163-9a64-3aa80f302b3b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Dopamine Chamber\" von Fontaines D.C. - Kein Entkommen aus der Gegenwart",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-17T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/dopamine-chamber-von-fontaines-d-c-kein-entkommen-aus-der-gegenwart-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/dopamine_chamber_von_fontaines_dc_kein_entkommen_aus_der_dlf_20261017_1510_6740df90.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:98ed3dac-d49b-5500-9076-37e01efa8349",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wird Sicherheit cool? Der Fahrradhelm in Film und Serie",
-    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
-    "date": "2026-10-16T13:20:25.000Z",
-    "url": "https://www.deutschlandfunk.de/wird-sicherheit-cool-der-fahrradhelm-in-film-und-serie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/16/wird_sicherheit_cool_der_fahrradhelm_in_film_und_serie_dlf_20261016_1520_b7e59c7f.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:21375a5c-cf75-596b-a8fa-d1726ac057c8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Reverse Engineering durch KI - Wie Videospiele gerade frei im Netz landen",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-16T13:06:44.000Z",
-    "url": "https://www.deutschlandfunk.de/reverse-engineering-durch-ki-wie-videospiele-gerade-frei-im-netz-landen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/16/reverse_engineering_durch_ki_wie_videospiele_gerade_frei_im_dlf_20261016_1506_ddd29133.mp3?refId=corso-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "pop",
