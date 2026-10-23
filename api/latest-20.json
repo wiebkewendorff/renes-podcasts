@@ -1,5 +1,381 @@
 [
   {
+    "id": "zeitzeichen:46882a5909d27b46618cf362d4fcc307",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Ungarn 1956: Ein Junge, ein Aufstand, ein zerstörter Traum",
+    "summary": "<p>1956 geht der 15-jährige Géza in Budapest auf die Straße. Er erlebt Euphorie und Angst, sowjetische Panzer und einige Tage Freiheit - bis der Aufstand scheitert.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Michael Richmann:</strong><br><ul><li>wodurch Nikita Chruschtschow die Hoffnung auf Reformen weckt,</li><li>warum Polen zum Vorbild für Ungarn wird,</li><li>dass Ungarn den Westen vergeblich um Hilfe bittet,</li><li>warum der missglückte Aufstand auch ein Versagen der Führungsspitzen ist.</li></ul><br>Was als Studentenproteste auf den Straßen in Budapest beginnt, entwickelt sich schnell zu einer Volksbewegung und erzielt zunächst Erfolge. Der abgesetzte Reformkommunist Imre Nagy kehrt als Ministerpräsident zurück. Und trotz blutiger Auseinandersetzungen mit Todesopfern auf beiden Seiten sieht es einige Tage so aus, als könnte der Aufstand Erfolg haben. <br><br>In Budapest und Moskau wird derweil um das weitere Vorgehen gerungen. Sollen Reformen zugelassen werden oder die Partei auf ihrem bisherigen Kurs beharren? Als Ungarn den Austritt aus dem Warschauer Pakt ankündigt, ist für den Kreml eine rote Linie überschritten. Die Sowjetarmee schlägt den Aufstand mit Panzern und militärischer Gewalt brutal nieder.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Beáta Márkus , Historikerin, Institut für donauschwäbische Geschichte und Landeskunde, Expertin für Erinnerungspolitik und Erinnerungskultur in Ungarn</li><li> Géza Jeszenszky , Zeitzeuge, Historiker und ungarischer Diplomat </li><li>György Dalos: 1956. Der Aufstand in Ungarn. München 2006</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>ARD Mediathek: <a href=\"https://www.ardmediathek.de/video/panorama/aufstieg-und-fall-gomulka/das-erste/Y3JpZDovL25kci5kZS9kMGZmODcxNi02Y2NmLTQ0OTAtYWZlMi01YTlkNmFiYzIxNmQ\" rel=\"noopener\" target=\"_blank\">Aufstieg und Fall Gomulka </a></li><li>ARD Sounds: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:bc72206c079400ca/\" rel=\"noopener\" target=\"_blank\">Abrechnung mit Stalins Personenkult: Chruschtschows Geheimrede</a></li><li>Bundeszentrale für politische Bildung: <a href=\"https://www.bpb.de/shop/zeitschriften/apuz/29773/krisenjahr-1956/#content-index\" rel=\"noopener\" target=\"_blank\">Krisenjahr 1956 </a>(Aus Politik und Zeitgeschichte)</li><li>Zeitzeichen 14.02.1956: Beginn der <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/entstalinisierung-100.html\" rel=\"noopener\" target=\"_blank\">Entstalinisierung in der Sowjetunion</a></li><li>Zeitzeichen 05.03.1953: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/josefstalin100.html\" rel=\"noopener\" target=\"_blank\">Todestag von Josef Stalin</a> </li><li>Zeitzeichen 17.04.1894: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-nikita-chruschtschow-102.html\" rel=\"noopener\" target=\"_blank\">Geburtstag des sowjetischen Politikers Nikita Chruschtschow</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Michael Richmann<br>Redaktion: Matti Hesse",
+    "date": "2026-10-23T04:00:15.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ungarn-ein-junge-ein-aufstand-ein-zerstoerter-traum-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-ungarn-aufstand-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/19/a676b9f6-01de-4370-9966-63a73cabf1a2/a676b9f6-01de-4370-9966-63a73cabf1a2_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4087174",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Ist KI gefährlich oder die Menschen, die sie nutzen?",
+    "summary": "KI zwischen Geschwindigkeit und Gefahr\n<p>Künstliche Intelligenz (KI) entwickelt sich rasant. KI-Firmen investieren enorm hohe Beträge, um in der globalen Konkurrenz mithalten zu können. Die damit erzielten Vorsprünge sind allerdings nie besonders groß, weswegen Geschwindigkeit und Aufwand immer weiter steigen. Die aktuellen KI-Modelle arbeiten inzwischen selbst an ihren Nachfolgern, die Technologie verbessert sich somit ständig selbst. So atemberaubend wie diese Entwicklung sind die Gefahrenszenarien, die diskutiert werden — oft sogar von den KI-Firmen oder einzelnen Angestellten selbst. Die Grenzen zwischen verfilmten Dystopien und realen Gefahren scheinen dabei zu verschwimmen. Wie man diesen Gefahren effektiv begegnen könnte, darüber wird viel und eindringlich diskutiert. Dazu gehört auch die Frage: Wer haftet am Ende? „Ich befürchte, dass KI als Technologie so ein bisschen wie Atomkraft wird. Das heißt, eigentlich kann niemand ein Atomkraftwerk betreiben, ohne dass der Staat die letzte Haftung übernimmt“, sagt Philipp Klöckner, unter anderem Host vom Tech-Podcast „Doppelgänger Tech Talk“.</p>\nPhilipp Klöckner über Gefahren und Chancen\n<p>Philipp Klöckner beschäftigt sich seit Jahren eingehend mit der Entwicklung von Künstlicher Intelligenz und fügt im Gespräch der Gefahr der verselbstständigten KI zwei weitere Szenarien hinzu: Zum einen sieht er Menschen als großes Risiko, die KI für destruktive und terroristische Zwecke nutzen; zum anderen aber auch eine KI, die Menschen unter Druck setzt und somit gerade in Verbindung mit Menschen großes Gefahrenpotenzial entfaltet: „Was die KI zum Beispiel machen könnte, ist einfach den Pförtner bestechen, um ins Fort Knox zu kommen. Also kompromittierende Daten über einen Wissenschaftler finden oder Menschen mit geklauten Bitcoins bestechen.“</p>\n<p>Nichtsdestoweniger sind die Potenziale von KI enorm. Die Disruption, die mit ihrer Einführung in klassischen Arbeitsbereichen einhergeht, stellt traditionelle Industrien und Unternehmen vor große Herausforderungen. Wie können zum Beispiel mittelständische Unternehmen damit umgehen und welchen Pfad sollten sie verfolgen, um klassische Geschäftsmodelle der neuen Technologie anzupassen? Was bedeutet KI für Podcasts, wie sind die beschriebenen Risiken einzudämmen und wie groß ist die Gefahr einer KI-Blase?</p>\n<p>Darüber spricht <i>detektor.fm</i>-Moderator<strong> Christian Bollert </strong>in dieser Ausgabe des „brand eins Podcasts“ mit <strong>Philipp Klöckner.</strong></p>",
+    "date": "2026-10-23T03:19:24.000Z",
+    "url": "https://feedpress.me/link/19604/17503270/brand-eins-podcast-philipp-kloeckner-techinvestor-doppelgaenger",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261023brandeinspodcastphilippkloeckner.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261023brandeinspodcastphilippkloeckner.63.mp3",
+    "duration": "29 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:93b32fd4-d5bc-47e2-b0e6-1fedbc28ec06",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Reportage: Warum fährst du mit mir in die Wische, Leonard Schubert?",
+    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Leonard Schubert</strong> in die Hansestadt Werben in der Wische.</p>\nMit dem Tandem nach Werben in der Wische\n<p>Fahrräder können Entdeckungsmobile sein, viele Menschen machen diese Erfahrung schon als Kind. Doch fürs Entdecken gibt es keine Altersbeschränkung und man muss dafür auch nicht weit wegfahren. Schon in der eigenen Region gibt es oft Gegenden, die man kaum kennt. Für den Sachsen-Anhalt-Podcast „DAZWISCHEN“ ist Gerolf im August mit Redakteur Leonard Schubert in die Wische in der Altmark gefahren, denn der Landstrich ganz im Norden Sachsen-Anhalts ist ihnen bisher unbekannt gewesen. Das sollte sich ändern. Mitten in der Wische ist die Hansestadt Werben, die oft als kleinste Hansestadt der Welt bezeichnet wird. 600 Menschen leben dort in der Kernstadt, insgesamt hat die Gemeinde 900 Einwohnerinnen und Einwohner. Leonard und Gerolf sind mit dem Tandem hingefahren.</p>\nEine Idee von Zukunft\n<p>Wie viele ländliche Regionen haben Werben und die Wische mit Landflucht zu kämpfen. Doch in Werben stemmen sich einige Menschen gegen die Zukunftslosigkeit. Die Stadt mit ihren vielen Backstein- und Fachwerkhäusern und dem historischen Stadttor zieht Menschen aus Hamburg, Berlin, Magdeburg und darüber hinaus an. Sie sanieren alte Häuser und tragen zum regen Vereinsleben in der Stadt bei. Eine wichtige Rolle spielt dabei der Arbeitskreis Werbener Altstadt, der sich seit 20 Jahren für den Erhalt historischer Gebäude und die Weiterentwicklung des Stadtlebens einsetzt.</p>\n<p>Leonard und Gerolf sind für diese Ausgabe des Antritts nach Werben und in die Wische gefahren und haben Menschen getroffen. Auf und neben dem Tandem haben sie Gespräche geführt und einen intensiven Eindruck von Land und Leuten bekommen.</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>Der „Antritt“ ist für alle hörbar, weil uns ein wunderbares Antritt-Peloton auf Steady unterstützt. Wer uns dort Rückenwind gibt, kann unsere Folgen früher hören, sich an speziellen Peloton-Episoden beteiligen und die eigenen Themen im „Antritt“ platzieren. Diese und noch mehr Vorteile gibt es schon ab 3 Euro im Monat. Für Ende 2026 haben wir ein Ziel: Wir wollen 400 Menschen im Peloton werden! Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt.</p>\n<p>Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>\nPassend zu unseren Folgen könnt ihr hier unsere Spotify-Playlist hören:\n<p> </p>",
+    "date": "2026-10-23T03:05:07.000Z",
+    "url": "https://feedpress.me/link/19604/17503271/antritt-durch-die-wische-nach-werben",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261023antrittwerben.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261023antrittwerben.63.mp3",
+    "duration": "1 Std 8 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4085334",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Super-El-Niño 2026: Was bedeutet das für uns?",
+    "summary": "<p>El Niño ist ein Klimaphänomen, das im Pazifik auftritt, aber globale Auswirkungen hat. 2026 könnten diese außergewöhnlich stark ausfallen, denn im tropischen Pazifik ist das Wasser schon jetzt deutlich wärmer als üblich, der Höhepunkt wird im Dezember erwartet. Dadurch verändert sich die Atmosphäre weltweit. Doch vorherzusagen, was El Niño für Europa bedeutet, ist extrem schwierig.</p>\n<p>Denn wir werden nicht direkt vom warmen Pazifikwasser beeinflusst. Die Auswirkungen erreichen uns eher über atmosphärische Fernwirkungen. Eine zentrale Rolle spielen dabei sogenannte Rossby-Wellen. Das sind großräumige Wellen in der Atmosphäre, die unter anderem mit dem Jetstream zusammenhängen und sich über Tausende Kilometer ausbreiten können. Sie transportieren gewissermaßen den El Niño bis nach Europa.</p>\nKommt 2026 ein Super-El-Niño?\n<p>Das kann vor allem im Mittel- und Spätwinter kalte und trockene Wetterphasen begünstigen. Allerdings ist dieses Muster keineswegs garantiert: Frühere starke El-Niño-Ereignisse führten auch schon zu völlig anderen Wintern. Denkbar sind beispielsweise auch Kaltlufteinbrüche in Nord- und Osteuropa, während Südosteuropa milderes und feuchteres Wetter erlebt.</p>\n<p>Dass die Vorhersage so schwierig ist, liegt vor allem daran, dass jeder El Niño anders verläuft. Unterschiedliche atmosphärische Wellen und Ozeanströmungen sowie andere Faktoren wie Wetterzyklen über dem Indischen Ozean oder Vulkanausbrüche können die Auswirkungen verändern.</p>\n<p>Für Deutschland bedeutet das: Meteorologen und Meteorologinnen können nur Wahrscheinlichkeiten und Tendenzen nennen. Sicher ist vor allem eines: Der Super-El-Niño macht Europas Wetter nicht einfacher vorherzusagen.</p>\n<p><strong>Lars Fischer</strong> ist Redakteur bei <em>Spektrum der Wissenschaft</em> und befasst sich dort häufig mit Naturkatastrophen. Warum die Auswirkungen eines Super-El-Niño extrem schwer vorherzusagen sind, erklärt er im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer. Dabei geht er auch auf mögliche wirtschaftliche Folgen des Klimaphänomens ein.</p>",
+    "date": "2026-10-23T03:00:31.000Z",
+    "url": "https://feedpress.me/link/19604/17503272/spektrum-podcast-super-el-nino",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261023spektrumderwissenschaftelnino.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261023spektrumderwissenschaftelnino.63.mp3",
+    "duration": "23 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-44267099091192963",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Moderator und Autor Riccardo Simonetti im Talk über Rollenbilder",
+    "summary": "In seinem aktuellen Buch beschäftigt sich Simonetti mit neuen Vorstellungen von Männlichkeit jenseits traditioneller Rollenbilder.",
+    "date": "2026-10-22T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/moderator-und-autor-riccardo-simonetti-im-talk-ueber-rollenbilder,audio-3553218.html",
+    "image": "https://images.ndr.de/image/37e5c98d-d694-42a5-970f-8d8df5928101/AAABoWSECSU/AAABnSStX0g/1x1-big/screenshot-248602.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1023/AU-20261023-0741-1800.mp3",
+    "duration": "30 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:017e8cc6-ce49-5ec2-80d3-d00cd76f0098",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 22.10.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:56:31.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-10-104.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/kulturmeldungen_22102026_dlf_20261022_1756_7a98922a.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7adecde1-f678-5fed-8935-5ff0d340f563",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Barcelona moderna\" - Ausstellung in der Kunsthalle München",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:50:30.000Z",
+    "url": "https://www.deutschlandfunk.de/barcelona-moderna-ausstellung-in-der-kunsthalle-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/barcelona_moderna_ausstellung_in_der_kunsthalle_muenchen_dlf_20261022_1750_b896dff1.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:153b52b8-2171-5f1a-b05e-2c495e239c3d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Possible Love\" - Südkoreas Oscar-Beitrag kommt ins Kino",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:44:30.000Z",
+    "url": "https://www.deutschlandfunk.de/possible-love-suedkoreas-oscar-beitrag-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/possible_love_suedkoreas_oscar_beitrag_kommt_ins_kino_dlf_20261022_1744_39954dbb.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:20a37ee9-da00-5300-9d12-081c0a1d3ebb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Glatt gelogen: Verlag trennt sich von Starautor Thélyson Orélien",
+    "summary": "Fuhrig, Dirk www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/glatt-gelogen-verlag-trennt-sich-von-starautor-th-lyson-or-lien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/glatt_gelogen_verlag_trennt_sich_von_starautor_thelyson_dlf_20261022_1741_f6941289.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b5b57602-2462-5a25-a4fd-16741189cc7f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Manifest der Menschlichkeit - Der russische Schriftsteller Michail Schischkin",
+    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:35:39.000Z",
+    "url": "https://www.deutschlandfunk.de/manifest-der-menschlichkeit-der-russische-schriftsteller-michail-schischkin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/manifest_der_menschlichkeit_der_russische_schriftsteller_dlf_20261022_1735_ff92b13e.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4086366",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Warum so broke, Sachsen-Anhalt?",
+    "summary": "95 Prozent der Vermögen werden im Westen vererbt\n<p>Obwohl die Lohnlücke zwischen Ost und West in den letzten Jahren kleiner geworden ist, bleibt ein zentraler Unterschied enorm: das Vermögen. Ob Wohneigentum, Erbschaften oder Unternehmensanteile — Vermögen bleibt in Deutschland Jahrzehnte nach der Wiedervereinigung extrem ungleich verteilt.</p>\n<p>\n<p>Im Schnitt liegt eine Erbschaft im Westen bei rund 92.000 Euro, im Osten dagegen nur bei etwa 52.000 Euro. Erbschaften kommen im Westen außerdem deutlich häufiger vor. Bei Schenkungen fällt der Unterschied noch drastischer aus. Etwa 95 Prozent des vererbten und verschenkten steuerpflichtigen Vermögens in ganz Deutschland entfallen laut Statischem Bundesamt auf Westdeutschland.</p>\nVermögensungleichheit: Ursachen, Folgen und Wirkung\n<p>Doch woran liegt das? Welche Rolle spielen die Privatisierungswelle der 1990er-Jahre und die Entscheidungen der Treuhand? Wie wirkt sich das aus? Und wieso lohnt es sich, darüber zu sprechen? Die Antwort liegt auf der Hand, denn Vermögensungleichheit hat enormen wirtschaftlichen, politischen und gesellschaftlichen Einfluss.</p>\n<p>\n<p>In dieser Folge von „DAZWISCHEN“ sprechen Marie und Leonard über die weitreichenden Folgen der Vermögensungleichheit und warum Menschen ohne Vermögen meist härter von Krisen getroffen werden. Zusammen mit den Expertinnen <strong>Charlotte Bartels</strong> (Uni Leipzig) und <strong>Clara Löffler</strong> (LMU München) beleuchten sie die Ursachen, fragen nach den Auswirkungen für unsere Demokratie und diskutieren politische Lösungsansätze wie die neue Frühstartrente.</p>\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl und darüber hinaus ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm oder schickt uns eine Sprachnachricht über WhatsApp an die Nummer 0175 6807345. In unserem WhatsApp-Kanal bekommt ihr zusätzliche Infos. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p><em>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</em></p>",
+    "date": "2026-10-22T13:54:24.000Z",
+    "url": "https://feedpress.me/link/19604/17502868/dazwischen-vermoegen-erbe-sachsen-anhalt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261023-02dazwischen-32warumsobroke.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261023-02dazwischen-32warumsobroke.63.mp3",
+    "duration": "44 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:55b3937f-0a02-529c-9ead-8d705e1b0f9d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "KI, Macht und Widerstand –Tech Bro Topia 2",
+    "summary": "Watty, Christine www.deutschlandfunk.de, Corso",
+    "date": "2026-10-22T13:25:48.000Z",
+    "url": "https://www.deutschlandfunk.de/ki-macht-und-widerstand-tech-bro-topia-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/ki_macht_und_widerstand_tech_bro_topia_2_dlf_20261022_1525_27e956de.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:35745d7e-7f59-547e-9e77-4dd10dc96d74",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Punk Erleben - Ausstellung \"Demand The Impossible\" in Düsseldorf",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-22T13:15:20.000Z",
+    "url": "https://www.deutschlandfunk.de/punk-erleben-ausstellung-demand-the-impossible-in-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/punk_erleben_ausstellung_demand_the_impossible_in_dlf_20261022_1515_0229fd59.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1957dacd-c415-5dee-a211-dee6c41a7c79",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sollten wir nett zu Chatbots sein? Judith Simon über die Vermenschlichung von KI",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-10-22T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sollten-wir-nett-zu-chatbots-sein-judith-simon-ueber-die-vermenschlichung-von-ki-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/sollten_wir_nett_zu_chatbots_sein_judith_simon_ueber_die_dlf_20261022_1515_12e433fd.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:780e61cf-53ad-52ee-87e9-38ac55373e41",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Handwerk - Zünfte und Zukunft",
+    "summary": "Sie hobeln und kneten, hämmern und mauern, sägen, frisieren, backen Brot: Handwerker prägen seit Jahrhunderten unseren Alltag – oft unsichtbar, aber unverzichtbar. Was geht verloren, wenn Wissen, Techniken und Berufe verschwinden?<br><br>Diese Folge haben wir am 12. September in Bamberg beim <a href=\"https://www.tag-des-offenen-denkmals.de/\" rel=\"noopener\" target=\"_blank\">Tag des offenen Denkmals</a> aufgezeichnet. <br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(01:20) Wie das Handwerk unsere Sprache geprägt hat <br>(06:20) Handwerk im Mittelalter und Krise durch Industrialisierung<br>(08:30) Berufe verschwinden, neue entstehen<br>(19:30) Frauen im Handwerk<br>(41:20) Handwerkerinnen in der DDR <br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li>Der Historiker <strong>Reinhold Reith</strong> hat als Professor an der Universität Salzburg gelehrt. Zurzeit arbeitet er an einer Wissenschaftsgeschichte des Handwerks zum Thema „Das Ende der Meistererzählungen: Populäre Vorurteile über das Handwerk”.</li></ul><br><ul><li><strong>Muriel González Athenas</strong> ist Historikerin an der Universität Innsbruck und forscht u.a. zu Handwerk und Geschlecht in der Frühen Neuzeit, promoviert hat sie zum Thema “Kölner Zunfthandwerkerinnen (1650-1750). Arbeit und Geschlecht”.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler<br>Recherche, Regie und Produktion: Josephine Kuban und Carina Schroeder<br>Redaktion: Monika Dittrich <br><br><strong>Mehr \"Der Rest ist Geschichte\" in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/sklaven-geschichte-zwangsarbeit-ausbeutung-100.html\" rel=\"noopener\" target=\"_blank\">Warum es noch immer 50 Millionen Sklaven gibt </a></li><li><a href=\"https://www.deutschlandfunk.de/wolf-jagen-raubtier-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Rotkäpchens Räuber - Streit um den Wolf</a></li><li><a href=\"https://www.deutschlandfunk.de/nazi-vergleich-verharmlosung-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Was bringen Nazi-Vergleiche?</a></li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.denkmalschutz.de/aktuelles.html\" rel=\"noopener\" target=\"_blank\">Deutsche Stiftung Denkmalschutz</a></li></ul><br><strong>Unser Podcast-Tipp in dieser Woche:</strong><br><br><ul><li><a href=\"https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=9c8b64c7-a6a2-4c58-b23d-8439acc54061\" rel=\"noopener\" target=\"_blank\">Eine Stunde History</a> - der Geschichtspodcast von Deutschlandfunk Nova</li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-10-22T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/handwerk-geschichte-berufe-denkmal-100.html",
+    "image": "https://bilder.deutschlandfunk.de/62/43/80/52/62438052-1bbb-40d2-876d-231cf228b1ab/mittelalter-handwerk-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/handwerk_zuenfte_und_zukunft_dlf_20261022_1300_473746cc.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "47 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:ce994377562e6997fce09ff68d455fb2",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -18,6 +394,30 @@
     ],
     "category": [
       "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4086323",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Wie exzellent sind Exzellenzunis?",
+    "summary": "Prestige und Geld für fünf neue Exzellenzuniversitäten\nAnfang Oktober haben die Universitäten in Freiburg, Jena und Köln sowie zwei Hochschulverbünde den begehrten Status als Exzellenzuniversität erreicht . Damit wächst der Kreis von bisher 11 auf nun 15 Exzellenzstandorte . Neben Prestige geht es auch um viel Geld . Bis 2025 flossen jährlich 533 Millionen Euro in die Exzellenzstrategie.\nDer Weg zur Exzellenzuniversität\nGrundvoraussetzung für eine erfolgreiche Bewerbung ist die vorherige Bewilligung von mindestens zwei Exzellenzclustern in wettbewerbsfähigen Forschungsfeldern . Erst auf diesem Fundament können Universitäten eine dauerhafte institutionelle Förderung beantragen . Die Mittel dürfen die Hochschulen weitgehend eigenverantwortlich für Infrastruktur, Kooperationen oder Personal einsetzen .\n\nVon den dadurch angelockten Spitzenforscherinnen und -forschern profitierten durch eine bessere akademische Betreuung und Lehre mittelfristig auch die Studierenden — so die Hoffnung .\nSpitzenwerte und Schattenseiten\nWie lässt sich der Erfolg der Millionenförderung messen? Zum Beispiel an den Publikationen: Die wissenschaftlichen Publikationen aus Exzellenzcluster-Universitäten landen überdurchschnittlich oft unter den weltweit zehn Prozent der meistzitierten Facharbeiten .\n<br>\nDoch der Wettbewerb hat Schattenseiten. Kleinere und mittlere Universitäten können den bürokratischen Antragsaufwand kaum erbringen . Es entsteht die Gefahr, dass ohnehin starke Standorte immer weiter bevorzugt werden .\n\nDarum und um die Frage, wie exzellent Exzellenzuniversitäten sind, geht es in dieser Folge vom „Forschungsquartett“.",
+    "date": "2026-10-22T03:30:06.000Z",
+    "url": "https://feedpress.me/link/19604/17502695/forschungsquartett-exzellenzuniversitaeten",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/20261021fqexzellensunis.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/20261021fqexzellensunis.63.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
       "Bildung"
     ],
     "language": "de"
@@ -91,410 +491,6 @@
       "kunst",
       "film",
       "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d3940ca2-3d0e-560e-8b6c-c7e66593f5a6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bedrohte Kulturgüter in der Ukraine. Johannes Nathan im Gespräch",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-21T15:41:58.000Z",
-    "url": "https://www.deutschlandfunk.de/bedrohte-kulturgueter-in-der-ukraine-johannes-nathan-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/bedrohte_kulturgueter_in_der_ukraine_johannes_nathan_im_dlf_20261021_1741_7f4ba33b.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:04da68b1-ac1e-5871-ade8-e6f3b6f21c87",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zum Ende der Zeitschrift \"Emma\". Chris Köver, Mitgründerin des Missy Magazins iG",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-21T15:35:32.000Z",
-    "url": "https://www.deutschlandfunk.de/zum-ende-der-zeitschrift-emma-chris-koever-mitgruenderin-des-missy-magazins-ig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/zum_ende_der_zeitschrift_emma_chris_koever_mitgruenderin_des_dlf_20261021_1735_ea4a3bfa.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5237ff8b-f5c1-5615-940f-57867a6f253e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Swipen statt Flirten - Zerstören Datingplattformen die Clubkultur?",
-    "summary": "Rauchhaus, Vinz www.deutschlandfunk.de, Corso",
-    "date": "2026-10-21T13:25:42.000Z",
-    "url": "https://www.deutschlandfunk.de/swipen-statt-flirten-zerstoeren-datingplattformen-die-clubkultur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/swipen_statt_flirten_zerstoeren_datingplattformen_die_dlf_20261021_1525_33d0a25a.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:56dd1315-b941-5c61-bd7d-9832df2dfbc6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Possible Love\", \"Chopin - Eine Sonate in Paris\", \"Die andere Seite\"",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-10-21T13:15:22.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-possible-love-chopin-eine-sonate-in-paris-die-andere-seite-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/neue_filme_possible_love_chopin_eine_sonate_in_paris_die_dlf_20261021_1515_b1d2363f.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bf560a32-e572-5836-a0ee-ea3ea65b5ad1",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Possible Love\", \"Chopin - Eine Sonate in Paris\", \"Die andere Seite\"",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-10-21T13:15:02.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-possible-love-chopin-eine-sonate-in-paris-die-andere-seite-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/neue_filme_possible_love_chopin_eine_sonate_in_paris_die_dlf_20261021_1515_25ce4707.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:567ea0e5-deac-53eb-908c-993da0a6cd73",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Jelinek-Verfilmung \"Liebhaberinnen\" - Zwischen Selbstoptimierung und Patriarchat",
-    "summary": "Wokalek, Johanna; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-10-21T13:10:08.000Z",
-    "url": "https://www.deutschlandfunk.de/jelinek-verfilmung-liebhaberinnen-zwischen-selbstoptimierung-und-patriarchat-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/jelinek_verfilmung_liebhaberinnen_zwischen_selbstoptimierung_dlf_20261021_1510_8afe939b.mp3?refId=corso-104",
-    "duration": "15 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:d2d600d9bec9fdb0df221a608ec0bbdd",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Weströmisches Reich in Gefahr: \"Barbaren\" überqueren den Rhein",
-    "summary": "<p>Im Jahr 406 überqueren zehntausende Vandalen, Sueben und Alanen den Rhein. Durch die Invasion der \"Barbaren\" gerät das Weströmische Reich ins Wanken.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Tobias Sauer:</strong><br><ul><li>wie der Kirchengelehrte Hieronymus die Rheinüberquerung bewertet, </li><li>warum Historiker die genauen Ereignisse kaum rekonstruieren können,</li><li>über die schwierige Quellenlage,</li><li>was zum Untergang des Reichs geführt hat.</li></ul><br>Zu seinen Glanzzeiten erstreckt sich das Römische Reich von den Küsten Marokkos bis zu den Bergen des Kaukasus, vom nebligen Britannien bis ins heiße Mesopotamien. Im Jahr 406 setzt der Zerfall ein: Zehntausende Vandalen, Alanen und Sueben überqueren - vermutlich in Mainz - den Rhein und dringen in das Weströmische Reich ein.<br><br>Die Eindringlinge bringen die bestehende Ordnung durcheinander. Sie plündern Gallien, überqueren die Pyrenäen und unterwerfen Nordafrika - eine der reichsten römischen Provinzen. Die römischen Herrscher schaffen es nicht, den Niedergang aufzuhalten. Sieben Jahrzehnte nach der Rheinüberquerung wird der letzte Weströmische Kaiser abgesetzt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Antonia Knöpges, Historikerin, Universität Düsseldorf</li><li>Hieronymus: Brief an Geruchia. In: Bibliothek der Kirchenväter (BKV), https://bkv.unifr.ch/de sowie in </li><li>Matthias Becher: Chlodwig I. Der Aufstieg der Merowinger und das Ende der antiken Welt. 2. durchgesehene und aktualisierte Auflage. München 2024</li><li>Prosper Tiro: Chronik. In: Bruno Bleckmann/Markus Stein: Kleine und fragmentarische Historiker der Spätantike (KFHist). Paderborn 2016</li><li>Guy Halsall: Barbarian Migrations and the Roman West, 376-568. Cambridge 2007</li><li>Peter Heather: Why Did the Barbarian Cross the Rhine? In: Journal of Late Antiquity, Vol. 2, Nr. 1, S. 3-29.</li><li>Rene Pfeilschifter: Die Spätantike. Der eine Gott und die vielen Herrscher. München 2017</li><li>Roland Steinacher 2016: Die Vandalen: Aufstieg und Fall eines Barbarenreichs. Stuttgart 2016</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 9.9.384: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/flavius-honorius-100.html\" rel=\"noopener\" target=\"_blank\">Geburtstag von Kaiser Flavius Honorius</a></li><li>Zeitzeichen im Juni 455: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-rom-vandalen-eroberung-106.html\" rel=\"noopener\" target=\"_blank\">Die Vandalen unter Geiserich erobern Rom </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Tobias Sauer<br>Redaktion: Christoph Tiegel und Sefa Inci Sufak<br>Technik: Holger Maerten",
-    "date": "2026-10-21T04:00:22.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-westroemisches-reich-in-gefahr-barbaren-ueberqueren-den-rhein-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-germanen-gallien-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/09/8769de1b-8cc9-4c3e-9ae4-6e59a151f67c/8769de1b-8cc9-4c3e-9ae4-6e59a151f67c_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4076174",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Shakuntala Devi und die Kunst des Kopfrechnens",
-    "summary": "<p>Shakuntala Devi ist ein Ausnahmetalent. Binnen weniger Sekunden kann sie elfstellige Zahlen miteinander multiplizieren, Wurzeln ziehen oder Wochentage bestimmen, selbst für Daten, die Jahrhunderte zurückliegen.</p>\n<p>Devi wird Ende der 1920er-Jahre in Bengaluru in Indien geboren. Dass sie ein besonderes Talent für Zahlen hat, das merkt Devi schon früh. Mit nur drei Jahren soll sie sich die Reihenfolge eines kompletten Kartendecks gemerkt haben, mit gerade mal sechs Jahren kann sie schon mit großen Zahlen rechnen — zum Vergleich: Andere Kinder in diesem Alter lernen gerade erst, zwei und fünf zu addieren.</p>\nShakuntala Devi und die Magie der Zahlen\n<p>Dieses besondere Talent zieht sich durch Devis Leben. Sie gibt Shows, sie zeigt ihr Können im Fernsehen, an Universitäten, sie geht sogar als schnellste Kopfrechnerin ins Guinness-Buch der Rekorde ein. Und auch privat lassen die Zahlen die Frau nicht los — die Ziffern auf Kennzeichen während einer langen Autofahrt oder die Preise an der Kasse beim Einkaufen. Devi erkennt überall Muster und Spielereien.</p>\n<p>Damit beeindruckt sie mathematische Laien wie Mathematiker und Mathematikerinnen gleichermaßen. Es gibt kaum jemanden, der die Grundrechenarten so auf die Spitze treiben kann. Deswegen wird Shakuntala Devi gerne auch als „Human Computer“ bezeichnet. Der Vergleich passt ihrer Meinung nach aber gar nicht. Auf die Frage, warum sie eigentlich noch so viel im Kopf rechnet, obwohl ja mittlerweile jeder einen Taschenrechner habe, antwortet sie: Wir laufen ja auch, obwohl wir Autos haben. Wenn man doch etwas genauso gut kann wie eine Maschine, warum sollte man dann die Maschine nutzen, statt es einfach selbst zu machen?</p>\n<p>Devi gilt in ihrem Heimatland Indien nicht nur als Mathe-Ikone, sie hat darüber hinaus auch zahlreiche Bücher geschrieben. Unter anderem ist sie für ein Buch über Homosexualität bekannt, es war eines der ersten Bücher darüber in Indien und gilt bis heute als bahnbrechend für die konservative indische Gesellschaft. In dieser Folge „Geschichten aus der Mathematik“ spricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit <strong>Demian Nahuel Goos</strong> und <strong>Manon Bischoff</strong> von Spektrum der Wissenschaft über das Leben und Rechnen von Shakuntala Devi.</p>",
-    "date": "2026-10-21T03:45:14.000Z",
-    "url": "https://feedpress.me/link/19604/17501841/geschichten-aus-der-mathematik-shakuntala-devi",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261021-02geschichtenausdermathematikshakuntala-devi.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261021-02geschichtenausdermathematikshakuntala-devi.63.mp3",
-    "duration": "44 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:edacee08-3164-56b8-b9f6-8169eeacb753",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "CRASH – Eine Suche nach Lichtblicken in dunklen Zimmern",
-    "summary": "Wenn sich ihr Freund um Svenja kümmert, pinkelt er nachts in Flaschen, damit er sie bloß nicht weckt. Denn Svenja ist sehr krank, jeder Sinnesreiz ist eine Zumutung für sie. Über das Ausharren im Dunkeln und die Hoffnung auf Erkenntnisse über ME/CFS.<br><br><strong>Das erwartet euch in dieser Episode:</strong><br><br>ME/CFS ist eine Autoimmunerkrankung, für die es aktuell keine Behandlung gibt. Seit meine Freundin Svenja nach ihrer Long-Covid-Erkrankung die Diagnose ME/CFS erhalten hat, bekomme ich nur noch wenige Lebenszeichen von ihr. Ich will sie auf dem Hof ihrer Eltern besuchen, den ich noch aus Kindertagen kenne. Jetzt liegt sie dort schon seit mehreren Jahren in einem kleinen abgedunkelten Zimmer, isoliert von der Außenwelt, gefangen in ihrem erkrankten Körper.<br><br>+++++<br><br><strong>TRIGGERWARNUNG: assistierter Suizid und Suizidgedanken </strong> <br> <br>+++++<br><br><strong>Es kommen zu Wort:</strong><br><ul><li>Prof Dr. Carmen Scheibenbogen, Immunologin an der Charité Berlin</li><li>Dr. Christine Blome, forscht zur medizinischen Versorgung bei ME/CFS </li></ul><br>+++++<br><br><strong>Mehr zum Thema in der Deutschlandfunk-App</strong><br><ul><li><a href=\"https://www.deutschlandfunk.de/251226-und-jetzt-ich-habe-long-covid-podcast-episode-100.html\" rel=\"noopener\" target=\"_blank\">1: Long Covid - und jetzt?! - Dauerschmerzen, Brain Fog und Papierkrieg</a></li><li><a href=\"https://www.deutschlandfunk.de/251226-und-jetzt-ich-habe-long-covid-podcast-episode-2-neu-100.html\" rel=\"noopener\" target=\"_blank\">2: Long Covid – und jetzt?! - Suizid, Kunst und Selbstbestimmung</a></li><li><a href=\"https://www.deutschlandfunk.de/long-covid-und-jetzt-podcast-3-4-100.html\" rel=\"noopener\" target=\"_blank\">3: Long Covid - und jetzt?! - Abschied, Systemversagen und Schmerzmanagement</a></li><li><a href=\"https://www.deutschlandfunk.de/long-covid-und-jetzt-100.html\" rel=\"noopener\" target=\"_blank\">4: Long Covid - und jetzt?! - Rollator, Jubiläum und frühe Literaturspuren</a></li></ul><br>+++++<br><br>Ina-Lene Dinse, 1991 an der holsteinischen Ostsee geboren, ist Autorin für Film und Radio. Sie studierte Drehbuch an der Deutschen Film- und Fernsehakademie Berlin und gründete mit zwei Kolleginnen das Schreibkollektiv Fieber.<br><br>Eine Sendung von Ina-Lene Dinse<br>Redaktion und Dramaturgie: Lisa Steck<br>Regie: Dörte Fiedler<br>Ton und Technik: Alexander Brennecke<br>Deutschlandfunk 2026<br><br>+++++ <br><br>Unser Podcast-Tipp: <a href=\"https://www.deutschlandfunk.de/dlf-doku-100.html\" rel=\"noopener\" target=\"_blank\">Dlf Doku</a><br><br>+++++<br><br>Wenn Euch \"Dlf Doku\" gefällt, abonniert uns und empfehlt uns weiter. Feedback gerne an hoererservice@deutschlandfunk.de</a>.<br><br>Noch mehr spannende Podcasts gibt‘s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-10-20T17:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/feature-crash-leben-mit-mecfs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/63/4e/42/7a/634e427a-b701-4581-ad08-145fd5d40c20/bild-fuer-crash-lichtblicke-in-dunklen-zimmern-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/crash_eine_suche_nach_lichtblicken_in_dunklen_zimmern_dlf_20261020_1915_e17affff.mp3?refId=das-feature-104",
-    "duration": "55 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-5342303544074226",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Schauspielerin Johanna Wokalek im Talk mit Inka Schneider",
-    "summary": "Johanna Wokalek fesselt das TV-Publikum als Ermittlerin Cris Blohm im Münchner \"Polizeiruf 110\", brilliert seit Jahren auf der Theater-Bühne und auch im Kinofilm. Jetzt ist die 51-Jährige in der Adaption des Elfriede Jelinek-Romans \"Die Liebhaberinnen\" im Kino zu sehen. Auf dem Roten Sofa sprechen wir über ihre Rolle und das heutige Frauenbild. Und wir wollen wissen, wie das Staatsbankett bei Frankreichs Staatspräsident Emmanuel Macron verlief, zu dem sie in Paris,  wo sie mit ihrer Familie lebt, geladen war.",
-    "date": "2026-10-20T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspielerin-johanna-wokalek-im-talk-mit-inka-schneider,audio-3548176.html",
-    "image": "https://images.ndr.de/image/471ec9f8-1d29-44fd-bf5a-5159138bb7fe/AAABoVpMrpQ/AAABnSStX0g/1x1-big/screenshot-247368.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1020/AU-20261020-2020-0000.mp3",
-    "duration": "32 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8b5947e8-e072-5b23-ab14-423c11ce5959",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 20.10.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/kulturmeldungen_20102026_dlf_20261020_1756_071af44d.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cfb963b1-33b9-58aa-b71b-b17e714a7af0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach der Haft - Ein Treffen mit belarussischen Widerständlern",
-    "summary": "Hamel, Christine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-der-haft-ein-treffen-mit-belarussischen-widerstaendlern-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/nach_der_haft_ein_treffen_mit_belarussischen_widerstaendlern_dlf_20261020_1750_901765e3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3664c1fe-4260-51a0-bd39-d7e887f7621c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wut und Worte - Dokumentarfilmerin Claudia Müller über Elfriede Jelinek zum 80.",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wut-und-worte-dokumentarfilmerin-claudia-mueller-ueber-elfriede-jelinek-zum-80-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/wut_und_worte_dokumentarfilmerin_claudia_mueller_ueber_dlf_20261020_1741_36158c85.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a8a8ab9e-2f47-5c41-9e8d-11d6406f0c6e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kampf der Narrative - Zur historisch-politischen Einordnung der frz. Proteste",
-    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kampf-der-narrative-zur-historisch-politischen-einordnung-der-frz-proteste-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/kampf_der_narrative_zur_historisch_politischen_einordnung_dlf_20261020_1736_e713c427.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:26bc0633-2a96-5b82-a065-63c5d257575f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Manfred Krug - der lässigste Pop-Macho der DDR?",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-10-20T13:15:39.000Z",
-    "url": "https://www.deutschlandfunk.de/manfred-krug-der-laessigste-pop-macho-der-ddr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/manfred_krug_der_laessigste_pop_macho_der_ddr_dlf_20261020_1515_b6951c31.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:62629732-8e93-56d8-8b46-c667b55124b2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Karlsruher Marsmission wird zur Kunstperformance",
-    "summary": "Wetzel, Marie-Dominique www.deutschlandfunk.de, Corso",
-    "date": "2026-10-20T13:10:46.000Z",
-    "url": "https://www.deutschlandfunk.de/karlsruher-marsmission-wird-zur-kunstperformance-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/karlsruher_marsmission_wird_zur_kunstperformance_dlf_20261020_1510_c19c01de.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
       "deutschlandfunk"
     ],
     "category": [

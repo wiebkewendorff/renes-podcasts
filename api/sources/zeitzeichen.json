@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:46882a5909d27b46618cf362d4fcc307",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Ungarn 1956: Ein Junge, ein Aufstand, ein zerstörter Traum",
+    "summary": "<p>1956 geht der 15-jährige Géza in Budapest auf die Straße. Er erlebt Euphorie und Angst, sowjetische Panzer und einige Tage Freiheit - bis der Aufstand scheitert.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Michael Richmann:</strong><br><ul><li>wodurch Nikita Chruschtschow die Hoffnung auf Reformen weckt,</li><li>warum Polen zum Vorbild für Ungarn wird,</li><li>dass Ungarn den Westen vergeblich um Hilfe bittet,</li><li>warum der missglückte Aufstand auch ein Versagen der Führungsspitzen ist.</li></ul><br>Was als Studentenproteste auf den Straßen in Budapest beginnt, entwickelt sich schnell zu einer Volksbewegung und erzielt zunächst Erfolge. Der abgesetzte Reformkommunist Imre Nagy kehrt als Ministerpräsident zurück. Und trotz blutiger Auseinandersetzungen mit Todesopfern auf beiden Seiten sieht es einige Tage so aus, als könnte der Aufstand Erfolg haben. <br><br>In Budapest und Moskau wird derweil um das weitere Vorgehen gerungen. Sollen Reformen zugelassen werden oder die Partei auf ihrem bisherigen Kurs beharren? Als Ungarn den Austritt aus dem Warschauer Pakt ankündigt, ist für den Kreml eine rote Linie überschritten. Die Sowjetarmee schlägt den Aufstand mit Panzern und militärischer Gewalt brutal nieder.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Beáta Márkus , Historikerin, Institut für donauschwäbische Geschichte und Landeskunde, Expertin für Erinnerungspolitik und Erinnerungskultur in Ungarn</li><li> Géza Jeszenszky , Zeitzeuge, Historiker und ungarischer Diplomat </li><li>György Dalos: 1956. Der Aufstand in Ungarn. München 2006</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>ARD Mediathek: <a href=\"https://www.ardmediathek.de/video/panorama/aufstieg-und-fall-gomulka/das-erste/Y3JpZDovL25kci5kZS9kMGZmODcxNi02Y2NmLTQ0OTAtYWZlMi01YTlkNmFiYzIxNmQ\" rel=\"noopener\" target=\"_blank\">Aufstieg und Fall Gomulka </a></li><li>ARD Sounds: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:bc72206c079400ca/\" rel=\"noopener\" target=\"_blank\">Abrechnung mit Stalins Personenkult: Chruschtschows Geheimrede</a></li><li>Bundeszentrale für politische Bildung: <a href=\"https://www.bpb.de/shop/zeitschriften/apuz/29773/krisenjahr-1956/#content-index\" rel=\"noopener\" target=\"_blank\">Krisenjahr 1956 </a>(Aus Politik und Zeitgeschichte)</li><li>Zeitzeichen 14.02.1956: Beginn der <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/entstalinisierung-100.html\" rel=\"noopener\" target=\"_blank\">Entstalinisierung in der Sowjetunion</a></li><li>Zeitzeichen 05.03.1953: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/josefstalin100.html\" rel=\"noopener\" target=\"_blank\">Todestag von Josef Stalin</a> </li><li>Zeitzeichen 17.04.1894: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-nikita-chruschtschow-102.html\" rel=\"noopener\" target=\"_blank\">Geburtstag des sowjetischen Politikers Nikita Chruschtschow</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Michael Richmann<br>Redaktion: Matti Hesse",
+    "date": "2026-10-23T04:00:15.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ungarn-ein-junge-ein-aufstand-ein-zerstoerter-traum-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-ungarn-aufstand-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/19/a676b9f6-01de-4370-9966-63a73cabf1a2/a676b9f6-01de-4370-9966-63a73cabf1a2_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:ce994377562e6997fce09ff68d455fb2",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -195,29 +218,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/winnie-the-pooh-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/07/4c82f359-374d-4e84-88d6-4f3dd841fb03/4c82f359-374d-4e84-88d6-4f3dd841fb03_MP3-128.mp3",
     "duration": "14 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:b9b12c9d64d7cc171600b91575214c32",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Zeitweise mehr Plattenverkäufe als die Beatles: Paul Simon",
-    "summary": "<p>Kritiker werfen Simon (geb. 13.10.1941) vor, zu glatt zu klingen. Sein Erfolg erzählt anderes - als \"Simon & Garfunkel\" und solo, immer melancholisch und mit feinem Humor.\n</p><br><br><p><strong>In diesem Zeitzeichen erzählt Thomas Pfaff:</strong><br><ul><li>wie ein Teenager aus Queens gemeinsam mit Art Garfunkel erste Schritte ins Musikgeschäft macht,</li><li>warum \" The Sound of Silence \" zum Welthit wird,</li><li>weshalb \" Simon & Garfunkel \" trotz ihres Erfolgs von Spannungen geprägt sind,</li><li>wie das Album \" Graceland \" Paul Simons Karriere neu belebt,</li><li>warum seine Lieder bis heute Generationen von Musikfans begeistern.</li></ul><br> Paul Simon gehört zu den bedeutendsten Songschreibern der Popgeschichte. Schon früh sucht er nach dem perfekten Zusammenspiel von Melodie, Harmonie und Text. Mit Art Garfunkel bildet er eines der erfolgreichsten Duos der 1960er Jahre und liefert Songs, die weit über ihre Entstehungszeit hinauswirken.<br><br>Doch hinter den Erfolgen stehen auch Selbstzweifel, künstlerische Konflikte und die ständige Suche nach neuen Ausdrucksformen. Von den Folk-Anfängen über Welthits bis zur Zusammenarbeit mit südafrikanischen Musikern zeigt sich ein Künstler, der sich immer wieder neu erfindet.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Christoph Dallach (Musikjournalist)</li><li>Marc Eliot: Paul Simon - die Biographie. Hamburg 2011</li><li>Susan Steinberg und Susan Lacy: Rockgeschichten: Paul Simon / Born At The Right Time . Dokumentarfilm, 1993</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag 19.09.1981: <a href=\"https://www1.wdr.de/stichtag/stichtag-simon-garfunkel-central-park-100.html\" rel=\"noopener\" target=\"_blank\">Simon and Garfunkel spielen \"The Concert in Central Park\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Thomas Pfaff<br>Redaktion: Carolin Rückl und Matti Hesse<br>Technik: Petra Laubach",
-    "date": "2026-10-13T04:00:36.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-zeitweise-mehr-plattenverkaeufe-als-die-beatles-paul-simon-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-paul-simon-geburtstag-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/08/fe599273-1230-4e1f-8032-e6abb7a2be11/fe599273-1230-4e1f-8032-e6abb7a2be11_MP3-128.mp3",
-    "duration": "15 Min",
     "tags": [
       "geschichte",
       "bildung",

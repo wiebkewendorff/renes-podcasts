@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-44267099091192963",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Moderator und Autor Riccardo Simonetti im Talk über Rollenbilder",
+    "summary": "In seinem aktuellen Buch beschäftigt sich Simonetti mit neuen Vorstellungen von Männlichkeit jenseits traditioneller Rollenbilder.",
+    "date": "2026-10-22T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/moderator-und-autor-riccardo-simonetti-im-talk-ueber-rollenbilder,audio-3553218.html",
+    "image": "https://images.ndr.de/image/37e5c98d-d694-42a5-970f-8d8df5928101/AAABoWSECSU/AAABnSStX0g/1x1-big/screenshot-248602.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1023/AU-20261023-0741-1800.mp3",
+    "duration": "30 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-7826139600739443",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/1297e31d-e21b-4a67-ba07-e43c77b359cf/AAABoUroLlM/AAABnSStX0g/1x1-big/screenshot-246182.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-0907-2600.mp3",
     "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-8368712406881168",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Poetry-Künstlerin Clara Lösel über lebensverändernde Texte",
-    "summary": "Bekannt wurde Clara Lösel durch emotionale und gesellschaftskritische Gedichte auf Social Media. Ihre nahbare Poesie handelt von mentaler Gesundheit, Politik, dem Erwachsenwerden und baut Brücken zwischen den Generationen. Allein Lösels Gedicht \"Faschistendöner\", mit dem sie sich gegen Rechtspopulismus wandte, erreichte millionenfache Abrufe. Jetzt ist ihr Buch \"Ich dachte, sowas fühl nur ich\" erschienen, in dem sie 101 Texte versammelt, die lebensverändernd wirken sollen.",
-    "date": "2026-10-16T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/poetry-kuenstlerin-clara-loesel-ueber-lebensveraendernde-texte,audio-3541236.html",
-    "image": "https://images.ndr.de/image/2915a93e-fce1-46e4-ae7c-8158c2534e1d/AAABoUXGCQ0/AAABnSStX0g/1x1-big/screenshot-245506.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1016/AU-20261016-1948-3300.mp3",
-    "duration": "40 Min",
     "tags": [
       "beatles",
       "popgeschichte",

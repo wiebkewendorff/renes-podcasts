@@ -1,5 +1,237 @@
 [
   {
+    "id": "dlf-kultur-heute:017e8cc6-ce49-5ec2-80d3-d00cd76f0098",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 22.10.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:56:31.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-10-104.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/kulturmeldungen_22102026_dlf_20261022_1756_7a98922a.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7adecde1-f678-5fed-8935-5ff0d340f563",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Barcelona moderna\" - Ausstellung in der Kunsthalle München",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:50:30.000Z",
+    "url": "https://www.deutschlandfunk.de/barcelona-moderna-ausstellung-in-der-kunsthalle-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/barcelona_moderna_ausstellung_in_der_kunsthalle_muenchen_dlf_20261022_1750_b896dff1.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:153b52b8-2171-5f1a-b05e-2c495e239c3d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Possible Love\" - Südkoreas Oscar-Beitrag kommt ins Kino",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:44:30.000Z",
+    "url": "https://www.deutschlandfunk.de/possible-love-suedkoreas-oscar-beitrag-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/possible_love_suedkoreas_oscar_beitrag_kommt_ins_kino_dlf_20261022_1744_39954dbb.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:20a37ee9-da00-5300-9d12-081c0a1d3ebb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Glatt gelogen: Verlag trennt sich von Starautor Thélyson Orélien",
+    "summary": "Fuhrig, Dirk www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/glatt-gelogen-verlag-trennt-sich-von-starautor-th-lyson-or-lien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/glatt_gelogen_verlag_trennt_sich_von_starautor_thelyson_dlf_20261022_1741_f6941289.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b5b57602-2462-5a25-a4fd-16741189cc7f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Manifest der Menschlichkeit - Der russische Schriftsteller Michail Schischkin",
+    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:35:39.000Z",
+    "url": "https://www.deutschlandfunk.de/manifest-der-menschlichkeit-der-russische-schriftsteller-michail-schischkin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/manifest_der_menschlichkeit_der_russische_schriftsteller_dlf_20261022_1735_ff92b13e.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:55b3937f-0a02-529c-9ead-8d705e1b0f9d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "KI, Macht und Widerstand –Tech Bro Topia 2",
+    "summary": "Watty, Christine www.deutschlandfunk.de, Corso",
+    "date": "2026-10-22T13:25:48.000Z",
+    "url": "https://www.deutschlandfunk.de/ki-macht-und-widerstand-tech-bro-topia-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/ki_macht_und_widerstand_tech_bro_topia_2_dlf_20261022_1525_27e956de.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:35745d7e-7f59-547e-9e77-4dd10dc96d74",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Punk Erleben - Ausstellung \"Demand The Impossible\" in Düsseldorf",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-22T13:15:20.000Z",
+    "url": "https://www.deutschlandfunk.de/punk-erleben-ausstellung-demand-the-impossible-in-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/punk_erleben_ausstellung_demand_the_impossible_in_dlf_20261022_1515_0229fd59.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1957dacd-c415-5dee-a211-dee6c41a7c79",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sollten wir nett zu Chatbots sein? Judith Simon über die Vermenschlichung von KI",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-10-22T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sollten-wir-nett-zu-chatbots-sein-judith-simon-ueber-die-vermenschlichung-von-ki-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/sollten_wir_nett_zu_chatbots_sein_judith_simon_ueber_die_dlf_20261022_1515_12e433fd.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:780e61cf-53ad-52ee-87e9-38ac55373e41",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Handwerk - Zünfte und Zukunft",
+    "summary": "Sie hobeln und kneten, hämmern und mauern, sägen, frisieren, backen Brot: Handwerker prägen seit Jahrhunderten unseren Alltag – oft unsichtbar, aber unverzichtbar. Was geht verloren, wenn Wissen, Techniken und Berufe verschwinden?<br><br>Diese Folge haben wir am 12. September in Bamberg beim <a href=\"https://www.tag-des-offenen-denkmals.de/\" rel=\"noopener\" target=\"_blank\">Tag des offenen Denkmals</a> aufgezeichnet. <br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(01:20) Wie das Handwerk unsere Sprache geprägt hat <br>(06:20) Handwerk im Mittelalter und Krise durch Industrialisierung<br>(08:30) Berufe verschwinden, neue entstehen<br>(19:30) Frauen im Handwerk<br>(41:20) Handwerkerinnen in der DDR <br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li>Der Historiker <strong>Reinhold Reith</strong> hat als Professor an der Universität Salzburg gelehrt. Zurzeit arbeitet er an einer Wissenschaftsgeschichte des Handwerks zum Thema „Das Ende der Meistererzählungen: Populäre Vorurteile über das Handwerk”.</li></ul><br><ul><li><strong>Muriel González Athenas</strong> ist Historikerin an der Universität Innsbruck und forscht u.a. zu Handwerk und Geschlecht in der Frühen Neuzeit, promoviert hat sie zum Thema “Kölner Zunfthandwerkerinnen (1650-1750). Arbeit und Geschlecht”.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler<br>Recherche, Regie und Produktion: Josephine Kuban und Carina Schroeder<br>Redaktion: Monika Dittrich <br><br><strong>Mehr \"Der Rest ist Geschichte\" in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/sklaven-geschichte-zwangsarbeit-ausbeutung-100.html\" rel=\"noopener\" target=\"_blank\">Warum es noch immer 50 Millionen Sklaven gibt </a></li><li><a href=\"https://www.deutschlandfunk.de/wolf-jagen-raubtier-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Rotkäpchens Räuber - Streit um den Wolf</a></li><li><a href=\"https://www.deutschlandfunk.de/nazi-vergleich-verharmlosung-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Was bringen Nazi-Vergleiche?</a></li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.denkmalschutz.de/aktuelles.html\" rel=\"noopener\" target=\"_blank\">Deutsche Stiftung Denkmalschutz</a></li></ul><br><strong>Unser Podcast-Tipp in dieser Woche:</strong><br><br><ul><li><a href=\"https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=9c8b64c7-a6a2-4c58-b23d-8439acc54061\" rel=\"noopener\" target=\"_blank\">Eine Stunde History</a> - der Geschichtspodcast von Deutschlandfunk Nova</li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-10-22T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/handwerk-geschichte-berufe-denkmal-100.html",
+    "image": "https://bilder.deutschlandfunk.de/62/43/80/52/62438052-1bbb-40d2-876d-231cf228b1ab/mittelalter-handwerk-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/handwerk_zuenfte_und_zukunft_dlf_20261022_1300_473746cc.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "47 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:2ea6ae54-bbf8-5ae8-a785-192d7190c225",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -256,84 +488,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:cfb963b1-33b9-58aa-b71b-b17e714a7af0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach der Haft - Ein Treffen mit belarussischen Widerständlern",
-    "summary": "Hamel, Christine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-der-haft-ein-treffen-mit-belarussischen-widerstaendlern-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/nach_der_haft_ein_treffen_mit_belarussischen_widerstaendlern_dlf_20261020_1750_901765e3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3664c1fe-4260-51a0-bd39-d7e887f7621c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wut und Worte - Dokumentarfilmerin Claudia Müller über Elfriede Jelinek zum 80.",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wut-und-worte-dokumentarfilmerin-claudia-mueller-ueber-elfriede-jelinek-zum-80-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/wut_und_worte_dokumentarfilmerin_claudia_mueller_ueber_dlf_20261020_1741_36158c85.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a8a8ab9e-2f47-5c41-9e8d-11d6406f0c6e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kampf der Narrative - Zur historisch-politischen Einordnung der frz. Proteste",
-    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kampf-der-narrative-zur-historisch-politischen-einordnung-der-frz-proteste-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/kampf_der_narrative_zur_historisch_politischen_einordnung_dlf_20261020_1736_e713c427.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:26bc0633-2a96-5b82-a065-63c5d257575f",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -384,58 +538,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:75dc7c3e-3bb3-599c-a62a-8f7a06c157c1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 19.10.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-19T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/kulturmeldungen_19102026_dlf_20261019_1756_bdf8f59d.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2283bded-eee1-5692-8193-89fa49bd1152",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Whistler. Dandy and Disruptor\": Amsterdam zeigt europaweit größte Gesamtschau",
-    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-19T15:51:22.000Z",
-    "url": "https://www.deutschlandfunk.de/whistler-dandy-and-disruptor-amsterdam-zeigt-europaweit-groesste-gesamtschau-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/whistler_dandy_and_disruptor_amsterdam_zeigt_europaweit_dlf_20261019_1751_5afbb12c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:545aedb6-8ebc-543e-986b-8099b8f34154",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -447,81 +549,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/disco_und_dandiya_wie_religion_fuer_indiens_genz_zum_rave_dlf_20261019_1520_02752998.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:6113e9a7-d6b7-5556-92d7-da84cd2c417f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gut geklaut ist halb viral - Warum Creator*innen ständig dieselben Witze machen",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-10-19T13:15:19.000Z",
-    "url": "https://www.deutschlandfunk.de/gut-geklaut-ist-halb-viral-warum-creator-innen-staendig-dieselben-witze-machen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/gut_geklaut_ist_halb_viral_warum_creatorinnen_staendig_dlf_20261019_1515_8e742a5e.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d5f2dfd4-478c-5f4f-9cff-b819785b3433",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deep-Fakes und digitale Gewalt - Was bringt das geplante Gesetz?",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-19T13:06:53.000Z",
-    "url": "https://www.deutschlandfunk.de/deep-fakes-und-digitale-gewalt-was-bringt-das-geplante-gesetz-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/deep_fakes_und_digitale_gewalt_was_bringt_das_geplante_dlf_20261019_1506_afbbb54e.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4779c0df-8439-5da3-bc4e-95644568b8ca",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hoffnung ist ein Kraftakt - Endless Wellness über ihr Album \"Domino Days\"",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-10-17T13:35:00.000Z",
-    "url": "https://www.deutschlandfunk.de/hoffnung-ist-ein-kraftakt-endless-wellness-ueber-ihr-album-domino-days-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/hoffnung_ist_ein_kraftakt_endless_wellness_ueber_ihr_album_dlf_20261017_1535_6b4ab20a.mp3?refId=corso-104",
-    "duration": "13 Min",
     "tags": [
       "kultur",
       "pop",
@@ -1382,33 +1409,6 @@
     "image": "https://bilder.deutschlandfunk.de/78/81/22/22/78812222-6242-4881-a651-902260b6919d/hosts-der-rest-ist-geschichte-tran-biesler-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/09/drig_live_erlebt_uns_auf_der_buehne_in_bruessel_und_bamberg_dlf_20260809_0927_481ffede.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
     "duration": "1 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:c76fd743-4d1c-592b-b5da-7b0c345cf711",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Böser geht’s nicht - Was bringen Nazi-Vergleiche?",
-    "summary": "Der Bundeskanzler wurde schon als Nazi bezeichnet, Björn Höcke von der AfD natürlich auch. Die Abschiebetruppe ICE in den USA gilt manchen als „Gestapo“. Und selbst Israel wird mit Holocaust-Vorwürfen belegt. Muss das sein?<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(03:11) Was bringen Nazi-Vergleiche?<br>(08:00) Kalter Krieg: Die DDR vergleicht die Bundesrepublik mit der NS-Diktatur<br>(16:15) Die AfD und die Grenze des Sagbaren<br>(28:00) Der Historikerstreit von 1986<br>(35:00) Israel als Ziel von Holocaust-Vergleichen<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li>Die Historikerin <strong>Angelika Königseder</strong> arbeitet am Zentrum für Antisemitismusforschung der Technischen Universität Berlin, zu ihren Schwerpunkten gehören visueller Antisemitismus und Vorurteilsforschung.</li></ul><br><ul><li><strong>Berit Kö</strong> ist Historikerin an der Friedrich-Schiller-Universität in Jena, dort arbeitet sie im Projekt \"Geschichte statt Mythen\" unter anderem zu Geschichtsrevisionismus.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Christian Röther und Robert Hauspurg <br>Faktencheck: Zeyneb Karahan und Kathrin Krautwasser<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/voelkermord-voelkerrecht-holocaust-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Völkermord </li><li><a href=\"https://www.deutschlandfunk.de/geschichtsfaelschungen-hitler-war-nicht-links-102.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a>: War Hitler links?</li><li><a href=\"https://www.deutschlandfunk.de/faschismus-kampfbegriff-geschichte-trump-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte:</a> Was ist Faschismus?</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Artikel in <a href=\"https://www.bpb.de/shop/zeitschriften/apuz/archiv/534609/deutsche-identitaet-und-historischer-vergleich-nach-dem-historikerstreit/\" rel=\"noopener\" target=\"_blank\">Aus Politik und Zeitgeschichte</a> über den Historikerstreit 1986</li><li>Forschungsprojekt <a href=\"https://www.geschichte-statt-mythen.de/\" rel=\"noopener\" target=\"_blank\">Geschichte statt Mythen </a>an der Universität Jena</li></ul><br><strong>\"Der Rest ist Geschichte\" geht auf Tour: </strong><br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen </a>- mit Volker Depkat<br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-20T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nazi-vergleich-verharmlosung-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e4/79/72/74/e4797274-54e7-4b7b-a88a-cf2f47bad816/adolf-hitler-108-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/20/geschichte_als_argument_sind_nazi_vergleiche_okay_dlf_20260820_1300_74f4fffb.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "50 Min",
     "tags": [
       "geschichte",
       "zeitgeschichte",

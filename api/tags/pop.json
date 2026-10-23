@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:55b3937f-0a02-529c-9ead-8d705e1b0f9d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "KI, Macht und Widerstand –Tech Bro Topia 2",
+    "summary": "Watty, Christine www.deutschlandfunk.de, Corso",
+    "date": "2026-10-22T13:25:48.000Z",
+    "url": "https://www.deutschlandfunk.de/ki-macht-und-widerstand-tech-bro-topia-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/ki_macht_und_widerstand_tech_bro_topia_2_dlf_20261022_1525_27e956de.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:35745d7e-7f59-547e-9e77-4dd10dc96d74",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Punk Erleben - Ausstellung \"Demand The Impossible\" in Düsseldorf",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-22T13:15:20.000Z",
+    "url": "https://www.deutschlandfunk.de/punk-erleben-ausstellung-demand-the-impossible-in-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/punk_erleben_ausstellung_demand_the_impossible_in_dlf_20261022_1515_0229fd59.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1957dacd-c415-5dee-a211-dee6c41a7c79",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Sollten wir nett zu Chatbots sein? Judith Simon über die Vermenschlichung von KI",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-10-22T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sollten-wir-nett-zu-chatbots-sein-judith-simon-ueber-die-vermenschlichung-von-ki-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/sollten_wir_nett_zu_chatbots_sein_judith_simon_ueber_die_dlf_20261022_1515_12e433fd.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:5237ff8b-f5c1-5615-940f-57867a6f253e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/disco_und_dandiya_wie_religion_fuer_indiens_genz_zum_rave_dlf_20261019_1520_02752998.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:6113e9a7-d6b7-5556-92d7-da84cd2c417f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gut geklaut ist halb viral - Warum Creator*innen ständig dieselben Witze machen",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-10-19T13:15:19.000Z",
-    "url": "https://www.deutschlandfunk.de/gut-geklaut-ist-halb-viral-warum-creator-innen-staendig-dieselben-witze-machen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/gut_geklaut_ist_halb_viral_warum_creatorinnen_staendig_dlf_20261019_1515_8e742a5e.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d5f2dfd4-478c-5f4f-9cff-b819785b3433",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deep-Fakes und digitale Gewalt - Was bringt das geplante Gesetz?",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-19T13:06:53.000Z",
-    "url": "https://www.deutschlandfunk.de/deep-fakes-und-digitale-gewalt-was-bringt-das-geplante-gesetz-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/deep_fakes_und_digitale_gewalt_was_bringt_das_geplante_dlf_20261019_1506_afbbb54e.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4779c0df-8439-5da3-bc4e-95644568b8ca",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hoffnung ist ein Kraftakt - Endless Wellness über ihr Album \"Domino Days\"",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-10-17T13:35:00.000Z",
-    "url": "https://www.deutschlandfunk.de/hoffnung-ist-ein-kraftakt-endless-wellness-ueber-ihr-album-domino-days-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/hoffnung_ist_ein_kraftakt_endless_wellness_ueber_ihr_album_dlf_20261017_1535_6b4ab20a.mp3?refId=corso-104",
-    "duration": "13 Min",
     "tags": [
       "kultur",
       "pop",

@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:017e8cc6-ce49-5ec2-80d3-d00cd76f0098",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 22.10.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:56:31.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-10-104.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/kulturmeldungen_22102026_dlf_20261022_1756_7a98922a.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7adecde1-f678-5fed-8935-5ff0d340f563",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Barcelona moderna\" - Ausstellung in der Kunsthalle München",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:50:30.000Z",
+    "url": "https://www.deutschlandfunk.de/barcelona-moderna-ausstellung-in-der-kunsthalle-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/barcelona_moderna_ausstellung_in_der_kunsthalle_muenchen_dlf_20261022_1750_b896dff1.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:153b52b8-2171-5f1a-b05e-2c495e239c3d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Possible Love\" - Südkoreas Oscar-Beitrag kommt ins Kino",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:44:30.000Z",
+    "url": "https://www.deutschlandfunk.de/possible-love-suedkoreas-oscar-beitrag-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/possible_love_suedkoreas_oscar_beitrag_kommt_ins_kino_dlf_20261022_1744_39954dbb.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:20a37ee9-da00-5300-9d12-081c0a1d3ebb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Glatt gelogen: Verlag trennt sich von Starautor Thélyson Orélien",
+    "summary": "Fuhrig, Dirk www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/glatt-gelogen-verlag-trennt-sich-von-starautor-th-lyson-or-lien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/glatt_gelogen_verlag_trennt_sich_von_starautor_thelyson_dlf_20261022_1741_f6941289.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b5b57602-2462-5a25-a4fd-16741189cc7f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Manifest der Menschlichkeit - Der russische Schriftsteller Michail Schischkin",
+    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-22T15:35:39.000Z",
+    "url": "https://www.deutschlandfunk.de/manifest-der-menschlichkeit-der-russische-schriftsteller-michail-schischkin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/manifest_der_menschlichkeit_der_russische_schriftsteller_dlf_20261022_1735_ff92b13e.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:2ea6ae54-bbf8-5ae8-a785-192d7190c225",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/kulturmeldungen_20102026_dlf_20261020_1756_071af44d.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cfb963b1-33b9-58aa-b71b-b17e714a7af0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach der Haft - Ein Treffen mit belarussischen Widerständlern",
-    "summary": "Hamel, Christine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-der-haft-ein-treffen-mit-belarussischen-widerstaendlern-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/nach_der_haft_ein_treffen_mit_belarussischen_widerstaendlern_dlf_20261020_1750_901765e3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3664c1fe-4260-51a0-bd39-d7e887f7621c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wut und Worte - Dokumentarfilmerin Claudia Müller über Elfriede Jelinek zum 80.",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wut-und-worte-dokumentarfilmerin-claudia-mueller-ueber-elfriede-jelinek-zum-80-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/wut_und_worte_dokumentarfilmerin_claudia_mueller_ueber_dlf_20261020_1741_36158c85.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a8a8ab9e-2f47-5c41-9e8d-11d6406f0c6e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kampf der Narrative - Zur historisch-politischen Einordnung der frz. Proteste",
-    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kampf-der-narrative-zur-historisch-politischen-einordnung-der-frz-proteste-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/kampf_der_narrative_zur_historisch_politischen_einordnung_dlf_20261020_1736_e713c427.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:75dc7c3e-3bb3-599c-a62a-8f7a06c157c1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 19.10.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-19T15:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/kulturmeldungen_19102026_dlf_20261019_1756_bdf8f59d.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2283bded-eee1-5692-8193-89fa49bd1152",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Whistler. Dandy and Disruptor\": Amsterdam zeigt europaweit größte Gesamtschau",
-    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-19T15:51:22.000Z",
-    "url": "https://www.deutschlandfunk.de/whistler-dandy-and-disruptor-amsterdam-zeigt-europaweit-groesste-gesamtschau-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/whistler_dandy_and_disruptor_amsterdam_zeigt_europaweit_dlf_20261019_1751_5afbb12c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
