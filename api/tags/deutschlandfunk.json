@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:b2f7351f-54e8-51a9-8c4c-bebf9f0fcb7d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 23.10.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-23T15:56:05.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/kulturmeldungen_23102026_dlf_20261023_1756_7499ab5f.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3c3cb057-5df0-57bb-8163-81754dd69ef8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Umgang mit Texten befähigen. Helmuth Feilke, Präs. Akademie Sprache Dichtung",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-23T15:46:10.000Z",
+    "url": "https://www.deutschlandfunk.de/zum-umgang-mit-texten-befaehigen-helmuth-feilke-praes-akademie-sprache-dichtung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/zum_umgang_mit_texten_befaehigen_helmuth_feilke_praes_dlf_20261023_1746_5697d9f1.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f71cb32c-c7c7-55b8-a4c7-b92da533a5b7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Blauen Reiterinnen\" - Ausstellung im Museum Wiesbaden",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-23T15:40:50.000Z",
+    "url": "https://www.deutschlandfunk.de/die-blauen-reiterinnen-ausstellung-im-museum-wiesbaden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/die_blauen_reiterinnen_ausstellung_im_museum_wiesbaden_dlf_20261023_1740_4b94f498.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a4eff543-bd3c-56d3-adc7-56ef56b2b246",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Ein Übertritt\" - Jossi Wieler inszeniert Elfriede Jelinek in Düsseldorf",
+    "summary": "Luft, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-23T15:35:35.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-uebertritt-jossi-wieler-inszeniert-elfriede-jelinek-in-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/ein_uebertritt_jossi_wieler_inszeniert_elfriede_jelinek_in_dlf_20261023_1735_df9147f5.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:5c0dd199-470f-5b99-8113-3daa6364cee6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mit Smartphone und QR-Code - Technik auf der Messe \"Spiel Essen\"",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-23T13:25:24.000Z",
+    "url": "https://www.deutschlandfunk.de/mit-smartphone-und-qr-code-technik-auf-der-messe-spiel-essen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/mit_smartphone_und_qr_code_technik_auf_der_messe_spiel_essen_dlf_20261023_1525_861040aa.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b6fbc49a-9ef6-5f34-9124-b3fbd5ed0e0d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Brasiliens Popkultur vor der Stichwahl",
+    "summary": "Wahl, Daniel Fernando www.deutschlandfunk.de, Corso",
+    "date": "2026-10-23T13:08:46.000Z",
+    "url": "https://www.deutschlandfunk.de/brasiliens-popkultur-vor-der-stichwahl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/brasiliens_popkultur_vor_der_stichwahl_dlf_20261023_1508_ff0ec71c.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f96d4b73-520b-5260-8600-eaed05801546",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Serie \"Wake Up\" - Luna Jordans letzte Rolle, Bewusstseinstransfers und Wuppertal",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-23T13:05:01.000Z",
+    "url": "https://www.deutschlandfunk.de/serie-wake-up-luna-jordans-letzte-rolle-bewusstseinstransfers-und-wuppertal-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/serie_wake_up_luna_jordans_letzte_rolle_dlf_20261023_1505_10c9d913.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:017e8cc6-ce49-5ec2-80d3-d00cd76f0098",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -258,84 +437,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:12a1d06f-4494-577b-b9a2-66ade1472ca9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Chopin - Ein neuer Film, ein neues Buch über den Pianisten",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-21T15:50:50.000Z",
-    "url": "https://www.deutschlandfunk.de/chopin-ein-neuer-film-ein-neues-buch-ueber-den-pianisten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/chopin_ein_neuer_film_ein_neues_buch_ueber_den_pianisten_dlf_20261021_1750_7f4cad67.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d3940ca2-3d0e-560e-8b6c-c7e66593f5a6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bedrohte Kulturgüter in der Ukraine. Johannes Nathan im Gespräch",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-21T15:41:58.000Z",
-    "url": "https://www.deutschlandfunk.de/bedrohte-kulturgueter-in-der-ukraine-johannes-nathan-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/bedrohte_kulturgueter_in_der_ukraine_johannes_nathan_im_dlf_20261021_1741_7f4ba33b.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:04da68b1-ac1e-5871-ade8-e6f3b6f21c87",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zum Ende der Zeitschrift \"Emma\". Chris Köver, Mitgründerin des Missy Magazins iG",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-21T15:35:32.000Z",
-    "url": "https://www.deutschlandfunk.de/zum-ende-der-zeitschrift-emma-chris-koever-mitgruenderin-des-missy-magazins-ig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/zum_ende_der_zeitschrift_emma_chris_koever_mitgruenderin_des_dlf_20261021_1735_ea4a3bfa.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:5237ff8b-f5c1-5615-940f-57867a6f253e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -458,107 +559,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8b5947e8-e072-5b23-ab14-423c11ce5959",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 20.10.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-20T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/kulturmeldungen_20102026_dlf_20261020_1756_071af44d.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:26bc0633-2a96-5b82-a065-63c5d257575f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Manfred Krug - der lässigste Pop-Macho der DDR?",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-10-20T13:15:39.000Z",
-    "url": "https://www.deutschlandfunk.de/manfred-krug-der-laessigste-pop-macho-der-ddr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/manfred_krug_der_laessigste_pop_macho_der_ddr_dlf_20261020_1515_b6951c31.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:62629732-8e93-56d8-8b46-c667b55124b2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Karlsruher Marsmission wird zur Kunstperformance",
-    "summary": "Wetzel, Marie-Dominique www.deutschlandfunk.de, Corso",
-    "date": "2026-10-20T13:10:46.000Z",
-    "url": "https://www.deutschlandfunk.de/karlsruher-marsmission-wird-zur-kunstperformance-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/karlsruher_marsmission_wird_zur_kunstperformance_dlf_20261020_1510_c19c01de.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:545aedb6-8ebc-543e-986b-8099b8f34154",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Disco und Dandiya - Wie Religion für Indiens GenZ zum Rave wird",
-    "summary": "Bodewein, Lena www.deutschlandfunk.de, Corso",
-    "date": "2026-10-19T13:20:34.000Z",
-    "url": "https://www.deutschlandfunk.de/disco-und-dandiya-wie-religion-fuer-indiens-genz-zum-rave-wird-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/disco_und_dandiya_wie_religion_fuer_indiens_genz_zum_rave_dlf_20261019_1520_02752998.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

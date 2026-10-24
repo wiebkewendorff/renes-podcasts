@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:5c0dd199-470f-5b99-8113-3daa6364cee6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mit Smartphone und QR-Code - Technik auf der Messe \"Spiel Essen\"",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-23T13:25:24.000Z",
+    "url": "https://www.deutschlandfunk.de/mit-smartphone-und-qr-code-technik-auf-der-messe-spiel-essen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/mit_smartphone_und_qr_code_technik_auf_der_messe_spiel_essen_dlf_20261023_1525_861040aa.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b6fbc49a-9ef6-5f34-9124-b3fbd5ed0e0d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Brasiliens Popkultur vor der Stichwahl",
+    "summary": "Wahl, Daniel Fernando www.deutschlandfunk.de, Corso",
+    "date": "2026-10-23T13:08:46.000Z",
+    "url": "https://www.deutschlandfunk.de/brasiliens-popkultur-vor-der-stichwahl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/brasiliens_popkultur_vor_der_stichwahl_dlf_20261023_1508_ff0ec71c.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f96d4b73-520b-5260-8600-eaed05801546",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Serie \"Wake Up\" - Luna Jordans letzte Rolle, Bewusstseinstransfers und Wuppertal",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-23T13:05:01.000Z",
+    "url": "https://www.deutschlandfunk.de/serie-wake-up-luna-jordans-letzte-rolle-bewusstseinstransfers-und-wuppertal-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/serie_wake_up_luna_jordans_letzte_rolle_dlf_20261023_1505_10c9d913.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:55b3937f-0a02-529c-9ead-8d705e1b0f9d",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/jelinek_verfilmung_liebhaberinnen_zwischen_selbstoptimierung_dlf_20261021_1510_8afe939b.mp3?refId=corso-104",
     "duration": "15 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:26bc0633-2a96-5b82-a065-63c5d257575f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Manfred Krug - der lässigste Pop-Macho der DDR?",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-10-20T13:15:39.000Z",
-    "url": "https://www.deutschlandfunk.de/manfred-krug-der-laessigste-pop-macho-der-ddr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/manfred_krug_der_laessigste_pop_macho_der_ddr_dlf_20261020_1515_b6951c31.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:62629732-8e93-56d8-8b46-c667b55124b2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Karlsruher Marsmission wird zur Kunstperformance",
-    "summary": "Wetzel, Marie-Dominique www.deutschlandfunk.de, Corso",
-    "date": "2026-10-20T13:10:46.000Z",
-    "url": "https://www.deutschlandfunk.de/karlsruher-marsmission-wird-zur-kunstperformance-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/20/karlsruher_marsmission_wird_zur_kunstperformance_dlf_20261020_1510_c19c01de.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:545aedb6-8ebc-543e-986b-8099b8f34154",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Disco und Dandiya - Wie Religion für Indiens GenZ zum Rave wird",
-    "summary": "Bodewein, Lena www.deutschlandfunk.de, Corso",
-    "date": "2026-10-19T13:20:34.000Z",
-    "url": "https://www.deutschlandfunk.de/disco-und-dandiya-wie-religion-fuer-indiens-genz-zum-rave-wird-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/disco_und_dandiya_wie_religion_fuer_indiens_genz_zum_rave_dlf_20261019_1520_02752998.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",
