@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:9fa26eb8fe958b10a223788f61182016",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Streng vertraulich: Georg Simmel ist dem Geheimnis auf der Spur",
+    "summary": "<p>Georg Simmel rüttelt die Soziologie zur Jahrhunterwende auf. Sein Essay \"Das Geheimnis\" erscheint 1906 und bespricht, warum wir manches lieber nicht besprechen.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Marfa Heimbach:</strong><br><ul><li>dass der Soziologe Georg Simmel das Geheimnis für eine der größten Errungenschaften der Menschheit hält,</li><li>wie der aufkommende Antisemitismus im Kaiserreich Georg Simmels akademische Karriere behindert,</li><li>womit Simmel an der Berliner Universität den Neid der etablierten Professoren weckt,</li><li>von Simmels eigenem großen Geheimnis, das erst nach seinem Tod ans Licht kommt.</li></ul><br>Georg Simmel zählt neben Max Weber und Émile Durkheim zu den Gründervätern der Soziologie. Sein breites Themenspektrum umfasst: Gesellschaft, Mode, Musik, Kunst, Philosophie des Geldes. Als Einziger unter den klassischen Soziologen entwickelt er eine Geschlechtertheorie - in einer Zeit, in der die wissenschaftliche Beschäftigung mit Geschlecht und Frauen für völlig überflüssig gehalten wird.<br><br>Simmel beschäftigt sich auch mit dem Geheimnis. Was ist eigentlich das Geheimnis? Dieses gewollte Verbergen der Wirklichkeit. Und welche Rolle spielt es im Leben der Menschen? Er versucht, die Notwendigkeit von Geheimnissen im gesellschaftlichen Miteinander zu verdeutlichen.<br><br>Simmel trägt aus allen Lebensbereichen Aspekte des Geheimnisses zusammen. Sein Essay dazu erscheint 1906 zuerst in den USA, 1908 dann auf deutsch. Ihm geht es um diese Vielgestaltigkeit des Geheimnisses, der Diskretion, der Täuschung, der Lüge. Also das ganze Gespinst, das daran hängt. Das will er in seinen Wechselwirkungen aufdecken.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Prof. Dr. Hans-Peter Müller, Soziologe, Humboldt-Universität Berlin</li><li>Dr. Jörg Schmitz-Gielsdorf, Psychoanalytiker und Neuropsychologe, Aachen</li><li>Hans-Peter Müller: Georg Simmel oder die Abenteuer des Geistes. Berlin 2027</li><li>Georg Simmel: Soziologie. Untersuchungen über die Formen der Vergesellschaftung, Bd. 11, Frankfurt 1992 </li><li>Jörn Bohr und andere: Simmel Handbuch. 2021</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/weber-120.html\" rel=\"noopener\" target=\"_blank\">14.06.1920 - Todestag des Soziologen Max Weber</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/simmel-100.html\" rel=\"noopener\" target=\"_blank\">05.04.1905 - \"Philosophie der Mode\" Georg Simmel</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-martin-buber-100.html\" rel=\"noopener\" target=\"_blank\">13.06.1965 - Todestag des Philosophen Martin Buber</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/psychologie/verschwoerungstheorien/verschwoerungstheorien-antisemitismus-100.html\" rel=\"noopener\" target=\"_blank\">Antisemitismus und Verschwörungstheorien</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Marfa Heimbach<br>Redaktion: Emily Jeuckens, Matti Hesse<br>Technik: Sarah Fitzek",
+    "date": "2026-10-25T05:00:46.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-streng-vertraulich-georg-simmel-ist-dem-geheimnis-auf-der-spur-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/georg-simmel-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/19/934af10b-969f-4be7-9b04-221e5abe98f1/934af10b-969f-4be7-9b04-221e5abe98f1_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:65392e95801c3974fe114e4a87ff226c",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -256,29 +279,6 @@
     "category": [
       "Geschichte",
       "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:e9dd44aadfaa7d3969bae745fa7c2b94",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Gegen Spott und Anfeindungen: Der erste Frauenfußballverein",
-    "summary": "<p>Lotte Specht (geb. 15.10.1911) will nicht länger nur zusehen. Also gründet sie 1930 ihren eigenen Fußballverein nur für Frauen - 40 Jahre, bevor der DFB Frauenfußball erlaubt.\n</p><br><br><p><strong>In diesem Zeitzeichen erzählt Jana Fischer:</strong><br><ul><li>warum Frauenfußball 1930 für manche als \"Gaudi\" gilt.</li><li>wie ein Nationaltorwart den Frauen mit seinem eigenen Trikot aushilft,</li><li>warum Lotte Spechts Vater von ihrer Vereinsgründung nicht begeistert ist,</li><li>von ihrer Karriere abseits des Fußballplatzes,</li><li>von \"Equal Play\" und \"Equal Pay\".</li></ul><br>Fast eine Million Frauen und Mädchen in Deutschland spielen heute Fußball im Verein. Aber der Weg dahin war lang. Und er beginnt mit einer fußballbegeisterten Metzgerstochter aus Frankfurt. Lotte Specht, geboren am 15. Oktober 1911, gründet mit nur 18 Jahren den ersten deutschen Damenfußballclub. Die jungen Frauen trainieren auf einer Wiese, spielen mangels Gegnerinnen gegeneinander und müssen Spott und Anfeindungen ertragen.<br><br>Nach nur anderthalb Jahren löst sich der Verein wieder auf. Auch danach bleibt Frauenfußball in Deutschland lange unerwünscht, 1955 verbietet ihn der DFB sogar offiziell. Erst 1970 fällt das Verbot. Seitdem hat sich viel verändert - gleiche Chancen für alle aber gibt es noch immer nicht.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Martina Knief, Sportjournalistin beim Hessischen Rundfunk und Autorin eines Buchs über Frauenfußball</li><li>Sarah Sorge, Co-Vorsitzende des Lotte Specht e.V.</li><li>Martina Knief: Kampf um Anerkennung. Wie der Frauenfußball in Hessen groß wurde. Frankfurt a. M. 2026</li><li>Axel Hofmann: Die Geschichte des Frauenfußballs bei Eintracht Frankfurt. Frankfurt a. M. 2025</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Interview mit Martina Knief im HR - <a href=\"https://www.hr2.de/podcasts/fussballpionierin-lotte-specht-hat-gesagt-was-die-maenner-koennen-koennen-wir-auch,audio-119688.html\" rel=\"noopener\" target=\"_blank\">\"Fußballpionierin Lotte Specht hat gesagt: Was die Männer können, können wir auch\"</a></li><li>ARD-Doku: <a href=\"https://www.ardmediathek.de/video/maedchen-koennen-kein-fussball-spielen/maedchen-koennen-kein-fussball-spielen/ard/Y3JpZDovL3JiYl8wYmVlNGQwYy1hNTk0LTQxYjAtOWViMC0yYWQ5MzVlNDkwODJfcHVibGljYXRpb24\" rel=\"noopener\" target=\"_blank\">Mädchen können kein Fußball spielen</a></li><li>COSMO Lost Sheroes: <a href=\"https://www1.wdr.de/mediathek/audio/cosmo/lost-sheroes/audio-heldinnen-des-fussballs---vom-underground-zur-weltspitze-102.html\" rel=\"noopener\" target=\"_blank\">Heldinnen des Fußballs - Vom Underground zur Weltspitze</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Jana Fischer<br>Redaktion: Carolin Rückl und Sefa Inci Suvak",
-    "date": "2026-10-15T04:00:29.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-gegen-spott-und-anfeindungen-der-erste-frauenfussballverein-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/lotte-specht-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/08/f62aab50-3140-42a5-9296-b1e9c09e37cf/f62aab50-3140-42a5-9296-b1e9c09e37cf_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
       "Bildung"
     ],
     "language": "de"

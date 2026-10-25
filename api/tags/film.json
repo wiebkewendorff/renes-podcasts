@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:eb85789b-4062-5bf7-a13d-ff96d413a1cd",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 24.10.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-24T15:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/kulturmeldungen_24102026_dlf_20261024_1756_4bbe73fa.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e7f72cb0-feb2-5849-910b-fcb36ea3cb3b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Bibliothek als kulturelle Daseinsvorsorge, Holger Krimmer i.G.",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-24T15:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-bibliothek-als-kulturelle-daseinsvorsorge-holger-krimmer-i-g-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/die_bibliothek_als_kulturelle_daseinsvorsorge_holger_krimmer_dlf_20261024_1752_0cc376ae.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:70442d56-d143-519f-b390-88978cdabf98",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Magisch surreal\" - Ausstellung zum Werk von Leonor Fini in Frankfurt am Main",
+    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-24T15:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/magisch-surreal-ausstellung-zum-werk-von-leonor-fini-in-frankfurt-am-main-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/magisch_surreal_ausstellung_zum_werk_von_leonor_fini_in_dlf_20261024_1747_26c2c579.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:97a966c5-e9b2-54be-8881-e745e9a4b21f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Mütter von Cherson - Oper von Maxim Kolomiiets über ukr. Kinder",
+    "summary": "Fuchs. Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-24T15:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/die-muetter-von-cherson-oper-von-maxim-kolomiiets-ueber-ukr-kinder-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/die_muetter_von_cherson_oper_von_maxim_kolomiiets_ueber_ukr_dlf_20261024_1741_3bc1a52b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7f7a37b7-15ee-5991-82ab-f2edfe66beda",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"In the Corpse of the Present\" - Installation von Marco Fusinato am Gorki Berlin",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-24T15:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/in-the-corpse-of-the-present-installation-von-marco-fusinato-am-gorki-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/in_the_corpse_of_the_present_installation_von_marco_fusinato_dlf_20261024_1736_70c090b0.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:26c0c9fe-1669-59c0-b9c2-edeaf3368392",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zerstörerischer Protest - Claus Leggewie zu den Ausschreitungen in Frankreich",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-24T15:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zerstoererischer-protest-claus-leggewie-zu-den-ausschreitungen-in-frankreich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/zerstoererischer_protest_claus_leggewie_zu_den_dlf_20261024_1731_2fbfd46f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:b2f7351f-54e8-51a9-8c4c-bebf9f0fcb7d",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -89,162 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/ein_uebertritt_jossi_wieler_inszeniert_elfriede_jelinek_in_dlf_20261023_1735_df9147f5.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:017e8cc6-ce49-5ec2-80d3-d00cd76f0098",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 22.10.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-22T15:56:31.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-10-104.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/kulturmeldungen_22102026_dlf_20261022_1756_7a98922a.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7adecde1-f678-5fed-8935-5ff0d340f563",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Barcelona moderna\" - Ausstellung in der Kunsthalle München",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-22T15:50:30.000Z",
-    "url": "https://www.deutschlandfunk.de/barcelona-moderna-ausstellung-in-der-kunsthalle-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/barcelona_moderna_ausstellung_in_der_kunsthalle_muenchen_dlf_20261022_1750_b896dff1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:153b52b8-2171-5f1a-b05e-2c495e239c3d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Possible Love\" - Südkoreas Oscar-Beitrag kommt ins Kino",
-    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-22T15:44:30.000Z",
-    "url": "https://www.deutschlandfunk.de/possible-love-suedkoreas-oscar-beitrag-kommt-ins-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/possible_love_suedkoreas_oscar_beitrag_kommt_ins_kino_dlf_20261022_1744_39954dbb.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:20a37ee9-da00-5300-9d12-081c0a1d3ebb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Glatt gelogen: Verlag trennt sich von Starautor Thélyson Orélien",
-    "summary": "Fuhrig, Dirk www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-22T15:41:30.000Z",
-    "url": "https://www.deutschlandfunk.de/glatt-gelogen-verlag-trennt-sich-von-starautor-th-lyson-or-lien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/glatt_gelogen_verlag_trennt_sich_von_starautor_thelyson_dlf_20261022_1741_f6941289.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b5b57602-2462-5a25-a4fd-16741189cc7f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Manifest der Menschlichkeit - Der russische Schriftsteller Michail Schischkin",
-    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-22T15:35:39.000Z",
-    "url": "https://www.deutschlandfunk.de/manifest-der-menschlichkeit-der-russische-schriftsteller-michail-schischkin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/manifest_der_menschlichkeit_der_russische_schriftsteller_dlf_20261022_1735_ff92b13e.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2ea6ae54-bbf8-5ae8-a785-192d7190c225",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 22.10.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-21T15:56:06.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-22-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/kulturmeldungen_22102026_dlf_20261021_1756_c24defb0.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",

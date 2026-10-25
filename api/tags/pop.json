@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:64595aad-b708-579d-9a74-4db306d0563c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vergangenheit und Zukunft sind eins - Shabazz Palaces über \"It's A Style Sport\"",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-10-24T13:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/vergangenheit-und-zukunft-sind-eins-shabazz-palaces-ueber-it-s-a-style-sport-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/vergangenheit_und_zukunft_sind_eins_shabazz_palaces_ueber_dlf_20261024_1545_9f520959.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a4e9c8da-ac88-55fb-9e98-927d25ac463c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Band @ mit \"Autosmile\" - Ein intimer Dialog",
+    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
+    "date": "2026-10-24T13:30:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-band-mit-autosmile-ein-intimer-dialog-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/die_band_@_mit_autosmile_ein_intimer_dialog_dlf_20261024_1530_4e4dafaf.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b6b74f00-03d3-5b63-9410-5e4b21e1dc77",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Keine kleinen Gefühle - Soffie über ihr Debütalbum",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-10-24T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/keine-kleinen-gefuehle-soffie-ueber-ihr-debuetalbum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/keine_kleinen_gefuehle_soffie_ueber_ihr_debuetalbum_dlf_20261024_1515_de4b0e2a.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:5c0dd199-470f-5b99-8113-3daa6364cee6",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/swipen_statt_flirten_zerstoeren_datingplattformen_die_dlf_20261021_1525_33d0a25a.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:56dd1315-b941-5c61-bd7d-9832df2dfbc6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Possible Love\", \"Chopin - Eine Sonate in Paris\", \"Die andere Seite\"",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-10-21T13:15:22.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-possible-love-chopin-eine-sonate-in-paris-die-andere-seite-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/neue_filme_possible_love_chopin_eine_sonate_in_paris_die_dlf_20261021_1515_b1d2363f.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bf560a32-e572-5836-a0ee-ea3ea65b5ad1",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Possible Love\", \"Chopin - Eine Sonate in Paris\", \"Die andere Seite\"",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-10-21T13:15:02.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-possible-love-chopin-eine-sonate-in-paris-die-andere-seite-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/neue_filme_possible_love_chopin_eine_sonate_in_paris_die_dlf_20261021_1515_25ce4707.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:567ea0e5-deac-53eb-908c-993da0a6cd73",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Jelinek-Verfilmung \"Liebhaberinnen\" - Zwischen Selbstoptimierung und Patriarchat",
-    "summary": "Wokalek, Johanna; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-10-21T13:10:08.000Z",
-    "url": "https://www.deutschlandfunk.de/jelinek-verfilmung-liebhaberinnen-zwischen-selbstoptimierung-und-patriarchat-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/jelinek_verfilmung_liebhaberinnen_zwischen_selbstoptimierung_dlf_20261021_1510_8afe939b.mp3?refId=corso-104",
-    "duration": "15 Min",
     "tags": [
       "kultur",
       "pop",
