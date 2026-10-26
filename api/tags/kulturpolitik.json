@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:4ec9f43e-7864-5616-ae71-93baecf3f964",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 25.10.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-25T16:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-25-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/kulturmeldungen_25102026_dlf_20261025_1756_0d13b094.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f772eb1a-568f-5586-8f5b-df6caf412bee",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Antigone. Der Abschied\" - Alexander Zeldins Stück in DEA an der Berliner Schaub",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-25T16:52:30.000Z",
+    "url": "https://www.deutschlandfunk.de/antigone-der-abschied-alexander-zeldins-stueck-in-dea-an-der-berliner-schaub-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/antigone_der_abschied_alexander_zeldins_stueck_in_dea_an_der_dlf_20261025_1752_dd189c59.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:140f0c4b-2c72-58f8-809c-9c42c19d754b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Berechtigte Wut vs uferlose Ausschreitungen: Jugendprotestwelle überrollt Europa",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-25T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/berechtigte-wut-vs-uferlose-ausschreitungen-jugendprotestwelle-ueberrollt-europa-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/berechtigte_wut_vs_uferlose_ausschreitungen_dlf_20261025_1746_9617ed38.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a0822967-3beb-5af0-bdb8-58b341631648",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der fliegende Holländer - Milo Rau inszeniert Wagner an der Dt. Oper Berlin",
+    "summary": "Richter, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-25T16:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/der-fliegende-hollaender-milo-rau-inszeniert-wagner-an-der-dt-oper-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/der_fliegende_hollaender_milo_rau_inszeniert_wagner_an_der_dlf_20261025_1741_e8162900.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:fe8720c5-68d9-5b6d-9389-ecc6947589cb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Hans Christian A.\" - Die neue Choreographie von Sabrina Sadowska in Chemnitz",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-25T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/hans-christian-a-die-neue-choreographie-von-sabrina-sadowska-in-chemnitz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/hans_christian_a_die_neue_choreographie_von_sabrina_sadowska_dlf_20261025_1736_651567e2.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:264c1bb8-4627-5db5-88d6-264635a946aa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Verleihung Büchner-Preis an Christine Wunnicke",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-25T16:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/verleihung-buechner-preis-an-christine-wunnicke-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/verleihung_buechner_preis_an_christine_wunnicke_dlf_20261025_1731_651465be.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:eb85789b-4062-5bf7-a13d-ff96d413a1cd",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -88,162 +244,6 @@
     "url": "https://www.deutschlandfunk.de/die-muetter-von-cherson-oper-von-maxim-kolomiiets-ueber-ukr-kinder-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/die_muetter_von_cherson_oper_von_maxim_kolomiiets_ueber_ukr_dlf_20261024_1741_3bc1a52b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7f7a37b7-15ee-5991-82ab-f2edfe66beda",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"In the Corpse of the Present\" - Installation von Marco Fusinato am Gorki Berlin",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-24T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/in-the-corpse-of-the-present-installation-von-marco-fusinato-am-gorki-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/in_the_corpse_of_the_present_installation_von_marco_fusinato_dlf_20261024_1736_70c090b0.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:26c0c9fe-1669-59c0-b9c2-edeaf3368392",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zerstörerischer Protest - Claus Leggewie zu den Ausschreitungen in Frankreich",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-24T15:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zerstoererischer-protest-claus-leggewie-zu-den-ausschreitungen-in-frankreich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/zerstoererischer_protest_claus_leggewie_zu_den_dlf_20261024_1731_2fbfd46f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b2f7351f-54e8-51a9-8c4c-bebf9f0fcb7d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 23.10.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-23T15:56:05.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/kulturmeldungen_23102026_dlf_20261023_1756_7499ab5f.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3c3cb057-5df0-57bb-8163-81754dd69ef8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zum Umgang mit Texten befähigen. Helmuth Feilke, Präs. Akademie Sprache Dichtung",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-23T15:46:10.000Z",
-    "url": "https://www.deutschlandfunk.de/zum-umgang-mit-texten-befaehigen-helmuth-feilke-praes-akademie-sprache-dichtung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/zum_umgang_mit_texten_befaehigen_helmuth_feilke_praes_dlf_20261023_1746_5697d9f1.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f71cb32c-c7c7-55b8-a4c7-b92da533a5b7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Blauen Reiterinnen\" - Ausstellung im Museum Wiesbaden",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-23T15:40:50.000Z",
-    "url": "https://www.deutschlandfunk.de/die-blauen-reiterinnen-ausstellung-im-museum-wiesbaden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/die_blauen_reiterinnen_ausstellung_im_museum_wiesbaden_dlf_20261023_1740_4b94f498.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a4eff543-bd3c-56d3-adc7-56ef56b2b246",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Ein Übertritt\" - Jossi Wieler inszeniert Elfriede Jelinek in Düsseldorf",
-    "summary": "Luft, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-23T15:35:35.000Z",
-    "url": "https://www.deutschlandfunk.de/ein-uebertritt-jossi-wieler-inszeniert-elfriede-jelinek-in-duesseldorf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/ein_uebertritt_jossi_wieler_inszeniert_elfriede_jelinek_in_dlf_20261023_1735_df9147f5.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",

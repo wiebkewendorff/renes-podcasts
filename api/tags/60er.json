@@ -1,5 +1,80 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-8936019913715847",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Moderatorin und Autorin Marietta Slomka über \"Nachts im Kanzleramt\" als Comic",
+    "summary": "Unter Politikerinnen und Politikern dürfte Marietta Slomka durchaus gefürchtet sein. Denn mit ihrem unnachgiebigen Fragestil hat sie schon einige von ihnen im Interview gehörig ins Schlingern gebracht. Zu sehen sind solche eindrücklichen Fernsehmomente im ZDF-\"heute journal\". Ihr Buch \"Nachts im Kanzleramt\" kommt nun als Comic heraus und bringt vor allem jungen Menschen alles nahe, was diese über Politik wissen sollten. Auf dem Roten Sofa verrät Marietta Slomka, was das genau ist.",
+    "date": "2026-10-25T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/moderatorin-und-autorin-marietta-slomka-ueber-nachts-im-kanzleramt-als-comic,audio-3557920.html",
+    "image": "https://images.ndr.de/image/4e7d3c19-3f60-4ecd-b466-7d9752e4c586/AAABoXSzp94/AAABnSStX0g/1x1-big/screenshot-250272.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-0816-5300.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-5517683559037826",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Widmet sich dem Thema Pflege in der Doku \"Und wer fragt nach mir?\": Caren Miosga",
+    "summary": "Gegenwärtig werden in Deutschland fünfeinhalb Millionen Menschen zu Hause versorgt. Caren Miosga hat Angehörige getroffen.",
+    "date": "2026-10-24T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/widmet-sich-dem-thema-pflege-in-der-doku-und-wer-fragt-nach-mir-caren-miosga,audio-3557918.html",
+    "image": "https://images.ndr.de/image/b6ba360c-d087-4508-a388-8bffae01a7e5/AAABoW7WBu4/AAABnSStX0g/1x1-big/screenshot-249650.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-0816-1200.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-6873166818223998",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Erzählt von der Liebe, wie sie wirklich sein kann: Schriftstellerin Ronja von Rönne",
+    "summary": "Ronja von Rönne erzählt von der Liebe, wie sie wirklich sein kann: komisch, grausam und zärtlich - aber manchmal auch ziemlich manipulativ. All das kommt in ihrem neuen Roman \"Alles Liebe\" vor. Ronja von Rönne schreibt, moderiert und interessiert sich gleichermaßen für Politik und die kleinen Abgründe des Privaten. Auf dem Roten Sofa spricht sie offen über Depressionen, Angststörungen, ADHS. Und sie zeigt sich mit scharfem Blick, viel Humor und der Fähigkeit, dem eigenen Chaos ebenso ehrlich wie unterhaltsam zu begegnen.",
+    "date": "2026-10-23T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/erzaehlt-von-der-liebe-wie-sie-wirklich-sein-kann-schriftstellerin-ronja-von-roenne,audio-3557916.html",
+    "image": "https://images.ndr.de/image/26ea5ba7-e1a5-401a-9028-9c249363baa4/AAABoWoJdks/AAABnSStX0g/1x1-big/screenshot-249396.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-0815-3300.mp3",
+    "duration": "37 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-44267099091192963",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -61,81 +136,6 @@
     "image": "https://images.ndr.de/image/471ec9f8-1d29-44fd-bf5a-5159138bb7fe/AAABoVpMrpQ/AAABnSStX0g/1x1-big/screenshot-247368.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1020/AU-20261020-2020-0000.mp3",
     "duration": "32 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-9248513347033362",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Unternehmerin und Journalistin Franca Lehfeldt über alte Rollenmuster",
-    "summary": "Sie spricht über alte Rollenmuster, übergriffige Erwartungen und darüber, wie sie das Bild von Müttern neu definieren will.",
-    "date": "2026-10-19T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/unternehmerin-und-journalistin-franca-lehfeldt-ueber-alte-rollenmuster,audio-3545978.html",
-    "image": "https://images.ndr.de/image/5251b91e-dab1-4dda-84a5-981142b4a6ca/AAABoVUlCpw/AAABnSStX0g/1x1-big/screenshot-246894.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-2140-3500.mp3",
-    "duration": "37 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-3292908206346332",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Starköchin, Unternehmerin und Mutter von vier Söhnen: Haya Molcho",
-    "summary": "Die Starköchin, Unternehmerin und Mutter von vier Söhnen, kommt mit ihrem neuesten autobiografischen Kochbuch \"Erinnerungen, die schmecken\" aufs Rote Sofa. Es ist eine ganz persönliche Reise, auf die sie uns mitnimmt: durch Aromen, Familiengeschichten und die Frage, wie Essen prägt. Welche Erinnerungen sie selbst am stärksten schmecken kann, was ihr Aufwachsen zwischen Tel Aviv und Bremen und ihre zahlreichen Reisen mit ihrem Mann Samy Molcho rund um die Welt mit ihrer Küche zu tun hat, davon wird uns die Wiener Gastronomin auch erzählen.",
-    "date": "2026-10-18T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/starkoechin-unternehmerin-und-mutter-von-vier-soehnen-haya-molcho,audio-3544450.html",
-    "image": "https://images.ndr.de/image/7f5d45ca-97aa-4556-a1ed-cd724305e718/AAABoVAIwSg/AAABnSStX0g/1x1-big/screenshot-246332.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-0910-5100.mp3",
-    "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-6078219535910097",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Filmemacher Anselm Nathanael Pahnke über die neue Folge \"Young Adventurers\"",
-    "summary": "Für die neue Folge der NDR Reihe \"Young Adventurers\" durchquerte Anselm Pahnke gemeinsam mit seinem Freund Raphael Bitsos Marokko vom tiefsten Süden bis in die Königsstadt Fès. Auf historischen Karawanenpfaden, durch Sandsturm, Kälte und die enge M'goung-Schlucht, erleben die beiden ein Land voller Widersprüche - rau und herzerwärmend zugleich. Auf dem Roten Sofa verrät der Schleswig-Holsteiner auch, wie wichtig Freundschaft bei so einer Tour ist und warum er sich zu Hause im sozialen Wohnungsbau engagiert.",
-    "date": "2026-10-17T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/filmemacher-anselm-nathanael-pahnke-ueber-die-neue-folge-young-adventurers,audio-3544438.html",
-    "image": "https://images.ndr.de/image/1297e31d-e21b-4a67-ba07-e43c77b359cf/AAABoUroLlM/AAABnSStX0g/1x1-big/screenshot-246182.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-0907-2600.mp3",
-    "duration": "42 Min",
     "tags": [
       "beatles",
       "popgeschichte",
