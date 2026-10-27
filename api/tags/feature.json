@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:a0eaebba-8b25-5386-86b1-676a31cec901",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Polarisiert - Wie die Weltpolitik Spitzbergen verändert",
+    "summary": "Seit 2022 herrscht auf Spitzbergen in der Arktis ein neuer Kalter Krieg. Die Ukrainerin Valeriya floh, weil Nachbarn sie für eine Spionin hielten. Wolfgang, ein Deutscher, fand auf der russischen Seite der Insel seine neue politische Heimat.<br><br><strong>Das erwartet Euch in dieser Episode:</strong><br>Spitzbergen – eine Insel auf 78 Grad Nord. Mehr Eisbären als Einwohner. Lange lebten Norweger und Russen in Harmonie, unbehelligt von den geopolitischen Zerwürfnissen auf dem Festland. Doch auf den Ukraine-Krieg folgten Sanktionen, Boykott und Misstrauen.<br>Die Ukrainerin Valeriya und Wolfgang, ein Deutscher, entscheiden sich jeweils, die Seite zu wechseln, ihrer alten Heimat den Rücken zu kehren. Zwei gegensätzliche Biografien – sinnbildlich für die Polarisierung Spitzbergens. Und über all dem schwebt die Angst vor dem NATO-Bündnisfall.<br><br>+++++<br><br><strong>Es kommen zu Wort:</strong><br><br><ul><li>Serafima Andreeva, Politikwissenschaftlerin Fridtjof Nansen Institut</li><li>Terje Aunevik, Bürgermeister Longyearbyen</li></ul>+++++<br><br><strong>Mehr zum Thema in der Deutschlandfunk-App:</strong><br><br><ul><li><a href=\"https://www.hoerspielundfeature.de/spielball-erde-1-7-spitzbergen-vom-denken-und-handeln-im-eis-100.html\" rel=\"noopener\" target=\"_blank\">Spielball Erde - Spitzbergen: Vom Denken und Handeln im Eis</a></li><li><a href=\"https://www.hoerspielundfeature.de/drift-100.html\" rel=\"noopener\" target=\"_blank\">Drift - Hörspiel über russisch-norwegische Begegnungen </a></li></ul>+++++<br><br>Laura Höring ist Journalistin mit Schwerpunkt Außenpolitik und arbeitet für den Bayerischen Rundfunk, das Y-Kollektiv, DIE ZEIT und die Süddeutsche Zeitung. Ausgebildet an der Deutschen Journalistenschule.<br>Viktar Vasileuski ist freier Journalist, u.a. für DIE ZEIT, Stern, Süddeutsche Zeitung und Cosmo. Seine Arbeitsschwerpunkte liegen auf Außenpolitik, Reportagen und Podcasts. <br><br>+++++<br><br>Regie: Laura Höring und Viktar Vasileuski<br>Ton: Alexander Brennecke<br>Redaktion: Wolfgang Schiller<br>Deutschlandfunk 2016<br><br>+++++<br><br>Unser Podcast-Tipp:<br><a href=\"https://www.deutschlandfunk.de/doku-serie-100.html#abonnieren\" rel=\"noopener\" target=\"_blank\">Dlf Doku Serien</a><br><br>+++++<br>Wenn Euch <a href=\"https://www.deutschlandfunk.de/dlf-doku-100.html\" rel=\"noopener\" target=\"_blank\">Dlf Doku</a> gefällt, abonniert uns und empfehlt uns weiter. Feedback gerne an hoererservice@deutschlandradio.de</a>.<br><br>Noch mehr spannende Podcasts gibt‘s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-10-27T18:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/feature-polarisiert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/fb/99/59/db/fb9959db-82fa-41fe-9c00-84699d5f95a2/bild-fuer-feature-polarisiert-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/polarisiert_wie_die_weltpolitik_spitzbergen_veraendert_dlf_20261027_1915_6cd82943.mp3?refId=das-feature-104",
+    "duration": "49 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:edacee08-3164-56b8-b9f6-8169eeacb753",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_9/eb/FILE_9eb61a20eaf0c2b922684525a39a1569/dsc0095-neu-jpeg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2020/07/07/wie_wir_lernten_die_atomkraft_zu_lieben_dlf_20200707_1915_3342d45f.mp3?refId=das-feature-104",
     "duration": "55 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:5e7a7cbe-981d-55ed-9213-2a421514c60a",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kill Cloud - Von 9/11 zum digitalen Krieg",
-    "summary": "Längst bestimmt die KI die Kriege der Gegenwart. Das einst freie Internet ist zum Instrument der Datenüberwachung geworden. Eine Entwicklung, die am 11. September 2001 begann. Von Andrea Rehmsmeier www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-09-08T17:16:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/kill-cloud-100.html",
-    "image": "https://bilder.deutschlandfunk.de/42/ad/e0/89/42ade089-6d07-4e2a-aca0-e1c57cea96d2/bild-fuer-kill-cloud-getty-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/08/kill_cloud_von_911_zum_digitalen_krieg_dlf_20260908_1916_0ad3478e.mp3?refId=das-feature-104",
-    "duration": "57 Min",
     "tags": [
       "feature",
       "dokumentation",

@@ -1,5 +1,32 @@
 [
   {
+    "id": "zeit-auch-das-noch:f979f42a-53cd-4fcd-bb61-a76f7dd4e8a9",
+    "source": "zeit-auch-das-noch",
+    "sourceTitle": "Auch das noch? – DIE ZEIT",
+    "type": "rss",
+    "title": "»Wir brauchen keine besseren Menschen, wir brauchen bessere Radwege«",
+    "summary": "<p>Der Aktivist und Autor Ingwar Perowanowitsch fährt seit jeher gern mit dem Rad. Er ist bis nach Baku geradelt und hat sich in Utrecht, Paris und Kopenhagen angeschaut, was eine gute Rad-Metropole ausmacht. Deswegen weiß er inzwischen, was und wer Menschen daran hindert, aufs Rad umzusteigen, und wie eine bessere Verkehrspolitik gestaltet werden müsste. Und warum sie auch Fußgängern nutzen würde. Radfahren, so sagt er, sei »politisch«. Weil es die Frage aufwirft, wer in unseren Städten den öffentlichen Raum nutzen darf. Und wer nicht. Und es stelle das fossile System infrage.</p><p>In jeder Folge von »Auch das noch – der freundliche Krisenpodcast« sprechen ZEIT-Politikredakteurin <a href=\"https://www.zeit.de/autoren/P/Petra_Pinzler/index.xml\" rel=\"noopener\" target=\"_blank\">Petra Pinzler</a> und Wissenschaftsredakteur <a href=\"https://www.zeit.de/autoren/S/Stefan_Schmitt/index.xml\" rel=\"noopener\" target=\"_blank\">Stefan Schmitt</a> über eine Krise der Gegenwart: Es geht um die Klimakrise, das Artensterben, die Energiekrise und Kriege. Jedes Mal hilft eine Expertin oder ein Experte dabei, zu verstehen, wie alles zusammenhängt. Nicht um zu verzweifeln, sondern weil Verstehen der erste Schritt zur Lösung ist. Und um Lösungen geht es natürlich auch.</p><p><strong>Shownotes mit Links:</strong></p><ul><li>Dokumentarfilm »Cycling Cities« von Ingwar Perowanowitsch: <a href=\"https://www.adfc.de/neuigkeit/dokumentarfilm-cycling-cities\" rel=\"noopener\" target=\"_blank\">Informationen beim ADFC</a></li><li><a href=\"https://ingwarpero.de/\" rel=\"noopener\" target=\"_blank\">Website von Ingwar Perowanowitsch</a> mit Informationen zu Filmen, Buch und Vorträgen</li><li>Wie gewinnt man Volksentscheide? Und wie können Bäume dabei helfen? <a href=\"https://www.zeit.de/politik/2026-03/buergerentscheide-heinrich-stroessenreuter-ziviles-engagement-auch-das-noch\" rel=\"noopener\" target=\"_blank\">Das erklärt</a> Heinrich Strößenreuther, Initiator erfolgreicher Verkehrswende- und Klima-Initiativen bei ADN </li><li>Berliner Mobilitätsgesetz: <a href=\"https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/\" rel=\"noopener\" target=\"_blank\">Offizielle Seite des Landes Berlin</a></li><li>Volltext des Berliner Mobilitätsgesetzes: <a href=\"https://gesetze.berlin.de/bsbe/document/jlr-MobGBErahmen/part/X\" rel=\"noopener\" target=\"_blank\">Gesetze Berlin</a></li></ul><p><i>Senden Sie Kritik und Anregungen gerne per E-Mail an </i><a href=\"http://mailto:krisen@zeit.de/\" rel=\"noopener\" target=\"_blank\"><i>krisen@zeit.de</i></a></p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Doku-Podcasts, Bonusfolgen und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen.</a> Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht’s zum Angebot</a><strong>.</strong></p>",
+    "date": "2026-10-27T04:55:00.000Z",
+    "url": "https://www.zeit.de/auch-das-noch-krisenpodcast",
+    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f1e25ec7-2e55-45b6-a911-ce88f7d0b73e/3000x3000/auch-das-noch.jpg?aid=rss_feed",
+    "audio": "https://zeitonline.simplecastaudio.com/6debd049-34b3-4994-96b0-039fabb2761b/episodes/5510582b-6610-47ca-af61-81f3b8e59a4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6debd049-34b3-4994-96b0-039fabb2761b&awEpisodeId=5510582b-6610-47ca-af61-81f3b8e59a4b&feed=Sdxt6Bhy",
+    "duration": "58 Min",
+    "tags": [
+      "klima",
+      "krisen",
+      "umwelt",
+      "gesellschaft",
+      "politik",
+      "zeit"
+    ],
+    "category": [
+      "Öko-Wissenschaft",
+      "Gesellschaft",
+      "Politik"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-der-rest-ist-geschichte:780e61cf-53ad-52ee-87e9-38ac55373e41",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -50,33 +77,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-auch-das-noch:5769d94c-3781-41c0-b98e-288aa5292eea",
-    "source": "zeit-auch-das-noch",
-    "sourceTitle": "Auch das noch? – DIE ZEIT",
-    "type": "rss",
-    "title": "Überall Krise? Sprechen wir mehr über Lösungen!",
-    "summary": "<p>Der Krisenpodcast ist zu Gast beim b° future-Festival, das jedes Jahr vom Bonn Institute veranstaltet wird, um Journalist*innen und Bürger*innen miteinander ins Gespräch zu bringen. Mit der Gründerin des Instituts, Ellen Heinrichs, sprechen wir über ihre Vorstellung von einem Journalismus, der stärker an Lösungen orientiert ist und die öffentliche Debatte konstruktiver macht. Wir fragen sie auch, wie das ausgerechnet in der Krisenballung unserer Zeit gelingen soll? Sie sagt: »Es geht darum, die Welt mit beiden Augen zu sehen und zu sagen, die Probleme sind genauso relevant wie die Lösungen.«</p><p>In jeder Folge von <i>Auch das noch? – Der freundliche Krisenpodcast</i> sprechen ZEIT-Politikredakteurin <a href=\"https://www.zeit.de/autoren/P/Petra_Pinzler/index.xml\" rel=\"noopener\" target=\"_blank\">Petra Pinzler</a> und Wissenschaftsredakteur <a href=\"https://www.zeit.de/autoren/S/Stefan_Schmitt/index.xml\" rel=\"noopener\" target=\"_blank\">Stefan Schmitt</a> über eine Krise der Gegenwart: Es geht um die Klimakrise, das Artensterben, die Energiekrise und Kriege. Jedes Mal hilft eine Expertin oder ein Experte, zu verstehen, wie alles zusammenhängt. Nicht um zu verzweifeln, sondern weil Verstehen der erste Schritt zur Lösung ist. Und um Lösungen geht es natürlich auch.</p><p><strong>Die Links zur Folge: </strong></p><p>Das <a href=\"https://www.bonn-institute.org/\" rel=\"noopener\" target=\"_blank\">Bonn Institute für Journalismus und konstruktiven Dialog</a> organisiert unter anderem das b° future-Festival, inzwischen seit vier Jahren. </p><p>Ellen Heinrichs, die Gründerin des Instituts, erklärt ihren Blick auf lösungsorientierten Journalismus unter anderem in den Büchern <a href=\"https://www.herder.de/politik-wirtschaft/shop/p4/76430-journalismus-auf-der-couch-ebook-epub/\" rel=\"noopener\" target=\"_blank\"><i>Journalismus auf der Couch</i> (Herder, 2022)</a> und <a href=\"https://www.oekom.de/person/ellen-heinrichs-7408\" rel=\"noopener\" target=\"_blank\"><i>Medien in der Klimakrise</i> (Oekom, 2022)</a>.</p><p>In der Podcastepisode wurden diese beiden Studien erwähnt: von der <a href=\"https://www.tu-dortmund.de/nachrichtendetail/ost-und-westdeutsche-bewerten-journalismus-und-demokratie-unterschiedlich-45741/\" rel=\"noopener\" target=\"_blank\">TU Dortmund (2024)</a> und der <a href=\"https://medienvertrauen.uni-mainz.de/\" rel=\"noopener\" target=\"_blank\">Universität Mainz (Langzeitstudie Medienvertrauen)</a>.</p><p>»Wie kommen wir da wieder raus?« hieß <a href=\"https://www.zeit.de/wissen/2022-10/globale-polykrise-krieg-klima-krisenpodcast\" rel=\"noopener\" target=\"_blank\">die erste Folge des Krisenpodcast</a> vom 10. November 2022, aus der wir zu Beginn einen Ausschnitt eingeblendet haben.</p><p>Die <a href=\"https://www.zeit.de/wissen/2024-04/neurowissenschaft-volker-busch-stress-krisenpodcast\" rel=\"noopener\" target=\"_blank\">Episode mit dem Psychiater Volker Busch</a> ist vom 17. April 2024 und im Krisenpodcast-Archiv verfügbar.</p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Doku-Podcasts, Bonusfolgen und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen.</a> Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht’s zum Angebot</a><strong>.</strong></p>",
-    "date": "2026-10-13T03:55:00.000Z",
-    "url": "https://www.zeit.de/auch-das-noch-krisenpodcast",
-    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f1e25ec7-2e55-45b6-a911-ce88f7d0b73e/3000x3000/auch-das-noch.jpg?aid=rss_feed",
-    "audio": "https://zeitonline.simplecastaudio.com/6debd049-34b3-4994-96b0-039fabb2761b/episodes/49a92577-0fdf-43eb-9869-dbe38315e170/audio/128/default.mp3?aid=rss_feed&awCollectionId=6debd049-34b3-4994-96b0-039fabb2761b&awEpisodeId=49a92577-0fdf-43eb-9869-dbe38315e170&feed=Sdxt6Bhy",
-    "duration": "1 Std 1 Min",
-    "tags": [
-      "klima",
-      "krisen",
-      "umwelt",
-      "gesellschaft",
-      "politik",
-      "zeit"
-    ],
-    "category": [
-      "Öko-Wissenschaft",
-      "Gesellschaft",
-      "Politik"
     ],
     "language": "de"
   },

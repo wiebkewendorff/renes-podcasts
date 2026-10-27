@@ -1,5 +1,130 @@
 [
   {
+    "id": "dlf-corso:63c07697-75d5-5626-b334-2d2f481174f6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dystopie? Nicht wirklich - Neuer Comic Erde oder Mond",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-10-26T14:25:26.000Z",
+    "url": "https://www.deutschlandfunk.de/dystopie-nicht-wirklich-neuer-comic-erde-oder-mond-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/dystopie_nicht_wirklich_neuer_comic_erde_oder_mond_dlf_20261026_1525_64b5b94d.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8094e8f9-33c5-5c0a-85e3-7bf0716d2f7e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dystopie? Nicht wirklich - Neuer Comic Erde oder Mond",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-10-26T14:25:15.000Z",
+    "url": "https://www.deutschlandfunk.de/dystopie-nicht-wirklich-neuer-comic-erde-oder-mond-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/dystopie_nicht_wirklich_neuer_comic_erde_oder_mond_dlf_20261026_1525_63b018a0.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:535b4a15-a7bc-59f9-a647-b4f3273f8b71",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Im Osten viel Neues - Filmfestival DOK Leipzig setzt \"Fokus Ost\"",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-10-26T14:15:32.000Z",
+    "url": "https://www.deutschlandfunk.de/im-osten-viel-neues-filmfestival-dok-leipzig-setzt-fokus-ost-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/im_osten_viel_neues_filmfestival_dok_leipzig_setzt_fokus_ost_dlf_20261026_1515_41b421d9.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:5a02b5e3-41ef-5bdb-afcd-78c4640ff3c4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Symbole, Memes, analoge Aktionen - die Kultur des Wahlkampf der Studierenden",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-10-26T14:07:49.000Z",
+    "url": "https://www.deutschlandfunk.de/symbole-memes-analoge-aktionen-die-kultur-des-wahlkampf-der-studierenden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/symbole_memes_analoge_aktionen_die_kultur_des_wahlkampf_der_dlf_20261026_1507_adb26845.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ff6c931c-bd03-5f17-8ced-0b0ac0fa8832",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Symbole, Memes, analoge Aktionen - die Kultur des Wahlkampf der Studierenden",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-10-26T14:05:24.000Z",
+    "url": "https://www.deutschlandfunk.de/symbole-memes-analoge-aktionen-die-kultur-des-wahlkampf-der-studierenden-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/symbole_memes_analoge_aktionen_die_kultur_des_wahlkampf_der_dlf_20261026_1505_13b4c40f.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:64595aad-b708-579d-9a74-4db306d0563c",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -111,131 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/brasiliens_popkultur_vor_der_stichwahl_dlf_20261023_1508_ff0ec71c.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f96d4b73-520b-5260-8600-eaed05801546",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Serie \"Wake Up\" - Luna Jordans letzte Rolle, Bewusstseinstransfers und Wuppertal",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-23T13:05:01.000Z",
-    "url": "https://www.deutschlandfunk.de/serie-wake-up-luna-jordans-letzte-rolle-bewusstseinstransfers-und-wuppertal-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/serie_wake_up_luna_jordans_letzte_rolle_dlf_20261023_1505_10c9d913.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:55b3937f-0a02-529c-9ead-8d705e1b0f9d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "KI, Macht und Widerstand –Tech Bro Topia 2",
-    "summary": "Watty, Christine www.deutschlandfunk.de, Corso",
-    "date": "2026-10-22T13:25:48.000Z",
-    "url": "https://www.deutschlandfunk.de/ki-macht-und-widerstand-tech-bro-topia-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/ki_macht_und_widerstand_tech_bro_topia_2_dlf_20261022_1525_27e956de.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:35745d7e-7f59-547e-9e77-4dd10dc96d74",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Punk Erleben - Ausstellung \"Demand The Impossible\" in Düsseldorf",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-22T13:15:20.000Z",
-    "url": "https://www.deutschlandfunk.de/punk-erleben-ausstellung-demand-the-impossible-in-duesseldorf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/punk_erleben_ausstellung_demand_the_impossible_in_dlf_20261022_1515_0229fd59.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1957dacd-c415-5dee-a211-dee6c41a7c79",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sollten wir nett zu Chatbots sein? Judith Simon über die Vermenschlichung von KI",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-10-22T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/sollten-wir-nett-zu-chatbots-sein-judith-simon-ueber-die-vermenschlichung-von-ki-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/22/sollten_wir_nett_zu_chatbots_sein_judith_simon_ueber_die_dlf_20261022_1515_12e433fd.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5237ff8b-f5c1-5615-940f-57867a6f253e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Swipen statt Flirten - Zerstören Datingplattformen die Clubkultur?",
-    "summary": "Rauchhaus, Vinz www.deutschlandfunk.de, Corso",
-    "date": "2026-10-21T13:25:42.000Z",
-    "url": "https://www.deutschlandfunk.de/swipen-statt-flirten-zerstoeren-datingplattformen-die-clubkultur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/21/swipen_statt_flirten_zerstoeren_datingplattformen_die_dlf_20261021_1525_33d0a25a.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",
