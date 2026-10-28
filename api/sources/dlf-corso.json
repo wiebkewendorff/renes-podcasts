@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:97fe0b72-bf72-5dfb-b0f7-db538db5fb9e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wacken goes Japan",
+    "summary": "von Tschurtschenthaler, Katharina www.deutschlandfunk.de, Corso",
+    "date": "2026-10-27T14:20:41.000Z",
+    "url": "https://www.deutschlandfunk.de/wacken-goes-japan-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/wacken_goes_japan_dlf_20261027_1520_c5c3a3af.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:67b64de2-7c4f-54d0-af3f-7a306c4fea6a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"One of our best friends\" - Neue Netflix-Doku über Schauspieler Matthew Perry",
+    "summary": "Heidmann, Patrick www.deutschlandfunk.de, Corso",
+    "date": "2026-10-27T14:06:35.000Z",
+    "url": "https://www.deutschlandfunk.de/one-of-our-best-friends-neue-netflix-doku-ueber-schauspieler-matthew-perry-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/one_of_our_best_friends_neue_netflix_doku_ueber_schauspieler_dlf_20261027_1506_32b316c7.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:47e6f699-86a4-56be-ba06-5577d1c7398b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Auf der Suche nach Biografien: Comicautor Simon Schwartz zu \"Vita Obscura\"",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-27T14:05:24.000Z",
+    "url": "https://www.deutschlandfunk.de/auf-der-suche-nach-biografien-comicautor-simon-schwartz-zu-vita-obscura-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/auf_der_suche_nach_biografien_comicautor_simon_schwartz_zu_dlf_20261027_1505_01dfed2e.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:63c07697-75d5-5626-b334-2d2f481174f6",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/die_band_@_mit_autosmile_ein_intimer_dialog_dlf_20261024_1530_4e4dafaf.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b6b74f00-03d3-5b63-9410-5e4b21e1dc77",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Keine kleinen Gefühle - Soffie über ihr Debütalbum",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-10-24T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/keine-kleinen-gefuehle-soffie-ueber-ihr-debuetalbum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/keine_kleinen_gefuehle_soffie_ueber_ihr_debuetalbum_dlf_20261024_1515_de4b0e2a.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5c0dd199-470f-5b99-8113-3daa6364cee6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mit Smartphone und QR-Code - Technik auf der Messe \"Spiel Essen\"",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-23T13:25:24.000Z",
-    "url": "https://www.deutschlandfunk.de/mit-smartphone-und-qr-code-technik-auf-der-messe-spiel-essen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/mit_smartphone_und_qr_code_technik_auf_der_messe_spiel_essen_dlf_20261023_1525_861040aa.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b6fbc49a-9ef6-5f34-9124-b3fbd5ed0e0d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Brasiliens Popkultur vor der Stichwahl",
-    "summary": "Wahl, Daniel Fernando www.deutschlandfunk.de, Corso",
-    "date": "2026-10-23T13:08:46.000Z",
-    "url": "https://www.deutschlandfunk.de/brasiliens-popkultur-vor-der-stichwahl-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/brasiliens_popkultur_vor_der_stichwahl_dlf_20261023_1508_ff0ec71c.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

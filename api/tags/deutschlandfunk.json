@@ -26,6 +26,211 @@
     "language": "de"
   },
   {
+    "id": "dlf-kultur-heute:045e8f4e-3795-547c-b50a-30f899762598",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 27.10.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-27T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-27-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/kulturmeldungen_27102026_dlf_20261027_1756_0661144f.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9e5dadc8-15c3-5e12-a635-3c4a232f5bd3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Was macht einen guten Bond aus? Karina Urbach, Historikerin und Krimiautorin",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-27T16:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/was-macht-einen-guten-bond-aus-karina-urbach-historikerin-und-krimiautorin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/was_macht_einen_guten_bond_aus_karina_urbach_historikerin_dlf_20261027_1750_f95f080a.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8f5fc723-5540-53f8-8fec-b38e1c0caac2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Maria Jarema\" - Das Werk der polnischen Bildhauerin und Malerin in München",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-27T16:45:00.000Z",
+    "url": "https://www.deutschlandfunk.de/maria-jarema-das-werk-der-polnischen-bildhauerin-und-malerin-in-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/maria_jarema_das_werk_der_polnischen_bildhauerin_und_malerin_dlf_20261027_1745_e35cc577.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:27161d98-7ea1-5912-8352-446509cca84f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Stimmungsbild am Tag der Parlamentswahl in Israel - Historiker Moshe Zimmermann",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-27T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/stimmungsbild-am-tag-der-parlamentswahl-in-israel-historiker-moshe-zimmermann-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/stimmungsbild_am_tag_der_parlamentswahl_in_israel_historiker_dlf_20261027_1736_845b1c69.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9117bf6a-a9aa-55f7-b332-b922fea6fa0b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Anthropic: Gigantischer Börsengang - gigantische Risiken",
+    "summary": "Schickentanz, Chris-Oliver www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-27T16:30:58.000Z",
+    "url": "https://www.deutschlandfunk.de/anthropic-gigantischer-boersengang-gigantische-risiken-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/anthropic_gigantischer_boersengang_gigantische_risiken_dlf_20261027_1730_7f55d677.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:97fe0b72-bf72-5dfb-b0f7-db538db5fb9e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wacken goes Japan",
+    "summary": "von Tschurtschenthaler, Katharina www.deutschlandfunk.de, Corso",
+    "date": "2026-10-27T14:20:41.000Z",
+    "url": "https://www.deutschlandfunk.de/wacken-goes-japan-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/wacken_goes_japan_dlf_20261027_1520_c5c3a3af.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:67b64de2-7c4f-54d0-af3f-7a306c4fea6a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"One of our best friends\" - Neue Netflix-Doku über Schauspieler Matthew Perry",
+    "summary": "Heidmann, Patrick www.deutschlandfunk.de, Corso",
+    "date": "2026-10-27T14:06:35.000Z",
+    "url": "https://www.deutschlandfunk.de/one-of-our-best-friends-neue-netflix-doku-ueber-schauspieler-matthew-perry-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/one_of_our_best_friends_neue_netflix_doku_ueber_schauspieler_dlf_20261027_1506_32b316c7.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:47e6f699-86a4-56be-ba06-5577d1c7398b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Auf der Suche nach Biografien: Comicautor Simon Schwartz zu \"Vita Obscura\"",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-27T14:05:24.000Z",
+    "url": "https://www.deutschlandfunk.de/auf-der-suche-nach-biografien-comicautor-simon-schwartz-zu-vita-obscura-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/auf_der_suche_nach_biografien_comicautor_simon_schwartz_zu_dlf_20261027_1505_01dfed2e.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:e8f907a1-2c3f-564c-9162-84d4e0a6f951",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -281,136 +486,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:f772eb1a-568f-5586-8f5b-df6caf412bee",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Antigone. Der Abschied\" - Alexander Zeldins Stück in DEA an der Berliner Schaub",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-25T16:52:30.000Z",
-    "url": "https://www.deutschlandfunk.de/antigone-der-abschied-alexander-zeldins-stueck-in-dea-an-der-berliner-schaub-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/antigone_der_abschied_alexander_zeldins_stueck_in_dea_an_der_dlf_20261025_1752_dd189c59.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:140f0c4b-2c72-58f8-809c-9c42c19d754b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Berechtigte Wut vs uferlose Ausschreitungen: Jugendprotestwelle überrollt Europa",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-25T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/berechtigte-wut-vs-uferlose-ausschreitungen-jugendprotestwelle-ueberrollt-europa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/berechtigte_wut_vs_uferlose_ausschreitungen_dlf_20261025_1746_9617ed38.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a0822967-3beb-5af0-bdb8-58b341631648",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der fliegende Holländer - Milo Rau inszeniert Wagner an der Dt. Oper Berlin",
-    "summary": "Richter, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-25T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-fliegende-hollaender-milo-rau-inszeniert-wagner-an-der-dt-oper-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/der_fliegende_hollaender_milo_rau_inszeniert_wagner_an_der_dlf_20261025_1741_e8162900.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:fe8720c5-68d9-5b6d-9389-ecc6947589cb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Hans Christian A.\" - Die neue Choreographie von Sabrina Sadowska in Chemnitz",
-    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-25T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/hans-christian-a-die-neue-choreographie-von-sabrina-sadowska-in-chemnitz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/hans_christian_a_die_neue_choreographie_von_sabrina_sadowska_dlf_20261025_1736_651567e2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:264c1bb8-4627-5db5-88d6-264635a946aa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Verleihung Büchner-Preis an Christine Wunnicke",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-25T16:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/verleihung-buechner-preis-an-christine-wunnicke-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/verleihung_buechner_preis_an_christine_wunnicke_dlf_20261025_1731_651465be.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:64595aad-b708-579d-9a74-4db306d0563c",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -447,81 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/die_band_@_mit_autosmile_ein_intimer_dialog_dlf_20261024_1530_4e4dafaf.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b6b74f00-03d3-5b63-9410-5e4b21e1dc77",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Keine kleinen Gefühle - Soffie über ihr Debütalbum",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-10-24T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/keine-kleinen-gefuehle-soffie-ueber-ihr-debuetalbum-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/24/keine_kleinen_gefuehle_soffie_ueber_ihr_debuetalbum_dlf_20261024_1515_de4b0e2a.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5c0dd199-470f-5b99-8113-3daa6364cee6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mit Smartphone und QR-Code - Technik auf der Messe \"Spiel Essen\"",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-23T13:25:24.000Z",
-    "url": "https://www.deutschlandfunk.de/mit-smartphone-und-qr-code-technik-auf-der-messe-spiel-essen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/mit_smartphone_und_qr_code_technik_auf_der_messe_spiel_essen_dlf_20261023_1525_861040aa.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b6fbc49a-9ef6-5f34-9124-b3fbd5ed0e0d",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Brasiliens Popkultur vor der Stichwahl",
-    "summary": "Wahl, Daniel Fernando www.deutschlandfunk.de, Corso",
-    "date": "2026-10-23T13:08:46.000Z",
-    "url": "https://www.deutschlandfunk.de/brasiliens-popkultur-vor-der-stichwahl-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/23/brasiliens_popkultur_vor_der_stichwahl_dlf_20261023_1508_ff0ec71c.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
