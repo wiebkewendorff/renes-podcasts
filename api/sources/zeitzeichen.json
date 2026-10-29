@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:b71243eb35014ca6f710ddf7f78a7011",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Joseph Pulitzer: Vom mittellosen Einwanderer zum Medienmogul",
+    "summary": "<p>Pulitzer revolutioniert die Medienlandschaft der USA, prägt die Yellow Press und legt sich mit dem Präsidenten an. Am 29.10.1911 stirbt er als Pionier der Pressefreiheit.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Almut Finck:</strong><br><ul><li>warum Pulitzer für die Überfahrt nach Amerika sein Alter fälscht,</li><li>warum Schmatzen und Schlürfen seine Angestellten den Job kostet,</li><li>wie der Erfinder der Sensationspresse gleichzeitig Korruption aufdeckt,</li><li>warum US-Präsident Theodore Roosevelt Pulitzer verklagt - und am Ende verliert.</li></ul><br>Mit 17 Jahren wandert der gebürtige Ungar Joseph Pulitzer in die USA aus. Dort steigt er in den folgenden Jahrzehnten vom Hilfsarbeiter ohne Englischkenntnisse zu einem der reichsten und einflussreichsten Zeitungsverleger des Landes auf. Pulitzer verwandelt die US-amerikanische Presse in ein Massenmedium und prägt sie wie kaum ein Zweiter. Er erfindet die Sensationspresse und ist zugleich Pionier des investigativen Journalismus.<br><br>Seine letzten Jahre verbringt der blinde und kränkliche Medienzar größtenteils auf seiner Yacht. Kurz vor seinem Tod am 29. Oktober 1911 stiftet er den nach ihm benannten Pulitzer-Preis, der bis heute als wichtigste Auszeichnung für Journalisten und Schriftsteller in den USA gilt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Barry Kritzberg, Historiker und Ex-Zeitungsreporter</li><li>Nassim Balestrini, Amerikanistin und Medienwissenschaftlerin, Universität Graz</li><li>James McGrath Morris: Pulitzer - A Life in Politics, Print and Power. New York 2011</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/theodore-roosevelt-100.html\" rel=\"noopener\" target=\"_blank\">06.01.1919 - Todestag von Theodore Roosevelt</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-geburtstag-william-randolph-hurst-100.html\" rel=\"noopener\" target=\"_blank\">29. April 1863 - Geburtstag des US-Verlegers William Randolph Hearst</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-the-new-yorker-104.html\" rel=\"noopener\" target=\"_blank\">21.02.1925 - Urban, anspruchsvoll, hip: Das Magazin \"The New Yorker\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Almut Finck<br>Redaktion: Carolin Rückl und Frank Zirpins<br>Technik: Annette Skrzydlo",
+    "date": "2026-10-29T05:00:31.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-joseph-pulitzer-vom-mittellosen-einwanderer-zum-medienzar-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/joseph-pulitzer-104~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/09/7be2f26a-6c53-4814-8ed5-01c9c8bb73ab/7be2f26a-6c53-4814-8ed5-01c9c8bb73ab_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:05e219468f098cba56b66936c296fc9e",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ralph-baer-der-mann-der-uns-alle-zu-video-gamern-machte-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/ralph-baer-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/15/6b058150-ddc5-4b92-83c7-de89432328e6/6b058150-ddc5-4b92-83c7-de89432328e6_MP3-128.mp3",
-    "duration": "16 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:fded726d5a18a071065402da4f72fe6a",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Jean Jülich und die Edelweißpiraten: Jugend im Widerstand",
-    "summary": "<p>Als 15-Jähriger wird Jean Jülich von der Gestapo gefoltert. Er überlebt die NS-Haft. Sein Widerstand wird erst Jahrzehnte später anerkannt. Er stirbt am 19.10.2011.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Wolfgang Meyer:</strong><br><ul><li>wie Jean Jülich als Kind die Verhaftung seines Vaters durch die Gestapo erlebt,</li><li>warum er sich 1942 der Jugendgruppe der Edelweißpiraten anschließt,</li><li>warum die Aktivitäten der Edelweißpiraten und anderer Jugendbünde von den Nazis als offener Aufstand gesehen werden,</li><li>dass Jean Jülich und die Edelweißpiraten erst 2003 als politische Widerstandskämpfer anerkannt werden.</li></ul><br>Äußeres Zeichen der \"Edelweißpiraten\" sind karierte Hemden, Halstuch, kurze Hosen und weiße Kniestrümpfe, dazu eine Edelweiß-Anstecknadel. Politische Motive spielen zunächst keine Rolle. Man will \"anders sein als die Hitlerjugend\".<br><br>Im Herbst 1944 bekommen die Jugendlichen Kontakt zu Hans Steinbrück, den die Edelweißpiraten \"Bombenhans\" nennen. Als KZ-Häftling muss Steinbrück unter Todesgefahr Blindgänger entschärfen und kann fliehen.<br><br>Steinbrück will die Jugendlichen für einen gefährlichen Anschlag gewinnen. Doch dazu kommt es nicht mehr. Die Gruppe fliegt Anfang Oktober 1944 auf. Steinbrück wird verhaftet. Ebenso der 16-jährige Barthel Schink, Jülichs bester Freund. Schink wird solange gefoltert, bis er Jean Jülich verrät.<br><br>Die Gruppe um den \"Bombenhans\" wird öffentlich an einem Bahndamm von der Gestapo gehängt. Ohne Gerichtsverfahren. Insgesamt 13 Menschen sterben, darunter auch Bartel Schink. Mehr als 400 Schaulustige stehen dabei.<br><br>Jean Jülich bleibt ohne Urteil in Haft. Nach Unterbringung in mehreren Zuchthäusern kommt er zuletzt ins Jugendgefängnis Rockenberg in Hessen. Ende März 1945 wird Jülich freigelassen.<br><br><strong>Das sind unsere wichtigsten Quellen:</strong><br><ul><li>Jean Jülich: Kohldampf, Knast un Kamelle. Ein Edelweißpirat erzählt aus seinem Leben. Köln 2003</li><li>Jan Krauthäuser, Doris Werheid, Jörg Seyffarth (Hrsg.): Gefährliche Lieder. Köln 2010</li><li>Detlev J. Peukert: Die Edelweißpiraten. Protestbewegung jugendlicher Arbeiter im \"Dritten Reich\". Eine Dokumentation. Köln 1988</li><li>Arno Klönne: Jugendliche Opposition im \"Dritten Reich\". 2. Auflage. Landeszentrale für politische Bildung. Erfurt 2013</li><li>Alexander Goeb: Er war sechzehn, als man ihn hängte. Das kurze Leben des Widerstandskämpfers Bartholomäus Schink. Reinbek 2001</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/nationalsozialismus/attentat_auf_hitler/attentat-auf-hitler-rote-kapelle-100.html\" rel=\"noopener\" target=\"_blank\">Widerstandskreis \"Rote Kapelle\"</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/nationalsozialismus/weisse_rose/pwwbweisserose100.html\" rel=\"noopener\" target=\"_blank\">Die Weiße Rose</a></li></ul><br><strong>Hörtipp</strong>:<br>Wenn Sie gerne in die Geschichte eintauchen und sich fragen, was sie mit unserer Gegenwart zu tun hat, dann haben wir eine Podcast-Empfehlung für Sie: \"<a href=\"https://1.ard.de/philosophisches-radio\" rel=\"noopener\" target=\"_blank\">WDR 5 Das philosophische Radio</a>\". Der Philosophie-Podcast für Menschen mit Freude am Selberdenken. Auf der Suche nach Erkenntnissen und Aha-Erlebnissen wird über die großen Fragen des Lebens und unserer Zeit philosophiert.<br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und der Macher hinter diesem Zeitzeichen: </strong><br>Autor: Wolfgang Meyer<br>Redaktion: Sefa Inci Suvak",
-    "date": "2026-10-19T04:00:17.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-jean-juelich-und-die-edelweisspiraten-jugend-im-widerstand-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/jean-juelich-zz-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/15/59e4855f-3413-4e9f-8a00-0d5c36ed5e48/59e4855f-3413-4e9f-8a00-0d5c36ed5e48_MP3-128.mp3",
     "duration": "16 Min",
     "tags": [
       "geschichte",

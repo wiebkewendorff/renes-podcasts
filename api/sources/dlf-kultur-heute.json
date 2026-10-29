@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:4dd83917-0a27-5769-96f2-feed06612c99",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 28.10.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-28T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-28-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/kulturmeldungen_28102026_dlf_20261028_1756_b48b5c97.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:961016f5-99f3-5ebe-9909-014acf761525",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Geteilte Vergangenheit\" - Archäologie und Nazizeit in Griechenland 1941-1944",
+    "summary": "Seralidou, Rodothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-28T16:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/geteilte-vergangenheit-archaeologie-und-nazizeit-in-griechenland-1941-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/geteilte_vergangenheit_archaeologie_und_nazizeit_in_dlf_20261028_1751_9487d03b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b3774347-3efb-53b1-8013-bbb1f4235317",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Proteste für eine bessere Zukunft - Auch in Albanien demonstriert die Gen Z",
+    "summary": "Weinreich, Charlotte www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-28T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/proteste-fuer-eine-bessere-zukunft-auch-in-albanien-demonstriert-die-gen-z-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/proteste_fuer_eine_bessere_zukunft_auch_in_albanien_dlf_20261028_1746_4784cee6.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ef02e8c5-1f5a-5a21-a5ae-c411d9acf54f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Guten Abend, du Schöne\" - DOK Leipzig legt Schwerpunkt auf Ost-Film",
+    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-28T16:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/guten-abend-du-schoene-dok-leipzig-legt-schwerpunkt-auf-ost-film-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/guten_abend_du_schoene_dok_leipzig_legt_schwerpunkt_auf_ost_dlf_20261028_1741_39833992.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bd371d19-805c-5538-9ea7-a8d70e552378",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Brexit Ten - Manos Tsangaris zum Treffen der Europ. Allianz der Akademien",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-28T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/brexit-ten-manos-tsangaris-zum-treffen-der-europ-allianz-der-akademien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/brexit_ten_manos_tsangaris_zum_treffen_der_europ_allianz_der_dlf_20261028_1736_e480c5ca.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:045e8f4e-3795-547c-b50a-30f899762598",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -104,32 +234,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:9117bf6a-a9aa-55f7-b332-b922fea6fa0b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Anthropic: Gigantischer Börsengang - gigantische Risiken",
-    "summary": "Schickentanz, Chris-Oliver www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-27T16:30:58.000Z",
-    "url": "https://www.deutschlandfunk.de/anthropic-gigantischer-boersengang-gigantische-risiken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/anthropic_gigantischer_boersengang_gigantische_risiken_dlf_20261027_1730_7f55d677.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-kultur-heute:e8f907a1-2c3f-564c-9162-84d4e0a6f951",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -140,110 +244,6 @@
     "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-10-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/kulturmeldungen_26102026_dlf_20261026_1756_ef4a1b11.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2bcb5caa-970f-5375-81fc-f8b6f59c6289",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Holm Friebe zum Tod von Schriftsteller Joachim Lottmann",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-26T16:48:45.000Z",
-    "url": "https://www.deutschlandfunk.de/holm-friebe-zum-tod-von-schriftsteller-joachim-lottmann-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/holm_friebe_zum_tod_von_schriftsteller_joachim_lottmann_dlf_20261026_1748_b24913da.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:53882e93-b89d-5de0-bef3-783a198d985b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zum 180. Geburtstag - Nancy feiert den Jugendstil-Künstler Émile Gallé",
-    "summary": "Breit, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-26T16:43:47.000Z",
-    "url": "https://www.deutschlandfunk.de/zum-180-geburtstag-nancy-feiert-den-jugendstil-kuenstler-mile-gall-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/zum_180_geburtstag_nancy_feiert_den_jugendstil_kuenstler_dlf_20261026_1743_2747ac99.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3ffff5c4-670b-52e1-818e-196539f1bebe",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutsch-deutscher Mahner: Ein Dokumentarfilm über Wolf Biermann",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-26T16:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/deutsch-deutscher-mahner-ein-dokumentarfilm-ueber-wolf-biermann-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/deutsch_deutscher_mahner_ein_dokumentarfilm_ueber_wolf_dlf_20261026_1735_f2464f6a.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4ec9f43e-7864-5616-ae71-93baecf3f964",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 25.10.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-25T16:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-25-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/25/kulturmeldungen_25102026_dlf_20261025_1756_0d13b094.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
     "tags": [
       "kultur",

@@ -1,5 +1,32 @@
 [
   {
+    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2025-10-25-wolfgang-labuhn-im-gesproech-mit-dem-ehemaligen-raf-mitglied-dlf-20251025-1105-b69641f6-mp3-refid-zeitzeugen-im-gespraech-102",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "RAF - Silke Maier-Witt: \"Die Brutalität hat mich nicht kalt gelassen\"",
+    "summary": "Silke Maier-Witt tritt als Studentin der Roten Armee Fraktion bei. Nach ihrer Loslösung taucht sie mit Hilfe der Stasi in der DDR unter. Mit dem Fall der Mauer wird sie enttarnt und verhaftet. Im Gespräch redet Sie über ihre Rolle in der RAF. (Erstsendung 25.10.25) Labuhn, Wolfgang www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-10-29T10:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wolfgang-labuhn-im-gesproech-mit-dem-ehemaligen-raf-mitglied-silke-maier-witt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/f1/41/82/5f/f141825f-a0fb-4d58-801c-a6ddbbb8e4e3/silke-maier-witt-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2025/10/25/wolfgang_labuhn_im_gesproech_mit_dem_ehemaligen_raf_mitglied_dlf_20251025_1105_b69641f6.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-zeitzeugen-im-gespraech:dcf03ae4-9234-5bc4-a7bd-7597b74aeb3c",
     "source": "dlf-zeitzeugen-im-gespraech",
     "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
@@ -118,33 +145,6 @@
     "url": "https://www.deutschlandfunk.de/jean-claude-juncker-106.html",
     "image": "https://bilder.deutschlandfunk.de/34/fe/63/6e/34fe636e-a36f-4eb5-b65c-099440fb15e2/jean-claude-juncker-108-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/05/28/zeitzeugen_im_gespraech_jean_claude_juncker_ehem_eu_dlf_20260528_1915_e6d05a43.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2025-11-27-dorothee-holz-im-gespraech-mit-dem-ehem-ministerpraes-des-dlf-20251127-1915-30755871-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ex-Verfassungsrichter Peter Müller - \"Ein Verbotsverfahren würde keinen AfD-Wähler zurückgewinnen\"",
-    "summary": "Peter Müller (CDU) macht sich Sorgen um die Akzeptanz von Rechtsstaat und Demokratie: \"Das Fundament ist aus dem Blick geraten.\" Außerdem erklärt der Ex-Verfassungsrichter, warum er gegen ein AfD-Verbotsverfahren ist. (Erstsendung am 27.11.25) Holz, Dorothee www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-04-25T09:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/dorothee-holz-im-gespraech-mit-dem-ehem-ministerpraes-des-saarlands-peter-mueller-100.html",
-    "image": "https://bilder.deutschlandfunk.de/d2/3b/97/07/d23b9707-5f75-410f-b2cb-f4b5a1ec0d56/peter-mueller-cdu-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/11/27/dorothee_holz_im_gespraech_mit_dem_ehem_ministerpraes_des_dlf_20251127_1915_30755871.mp3?refId=zeitzeugen-im-gespraech-102",
     "duration": "55 Min",
     "tags": [
       "zeitzeugen",
