@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-7686668438997201",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Politikwissenschaftler Pierrot Raschdorff über \"Die neue Höflichkeit\"",
+    "summary": "Wenn Pierrot Raschdorff über ein besseres Miteinander schreibt, dann klingt das nicht nach erhobenem Zeigefinger, sondern eher nach einer charmanten Einladung, die Welt ein kleines Stück angenehmer und freundlicher zu machen. Sein im Frühjahr erschienenes Buch \"Die neue Höflichkeit\" ist keine Sammlung von angestaubten Benimmregeln, sondern vielmehr eine ermutigende Anleitung für mehr Respekt, Achtsamkeit und gegenseitige Wertschätzung im alltäglichen Umgang.",
+    "date": "2026-10-29T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/politikwissenschaftler-pierrot-raschdorff-ueber-die-neue-hoeflichkeit,audio-3566570.html",
+    "image": "https://images.ndr.de/image/76eb1ef7-de0d-4ec6-a8f2-2470429aed59/AAABoYjQwFY/AAABnSStX0g/1x1-big/screenshot-252500.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1030/AU-20261030-0739-1100.mp3",
+    "duration": "36 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-286832770992266",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/b6ba360c-d087-4508-a388-8bffae01a7e5/AAABoW7WBu4/AAABnSStX0g/1x1-big/screenshot-249650.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-0816-1200.mp3",
     "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-6873166818223998",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Erzählt von der Liebe, wie sie wirklich sein kann: Schriftstellerin Ronja von Rönne",
-    "summary": "Ronja von Rönne erzählt von der Liebe, wie sie wirklich sein kann: komisch, grausam und zärtlich - aber manchmal auch ziemlich manipulativ. All das kommt in ihrem neuen Roman \"Alles Liebe\" vor. Ronja von Rönne schreibt, moderiert und interessiert sich gleichermaßen für Politik und die kleinen Abgründe des Privaten. Auf dem Roten Sofa spricht sie offen über Depressionen, Angststörungen, ADHS. Und sie zeigt sich mit scharfem Blick, viel Humor und der Fähigkeit, dem eigenen Chaos ebenso ehrlich wie unterhaltsam zu begegnen.",
-    "date": "2026-10-23T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/erzaehlt-von-der-liebe-wie-sie-wirklich-sein-kann-schriftstellerin-ronja-von-roenne,audio-3557916.html",
-    "image": "https://images.ndr.de/image/26ea5ba7-e1a5-401a-9028-9c249363baa4/AAABoWoJdks/AAABnSStX0g/1x1-big/screenshot-249396.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-0815-3300.mp3",
-    "duration": "37 Min",
     "tags": [
       "beatles",
       "popgeschichte",

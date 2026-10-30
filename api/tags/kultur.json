@@ -1,5 +1,209 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-7686668438997201",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Politikwissenschaftler Pierrot Raschdorff über \"Die neue Höflichkeit\"",
+    "summary": "Wenn Pierrot Raschdorff über ein besseres Miteinander schreibt, dann klingt das nicht nach erhobenem Zeigefinger, sondern eher nach einer charmanten Einladung, die Welt ein kleines Stück angenehmer und freundlicher zu machen. Sein im Frühjahr erschienenes Buch \"Die neue Höflichkeit\" ist keine Sammlung von angestaubten Benimmregeln, sondern vielmehr eine ermutigende Anleitung für mehr Respekt, Achtsamkeit und gegenseitige Wertschätzung im alltäglichen Umgang.",
+    "date": "2026-10-29T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/politikwissenschaftler-pierrot-raschdorff-ueber-die-neue-hoeflichkeit,audio-3566570.html",
+    "image": "https://images.ndr.de/image/76eb1ef7-de0d-4ec6-a8f2-2470429aed59/AAABoYjQwFY/AAABnSStX0g/1x1-big/screenshot-252500.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1030/AU-20261030-0739-1100.mp3",
+    "duration": "36 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:38f17693-0c08-50ac-be75-c36e27000c40",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 29.10.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-29T16:56:02.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/kulturmeldungen_29102026_dlf_20261029_1756_7ebdef1e.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5a9750ab-675b-5102-8634-76a94ccc5167",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Alle betroffen - Nichts gewusst?\" Viktoria Kamuf über Erinnerung an den NSU",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-29T16:45:59.000Z",
+    "url": "https://www.deutschlandfunk.de/alle-betroffen-nichts-gewusst-viktoria-kamuf-ueber-erinnerung-an-den-nsu-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/alle_betroffen_nichts_gewusst_viktoria_kamuf_ueber_dlf_20261029_1745_f5bcdcf8.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d13d8dbb-8af4-558d-a9b5-c5d7ad269fae",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mehr als Miss Marple - Eine Londoner Ausstellung über Agatha Christie",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-29T16:41:19.000Z",
+    "url": "https://www.deutschlandfunk.de/mehr-als-miss-marple-eine-londoner-ausstellung-ueber-agatha-christie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/mehr_als_miss_marple_eine_londoner_ausstellung_ueber_agatha_dlf_20261029_1741_30b99b4f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:479bbfa6-7ae9-5caa-b0ff-210caf3d8ce5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Blutgräfin\" - Isabelle Huppert als Vampirin in Ulrike Ottingers neuem Film",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-29T16:35:33.000Z",
+    "url": "https://www.deutschlandfunk.de/die-blutgraefin-isabelle-huppert-als-vampirin-in-ulrike-ottingers-neuem-film-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/die_blutgraefin_isabelle_huppert_als_vampirin_in_ulrike_dlf_20261029_1735_f7b7e0fb.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0cdbc02b-63e9-546c-8072-8d2a4cfca5b6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gebäuderetterin Barbara Buser - Was die Schweizer Architektin zum Vorbild macht",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-29T14:25:15.000Z",
+    "url": "https://www.deutschlandfunk.de/gebaeuderetterin-barbara-buser-was-die-schweizer-architektin-zum-vorbild-macht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/gebaeuderetterin_barbara_buser_was_die_schweizer_architektin_dlf_20261029_1525_5da92e31.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:2b266fd3-2eff-55e2-8775-8187b5ba17a4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deutschlandfunk-Kulturrecherche - Leitungswechsel beim Film Festival Cologne",
+    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
+    "date": "2026-10-29T14:12:00.000Z",
+    "url": "https://www.deutschlandfunk.de/deutschlandfunk-kulturrecherche-leitungswechsel-beim-film-festival-cologne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/deutschlandfunk_kulturrecherche_leitungswechsel_beim_film_dlf_20261029_1512_09242fc5.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7861d74a-09aa-5012-859e-22fdb90462bd",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Iran:Filmkunst und Repression - Jafar Panahi erneut zu 5 Jahren Haft verurteilt",
+    "summary": "Farzanefar, Amin www.deutschlandfunk.de, Corso",
+    "date": "2026-10-29T14:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/iran-filmkunst-und-repression-jafar-panahi-erneut-zu-5-jahren-haft-verurteilt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/iran_filmkunst_und_repression_jafar_panahi_erneut_zu_5_dlf_20261029_1506_4e223428.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-286832770992266",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -307,84 +511,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:9e5dadc8-15c3-5e12-a635-3c4a232f5bd3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Was macht einen guten Bond aus? Karina Urbach, Historikerin und Krimiautorin",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-27T16:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/was-macht-einen-guten-bond-aus-karina-urbach-historikerin-und-krimiautorin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/was_macht_einen_guten_bond_aus_karina_urbach_historikerin_dlf_20261027_1750_f95f080a.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8f5fc723-5540-53f8-8fec-b38e1c0caac2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Maria Jarema\" - Das Werk der polnischen Bildhauerin und Malerin in München",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-27T16:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/maria-jarema-das-werk-der-polnischen-bildhauerin-und-malerin-in-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/maria_jarema_das_werk_der_polnischen_bildhauerin_und_malerin_dlf_20261027_1745_e35cc577.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:27161d98-7ea1-5912-8352-446509cca84f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Stimmungsbild am Tag der Parlamentswahl in Israel - Historiker Moshe Zimmermann",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-27T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/stimmungsbild-am-tag-der-parlamentswahl-in-israel-historiker-moshe-zimmermann-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/stimmungsbild_am_tag_der_parlamentswahl_in_israel_historiker_dlf_20261027_1736_845b1c69.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:97fe0b72-bf72-5dfb-b0f7-db538db5fb9e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -511,32 +637,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:e8f907a1-2c3f-564c-9162-84d4e0a6f951",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 26.10.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-26T16:56:15.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/kulturmeldungen_26102026_dlf_20261026_1756_ef4a1b11.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:63c07697-75d5-5626-b334-2d2f481174f6",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -548,81 +648,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/dystopie_nicht_wirklich_neuer_comic_erde_oder_mond_dlf_20261026_1525_64b5b94d.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:8094e8f9-33c5-5c0a-85e3-7bf0716d2f7e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Dystopie? Nicht wirklich - Neuer Comic Erde oder Mond",
-    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
-    "date": "2026-10-26T14:25:15.000Z",
-    "url": "https://www.deutschlandfunk.de/dystopie-nicht-wirklich-neuer-comic-erde-oder-mond-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/dystopie_nicht_wirklich_neuer_comic_erde_oder_mond_dlf_20261026_1525_63b018a0.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:535b4a15-a7bc-59f9-a647-b4f3273f8b71",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Im Osten viel Neues - Filmfestival DOK Leipzig setzt \"Fokus Ost\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-10-26T14:15:32.000Z",
-    "url": "https://www.deutschlandfunk.de/im-osten-viel-neues-filmfestival-dok-leipzig-setzt-fokus-ost-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/im_osten_viel_neues_filmfestival_dok_leipzig_setzt_fokus_ost_dlf_20261026_1515_41b421d9.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5a02b5e3-41ef-5bdb-afcd-78c4640ff3c4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Symbole, Memes, analoge Aktionen - die Kultur des Wahlkampf der Studierenden",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-10-26T14:07:49.000Z",
-    "url": "https://www.deutschlandfunk.de/symbole-memes-analoge-aktionen-die-kultur-des-wahlkampf-der-studierenden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/symbole_memes_analoge_aktionen_die_kultur_des_wahlkampf_der_dlf_20261026_1507_adb26845.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
@@ -673,31 +698,6 @@
     "image": "https://images.ndr.de/image/b6ba360c-d087-4508-a388-8bffae01a7e5/AAABoW7WBu4/AAABnSStX0g/1x1-big/screenshot-249650.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-0816-1200.mp3",
     "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-6873166818223998",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Erzählt von der Liebe, wie sie wirklich sein kann: Schriftstellerin Ronja von Rönne",
-    "summary": "Ronja von Rönne erzählt von der Liebe, wie sie wirklich sein kann: komisch, grausam und zärtlich - aber manchmal auch ziemlich manipulativ. All das kommt in ihrem neuen Roman \"Alles Liebe\" vor. Ronja von Rönne schreibt, moderiert und interessiert sich gleichermaßen für Politik und die kleinen Abgründe des Privaten. Auf dem Roten Sofa spricht sie offen über Depressionen, Angststörungen, ADHS. Und sie zeigt sich mit scharfem Blick, viel Humor und der Fähigkeit, dem eigenen Chaos ebenso ehrlich wie unterhaltsam zu begegnen.",
-    "date": "2026-10-23T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/erzaehlt-von-der-liebe-wie-sie-wirklich-sein-kann-schriftstellerin-ronja-von-roenne,audio-3557916.html",
-    "image": "https://images.ndr.de/image/26ea5ba7-e1a5-401a-9028-9c249363baa4/AAABoWoJdks/AAABnSStX0g/1x1-big/screenshot-249396.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-0815-3300.mp3",
-    "duration": "37 Min",
     "tags": [
       "beatles",
       "popgeschichte",
