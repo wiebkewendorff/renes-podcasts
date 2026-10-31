@@ -1,5 +1,210 @@
 [
   {
+    "id": "dlf-kultur-heute:693a77bf-324d-5678-aa3e-5edc54ca47d5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 30.10.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:56:12.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/kulturmeldungen_30102026_dlf_20261030_1756_a4e860d0.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8bd3c3ce-7634-5863-be6b-af16456c69ec",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Maßstäbe für die Kulturentwicklung? Zum Spatenstich auf Kampnagel in HH",
+    "summary": "Neubig, Magdalena www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:51:30.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-massstaebe-fuer-die-kulturentwicklung-zum-spatenstich-auf-kampnagel-in-hh-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/neue_massstaebe_fuer_die_kulturentwicklung_zum_spatenstich_dlf_20261030_1751_d6e5f65a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:360229a0-af0f-580d-82c6-494a80f21df7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gedenken an russische Opfer - Anna Kaminsky, Stiftung Aufarbeitung SED-Diktatur",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gedenken-an-russische-opfer-anna-kaminsky-stiftung-aufarbeitung-sed-diktatur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/gedenken_an_russische_opfer_anna_kaminsky_stiftung_dlf_20261030_1746_b6dfeb8a.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:067742c4-9e11-5fcc-bf0a-8ca4b59f92ac",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Das Leben der Anderen\" am Westend - Robert Ickes Adaption des Films in London",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:40:40.000Z",
+    "url": "https://www.deutschlandfunk.de/das-leben-der-anderen-am-westend-robert-ickes-adaption-des-films-in-london-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/das_leben_der_anderen_am_westend_robert_ickes_adaption_des_dlf_20261030_1740_39d825bf.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b5bf5c6c-5da8-5636-861b-a0658d94309b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Siegfried\" - Tobias Kratzer setzt in München Wagners Ring fort",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/siegfried-tobias-kratzer-setzt-in-muenchen-wagners-ring-fort-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/siegfried_tobias_kratzer_setzt_in_muenchen_wagners_ring_fort_dlf_20261030_1735_c8d53846.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:61afa746-e57f-533b-ad81-53e15e307f06",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Rekonstruktion eines Anschlags - Die ARD-Serie Breitscheidplatz 19/12",
+    "summary": "Julian Ignatowitsch www.deutschlandfunk.de, Corso",
+    "date": "2026-10-30T14:24:00.000Z",
+    "url": "https://www.deutschlandfunk.de/rekonstruktion-eines-anschlags-die-ard-serie-breitscheidplatz-19-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/rekonstruktion_eines_anschlags_die_ard_serie_dlf_20261030_1524_814f6a64.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ab64881a-7ce8-50b9-9498-2323c41cbe1b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Anarchisch, verspielt und zugänglich\"? Neue Satire-Show mit Florian Schroeder",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-10-30T14:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/anarchisch-verspielt-und-zugaenglich-neue-satire-show-mit-florian-schroeder-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/anarchisch_verspielt_und_zugaenglich_neue_satire_show_mit_dlf_20261030_1508_d34e3929.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0036a033-a4ba-5fe9-ac9c-c0180c8f5a17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Benjamin Stöwe zum Tod der \"Star Trek\"- und \"X-Men\"-Legende Patrick Stewart",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-30T14:06:23.000Z",
+    "url": "https://www.deutschlandfunk.de/benjamin-stoewe-zum-tod-der-star-trek-und-x-men-legende-patrick-stewart-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/benjamin_stoewe_zum_tod_der_star_trek_und_x_men_legende_dlf_20261030_1506_50f0c7cd.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:38f17693-0c08-50ac-be75-c36e27000c40",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -259,110 +464,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:961016f5-99f3-5ebe-9909-014acf761525",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Geteilte Vergangenheit\" - Archäologie und Nazizeit in Griechenland 1941-1944",
-    "summary": "Seralidou, Rodothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-28T16:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/geteilte-vergangenheit-archaeologie-und-nazizeit-in-griechenland-1941-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/geteilte_vergangenheit_archaeologie_und_nazizeit_in_dlf_20261028_1751_9487d03b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b3774347-3efb-53b1-8013-bbb1f4235317",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Proteste für eine bessere Zukunft - Auch in Albanien demonstriert die Gen Z",
-    "summary": "Weinreich, Charlotte www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-28T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/proteste-fuer-eine-bessere-zukunft-auch-in-albanien-demonstriert-die-gen-z-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/proteste_fuer_eine_bessere_zukunft_auch_in_albanien_dlf_20261028_1746_4784cee6.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ef02e8c5-1f5a-5a21-a5ae-c411d9acf54f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Guten Abend, du Schöne\" - DOK Leipzig legt Schwerpunkt auf Ost-Film",
-    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-28T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/guten-abend-du-schoene-dok-leipzig-legt-schwerpunkt-auf-ost-film-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/guten_abend_du_schoene_dok_leipzig_legt_schwerpunkt_auf_ost_dlf_20261028_1741_39833992.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bd371d19-805c-5538-9ea7-a8d70e552378",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Brexit Ten - Manos Tsangaris zum Treffen der Europ. Allianz der Akademien",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-28T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/brexit-ten-manos-tsangaris-zum-treffen-der-europ-allianz-der-akademien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/brexit_ten_manos_tsangaris_zum_treffen_der_europ_allianz_der_dlf_20261028_1736_e480c5ca.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:9a69775a-8193-5480-985c-734757f5c9bf",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -464,32 +565,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:045e8f4e-3795-547c-b50a-30f899762598",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 27.10.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-27T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-27-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/kulturmeldungen_27102026_dlf_20261027_1756_0661144f.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:97fe0b72-bf72-5dfb-b0f7-db538db5fb9e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -501,81 +576,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/wacken_goes_japan_dlf_20261027_1520_c5c3a3af.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:67b64de2-7c4f-54d0-af3f-7a306c4fea6a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"One of our best friends\" - Neue Netflix-Doku über Schauspieler Matthew Perry",
-    "summary": "Heidmann, Patrick www.deutschlandfunk.de, Corso",
-    "date": "2026-10-27T14:06:35.000Z",
-    "url": "https://www.deutschlandfunk.de/one-of-our-best-friends-neue-netflix-doku-ueber-schauspieler-matthew-perry-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/one_of_our_best_friends_neue_netflix_doku_ueber_schauspieler_dlf_20261027_1506_32b316c7.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:47e6f699-86a4-56be-ba06-5577d1c7398b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Auf der Suche nach Biografien: Comicautor Simon Schwartz zu \"Vita Obscura\"",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-27T14:05:24.000Z",
-    "url": "https://www.deutschlandfunk.de/auf-der-suche-nach-biografien-comicautor-simon-schwartz-zu-vita-obscura-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/auf_der_suche_nach_biografien_comicautor_simon_schwartz_zu_dlf_20261027_1505_01dfed2e.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:63c07697-75d5-5626-b334-2d2f481174f6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Dystopie? Nicht wirklich - Neuer Comic Erde oder Mond",
-    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
-    "date": "2026-10-26T14:25:26.000Z",
-    "url": "https://www.deutschlandfunk.de/dystopie-nicht-wirklich-neuer-comic-erde-oder-mond-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/dystopie_nicht_wirklich_neuer_comic_erde_oder_mond_dlf_20261026_1525_64b5b94d.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",

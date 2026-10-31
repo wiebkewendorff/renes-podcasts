@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:61afa746-e57f-533b-ad81-53e15e307f06",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Rekonstruktion eines Anschlags - Die ARD-Serie Breitscheidplatz 19/12",
+    "summary": "Julian Ignatowitsch www.deutschlandfunk.de, Corso",
+    "date": "2026-10-30T14:24:00.000Z",
+    "url": "https://www.deutschlandfunk.de/rekonstruktion-eines-anschlags-die-ard-serie-breitscheidplatz-19-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/rekonstruktion_eines_anschlags_die_ard_serie_dlf_20261030_1524_814f6a64.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ab64881a-7ce8-50b9-9498-2323c41cbe1b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Anarchisch, verspielt und zugänglich\"? Neue Satire-Show mit Florian Schroeder",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-10-30T14:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/anarchisch-verspielt-und-zugaenglich-neue-satire-show-mit-florian-schroeder-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/anarchisch_verspielt_und_zugaenglich_neue_satire_show_mit_dlf_20261030_1508_d34e3929.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0036a033-a4ba-5fe9-ac9c-c0180c8f5a17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Benjamin Stöwe zum Tod der \"Star Trek\"- und \"X-Men\"-Legende Patrick Stewart",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-30T14:06:23.000Z",
+    "url": "https://www.deutschlandfunk.de/benjamin-stoewe-zum-tod-der-star-trek-und-x-men-legende-patrick-stewart-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/benjamin_stoewe_zum_tod_der_star_trek_und_x_men_legende_dlf_20261030_1506_50f0c7cd.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:0cdbc02b-63e9-546c-8072-8d2a4cfca5b6",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/wacken_goes_japan_dlf_20261027_1520_c5c3a3af.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:67b64de2-7c4f-54d0-af3f-7a306c4fea6a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"One of our best friends\" - Neue Netflix-Doku über Schauspieler Matthew Perry",
-    "summary": "Heidmann, Patrick www.deutschlandfunk.de, Corso",
-    "date": "2026-10-27T14:06:35.000Z",
-    "url": "https://www.deutschlandfunk.de/one-of-our-best-friends-neue-netflix-doku-ueber-schauspieler-matthew-perry-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/one_of_our_best_friends_neue_netflix_doku_ueber_schauspieler_dlf_20261027_1506_32b316c7.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:47e6f699-86a4-56be-ba06-5577d1c7398b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Auf der Suche nach Biografien: Comicautor Simon Schwartz zu \"Vita Obscura\"",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-27T14:05:24.000Z",
-    "url": "https://www.deutschlandfunk.de/auf-der-suche-nach-biografien-comicautor-simon-schwartz-zu-vita-obscura-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/auf_der_suche_nach_biografien_comicautor_simon_schwartz_zu_dlf_20261027_1505_01dfed2e.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:63c07697-75d5-5626-b334-2d2f481174f6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Dystopie? Nicht wirklich - Neuer Comic Erde oder Mond",
-    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
-    "date": "2026-10-26T14:25:26.000Z",
-    "url": "https://www.deutschlandfunk.de/dystopie-nicht-wirklich-neuer-comic-erde-oder-mond-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/26/dystopie_nicht_wirklich_neuer_comic_erde_oder_mond_dlf_20261026_1525_64b5b94d.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
