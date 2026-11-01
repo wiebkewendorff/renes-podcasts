@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:3f610ed5-9679-53b6-a057-34386299e1a5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Editors-Sänger Tom Smith: \"Nichts tut so weh wie das Leben.\"",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-10-31T14:37:00.000Z",
+    "url": "https://www.deutschlandfunk.de/editors-saenger-tom-smith-nichts-tut-so-weh-wie-das-leben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/editors_saenger_tom_smith_nichts_tut_so_weh_wie_das_leben_dlf_20261031_1537_43810d86.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b0289e14-8b7e-51ce-8c28-14b27136d7ff",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Hyperpop goes Rock - Die Band DIIV",
+    "summary": "Möller, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-31T14:25:00.000Z",
+    "url": "https://www.deutschlandfunk.de/hyperpop-goes-rock-die-band-diiv-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/hyperpop_goes_rock_die_band_diiv_dlf_20261031_1525_ab7e3cdf.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a230fdbf-795b-5faa-9ad3-1fddfc4eb3fb",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Von der Sehnsucht nach einem sicheren Zuhause: Das neue Album von Tränen",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-10-31T14:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/von-der-sehnsucht-nach-einem-sicheren-zuhause-das-neue-album-von-traenen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/von_der_sehnsucht_nach_einem_sicheren_zuhause_das_neue_album_dlf_20261031_1510_887ae054.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:61afa746-e57f-533b-ad81-53e15e307f06",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/neue_filme_by_any_means_glaube_free_at_heart_dlf_20261028_1515_bae07588.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:2320794c-43b2-5ffd-8434-634d1ccb247f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gen Z regelt - Aufstand einer enttäuschten Generation?",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-10-28T14:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gen-z-regelt-aufstand-einer-enttaeuschten-generation-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/gen_z_regelt_aufstand_einer_enttaeuschten_generation_dlf_20261028_1506_d0dba00d.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:33eb04b0-e70f-5547-b74e-b5622c916fc9",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Hochkarätiger Vampirfilm - Birgit Minichmayr als Zofe der \"Blutgräfin\"",
-    "summary": "Luerweg ,Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-10-28T14:05:02.000Z",
-    "url": "https://www.deutschlandfunk.de/hochkaraetiger-vampirfilm-birgit-minichmayr-als-zofe-der-blutgraefin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/hochkaraetiger_vampirfilm_birgit_minichmayr_als_zofe_der_dlf_20261028_1505_1ba4a388.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:97fe0b72-bf72-5dfb-b0f7-db538db5fb9e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wacken goes Japan",
-    "summary": "von Tschurtschenthaler, Katharina www.deutschlandfunk.de, Corso",
-    "date": "2026-10-27T14:20:41.000Z",
-    "url": "https://www.deutschlandfunk.de/wacken-goes-japan-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/27/wacken_goes_japan_dlf_20261027_1520_c5c3a3af.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",
