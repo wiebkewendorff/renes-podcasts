@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-4585495811797542",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Bricht das Schweigen über tabuisierte Körperfunktionen: Urologin Maria Sprinz",
+    "summary": "Die Medizinerin Dr. Maria Sprinz hat das Schweigen über allzu lange tabuisierte Körperfunktionen gebrochen: Als Assistenzärztin in der Urologie klärt sie auf ihrem Social-Media-Kanal etwa über Harninkontinenz, Vorsorge oder Toilettenhygiene auf. In ihrem nun erscheinenden Ratgeberbuch \"Blase und Ekstase\" widmet sie sich vor allem der weiblichen Gesundheit – denn ihr Fachgebiet ist längst nicht mehr nur Männersache.",
+    "date": "2026-11-01T19:40:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/bricht-schweigen-ueber-tabuisierte-koerperfunktionen-urologin-maria-sprinz,audio-3570554.html",
+    "image": "https://images.ndr.de/image/83eada08-d8f3-4ca0-8823-3813525d5076/AAABoZhiWYo/AAABnSStX0g/1x1-big/screenshot-253930.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1101/AU-20261101-2040-2600.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-5744747071798879",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/2b779db4-8a35-433f-9457-50c34330ad6e/AAABoXlyYzY/AAABnSStX0g/1x1-big/screenshot-250564.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-2153-2500.mp3",
     "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-8936019913715847",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Moderatorin und Autorin Marietta Slomka über \"Nachts im Kanzleramt\" als Comic",
-    "summary": "Unter Politikerinnen und Politikern dürfte Marietta Slomka durchaus gefürchtet sein. Denn mit ihrem unnachgiebigen Fragestil hat sie schon einige von ihnen im Interview gehörig ins Schlingern gebracht. Zu sehen sind solche eindrücklichen Fernsehmomente im ZDF-\"heute journal\". Ihr Buch \"Nachts im Kanzleramt\" kommt nun als Comic heraus und bringt vor allem jungen Menschen alles nahe, was diese über Politik wissen sollten. Auf dem Roten Sofa verrät Marietta Slomka, was das genau ist.",
-    "date": "2026-10-25T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/moderatorin-und-autorin-marietta-slomka-ueber-nachts-im-kanzleramt-als-comic,audio-3557920.html",
-    "image": "https://images.ndr.de/image/4e7d3c19-3f60-4ecd-b466-7d9752e4c586/AAABoXSzp94/AAABnSStX0g/1x1-big/screenshot-250272.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-0816-5300.mp3",
-    "duration": "42 Min",
     "tags": [
       "beatles",
       "popgeschichte",

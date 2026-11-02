@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:65ec290bec9e68a9f1f79339709ccdc5",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Eine Pastorsfrau rettet Tausende vor den Nazis: Magda Trocmé",
+    "summary": "<p>Als eine geflüchtete Jüdin vor Magda Trocmés (geb. 2.11.1901) Haustür steht, wird aus der ängstlichen Frau eine Widerstandskämpferin: Mit ihren Nachbarn rettet sie bis zu 5000 Juden das Leben.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Maren Gottschalk:</strong><br><ul><li>wie eine italienische Adlige auf die Idee kommt, in einem französischen Bergdorf ein Widerstandsnetzwerk aufzubauen,</li><li>warum Magda Trocmé in ihrer Kindheit davon träumt, ein ganz \"normales italienisches Kind\" zu sein, </li><li>mit welcher ungewöhnlichen Brautwerbung André Trocmé Magdas Herz gewinnt,</li><li>wie auch die Kinder der Trocmés später im Widerstand eingebunden sind.</li></ul><br>An einem Abend im Winter 1940/41 ist Magda Trocmé allein zu Haus, als es klopft. Vor der Tür des Pfarrhauses steht eine junge Frau, viel zu dünn angezogen für das Wetter, mit Sandalen an den Füßen, durchnässt und frierend. Sie spricht mit deutschem Akzent und ist Jüdin.<br><br>Magda Trocmé zögert keine Sekunde. Sie bittet die junge Frau ins Haus, bereitet ihr etwas zu essen und bezieht ihr ein Bett. Dass die Frau aus Nazi-Deutschland geflohen ist, steht außer Frage.<br><br>Dies ist der Anfang einer beispiellosen Rettungsaktion, die das kleine Nest Le Chambon-sur-Lignon im französischen Zentralmassiv in einen Hort des Widerstands verwandelt. Bis zu 5.000 Juden, darunter sehr viele Kinder, werden zwischen 1940 und 1945 hier versteckt und damit vor der sicheren Ermordung gerettet. Im Zentrum dieser Aktion stehen Magda und ihr Mann André Trocmé, doch sie haben viele Helferinnen und Helfer.<br><br>Die Bewohner des ganzen Hochplateaus stoßen dazu. Zwei Menschen können schließlich nicht 5.000 Leute retten. Es entsteht ein riesiges Netzwerk. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hanna Schott, Biographin der Trocmés </li><li>Annelie Buntenbach, Historikerin </li><li>Hanna Schott: Von Liebe und Widerstand. Magda und André Trocmé. Luhe-Wildenau 2021</li><li>Annelie Buntenbach: Leben und Kämpfen in den Cevennen 1940-1944. Eine deutsch-französische Widerstandsgeschichte, Göttingen 2026</li><li>United States Holocaust Memorial Museum: <a href=\"https://collections.ushmm.org/search/catalog/irn510802\" rel=\"noopener\" target=\"_blank\">Interview mit Magda Trocmé</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/nationalsozialismus/der_zweite_weltkrieg/index.html\" rel=\"noopener\" target=\"_blank\">Der Zweite Weltkrieg</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/deutsche_geschichte/flucht_und_vertreibung/fluechtlingsstroeme-106.html\" rel=\"noopener\" target=\"_blank\">Flüchtlingsströme des Zweiten Weltkriegs</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Maren Gottschalk<br>Redaktion: Carolin Rückl und Sefa Inci Suvak<br>Technik: Sarah Fitzek",
+    "date": "2026-11-02T05:00:26.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-magda-trocme-wie-die-pfarrersfrau-tausende-vor-den-nazis-rettet-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-magda-trocme-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/19/89175b76-718f-41b6-ba0f-b91b2963c081/89175b76-718f-41b6-ba0f-b91b2963c081_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:b04a0c82e7dbd2b41c9a30f4503ec850",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -247,29 +270,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-al-capone-skrupelloser-gangsterboss-und-liebevoller-papa-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/al-capone-102~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/21/baa96f58-6702-4f5c-b25c-04a051bb4256/baa96f58-6702-4f5c-b25c-04a051bb4256_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:bf7a273a13254262f7ed0b38dedd0f10",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Ungarn 1956: Ein Junge, ein Aufstand, ein zerstörter Traum",
-    "summary": "<p>1956 geht der 15-jährige Géza in Budapest auf die Straße. Er erlebt Euphorie und Angst, sowjetische Panzer und einige Tage Freiheit - bis der Aufstand scheitert.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Michael Richmann:</strong><br><ul><li>wodurch Nikita Chruschtschow die Hoffnung auf Reformen weckt,</li><li>warum Polen zum Vorbild für Ungarn wird,</li><li>dass Ungarn den Westen vergeblich um Hilfe bittet,</li><li>warum der missglückte Aufstand auch ein Versagen der Führungsspitzen ist.</li></ul><br>Was als Studentenproteste auf den Straßen in Budapest beginnt, entwickelt sich schnell zu einer Volksbewegung und erzielt zunächst Erfolge. Der abgesetzte Reformkommunist Imre Nagy kehrt als Ministerpräsident zurück. Und trotz blutiger Auseinandersetzungen mit Todesopfern auf beiden Seiten sieht es einige Tage so aus, als könnte der Aufstand Erfolg haben. <br><br>In Budapest und Moskau wird derweil um das weitere Vorgehen gerungen. Sollen Reformen zugelassen werden oder die Partei auf ihrem bisherigen Kurs beharren? Als Ungarn den Austritt aus dem Warschauer Pakt ankündigt, ist für den Kreml eine rote Linie überschritten. Die Sowjetarmee schlägt den Aufstand mit Panzern und militärischer Gewalt brutal nieder.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li> Beáta Márkus , Historikerin, Institut für donauschwäbische Geschichte und Landeskunde, Expertin für Erinnerungspolitik und Erinnerungskultur in Ungarn</li><li> Géza Jeszenszky , Zeitzeuge, Historiker und ungarischer Diplomat </li><li>György Dalos: 1956. Der Aufstand in Ungarn. München 2006</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>ARD Mediathek: <a href=\"https://www.ardmediathek.de/video/panorama/aufstieg-und-fall-gomulka/das-erste/Y3JpZDovL25kci5kZS9kMGZmODcxNi02Y2NmLTQ0OTAtYWZlMi01YTlkNmFiYzIxNmQ\" rel=\"noopener\" target=\"_blank\">Aufstieg und Fall Gomulka </a></li><li>ARD Sounds: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:bc72206c079400ca/\" rel=\"noopener\" target=\"_blank\">Abrechnung mit Stalins Personenkult: Chruschtschows Geheimrede</a></li><li>Bundeszentrale für politische Bildung: <a href=\"https://www.bpb.de/shop/zeitschriften/apuz/29773/krisenjahr-1956/#content-index\" rel=\"noopener\" target=\"_blank\">Krisenjahr 1956 </a>(Aus Politik und Zeitgeschichte)</li><li>Zeitzeichen 14.02.1956: Beginn der <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/entstalinisierung-100.html\" rel=\"noopener\" target=\"_blank\">Entstalinisierung in der Sowjetunion</a></li><li>Zeitzeichen 05.03.1953: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/josefstalin100.html\" rel=\"noopener\" target=\"_blank\">Todestag von Josef Stalin</a> </li><li>Zeitzeichen 17.04.1894: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-nikita-chruschtschow-102.html\" rel=\"noopener\" target=\"_blank\">Geburtstag des sowjetischen Politikers Nikita Chruschtschow</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Michael Richmann<br>Redaktion: Matti Hesse",
-    "date": "2026-10-23T04:00:15.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ungarn-ein-junge-ein-aufstand-ein-zerstoerter-traum-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-ungarn-aufstand-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/26/5dff3494-b953-4ed3-bdf2-92e7c5bfc303/5dff3494-b953-4ed3-bdf2-92e7c5bfc303_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

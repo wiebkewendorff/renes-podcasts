@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:1b42f841-4c48-528f-ab8f-255f8ebc7a3a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 01.11.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/kulturmeldungen_01112026_dlf_20261101_1756_92392882.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ad86df86-afc6-5c76-b04d-c8b43a3fc605",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lieferantin von Schmuckstücken - zum Tod der Filmproduzentin Regina Ziegler",
+    "summary": "Claus, Peter www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:51:45.000Z",
+    "url": "https://www.deutschlandfunk.de/lieferantin-von-schmuckstuecken-zum-tod-der-filmproduzentin-regina-ziegler-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/lieferantin_von_schmuckstuecken_zum_tod_der_filmproduzentin_dlf_20261101_1751_5537bf35.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0b0f0cdc-e76b-5ba0-917e-cb4b09f303e9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Partitur des Körpers\" - Ein Tanzabend in Hellerau",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:46:44.000Z",
+    "url": "https://www.deutschlandfunk.de/partitur-des-koerpers-ein-tanzabend-in-hellerau-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/partitur_des_koerpers_ein_tanzabend_in_hellerau_dlf_20261101_1746_ef3668f2.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4059bbc8-61ca-5fe3-be9d-d88577b4b801",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Das große Drama\" - Auguste Rodin und der Streit um die Moderne in Dresden",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:41:32.000Z",
+    "url": "https://www.deutschlandfunk.de/das-grosse-drama-auguste-rodin-und-der-streit-um-die-moderne-in-dresden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/das_grosse_drama_auguste_rodin_und_der_streit_um_die_moderne_dlf_20261101_1741_8c34fdc7.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8f6ab9a5-e516-50cf-bfa2-6c20a34281ae",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Erziehung und Verständigung - Claudia Bauer insz. Handkes \"Kaspar\" in Köln",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:36:17.000Z",
+    "url": "https://www.deutschlandfunk.de/erziehung-und-verstaendigung-claudia-bauer-insz-handkes-kaspar-in-koeln-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/erziehung_und_verstaendigung_claudia_bauer_insz_handkes_dlf_20261101_1736_7b31f339.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:57d77f35-6a6a-5aba-9aa4-968d43246e7c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Eine PEN Berlin-Veranstaltung reflektiert über das gemeinsame Reden",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:30:30.000Z",
+    "url": "https://www.deutschlandfunk.de/eine-pen-berlin-veranstaltung-reflektiert-ueber-das-gemeinsame-reden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/eine_pen_berlin_veranstaltung_reflektiert_ueber_das_dlf_20261101_1730_79309d0c.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:0fda5594-5a75-544e-8566-89c7f5507d88",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -89,162 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/kleiner_mann_was_nun_luise_voigt_inszeniert_fallada_am_dlf_20261031_1741_6d0ecc2e.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:09b7081e-df4a-509e-abd2-8bd66d15db87",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Klimaschutzaktivistin Luisa Neubauer zu den Jugendprotesten von \"GenZ regelt\"",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:35:50.000Z",
-    "url": "https://www.deutschlandfunk.de/klimaschutzaktivistin-luisa-neubauer-zu-den-jugendprotesten-von-genz-regelt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/klimaschutzaktivistin_luisa_neubauer_zu_den_jugendprotesten_dlf_20261031_1735_ca05fb69.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:eea65eea-5bcc-5430-80dc-766238c369b5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Proteste gegen kaputte Schulen, zu viel Stress - Marie Hacker, Vorstand LSV NRW",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/proteste-gegen-kaputte-schulen-zu-viel-stress-marie-hacker-vorstand-lsv-nrw-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/proteste_gegen_kaputte_schulen_zu_viel_stress_marie_hacker_dlf_20261031_1730_2b019ebc.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:693a77bf-324d-5678-aa3e-5edc54ca47d5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 30.10.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-30T16:56:12.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/kulturmeldungen_30102026_dlf_20261030_1756_a4e860d0.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8bd3c3ce-7634-5863-be6b-af16456c69ec",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Maßstäbe für die Kulturentwicklung? Zum Spatenstich auf Kampnagel in HH",
-    "summary": "Neubig, Magdalena www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-30T16:51:30.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-massstaebe-fuer-die-kulturentwicklung-zum-spatenstich-auf-kampnagel-in-hh-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/neue_massstaebe_fuer_die_kulturentwicklung_zum_spatenstich_dlf_20261030_1751_d6e5f65a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:360229a0-af0f-580d-82c6-494a80f21df7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gedenken an russische Opfer - Anna Kaminsky, Stiftung Aufarbeitung SED-Diktatur",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-30T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gedenken-an-russische-opfer-anna-kaminsky-stiftung-aufarbeitung-sed-diktatur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/gedenken_an_russische_opfer_anna_kaminsky_stiftung_dlf_20261030_1746_b6dfeb8a.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:067742c4-9e11-5fcc-bf0a-8ca4b59f92ac",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Das Leben der Anderen\" am Westend - Robert Ickes Adaption des Films in London",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-30T16:40:40.000Z",
-    "url": "https://www.deutschlandfunk.de/das-leben-der-anderen-am-westend-robert-ickes-adaption-des-films-in-london-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/das_leben_der_anderen_am_westend_robert_ickes_adaption_des_dlf_20261030_1740_39d825bf.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
