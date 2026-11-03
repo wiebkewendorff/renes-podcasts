@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:1c728ffc1d3f9671a5cab728276d566d",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Deutschlands rebellischster Autor: Thomas Brasch",
+    "summary": "<p>Sohn überzeugter Kommunisten, jüdisch, unbequem in Ost und West: Thomas Brasch sprengt Erwartungen - und erzählt wie kaum ein anderer vom Leben im Konflikt.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Thomas Klug:</strong><br><ul><li>wie Thomas Braschs Konflikt mit seinem Vater, einem hohen DDR-Kulturfunktionär, sein Werk prägt,</li><li>was der Liedermacher Wolf Biermann mit seiner Ausreise in die Bundesrepublik zu tun hat,</li><li>warum Brasch selbst bei der Verleihung des Bayerischen Filmpreises einen Eklat riskiert,</li><li>welche Schätze sein literarischer Nachlass bis heute bereithält,</li><li>warum Brasch als einer der eigenwilligsten deutschsprachigen Autoren seiner Generation gilt.</li></ul><br>Thomas Brasch wächst als Sohn überzeugter Kommunisten in der DDR auf. Früh gerät er mit Staat und Partei aneinander, wird nach Protesten gegen den Einmarsch der Warschauer-Pakt-Staaten in Prag verhaftet. Seine Texte handeln von Freiheit, Gewalt, Verrat, deutscher Geschichte und dem schwierigen Verhältnis zwischen Vätern und Söhnen.<br><br>Auch im Westen bleibt Brasch ein Außenseiter. Er veröffentlicht Bücher, dreht Filme und wird ausgezeichnet, verweigert sich aber jeder politischen Vereinnahmung. Sein Leben bewegt sich zwischen Erfolg, Zweifeln und Selbstzerstörung. Bis zu seinem Tod mit nur 56 Jahren bleibt das \"Aber\" sein treuester Begleiter.<br><br><strong>Das sind unsere wichtigsten Interviewpartnerinnen:</strong><br><ul><li>Dr. Kristin Schulz (Thomas-Brasch-Herausgeberin und Autorin)</li><li>Maren Horn (wissenschaftliche Mitarbeiterin im Literaturarchiv der Akademie der Künste)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>BR24 Kultur: <a href=\"https://www.br.de/nachrichten/kultur/kraftvoll-du-musst-gegen-den-wind-laufen-von-thomas-brasch,UZembEG\" rel=\"noopener\" target=\"_blank\">\"Du mußt gegen den Wind laufen\" von Thomas Brasch</a></li><li>ZDF: <a href=\"https://www.zdf.de/video/interviews/masterclass-100/masterclass-andreaskleinert-100\" rel=\"noopener\" target=\"_blank\">Regisseur Andreas Kleinert über seinen Film \"Lieber Thomas\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Thomas Klug<br>Redaktion: David Rother<br>Technik: Annette Skrzydlo",
+    "date": "2026-11-03T05:00:23.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-deutschlands-rebellischster-autor-thomas-brasch-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/georg-simmel-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/15/d80b304f-e238-4abe-826b-56a8a8299cc6/d80b304f-e238-4abe-826b-56a8a8299cc6_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:65ec290bec9e68a9f1f79339709ccdc5",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -23,7 +46,7 @@
     "language": "de"
   },
   {
-    "id": "zeitzeichen:b04a0c82e7dbd2b41c9a30f4503ec850",
+    "id": "zeitzeichen:f43db9c2c6e13e59da64457327385c67",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
@@ -32,7 +55,7 @@
     "date": "2026-11-01T05:00:56.000Z",
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-oesterreich-von-habsburg-sisi-und-der-suche-nach-identitaet-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-oesterreich-urkunde-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/29/232d4ed4-ecc4-4a67-85f4-13db81625d20/232d4ed4-ecc4-4a67-85f4-13db81625d20_MP3-128.mp3",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/02/6388251e-0df7-4645-be18-520b26539f88/6388251e-0df7-4645-be18-520b26539f88_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
@@ -248,29 +271,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/georg-simmel-102~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/19/934af10b-969f-4be7-9b04-221e5abe98f1/934af10b-969f-4be7-9b04-221e5abe98f1_MP3-128.mp3",
     "duration": "14 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:65392e95801c3974fe114e4a87ff226c",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Al Capone: Skrupelloser Gangsterboss und liebevoller \"Papa\"",
-    "summary": "<p>Er beherrscht Chicago mit Gewalt, doch am 24.10.1931 stürzt sein Imperium. Wer war der Mann, der als brutalster Mafiaboss galt und privat ein sanfter Opa war? </p><br><br><p><strong>In diesem Zeitzeichen erzählt Julia Schäfer:</strong><br><ul><li>wie der junge Al Capone in die Unterwelt abrutscht und zum Clan-Boss aufsteigt,</li><li>über sein Leben in Luxus und Verschwendung, </li><li>warum er seine Familie konsequent von Partys, Gewalt und mafiösen Geschäften fernhält,</li><li>weshalb er einen Teil seines Vermögens für Suppenküchen einsetzt.</li></ul><br>Um seine Geschäfte am Laufen zu halten, ist Al Capone nicht zimperlich. Ihm werden rund 200 Morde zugeschrieben. Dank einiger \"gut bezahlter Freunde\" bei Polizei und Justiz verschwinden belastende Beweise oft spurlos. Da er zudem kein Bankkonto führt, fällt es den Ermittlern schwer, Belastendes gegen ihn zu sammeln. <br> <br>Erst als eine Spezialeinheit ein altes Kassenbuch in einer alten Akte entdeckt, können ihm unversteuerte Einnahmen nachgewiesen werden. Al Capone wird am 24.10.1931 wegen Steuerhinterziehung zu elf Jahren Haft verurteilt. Als  Al Capone  1939 entlassen wird, ist er von der Haft und seinen Krankheiten schwer gezeichnet.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Diane Patricia Capone, Enkeltochter von Al Capone</li><li>Professor Dr. Alfred Hornung, Professor für Amerikanistik an der Universität Mainz </li><li>Diane Patricia Capone: Al Capone. Stories My Grandmother Told Me. New York 2019</li><li>Alfred Hornung: Al Capone. Der amerikanische Traum und das organisierte Verbrechen. Biographie. Darmstadt 2021</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://www.myalcaponemuseum.com\" rel=\"noopener\" target=\"_blank\">Mario Gomes' Website mit sehr vielen Informationen zu Al Capone</a></li><li>Stichtag 21.03.1963: <a href=\"https://www1.wdr.de/stichtag/stichtag-us-gefaengnis-alcatraz-100.html\" rel=\"noopener\" target=\"_blank\">US-Gefängnis Alcatraz geschlossen</a></li><li>Zeitzeichen 25.01.1947: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-al-capone-todestag-100.html\" rel=\"noopener\" target=\"_blank\">Mafia-Boss Al Capone stirbt in Miami Beach</a></li><li>Stichtag 05.12.1933: <a href=\"https://www1.wdr.de/stichtag/stichtag-prohibition-usa-ende-100.html\" rel=\"noopener\" target=\"_blank\">Aufhebung der Prohibition in den USA </a></li><li>Zeitzeichen 04.01.1890: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-victor-lustig-102.html\" rel=\"noopener\" target=\"_blank\">Geburtstag des Trickbetrügers Victor Lustig</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und der Macher hinter diesem Zeitzeichen: </strong><br>Autorin Julia Schäfer<br>Redaktion: Matti Hesse",
-    "date": "2026-10-24T04:00:29.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-al-capone-skrupelloser-gangsterboss-und-liebevoller-papa-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/al-capone-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/21/baa96f58-6702-4f5c-b25c-04a051bb4256/baa96f58-6702-4f5c-b25c-04a051bb4256_MP3-128.mp3",
-    "duration": "15 Min",
     "tags": [
       "geschichte",
       "bildung",

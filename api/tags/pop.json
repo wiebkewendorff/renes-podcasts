@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:08afb508-76b6-5dee-8e56-2a7cb1a2d562",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fatih Akins \"Geister\" als Graphic Novel: Vom Drehbuch zum Comic",
+    "summary": "Davies, Bea; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-11-02T14:20:55.000Z",
+    "url": "https://www.deutschlandfunk.de/fatih-akins-geister-als-graphic-novel-vom-drehbuch-zum-comic-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/fatih_akins_geister_als_graphic_novel_vom_drehbuch_zum_comic_dlf_20261102_1520_a9d3cf93.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d9096495-6872-5a8c-8940-cf2c09ac6ae0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aktionskünstler Dennis Meseg - 15 Tonnen Patronenhülsen",
+    "summary": "Backof, Peter www.deutschlandfunk.de, Corso",
+    "date": "2026-11-02T14:15:19.000Z",
+    "url": "https://www.deutschlandfunk.de/aktionskuenstler-dennis-meseg-15-tonnen-patronenhuelsen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/aktionskuenstler_dennis_meseg_15_tonnen_patronenhuelsen_dlf_20261102_1515_99cc3ac6.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1ef94fd4-3d8d-5b5f-a1a7-b88379b513dc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Tod des Techno-Pioniers Juan Atkins der Tresor-Gründer Dimitri Hegemann",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-11-02T14:06:18.000Z",
+    "url": "https://www.deutschlandfunk.de/zum-tod-des-techno-pioniers-juan-atkins-der-tresor-gruender-dimitri-hegemann-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/zum_tod_des_techno_pioniers_juan_atkins_der_tresor_gruender_dlf_20261102_1506_d9ca707e.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:3f610ed5-9679-53b6-a057-34386299e1a5",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/gebaeuderetterin_barbara_buser_was_die_schweizer_architektin_dlf_20261029_1525_5da92e31.mp3?refId=corso-104",
     "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:2b266fd3-2eff-55e2-8775-8187b5ba17a4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutschlandfunk-Kulturrecherche - Leitungswechsel beim Film Festival Cologne",
-    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
-    "date": "2026-10-29T14:12:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutschlandfunk-kulturrecherche-leitungswechsel-beim-film-festival-cologne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/deutschlandfunk_kulturrecherche_leitungswechsel_beim_film_dlf_20261029_1512_09242fc5.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7861d74a-09aa-5012-859e-22fdb90462bd",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Iran:Filmkunst und Repression - Jafar Panahi erneut zu 5 Jahren Haft verurteilt",
-    "summary": "Farzanefar, Amin www.deutschlandfunk.de, Corso",
-    "date": "2026-10-29T14:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/iran-filmkunst-und-repression-jafar-panahi-erneut-zu-5-jahren-haft-verurteilt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/iran_filmkunst_und_repression_jafar_panahi_erneut_zu_5_dlf_20261029_1506_4e223428.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9a69775a-8193-5480-985c-734757f5c9bf",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme - \"By any means\", \"Glaube\", \"Free at heart\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-10-28T14:15:22.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-by-any-means-glaube-free-at-heart-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/neue_filme_by_any_means_glaube_free_at_heart_dlf_20261028_1515_bae07588.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",

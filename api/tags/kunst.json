@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:a2e2c214-28c6-5aa0-8257-2845c73220c9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 02.11.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-02T16:56:34.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kulturmeldungen_02112026_dlf_20261102_1756_9157e57a.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5efa7c49-00b9-525d-98f0-bb348577df2f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kein Geld für Renovierung? Warum das Rastatter Revolutionsmuseum geschlossen ist",
+    "summary": "Fehrle, Moritz www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-02T16:52:15.000Z",
+    "url": "https://www.deutschlandfunk.de/kein-geld-fuer-renovierung-warum-das-rastatter-revolutionsmuseum-geschlossen-ist-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kein_geld_fuer_renovierung_warum_das_rastatter_dlf_20261102_1752_7056e334.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:abf1985f-0e0f-5785-8353-6200142d48ab",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gegen verbannte Bücher: Eine kalifornische Bibliothekarin geht in die Politik",
+    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-02T16:47:18.000Z",
+    "url": "https://www.deutschlandfunk.de/gegen-verbannte-buecher-eine-kalifornische-bibliothekarin-geht-in-die-politik-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/gegen_verbannte_buecher_eine_kalifornische_bibliothekarin_dlf_20261102_1747_1a5590df.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a09b3da5-01e7-5776-8c62-8a9ca476d9c0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mehr Sichtbarkeit: die Arabisch-stämmige Kulturszene in Israel nach der Wahl",
+    "summary": "Kitzler, Jan Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-02T16:42:13.000Z",
+    "url": "https://www.deutschlandfunk.de/mehr-sichtbarkeit-die-arabisch-staemmige-kulturszene-in-israel-nach-der-wahl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/mehr_sichtbarkeit_die_arabisch_staemmige_kulturszene_in_dlf_20261102_1742_7b548299.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:08afb508-76b6-5dee-8e56-2a7cb1a2d562",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fatih Akins \"Geister\" als Graphic Novel: Vom Drehbuch zum Comic",
+    "summary": "Davies, Bea; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-11-02T14:20:55.000Z",
+    "url": "https://www.deutschlandfunk.de/fatih-akins-geister-als-graphic-novel-vom-drehbuch-zum-comic-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/fatih_akins_geister_als_graphic_novel_vom_drehbuch_zum_comic_dlf_20261102_1520_a9d3cf93.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d9096495-6872-5a8c-8940-cf2c09ac6ae0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aktionskünstler Dennis Meseg - 15 Tonnen Patronenhülsen",
+    "summary": "Backof, Peter www.deutschlandfunk.de, Corso",
+    "date": "2026-11-02T14:15:19.000Z",
+    "url": "https://www.deutschlandfunk.de/aktionskuenstler-dennis-meseg-15-tonnen-patronenhuelsen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/aktionskuenstler_dennis_meseg_15_tonnen_patronenhuelsen_dlf_20261102_1515_99cc3ac6.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1ef94fd4-3d8d-5b5f-a1a7-b88379b513dc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Tod des Techno-Pioniers Juan Atkins der Tresor-Gründer Dimitri Hegemann",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-11-02T14:06:18.000Z",
+    "url": "https://www.deutschlandfunk.de/zum-tod-des-techno-pioniers-juan-atkins-der-tresor-gruender-dimitri-hegemann-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/zum_tod_des_techno_pioniers_juan_atkins_der_tresor_gruender_dlf_20261102_1506_d9ca707e.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:1b42f841-4c48-528f-ab8f-255f8ebc7a3a",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -140,110 +319,6 @@
     "url": "https://www.deutschlandfunk.de/eine-pen-berlin-veranstaltung-reflektiert-ueber-das-gemeinsame-reden-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/eine_pen_berlin_veranstaltung_reflektiert_ueber_das_dlf_20261101_1730_79309d0c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0fda5594-5a75-544e-8566-89c7f5507d88",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 31.10.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:56:45.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-31-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/kulturmeldungen_31102026_dlf_20261031_1756_4416265e.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6b55ea4b-eafc-5d44-8a5e-61b0a0df6747",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Universum aus Zeichnungen - \"Andreas Oehlert. Paper Moon\" in Nürnberg",
-    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:51:45.000Z",
-    "url": "https://www.deutschlandfunk.de/universum-aus-zeichnungen-andreas-oehlert-paper-moon-in-nuernberg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/universum_aus_zeichnungen_andreas_oehlert_paper_moon_in_dlf_20261031_1751_c11391d8.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:aef461e3-5539-5ebb-a46c-b10812206682",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Hito Steyerl - Deine Mudda macht Show\" in den Deichtorhallen Hamburg",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:46:30.000Z",
-    "url": "https://www.deutschlandfunk.de/hito-steyerl-deine-mudda-macht-show-in-den-deichtorhallen-hamburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/hito_steyerl_deine_mudda_macht_show_in_den_deichtorhallen_dlf_20261031_1746_f4113093.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:26216820-d245-59e3-af06-852b492fc9c5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Kleiner Mann, was nun?\": Luise Voigt inszeniert Fallada am Schauspiel Frankfurt",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kleiner-mann-was-nun-luise-voigt-inszeniert-fallada-am-schauspiel-frankfurt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/kleiner_mann_was_nun_luise_voigt_inszeniert_fallada_am_dlf_20261031_1741_6d0ecc2e.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
     "tags": [
       "kultur",
@@ -421,81 +496,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/gebaeuderetterin_barbara_buser_was_die_schweizer_architektin_dlf_20261029_1525_5da92e31.mp3?refId=corso-104",
     "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:2b266fd3-2eff-55e2-8775-8187b5ba17a4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutschlandfunk-Kulturrecherche - Leitungswechsel beim Film Festival Cologne",
-    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
-    "date": "2026-10-29T14:12:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutschlandfunk-kulturrecherche-leitungswechsel-beim-film-festival-cologne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/deutschlandfunk_kulturrecherche_leitungswechsel_beim_film_dlf_20261029_1512_09242fc5.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7861d74a-09aa-5012-859e-22fdb90462bd",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Iran:Filmkunst und Repression - Jafar Panahi erneut zu 5 Jahren Haft verurteilt",
-    "summary": "Farzanefar, Amin www.deutschlandfunk.de, Corso",
-    "date": "2026-10-29T14:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/iran-filmkunst-und-repression-jafar-panahi-erneut-zu-5-jahren-haft-verurteilt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/iran_filmkunst_und_repression_jafar_panahi_erneut_zu_5_dlf_20261029_1506_4e223428.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9a69775a-8193-5480-985c-734757f5c9bf",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme - \"By any means\", \"Glaube\", \"Free at heart\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-10-28T14:15:22.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-by-any-means-glaube-free-at-heart-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/neue_filme_by_any_means_glaube_free_at_heart_dlf_20261028_1515_bae07588.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
