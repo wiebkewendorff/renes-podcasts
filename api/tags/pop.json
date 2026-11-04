@@ -1,5 +1,105 @@
 [
   {
+    "id": "dlf-corso:3d2c8097-976c-56ac-9d8f-5f526d262440",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Tod von Janosch: Der Vater der Tigerente",
+    "summary": "Der kleine Tiger, der kleine Bär und die Tigerente: Horst Eckert alias Janosch hat die bekanntesten Kinderbuchfiguren Deutschlands geschaffen. Jetzt ist er im Alter von 95 Jahren auf Teneriffa gestorben. Von Sören Brinkmann",
+    "date": "2026-11-04T11:08:00.000Z",
+    "url": "https://www.deutschlandfunkkultur.de/janosch-autor-tigerente-gestorben-nachruf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/c6/fd/3a/d4/c6fd3ad4-094d-4d37-901b-46c8f70929c6/janosch-tod-in-farbe-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/diese_scheiss_tigerente_zum_tod_von_janosch_dlf_20261104_1506_4f159dcf.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f0e26776-ce08-51e1-87ad-fd0a15cb0185",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Game \"Penguin Colony\" - H.P. Lovecraft auf antifaschistisch",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-03T14:25:24.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-game-penguin-colony-h-p-lovecraft-auf-antifaschistisch-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/neues_game_penguin_colony_hp_lovecraft_auf_antifaschistisch_dlf_20261103_1525_cde6c3f9.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:81f72102-d8eb-577b-a541-99b4be325507",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bildgewaltiges Epos per Handarbeit - der Stop-Motion-Film \"Wildwood\"",
+    "summary": "Wollner, Anna www.deutschlandfunk.de, Corso",
+    "date": "2026-11-03T14:15:43.000Z",
+    "url": "https://www.deutschlandfunk.de/bildgewaltiges-epos-per-handarbeit-der-stop-motion-film-wildwood-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/bildgewaltiges_epos_per_handarbeit_der_stop_motion_film_dlf_20261103_1515_b4e54cca.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:41047e7d-d41d-5489-84db-02c5527176ca",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "US-Wahl: Wie die Demokraten Influencer umgarnen",
+    "summary": "Wiedlack, Katharina; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-11-03T14:09:22.000Z",
+    "url": "https://www.deutschlandfunk.de/us-wahl-wie-die-demokraten-influencer-umgarnen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/us_wahl_wie_die_demokraten_influencer_umgarnen_dlf_20261103_1509_a6f2ef98.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:08afb508-76b6-5dee-8e56-2a7cb1a2d562",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -60,7 +160,7 @@
     "url": "https://www.deutschlandfunk.de/zum-tod-des-techno-pioniers-juan-atkins-der-tresor-gruender-dimitri-hegemann-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/zum_tod_des_techno_pioniers_juan_atkins_der_tresor_gruender_dlf_20261102_1506_d9ca707e.mp3?refId=corso-104",
-    "duration": "5 Min",
+    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
@@ -136,106 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/von_der_sehnsucht_nach_einem_sicheren_zuhause_das_neue_album_dlf_20261031_1510_887ae054.mp3?refId=corso-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:61afa746-e57f-533b-ad81-53e15e307f06",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rekonstruktion eines Anschlags - Die ARD-Serie Breitscheidplatz 19/12",
-    "summary": "Julian Ignatowitsch www.deutschlandfunk.de, Corso",
-    "date": "2026-10-30T14:24:00.000Z",
-    "url": "https://www.deutschlandfunk.de/rekonstruktion-eines-anschlags-die-ard-serie-breitscheidplatz-19-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/rekonstruktion_eines_anschlags_die_ard_serie_dlf_20261030_1524_814f6a64.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ab64881a-7ce8-50b9-9498-2323c41cbe1b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Anarchisch, verspielt und zugänglich\"? Neue Satire-Show mit Florian Schroeder",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-10-30T14:08:00.000Z",
-    "url": "https://www.deutschlandfunk.de/anarchisch-verspielt-und-zugaenglich-neue-satire-show-mit-florian-schroeder-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/anarchisch_verspielt_und_zugaenglich_neue_satire_show_mit_dlf_20261030_1508_d34e3929.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0036a033-a4ba-5fe9-ac9c-c0180c8f5a17",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Benjamin Stöwe zum Tod der \"Star Trek\"- und \"X-Men\"-Legende Patrick Stewart",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-30T14:06:23.000Z",
-    "url": "https://www.deutschlandfunk.de/benjamin-stoewe-zum-tod-der-star-trek-und-x-men-legende-patrick-stewart-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/benjamin_stoewe_zum_tod_der_star_trek_und_x_men_legende_dlf_20261030_1506_50f0c7cd.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0cdbc02b-63e9-546c-8072-8d2a4cfca5b6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gebäuderetterin Barbara Buser - Was die Schweizer Architektin zum Vorbild macht",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-29T14:25:15.000Z",
-    "url": "https://www.deutschlandfunk.de/gebaeuderetterin-barbara-buser-was-die-schweizer-architektin-zum-vorbild-macht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/gebaeuderetterin_barbara_buser_was_die_schweizer_architektin_dlf_20261029_1525_5da92e31.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",

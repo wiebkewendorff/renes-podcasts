@@ -1,65 +1,40 @@
 [
   {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4091865",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "id": "dlf-corso:3d2c8097-976c-56ac-9d8f-5f526d262440",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Wie lassen sich Nachtleben und Nachtruhe besser vereinen?",
-    "summary": "Neue Ideen für ein lebendiges Nachtleben\n<p>Genau diesem Problem widmet sich das Projekt Green Soundproofing. Dabei suchen Menschen aus Architektur, Handwerk, Forschung und Stadtverwaltung gemeinsam nach einer Möglichkeit, den Lärm in belebten Innenstädten zu reduzieren, ohne das Nachtleben dabei einzuschränken.</p>\n<p>Einer der Beteiligten ist <strong>Robert Gaa</strong>. Er ist Beauftragter für Nachtökonomie der Stadt Mannheim, umgangssprachlich auch Nachtbürgermeister genannt. In seiner Funktion kümmert er sich unter anderem um die Interessen von Bars, Restaurants und Veranstaltenden, vermittelt bei Lärmbeschwerden und kennt die Konflikte zwischen Gastronomie und Anwohnenden. Verschärft wird das Problem durch die Bauweise vieler Innenstädte: Besonders in dicht bebauten Vierteln wird der Schall von den Häuserfassaden reflektiert und dadurch verstärkt. Weil es bislang nur wenige technische Lösungen gibt, reagieren Städte häufig mit Einschränkungen für die Außengastronomie.</p>\n<p>Eine Alternative könnte das modulare Lärmschutzsystem von Green Soundproofing bieten. Mitentwickelt wird es von <strong>Chiara Weiß</strong>, Architektin und Geschäftsführerin von studio more. Ihre Idee: Statt einer herkömmlichen Schallschutzwand sollen flexibel kombinierbare Elemente entstehen, die sich an unterschiedliche Orte in der Stadt anpassen lassen. Die Module können neben- und übereinander angeordnet werden. Dazwischen ist Platz für kleine Tische, Sitzgelegenheiten oder Begrünung. So könnte der Lärmschutz zugleich zu einem Stadtmöbel werden, das nicht nur den Schall reduziert, sondern auch zum Verweilen einlädt.</p>\nWenn alle von Anfang an mitreden\n<p>Das Besondere an dem Projekt ist jedoch ist nicht nur die Idee, sondern auch ihre Entwicklung. Im Rahmen des Förderprogramms CO.VISION arbeiten die Beteiligten von Anfang an zusammen an der Entwicklung. So können sie ihre unterschiedlichen Erfahrungen direkt einbringen, Ideen gemeinsam weiterentwickeln und mögliche Probleme frühzeitig erkennen.</p>\n<p>Denn was auf dem Papier gut aussieht, muss sich später auch im Stadtalltag bewähren. Deshalb prüft die Werkhalle Mannheim, ob sich die Entwürfe von Chiara Weiß überhaupt bauen lassen. Forschende der Fraunhofer-Gesellschaft untersuchen, wie gut die Module den Schall dämpfen. Und Robert Gaa achtet darauf, dass das Stadtmöbel auch den Anforderungen der Stadt entspricht. Schließlich muss es nicht nur Lärm reduzieren, sondern auch bezahlbar, standsicher und wetterfest sein.  Weil all diese Fragen schon während der Entwicklung auf den Tisch kommen, können die Beteiligten ihre Entwürfe frühzeitig anpassen.</p>\n<p>Doch was passiert, wenn kreative Ideen auf technische Grenzen und städtische Vorschriften treffen? Kann Green Soundproofing tatsächlich dazu beitragen, das Nachtleben und die Nachtruhe besser zu vereinbaren? Und was können andere Städte von dieser Zusammenarbeit lernen? Darüber spricht <em>detektor.fm</em>-Redakteurin Philine Klinger mit Chiara Weiß und Robert Gaa in der neuen Folge von „Machen statt Quatschen“.</p>",
-    "date": "2026-11-03T09:12:22.000Z",
-    "url": "https://feedpress.me/link/19604/17514430/machen-statt-quatschen-cross-innovation-nachtleben-green-soundproofing-mannheim",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261103-02-cross-innovation-greensoundproofing.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261103-02-cross-innovation-greensoundproofing.63.mp3",
-    "duration": "20 Min",
+    "title": "Zum Tod von Janosch: Der Vater der Tigerente",
+    "summary": "Der kleine Tiger, der kleine Bär und die Tigerente: Horst Eckert alias Janosch hat die bekanntesten Kinderbuchfiguren Deutschlands geschaffen. Jetzt ist er im Alter von 95 Jahren auf Teneriffa gestorben. Von Sören Brinkmann",
+    "date": "2026-11-04T11:08:00.000Z",
+    "url": "https://www.deutschlandfunkkultur.de/janosch-autor-tigerente-gestorben-nachruf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/c6/fd/3a/d4/c6fd3ad4-094d-4d37-901b-46c8f70929c6/janosch-tod-in-farbe-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/diese_scheiss_tigerente_zum_tod_von_janosch_dlf_20261104_1506_4f159dcf.mp3?refId=corso-104",
+    "duration": "6 Min",
     "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:50f7e1e8-ed86-590d-a32c-c20e2e0ef61e",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "doku drops 18: Freiheit – jeden Monat neue Kurzdokus",
-    "summary": "Wer sich Freiheiten nimmt, kann andere inspirieren und so auch ihnen Freiheit schenken. Wo aber Zwang herrscht, werden die Räume eng. Diese Folge ist Teil der Thementage „Freiheit: Mein Recht. Dein Problem?“ von Dlf Kultur.<br><br><strong>Das erwartet euch in dieser Folge:</strong><br><br><strong>(00:55) You only live once</strong><br>Von Judith Geffert<br>Sie bremsen für alte Menschen und Hunde, aber geben richtig Gummi, wenn die Ampel auf rot<br>springt. Ein O-Ton-Stück über Freiheit und Grenzen beim E-Scooter fahren.<br><br><strong>(06:04) Ein Mobile aus Individuen</strong><br>Von Leonie Reineke<br>Straffe Führung mit dem Taktstock ist nicht die einzige Möglichkeit, ein Orchester zu leiten. Viele<br>Ensembles organisieren sich selbst. Wie geht das – und was bringt das?<br><br><strong>(16:30) Aber wir sind laut</strong><br>Von Karolina Szulejewska<br>Polnische Frauen fühlen sich von den Abtreibungsgesetzen ihres Landes bevormundet. Nicht wenige<br>reisen für einen Eingriff nach Deutschland. Was bewegt sie?<br><br>+++++<br><br>doku drops ist das monatliche Magazin für kurzes dokumentarisches Audio: „Doku“. Und „drops“ steht für: süße Drops, saure Drops, Tropfen, die Wellen schlagen, Tränen der Freude, der Rührung oder der Wut, Mike drops, kleine Einheiten, die Teil eines größeren Ganzen sind. In der Nachfolge der Feature-Antenne stellen wir jeden Monat neue Kurzdokus vor: vielfältig, vielschichtig und mit viel Spaß produziert.<br><br>+++++<br><br><strong>Mehr zum Thema in der Deutschlandfunk-App</strong><br>Alle Folgen von doku drops gibt es <a href=\"https://www.hoerspielundfeature.de/doku-drops-overview-100.html\" rel=\"noopener\" target=\"_blank\">hier.</a> <br><a href=\"https://www.hoerspielundfeature.de/alle-beitraege-im-ueberblick-feature-antenne-100.html\" rel=\"noopener\" target=\"_blank\">Und hier sind alle Folgen der Feature-Antenne </a>(die Vorgängersendung von doku drops)<br><br>+++++<br><br>Zusammenstellung: Judith Geffert und Ingo Kottkamp<br>Moderation: Ingo Kottkamp<br>Ton: Ingo Kottkamp und die Autor*innen<br>Deutschlandfunk 2026<br><br>+++++<br><br>Wenn Euch \"Dlf Doku\" gefällt, abonniert uns und empfehlt uns weiter. Feedback gerne an hoererservice@deutschlandfunk.de</a><br><br>Noch mehr spannende Podcasts gibt‘s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-11-03T05:30:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/doku-drops-18-freiheit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/d4/ea/2f/7b/d4ea2f7b-a502-4866-ab62-3a0573cd3b80/bild-doku-drops-18-blau-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/doku_drops_18_freiheit_drk_20261107_1830_fe28b7ee.mp3?refId=das-feature-104",
-    "duration": "27 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
       "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
       "deutschlandfunk"
     ],
     "category": [
-      "Gesellschaft",
       "Kultur",
-      "Feature"
+      "Gesellschaft"
     ],
     "language": "de"
   },
   {
-    "id": "zeitzeichen:1c728ffc1d3f9671a5cab728276d566d",
+    "id": "zeitzeichen:ce83c3b32758af20d2b06cc3acb65d7a",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Deutschlands rebellischster Autor: Thomas Brasch",
-    "summary": "<p>Sohn überzeugter Kommunisten, jüdisch, unbequem in Ost und West: Thomas Brasch sprengt Erwartungen - und erzählt wie kaum ein anderer vom Leben im Konflikt.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Thomas Klug:</strong><br><ul><li>wie Thomas Braschs Konflikt mit seinem Vater, einem hohen DDR-Kulturfunktionär, sein Werk prägt,</li><li>was der Liedermacher Wolf Biermann mit seiner Ausreise in die Bundesrepublik zu tun hat,</li><li>warum Brasch selbst bei der Verleihung des Bayerischen Filmpreises einen Eklat riskiert,</li><li>welche Schätze sein literarischer Nachlass bis heute bereithält,</li><li>warum Brasch als einer der eigenwilligsten deutschsprachigen Autoren seiner Generation gilt.</li></ul><br>Thomas Brasch wächst als Sohn überzeugter Kommunisten in der DDR auf. Früh gerät er mit Staat und Partei aneinander, wird nach Protesten gegen den Einmarsch der Warschauer-Pakt-Staaten in Prag verhaftet. Seine Texte handeln von Freiheit, Gewalt, Verrat, deutscher Geschichte und dem schwierigen Verhältnis zwischen Vätern und Söhnen.<br><br>Auch im Westen bleibt Brasch ein Außenseiter. Er veröffentlicht Bücher, dreht Filme und wird ausgezeichnet, verweigert sich aber jeder politischen Vereinnahmung. Sein Leben bewegt sich zwischen Erfolg, Zweifeln und Selbstzerstörung. Bis zu seinem Tod mit nur 56 Jahren bleibt das \"Aber\" sein treuester Begleiter.<br><br><strong>Das sind unsere wichtigsten Interviewpartnerinnen:</strong><br><ul><li>Dr. Kristin Schulz (Thomas-Brasch-Herausgeberin und Autorin)</li><li>Maren Horn (wissenschaftliche Mitarbeiterin im Literaturarchiv der Akademie der Künste)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>BR24 Kultur: <a href=\"https://www.br.de/nachrichten/kultur/kraftvoll-du-musst-gegen-den-wind-laufen-von-thomas-brasch,UZembEG\" rel=\"noopener\" target=\"_blank\">\"Du mußt gegen den Wind laufen\" von Thomas Brasch</a></li><li>ZDF: <a href=\"https://www.zdf.de/video/interviews/masterclass-100/masterclass-andreaskleinert-100\" rel=\"noopener\" target=\"_blank\">Regisseur Andreas Kleinert über seinen Film \"Lieber Thomas\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Thomas Klug<br>Redaktion: David Rother<br>Technik: Annette Skrzydlo",
-    "date": "2026-11-03T05:00:23.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-deutschlands-rebellischster-autor-thomas-brasch-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/georg-simmel-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/15/d80b304f-e238-4abe-826b-56a8a8299cc6/d80b304f-e238-4abe-826b-56a8a8299cc6_MP3-128.mp3",
+    "title": "Die SA: Wie eine Wirtshausprügelei zum Nazi-Mythos wird",
+    "summary": "<p>Am 4.11.1921 eskaliert im Münchner Hofbräuhaus eine Prügelei. Die Nazis machen sie zum Gründungsmythos der SA. Wie aus wenigen Schlägern eine mächtige Terrororganisation wird.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Marko Rösseler:</strong><br><ul><li>warum die Parteien nach dem Ersten Weltkrieg sogenannte Saalschutztruppen zusammenstellen,</li><li>warum die SA in ihren Anfängen um jeden Preis auffallen und Schlagzeilen produzieren soll,</li><li>wie junge NSDAP-Mitglieder auf einem Sonntagsausflug in Bad Tölz eine Schlägerei provozieren,</li><li>wie die SA in der Nacht zum 1. Juli 1934 entmachtet wird und dennoch weiterbesteht.</li></ul><br>Nach dem Ersten Weltkrieg bekriegen sich in Deutschland rechte und linke Gruppen. Eine Revolution von Arbeiter- und Soldatenräten scheitert, rechte Freikorps und Reichswehrtruppen verüben Morde, Parteien werden gegründet. <br><br>So auch die Deutsche Arbeiterpartei (DAP), die im Februar 1920 in NSDAP umbenannt wird. Der noch unbekannte Adolf Hitler tritt ihr bei und glänzt schon bald als Redner.<br><br>Am 4. November 1921 hält Hitler wieder einmal eine seiner Reden im Münchner Hofbräuhaus. Die NSDAP verfügt bereits über eine Truppe, deren Name eher an Körperertüchtigung denken lässt: Sie nennt sich \"Turn- und Sportvereinigung\".<br><br>Mitglieder der Vereinigung sind als Saalordner im Einsatz. Es kommt zu Zusammenstößen mit Gegendemonstranten. Nach der Versammlungsschlacht im Münchner Hofbräuhaus erhält die Ordnertruppe zur dauernden Erinnerung den Namen \"Sturmabteilung\". <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Daniel Siemens, Newcastle University, Großbritannien</li><li>Daniel Siemens: Stormtroopers. A New History of Hitler's Brownshirts. New Haven/London 2017. Deutsche Übersetzung: Sturmabteilung. Die Geschichte der SA. München 2019</li><li>Peter Longerich: Die braunen Bataillone. Geschichte der SA. München 1989</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/nationalsozialismus/index.html\" rel=\"noopener\" target=\"_blank\">Nationalsozialismus</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-muenchner-hofbraeuhaus-104.html\" rel=\"noopener\" target=\"_blank\">27.09.1589: Der Bau des Münchner Hofbräuhauses beginnt</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Marko Rösseler<br>Redaktion: Gesa Rünker, Matti Hesse",
+    "date": "2026-11-04T05:00:19.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-sa-wie-eine-wirtshauspruegelei-zum-nazi-mythos-wird-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-saalschlacht-hofbraeuhaus-sa-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/26/c438ae4a-5e1c-4cd2-ba65-cd08e0f26146/c438ae4a-5e1c-4cd2-ba65-cd08e0f26146_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
@@ -73,17 +48,43 @@
     "language": "de"
   },
   {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4090985",
+    "id": "zeit-augen-zu:24f28d85-5951-46da-96e2-3578e3a92680",
+    "source": "zeit-augen-zu",
+    "sourceTitle": "Augen zu – DIE ZEIT",
+    "type": "rss",
+    "title": "Lovis Corinth: Körper malen, bis sie leben",
+    "summary": "<p>Um ihn herum entstanden alle Strömungen der modernen Kunst – der Impressionismus in Frankreich, dann der Symbolismus in Deutschland, der Expressionismus, der Kubismus, die Abstraktion –, Lovis Corinth aber blieb sich treu, seinem farbstarken Realismus, den schon die Zeitgenossen nicht einordnen konnten und der ihn zu einem großen Solitär der deutschen Kunst am Anfang des 20. Jahrhunderts macht. Am bedeutendsten sind seine Menschendarstellungen – zum einen ab 1901 die Gemälde seiner Frau Charlotte, selbst eine große Malerin, die er wieder und wieder zeigt, meist nackt oder halb bekleidet. Und daneben Corinth selbst – als zweifelnder Maler oder als betrunkener Bacchus. In der neuesten Ausgabe des Podcasts »Augen zu« widmen sich <a href=\"https://www.zeit.de/autoren/I/Florian_Illies/index.xml\" rel=\"noopener\" target=\"_blank\">Florian Illies</a> und <a href=\"https://www.zeit.de/autoren/L/Giovanni_di_Lorenzo/index.xml\" rel=\"noopener\" target=\"_blank\">Giovanni di Lorenzo</a> dieser besonderen Ehe, die zu sehr viel besonderer Kunst führte.</p><p>Sie sprechen über die Vorwürfe gegen Corinth, seine Malerei sei zu fleischlich, über seine Vorbilder Rubens und Jordaens und seine Ausbildung in Paris und München. Zwei besondere Bilder stehen dann im Mittelpunkt des Gesprächs: »Salome« und das »Große Martyrium«, zwei biblische Darstellungen, die die scheinbar ferne Geschichte mit größter Drastik in die Gegenwart holen. Nach einem Schlaganfall 1911 verändert sich Corinths Stil. Ab 1918 widmet er sich mit besonderer Beharrlichkeit der wilden Natur am bayerischen Walchensee, die er in zahlreichen Aquarellen und Gemälden in einen farbigen Fiebertraum verwandelt.</p><p>In der Berlinischen Galerie ermöglicht gerade eine große Überblicksausstellung, Lovis Corinth als die große deutsche Malerfigur an der Schwelle vom 19. zum 20. Jahrhundert kennenzulernen.</p><p>Lob, Kritik, Anmerkungen? Schreiben Sie uns gern an <strong> augenzu@zeit.de </strong></a>.</p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen</a>. Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT</strong>. <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Angebot</a>. </p>",
+    "date": "2026-11-04T04:55:00.000Z",
+    "url": "https://www.zeit.de/serie/augen-zu",
+    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/8cca0166-1068-4682-8268-789474867bfa/3000x3000/augen-zu.jpg?aid=rss_feed",
+    "audio": "https://zeitonline.simplecastaudio.com/75dec84d-31b9-4521-816d-0bf379b39af5/episodes/62ee63cd-6100-4fb0-b5c8-509ed8784b8d/audio/128/default.mp3?aid=rss_feed&awCollectionId=75dec84d-31b9-4521-816d-0bf379b39af5&awEpisodeId=62ee63cd-6100-4fb0-b5c8-509ed8784b8d&feed=b1Qn2k9W",
+    "duration": "38 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "kultur",
+      "zeit",
+      "bildung"
+    ],
+    "category": [
+      "Kunst",
+      "Kultur",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4090832",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Wie wird die Landwirtschaft klimaresilienter?",
-    "summary": "Weniger Ernte durch extreme Hitze\n<p>Der Sommer 2026 war laut dem Deutschen Wetterdienst der zweitwärmste, der in Deutschland jemals offiziell gemessen wurde. Mit verheerenden Folgen: Die hohen Temperaturen haben nicht nur für 16.000 Hitzetote gesorgt, sondern auch für eine schlechtere Ernte. Die anhaltende Trockenheit und Hitze hat zu teils für erhebliche Einbußen bei Getreide, Kartoffeln und Gemüse geführt, so die vorläufige Bilanz des Deutschen Bauernverbands. Auch Bundeslandwirtschaftsminister Alois Rainer (CSU) spricht mit Blick auf die diesjährige Ernte von einer „herben Enttäuschung“ für viele Landwirte und von einer „Krise von nationaler Tragweite“ in der Landwirtschaft.</p>\nLandwirtschaft muss sich anpassen\n<p>Die extreme Hitze und Dürre, die wir in den vergangenen Monaten erlebt haben, ist eine Folge des Klimawandels. Trockene und heiße Sommer wie in diesem Jahr werden aufgrund der Erderwärmung in Zukunft immer wahrscheinlicher und stellen Bäuerinnen und Bauern in Deutschland vor große Herausforderungen. Neben effektivem Klimaschutz braucht es deshalb Maßnahmen zur Klimaanpassung in der Landwirtschaft, sagt die Agrarexpertin Dr. Mareike Söder. Die Liste möglicher Maßnahmen ist lang: Unter anderem können robuste Sorten, vielfältige Fruchtfolgen und humusreiche Böden helfen, die Situation zu verbessern. Manches davon probieren Landwirte schon heute in der Praxis aus: In Baden-Württemberg etwa experimentieren landwirtschaftliche Betriebe damit, Südfrüchte wie Wassermelonen oder Kiwis auf deutschen Äckern anzubauen.</p>\n<p>An welchen Stellschrauben können Landwirtinnen und Landwirte drehen, um ihren Betrieb besser auf die Folgen des Klimawandels einzustellen? Unter anderem darüber hat <em>detektor.fm</em>-Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“ mit <strong>Dr. Mareike Söder</strong> gesprochen. Sie arbeitet am bundeseigenen Thünen-Institut und forscht zu Klimaanpassung in der Landwirtschaft.</p>",
-    "date": "2026-11-03T04:30:08.000Z",
-    "url": "https://feedpress.me/link/19604/17514280/mission-energiewende-schlechtere-ernte",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/melandwirtschaftundklima.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/melandwirtschaftundklima.63.mp3",
-    "duration": "29 Min",
+    "title": "John Nash und das Phantom von Fine Hall",
+    "summary": "John Nash gelingt der Durchbruch\n<p>John Forbes Nash Jr. war schon als Kind von der Mathematik fasziniert. 1928 in West Virginia geboren studierte er später am Carnegie Institute of Technology in Pittsburgh und an der Princeton University. Seinen akademischen Durchbruch hat er schon früh, mit nur 21 Jahren gelingt ihm mit seiner 27-seitigen Dissertation der ganz große Wurf — das nach ihm benannte Nash-Gleichgewicht prägt die noch neue Spieltheorie bis heute.</p>\n<p>Bei der Spieltheorie geht es darum, wie Menschen oder Unternehmen Entscheidungen treffen, wenn die Ergebnisse ihrer Entscheidungen auch von den Entscheidungen anderer abhängen. Dabei unterscheidet man zwischen der kooperativen und der nicht-kooperativen Spieltheorie. Während sich die kooperative Spieltheorie mit der Zusammenarbeit und möglichen Vereinbarungen zwischen den Beteiligten beschäftigt, untersucht die nicht-kooperative Spieltheorie, wie einzelne Akteure ihre Entscheidungen treffen, um ihre eigenen Ziele bestmöglich zu erreichen.</p>\n<p>Ein Beispiel: Zwei Eisdielen möchten möglichst viele Kunden gewinnen und ihren Gewinn maximieren. Wie reagiert die Inhaberin einer Eisdiele, wenn die Konkurrenz den Preis pro Eiskugel senkt? Senkt sie ebenfalls ihre Preise, um konkurrenzfähig zu bleiben, oder behält sie ihre Preise bei? Ihre Entscheidung hängt dabei nicht nur von ihren eigenen Zielen, sondern auch davon ab, wie sie das Verhalten der Konkurrenz einschätzt.</p>\nSpäte Anerkennung: Nash bekommt den Nobelpreis\n<p>Das Beispiel zeigt, wie relevant die Spieltheorie für die Wirtschaft tatsächlich ist. Damals, als Nash seine Dissertation darüber schreibt, hat die Spieltheorie in der Wirtschaft jedoch kaum Bedeutung. Sie ist erst einige Jahre alt und entstammt der Mathematik, nicht der Ökonomie. Dass sie aber auch von Ökonomen als wichtiger Mechanismus wahrgenommen wird, ist unter anderem Nash zu verdanken. In den 1990ern wird er für seine Leistungen mit dem Nobelpreis ausgezeichnet, später mit dem begehrten Abelpreis.</p>\n<p>Nash selbst verschwindet nur wenige Jahre nach seinem wissenschaftlichen Durchbruch von der Bildfläche und erkrankt schwer an Schizophrenie. Knapp zwei Jahrzehnte fallen der Krankheit zum Opfer, Nash fühlt sich verfolgt, hat Wahnvorstellungen, verlässt die USA, seine Ehe wird geschieden. Er durchläuft die unterschiedlichsten Therapien, die meisten ohne nennbaren Erfolg.</p>\n<p>Wie es John Nash gelingt, wieder zurück zur Mathematik, nach Princeton und zu seiner Frau zu finden, bespricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit <strong>Demian Nahuel Goos</strong> und <strong>Manon Bischoff</strong> von Spektrum der Wissenschaft.</p>",
+    "date": "2026-11-04T04:00:43.000Z",
+    "url": "https://feedpress.me/link/19604/17515042/geschichten-aus-der-mathematik-john-nash",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261103gadmep62john-nash.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261103gadmep62john-nash.63.mp3",
+    "duration": "43 Min",
     "tags": [
       "wissenschaft",
       "forschung",
@@ -97,17 +98,43 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-3639984527783545",
+    "id": "10-minuten-wissen-kunst:6aea55bcdc2860cef4c8c769",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
+    "type": "rss",
+    "title": "Niki de Saint Phalle – Hon und die Nanas: Wie sich der weibliche Körper davon befreite, gefallen zu müssen",
+    "summary": "<p>Wie eine begehbare Riesenskulptur und bunte Nanas ein freies Bild der Frau voller Lebensfreude schufen.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>Stockholm, Sommer 1966: In der größten Halle des Moderna Museet liegt eine Frauenfigur auf dem Rücken, über zwanzig Meter lang, bunt bemalt – und hunderttausend Menschen stehen Schlange, um durch die Öffnung zwischen ihren Beinen hineinzugehen. Drinnen warten eine Milchbar, ein Kino und eine Rutsche. Wie aus einer jungen Frau, die mit dem Gewehr auf ihre eigenen Bilder schoss, die Schöpferin der Nanas wurde – jener bunten, fröhlichen Frauenfiguren, die heute in aller Welt stehen –, warum eine ganze Stadt um drei Nanas stritt und ein Tauziehen den Streit entschied, und weshalb Niki de Saint Phalle jahrelang in einer ihrer eigenen Skulpturen wohnte, enthüllt der Blick hinter dieses Werk.</p><br><p><strong>Weiterführende Links</strong></p><ul><li>Hon von innen und außen, mit Fotos von 1966: <a href=\"https://www.modernamuseet.se/en/stockholm/exhibitions/remembering-she-a-cathedral/\" rel=\"noopener\" target=\"_blank\">Moderna Museet – Remembering She – A Cathedral (EN)</a> </li><li>Erfahre mehr über die Künstlerin : <a href=\"https://de.wikipedia.org/wiki/Niki_de_Saint_Phalle\" rel=\"noopener\" target=\"_blank\">Wikipedia – Niki de Saint Phalle</a> </li><li>Die Nanas, von Paris über Stockholm bis Hannover: <a href=\"https://de.wikipedia.org/wiki/Nana_(Plastik)\" rel=\"noopener\" target=\"_blank\">Wikipedia – Nana (Plastik)</a> </li><li>Wie Hon in vierzig Tagen gebaut wurde: <a href=\"https://nikidesaintphalle.org/?p=2083\" rel=\"noopener\" target=\"_blank\">Niki Charitable Art Foundation – 50 years since HON (EN)</a> </li><li>Die drei Nanas in Hannover: <a href=\"https://www.hannover.de/Kultur-Freizeit/Geschichte-Geschichten/Echt-hann%C3%B6versch/Zehn-Dinge/Hannover-Zehn-Pl%C3%A4tze-zum-Verweilen-in-der-City/Am-Leibnizufer-bei-den-Nanas\" rel=\"noopener\" target=\"_blank\">hannover.de – Am Leibnizufer bei den Nanas</a> </li><li>Die Ausstellung in Düsseldorf, bis 7. Februar 2027: <a href=\"https://www.kunstpalast.de/en/event/niki-de-saint-phalle-dreammachine\" rel=\"noopener\" target=\"_blank\">Kunstpalast – Niki de Saint Phalle. Dream Machine (EN)</a> </li></ul><p><br></p><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-11-03T22:55:00.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/niki-de-saint-phalle",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6aea55bcdc2860cef4c8c769/media.mp3",
+    "duration": "25 Min",
+    "tags": [
+      "kunst",
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
+    ],
+    "category": [
+      "Kunst",
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-3756728083202756",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
     "type": "rss",
-    "title": "Im Talk über das Leben seiner Schwester Diana: Autor Charles Spencer",
-    "summary": "Mit der Veröffentlichung seines Buches \"Swan Song: Diana, meine Schwester\", blickt Charles Spencer in die eigene Familiengeschichte zurück. Das Werk zeichnet ein intimes, unbeschönigtes Porträt seiner Schwester und spart die steife Welt der Royals nicht aus. Besonders die darin erhobenen Vorwürfe gegen König Charles III. bezüglich der Tage nach Dianas Tod haben eine heftige Debatte mit dem Buckingham-Palast entfacht. Charles Spencer spricht auf dem Roten Sofa über seine Schwester, ihr Verhältnis zum Königshaus und zur britischen Yellow Press.",
-    "date": "2026-11-02T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/im-talk-ueber-leben-seiner-schwester-diana-autor-charles-spencer,audio-3572854.html",
-    "image": "https://images.ndr.de/image/2d4255a2-051e-4b97-9981-62637e01db79/AAABoZ1u5YE/AAABnSStX0g/1x1-big/screenshot-254316.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1102/AU-20261102-2221-4900.mp3",
-    "duration": "34 Min",
+    "title": "Eine der unermüdlichsten Vorkämpferinnen für Toleranz und Vielfalt: Olivia Jones",
+    "summary": "Eine halbe Ewigkeit wurde auf der Reeperbahn schon gearbeitet, gesoffen und geliebt, als Olivia Jones diese so verrufene wie weltberühmte Meile unweit der Hamburger Hafenkante betrat und zu ihrem ureigensten Biotop erkor. Hochleben lassen wollen wir auf dem Roten Sofa die Reeperbahn zum 400. Geburtstag und Olivia Jones als eine der unermüdlichsten Vorkämpferinnen für Toleranz, Vielfalt und die Rechte der LGBTQ+-Gemeinschaft.",
+    "date": "2026-11-03T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/eine-der-unermuedlichsten-vorkaempferinnen-fuer-toleranz-und-vielfalt-olivia-jones,audio-3575000.html",
+    "image": "https://images.ndr.de/image/23527d79-3456-42c2-b4fa-1939ea296dd7/AAABoaKuRbM/AAABnSStX0g/1x1-big/screenshot-254990.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1103/AU-20261103-1942-1700.mp3",
+    "duration": "38 Min",
     "tags": [
       "beatles",
       "popgeschichte",
@@ -122,42 +149,16 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:a2e2c214-28c6-5aa0-8257-2845c73220c9",
+    "id": "dlf-kultur-heute:49fb8324-a038-5506-bce9-2247a33ddc32",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Kulturmeldungen 02.11.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-02T16:56:34.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-11-102.html",
+    "title": "Kulturmeldungen 03.11.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-11-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kulturmeldungen_02112026_dlf_20261102_1756_9157e57a.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5efa7c49-00b9-525d-98f0-bb348577df2f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kein Geld für Renovierung? Warum das Rastatter Revolutionsmuseum geschlossen ist",
-    "summary": "Fehrle, Moritz www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-02T16:52:15.000Z",
-    "url": "https://www.deutschlandfunk.de/kein-geld-fuer-renovierung-warum-das-rastatter-revolutionsmuseum-geschlossen-ist-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kein_geld_fuer_renovierung_warum_das_rastatter_dlf_20261102_1752_7056e334.mp3?refId=kultur-heute-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/kulturmeldungen_03112026_dlf_20261103_1756_9f76761b.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
     "tags": [
       "kultur",
@@ -174,16 +175,42 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:abf1985f-0e0f-5785-8353-6200142d48ab",
+    "id": "dlf-kultur-heute:4711cf65-d379-57af-b207-4d2a9f96c17f",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Gegen verbannte Bücher: Eine kalifornische Bibliothekarin geht in die Politik",
-    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-02T16:47:18.000Z",
-    "url": "https://www.deutschlandfunk.de/gegen-verbannte-buecher-eine-kalifornische-bibliothekarin-geht-in-die-politik-102.html",
+    "title": "Quo vadis Kennedy Center? Trumps Kulturpolitik und die Musikszene",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/quo-vadis-kennedy-center-trumps-kulturpolitik-und-die-musikszene-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/gegen_verbannte_buecher_eine_kalifornische_bibliothekarin_dlf_20261102_1747_1a5590df.mp3?refId=kultur-heute-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/quo_vadis_kennedy_center_trumps_kulturpolitik_und_die_dlf_20261103_1751_c173d3b9.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a0687dc1-aa68-533a-902c-84c5d05b0c21",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Philosophin Judith Simon über KI und digitale Souveränität",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/philosophin-judith-simon-ueber-ki-und-digitale-souveraenitaet-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/philosophin_judith_simon_ueber_ki_und_digitale_dlf_20261103_1746_0471837d.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
@@ -200,16 +227,16 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:a09b3da5-01e7-5776-8c62-8a9ca476d9c0",
+    "id": "dlf-kultur-heute:c61c71f1-891a-5a2d-8154-bdbb17085f76",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Mehr Sichtbarkeit: die Arabisch-stämmige Kulturszene in Israel nach der Wahl",
-    "summary": "Kitzler, Jan Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-02T16:42:13.000Z",
-    "url": "https://www.deutschlandfunk.de/mehr-sichtbarkeit-die-arabisch-staemmige-kulturszene-in-israel-nach-der-wahl-100.html",
+    "title": "\"Mater\" - Der spanische Künstler Gonzalo Borondo in der Villa Stuck in München",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/mater-der-spanische-kuenstler-gonzalo-borondo-in-der-villa-stuck-in-muenchen-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/mehr_sichtbarkeit_die_arabisch_staemmige_kulturszene_in_dlf_20261102_1742_7b548299.mp3?refId=kultur-heute-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/mater_der_spanische_kuenstler_gonzalo_borondo_in_der_villa_dlf_20261103_1741_b66fe203.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
@@ -217,31 +244,6 @@
       "kunst",
       "film",
       "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:08afb508-76b6-5dee-8e56-2a7cb1a2d562",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fatih Akins \"Geister\" als Graphic Novel: Vom Drehbuch zum Comic",
-    "summary": "Davies, Bea; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-11-02T14:20:55.000Z",
-    "url": "https://www.deutschlandfunk.de/fatih-akins-geister-als-graphic-novel-vom-drehbuch-zum-comic-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/fatih_akins_geister_als_graphic_novel_vom_drehbuch_zum_comic_dlf_20261102_1520_a9d3cf93.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
       "deutschlandfunk"
     ],
     "category": [

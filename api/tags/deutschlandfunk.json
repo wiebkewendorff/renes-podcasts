@@ -1,5 +1,235 @@
 [
   {
+    "id": "dlf-corso:3d2c8097-976c-56ac-9d8f-5f526d262440",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Tod von Janosch: Der Vater der Tigerente",
+    "summary": "Der kleine Tiger, der kleine Bär und die Tigerente: Horst Eckert alias Janosch hat die bekanntesten Kinderbuchfiguren Deutschlands geschaffen. Jetzt ist er im Alter von 95 Jahren auf Teneriffa gestorben. Von Sören Brinkmann",
+    "date": "2026-11-04T11:08:00.000Z",
+    "url": "https://www.deutschlandfunkkultur.de/janosch-autor-tigerente-gestorben-nachruf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/c6/fd/3a/d4/c6fd3ad4-094d-4d37-901b-46c8f70929c6/janosch-tod-in-farbe-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/diese_scheiss_tigerente_zum_tod_von_janosch_dlf_20261104_1506_4f159dcf.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:49fb8324-a038-5506-bce9-2247a33ddc32",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 03.11.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/kulturmeldungen_03112026_dlf_20261103_1756_9f76761b.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4711cf65-d379-57af-b207-4d2a9f96c17f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Quo vadis Kennedy Center? Trumps Kulturpolitik und die Musikszene",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/quo-vadis-kennedy-center-trumps-kulturpolitik-und-die-musikszene-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/quo_vadis_kennedy_center_trumps_kulturpolitik_und_die_dlf_20261103_1751_c173d3b9.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a0687dc1-aa68-533a-902c-84c5d05b0c21",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Philosophin Judith Simon über KI und digitale Souveränität",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/philosophin-judith-simon-ueber-ki-und-digitale-souveraenitaet-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/philosophin_judith_simon_ueber_ki_und_digitale_dlf_20261103_1746_0471837d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c61c71f1-891a-5a2d-8154-bdbb17085f76",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mater\" - Der spanische Künstler Gonzalo Borondo in der Villa Stuck in München",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/mater-der-spanische-kuenstler-gonzalo-borondo-in-der-villa-stuck-in-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/mater_der_spanische_kuenstler_gonzalo_borondo_in_der_villa_dlf_20261103_1741_b66fe203.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e0b7a745-724b-5021-97ff-c6966b7e44ed",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der unbekannte Bekannte - Prix Goncourt 2026 an Philippe Jaenada vergeben",
+    "summary": "Ritte, Jürgen www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/der-unbekannte-bekannte-prix-goncourt-2026-an-philippe-jaenada-vergeben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/der_unbekannte_bekannte_prix_goncourt_2026_an_philippe_dlf_20261103_1736_ad6dfe60.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f0e26776-ce08-51e1-87ad-fd0a15cb0185",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Game \"Penguin Colony\" - H.P. Lovecraft auf antifaschistisch",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-03T14:25:24.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-game-penguin-colony-h-p-lovecraft-auf-antifaschistisch-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/neues_game_penguin_colony_hp_lovecraft_auf_antifaschistisch_dlf_20261103_1525_cde6c3f9.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:81f72102-d8eb-577b-a541-99b4be325507",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bildgewaltiges Epos per Handarbeit - der Stop-Motion-Film \"Wildwood\"",
+    "summary": "Wollner, Anna www.deutschlandfunk.de, Corso",
+    "date": "2026-11-03T14:15:43.000Z",
+    "url": "https://www.deutschlandfunk.de/bildgewaltiges-epos-per-handarbeit-der-stop-motion-film-wildwood-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/bildgewaltiges_epos_per_handarbeit_der_stop_motion_film_dlf_20261103_1515_b4e54cca.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:41047e7d-d41d-5489-84db-02c5527176ca",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "US-Wahl: Wie die Demokraten Influencer umgarnen",
+    "summary": "Wiedlack, Katharina; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-11-03T14:09:22.000Z",
+    "url": "https://www.deutschlandfunk.de/us-wahl-wie-die-demokraten-influencer-umgarnen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/us_wahl_wie_die_demokraten_influencer_umgarnen_dlf_20261103_1509_a6f2ef98.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:50f7e1e8-ed86-590d-a32c-c20e2e0ef61e",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -190,7 +420,7 @@
     "url": "https://www.deutschlandfunk.de/zum-tod-des-techno-pioniers-juan-atkins-der-tresor-gruender-dimitri-hegemann-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/zum_tod_des_techno_pioniers_juan_atkins_der_tresor_gruender_dlf_20261102_1506_d9ca707e.mp3?refId=corso-104",
-    "duration": "5 Min",
+    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
@@ -216,136 +446,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/kulturmeldungen_01112026_dlf_20261101_1756_92392882.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ad86df86-afc6-5c76-b04d-c8b43a3fc605",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lieferantin von Schmuckstücken - zum Tod der Filmproduzentin Regina Ziegler",
-    "summary": "Claus, Peter www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:51:45.000Z",
-    "url": "https://www.deutschlandfunk.de/lieferantin-von-schmuckstuecken-zum-tod-der-filmproduzentin-regina-ziegler-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/lieferantin_von_schmuckstuecken_zum_tod_der_filmproduzentin_dlf_20261101_1751_5537bf35.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0b0f0cdc-e76b-5ba0-917e-cb4b09f303e9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Partitur des Körpers\" - Ein Tanzabend in Hellerau",
-    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:46:44.000Z",
-    "url": "https://www.deutschlandfunk.de/partitur-des-koerpers-ein-tanzabend-in-hellerau-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/partitur_des_koerpers_ein_tanzabend_in_hellerau_dlf_20261101_1746_ef3668f2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4059bbc8-61ca-5fe3-be9d-d88577b4b801",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Das große Drama\" - Auguste Rodin und der Streit um die Moderne in Dresden",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:41:32.000Z",
-    "url": "https://www.deutschlandfunk.de/das-grosse-drama-auguste-rodin-und-der-streit-um-die-moderne-in-dresden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/das_grosse_drama_auguste_rodin_und_der_streit_um_die_moderne_dlf_20261101_1741_8c34fdc7.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8f6ab9a5-e516-50cf-bfa2-6c20a34281ae",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Erziehung und Verständigung - Claudia Bauer insz. Handkes \"Kaspar\" in Köln",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:36:17.000Z",
-    "url": "https://www.deutschlandfunk.de/erziehung-und-verstaendigung-claudia-bauer-insz-handkes-kaspar-in-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/erziehung_und_verstaendigung_claudia_bauer_insz_handkes_dlf_20261101_1736_7b31f339.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:57d77f35-6a6a-5aba-9aa4-968d43246e7c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Eine PEN Berlin-Veranstaltung reflektiert über das gemeinsame Reden",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/eine-pen-berlin-veranstaltung-reflektiert-ueber-das-gemeinsame-reden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/eine_pen_berlin_veranstaltung_reflektiert_ueber_das_dlf_20261101_1730_79309d0c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",
@@ -422,106 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/von_der_sehnsucht_nach_einem_sicheren_zuhause_das_neue_album_dlf_20261031_1510_887ae054.mp3?refId=corso-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:61afa746-e57f-533b-ad81-53e15e307f06",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rekonstruktion eines Anschlags - Die ARD-Serie Breitscheidplatz 19/12",
-    "summary": "Julian Ignatowitsch www.deutschlandfunk.de, Corso",
-    "date": "2026-10-30T14:24:00.000Z",
-    "url": "https://www.deutschlandfunk.de/rekonstruktion-eines-anschlags-die-ard-serie-breitscheidplatz-19-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/rekonstruktion_eines_anschlags_die_ard_serie_dlf_20261030_1524_814f6a64.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ab64881a-7ce8-50b9-9498-2323c41cbe1b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Anarchisch, verspielt und zugänglich\"? Neue Satire-Show mit Florian Schroeder",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-10-30T14:08:00.000Z",
-    "url": "https://www.deutschlandfunk.de/anarchisch-verspielt-und-zugaenglich-neue-satire-show-mit-florian-schroeder-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/anarchisch_verspielt_und_zugaenglich_neue_satire_show_mit_dlf_20261030_1508_d34e3929.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0036a033-a4ba-5fe9-ac9c-c0180c8f5a17",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Benjamin Stöwe zum Tod der \"Star Trek\"- und \"X-Men\"-Legende Patrick Stewart",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-30T14:06:23.000Z",
-    "url": "https://www.deutschlandfunk.de/benjamin-stoewe-zum-tod-der-star-trek-und-x-men-legende-patrick-stewart-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/benjamin_stoewe_zum_tod_der_star_trek_und_x_men_legende_dlf_20261030_1506_50f0c7cd.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0cdbc02b-63e9-546c-8072-8d2a4cfca5b6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gebäuderetterin Barbara Buser - Was die Schweizer Architektin zum Vorbild macht",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-29T14:25:15.000Z",
-    "url": "https://www.deutschlandfunk.de/gebaeuderetterin-barbara-buser-was-die-schweizer-architektin-zum-vorbild-macht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/gebaeuderetterin_barbara_buser_was_die_schweizer_architektin_dlf_20261029_1525_5da92e31.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",

@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:49fb8324-a038-5506-bce9-2247a33ddc32",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 03.11.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/kulturmeldungen_03112026_dlf_20261103_1756_9f76761b.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4711cf65-d379-57af-b207-4d2a9f96c17f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Quo vadis Kennedy Center? Trumps Kulturpolitik und die Musikszene",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/quo-vadis-kennedy-center-trumps-kulturpolitik-und-die-musikszene-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/quo_vadis_kennedy_center_trumps_kulturpolitik_und_die_dlf_20261103_1751_c173d3b9.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a0687dc1-aa68-533a-902c-84c5d05b0c21",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Philosophin Judith Simon über KI und digitale Souveränität",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/philosophin-judith-simon-ueber-ki-und-digitale-souveraenitaet-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/philosophin_judith_simon_ueber_ki_und_digitale_dlf_20261103_1746_0471837d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c61c71f1-891a-5a2d-8154-bdbb17085f76",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mater\" - Der spanische Künstler Gonzalo Borondo in der Villa Stuck in München",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/mater-der-spanische-kuenstler-gonzalo-borondo-in-der-villa-stuck-in-muenchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/mater_der_spanische_kuenstler_gonzalo_borondo_in_der_villa_dlf_20261103_1741_b66fe203.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e0b7a745-724b-5021-97ff-c6966b7e44ed",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der unbekannte Bekannte - Prix Goncourt 2026 an Philippe Jaenada vergeben",
+    "summary": "Ritte, Jürgen www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-03T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/der-unbekannte-bekannte-prix-goncourt-2026-an-philippe-jaenada-vergeben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/der_unbekannte_bekannte_prix_goncourt_2026_an_philippe_dlf_20261103_1736_ad6dfe60.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:a2e2c214-28c6-5aa0-8257-2845c73220c9",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/kulturmeldungen_01112026_dlf_20261101_1756_92392882.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ad86df86-afc6-5c76-b04d-c8b43a3fc605",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lieferantin von Schmuckstücken - zum Tod der Filmproduzentin Regina Ziegler",
-    "summary": "Claus, Peter www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:51:45.000Z",
-    "url": "https://www.deutschlandfunk.de/lieferantin-von-schmuckstuecken-zum-tod-der-filmproduzentin-regina-ziegler-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/lieferantin_von_schmuckstuecken_zum_tod_der_filmproduzentin_dlf_20261101_1751_5537bf35.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0b0f0cdc-e76b-5ba0-917e-cb4b09f303e9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Partitur des Körpers\" - Ein Tanzabend in Hellerau",
-    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:46:44.000Z",
-    "url": "https://www.deutschlandfunk.de/partitur-des-koerpers-ein-tanzabend-in-hellerau-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/partitur_des_koerpers_ein_tanzabend_in_hellerau_dlf_20261101_1746_ef3668f2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4059bbc8-61ca-5fe3-be9d-d88577b4b801",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Das große Drama\" - Auguste Rodin und der Streit um die Moderne in Dresden",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:41:32.000Z",
-    "url": "https://www.deutschlandfunk.de/das-grosse-drama-auguste-rodin-und-der-streit-um-die-moderne-in-dresden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/das_grosse_drama_auguste_rodin_und_der_streit_um_die_moderne_dlf_20261101_1741_8c34fdc7.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8f6ab9a5-e516-50cf-bfa2-6c20a34281ae",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Erziehung und Verständigung - Claudia Bauer insz. Handkes \"Kaspar\" in Köln",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:36:17.000Z",
-    "url": "https://www.deutschlandfunk.de/erziehung-und-verstaendigung-claudia-bauer-insz-handkes-kaspar-in-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/erziehung_und_verstaendigung_claudia_bauer_insz_handkes_dlf_20261101_1736_7b31f339.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:57d77f35-6a6a-5aba-9aa4-968d43246e7c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Eine PEN Berlin-Veranstaltung reflektiert über das gemeinsame Reden",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/eine-pen-berlin-veranstaltung-reflektiert-ueber-das-gemeinsame-reden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/eine_pen_berlin_veranstaltung_reflektiert_ueber_das_dlf_20261101_1730_79309d0c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",
