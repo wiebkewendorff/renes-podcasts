@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-2860619750841791",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Ihr Berichtsgebiet sind die Türkei, Iran und Zypern: Korrespondentin Katharina Willinger",
+    "summary": "Den Zuschauerinnen und Zuschauern ein facettenreiches Bild aus der Region liefern, dies hat sich die Auslandskorrespondentin Katharina Willinger zur Aufgabe gemacht. Ihr Berichtsgebiet sind die Türkei, Iran und Zypern, drei sehr unterschiedliche Länder – aber voller Geschichten von Menschen und ihren Schicksalen. Diese bringt sie uns aus dem ARD-Studio in Istanbul, das die 39-Jährige auch leitet, nach Hause in die Wohnzimmer. Auf dem Roten Sofa berichtet Katharina Willinger von den Herausforderungen ihres Berufsalltags.",
+    "date": "2026-11-04T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/ihr-berichtsgebiet-sind-die-tuerkei-iran-und-zypern-korrespondentin-katharina-willinger,audio-3577282.html",
+    "image": "https://images.ndr.de/image/6a6f5c7a-a07b-43f6-b010-068158f0cb9e/AAABoafNgw8/AAABnSStX0g/1x1-big/screenshot-255470.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1104/AU-20261104-1959-4600.mp3",
+    "duration": "41 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-3756728083202756",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/76eb1ef7-de0d-4ec6-a8f2-2470429aed59/AAABoYjQwFY/AAABnSStX0g/1x1-big/screenshot-252500.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1030/AU-20261030-0739-1100.mp3",
     "duration": "36 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-286832770992266",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Filmproduzentin, Journalistin und Antisemitismus-Forscherin Alice Brauner",
-    "summary": "Sie stellt ihren neuen Film vor, für den sie das Drehbuch geschrieben hat: \"Block 10\" erzählt von Zwangssterilisationen im KZ Auschwitz.",
-    "date": "2026-10-28T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/filmproduzentin-journalistin-und-antisemitismus-forscherin-alice-brauner,audio-3563714.html",
-    "image": "https://images.ndr.de/image/f57b3976-4862-4465-b71a-fa7b3a9a2626/AAABoYPEYlg/AAABnSStX0g/1x1-big/screenshot-251892.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1028/AU-20261028-1953-0900.mp3",
-    "duration": "30 Min",
     "tags": [
       "beatles",
       "popgeschichte",

@@ -1,11 +1,59 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4097236",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Schwarzloch-Sterne: Das Geheimnis der kleinen, roten Punkte",
+    "summary": "<p>Ende 2021 wurde das James-Webb-Weltraumteleskop ins All geschickt und hatte Anfang 2022 seine Umlaufbahn erreicht. Nur wenige Wochen, nachdem das Teleskop seine ersten wissenschaftlichen Bilder lieferte, fielen Astronominnen und Astronomen kleine rote Punkte auf, sogenannte „little red dots“. Das führte zu verschiedenen Theorien. Könnte es sich zum Beispiel um staubverhüllte, aktive Galaxienkerne handeln? Oder um sehr staubige, sternbildende Galaxien? Oder eine Mischungs aus beidem? Ein im Sommer veröffentlichtes Paper von Forschenden am Massachusetts Institute of Technology (MIT) gibt eine andere Antwort: Es handelt sich um sogenannte Schwarzloch-Sterne — eine ganz neue Objektklasse.</p>\n„Black Hole Stars“ eigentlich keine Sterne\n<p>Ein Schwarzloch-Stern ist demnach ein kosmisches Objekt von der Größe unseres gesamten Sonnensystems. Im Inneren gibt es jedoch keine Kernfusion, wie es laut Definition bei Sternen passiert. Stattdessen befindet sich im Zentrum ein supermassereiches Schwarzes Loch, das von einer Gaswolke umhüllt ist. Dieses Schwarze Loch verschluckt Materie, heizt sie extrem stark auf und gibt dann gewaltige Energiemengen ab. Bis zu 100 Milliarden Mal mehr Strahlung als eine gewöhnliche Sonne. Erst wenn die erzeugte Strahlung die riesigen Gashüllen durchdringt, ergibt das das Erscheinungsbild eines gigantischen Sterns. „Wir sehen sozusagen erst das, was aus diesen Gasschichten rauskommt“, sagt die Astrophysikerin <strong>Dr. Victoria Grinberg</strong> von der Europäischen Weltraumorganisation (ESA) im Podcast.</p>\nSchlüsselelement für kosmologisches Puzzle\n<p>Das Paper beschreibt den Fund als ein vom Gas umgebenes Schwarzes Loch aus der Frühzeit des Kosmos. Der Name „Schwarzloch-Stern“ ist für sich ein kleiner PR-Trick, der im Paper selbst nicht auftaucht, sagt Grinberg. Sie beschreibt die Entdeckung als einen Durchbruch. Sie könnte erklären, wie supermassereiche Schwarze Löcher in Galaxienzentren schon kurz nach dem Urknall so gigantisch werden konnten. Der Fund könnte eine Lücke im Verständnis unseres Universums schließen. „Wenn jedes supermassereiche Schwarze Loch in seiner Kindheit ein Schwarzloch-Stern gewesen ist, dann könnten wir tatsächlich plötzlich erklären, warum die heute so groß sind.“</p>\n<p>Welche weiteren Fragen die Schwarzloch-Sterne jetzt aufwerfen, unter anderem darum geht es in dieser Folge vom „Forschungsquartett“.</p>",
+    "date": "2026-11-05T04:00:48.000Z",
+    "url": "https://feedpress.me/link/19604/17515720/forschungsquartett-schwarzloch-sterne",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261104black-hole-stars.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261104black-hole-stars.63.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4074594",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Was ist Leben, Petra Schwille?",
+    "summary": "Was macht Leben aus?\n<p>Was unterscheidet einen Stein von einem Baum, und wann wird aus Chemie eigentlich Leben? Zwar können wir Lebewesen erkennen, wenn wir ihnen begegnen. Aber genau zu sagen, was sie lebendig macht, ist deutlich schwieriger. Leben bedeutet Stoffwechsel, Wachstum und Fortpflanzung. Aber: Wo beginnt und endet die Grenze zwischen lebendig und nicht lebendig? Schon bei Viren wird es kompliziert: Sie können sich vermehren, sind dafür aber auf andere Zellen angewiesen.</p>\n<p>Mit diesen Fragen beschäftigt sich <strong>Petra Schwille</strong> — Direktorin am Max-Planck-Institut für Biochemie und eine der weltweit führenden Forscherinnen auf dem Gebiet der Synthetischen Biologie. Sie versucht herauszufinden, wie eine minimale Form von Leben aussehen könnte. Im Labor versucht sie, die grundlegenden Bestandteile einer Zelle zusammenzubringen und so eine möglichst einfache künstliche Zelle zu bauen. Erste Modelle können bereits eine Membran bilden und sich unter bestimmten Bedingungen teilen. Was ihnen noch fehlt, ist unter anderem ein eigener Stoffwechsel, der sie mit Energie versorgt.</p>\nKönnen wir Leben selbst bauen?\n<p>Die Forschung macht damit sichtbar, wie viele Prozesse zusammenspielen müssen, damit aus Molekülen ein lebendes System wird. Gleichzeitig führt sie zu einer noch größeren Frage: Wenn wir die grundlegenden Bausteine des Lebens verstehen, können wir dann irgendwann selbst Leben herstellen?</p>\n<p>In dieser Folge „Die großen Fragen der Wissenschaft“ sprechen <strong>Katharina Menne</strong> und <strong>Carsten Könneker</strong> von <em>Spektrum der Wissenschaft </em>mit <strong>Petra Schwille</strong> über Zellen, Evolution und die Entstehung des Lebens, und auch darüber, was es bedeuten würde, wenn wir die Grenze zwischen Verstehen und Erschaffen tatsächlich überschreiten.</p>",
+    "date": "2026-11-05T04:00:40.000Z",
+    "url": "https://feedpress.me/link/19604/17515721/die-grossen-fragen-der-wissenschaft-petra-schwille",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1792/87/dgfdwwas-ist-lebenpetra-schwille.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1792/87/dgfdwwas-ist-lebenpetra-schwille.63.mp3",
+    "duration": "1 Std 29 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4090832",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
     "title": "John Nash und das Phantom von Fine Hall",
-    "summary": "John Nash gelingt der Durchbruch\n<p>John Forbes Nash Jr. war schon als Kind von der Mathematik fasziniert. 1928 in West Virginia geboren studierte er später am Carnegie Institute of Technology in Pittsburgh und an der Princeton University. Seinen akademischen Durchbruch hat er schon früh, mit nur 21 Jahren gelingt ihm mit seiner 27-seitigen Dissertation der ganz große Wurf — das nach ihm benannte Nash-Gleichgewicht prägt die noch neue Spieltheorie bis heute.</p>\n<p>Bei der Spieltheorie geht es darum, wie Menschen oder Unternehmen Entscheidungen treffen, wenn die Ergebnisse ihrer Entscheidungen auch von den Entscheidungen anderer abhängen. Dabei unterscheidet man zwischen der kooperativen und der nicht-kooperativen Spieltheorie. Während sich die kooperative Spieltheorie mit der Zusammenarbeit und möglichen Vereinbarungen zwischen den Beteiligten beschäftigt, untersucht die nicht-kooperative Spieltheorie, wie einzelne Akteure ihre Entscheidungen treffen, um ihre eigenen Ziele bestmöglich zu erreichen.</p>\n<p>Ein Beispiel: Zwei Eisdielen möchten möglichst viele Kunden gewinnen und ihren Gewinn maximieren. Wie reagiert die Inhaberin einer Eisdiele, wenn die Konkurrenz den Preis pro Eiskugel senkt? Senkt sie ebenfalls ihre Preise, um konkurrenzfähig zu bleiben, oder behält sie ihre Preise bei? Ihre Entscheidung hängt dabei nicht nur von ihren eigenen Zielen, sondern auch davon ab, wie sie das Verhalten der Konkurrenz einschätzt.</p>\nSpäte Anerkennung: Nash bekommt den Nobelpreis\n<p>Das Beispiel zeigt, wie relevant die Spieltheorie für die Wirtschaft tatsächlich ist. Damals, als Nash seine Dissertation darüber schreibt, hat die Spieltheorie in der Wirtschaft jedoch kaum Bedeutung. Sie ist erst einige Jahre alt und entstammt der Mathematik, nicht der Ökonomie. Dass sie aber auch von Ökonomen als wichtiger Mechanismus wahrgenommen wird, ist unter anderem Nash zu verdanken. In den 1990ern wird er für seine Leistungen mit dem Nobelpreis ausgezeichnet, später mit dem begehrten Abelpreis.</p>\n<p>Nash selbst verschwindet nur wenige Jahre nach seinem wissenschaftlichen Durchbruch von der Bildfläche und erkrankt schwer an Schizophrenie. Knapp zwei Jahrzehnte fallen der Krankheit zum Opfer, Nash fühlt sich verfolgt, hat Wahnvorstellungen, verlässt die USA, seine Ehe wird geschieden. Er durchläuft die unterschiedlichsten Therapien, die meisten ohne nennbaren Erfolg.</p>\n<p>Wie es John Nash gelingt, wieder zurück zur Mathematik, nach Princeton und zu seiner Frau zu finden, bespricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit <strong>Demian Nahuel Goos</strong> und <strong>Manon Bischoff</strong> von Spektrum der Wissenschaft.</p>",
+    "summary": "John Nash gelingt der Durchbruch\n<p>John Forbes Nash Jr. ist schon als Kind von der Mathematik fasziniert. 1928 in West Virginia geboren, studiert er später am Carnegie Institute of Technology in Pittsburgh und an der Princeton University. Seinen akademischen Durchbruch hat er schon früh, mit nur 21 Jahren gelingt ihm mit seiner 27-seitigen Dissertation der ganz große Wurf — das nach ihm benannte Nash-Gleichgewicht prägt die noch neue Spieltheorie bis heute.</p>\n<p>Bei der Spieltheorie geht es darum, wie Menschen oder Unternehmen Entscheidungen treffen, wenn die Ergebnisse ihrer Entscheidungen auch von den Entscheidungen anderer abhängen. Dabei unterscheidet man zwischen der kooperativen und der nicht-kooperativen Spieltheorie. Während sich die kooperative Spieltheorie mit der Zusammenarbeit und möglichen Vereinbarungen zwischen den Beteiligten beschäftigt, untersucht die nicht-kooperative Spieltheorie, wie einzelne Akteure ihre Entscheidungen treffen, um ihre eigenen Ziele bestmöglich zu erreichen.</p>\n<p>Ein Beispiel: Zwei Eisdielen möchten möglichst viele Kunden gewinnen und ihren Gewinn maximieren. Wie reagiert die Inhaberin einer Eisdiele, wenn die Konkurrenz den Preis pro Eiskugel senkt? Senkt sie ebenfalls ihre Preise, um konkurrenzfähig zu bleiben, oder behält sie ihre Preise bei? Ihre Entscheidung hängt dabei nicht nur von ihren eigenen Zielen, sondern auch davon ab, wie sie das Verhalten der Konkurrenz einschätzt.</p>\nSpäte Anerkennung: Nash bekommt den Nobelpreis\n<p>Das Beispiel zeigt, wie relevant die Spieltheorie für die Wirtschaft tatsächlich ist. Damals, als Nash seine Dissertation darüber schreibt, hat die Spieltheorie in der Wirtschaft jedoch kaum Bedeutung. Sie ist erst einige Jahre alt und entstammt der Mathematik, nicht der Ökonomie. Dass sie aber auch von Ökonomen als wichtiger Mechanismus wahrgenommen wird, ist unter anderem Nash zu verdanken. In den 1990ern wird er für seine Leistungen mit dem Nobelpreis ausgezeichnet, später mit dem begehrten Abelpreis.</p>\n<p>Nash selbst verschwindet nur wenige Jahre nach seinem wissenschaftlichen Durchbruch von der Bildfläche und erkrankt schwer an Schizophrenie. Knapp zwei Jahrzehnte fallen der Krankheit zum Opfer, Nash fühlt sich verfolgt, hat Wahnvorstellungen, verlässt die USA, seine Ehe wird geschieden. Er durchläuft die unterschiedlichsten Therapien, die meisten ohne nennbaren Erfolg.</p>\n<p>Wie es John Nash gelingt, wieder zurück zur Mathematik, nach Princeton und zu seiner Frau zu finden, bespricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit <strong>Demian Nahuel Goos</strong> und <strong>Manon Bischoff</strong> von Spektrum der Wissenschaft.</p>",
     "date": "2026-11-04T04:00:43.000Z",
     "url": "https://feedpress.me/link/19604/17515042/geschichten-aus-der-mathematik-john-nash",
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261103gadmep62john-nash.63.mp3",
@@ -179,54 +227,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/20261029fqschneckenschleim.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/20261029fqschneckenschleim.63.mp3",
     "duration": "13 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4016071",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Was passiert, wenn das Herz aus dem Takt gerät, Stefan Luther?",
-    "summary": "Ein selbstorganisierendes System\n<p>Unser Herz arbeitet ein Leben lang zuverlässig — ohne Pause und ohne Wartung. Möglich wird das durch ein fein abgestimmtes Netzwerk aus Herzmuskelzellen, die elektrische Signale weitergeben und dadurch die Bewegung des Herzmuskels koordinieren. Den Takt gibt dabei der sogenannte Sinusknoten vor. Er erzeugt elektrische Impulse, die sich wellenförmig über das Herz ausbreiten und dafür sorgen, dass sich die Herzkammern regelmäßig zusammenziehen und Blut durch den Körper pumpen.</p>\n<p>Doch der Herzschlag wird nicht wie bei einer Maschine von einer zentralen Steuerung kontrolliert. Stattdessen entsteht der Rhythmus durch das Zusammenspiel vieler einzelner Zellen. Genau diese Fähigkeit zur Selbstorganisation interessiert den Physiker Prof. Dr. Stefan Luther. Am Max-Planck-Institut für Dynamik und Selbstorganisation leitet er die Forschungsgruppe „Biomedizinische Physik“. Die Forschungsgruppe untersucht, wie aus vielen einzelnen Prozessen ein stabiler Herzrhythmus entsteht und warum dieses System manchmal aus dem Gleichgewicht gerät.</p>\nWas passiert beim Kammerflimmern?\n<p>Herzrhythmusstörungen sind weit verbreitet und lassen sich oft gut behandeln. Kammerflimmern ist allerdings eine der häufigsten unmittelbaren Ursachen für den plötzlichen Herztod. Dabei breitet sich die elektrische Erregung im Herzen nicht mehr geordnet aus. Statt einer koordinierten Welle entstehen chaotische elektrische Wirbel, sogenannte Rotoren. Die Herzmuskelzellen zucken dann nur noch unkoordiniert — das Herz kann so kein Blut mehr in den Körper pumpen und das Gehirn nicht mehr ausreichend mit Sauerstoff versorgen.</p>\n<p>Lange war unklar, welche genaueren Prozesse hinter diesem chaotischen Zustand stecken. Mit neuen bildgebenden Verfahren konnten Stefan Luther und sein Team die elektrischen Vorgänge im Herzmuskel während des Kammerflimmerns sichtbar machen und dadurch besser verstehen, wie diese lebensbedrohlichen Rhythmusstörungen entstehen.</p>\nDie Defibrillatoren der Zukunft\n<p>Bei Kammerflimmern können Defibrillatoren Leben retten: Ein gezielter Elektroschock soll das elektrische Chaos im Herzen beenden und einen normalen Rhythmus wiederherstellen. Doch diese Behandlung hat auch Nachteile: Der Stromstoß ist für Betroffene schmerzhaft und kann bei implantierten Defibrillatoren (ICDs) zu belastenden Fehlauslösungen führen. Manche Patientinnen und Patienten entwickeln nach solchen Schockerlebnissen Angststörungen oder Traumata.</p>\n<p>Wenn man die Dynamik des Herzrhythmus besser versteht, könnten elektrische Impulse in Zukunft präziser eingesetzt und in ihrer Stärke reduziert werden. In dieser Folge von „Ach, Mensch!“ spricht <em>detektor.fm</em>-Moderatorin Jessica Hughes mit <strong>Stefan Luther </strong>darüber, was die Biophysik zur Herzforschung beiträgt und wie Defibrillatoren der Zukunft aussehen könnten.</p>",
-    "date": "2026-10-28T04:00:06.000Z",
-    "url": "https://feedpress.me/link/19604/17508359/ach-mensch-stefan-luther",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/26102802achmenschstefanluther.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/26102802achmenschstefanluther.63.mp3",
-    "duration": "34 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4082263",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "AMOC: Droht Europas Wärmepumpe der Kollaps?",
-    "summary": "AMOC funktioniert wie ein Förderband\n\n<p>Die Atlantische Umwälzströmung, kurz AMOC, hat in den vergangenen Jahren meist unter dem Radar der öffentlichen Aufmerksamkeit gearbeitet und Europa mit Wärme aus den Tropen versorgt. Wie ein Förderband wird warmes Oberflächenwasser aus den Tropen Südamerikas in den Norden Europas transportiert, wo es verdunstet und seine Wärme an die Atmosphäre abgibt. Dabei steigt der Salzgehalt des Wassers — es wird „schwerer“, genauer gesagt dichter. Aus diesem Grund sinkt es im Norden ab und fließt als Tiefenwasser wieder gen Süden. Torsten Kanzow forscht am Alfred-Wegener-Institut zu Meeresströmungen.</p>\n\nKlimakrise beeinflusst die Strömung\n\n<p>Die Klimakrise wirkt sich in doppelter Weise auf die AMOC aus, sagt Kanzow: Wenn die Atmosphäre sich insgesamt erwärmt, kann sie weniger Wärme aus dem Ozean aufnehmen. Dadurch verdunstet weniger Wasser und der Salzgehalt wird niedriger. Das erschwert den Prozess des Absinkens. Hinzu komme, dass durch das Abschmelzen des grönländischen Eisschilds mehr Süßwasser zufließe. Auch das sorgt für einen niedrigeren Salzgehalt. Beides wirkt sich auf die Strömung aus.</p>\n\nIn den Fokus der Öffentlichkeit ist die Meeresströmung im Atlantik erst gerückt, seit Forschende öffentlich vor einer Abschwächung oder gar dem Kollaps der Strömung warnen. Denn: Die Folgen könnten massiv sein. Wie realistisch diese Abschwächung ist, darüber hat <em>detektor.fm</em>-Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“ mit ihrer Kollegin Marisa Becker gesprochen.",
-    "date": "2026-10-27T04:30:17.000Z",
-    "url": "https://feedpress.me/link/19604/17507420/mission-energiewende-amoc",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261027missionenergiewendeamoc.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261027missionenergiewendeamoc.63.mp3",
-    "duration": "19 Min",
     "tags": [
       "wissenschaft",
       "forschung",

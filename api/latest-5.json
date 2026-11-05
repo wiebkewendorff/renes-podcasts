@@ -1,41 +1,43 @@
 [
   {
-    "id": "dlf-corso:3d2c8097-976c-56ac-9d8f-5f526d262440",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
+    "id": "dlf-der-rest-ist-geschichte:a961b79a-4db1-5141-b747-6026692f2c3a",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
     "type": "rss",
-    "title": "Zum Tod von Janosch: Der Vater der Tigerente",
-    "summary": "Der kleine Tiger, der kleine Bär und die Tigerente: Horst Eckert alias Janosch hat die bekanntesten Kinderbuchfiguren Deutschlands geschaffen. Jetzt ist er im Alter von 95 Jahren auf Teneriffa gestorben. Von Sören Brinkmann",
-    "date": "2026-11-04T11:08:00.000Z",
-    "url": "https://www.deutschlandfunkkultur.de/janosch-autor-tigerente-gestorben-nachruf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/c6/fd/3a/d4/c6fd3ad4-094d-4d37-901b-46c8f70929c6/janosch-tod-in-farbe-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/diese_scheiss_tigerente_zum_tod_von_janosch_dlf_20261104_1506_4f159dcf.mp3?refId=corso-104",
-    "duration": "6 Min",
+    "title": "Falklandinseln - Warum Argentinien sie haben will",
+    "summary": "Die Falklandinseln liegen vor dem südlichsten Zipfel von Südamerika. Sie gehören zu Großbritannien, doch schon lange erhebt Argentinien Ansprüche - 1982 kam es deshalb zum Krieg. Jetzt hat Argentiniens Präsident Milei den Konflikt neu angefacht.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(01:55) Die europäische Besiedlung der Falklandinseln ab dem 17. Jahrhundert<br>(11:20) Krieg um die Falklandinseln 1982<br>(19:20) Der Krieg aus der Perspektive Argentiniens<br>(29:27) Die Folgen der Niederlage für Argentinien<br>(31:20) Wie die britische Premierministerin Margaret Thatcher vom Falkland-Krieg profitierte<br>(35:20) Warum über die Falklandinseln heute wieder gestritten wird<br><br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li>Die gebürtige Argentinierin <strong>Claudia Zilla</strong> ist Politikwissenschaftlerin und arbeitet in der Forschungsgruppe „Amerika“ bei der Stiftung Wissenschaft und Politik (SWP) in Berlin.  </li></ul><br><ul><li><strong>Karina Urbach</strong> ist Historikerin und lehrt an der Universität London. Zu ihren Forschungsgebieten gehören die britischen und internationalen Beziehungen im 19. und 20. Jahrhundert. </li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Matthieu Praun und Thomas Ibrahim<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich und Christian Röther <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/chile-praesident-geschichte-diktatur-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den Rechtsruck in Chile</li><li><a href=\"https://www.deutschlandfunk.de/venezuela-usa-geschichte-regime-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Venezuela</li><li><a href=\"https://www.deutschlandfunk.de/kuba-kommunismus-geschichte-usa-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Kuba</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Hintergrund-Artikel über den Falklandkrieg bei der <a href=\"https://www.bpb.de/kurz-knapp/hintergrund-aktuell/509051/vor-40-jahren-ende-des-falklandkriegs/\" rel=\"noopener\" target=\"_blank\">Bundeszentrale für politische Bildung</a></li><li>Informationen bei der <a href=\"https://www.margaretthatcher.org/archive/1982_falklands\" rel=\"noopener\" target=\"_blank\">Margaret Thatcher Foundation</a> über den Falklandkrieg (auf Englisch)</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche:</strong><br><br><ul><li><a href=\"https://1.ard.de/alles-in-butter\" rel=\"noopener\" target=\"_blank\">Alles in Butter - der Genuss-Podcast</a></li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-11-05T12:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/falklandinseln-argentinien-grossbritannien-geschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/7f/32/ce/a3/7f32cea3-0b65-41c4-85d9-be53b15b3c07/falkland-inseln-milei-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/falklandinseln_warum_argentinien_sie_haben_will_dlf_20261105_1300_2276063f.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "45 Min",
     "tags": [
-      "kultur",
-      "pop",
-      "kunst",
+      "geschichte",
+      "zeitgeschichte",
       "gesellschaft",
+      "politik",
+      "bildung",
       "deutschlandfunk"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "zeitzeichen:ce83c3b32758af20d2b06cc3acb65d7a",
+    "id": "zeitzeichen:b96d5fffec97394fcd38e6eb5494db94",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Die SA: Wie eine Wirtshausprügelei zum Nazi-Mythos wird",
-    "summary": "<p>Am 4.11.1921 eskaliert im Münchner Hofbräuhaus eine Prügelei. Die Nazis machen sie zum Gründungsmythos der SA. Wie aus wenigen Schlägern eine mächtige Terrororganisation wird.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Marko Rösseler:</strong><br><ul><li>warum die Parteien nach dem Ersten Weltkrieg sogenannte Saalschutztruppen zusammenstellen,</li><li>warum die SA in ihren Anfängen um jeden Preis auffallen und Schlagzeilen produzieren soll,</li><li>wie junge NSDAP-Mitglieder auf einem Sonntagsausflug in Bad Tölz eine Schlägerei provozieren,</li><li>wie die SA in der Nacht zum 1. Juli 1934 entmachtet wird und dennoch weiterbesteht.</li></ul><br>Nach dem Ersten Weltkrieg bekriegen sich in Deutschland rechte und linke Gruppen. Eine Revolution von Arbeiter- und Soldatenräten scheitert, rechte Freikorps und Reichswehrtruppen verüben Morde, Parteien werden gegründet. <br><br>So auch die Deutsche Arbeiterpartei (DAP), die im Februar 1920 in NSDAP umbenannt wird. Der noch unbekannte Adolf Hitler tritt ihr bei und glänzt schon bald als Redner.<br><br>Am 4. November 1921 hält Hitler wieder einmal eine seiner Reden im Münchner Hofbräuhaus. Die NSDAP verfügt bereits über eine Truppe, deren Name eher an Körperertüchtigung denken lässt: Sie nennt sich \"Turn- und Sportvereinigung\".<br><br>Mitglieder der Vereinigung sind als Saalordner im Einsatz. Es kommt zu Zusammenstößen mit Gegendemonstranten. Nach der Versammlungsschlacht im Münchner Hofbräuhaus erhält die Ordnertruppe zur dauernden Erinnerung den Namen \"Sturmabteilung\". <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Daniel Siemens, Newcastle University, Großbritannien</li><li>Daniel Siemens: Stormtroopers. A New History of Hitler's Brownshirts. New Haven/London 2017. Deutsche Übersetzung: Sturmabteilung. Die Geschichte der SA. München 2019</li><li>Peter Longerich: Die braunen Bataillone. Geschichte der SA. München 1989</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/nationalsozialismus/index.html\" rel=\"noopener\" target=\"_blank\">Nationalsozialismus</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-muenchner-hofbraeuhaus-104.html\" rel=\"noopener\" target=\"_blank\">27.09.1589: Der Bau des Münchner Hofbräuhauses beginnt</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Marko Rösseler<br>Redaktion: Gesa Rünker, Matti Hesse",
-    "date": "2026-11-04T05:00:19.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-sa-wie-eine-wirtshauspruegelei-zum-nazi-mythos-wird-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-saalschlacht-hofbraeuhaus-sa-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/26/c438ae4a-5e1c-4cd2-ba65-cd08e0f26146/c438ae4a-5e1c-4cd2-ba65-cd08e0f26146_MP3-128.mp3",
-    "duration": "15 Min",
+    "title": "Tod eines Medienmoguls: Ist er gefallen oder gesprungen?",
+    "summary": "<p>Robert Maxwell wollte das größte britische Medienimperium aufbauen. Doch \"Bob the Max\", wie er sich gern selbst nennt, hat sich verzockt. Eine Auszeit an Bord seiner Yacht endet am 5.11.1991 tödlich.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christian Seebaum:</strong><br><ul><li>wie aus dem jungen Tschechoslowaken Jan Ludwik Hoch ein britischer Geheimagent mit vielen Namen wird,</li><li>wie er schließlich als Verleger Robert Maxwell revolutioniert, wie Wissenschaft publiziert wird,</li><li>vom Kampf der beiden Medien-Mogule Robert Maxwell und Rupert Murdoch,</li><li>von der Verbindung der jüngsten Maxwell-Tochter Ghislaine zu Finanzberater Jeffrey Epstein.</li></ul><br>Das Leben des Verlegers Robert Maxwell ist die Geschichte eines einzigartigen Aufstiegs und Falls, von Geschäftssinn, Größenwahn und Gaunereien. Seine abenteuerliche Biografie sucht ihresgleichen. Sie endet am 5. November 1991 mit dem Fund der Leiche im Atlantik vor den Kanarischen Inseln.<br>Robert Maxwell baut in den 1960er-Jahren ein gewaltiges Medien-Imperium auf. <br><br>Doch Ende der 1980er überspannt er den Bogen. Für 3,3 Milliarden US-Dollar, zusammengeliehen von 44 Banken, kauft er 1988 unter anderem den Buchverlag Macmillan. Und er kauft und verkauft in den Folgejahren weiter, um die Zinsen zahlen zu können. Mit verdeckten Käufen manipuliert er Aktienkurse, um weitere Kredite zu bekommen. <br><br>Anfang November 1991, als das Kartenhaus unmittelbar vor dem Zusammenbruch steht, nimmt sich \"Bob, the Max\" eine Auszeit auf seiner Luxusjacht \"Lady Ghislaine\", die er nach seiner jüngsten Tochter benannt hat. Die genauen Umstände seines Todes sind bis heute ungeklärt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>John Preston, Autor einer Maxwell-Biografie</li><li>John Preston: Fall. The Mystery of Robert Maxwell. London 2021</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag4830.html\" rel=\"noopener\" target=\"_blank\">01. Januar 1785 - \"The Times\" erscheint erstmals</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag-rupert-murdoch-geboren-100.html\" rel=\"noopener\" target=\"_blank\">11. März 1931 - Medienunternehmer Rupert Murdoch wird geboren</a></li></ul><br><strong>Mediathek-Tipp: </strong><a href=\"https://www.ardmediathek.de/serie/history-or-mystery-die-burgenchallenge-mit-alexander-prinz/staffel-1/Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTM2/1\" rel=\"noopener\" target=\"_blank\"><strong>\"Hystery or Mystery\"</strong></a><br>Eine Burg, zwei Besucher und drei mittelalterliche Geschichten - nur eine davon ist wahr. Alexander Prinz, bekannt als der \"Dunkle Parabellritter\", führt prominente Gäste im Stil von \"X-Factor – das Unfassbare\" durch Festungen verschiedener Regionen. Erkennen diese die wahre Geschichte? Oder lassen sie sich von Prinz’ Redekünsten auf falsche Fährten führen? <br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br><br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christian Seebaum<br>Redaktion: Frank Zirpins",
+    "date": "2026-11-05T05:00:23.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-tod-eines-medienmoguls-ist-er-gefallen-oder-gesprungen-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-robert-maxwell-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/02/b40db216-ab2d-4e81-b9df-937c934fc4d7/b40db216-ab2d-4e81-b9df-937c934fc4d7_MP3-128.mp3",
+    "duration": "14 Min",
     "tags": [
       "geschichte",
       "bildung",
@@ -48,43 +50,17 @@
     "language": "de"
   },
   {
-    "id": "zeit-augen-zu:24f28d85-5951-46da-96e2-3578e3a92680",
-    "source": "zeit-augen-zu",
-    "sourceTitle": "Augen zu – DIE ZEIT",
-    "type": "rss",
-    "title": "Lovis Corinth: Körper malen, bis sie leben",
-    "summary": "<p>Um ihn herum entstanden alle Strömungen der modernen Kunst – der Impressionismus in Frankreich, dann der Symbolismus in Deutschland, der Expressionismus, der Kubismus, die Abstraktion –, Lovis Corinth aber blieb sich treu, seinem farbstarken Realismus, den schon die Zeitgenossen nicht einordnen konnten und der ihn zu einem großen Solitär der deutschen Kunst am Anfang des 20. Jahrhunderts macht. Am bedeutendsten sind seine Menschendarstellungen – zum einen ab 1901 die Gemälde seiner Frau Charlotte, selbst eine große Malerin, die er wieder und wieder zeigt, meist nackt oder halb bekleidet. Und daneben Corinth selbst – als zweifelnder Maler oder als betrunkener Bacchus. In der neuesten Ausgabe des Podcasts »Augen zu« widmen sich <a href=\"https://www.zeit.de/autoren/I/Florian_Illies/index.xml\" rel=\"noopener\" target=\"_blank\">Florian Illies</a> und <a href=\"https://www.zeit.de/autoren/L/Giovanni_di_Lorenzo/index.xml\" rel=\"noopener\" target=\"_blank\">Giovanni di Lorenzo</a> dieser besonderen Ehe, die zu sehr viel besonderer Kunst führte.</p><p>Sie sprechen über die Vorwürfe gegen Corinth, seine Malerei sei zu fleischlich, über seine Vorbilder Rubens und Jordaens und seine Ausbildung in Paris und München. Zwei besondere Bilder stehen dann im Mittelpunkt des Gesprächs: »Salome« und das »Große Martyrium«, zwei biblische Darstellungen, die die scheinbar ferne Geschichte mit größter Drastik in die Gegenwart holen. Nach einem Schlaganfall 1911 verändert sich Corinths Stil. Ab 1918 widmet er sich mit besonderer Beharrlichkeit der wilden Natur am bayerischen Walchensee, die er in zahlreichen Aquarellen und Gemälden in einen farbigen Fiebertraum verwandelt.</p><p>In der Berlinischen Galerie ermöglicht gerade eine große Überblicksausstellung, Lovis Corinth als die große deutsche Malerfigur an der Schwelle vom 19. zum 20. Jahrhundert kennenzulernen.</p><p>Lob, Kritik, Anmerkungen? Schreiben Sie uns gern an <strong> augenzu@zeit.de </strong></a>.</p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen</a>. Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT</strong>. <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Angebot</a>. </p>",
-    "date": "2026-11-04T04:55:00.000Z",
-    "url": "https://www.zeit.de/serie/augen-zu",
-    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/8cca0166-1068-4682-8268-789474867bfa/3000x3000/augen-zu.jpg?aid=rss_feed",
-    "audio": "https://zeitonline.simplecastaudio.com/75dec84d-31b9-4521-816d-0bf379b39af5/episodes/62ee63cd-6100-4fb0-b5c8-509ed8784b8d/audio/128/default.mp3?aid=rss_feed&awCollectionId=75dec84d-31b9-4521-816d-0bf379b39af5&awEpisodeId=62ee63cd-6100-4fb0-b5c8-509ed8784b8d&feed=b1Qn2k9W",
-    "duration": "38 Min",
-    "tags": [
-      "kunst",
-      "kunstgeschichte",
-      "kultur",
-      "zeit",
-      "bildung"
-    ],
-    "category": [
-      "Kunst",
-      "Kultur",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4090832",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4097236",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "John Nash und das Phantom von Fine Hall",
-    "summary": "John Nash gelingt der Durchbruch\n<p>John Forbes Nash Jr. war schon als Kind von der Mathematik fasziniert. 1928 in West Virginia geboren studierte er später am Carnegie Institute of Technology in Pittsburgh und an der Princeton University. Seinen akademischen Durchbruch hat er schon früh, mit nur 21 Jahren gelingt ihm mit seiner 27-seitigen Dissertation der ganz große Wurf — das nach ihm benannte Nash-Gleichgewicht prägt die noch neue Spieltheorie bis heute.</p>\n<p>Bei der Spieltheorie geht es darum, wie Menschen oder Unternehmen Entscheidungen treffen, wenn die Ergebnisse ihrer Entscheidungen auch von den Entscheidungen anderer abhängen. Dabei unterscheidet man zwischen der kooperativen und der nicht-kooperativen Spieltheorie. Während sich die kooperative Spieltheorie mit der Zusammenarbeit und möglichen Vereinbarungen zwischen den Beteiligten beschäftigt, untersucht die nicht-kooperative Spieltheorie, wie einzelne Akteure ihre Entscheidungen treffen, um ihre eigenen Ziele bestmöglich zu erreichen.</p>\n<p>Ein Beispiel: Zwei Eisdielen möchten möglichst viele Kunden gewinnen und ihren Gewinn maximieren. Wie reagiert die Inhaberin einer Eisdiele, wenn die Konkurrenz den Preis pro Eiskugel senkt? Senkt sie ebenfalls ihre Preise, um konkurrenzfähig zu bleiben, oder behält sie ihre Preise bei? Ihre Entscheidung hängt dabei nicht nur von ihren eigenen Zielen, sondern auch davon ab, wie sie das Verhalten der Konkurrenz einschätzt.</p>\nSpäte Anerkennung: Nash bekommt den Nobelpreis\n<p>Das Beispiel zeigt, wie relevant die Spieltheorie für die Wirtschaft tatsächlich ist. Damals, als Nash seine Dissertation darüber schreibt, hat die Spieltheorie in der Wirtschaft jedoch kaum Bedeutung. Sie ist erst einige Jahre alt und entstammt der Mathematik, nicht der Ökonomie. Dass sie aber auch von Ökonomen als wichtiger Mechanismus wahrgenommen wird, ist unter anderem Nash zu verdanken. In den 1990ern wird er für seine Leistungen mit dem Nobelpreis ausgezeichnet, später mit dem begehrten Abelpreis.</p>\n<p>Nash selbst verschwindet nur wenige Jahre nach seinem wissenschaftlichen Durchbruch von der Bildfläche und erkrankt schwer an Schizophrenie. Knapp zwei Jahrzehnte fallen der Krankheit zum Opfer, Nash fühlt sich verfolgt, hat Wahnvorstellungen, verlässt die USA, seine Ehe wird geschieden. Er durchläuft die unterschiedlichsten Therapien, die meisten ohne nennbaren Erfolg.</p>\n<p>Wie es John Nash gelingt, wieder zurück zur Mathematik, nach Princeton und zu seiner Frau zu finden, bespricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit <strong>Demian Nahuel Goos</strong> und <strong>Manon Bischoff</strong> von Spektrum der Wissenschaft.</p>",
-    "date": "2026-11-04T04:00:43.000Z",
-    "url": "https://feedpress.me/link/19604/17515042/geschichten-aus-der-mathematik-john-nash",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261103gadmep62john-nash.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261103gadmep62john-nash.63.mp3",
-    "duration": "43 Min",
+    "title": "Schwarzloch-Sterne: Das Geheimnis der kleinen, roten Punkte",
+    "summary": "<p>Ende 2021 wurde das James-Webb-Weltraumteleskop ins All geschickt und hatte Anfang 2022 seine Umlaufbahn erreicht. Nur wenige Wochen, nachdem das Teleskop seine ersten wissenschaftlichen Bilder lieferte, fielen Astronominnen und Astronomen kleine rote Punkte auf, sogenannte „little red dots“. Das führte zu verschiedenen Theorien. Könnte es sich zum Beispiel um staubverhüllte, aktive Galaxienkerne handeln? Oder um sehr staubige, sternbildende Galaxien? Oder eine Mischungs aus beidem? Ein im Sommer veröffentlichtes Paper von Forschenden am Massachusetts Institute of Technology (MIT) gibt eine andere Antwort: Es handelt sich um sogenannte Schwarzloch-Sterne — eine ganz neue Objektklasse.</p>\n„Black Hole Stars“ eigentlich keine Sterne\n<p>Ein Schwarzloch-Stern ist demnach ein kosmisches Objekt von der Größe unseres gesamten Sonnensystems. Im Inneren gibt es jedoch keine Kernfusion, wie es laut Definition bei Sternen passiert. Stattdessen befindet sich im Zentrum ein supermassereiches Schwarzes Loch, das von einer Gaswolke umhüllt ist. Dieses Schwarze Loch verschluckt Materie, heizt sie extrem stark auf und gibt dann gewaltige Energiemengen ab. Bis zu 100 Milliarden Mal mehr Strahlung als eine gewöhnliche Sonne. Erst wenn die erzeugte Strahlung die riesigen Gashüllen durchdringt, ergibt das das Erscheinungsbild eines gigantischen Sterns. „Wir sehen sozusagen erst das, was aus diesen Gasschichten rauskommt“, sagt die Astrophysikerin <strong>Dr. Victoria Grinberg</strong> von der Europäischen Weltraumorganisation (ESA) im Podcast.</p>\nSchlüsselelement für kosmologisches Puzzle\n<p>Das Paper beschreibt den Fund als ein vom Gas umgebenes Schwarzes Loch aus der Frühzeit des Kosmos. Der Name „Schwarzloch-Stern“ ist für sich ein kleiner PR-Trick, der im Paper selbst nicht auftaucht, sagt Grinberg. Sie beschreibt die Entdeckung als einen Durchbruch. Sie könnte erklären, wie supermassereiche Schwarze Löcher in Galaxienzentren schon kurz nach dem Urknall so gigantisch werden konnten. Der Fund könnte eine Lücke im Verständnis unseres Universums schließen. „Wenn jedes supermassereiche Schwarze Loch in seiner Kindheit ein Schwarzloch-Stern gewesen ist, dann könnten wir tatsächlich plötzlich erklären, warum die heute so groß sind.“</p>\n<p>Welche weiteren Fragen die Schwarzloch-Sterne jetzt aufwerfen, unter anderem darum geht es in dieser Folge vom „Forschungsquartett“.</p>",
+    "date": "2026-11-05T04:00:48.000Z",
+    "url": "https://feedpress.me/link/19604/17515720/forschungsquartett-schwarzloch-sterne",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261104black-hole-stars.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261104black-hole-stars.63.mp3",
+    "duration": "15 Min",
     "tags": [
       "wissenschaft",
       "forschung",
@@ -98,28 +74,51 @@
     "language": "de"
   },
   {
-    "id": "10-minuten-wissen-kunst:6aea55bcdc2860cef4c8c769",
-    "source": "10-minuten-wissen-kunst",
-    "sourceTitle": "10 Minuten Wissen – Kunst",
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4074594",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
-    "title": "Niki de Saint Phalle – Hon und die Nanas: Wie sich der weibliche Körper davon befreite, gefallen zu müssen",
-    "summary": "<p>Wie eine begehbare Riesenskulptur und bunte Nanas ein freies Bild der Frau voller Lebensfreude schufen.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>Stockholm, Sommer 1966: In der größten Halle des Moderna Museet liegt eine Frauenfigur auf dem Rücken, über zwanzig Meter lang, bunt bemalt – und hunderttausend Menschen stehen Schlange, um durch die Öffnung zwischen ihren Beinen hineinzugehen. Drinnen warten eine Milchbar, ein Kino und eine Rutsche. Wie aus einer jungen Frau, die mit dem Gewehr auf ihre eigenen Bilder schoss, die Schöpferin der Nanas wurde – jener bunten, fröhlichen Frauenfiguren, die heute in aller Welt stehen –, warum eine ganze Stadt um drei Nanas stritt und ein Tauziehen den Streit entschied, und weshalb Niki de Saint Phalle jahrelang in einer ihrer eigenen Skulpturen wohnte, enthüllt der Blick hinter dieses Werk.</p><br><p><strong>Weiterführende Links</strong></p><ul><li>Hon von innen und außen, mit Fotos von 1966: <a href=\"https://www.modernamuseet.se/en/stockholm/exhibitions/remembering-she-a-cathedral/\" rel=\"noopener\" target=\"_blank\">Moderna Museet – Remembering She – A Cathedral (EN)</a> </li><li>Erfahre mehr über die Künstlerin : <a href=\"https://de.wikipedia.org/wiki/Niki_de_Saint_Phalle\" rel=\"noopener\" target=\"_blank\">Wikipedia – Niki de Saint Phalle</a> </li><li>Die Nanas, von Paris über Stockholm bis Hannover: <a href=\"https://de.wikipedia.org/wiki/Nana_(Plastik)\" rel=\"noopener\" target=\"_blank\">Wikipedia – Nana (Plastik)</a> </li><li>Wie Hon in vierzig Tagen gebaut wurde: <a href=\"https://nikidesaintphalle.org/?p=2083\" rel=\"noopener\" target=\"_blank\">Niki Charitable Art Foundation – 50 years since HON (EN)</a> </li><li>Die drei Nanas in Hannover: <a href=\"https://www.hannover.de/Kultur-Freizeit/Geschichte-Geschichten/Echt-hann%C3%B6versch/Zehn-Dinge/Hannover-Zehn-Pl%C3%A4tze-zum-Verweilen-in-der-City/Am-Leibnizufer-bei-den-Nanas\" rel=\"noopener\" target=\"_blank\">hannover.de – Am Leibnizufer bei den Nanas</a> </li><li>Die Ausstellung in Düsseldorf, bis 7. Februar 2027: <a href=\"https://www.kunstpalast.de/en/event/niki-de-saint-phalle-dreammachine\" rel=\"noopener\" target=\"_blank\">Kunstpalast – Niki de Saint Phalle. Dream Machine (EN)</a> </li></ul><p><br></p><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
-    "date": "2026-11-03T22:55:00.000Z",
-    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/niki-de-saint-phalle",
-    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
-    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6aea55bcdc2860cef4c8c769/media.mp3",
-    "duration": "25 Min",
+    "title": "Was ist Leben, Petra Schwille?",
+    "summary": "Was macht Leben aus?\n<p>Was unterscheidet einen Stein von einem Baum, und wann wird aus Chemie eigentlich Leben? Zwar können wir Lebewesen erkennen, wenn wir ihnen begegnen. Aber genau zu sagen, was sie lebendig macht, ist deutlich schwieriger. Leben bedeutet Stoffwechsel, Wachstum und Fortpflanzung. Aber: Wo beginnt und endet die Grenze zwischen lebendig und nicht lebendig? Schon bei Viren wird es kompliziert: Sie können sich vermehren, sind dafür aber auf andere Zellen angewiesen.</p>\n<p>Mit diesen Fragen beschäftigt sich <strong>Petra Schwille</strong> — Direktorin am Max-Planck-Institut für Biochemie und eine der weltweit führenden Forscherinnen auf dem Gebiet der Synthetischen Biologie. Sie versucht herauszufinden, wie eine minimale Form von Leben aussehen könnte. Im Labor versucht sie, die grundlegenden Bestandteile einer Zelle zusammenzubringen und so eine möglichst einfache künstliche Zelle zu bauen. Erste Modelle können bereits eine Membran bilden und sich unter bestimmten Bedingungen teilen. Was ihnen noch fehlt, ist unter anderem ein eigener Stoffwechsel, der sie mit Energie versorgt.</p>\nKönnen wir Leben selbst bauen?\n<p>Die Forschung macht damit sichtbar, wie viele Prozesse zusammenspielen müssen, damit aus Molekülen ein lebendes System wird. Gleichzeitig führt sie zu einer noch größeren Frage: Wenn wir die grundlegenden Bausteine des Lebens verstehen, können wir dann irgendwann selbst Leben herstellen?</p>\n<p>In dieser Folge „Die großen Fragen der Wissenschaft“ sprechen <strong>Katharina Menne</strong> und <strong>Carsten Könneker</strong> von <em>Spektrum der Wissenschaft </em>mit <strong>Petra Schwille</strong> über Zellen, Evolution und die Entstehung des Lebens, und auch darüber, was es bedeuten würde, wenn wir die Grenze zwischen Verstehen und Erschaffen tatsächlich überschreiten.</p>",
+    "date": "2026-11-05T04:00:40.000Z",
+    "url": "https://feedpress.me/link/19604/17515721/die-grossen-fragen-der-wissenschaft-petra-schwille",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1792/87/dgfdwwas-ist-lebenpetra-schwille.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1792/87/dgfdwwas-ist-lebenpetra-schwille.63.mp3",
+    "duration": "1 Std 29 Min",
     "tags": [
-      "kunst",
-      "kunstgeschichte",
+      "wissenschaft",
+      "forschung",
       "bildung",
-      "wissen",
-      "kultur"
+      "gesellschaft"
     ],
     "category": [
-      "Kunst",
-      "Geschichte",
+      "Wissenschaft",
       "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-2860619750841791",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Ihr Berichtsgebiet sind die Türkei, Iran und Zypern: Korrespondentin Katharina Willinger",
+    "summary": "Den Zuschauerinnen und Zuschauern ein facettenreiches Bild aus der Region liefern, dies hat sich die Auslandskorrespondentin Katharina Willinger zur Aufgabe gemacht. Ihr Berichtsgebiet sind die Türkei, Iran und Zypern, drei sehr unterschiedliche Länder – aber voller Geschichten von Menschen und ihren Schicksalen. Diese bringt sie uns aus dem ARD-Studio in Istanbul, das die 39-Jährige auch leitet, nach Hause in die Wohnzimmer. Auf dem Roten Sofa berichtet Katharina Willinger von den Herausforderungen ihres Berufsalltags.",
+    "date": "2026-11-04T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/ihr-berichtsgebiet-sind-die-tuerkei-iran-und-zypern-korrespondentin-katharina-willinger,audio-3577282.html",
+    "image": "https://images.ndr.de/image/6a6f5c7a-a07b-43f6-b010-068158f0cb9e/AAABoafNgw8/AAABnSStX0g/1x1-big/screenshot-255470.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1104/AU-20261104-1959-4600.mp3",
+    "duration": "41 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
     ],
     "language": "de"
   }

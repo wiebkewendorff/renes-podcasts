@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:b96d5fffec97394fcd38e6eb5494db94",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Tod eines Medienmoguls: Ist er gefallen oder gesprungen?",
+    "summary": "<p>Robert Maxwell wollte das größte britische Medienimperium aufbauen. Doch \"Bob the Max\", wie er sich gern selbst nennt, hat sich verzockt. Eine Auszeit an Bord seiner Yacht endet am 5.11.1991 tödlich.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christian Seebaum:</strong><br><ul><li>wie aus dem jungen Tschechoslowaken Jan Ludwik Hoch ein britischer Geheimagent mit vielen Namen wird,</li><li>wie er schließlich als Verleger Robert Maxwell revolutioniert, wie Wissenschaft publiziert wird,</li><li>vom Kampf der beiden Medien-Mogule Robert Maxwell und Rupert Murdoch,</li><li>von der Verbindung der jüngsten Maxwell-Tochter Ghislaine zu Finanzberater Jeffrey Epstein.</li></ul><br>Das Leben des Verlegers Robert Maxwell ist die Geschichte eines einzigartigen Aufstiegs und Falls, von Geschäftssinn, Größenwahn und Gaunereien. Seine abenteuerliche Biografie sucht ihresgleichen. Sie endet am 5. November 1991 mit dem Fund der Leiche im Atlantik vor den Kanarischen Inseln.<br>Robert Maxwell baut in den 1960er-Jahren ein gewaltiges Medien-Imperium auf. <br><br>Doch Ende der 1980er überspannt er den Bogen. Für 3,3 Milliarden US-Dollar, zusammengeliehen von 44 Banken, kauft er 1988 unter anderem den Buchverlag Macmillan. Und er kauft und verkauft in den Folgejahren weiter, um die Zinsen zahlen zu können. Mit verdeckten Käufen manipuliert er Aktienkurse, um weitere Kredite zu bekommen. <br><br>Anfang November 1991, als das Kartenhaus unmittelbar vor dem Zusammenbruch steht, nimmt sich \"Bob, the Max\" eine Auszeit auf seiner Luxusjacht \"Lady Ghislaine\", die er nach seiner jüngsten Tochter benannt hat. Die genauen Umstände seines Todes sind bis heute ungeklärt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>John Preston, Autor einer Maxwell-Biografie</li><li>John Preston: Fall. The Mystery of Robert Maxwell. London 2021</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag4830.html\" rel=\"noopener\" target=\"_blank\">01. Januar 1785 - \"The Times\" erscheint erstmals</a></li><li>Stichtag: <a href=\"https://www1.wdr.de/stichtag/stichtag-rupert-murdoch-geboren-100.html\" rel=\"noopener\" target=\"_blank\">11. März 1931 - Medienunternehmer Rupert Murdoch wird geboren</a></li></ul><br><strong>Mediathek-Tipp: </strong><a href=\"https://www.ardmediathek.de/serie/history-or-mystery-die-burgenchallenge-mit-alexander-prinz/staffel-1/Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTM2/1\" rel=\"noopener\" target=\"_blank\"><strong>\"Hystery or Mystery\"</strong></a><br>Eine Burg, zwei Besucher und drei mittelalterliche Geschichten - nur eine davon ist wahr. Alexander Prinz, bekannt als der \"Dunkle Parabellritter\", führt prominente Gäste im Stil von \"X-Factor – das Unfassbare\" durch Festungen verschiedener Regionen. Erkennen diese die wahre Geschichte? Oder lassen sie sich von Prinz’ Redekünsten auf falsche Fährten führen? <br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br><br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christian Seebaum<br>Redaktion: Frank Zirpins",
+    "date": "2026-11-05T05:00:23.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-tod-eines-medienmoguls-ist-er-gefallen-oder-gesprungen-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-robert-maxwell-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/02/b40db216-ab2d-4e81-b9df-937c934fc4d7/b40db216-ab2d-4e81-b9df-937c934fc4d7_MP3-128.mp3",
+    "duration": "14 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:ce83c3b32758af20d2b06cc3acb65d7a",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-eine-indische-prinzessin-rettet-in-kassel-juden-vor-den-nazis-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/catherine-duleep-singh-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/22/33c409ca-8c44-4c15-8773-f4c553e510fe/33c409ca-8c44-4c15-8773-f4c553e510fe_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:99e51700f354b47464ade6837e16e3af",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Wild-West-Stars Wyatt Earp und Doc Holliday: Helden oder Mörder?",
-    "summary": "<p>Im Kino sind Wyatt Earp und Doc Holliday Helden, die gegen Schurken kämpfen. Im echten Leben werden sie des Mordes beschuldigt – wegen einer Schießerei am 26.10.1881.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christoph Tiemann:</strong><br><ul><li>wie die Stadt Tombstone (Grabstein) zu ihrem außergewöhnlichen Namen kommt,</li><li>wie der Silberbergbau Tombstone zur Boomstadt macht und auch zwielichtige Gestalten anzieht,</li><li>wie die Earp-Brüder in den 1870er Jahren sowohl mit der Rechtspflege als auch dem Glücksspiel und Prostitution berühmt werden,</li><li>wie unterschiedlich die Schießerei am O.K. Corral in den örtlichen Zeitungen bewertet wird.</li></ul><br>Am 26. Oktober 1881 kommt es nahe des Mietstalls O.K. (Old Kingsley) Corrals in der Stadt Tombstone zu einer der berühmtesten Schießereien der Geschichte des Wilden Westens. In 30 Sekunden fallen ebenso viele Schüsse.<br><br>Die Schießerei ist letztlich Ergebnis einer Verordnung, die das Tragen von Waffen in der Stadt verbietet. Virgil Earp ist Marshall der Stadt; seine Brüder Wyatt und Morgan, seine Hilfssheriffs, sowie ihr Freund Doc Holliday legen sich mit einer Gruppe Cowboys an, die auf dem Tragen ihrer Waffen beharren. Der Versuch, sie zu entwaffnen, endet in einem Blutbad.<br><br>Am Ende der Schießerei sind drei Cowboys tot und einige der berühmt-berüchtigten Gebrüder Earp schwer verletzt. Unverletzt bleibt lediglich Wyatt Earp. Wyatt Earp und Doc Holliday werden vom Sheriff des Countys festgenommen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Curtis Leslie, Manager des Courthouse-Museums, Historic Park des States Arizona</li><li>Paula Mitchell Marks: And Die in the West. The Story of the O.K. Corral Gunfight. 1996</li><li>Casey Tefertiller: Wyatt Earp. The Life Behind the Legend. 1999</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/medien/der_western_urform_des_amerikanischen_kinos/wilder-westen-mythos-film-100.html\" rel=\"noopener\" target=\"_blank\">Der Wilde Westen - ein Mythos</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christoph Tiemann<br>Redaktion: Jakob Schiffer, Sefa Inci Suvak<br>Technik: Moritz Raestrup",
-    "date": "2026-10-26T05:00:23.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wild-west-stars-wyatt-earp-und-doc-holliday-helden-oder-moerder-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/ok-corral-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/22/0d91f3a5-4a11-4bc2-b0c6-1cd8fbe1afdb/0d91f3a5-4a11-4bc2-b0c6-1cd8fbe1afdb_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

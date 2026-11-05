@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:796d9fea-88b7-5c76-a2aa-047097ab65cf",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 04.11.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-04T16:56:20.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-04-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/kulturmeldungen_04112026_dlf_20261104_1756_72ad19a9.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7ccbc8da-4660-5d51-94cd-f2bef0074acd",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"We'll see\" - Richard Nelson's Apple Family begleitet die Midterm-Wahlen",
+    "summary": "Robertz, Andreas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-04T16:51:10.000Z",
+    "url": "https://www.deutschlandfunk.de/we-ll-see-richard-nelson-s-apple-family-begleitet-die-midterm-wahlen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/well_see_richard_nelsons_apple_family_begleitet_die_midterm_dlf_20261104_1751_d7abd073.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3217eaa6-2964-557a-9a79-7450b76e100b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "MAGA-Niederlage – „Rückschlag für die Rechtspopulisten in Europa“",
+    "summary": "„Make America Great Again“: Mit diesem Slogan gewann Donald Trump Wahlen. Doch die Lage in den USA löst dieses Versprechen nicht ein, sagt Politikwissenschaftler Herfried Münkler. Trumps Niederlage könnte auch in Europa Hoffnung machen, meint er. Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-04T16:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-kunst-zu-verlieren-herfried-muenkler-ueber-trump-und-den-sieg-der-demokraten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/4d/ec/d1/35/4decd135-4193-4028-8e81-18a32deb3072/trump-maga-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/die_kunst_zu_verlieren_herfried_muenkler_ueber_trump_und_den_dlf_20261104_1741_a4aad650.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ed4797dd-d190-5adf-ad65-749f02a141e9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die Tigerente bleibt - Zum Tod des Schriftstellers und Zeichners Janosch",
+    "summary": "Burkhardt, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-04T16:35:41.000Z",
+    "url": "https://www.deutschlandfunk.de/die-tigerente-bleibt-zum-tod-des-schriftstellers-und-zeichners-janosch-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/die_tigerente_bleibt_zum_tod_des_schriftstellers_und_dlf_20261104_1735_b9a8f603.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:49fb8324-a038-5506-bce9-2247a33ddc32",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -140,110 +244,6 @@
     "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-11-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kulturmeldungen_02112026_dlf_20261102_1756_9157e57a.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5efa7c49-00b9-525d-98f0-bb348577df2f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kein Geld für Renovierung? Warum das Rastatter Revolutionsmuseum geschlossen ist",
-    "summary": "Fehrle, Moritz www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-02T16:52:15.000Z",
-    "url": "https://www.deutschlandfunk.de/kein-geld-fuer-renovierung-warum-das-rastatter-revolutionsmuseum-geschlossen-ist-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kein_geld_fuer_renovierung_warum_das_rastatter_dlf_20261102_1752_7056e334.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:abf1985f-0e0f-5785-8353-6200142d48ab",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gegen verbannte Bücher: Eine kalifornische Bibliothekarin geht in die Politik",
-    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-02T16:47:18.000Z",
-    "url": "https://www.deutschlandfunk.de/gegen-verbannte-buecher-eine-kalifornische-bibliothekarin-geht-in-die-politik-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/gegen_verbannte_buecher_eine_kalifornische_bibliothekarin_dlf_20261102_1747_1a5590df.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a09b3da5-01e7-5776-8c62-8a9ca476d9c0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mehr Sichtbarkeit: die Arabisch-stämmige Kulturszene in Israel nach der Wahl",
-    "summary": "Kitzler, Jan Christoph www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-02T16:42:13.000Z",
-    "url": "https://www.deutschlandfunk.de/mehr-sichtbarkeit-die-arabisch-staemmige-kulturszene-in-israel-nach-der-wahl-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/mehr_sichtbarkeit_die_arabisch_staemmige_kulturszene_in_dlf_20261102_1742_7b548299.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1b42f841-4c48-528f-ab8f-255f8ebc7a3a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 01.11.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/kulturmeldungen_01112026_dlf_20261101_1756_92392882.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
     "tags": [
       "kultur",
