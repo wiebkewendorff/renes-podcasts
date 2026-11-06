@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:0673180a-5ee0-5bdb-8b1f-7a055335781f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 05.11.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-05T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/kulturmeldungen_05112026_dlf_20261105_1756_94ca1d42.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ced3e036-1f09-50b5-8a6a-08ac057fdfd4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Diener der Kunst - Zum Tod des schwedischen Dirigenten Herbert Blomstedt",
+    "summary": "Drost, Mascha www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-05T16:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/diener-der-kunst-zum-tod-des-schwedischen-dirigenten-herbert-blomstedt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/diener_der_kunst_zum_tod_des_schwedischen_dirigenten_herbert_dlf_20261105_1750_86c8f1f8.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3851dc6c-4df0-5cbb-bf12-00de03fc4418",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kinder an die Macht - S. Peters über Kinderpartizipation in Kunst und Politik",
+    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-05T16:42:21.000Z",
+    "url": "https://www.deutschlandfunk.de/kinder-an-die-macht-s-peters-ueber-kinderpartizipation-in-kunst-und-politik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/kinder_an_die_macht_s_peters_ueber_kinderpartizipation_in_dlf_20261105_1742_87c7adcd.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0eb14001-d007-5469-8a41-abd633b7657e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Minotaurus\" - Andrey Zvyagintsevs neuer Film kommt ins Kino",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-05T16:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/minotaurus-andrey-zvyagintsevs-neuer-film-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/minotaurus_andrey_zvyagintsevs_neuer_film_kommt_ins_kino_dlf_20261105_1735_22c6a5a4.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:796d9fea-88b7-5c76-a2aa-047097ab65cf",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/quo_vadis_kennedy_center_trumps_kulturpolitik_und_die_dlf_20261103_1751_c173d3b9.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a0687dc1-aa68-533a-902c-84c5d05b0c21",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Philosophin Judith Simon über KI und digitale Souveränität",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/philosophin-judith-simon-ueber-ki-und-digitale-souveraenitaet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/philosophin_judith_simon_ueber_ki_und_digitale_dlf_20261103_1746_0471837d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c61c71f1-891a-5a2d-8154-bdbb17085f76",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mater\" - Der spanische Künstler Gonzalo Borondo in der Villa Stuck in München",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/mater-der-spanische-kuenstler-gonzalo-borondo-in-der-villa-stuck-in-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/mater_der_spanische_kuenstler_gonzalo_borondo_in_der_villa_dlf_20261103_1741_b66fe203.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e0b7a745-724b-5021-97ff-c6966b7e44ed",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der unbekannte Bekannte - Prix Goncourt 2026 an Philippe Jaenada vergeben",
-    "summary": "Ritte, Jürgen www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-unbekannte-bekannte-prix-goncourt-2026-an-philippe-jaenada-vergeben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/der_unbekannte_bekannte_prix_goncourt_2026_an_philippe_dlf_20261103_1736_ad6dfe60.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a2e2c214-28c6-5aa0-8257-2845c73220c9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 02.11.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-02T16:56:34.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kulturmeldungen_02112026_dlf_20261102_1756_9157e57a.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",
