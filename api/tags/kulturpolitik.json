@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:882582a1-b5f8-5200-9f9a-f562471a22bb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 06.11.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/kulturmeldungen_06112026_dlf_20261106_1756_21e55495.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e3700754-6861-5683-9f7d-48cfe369f760",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bremer Kunsthalle widmet sich dem Dackel",
+    "summary": "Budde, Vanja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/bremer-kunsthalle-widmet-sich-dem-dackel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/bremer_kunsthalle_widmet_sich_dem_dackel_dlf_20261106_1752_82eaaab9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9538fbd8-f495-5dc4-a7a4-f2122c8f887a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "50 Jahre Gegenwart - Die Duisburger Filmwoche im Jubiläumsjahr",
+    "summary": "Dell, Matthias www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/50-jahre-gegenwart-die-duisburger-filmwoche-im-jubilaeumsjahr-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/50_jahre_gegenwart_die_duisburger_filmwoche_im_dlf_20261106_1746_77ea0592.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6e180328-f8de-50f8-b735-10cf890cff28",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Hamlet\" - Ersan Mondtag inszeniert Shakespeares Klassiker am Berliner Ensemble",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/hamlet-ersan-mondtag-inszeniert-shakespeares-klassiker-am-berliner-ensemble-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/hamlet_ersan_mondtag_inszeniert_shakespeares_klassiker_am_dlf_20261106_1741_a6e78403.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:33d71094-55ee-5366-89d8-fef6abd58c8a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Down the Road\" - Doppelabend Forsythe - Baldy der Frankfurt Dance Company",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/down-the-road-doppelabend-forsythe-baldy-der-frankfurt-dance-company-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/down_the_road_doppelabend_forsythe_baldy_der_frankfurt_dance_dlf_20261106_1736_46e6d4db.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:0673180a-5ee0-5bdb-8b1f-7a055335781f",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/kulturmeldungen_04112026_dlf_20261104_1756_72ad19a9.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:7ccbc8da-4660-5d51-94cd-f2bef0074acd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"We'll see\" - Richard Nelson's Apple Family begleitet die Midterm-Wahlen",
-    "summary": "Robertz, Andreas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-04T16:51:10.000Z",
-    "url": "https://www.deutschlandfunk.de/we-ll-see-richard-nelson-s-apple-family-begleitet-die-midterm-wahlen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/well_see_richard_nelsons_apple_family_begleitet_die_midterm_dlf_20261104_1751_d7abd073.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3217eaa6-2964-557a-9a79-7450b76e100b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "MAGA-Niederlage – „Rückschlag für die Rechtspopulisten in Europa“",
-    "summary": "„Make America Great Again“: Mit diesem Slogan gewann Donald Trump Wahlen. Doch die Lage in den USA löst dieses Versprechen nicht ein, sagt Politikwissenschaftler Herfried Münkler. Trumps Niederlage könnte auch in Europa Hoffnung machen, meint er. Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-04T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-kunst-zu-verlieren-herfried-muenkler-ueber-trump-und-den-sieg-der-demokraten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/4d/ec/d1/35/4decd135-4193-4028-8e81-18a32deb3072/trump-maga-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/die_kunst_zu_verlieren_herfried_muenkler_ueber_trump_und_den_dlf_20261104_1741_a4aad650.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ed4797dd-d190-5adf-ad65-749f02a141e9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Tigerente bleibt - Zum Tod des Schriftstellers und Zeichners Janosch",
-    "summary": "Burkhardt, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-04T16:35:41.000Z",
-    "url": "https://www.deutschlandfunk.de/die-tigerente-bleibt-zum-tod-des-schriftstellers-und-zeichners-janosch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/die_tigerente_bleibt_zum_tod_des_schriftstellers_und_dlf_20261104_1735_b9a8f603.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:49fb8324-a038-5506-bce9-2247a33ddc32",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 03.11.2026",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/kulturmeldungen_03112026_dlf_20261103_1756_9f76761b.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4711cf65-d379-57af-b207-4d2a9f96c17f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Quo vadis Kennedy Center? Trumps Kulturpolitik und die Musikszene",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/quo-vadis-kennedy-center-trumps-kulturpolitik-und-die-musikszene-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/quo_vadis_kennedy_center_trumps_kulturpolitik_und_die_dlf_20261103_1751_c173d3b9.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "theater",

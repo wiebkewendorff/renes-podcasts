@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:b2e01f08-c7d9-5903-a682-e51d85b038b9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "ARD-Comedy-Serie \"Die Friesenjunkies\" - Sucht, Sylt und die Belton-Brüder",
+    "summary": "Brinkmann, Sören; Belton, Emin und Oskar www.deutschlandfunk.de, Corso",
+    "date": "2026-11-06T14:20:09.000Z",
+    "url": "https://www.deutschlandfunk.de/ard-comedy-serie-die-friesenjunkies-sucht-sylt-und-die-belton-brueder-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/ard_comedy_serie_die_friesenjunkies_sucht_sylt_und_die_dlf_20261106_1520_3a6948a2.mp3?refId=corso-104",
+    "duration": "15 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7a2519e2-57c7-50af-a193-0e43d20e0961",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Reif für die Therapie!\" - Deutscher Karikaturenpreis wird am Sonntag verliehen",
+    "summary": "Ufer, Peter; Brinkmann, Sören www.deutschlandfunk.de, Corso",
+    "date": "2026-11-06T14:15:04.000Z",
+    "url": "https://www.deutschlandfunk.de/reif-fuer-die-therapie-deutscher-karikaturenpreis-wird-am-sonntag-verliehen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/reif_fuer_die_therapie_deutscher_karikaturenpreis_wird_am_dlf_20261106_1515_2d61b827.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:93ab0d2b-17f9-55a9-bef3-693aae056f1a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Truman Show\" in echt - Wirbel um dänisches TV-Format \"Alle lieben Rasmus\"",
+    "summary": "Bartram, Arne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-06T14:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/truman-show-in-echt-wirbel-um-daenisches-tv-format-alle-lieben-rasmus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/truman_show_in_echt_wirbel_um_daenisches_tv_format_alle_dlf_20261106_1510_4c5fd62c.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:40d44d89-368e-5d77-855f-399d253d9557",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/neues_game_penguin_colony_hp_lovecraft_auf_antifaschistisch_dlf_20261103_1525_cde6c3f9.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:81f72102-d8eb-577b-a541-99b4be325507",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bildgewaltiges Epos per Handarbeit - der Stop-Motion-Film \"Wildwood\"",
-    "summary": "Wollner, Anna www.deutschlandfunk.de, Corso",
-    "date": "2026-11-03T14:15:43.000Z",
-    "url": "https://www.deutschlandfunk.de/bildgewaltiges-epos-per-handarbeit-der-stop-motion-film-wildwood-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/bildgewaltiges_epos_per_handarbeit_der_stop_motion_film_dlf_20261103_1515_b4e54cca.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:41047e7d-d41d-5489-84db-02c5527176ca",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Wahl: Wie die Demokraten Influencer umgarnen",
-    "summary": "Wiedlack, Katharina; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-11-03T14:09:22.000Z",
-    "url": "https://www.deutschlandfunk.de/us-wahl-wie-die-demokraten-influencer-umgarnen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/us_wahl_wie_die_demokraten_influencer_umgarnen_dlf_20261103_1509_a6f2ef98.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:08afb508-76b6-5dee-8e56-2a7cb1a2d562",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fatih Akins \"Geister\" als Graphic Novel: Vom Drehbuch zum Comic",
-    "summary": "Davies, Bea; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-11-02T14:20:55.000Z",
-    "url": "https://www.deutschlandfunk.de/fatih-akins-geister-als-graphic-novel-vom-drehbuch-zum-comic-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/fatih_akins_geister_als_graphic_novel_vom_drehbuch_zum_comic_dlf_20261102_1520_a9d3cf93.mp3?refId=corso-104",
-    "duration": "9 Min",
     "tags": [
       "kultur",
       "pop",
