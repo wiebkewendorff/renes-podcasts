@@ -1,5 +1,236 @@
 [
   {
+    "id": "dlf-kultur-heute:cea3409a-876c-57be-a2c6-d8ae0cd245da",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 07.11.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-07T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/kulturmeldungen_07112026_dlf_20261107_1756_07099804.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c5000fed-8b52-5b42-bb80-b671e9041aed",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Preisgekrönter chilenischer Filmregisseur - Zum Tod von Sebastián Lelio",
+    "summary": "Schumann, Peter B. www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-07T16:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/preisgekroenter-chilenischer-filmregisseur-zum-tod-von-sebasti-n-lelio-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/preisgekroenter_chilenischer_filmregisseur_zum_tod_von_dlf_20261107_1752_c310bfaa.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d1e882c9-19fe-5014-bf53-0df96a342f4b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Monet, Morisot, Renoir und ihr Netzwerk - Die Impressionisten in Potsdam",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-07T16:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/monet-morisot-renoir-und-ihr-netzwerk-die-impressionisten-in-potsdam-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/monet_morisot_renoir_und_ihr_netzwerk_die_impressionisten_in_dlf_20261107_1747_9e100737.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:701d3086-6277-5a3e-9d93-dabe775ae7b9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wolf Biermann trifft Angela Merkel: Das \"Festival des kritischen Geistes\" Berlin",
+    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-07T16:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wolf-biermann-trifft-angela-merkel-das-festival-des-kritischen-geistes-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/wolf_biermann_trifft_angela_merkel_das_festival_des_dlf_20261107_1742_2f0f470b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9b49409b-acd5-53e9-a8db-91ec8732538f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wer war \"Rosa L.\"? - Uraufführung am Deutschen Theater Berlin",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-07T16:37:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wer-war-rosa-l-urauffuehrung-am-deutschen-theater-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/wer_war_rosa_l_urauffuehrung_am_deutschen_theater_berlin_dlf_20261107_1737_840dd5e1.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:144b55d4-b039-5dd2-92e2-61a34be0aa77",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Die \"Gegen-Buchmesse\" rechter Verlage - \"Seitenwechsel\" in Halle",
+    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-07T16:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-gegen-buchmesse-rechter-verlage-seitenwechsel-in-halle-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/die_gegen_buchmesse_rechter_verlage_seitenwechsel_in_halle_dlf_20261107_1731_750d11c2.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:9b79d77b-4286-53d2-a55e-1b85dfe73758",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kühl, kein Gefühl - Lars Schneider im Corsogespräch über die Eiszeit des Pop",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-07T14:38:48.000Z",
+    "url": "https://www.deutschlandfunk.de/kuehl-kein-gefuehl-lars-schneider-im-corsogespraech-ueber-die-eiszeit-des-pop-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/kuehl_kein_gefuehl_lars_schneider_im_corsogespraech_ueber_dlf_20261107_1538_e3a10afc.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7beb6600-b970-5839-91b3-91ab695f40f6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vereint im Taubenland - Django Django mit neuem Album \"Doveland\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-07T14:27:16.000Z",
+    "url": "https://www.deutschlandfunk.de/vereint-im-taubenland-django-django-mit-neuem-album-doveland-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/vereint_im_taubenland_django_django_mit_neuem_album_doveland_dlf_20261107_1527_13a4c7a6.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e39fd2b7-1d36-5e55-a608-9dfd321c6220",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bärige Balladen aus Belfast - Ciarán und sein Album \"Róisín\"",
+    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
+    "date": "2026-11-07T14:10:14.000Z",
+    "url": "https://www.deutschlandfunk.de/baerige-balladen-aus-belfast-ciar-n-und-sein-album-r-is-n-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/ein_eigener_emanzipierter_sound_ciaran_und_sein_album_roisin_dlf_20261107_1510_b8a3c77e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:882582a1-b5f8-5200-9f9a-f562471a22bb",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -104,32 +335,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:33d71094-55ee-5366-89d8-fef6abd58c8a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Down the Road\" - Doppelabend Forsythe - Baldy der Frankfurt Dance Company",
-    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-06T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/down-the-road-doppelabend-forsythe-baldy-der-frankfurt-dance-company-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/down_the_road_doppelabend_forsythe_baldy_der_frankfurt_dance_dlf_20261106_1736_46e6d4db.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:b2e01f08-c7d9-5903-a682-e51d85b038b9",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -196,110 +401,6 @@
       "pop",
       "kunst",
       "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0673180a-5ee0-5bdb-8b1f-7a055335781f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 05.11.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-05T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/kulturmeldungen_05112026_dlf_20261105_1756_94ca1d42.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ced3e036-1f09-50b5-8a6a-08ac057fdfd4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Diener der Kunst - Zum Tod des schwedischen Dirigenten Herbert Blomstedt",
-    "summary": "Drost, Mascha www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-05T16:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/diener-der-kunst-zum-tod-des-schwedischen-dirigenten-herbert-blomstedt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/diener_der_kunst_zum_tod_des_schwedischen_dirigenten_herbert_dlf_20261105_1750_86c8f1f8.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3851dc6c-4df0-5cbb-bf12-00de03fc4418",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kinder an die Macht - S. Peters über Kinderpartizipation in Kunst und Politik",
-    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-05T16:42:21.000Z",
-    "url": "https://www.deutschlandfunk.de/kinder-an-die-macht-s-peters-ueber-kinderpartizipation-in-kunst-und-politik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/kinder_an_die_macht_s_peters_ueber_kinderpartizipation_in_dlf_20261105_1742_87c7adcd.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0eb14001-d007-5469-8a41-abd633b7657e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Minotaurus\" - Andrey Zvyagintsevs neuer Film kommt ins Kino",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-05T16:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/minotaurus-andrey-zvyagintsevs-neuer-film-kommt-ins-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/minotaurus_andrey_zvyagintsevs_neuer_film_kommt_ins_kino_dlf_20261105_1735_22c6a5a4.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
@@ -411,32 +512,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:796d9fea-88b7-5c76-a2aa-047097ab65cf",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 04.11.2026",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-04T16:56:20.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-04-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/kulturmeldungen_04112026_dlf_20261104_1756_72ad19a9.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:5ea20ef0-11c1-5759-8472-0489fb52aaae",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -448,81 +523,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/moralischer_verfall_in_russland_regisseur_andrey_zvyagintsev_dlf_20261104_1520_fc1e3ad0.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:231b146c-efb0-5ef2-9921-054cc13331a0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schlechte Laune, gute Pointen? Fran Lebowitz trifft in Hamburg auf Jan Böhmerman",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-11-04T14:05:49.000Z",
-    "url": "https://www.deutschlandfunk.de/schlechte-laune-gute-pointen-fran-lebowitz-trifft-in-hamburg-auf-jan-boehmerman-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/schlechte_laune_gute_pointen_fran_lebowitz_trifft_in_hamburg_dlf_20261104_1505_b20e684b.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:3d2c8097-976c-56ac-9d8f-5f526d262440",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zum Tod von Janosch: Der Vater der Tigerente",
-    "summary": "Der kleine Tiger, der kleine Bär und die Tigerente: Horst Eckert alias Janosch hat die bekanntesten Kinderbuchfiguren Deutschlands geschaffen. Jetzt ist er im Alter von 95 Jahren auf Teneriffa gestorben. Von Sören Brinkmann",
-    "date": "2026-11-04T11:08:00.000Z",
-    "url": "https://www.deutschlandfunkkultur.de/janosch-autor-tigerente-gestorben-nachruf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/c6/fd/3a/d4/c6fd3ad4-094d-4d37-901b-46c8f70929c6/janosch-tod-in-farbe-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/diese_scheiss_tigerente_zum_tod_von_janosch_dlf_20261104_1506_4f159dcf.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f0e26776-ce08-51e1-87ad-fd0a15cb0185",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neues Game \"Penguin Colony\" - H.P. Lovecraft auf antifaschistisch",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-03T14:25:24.000Z",
-    "url": "https://www.deutschlandfunk.de/neues-game-penguin-colony-h-p-lovecraft-auf-antifaschistisch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/neues_game_penguin_colony_hp_lovecraft_auf_antifaschistisch_dlf_20261103_1525_cde6c3f9.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
