@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:120cadcf-a195-5a99-a3fa-c340a3734bef",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 08.11.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:56:07.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/kulturmeldungen_08112026_dlf_20261108_1756_252e0185.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:75233a00-73c8-578a-ad7e-e90f12b1e499",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "DHI in London wird 50 - Historische Perspektiven von der Insel",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:51:12.000Z",
+    "url": "https://www.deutschlandfunk.de/dhi-in-london-wird-50-historische-perspektiven-von-der-insel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/dhi_in_london_wird_50_historische_perspektiven_von_der_insel_dlf_20261108_1751_fe2d0e3f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:88500663-0d10-55ce-8786-e88e174c7aaa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Weil der Frieden Zucker ist\" - Uraufführung im Schauspielhaus Hamburg",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/weil-der-frieden-zucker-ist-urauffuehrung-im-schauspielhaus-hamburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/weil_der_frieden_zucker_ist_urauffuehrung_im_schauspielhaus_dlf_20261108_1746_a82c130d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:70a771c1-29a6-500b-ae5d-6adb249f121e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Getanzte Ohnmacht. Davina Wölfle-Obitz über Tanz und Macht",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:40:50.000Z",
+    "url": "https://www.deutschlandfunk.de/getanzte-ohnmacht-davina-woelfle-obitz-ueber-tanz-und-macht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/getanzte_ohnmacht_davina_woelfle_obitz_ueber_tanz_und_macht_dlf_20261108_1740_722b2ae5.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a9f5e1f2-3a1a-5fa2-ad61-442ae3065eb7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Fadenkreuze für das Leben\" - Herlinde Koelbls fotografischer Umgang mit Krebs",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:35:40.000Z",
+    "url": "https://www.deutschlandfunk.de/fadenkreuze-fuer-das-leben-herlinde-koelbls-fotografischer-umgang-mit-krebs-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/fadenkreuze_fuer_das_leben_herlinde_koelbls_fotografischer_dlf_20261108_1735_d82a2186.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:872f0808-fa53-5807-9243-01d6a0d44eb7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schillerrede - Helga Schubert spricht in Marbach",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:30:15.000Z",
+    "url": "https://www.deutschlandfunk.de/schillerrede-helga-schubert-spricht-in-marbach-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/schillerrede_helga_schubert_spricht_in_marbach_dlf_20261108_1730_1528da45.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:cea3409a-876c-57be-a2c6-d8ae0cd245da",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -104,58 +260,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:9b49409b-acd5-53e9-a8db-91ec8732538f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wer war \"Rosa L.\"? - Uraufführung am Deutschen Theater Berlin",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-07T16:37:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wer-war-rosa-l-urauffuehrung-am-deutschen-theater-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/wer_war_rosa_l_urauffuehrung_am_deutschen_theater_berlin_dlf_20261107_1737_840dd5e1.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:144b55d4-b039-5dd2-92e2-61a34be0aa77",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die \"Gegen-Buchmesse\" rechter Verlage - \"Seitenwechsel\" in Halle",
-    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-07T16:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-gegen-buchmesse-rechter-verlage-seitenwechsel-in-halle-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/die_gegen_buchmesse_rechter_verlage_seitenwechsel_in_halle_dlf_20261107_1731_750d11c2.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:9b79d77b-4286-53d2-a55e-1b85dfe73758",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -210,7 +314,7 @@
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Bärige Balladen aus Belfast - Ciarán und sein Album \"Róisín\"",
+    "title": "Ein eigener emanzipierter Sound - Ciarán und sein Album \"Róisín\"",
     "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
     "date": "2026-11-07T14:10:14.000Z",
     "url": "https://www.deutschlandfunk.de/baerige-balladen-aus-belfast-ciar-n-und-sein-album-r-is-n-100.html",
@@ -222,110 +326,6 @@
       "pop",
       "kunst",
       "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:882582a1-b5f8-5200-9f9a-f562471a22bb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 06.11.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-06T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/kulturmeldungen_06112026_dlf_20261106_1756_21e55495.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e3700754-6861-5683-9f7d-48cfe369f760",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bremer Kunsthalle widmet sich dem Dackel",
-    "summary": "Budde, Vanja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-06T16:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/bremer-kunsthalle-widmet-sich-dem-dackel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/bremer_kunsthalle_widmet_sich_dem_dackel_dlf_20261106_1752_82eaaab9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9538fbd8-f495-5dc4-a7a4-f2122c8f887a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "50 Jahre Gegenwart - Die Duisburger Filmwoche im Jubiläumsjahr",
-    "summary": "Dell, Matthias www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-06T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/50-jahre-gegenwart-die-duisburger-filmwoche-im-jubilaeumsjahr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/50_jahre_gegenwart_die_duisburger_filmwoche_im_dlf_20261106_1746_77ea0592.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6e180328-f8de-50f8-b735-10cf890cff28",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Hamlet\" - Ersan Mondtag inszeniert Shakespeares Klassiker am Berliner Ensemble",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-06T16:41:30.000Z",
-    "url": "https://www.deutschlandfunk.de/hamlet-ersan-mondtag-inszeniert-shakespeares-klassiker-am-berliner-ensemble-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/hamlet_ersan_mondtag_inszeniert_shakespeares_klassiker_am_dlf_20261106_1741_a6e78403.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
