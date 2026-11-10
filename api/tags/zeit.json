@@ -1,5 +1,32 @@
 [
   {
+    "id": "zeit-auch-das-noch:86708b5f-46e3-4b68-b8f1-44fa44e59c75",
+    "source": "zeit-auch-das-noch",
+    "sourceTitle": "Auch das noch? – DIE ZEIT",
+    "type": "rss",
+    "title": "Dieser Bürgermeister hat Strom schon mal verschenkt",
+    "summary": "<p>Das niedersächsische Dorf Bakum hat geschafft, wovon die Welt noch träumt. Es produziert grüne Energie im Übermaß und kann sogar manchmal Strom verschenken. Sein Bürgermeister Tobias Averbeck (CDU) erzählt, wie das funktioniert hat. Wo die Hindernisse lagen. Und warum die Bundespolitik ihm das Leben oft schwer macht. Er sagt: »Gebt uns den Freiraum, um vor Ort zu gestalten.«<br> </p><p><i>In jeder Folge von »Auch das noch? – Der freundliche Krisenpodcast« sprechen ZEIT-Politikredakteurin </i><a href=\"https://www.zeit.de/autoren/P/Petra_Pinzler/index.xml\" rel=\"noopener\" target=\"_blank\"><i><strong> Petra Pinzler </strong></i></a><i> und Wissenschaftsredakteur </i><a href=\"https://www.zeit.de/autoren/S/Stefan_Schmitt/index.xml\" rel=\"noopener\" target=\"_blank\"><i><strong> Stefan Schmitt </strong></i></a><i> über eine Krise der Gegenwart: Es geht um die Klimakrise, das Artensterben, die Energiekrise und Kriege. Jedes Mal hilft eine Expertin oder ein Experte dabei, zu verstehen, wie alles zusammenhängt. Nicht um zu verzweifeln, sondern weil Verstehen der erste Schritt zur Lösung ist. Und um Lösungen geht es natürlich auch.</i><br> </p><p>Shownotes:</p><ul><li>Wie der Ausbau von erneuerbaren Energien und die Nutzung von Biogaswärme organisiert werden: <a href=\"https://www.klimaschutz-niedersachsen.de/aktuelles/Energiekonzept-der-Gemeinde-Bakum-4977\" rel=\"noopener\" target=\"_blank\">Energiekonzept der Gemeinde Bakum</a>.</li><li><a href=\"https://www.gesetze-im-internet.de/enwg_2005/__42c.html\" rel=\"noopener\" target=\"_blank\">§ 42c Energiewirtschaftsgesetz</a><strong>:</strong> Dieses Gesetz regelt das Energy Sharing.</li><li>Bakums Projekt »Energy Sharing mit kommunalen Gebäuden« wurde dieser Preis verliehen: <a href=\"https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/Pressemitteilungen-Details_852096.html\" rel=\"noopener\" target=\"_blank\">KfW Award Leben 2025</a>.</li><li>Wie Bürgerinnen und Bürger sich in Bakum an lokalen Energieprojekten beteiligen können, kann man hier nachlesen: <a href=\"https://www.energie-bakum.de/\" rel=\"noopener\" target=\"_blank\">Energiegenossenschaft Bakum</a>.</li><li>Das ist der <a href=\"https://www.zeit.de/politik/2026-09/ursula-heinen-esser-energiewende-bundesregierung-krisenpodcast\" rel=\"noopener\" target=\"_blank\">Podcast mit Ursula Heinen-Esser</a>.</li></ul><p>Senden Sie Kritik und Anregungen gerne per E-Mail an <a href=\"http://mailto:krisen@zeit.de/\" rel=\"noopener\" target=\"_blank\"><strong> krisen@zeit.de </strong></a>.</p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Doku-Podcasts, Bonusfolgen und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen.</a> Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht’s zum Angebot</a><strong>.</strong></p>",
+    "date": "2026-11-10T04:50:00.000Z",
+    "url": "https://www.zeit.de/auch-das-noch-krisenpodcast",
+    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f1e25ec7-2e55-45b6-a911-ce88f7d0b73e/3000x3000/auch-das-noch.jpg?aid=rss_feed",
+    "audio": "https://zeitonline.simplecastaudio.com/6debd049-34b3-4994-96b0-039fabb2761b/episodes/45701472-5e1b-4663-bc27-f9984ed38358/audio/128/default.mp3?aid=rss_feed&awCollectionId=6debd049-34b3-4994-96b0-039fabb2761b&awEpisodeId=45701472-5e1b-4663-bc27-f9984ed38358&feed=Sdxt6Bhy",
+    "duration": "55 Min",
+    "tags": [
+      "klima",
+      "krisen",
+      "umwelt",
+      "gesellschaft",
+      "politik",
+      "zeit"
+    ],
+    "category": [
+      "Öko-Wissenschaft",
+      "Gesellschaft",
+      "Politik"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-alles-gesagt:4150edd0-9999-413a-ba75-cd755d7ec4b5",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -75,33 +102,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-auch-das-noch:f979f42a-53cd-4fcd-bb61-a76f7dd4e8a9",
-    "source": "zeit-auch-das-noch",
-    "sourceTitle": "Auch das noch? – DIE ZEIT",
-    "type": "rss",
-    "title": "»Wir brauchen keine besseren Menschen, wir brauchen bessere Radwege«",
-    "summary": "<p>Der Aktivist und Autor Ingwar Perowanowitsch fährt seit jeher gern mit dem Rad. Er ist bis nach Baku geradelt und hat sich in Utrecht, Paris und Kopenhagen angeschaut, was eine gute Rad-Metropole ausmacht. Deswegen weiß er inzwischen, was und wer Menschen daran hindert, aufs Rad umzusteigen, und wie eine bessere Verkehrspolitik gestaltet werden müsste. Und warum sie auch Fußgängern nutzen würde. Radfahren, so sagt er, sei »politisch«. Weil es die Frage aufwirft, wer in unseren Städten den öffentlichen Raum nutzen darf. Und wer nicht. Und es stelle das fossile System infrage.</p><p>In jeder Folge von »Auch das noch – der freundliche Krisenpodcast« sprechen ZEIT-Politikredakteurin <a href=\"https://www.zeit.de/autoren/P/Petra_Pinzler/index.xml\" rel=\"noopener\" target=\"_blank\">Petra Pinzler</a> und Wissenschaftsredakteur <a href=\"https://www.zeit.de/autoren/S/Stefan_Schmitt/index.xml\" rel=\"noopener\" target=\"_blank\">Stefan Schmitt</a> über eine Krise der Gegenwart: Es geht um die Klimakrise, das Artensterben, die Energiekrise und Kriege. Jedes Mal hilft eine Expertin oder ein Experte dabei, zu verstehen, wie alles zusammenhängt. Nicht um zu verzweifeln, sondern weil Verstehen der erste Schritt zur Lösung ist. Und um Lösungen geht es natürlich auch.</p><p><strong>Shownotes mit Links:</strong></p><ul><li>Dokumentarfilm »Cycling Cities« von Ingwar Perowanowitsch: <a href=\"https://www.adfc.de/neuigkeit/dokumentarfilm-cycling-cities\" rel=\"noopener\" target=\"_blank\">Informationen beim ADFC</a></li><li><a href=\"https://ingwarpero.de/\" rel=\"noopener\" target=\"_blank\">Website von Ingwar Perowanowitsch</a> mit Informationen zu Filmen, Buch und Vorträgen</li><li>Wie gewinnt man Volksentscheide? Und wie können Bäume dabei helfen? <a href=\"https://www.zeit.de/politik/2026-03/buergerentscheide-heinrich-stroessenreuter-ziviles-engagement-auch-das-noch\" rel=\"noopener\" target=\"_blank\">Das erklärt</a> Heinrich Strößenreuther, Initiator erfolgreicher Verkehrswende- und Klima-Initiativen bei ADN </li><li>Berliner Mobilitätsgesetz: <a href=\"https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/\" rel=\"noopener\" target=\"_blank\">Offizielle Seite des Landes Berlin</a></li><li>Volltext des Berliner Mobilitätsgesetzes: <a href=\"https://gesetze.berlin.de/bsbe/document/jlr-MobGBErahmen/part/X\" rel=\"noopener\" target=\"_blank\">Gesetze Berlin</a></li></ul><p><i>Senden Sie Kritik und Anregungen gerne per E-Mail an </i><a href=\"http://mailto:krisen@zeit.de/\" rel=\"noopener\" target=\"_blank\"><i>krisen@zeit.de</i></a></p>\n<p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Doku-Podcasts, Bonusfolgen und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen.</a> Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht’s zum Angebot</a><strong>.</strong></p>",
-    "date": "2026-10-27T04:55:00.000Z",
-    "url": "https://www.zeit.de/auch-das-noch-krisenpodcast",
-    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f1e25ec7-2e55-45b6-a911-ce88f7d0b73e/3000x3000/auch-das-noch.jpg?aid=rss_feed",
-    "audio": "https://zeitonline.simplecastaudio.com/6debd049-34b3-4994-96b0-039fabb2761b/episodes/5510582b-6610-47ca-af61-81f3b8e59a4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6debd049-34b3-4994-96b0-039fabb2761b&awEpisodeId=5510582b-6610-47ca-af61-81f3b8e59a4b&feed=Sdxt6Bhy",
-    "duration": "58 Min",
-    "tags": [
-      "klima",
-      "krisen",
-      "umwelt",
-      "gesellschaft",
-      "politik",
-      "zeit"
-    ],
-    "category": [
-      "Öko-Wissenschaft",
-      "Gesellschaft",
-      "Politik"
     ],
     "language": "de"
   }

@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:c1fa2e93-2e2f-515c-a6a5-a7194c5c5d8c",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "WarGame - Apollon zieht in den Krieg",
+    "summary": "Eine Gamerfreundschaft: Zusammen sind sie jahrelang im Survivor-Spiel DayZ und anderen Kriegsspielen unterwegs. Dann eröffnet Apollon seinem Freund, dass er sich freiwillig für eine Drohneneinheit in der Ukraine gemeldet hat. Im Krieg des 21. Jahrhunderts sind seine Gamer-Skills gefragt. <br><br>Sein Entschluss lässt den Autor nicht los. Bundeswehr stand für ihn nie zur Debatte. Doch die Zeiten ändern sich. Könnte er das auch, auf echte Menschen schießen? Und warum entscheidet sich sein Freund für den Krieg, obwohl er in Deutschland in Sicherheit lebt?<br><br>+++++<br><br><strong>Mehr zum Thema in der Deutschlandfunk-App:</strong><br> <br><ul><li><a href=\"https://www.hoerspielundfeature.de/kill-cloud-von-9-11-zum-digitalen-krieg-102.html\" rel=\"noopener\" target=\"_blank\">Kill Cloud – Von 9/11 zum Digitalen Krieg </a> </li></ul><br>+++++ <br><br>Henrik Schütz ist freier Journalist und arbeitet unter anderem für Deutschlandfunk, WDR und DIE ZEIT. Seit 2020 berichtet er vor allem über Osteuropa und beschäftigt sich mit gesellschaftlichen und politischen Entwicklungen mit Bezügen zur Popkultur.  <br> <br>Regie: Claudia Kattanek<br>Ton und Technik: Wolfgang Rixius und Thomas Widdig<br>Redaktion/Dramaturgie: Christiane Habermalz <br>Deutschlandfunk 2026 <br> <br>+++++ <br><br><strong>Unser Podcast-Tipp:</strong><br><a href=\"https://www.deutschlandfunk.de/doku-serie-100.html#abonnieren\" rel=\"noopener\" target=\"_blank\">Dlf Doku Serien</a>  <br> <br>+++++ <br><br>Wenn Euch \"Dlf Doku\" gefällt, abonniert uns und empfehlt uns weiter. Feedback gerne an hoererservice@deutschlandfunk.de</a><br><br>Noch mehr spannende Podcasts gibt‘s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-11-10T18:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/level-zero-100.html",
+    "image": "https://bilder.deutschlandfunk.de/9b/54/01/52/9b540152-6f0f-462e-b1d4-7da0ef4739d3/bild-fuer-feature-wargame-neu-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/wargame_apollon_zieht_in_den_krieg_dlf_20261110_1915_01d430a4.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:50f7e1e8-ed86-590d-a32c-c20e2e0ef61e",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/06/3e/75/8c/063e758c-e30d-49df-9c2b-e547e5018388/bild-fuer-das-salz-der-anden-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/22/unter_dem_salz_der_anden_die_kehrseite_der_energiewende_dlf_20260922_1915_d37f7b43.mp3?refId=das-feature-104",
     "duration": "48 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:2c700129-b696-58af-b60a-45f9c5fa9884",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zwischen den Sirenen – Die vielen Gesichter des ukrainischen Widerstands",
-    "summary": "Viele Ukrainer verteidigen ihr Land nicht nur mit Cyberattacken und Waffen. Sie schreiben, malen, musizieren und beraten auch. Denn die Kultur des Landes muss sichtbar und hörbar bleiben, auch um den Menschen Mut und Hoffnung zu schenken. Von Philipp Landauer und Luca Faccio www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-09-22T05:05:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/zwischen-den-sirenen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/48/96/72/01/48967201-613f-4bab-93b8-4591c9803685/zwischen-den-sirenen-feature-bild-spielplatz-ukraine-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/zwischen_den_sirenen_die_vielen_gesichter_des_ukrainischen_dlf_20260926_1805_c8d1f1cb.mp3?refId=das-feature-104",
-    "duration": "54 Min",
     "tags": [
       "feature",
       "dokumentation",

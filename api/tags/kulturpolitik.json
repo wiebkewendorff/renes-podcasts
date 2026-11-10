@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:ed1c7818-28c5-5458-b5e8-3bcdb532bbe7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 09.11.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-09T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/kulturmeldungen_09112026_dlf_20261109_1756_8461af47.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c5399502-0ce8-5d1d-9f02-3db3ecd7a856",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Le Roi Arthus\" - eine selten gespielte Oper von Ernest Chausson in Frankfurt",
+    "summary": "Struck-Schloen, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-09T16:50:31.000Z",
+    "url": "https://www.deutschlandfunk.de/le-roi-arthus-eine-selten-gespielte-oper-von-ernest-chausson-in-frankfurt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/le_roi_arthus_eine_selten_gespielte_oper_von_ernest_chausson_dlf_20261109_1750_3f607dff.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e749540f-87a0-56ce-947e-bd90c0c06bc0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Longing for Trust - Ausstellung im Museumszentrum Quadrat Bottrop",
+    "summary": "Hammesfahr, Tina www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-09T16:45:35.000Z",
+    "url": "https://www.deutschlandfunk.de/longing-for-trust-ausstellung-im-museumszentrum-quadrat-bottrop-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/longing_for_trust_ausstellung_im_museumszentrum_quadrat_dlf_20261109_1745_ab5f32c9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:84a509c3-1ccf-5a29-87b9-517afab94b03",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Von Terror und Befreiung - Ines Geipel über den 9. November",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-09T16:35:10.000Z",
+    "url": "https://www.deutschlandfunk.de/von-terror-und-befreiung-ines-geipel-ueber-den-9-november-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/von_terror_und_befreiung_ines_geipel_ueber_den_9_november_dlf_20261109_1735_ab5e3181.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:120cadcf-a195-5a99-a3fa-c340a3734bef",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -140,110 +244,6 @@
     "url": "https://www.deutschlandfunk.de/schillerrede-helga-schubert-spricht-in-marbach-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/schillerrede_helga_schubert_spricht_in_marbach_dlf_20261108_1730_1528da45.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:cea3409a-876c-57be-a2c6-d8ae0cd245da",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 07.11.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-07T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/kulturmeldungen_07112026_dlf_20261107_1756_07099804.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c5000fed-8b52-5b42-bb80-b671e9041aed",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Preisgekrönter chilenischer Filmregisseur - Zum Tod von Sebastián Lelio",
-    "summary": "Schumann, Peter B. www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-07T16:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/preisgekroenter-chilenischer-filmregisseur-zum-tod-von-sebasti-n-lelio-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/preisgekroenter_chilenischer_filmregisseur_zum_tod_von_dlf_20261107_1752_c310bfaa.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d1e882c9-19fe-5014-bf53-0df96a342f4b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Monet, Morisot, Renoir und ihr Netzwerk - Die Impressionisten in Potsdam",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-07T16:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/monet-morisot-renoir-und-ihr-netzwerk-die-impressionisten-in-potsdam-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/monet_morisot_renoir_und_ihr_netzwerk_die_impressionisten_in_dlf_20261107_1747_9e100737.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:701d3086-6277-5a3e-9d93-dabe775ae7b9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wolf Biermann trifft Angela Merkel: Das \"Festival des kritischen Geistes\" Berlin",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-07T16:42:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wolf-biermann-trifft-angela-merkel-das-festival-des-kritischen-geistes-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/wolf_biermann_trifft_angela_merkel_das_festival_des_dlf_20261107_1742_2f0f470b.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",

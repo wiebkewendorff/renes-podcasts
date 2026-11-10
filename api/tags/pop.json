@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:a3c1b50b-1d73-58e2-850f-fa742c9ad37c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deutscher Karikaturenpreis in Dresden verliehen - Reif für die Therapie",
+    "summary": "Moritz, Alexander www.deutschlandfunk.de, Corso",
+    "date": "2026-11-09T14:10:59.000Z",
+    "url": "https://www.deutschlandfunk.de/deutscher-karikaturenpreis-in-dresden-verliehen-reif-fuer-die-therapie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/deutscher_karikaturenpreis_in_dresden_verliehen_reif_fuer_dlf_20261109_1510_64c60eab.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b3ba6b64-2e34-5fa5-b703-e00bf15580f5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zu martialisch oder nicht mehr zeitgemäß: Der Cypertruck wird nicht mehr gebaut",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-11-09T14:10:34.000Z",
+    "url": "https://www.deutschlandfunk.de/zu-martialisch-oder-nicht-mehr-zeitgemaess-der-cypertruck-wird-nicht-mehr-gebaut-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/zu_martialisch_oder_nicht_mehr_zeitgemaess_der_cypertruck_dlf_20261109_1510_99c4c83e.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:de15dbdb-b805-5968-9080-0e3333b353c7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "KI-Gespräch mit der Raumsonde: Wozu die Menschheit retten?",
+    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
+    "date": "2026-11-09T14:05:11.000Z",
+    "url": "https://www.deutschlandfunk.de/ki-gespraech-mit-der-raumsonde-wozu-die-menschheit-retten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/ki_gespraech_mit_der_raumsonde_wozu_die_menschheit_retten_dlf_20261109_1505_66c8302f.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:9b79d77b-4286-53d2-a55e-1b85dfe73758",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -160,81 +235,6 @@
     "url": "https://www.deutschlandfunk.de/neue-filme-geister-drei-kameradinnen-minotaurus-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/neue_filme_geister_drei_kameradinnen_minotaurus_dlf_20261105_1515_bf3d9adc.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bdfcb733-58d2-5eee-9554-bb2070a3396f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Liebeslieder im Pop - Gefühlsformate für die Konkurrenzgesellschaft",
-    "summary": "Wulf, Philipp; Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-11-05T14:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/liebeslieder-im-pop-gefuehlsformate-fuer-die-konkurrenzgesellschaft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/liebeslieder_im_pop_gefuehlsformate_fuer_die_dlf_20261105_1510_473ca681.mp3?refId=corso-104",
-    "duration": "14 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b9641866-4b9b-55fc-a22e-007a81b6e2ac",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Remake des Erfolgs-Games \"Ocarina of Time\" - Spiel mir die Hymne der Zeit",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-05T14:08:31.000Z",
-    "url": "https://www.deutschlandfunk.de/remake-des-erfolgs-games-ocarina-of-time-spiel-mir-die-hymne-der-zeit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/remake_des_erfolgs_games_ocarina_of_time_spiel_mir_die_hymne_dlf_20261105_1508_273b5744.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5ea20ef0-11c1-5759-8472-0489fb52aaae",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Moralischer Verfall in Russland: Regisseur Andrey Zvyagintsev über \"Minotaurus\"",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-11-04T14:20:40.000Z",
-    "url": "https://www.deutschlandfunk.de/moralischer-verfall-in-russland-regisseur-andrey-zvyagintsev-ueber-minotaurus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/moralischer_verfall_in_russland_regisseur_andrey_zvyagintsev_dlf_20261104_1520_fc1e3ad0.mp3?refId=corso-104",
     "duration": "6 Min",
     "tags": [
       "kultur",

@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:9f01a73ed1a1d1320e7507168d996008",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Zwischen Kuckucksnest-Ruhm und Hippie-Revolution: Ken Kesey",
+    "summary": "<p>Am 10.11.2001 stirbt der Schriftsteller Ken Kesey, weltberühmt durch seinen Roman \"Einer flog über das Kuckucksnest\". Er hat über Rebellion geschrieben - und sie gelebt.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Irene Geuer:</strong><br><ul><li>wie ein CIA -Drogenexperiment Keseys Blick auf die Welt verändert, </li><li>weshalb ein alter Schulbus namens \" Further \" zur Legende einer ganzen Generation wird,</li><li>wieso Kesey die Verfilmung seines größten Erfolgs kritisch sieht,</li><li>welche Rolle Kesey bei der Entstehung der Hippiebewegung spielt, </li><li>warum sein letzter Roman viele Entwicklungen der 2020er-Jahre erstaunlich präzise vorwegnimmt.</li></ul><br>Ken Kesey wächst im Amerika der 1950er-Jahre auf, einer Zeit der Konformität und gesellschaftlichen Kontrolle. Statt den vorgezeichneten Weg zu gehen, wird er Schriftsteller und stößt bei freiwilligen CIA-Drogentests auf Erfahrungen, die sein Denken nachhaltig prägen. Als Nachtwächter in einer psychiatrischen Klinik beobachtet er Mechanismen von Macht und Ausgrenzung, die zum Stoff seines berühmtesten Romans werden.<br><br>Mit \"Einer flog über das Kuckucksnest\" wird er weltweit bekannt. Später zieht er mit den \" Merry Pranksters \", einer nonkonformistischen Künstlergruppe, in einem kunterbunt bemalten Bus durch die USA und wird zu einer Symbolfigur für Freiheit, Experimentierfreude und gesellschaftliche Kritik. In seinem letzten Roman beschäftigt er sich erneut mit Freiheit, gesellschaftlichen Umbrüchen und den Folgen politischer und ökologischer Krisen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Norbert Finzsch, Amerikahistoriker</li><li>Milena Adam, Literaturübersetzerin</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag 17.09.1935: <a href=\"https://www1.wdr.de/stichtag/stichtag-ken-kesey-100.html\" rel=\"noopener\" target=\"_blank\">Geburtstag des Schriftstellers Ken Kesey</a></li><li>Oregon Encyclopedia: <a href=\"https://www.oregonencyclopedia.org/articles/kesey_ken/\" rel=\"noopener\" target=\"_blank\">Ken Kesey</a></li><li>Zeitzeichen 07.08.1965: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-hippie-bewegung-106.html\" rel=\"noopener\" target=\"_blank\">Hippies kommen in La Honda zusammen</a></li><li>Rockpalast: <a href=\"https://www1.wdr.de/fernsehen/rockpalast/dokumentationen/woodstock/woodstock-hippies-100.html\" rel=\"noopener\" target=\"_blank\">Liebe, Frieden, Harmonie: die Hippie-Ära</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Irene Geuer<br>Redaktion: Christoph Tiegel, Frank Zirpins<br>Technik: Jürgen Beiner",
+    "date": "2026-11-10T05:00:10.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-zwischen-kuckucksnest-ruhm-und-hippie-revolution-ken-kesey-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-ken-kesey-104~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/04/37c8a900-5315-479e-9417-e935f74e4c23/37c8a900-5315-479e-9417-e935f74e4c23_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:3f98431ca845f32a65c997389269d5c5",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -222,29 +245,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-oesterreich-urkunde-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/02/6388251e-0df7-4645-be18-520b26539f88/6388251e-0df7-4645-be18-520b26539f88_MP3-128.mp3",
     "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:31832a457721384391d0d1115e1aebd2",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Babys gegen ein Vermögen: Das große Storchenrennen von Toronto",
-    "summary": "<p>Der Mutter mit den meisten Kindern will Anwalt Charles Millar (gest. 31.10.1926) sein Vermögen vererben. Er löst ein skurriles Geburtenrennen aus - das bitter endet.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Kolja Sand:</strong><br><ul><li>wie Charles Millars Testament den wohl ungewöhnlichsten Erbstreit Kanadas auslöst,</li><li>weshalb das \"Stork Derby\" während der Weltwirtschaftskrise plötzlich Aufmerksamkeit erhält,</li><li>wie Zeitungen das Leben armer Familien wie ein Sportereignis begleiten,</li><li>wie Gerichte darüber streiten, welche Kinder überhaupt gezählt werden dürfen,</li><li>was das \"Stork Derby\" über Vorurteile, Armut und soziale Ausgrenzung in den 1930er-Jahren verrät.</li></ul><br>Als der wohlhabende kanadische Anwalt Charles Millar 1926 stirbt, hinterlässt er ein Testament voller Provokationen. Die größte Überraschung steht allerdings in einer kurzen Klausel: Zehn Jahre nach seinem Tod soll sein Vermögen an die Mutter gehen, die in Toronto die meisten Kinder zur Welt gebracht hat.<br><br>Zunächst nimmt kaum jemand die Bestimmung ernst. Doch in der Weltwirtschaftskrise wird das mögliche Erbe für viele Menschen zum Hoffnungsschimmer. Zeitungen berichten über Schwangerschaften, Geburten und Rückschläge der Kandidatinnen. Hinter der kuriosen Geschichte verbergen sich die sozialen Spannungen jener Zeit. Das zeigt sich besonders, als die Gerichte über die Gewinnerinnen entscheiden.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Julian Sher (investigativer Journalist)</li><li>Mark M. Orkin: The Great Stork Derby. Don Mills, Ontario 1981</li><li>Elizabeth Marjorie Wilton: Bearing the Burden: The Great Toronto Stork Derby, 1926–1938. Halifax 1994</li><li>Mariana Valverde: Families, Private Property, and the State: The Dionnes and the Toronto Stork Derby. In: Journal of Canadian Studies 29, Nr. 4, S. 15-35. Toronto 1994/95</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/wirtschaft/boerse/boerse-schwarzer-freitag-100.html\" rel=\"noopener\" target=\"_blank\">Der Schwarze Freitag von 1929</a></li><li>ZDF: <a href=\"https://www.zdf.de/dokus/1929--der-grosse-boersencrash-100\" rel=\"noopener\" target=\"_blank\">1929 - Der große Börsencrash</a></li><li>US-Podcast \"ThisAmericanLife\": <a href=\"https://www.thisamericanlife.org/668/the-long-fuse/act-two-42\" rel=\"noopener\" target=\"_blank\">Babies Got Bank</a></li></ul><br><strong>Hörtipp:</strong><br>Im neuen Podcast \"<a href=\"https://1.ard.de/sed_zeitzeichen\" rel=\"noopener\" target=\"_blank\">Stimmt es, dass ...?</a>\" werden bekannte Erzählungen der Geschichte hinterfragt und mit Irrtümern aufgeräumt.<br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Kolja Sand<br>Redaktion: Carolin Rückl und Matti Hesse<br>Technik: Moritz Raestrup",
-    "date": "2026-10-31T05:00:40.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-babys-gegen-ein-vermoegen-das-grosse-storchenrennen-von-toronto-102.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-charles-millar-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/14/346b9a85-9671-4aba-8956-72ed0040b03c/346b9a85-9671-4aba-8956-72ed0040b03c_MP3-128.mp3",
-    "duration": "16 Min",
     "tags": [
       "geschichte",
       "bildung",
