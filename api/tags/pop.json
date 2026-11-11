@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:771b2042-10ca-50c1-9e2c-2fb525243e14",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Queere Fotos in Monschau - Warum GenZ den Künstler Jürgen Klauke wiederentdeckt",
+    "summary": "Backof, Peter www.deutschlandfunk.de, Corso",
+    "date": "2026-11-10T14:20:53.000Z",
+    "url": "https://www.deutschlandfunk.de/queere-fotos-in-monschau-warum-genz-den-kuenstler-juergen-klauke-wiederentdeckt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/queere_fotos_in_monschau_warum_genz_den_kuenstler_juergen_dlf_20261110_1520_4eeffaed.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:cd389bf2-9abe-5180-86bb-1f8be1011afe",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Nein\" - Russell Brand zu mehr als 10 Jahren Haft verurteilt",
+    "summary": "Röhling, Lisa-Maria www.deutschlandfunk.de, Corso",
+    "date": "2026-11-10T14:05:58.000Z",
+    "url": "https://www.deutschlandfunk.de/nein-russell-brand-zu-mehr-als-10-jahren-haft-verurteilt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/nein_russell_brand_zu_mehr_als_10_jahren_haft_verurteilt_dlf_20261110_1505_1ceb8d38.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:10192c9d-7fa7-5d0d-9b7a-e6a0edf28905",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Corsopodcast: Fit im Museum - Ausstellung im Kunstpalast in Düsseldorf",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-10T14:05:01.000Z",
+    "url": "https://www.deutschlandfunk.de/corsopodcast-fit-im-museum-ausstellung-im-kunstpalast-in-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/corsopodcast_fit_im_museum_ausstellung_im_kunstpalast_in_dlf_20261110_1505_3c58a5e2.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:a3c1b50b-1d73-58e2-850f-fa742c9ad37c",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/ard_comedy_serie_die_friesenjunkies_sucht_sylt_und_die_dlf_20261106_1520_3a6948a2.mp3?refId=corso-104",
     "duration": "15 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7a2519e2-57c7-50af-a193-0e43d20e0961",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Reif für die Therapie!\" - Deutscher Karikaturenpreis wird am Sonntag verliehen",
-    "summary": "Ufer, Peter; Brinkmann, Sören www.deutschlandfunk.de, Corso",
-    "date": "2026-11-06T14:15:04.000Z",
-    "url": "https://www.deutschlandfunk.de/reif-fuer-die-therapie-deutscher-karikaturenpreis-wird-am-sonntag-verliehen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/reif_fuer_die_therapie_deutscher_karikaturenpreis_wird_am_dlf_20261106_1515_2d61b827.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:93ab0d2b-17f9-55a9-bef3-693aae056f1a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Truman Show\" in echt - Wirbel um dänisches TV-Format \"Alle lieben Rasmus\"",
-    "summary": "Bartram, Arne www.deutschlandfunk.de, Corso",
-    "date": "2026-11-06T14:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/truman-show-in-echt-wirbel-um-daenisches-tv-format-alle-lieben-rasmus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/truman_show_in_echt_wirbel_um_daenisches_tv_format_alle_dlf_20261106_1510_4c5fd62c.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:40d44d89-368e-5d77-855f-399d253d9557",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme - \"Geister\", \"Drei Kameradinnen\", \"Minotaurus\"",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-11-05T14:15:31.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-geister-drei-kameradinnen-minotaurus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/neue_filme_geister_drei_kameradinnen_minotaurus_dlf_20261105_1515_bf3d9adc.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",

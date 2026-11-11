@@ -1,5 +1,210 @@
 [
   {
+    "id": "dlf-kultur-heute:50ea2d4b-3196-5fbf-91c8-655cde22c6f3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 10.11.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-10T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/kulturmeldungen_10112026_dlf_20261110_1756_cf7e3206.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:63a3c7d4-8bdb-5f08-9c85-20a5a4e23619",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zukunft der Erinnerung - Podiumsdiskussion am Deutschen Nationaltheater Weimar",
+    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-10T16:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zukunft-der-erinnerung-podiumsdiskussion-am-deutschen-nationaltheater-weimar-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/zukunft_der_erinnerung_podiumsdiskussion_am_deutschen_dlf_20261110_1751_037bc19e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:26316e8a-169b-56bd-a7aa-6d543581d5a9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Revolution der Skulptur\" - Wien feiert den verstorbenen Künstler Franz West",
+    "summary": "Scheucher, Christine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-10T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/die-revolution-der-skulptur-wien-feiert-den-verstorbenen-kuenstler-franz-west-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/die_revolution_der_skulptur_wien_feiert_den_verstorbenen_dlf_20261110_1746_7e7a1e3e.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4c33a052-90cd-5820-9eee-1848502790e7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Booker-Preis 2026 zum ersten Mal für Science-Fiction",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-10T16:40:00.000Z",
+    "url": "https://www.deutschlandfunk.de/booker-preis-2026-zum-ersten-mal-fuer-science-fiction-104.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/booker_preis_2026_zum_ersten_mal_fuer_science_fiction_dlf_20261110_1740_12788dc3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6c332f4f-d561-5f89-a932-5c965a111cc2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturland Mecklenburg-Vorpommern - Zum heutigen Koalitionsvertrag",
+    "summary": "Pfeiffer, Heinrich www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-10T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturland-mecklenburg-vorpommern-zum-heutigen-koalitionsvertrag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/kulturland_mecklenburg_vorpommern_zum_heutigen_dlf_20261110_1736_1176df69.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:771b2042-10ca-50c1-9e2c-2fb525243e14",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Queere Fotos in Monschau - Warum GenZ den Künstler Jürgen Klauke wiederentdeckt",
+    "summary": "Backof, Peter www.deutschlandfunk.de, Corso",
+    "date": "2026-11-10T14:20:53.000Z",
+    "url": "https://www.deutschlandfunk.de/queere-fotos-in-monschau-warum-genz-den-kuenstler-juergen-klauke-wiederentdeckt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/queere_fotos_in_monschau_warum_genz_den_kuenstler_juergen_dlf_20261110_1520_4eeffaed.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:cd389bf2-9abe-5180-86bb-1f8be1011afe",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Nein\" - Russell Brand zu mehr als 10 Jahren Haft verurteilt",
+    "summary": "Röhling, Lisa-Maria www.deutschlandfunk.de, Corso",
+    "date": "2026-11-10T14:05:58.000Z",
+    "url": "https://www.deutschlandfunk.de/nein-russell-brand-zu-mehr-als-10-jahren-haft-verurteilt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/nein_russell_brand_zu_mehr_als_10_jahren_haft_verurteilt_dlf_20261110_1505_1ceb8d38.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:10192c9d-7fa7-5d0d-9b7a-e6a0edf28905",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Corsopodcast: Fit im Museum - Ausstellung im Kunstpalast in Düsseldorf",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-10T14:05:01.000Z",
+    "url": "https://www.deutschlandfunk.de/corsopodcast-fit-im-museum-ausstellung-im-kunstpalast-in-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/corsopodcast_fit_im_museum_ausstellung_im_kunstpalast_in_dlf_20261110_1505_3c58a5e2.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "10-minuten-wissen-kunst:6af279c243e2f445c22ab5e2",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -231,136 +436,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:75233a00-73c8-578a-ad7e-e90f12b1e499",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "DHI in London wird 50 - Historische Perspektiven von der Insel",
-    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-08T16:51:12.000Z",
-    "url": "https://www.deutschlandfunk.de/dhi-in-london-wird-50-historische-perspektiven-von-der-insel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/dhi_in_london_wird_50_historische_perspektiven_von_der_insel_dlf_20261108_1751_fe2d0e3f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:88500663-0d10-55ce-8786-e88e174c7aaa",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Weil der Frieden Zucker ist\" - Uraufführung im Schauspielhaus Hamburg",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-08T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/weil-der-frieden-zucker-ist-urauffuehrung-im-schauspielhaus-hamburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/weil_der_frieden_zucker_ist_urauffuehrung_im_schauspielhaus_dlf_20261108_1746_a82c130d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:70a771c1-29a6-500b-ae5d-6adb249f121e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Getanzte Ohnmacht. Davina Wölfle-Obitz über Tanz und Macht",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-08T16:40:50.000Z",
-    "url": "https://www.deutschlandfunk.de/getanzte-ohnmacht-davina-woelfle-obitz-ueber-tanz-und-macht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/getanzte_ohnmacht_davina_woelfle_obitz_ueber_tanz_und_macht_dlf_20261108_1740_722b2ae5.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a9f5e1f2-3a1a-5fa2-ad61-442ae3065eb7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Fadenkreuze für das Leben\" - Herlinde Koelbls fotografischer Umgang mit Krebs",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-08T16:35:40.000Z",
-    "url": "https://www.deutschlandfunk.de/fadenkreuze-fuer-das-leben-herlinde-koelbls-fotografischer-umgang-mit-krebs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/fadenkreuze_fuer_das_leben_herlinde_koelbls_fotografischer_dlf_20261108_1735_d82a2186.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:872f0808-fa53-5807-9243-01d6a0d44eb7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schillerrede - Helga Schubert spricht in Marbach",
-    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-08T16:30:15.000Z",
-    "url": "https://www.deutschlandfunk.de/schillerrede-helga-schubert-spricht-in-marbach-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/schillerrede_helga_schubert_spricht_in_marbach_dlf_20261108_1730_1528da45.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:9b79d77b-4286-53d2-a55e-1b85dfe73758",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -447,81 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/ard_comedy_serie_die_friesenjunkies_sucht_sylt_und_die_dlf_20261106_1520_3a6948a2.mp3?refId=corso-104",
     "duration": "15 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7a2519e2-57c7-50af-a193-0e43d20e0961",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Reif für die Therapie!\" - Deutscher Karikaturenpreis wird am Sonntag verliehen",
-    "summary": "Ufer, Peter; Brinkmann, Sören www.deutschlandfunk.de, Corso",
-    "date": "2026-11-06T14:15:04.000Z",
-    "url": "https://www.deutschlandfunk.de/reif-fuer-die-therapie-deutscher-karikaturenpreis-wird-am-sonntag-verliehen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/reif_fuer_die_therapie_deutscher_karikaturenpreis_wird_am_dlf_20261106_1515_2d61b827.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:93ab0d2b-17f9-55a9-bef3-693aae056f1a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Truman Show\" in echt - Wirbel um dänisches TV-Format \"Alle lieben Rasmus\"",
-    "summary": "Bartram, Arne www.deutschlandfunk.de, Corso",
-    "date": "2026-11-06T14:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/truman-show-in-echt-wirbel-um-daenisches-tv-format-alle-lieben-rasmus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/truman_show_in_echt_wirbel_um_daenisches_tv_format_alle_dlf_20261106_1510_4c5fd62c.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:40d44d89-368e-5d77-855f-399d253d9557",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme - \"Geister\", \"Drei Kameradinnen\", \"Minotaurus\"",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-11-05T14:15:31.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-geister-drei-kameradinnen-minotaurus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/neue_filme_geister_drei_kameradinnen_minotaurus_dlf_20261105_1515_bf3d9adc.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
