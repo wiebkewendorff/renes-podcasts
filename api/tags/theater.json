@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:a3404d4e-6328-56f8-80c8-8e9fd22a96e1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 11.11.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:56:03.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-11-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/kulturmeldungen_11112026_dlf_20261111_1756_61cdc3d3.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7470b475-ba98-5a40-986d-e581a57b12f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Karnevalswagenbauer Jacques Tilly über Satire und Kunstfreiheit",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:46:25.000Z",
+    "url": "https://www.deutschlandfunk.de/karnevalswagenbauer-jacques-tilly-ueber-satire-und-kunstfreiheit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/karnevalswagenbauer_jacques_tilly_ueber_satire_und_dlf_20261111_1746_e9cc9ea5.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:95bfbc37-a53b-54b5-8051-6819aa892e78",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Heimweh nach gestern\" - Historiker T. Becker zur Nostalgie als Zukunftsbegriff",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:39:34.000Z",
+    "url": "https://www.deutschlandfunk.de/heimweh-nach-gestern-historiker-t-becker-zur-nostalgie-als-zukunftsbegriff-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/heimweh_nach_gestern_historiker_t_becker_zur_nostalgie_als_dlf_20261111_1739_4eca8b4a.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e9500481-6b50-5b96-9f78-124a683c5647",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nostalgie oder gefährliche Symbolik? Die Simson und der Rechtsextremismus",
+    "summary": "Seibel, Patric www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:35:15.000Z",
+    "url": "https://www.deutschlandfunk.de/nostalgie-oder-gefaehrliche-symbolik-die-simson-und-der-rechtsextremismus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/nostalgie_oder_gefaehrliche_symbolik_die_simson_und_der_dlf_20261111_1735_88c9870c.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:50ea2d4b-3196-5fbf-91c8-655cde22c6f3",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -140,110 +244,6 @@
     "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-11-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/kulturmeldungen_09112026_dlf_20261109_1756_8461af47.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c5399502-0ce8-5d1d-9f02-3db3ecd7a856",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Le Roi Arthus\" - eine selten gespielte Oper von Ernest Chausson in Frankfurt",
-    "summary": "Struck-Schloen, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-09T16:50:31.000Z",
-    "url": "https://www.deutschlandfunk.de/le-roi-arthus-eine-selten-gespielte-oper-von-ernest-chausson-in-frankfurt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/le_roi_arthus_eine_selten_gespielte_oper_von_ernest_chausson_dlf_20261109_1750_3f607dff.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e749540f-87a0-56ce-947e-bd90c0c06bc0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Longing for Trust - Ausstellung im Museumszentrum Quadrat Bottrop",
-    "summary": "Hammesfahr, Tina www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-09T16:45:35.000Z",
-    "url": "https://www.deutschlandfunk.de/longing-for-trust-ausstellung-im-museumszentrum-quadrat-bottrop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/longing_for_trust_ausstellung_im_museumszentrum_quadrat_dlf_20261109_1745_ab5f32c9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:84a509c3-1ccf-5a29-87b9-517afab94b03",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von Terror und Befreiung - Ines Geipel über den 9. November",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-09T16:35:10.000Z",
-    "url": "https://www.deutschlandfunk.de/von-terror-und-befreiung-ines-geipel-ueber-den-9-november-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/von_terror_und_befreiung_ines_geipel_ueber_den_9_november_dlf_20261109_1735_ab5e3181.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:120cadcf-a195-5a99-a3fa-c340a3734bef",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 08.11.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-08T16:56:07.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/kulturmeldungen_08112026_dlf_20261108_1756_252e0185.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
     "tags": [
       "kultur",

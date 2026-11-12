@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:af059889-bfbb-5242-bc25-2eef46df374f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kritik: Autobiographie \"Look At Me\" von Dustin Hoffman",
+    "summary": "Tegeler, Hartwig www.deutschlandfunk.de, Corso",
+    "date": "2026-11-11T14:15:54.000Z",
+    "url": "https://www.deutschlandfunk.de/kritik-autobiographie-look-at-me-von-dustin-hoffman-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/kritik_autobiographie_look_at_me_von_dustin_hoffman_dlf_20261111_1515_2b048ac3.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8bb19feb-a49a-5b92-93a3-afa024080e6c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Wild Horse Nine\", \"Helene Weigel\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-11-11T14:06:33.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-wild-horse-nine-helene-weigel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/neue_filme_wild_horse_nine_helene_weigel_dlf_20261111_1506_4ff61992.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:57e635c7-4740-54e3-a608-f86f29599932",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mithu Sanyal über die Verfilmung ihres Buchs \"Identitti\"",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-11T14:05:06.000Z",
+    "url": "https://www.deutschlandfunk.de/mithu-sanyal-ueber-die-verfilmung-ihres-buchs-identitti-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/mithu_sanyal_ueber_die_verfilmung_ihres_buchs_identitti_dlf_20261111_1505_f545b12a.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:771b2042-10ca-50c1-9e2c-2fb525243e14",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/kuehl_kein_gefuehl_lars_schneider_im_corsogespraech_ueber_dlf_20261107_1538_e3a10afc.mp3?refId=corso-104",
     "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7beb6600-b970-5839-91b3-91ab695f40f6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vereint im Taubenland - Django Django mit neuem Album \"Doveland\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-07T14:27:16.000Z",
-    "url": "https://www.deutschlandfunk.de/vereint-im-taubenland-django-django-mit-neuem-album-doveland-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/vereint_im_taubenland_django_django_mit_neuem_album_doveland_dlf_20261107_1527_13a4c7a6.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e39fd2b7-1d36-5e55-a608-9dfd321c6220",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ein eigener emanzipierter Sound - Ciarán und sein Album \"Róisín\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-11-07T14:10:14.000Z",
-    "url": "https://www.deutschlandfunk.de/baerige-balladen-aus-belfast-ciar-n-und-sein-album-r-is-n-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/ein_eigener_emanzipierter_sound_ciaran_und_sein_album_roisin_dlf_20261107_1510_b8a3c77e.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b2e01f08-c7d9-5903-a682-e51d85b038b9",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "ARD-Comedy-Serie \"Die Friesenjunkies\" - Sucht, Sylt und die Belton-Brüder",
-    "summary": "Brinkmann, Sören; Belton, Emin und Oskar www.deutschlandfunk.de, Corso",
-    "date": "2026-11-06T14:20:09.000Z",
-    "url": "https://www.deutschlandfunk.de/ard-comedy-serie-die-friesenjunkies-sucht-sylt-und-die-belton-brueder-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/ard_comedy_serie_die_friesenjunkies_sucht_sylt_und_die_dlf_20261106_1520_3a6948a2.mp3?refId=corso-104",
-    "duration": "15 Min",
     "tags": [
       "kultur",
       "pop",

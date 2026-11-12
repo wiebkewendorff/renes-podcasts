@@ -1,5 +1,232 @@
 [
   {
+    "id": "30-minuten-kunst:46c7e2b243a028e6f6a598f829c98298",
+    "source": "30-minuten-kunst",
+    "sourceTitle": "30 Minuten Kunst",
+    "type": "rss",
+    "title": "Die blauen Reiterinnen: Künstlerinnen der Moderne",
+    "summary": "Wie Gabriele Münter, Marianne v. Werefkin und ihre Mitstreiterinnen den Blauen Reiter prägten\n<p>Im Gespräch mit Dr. Henrike Hans, eine der Kuratorinnen, spreche ich über Künstlerinnen, deren Arbeiten auch für mich eine Entdeckung waren. Eine Ausstellung des Museums Wiesbaden in Kooperation mit dem Paula Modersohn-Becker Museum, Bremen, der Städtischen Galerie im Lenbachhaus und Kunstbau München und der Museo Comunale d’Arte Moderna, Ascona – Fondazione Marianne Werefkin.</p>\n<p>Link zu ausgewählten Werken der Ausstellung in Wiesbaden:\n<a href=\"https://museum-wiesbaden.de/werkbeschreibungen-dbr\" rel=\"noopener\" target=\"_blank\">https://museum-wiesbaden.de/werkbeschreibungen-dbr</a></p>\n<p>Ankündigung: Nach über fünf Jahren, mehr als einer Million Downloads der reichlich 130 Folgen mache ich eine kreative Pause. Ob, wie und in welchem Umfang es hier weitergeht muss ich überdenken. Ich danke allen, die mich unterstützt haben und allen, denen ich mit diesem Podcast Künstlerinnen, Künstler und ihre Werke näher bringen konnte. Eine Bitte: Hören Sie keine KI-Kunst Podcasts.</p>\n<p>Katalog im Hirmer-Verlag: <a href=\"https://shop.hirmerverlag.de/Die-Blauen-Reiterreiterinnen/202605130022\" rel=\"noopener\" target=\"_blank\">https://shop.hirmerverlag.de/Die-Blauen-Reiterreiterinnen/202605130022</a></p>\n<p>Repro-Credits Folgen-Cover: Marianne von Werefkin, Der Tänzer Alexander Sacharoff, 1909. Museo Comunale d’Arte Moderna, Ascona. Foto: Museo Comunale d’Arte Moderna, Ascona",
+    "date": "2026-11-12T08:00:00.000Z",
+    "url": "https://30-minuten-kunst.podigee.io/134-die-blauen-reiterinnen-kunstlerinnen-der-moderne",
+    "image": "https://images.podigee-cdn.net/0x,s1gAsewWbA6Twne3O2cROsNnO5cKzRsPAa6gg6a4kUVk=/https://main.podigee-cdn.net/uploads/u26284/e1c4c2be-b67c-4bf5-8b71-b9e0ba85cca2.jpg",
+    "audio": "https://audio.podigee-cdn.net/2646300-m-4537df6d895034b725efb68a54063fc3.mp3?source=feed",
+    "duration": "34 Min",
+    "tags": [
+      "kunst",
+      "kultur",
+      "bildung"
+    ],
+    "category": [
+      "Kunst",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-5939309978537067",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Dr. Marcus Schwarz über die faszinierende Welt der Insekten",
+    "summary": "Dr. Marcus Schwarz kennt die faszinierende Welt der Insekten wie kaum ein anderer. Als forensischer Entomologe und Wundballistiker am Institut für Rechtsmedizin in Leipzig unterstützt er regelmäßig polizeiliche Ermittlungen mit seinen Gutachten - denn Insekten an Tatorten können wertvolle Rückschlüsse liefern. Auf dem Roten Sofa wird Dr. Marcus Schwarz spannend und mit vielen erstaunlichen Beispielen aus seiner Arbeit zwischen Labor, Forschung und Natur berichten.",
+    "date": "2026-11-11T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/dr-marcus-schwarz-ueber-die-faszinierende-welt-der-insekten,audio-3590926.html",
+    "image": "https://images.ndr.de/image/97c5a3df-a0a6-4eb4-9c5c-44077cd4bdce/AAABocw9y8I/AAABnSStX0g/1x1-big/screenshot-259504.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1111/AU-20261111-2041-1000.mp3",
+    "duration": "41 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a3404d4e-6328-56f8-80c8-8e9fd22a96e1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 11.11.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:56:03.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-11-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/kulturmeldungen_11112026_dlf_20261111_1756_61cdc3d3.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7470b475-ba98-5a40-986d-e581a57b12f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Karnevalswagenbauer Jacques Tilly über Satire und Kunstfreiheit",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:46:25.000Z",
+    "url": "https://www.deutschlandfunk.de/karnevalswagenbauer-jacques-tilly-ueber-satire-und-kunstfreiheit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/karnevalswagenbauer_jacques_tilly_ueber_satire_und_dlf_20261111_1746_e9cc9ea5.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:95bfbc37-a53b-54b5-8051-6819aa892e78",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Heimweh nach gestern\" - Historiker T. Becker zur Nostalgie als Zukunftsbegriff",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:39:34.000Z",
+    "url": "https://www.deutschlandfunk.de/heimweh-nach-gestern-historiker-t-becker-zur-nostalgie-als-zukunftsbegriff-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/heimweh_nach_gestern_historiker_t_becker_zur_nostalgie_als_dlf_20261111_1739_4eca8b4a.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e9500481-6b50-5b96-9f78-124a683c5647",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nostalgie oder gefährliche Symbolik? Die Simson und der Rechtsextremismus",
+    "summary": "Seibel, Patric www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:35:15.000Z",
+    "url": "https://www.deutschlandfunk.de/nostalgie-oder-gefaehrliche-symbolik-die-simson-und-der-rechtsextremismus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/nostalgie_oder_gefaehrliche_symbolik_die_simson_und_der_dlf_20261111_1735_88c9870c.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:af059889-bfbb-5242-bc25-2eef46df374f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kritik: Autobiographie \"Look At Me\" von Dustin Hoffman",
+    "summary": "Tegeler, Hartwig www.deutschlandfunk.de, Corso",
+    "date": "2026-11-11T14:15:54.000Z",
+    "url": "https://www.deutschlandfunk.de/kritik-autobiographie-look-at-me-von-dustin-hoffman-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/kritik_autobiographie_look_at_me_von_dustin_hoffman_dlf_20261111_1515_2b048ac3.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8bb19feb-a49a-5b92-93a3-afa024080e6c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: \"Wild Horse Nine\", \"Helene Weigel\"",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-11-11T14:06:33.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-wild-horse-nine-helene-weigel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/neue_filme_wild_horse_nine_helene_weigel_dlf_20261111_1506_4ff61992.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:57e635c7-4740-54e3-a608-f86f29599932",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mithu Sanyal über die Verfilmung ihres Buchs \"Identitti\"",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-11T14:05:06.000Z",
+    "url": "https://www.deutschlandfunk.de/mithu-sanyal-ueber-die-verfilmung-ihres-buchs-identitti-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/mithu_sanyal_ueber_die_verfilmung_ihres_buchs_identitti_dlf_20261111_1505_f545b12a.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:c1fa2e93-2e2f-515c-a6a5-a7194c5c5d8c",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -333,84 +560,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:c5399502-0ce8-5d1d-9f02-3db3ecd7a856",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Le Roi Arthus\" - eine selten gespielte Oper von Ernest Chausson in Frankfurt",
-    "summary": "Struck-Schloen, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-09T16:50:31.000Z",
-    "url": "https://www.deutschlandfunk.de/le-roi-arthus-eine-selten-gespielte-oper-von-ernest-chausson-in-frankfurt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/le_roi_arthus_eine_selten_gespielte_oper_von_ernest_chausson_dlf_20261109_1750_3f607dff.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e749540f-87a0-56ce-947e-bd90c0c06bc0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Longing for Trust - Ausstellung im Museumszentrum Quadrat Bottrop",
-    "summary": "Hammesfahr, Tina www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-09T16:45:35.000Z",
-    "url": "https://www.deutschlandfunk.de/longing-for-trust-ausstellung-im-museumszentrum-quadrat-bottrop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/longing_for_trust_ausstellung_im_museumszentrum_quadrat_dlf_20261109_1745_ab5f32c9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:84a509c3-1ccf-5a29-87b9-517afab94b03",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von Terror und Befreiung - Ines Geipel über den 9. November",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-09T16:35:10.000Z",
-    "url": "https://www.deutschlandfunk.de/von-terror-und-befreiung-ines-geipel-ueber-den-9-november-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/von_terror_und_befreiung_ines_geipel_ueber_den_9_november_dlf_20261109_1735_ab5e3181.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:a3c1b50b-1d73-58e2-850f-fa742c9ad37c",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -511,32 +660,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:120cadcf-a195-5a99-a3fa-c340a3734bef",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 08.11.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-08T16:56:07.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/kulturmeldungen_08112026_dlf_20261108_1756_252e0185.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-758641779344134",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -587,56 +710,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:7beb6600-b970-5839-91b3-91ab695f40f6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vereint im Taubenland - Django Django mit neuem Album \"Doveland\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-07T14:27:16.000Z",
-    "url": "https://www.deutschlandfunk.de/vereint-im-taubenland-django-django-mit-neuem-album-doveland-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/vereint_im_taubenland_django_django_mit_neuem_album_doveland_dlf_20261107_1527_13a4c7a6.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e39fd2b7-1d36-5e55-a608-9dfd321c6220",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ein eigener emanzipierter Sound - Ciarán und sein Album \"Róisín\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-11-07T14:10:14.000Z",
-    "url": "https://www.deutschlandfunk.de/baerige-balladen-aus-belfast-ciar-n-und-sein-album-r-is-n-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/ein_eigener_emanzipierter_sound_ciaran_und_sein_album_roisin_dlf_20261107_1510_b8a3c77e.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-7069305898427227",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -658,31 +731,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b2e01f08-c7d9-5903-a682-e51d85b038b9",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "ARD-Comedy-Serie \"Die Friesenjunkies\" - Sucht, Sylt und die Belton-Brüder",
-    "summary": "Brinkmann, Sören; Belton, Emin und Oskar www.deutschlandfunk.de, Corso",
-    "date": "2026-11-06T14:20:09.000Z",
-    "url": "https://www.deutschlandfunk.de/ard-comedy-serie-die-friesenjunkies-sucht-sylt-und-die-belton-brueder-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/ard_comedy_serie_die_friesenjunkies_sucht_sylt_und_die_dlf_20261106_1520_3a6948a2.mp3?refId=corso-104",
-    "duration": "15 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -710,31 +758,6 @@
       "Gesellschaft",
       "Kultur",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-6167480371033676",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Wunderbar wandelbar: Schauspielerin Patricia Aulitzky",
-    "summary": "Im ARD-Dokudrama \"Benko - Size Does Matter\" spielt Patricia Aulitzky die nicht weniger luxusliebende Ehefrau des schillernden Immobilieninvestors René Benko, dessen Unternehmen bekanntlich in einer krachenden Pleite endete. Privat mag es die 47-Jährige weitaus bodenständiger. Zur Schauspielerei kam sie fast nebenbei am Endpunkt einer Reise um die halbe Welt, ging nach der Ausbildung erst ans Theater, zog dann weiter und hatte rasch den Durchbruch im Kinodrama \"Falco - Verdammt, wir leben noch!\". Beeindruckend ist die heterogene Vielzahl an Rollen, die Patricia Aulitzky annimmt.",
-    "date": "2026-11-05T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/wunderbar-wandelbar-schauspielerin-patricia-aulitzky,audio-3579598.html",
-    "image": "https://images.ndr.de/image/ffce8842-d3e7-4edb-b4ab-904dc2267289/AAABoazUc6Y/AAABnSStX0g/1x1-big/screenshot-256252.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1105/AU-20261105-2048-4400.mp3",
-    "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   },
@@ -1918,29 +1941,6 @@
     "image": "https://images.podigee-cdn.net/0x,svqxhUfIzMZRsH2LGE1Q_U4s5PjOpnNUvJpgnMIMMDMI=/https://main.podigee-cdn.net/uploads/u26284/4c9d719c-c0c4-4ebc-a469-c558faef08d6.jpeg",
     "audio": "https://audio.podigee-cdn.net/2480685-m-393309f982950e3b109e1fb4b64796be.mp3?source=feed",
     "duration": "28 Min",
-    "tags": [
-      "kunst",
-      "kultur",
-      "bildung"
-    ],
-    "category": [
-      "Kunst",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "30-minuten-kunst:a4107f9cf138315fe0eea355ee453915",
-    "source": "30-minuten-kunst",
-    "sourceTitle": "30 Minuten Kunst",
-    "type": "rss",
-    "title": "Mahlzeit! – Essen in der Kunst",
-    "summary": "Von Stillleben bis Gegenwartskunst\n<p>Ein Einkaufswagen voller Kunst: In der \"Feinkunsthalle\" sieht man Brot, Gemüse, Fleischtheke und Kaugummis – nur eben nicht im Supermarkt, sondern im Museum Gunzenhauser in Chemnitz. Die Ausstellung zeigt, wie Essen in Bildern, Skulpturen und Videos plötzlich von Konsum, Zeitgeschichte und Gesellschaft erzählt. Genau darum geht’s in dieser Podcastfolge im Gespräch mit der Kuratorin Pauline Tigges.</p>\n<p>Link zur Ausstellung: <a href=\"https://www.kunstsammlungen-chemnitz.de/ausstellungen/mahlzeit-feinkunsthalle/\" rel=\"noopener\" target=\"_blank\">https://www.kunstsammlungen-chemnitz.de/ausstellungen/mahlzeit-feinkunsthalle/</a></p>\n<p>**In diesem Podcast steckt jede Menge Herzblut. Deshalb meine Bitte: Unterstützen Sie mich und den Podcast.\n**\nBitte fördern Sie uns hier:\n<a href=\"https://steadyhq.com/de/30-minuten-kunst/about\" rel=\"noopener\" target=\"_blank\">https://steadyhq.com/de/30-minuten-kunst/about</a></p>\n<p>Oder überweisen Sie einen Betrag Ihrer Wahl auf das Konto:\nDE15 1203 0000 1082 0466 97\nIBAN: BYLADEM1001</p>\n<p>Oder unterstützen Sie den Podcast per Paypal: <a href=\"https://paypal.me/JensTrocha?country.x=DE&locale.x=de_DE\" rel=\"noopener\" target=\"_blank\">https://paypal.me/JensTrocha?country.x=DE&locale.x=de_DE</a>\n(Link kopieren und in die Adresszeile des Browsers einfügen)</p>\n<p>Repro-Credits: Jan Kummer (*1965), Käse , 2024 Eglomisierung Privatbesitz, Courtesy: the artist, Foto: Daniel Franz",
-    "date": "2026-04-23T07:00:00.000Z",
-    "url": "https://30-minuten-kunst.podigee.io/124-neue-episode",
-    "image": "https://images.podigee-cdn.net/0x,sNJEMbWn19f4RUEu907KI4eWCGrLIU7KuH3sdTTB3N8o=/https://main.podigee-cdn.net/uploads/u26284/bc821f38-2922-446d-a5f7-c7f45d909f37.jpeg",
-    "audio": "https://audio.podigee-cdn.net/2461112-m-28c4f26adc6a5695edf7e5fffd146384.mp3?source=feed",
-    "duration": "26 Min",
     "tags": [
       "kunst",
       "kultur",
