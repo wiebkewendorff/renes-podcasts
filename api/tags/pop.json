@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:0a786115-5340-592b-99f2-eacfa8e856ec",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Superheroes: Wie jüdische Migrantenkinder die US-Comic-Industrie erfanden",
+    "summary": "Lechler, Bernd; Voloj, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-12T14:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/superheroes-wie-juedische-migrantenkinder-die-us-comic-industrie-erfanden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/superheroes_wie_juedische_migrantenkinder_die_us_comic_dlf_20261112_1508_013b470a.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:8238fd92-e493-59eb-9171-02da1dfe4871",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Das Ende der Kaiserin - Devrim Lingnau über ihre Sissi-Serie",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-11-12T14:05:48.000Z",
+    "url": "https://www.deutschlandfunk.de/das-ende-der-kaiserin-devrim-lingnau-ueber-ihre-sissi-serie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/das_ende_der_kaiserin_devrim_lingnau_ueber_ihre_sissi_serie_dlf_20261112_1505_7927ba96.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:af059889-bfbb-5242-bc25-2eef46df374f",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/zu_martialisch_oder_nicht_mehr_zeitgemaess_der_cypertruck_dlf_20261109_1510_99c4c83e.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:de15dbdb-b805-5968-9080-0e3333b353c7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "KI-Gespräch mit der Raumsonde: Wozu die Menschheit retten?",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-11-09T14:05:11.000Z",
-    "url": "https://www.deutschlandfunk.de/ki-gespraech-mit-der-raumsonde-wozu-die-menschheit-retten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/ki_gespraech_mit_der_raumsonde_wozu_die_menschheit_retten_dlf_20261109_1505_66c8302f.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9b79d77b-4286-53d2-a55e-1b85dfe73758",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kühl, kein Gefühl - Lars Schneider im Corsogespräch über die Eiszeit des Pop",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-07T14:38:48.000Z",
-    "url": "https://www.deutschlandfunk.de/kuehl-kein-gefuehl-lars-schneider-im-corsogespraech-ueber-die-eiszeit-des-pop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/kuehl_kein_gefuehl_lars_schneider_im_corsogespraech_ueber_dlf_20261107_1538_e3a10afc.mp3?refId=corso-104",
-    "duration": "13 Min",
     "tags": [
       "kultur",
       "pop",
