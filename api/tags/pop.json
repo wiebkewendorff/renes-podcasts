@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:02af514e-deb9-566e-a8df-b8431f70afe7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Orchestre du nouveau monde - der Sound der französischen Protestbewegung",
+    "summary": "Detjen, Stephan www.deutschlandfunk.de, Corso",
+    "date": "2026-11-13T14:15:33.000Z",
+    "url": "https://www.deutschlandfunk.de/orchestre-du-nouveau-monde-der-sound-der-franzoesischen-protestbewegung-104.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/13/orchestre_du_nouveau_monde_der_sound_der_franzoesischen_dlf_20261113_1515_2150798e.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:9edf5473-9699-5557-81fa-7bf201274322",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Pop-Buch: Wie der weibliche Popstar geboren wurde",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-11-13T14:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/pop-buch-wie-der-weibliche-popstar-geboren-wurde-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/13/pop_buch_wie_der_weibliche_popstar_geboren_wurde_dlf_20261113_1515_ed7d6ed4.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0991b5c0-e074-5b34-b089-030d34ff95b8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Clubgefühl zum kleinen Preis - Die Neue Lust auf Tanzbars",
+    "summary": "Hytrek, Vicky www.deutschlandfunk.de, Corso",
+    "date": "2026-11-13T14:10:55.000Z",
+    "url": "https://www.deutschlandfunk.de/clubgefuehl-zum-kleinen-preis-die-neue-lust-auf-tanzbars-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/13/clubgefuehl_zum_kleinen_preis_die_neue_lust_auf_tanzbars_dlf_20261113_1510_944eff3e.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:0a786115-5340-592b-99f2-eacfa8e856ec",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -160,81 +235,6 @@
     "url": "https://www.deutschlandfunk.de/nein-russell-brand-zu-mehr-als-10-jahren-haft-verurteilt-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/nein_russell_brand_zu_mehr_als_10_jahren_haft_verurteilt_dlf_20261110_1505_1ceb8d38.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:10192c9d-7fa7-5d0d-9b7a-e6a0edf28905",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Corsopodcast: Fit im Museum - Ausstellung im Kunstpalast in Düsseldorf",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-11-10T14:05:01.000Z",
-    "url": "https://www.deutschlandfunk.de/corsopodcast-fit-im-museum-ausstellung-im-kunstpalast-in-duesseldorf-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/corsopodcast_fit_im_museum_ausstellung_im_kunstpalast_in_dlf_20261110_1505_3c58a5e2.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a3c1b50b-1d73-58e2-850f-fa742c9ad37c",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutscher Karikaturenpreis in Dresden verliehen - Reif für die Therapie",
-    "summary": "Moritz, Alexander www.deutschlandfunk.de, Corso",
-    "date": "2026-11-09T14:10:59.000Z",
-    "url": "https://www.deutschlandfunk.de/deutscher-karikaturenpreis-in-dresden-verliehen-reif-fuer-die-therapie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/deutscher_karikaturenpreis_in_dresden_verliehen_reif_fuer_dlf_20261109_1510_64c60eab.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b3ba6b64-2e34-5fa5-b703-e00bf15580f5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zu martialisch oder nicht mehr zeitgemäß: Der Cypertruck wird nicht mehr gebaut",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-11-09T14:10:34.000Z",
-    "url": "https://www.deutschlandfunk.de/zu-martialisch-oder-nicht-mehr-zeitgemaess-der-cypertruck-wird-nicht-mehr-gebaut-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/09/zu_martialisch_oder_nicht_mehr_zeitgemaess_der_cypertruck_dlf_20261109_1510_99c4c83e.mp3?refId=corso-104",
     "duration": "5 Min",
     "tags": [
       "kultur",

@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:b17dada90de589f0c5ff1f024a71099b",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Eine Stummfilmlegende findet ihre Stimme: Louise Brooks",
+    "summary": "<p>Ihr Bubikopf wird berühmt, doch Louise Brooks’ Name ist lange vergessen. Nach einem Erfolg stürzt der Stummfilmstar (geb. 14.11.1906) ab - und wird erst später zur Ikone.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Stephan Beuting:</strong><br><ul><li>die Geschichte einer fast vergessenen Film-Ikone, deren Silhouette bekannter ist als sie selbst,</li><li>wie Louise Brooks komplett von der Bildfläche verschwindet und dann in einer ganz neuen Rolle wieder zurückkehrt,</li><li>wie Selbstbewusstsein und Selbstbestimmtheit kurzfristig schaden und langfristig nützen können.</li></ul>Ursprünglich ist Louise Brooks in den 1920er-Jahren eine ausgebildete Tänzerin, die sich später in einigen unbedeutenden US -Produktionen als Schauspielerin versucht. Als der österreichische Regisseur Georg Wilhelm Pabst sie entdeckt und für die Rolle der Femme Fatale \"Lulu\" in seinem Film \"Die Büchse der Pandora\" verpflichtet und nach Deutschland holt, erlebt sie kurzen Ruhm.<br><br>Doch jenseits des Filmsets ärgert sich der über 50-jährige Regisseur über seine 22-jährige Hauptdarstellerin. Zu viele Partys, viel zu viele Männer, viel zu viele Drinks. In den folgenden Jahren versandet ihre Karriere wieder. Louise Brooks kann und will sich dem damaligen Hollywood-Starsytem nicht unterordnen. Ihr Lebensweg beschreibt die Form einer Achterbahn; mit einigen Höhen und vielen Tiefpunkten.<br><br>In den 1950er-Jahren wird sie zunächst von der europäischen Filmkritik und dann auch in den USA wiederentdeckt und gefeiert. Sie schreibt diverse Essays, die später als \"Lulu in Hollywood\" gesammelt erscheinen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Thomas Gladysz, Journalist, Autor</li><li>Karin Moser, Historikerin, Filmwissenschaftlerin</li><li>Louise Brooks: Lulu in Hollywood. Alfred A. Knopf. New York 1982</li><li>Barry Paris: Louise Brooks. A biography. Minneapolis 2000</li><li>Kenneth Tynan: The Girl who was Lulu, in: Observer Magazine 1979</li><li>James Card: The Intense Isolation of Louise Brooks, in: Sight and Sound 1958</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-the-birth-of-a-nation-100.html\" rel=\"noopener\" target=\"_blank\">Im Januar 1915 - Uraufführung des Stummfilms \"The Birth of a Nation\"</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/medien/anfaenge_des_films/pwiedersiegeszugdestonfilms100.html\" rel=\"noopener\" target=\"_blank\">Anfänge des Films - Der Siegeszug des Tonfilms</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Stephan Beuting<br>Redaktion: Carolin Rückl und David Rother",
+    "date": "2026-11-14T05:00:01.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-eine-stummfilmlegende-findet-ihre-stimme-louise-brooks-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-louise-brooks-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/05/4e28cb5e-3e8b-461f-a6fe-db110e6a757c/4e28cb5e-3e8b-461f-a6fe-db110e6a757c_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:c18289189b6eca84b24875453ebea317",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -195,29 +218,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-robert-maxwell-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/02/b40db216-ab2d-4e81-b9df-937c934fc4d7/b40db216-ab2d-4e81-b9df-937c934fc4d7_MP3-128.mp3",
     "duration": "14 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:ce83c3b32758af20d2b06cc3acb65d7a",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Die SA: Wie eine Wirtshausprügelei zum Nazi-Mythos wird",
-    "summary": "<p>Am 4.11.1921 eskaliert im Münchner Hofbräuhaus eine Prügelei. Die Nazis machen sie zum Gründungsmythos der SA. Wie aus wenigen Schlägern eine mächtige Terrororganisation wird.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Marko Rösseler:</strong><br><ul><li>warum die Parteien nach dem Ersten Weltkrieg sogenannte Saalschutztruppen zusammenstellen,</li><li>warum die SA in ihren Anfängen um jeden Preis auffallen und Schlagzeilen produzieren soll,</li><li>wie junge NSDAP-Mitglieder auf einem Sonntagsausflug in Bad Tölz eine Schlägerei provozieren,</li><li>wie die SA in der Nacht zum 1. Juli 1934 entmachtet wird und dennoch weiterbesteht.</li></ul><br>Nach dem Ersten Weltkrieg bekriegen sich in Deutschland rechte und linke Gruppen. Eine Revolution von Arbeiter- und Soldatenräten scheitert, rechte Freikorps und Reichswehrtruppen verüben Morde, Parteien werden gegründet. <br><br>So auch die Deutsche Arbeiterpartei (DAP), die im Februar 1920 in NSDAP umbenannt wird. Der noch unbekannte Adolf Hitler tritt ihr bei und glänzt schon bald als Redner.<br><br>Am 4. November 1921 hält Hitler wieder einmal eine seiner Reden im Münchner Hofbräuhaus. Die NSDAP verfügt bereits über eine Truppe, deren Name eher an Körperertüchtigung denken lässt: Sie nennt sich \"Turn- und Sportvereinigung\".<br><br>Mitglieder der Vereinigung sind als Saalordner im Einsatz. Es kommt zu Zusammenstößen mit Gegendemonstranten. Nach der Versammlungsschlacht im Münchner Hofbräuhaus erhält die Ordnertruppe zur dauernden Erinnerung den Namen \"Sturmabteilung\". <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Daniel Siemens, Newcastle University, Großbritannien</li><li>Daniel Siemens: Stormtroopers. A New History of Hitler's Brownshirts. New Haven/London 2017. Deutsche Übersetzung: Sturmabteilung. Die Geschichte der SA. München 2019</li><li>Peter Longerich: Die braunen Bataillone. Geschichte der SA. München 1989</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/nationalsozialismus/index.html\" rel=\"noopener\" target=\"_blank\">Nationalsozialismus</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-muenchner-hofbraeuhaus-104.html\" rel=\"noopener\" target=\"_blank\">27.09.1589: Der Bau des Münchner Hofbräuhauses beginnt</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Marko Rösseler<br>Redaktion: Gesa Rünker, Matti Hesse",
-    "date": "2026-11-04T05:00:19.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-sa-wie-eine-wirtshauspruegelei-zum-nazi-mythos-wird-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-saalschlacht-hofbraeuhaus-sa-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/26/c438ae4a-5e1c-4cd2-ba65-cd08e0f26146/c438ae4a-5e1c-4cd2-ba65-cd08e0f26146_MP3-128.mp3",
-    "duration": "15 Min",
     "tags": [
       "geschichte",
       "bildung",
