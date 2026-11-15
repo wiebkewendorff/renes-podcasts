@@ -1,5 +1,210 @@
 [
   {
+    "id": "dlf-kultur-heute:e1ed4e9b-5199-5d92-b09f-aba8e8eaaace",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 14.11.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:56:25.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/kulturmeldungen_14112026_dlf_20261114_1756_07281d28.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c4d44929-fa17-58af-a240-cdeddb227578",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nachnutzung im Opel-Altwerk - Der neue Bundesverband Industriekultur tagte",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:51:30.000Z",
+    "url": "https://www.deutschlandfunk.de/nachnutzung-im-opel-altwerk-der-neue-bundesverband-industriekultur-tagte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/nachnutzung_im_opel_altwerk_der_neue_bundesverband_dlf_20261114_1751_c92658d2.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:69d6706e-b910-5a04-9c7a-85a90d3c337d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "COP31 und Klimarettung vor gefährdeten Kulturstätten? Felix Pirson, DAI Istanbul",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:42:30.000Z",
+    "url": "https://www.deutschlandfunk.de/cop31-und-klimarettung-vor-gefaehrdeten-kulturstaetten-felix-pirson-dai-istanbul-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/cop31_und_klimarettung_vor_gefaehrdeten_kulturstaetten_felix_dlf_20261114_1742_3b225c37.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ef02ad47-d25c-58bb-9735-b57cc5ead786",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Zeit für Zirkus\" - Internationales Festival für zeitgenössischen Zirkus in Bonn",
+    "summary": "Luft, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:37:01.000Z",
+    "url": "https://www.deutschlandfunk.de/zeit-fuer-zirkus-internationales-festival-fuer-zeitgenoessischen-zirkus-in-bonn-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/zeit_fuer_zirkus_internationales_festival_fuer_dlf_20261114_1737_d32032c9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:fdea7fcd-2f19-5034-9b1c-ddeff66b4488",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Arnulf Rainer\" - Große postume Retrospektive in der Albertina in Wien",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:30:28.000Z",
+    "url": "https://www.deutschlandfunk.de/arnulf-rainer-grosse-postume-retrospektive-in-der-albertina-in-wien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/arnulf_rainer_grosse_postume_retrospektive_in_der_albertina_dlf_20261114_1730_3c1ce07c.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:14269004-7774-568e-8b86-721b06212ff8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vintage-Klamotten und neue Volkslieder - die gewitzte Weltmusik von Ladaniva",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-11-14T14:40:00.000Z",
+    "url": "https://www.deutschlandfunk.de/vintage-klamotten-und-neue-volkslieder-die-gewitzte-weltmusik-von-ladaniva-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/vintage_klamotten_und_neue_volkslieder_die_gewitzte_dlf_20261114_1540_1e9994cd.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4ceb7d0c-8d8c-5c8d-b92a-147721207356",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Das Chaos schwingt immer mit\" - Düstere neue Songs von Girlwoman",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-11-14T14:22:00.000Z",
+    "url": "https://www.deutschlandfunk.de/das-chaos-schwingt-immer-mit-duestere-neue-songs-von-girlwoman-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/das_chaos_schwingt_immer_mit_duestere_neue_songs_von_dlf_20261114_1522_29979989.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d398f41a-809b-5d94-9b2d-70d263d7ec8f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Carneval De Luz\" von U2 - Vier Männer, 50 Jahre und ein neues Album",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-14T14:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/carneval-de-luz-von-u2-vier-maenner-50-jahre-und-ein-neues-album-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/carneval_de_luz_von_u2_vier_maenner_50_jahre_und_ein_neues_dlf_20261114_1508_4d951836.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-7258361686597836",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -255,136 +460,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:79fc4765-112c-5139-a8ea-31a52f392143",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 12.11.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-11-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/kulturmeldungen_12112026_dlf_20261112_1756_a6cbb612.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:09671c47-74c0-5656-b362-55f1a5d2f514",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Sophie Calle: Is It Better?\" - Erste Berliner Einzelausstellung seit 20 Jahren",
-    "summary": "Hennig, Silke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/sophie-calle-is-it-better-erste-berliner-einzelausstellung-seit-20-jahren-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/sophie_calle_is_it_better_erste_berliner_einzelausstellung_dlf_20261112_1751_7fc9cfaa.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1f8b4fc9-a64b-5e6a-acb3-a0fcf16b026b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutsches Fotoinstitut - Bundestag entscheidet über Forschungsfinanzierung",
-    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutsches-fotoinstitut-bundestag-entscheidet-ueber-forschungsfinanzierung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/deutsches_fotoinstitut_bundestag_entscheidet_ueber_dlf_20261112_1746_38c7df51.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:868bbf1f-5199-57ab-a80f-67022630404b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Historische Perspektiven - Oliver Lubrich über Humboldt in Russland und den USA",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/historische-perspektiven-oliver-lubrich-ueber-humboldt-in-russland-und-den-usa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/historische_perspektiven_oliver_lubrich_ueber_humboldt_in_dlf_20261112_1741_99c64406.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:25f57b0b-b758-5350-9757-12af8f8d7eba",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "CIA im Einsatz - John Malkovich in \"Wild Horse Nine\" von Martin McDonagh",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/cia-im-einsatz-john-malkovich-in-wild-horse-nine-von-martin-mcdonagh-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/cia_im_einsatz_john_malkovich_in_wild_horse_nine_von_martin_dlf_20261112_1736_ebc4a2d4.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:0a786115-5340-592b-99f2-eacfa8e856ec",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -533,31 +608,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:57e635c7-4740-54e3-a608-f86f29599932",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mithu Sanyal über die Verfilmung ihres Buchs \"Identitti\"",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-11-11T14:05:06.000Z",
-    "url": "https://www.deutschlandfunk.de/mithu-sanyal-ueber-die-verfilmung-ihres-buchs-identitti-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/mithu_sanyal_ueber_die_verfilmung_ihres_buchs_identitti_dlf_20261111_1505_f545b12a.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-das-feature:c1fa2e93-2e2f-515c-a6a5-a7194c5c5d8c",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -605,56 +655,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:771b2042-10ca-50c1-9e2c-2fb525243e14",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Queere Fotos in Monschau - Warum GenZ den Künstler Jürgen Klauke wiederentdeckt",
-    "summary": "Backof, Peter www.deutschlandfunk.de, Corso",
-    "date": "2026-11-10T14:20:53.000Z",
-    "url": "https://www.deutschlandfunk.de/queere-fotos-in-monschau-warum-genz-den-kuenstler-juergen-klauke-wiederentdeckt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/queere_fotos_in_monschau_warum_genz_den_kuenstler_juergen_dlf_20261110_1520_4eeffaed.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:cd389bf2-9abe-5180-86bb-1f8be1011afe",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Nein\" - Russell Brand zu mehr als 10 Jahren Haft verurteilt",
-    "summary": "Röhling, Lisa-Maria www.deutschlandfunk.de, Corso",
-    "date": "2026-11-10T14:05:58.000Z",
-    "url": "https://www.deutschlandfunk.de/nein-russell-brand-zu-mehr-als-10-jahren-haft-verurteilt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/nein_russell_brand_zu_mehr_als_10_jahren_haft_verurteilt_dlf_20261110_1505_1ceb8d38.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
