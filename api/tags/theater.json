@@ -1,5 +1,161 @@
 [
   {
+    "id": "dlf-kultur-heute:5e09bd3b-b20d-58cf-8d36-bf2bbb783173",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 15.11.2026",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-15T16:56:22.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-15-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/kulturmeldungen_15112026_dlf_20261115_1756_0d4a7563.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0ee9a74f-e055-5019-824f-a05c41fb5660",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Open Mike: 34. Wettbewerb für junge Literatur in Berlin",
+    "summary": "Cornelius Wüllenkemper www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-15T16:50:50.000Z",
+    "url": "https://www.deutschlandfunk.de/open-mike-34-wettbewerb-fuer-junge-literatur-in-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/open_mike_34_wettbewerb_fuer_junge_literatur_in_berlin_dlf_20261115_1750_16495829.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d18ebd0b-06d2-5b46-90e0-ead4a8099dd1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Unrechtmäßige Versteigerung? Streit um ein Van-Gogh-Gemälde bei Sotheby's",
+    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-15T16:45:21.000Z",
+    "url": "https://www.deutschlandfunk.de/unrechtmaessige-versteigerung-streit-um-ein-van-gogh-gemaelde-bei-sotheby-s-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/unrechtmaessige_versteigerung_streit_um_ein_van_gogh_dlf_20261115_1745_55484904.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:81256ffe-d214-54f1-a86d-8119c3aacdeb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die heilige Johanna der Schlachthöfe\" im Zirkus. Spektakel in der Kokerei Hansa",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-15T16:40:17.000Z",
+    "url": "https://www.deutschlandfunk.de/die-heilige-johanna-der-schlachthoefe-im-zirkus-spektakel-in-der-kokerei-hansa-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/die_heilige_johanna_der_schlachthoefe_im_zirkus_spektakel_in_dlf_20261115_1740_fa4740ce.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c014fd03-c903-578f-b1fb-5b2e7f0e0ace",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der FAUST - Der deutsche Theaterpreis ist in Wiesbaden vergeben worden",
+    "summary": "Sojitrawalla, Shirin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-15T16:36:12.000Z",
+    "url": "https://www.deutschlandfunk.de/der-faust-der-deutsche-theaterpreis-ist-in-wiesbaden-vergeben-worden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/der_faust_der_deutsche_theaterpreis_ist_in_wiesbaden_dlf_20261115_1736_64465169.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:817d55c2-054f-5e7e-a49b-74ec3d78b24a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Honigfalle aus dem Reich des Bösen? China im Fall Huang unter Spionageverdacht",
+    "summary": "Shi, Ming www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-15T16:30:36.000Z",
+    "url": "https://www.deutschlandfunk.de/honigfalle-aus-dem-reich-des-boesen-china-im-fall-huang-unter-spionageverdacht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/honigfalle_aus_dem_reich_des_boesen_china_im_fall_huang_dlf_20261115_1730_3944d33e.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:e1ed4e9b-5199-5d92-b09f-aba8e8eaaace",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -89,162 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/zeit_fuer_zirkus_internationales_festival_fuer_dlf_20261114_1737_d32032c9.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:fdea7fcd-2f19-5034-9b1c-ddeff66b4488",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Arnulf Rainer\" - Große postume Retrospektive in der Albertina in Wien",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-14T16:30:28.000Z",
-    "url": "https://www.deutschlandfunk.de/arnulf-rainer-grosse-postume-retrospektive-in-der-albertina-in-wien-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/arnulf_rainer_grosse_postume_retrospektive_in_der_albertina_dlf_20261114_1730_3c1ce07c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:fa4e6737-a6e3-5d39-91c8-674dd55fb0b8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 13.11.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-13T16:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-13-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/13/kulturmeldungen_13112026_dlf_20261113_1757_23fed474.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3dd51020-ff7e-5f6a-b9d3-9c98f90f6e64",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Zukunft der Kunstvermittlung - Internationale Konferenz im Hamburger Bahnhof",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-13T16:51:30.000Z",
-    "url": "https://www.deutschlandfunk.de/die-zukunft-der-kunstvermittlung-internationale-konferenz-im-hamburger-bahnhof-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/13/die_zukunft_der_kunstvermittlung_internationale_konferenz_im_dlf_20261113_1751_ccfac205.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0e89158e-b212-51cb-9613-3c5f0182bef2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Tanz!\" - Eine Ausstellung über das Genre in der Kunsthalle Mannheim",
-    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-13T16:45:52.000Z",
-    "url": "https://www.deutschlandfunk.de/tanz-eine-ausstellung-ueber-das-genre-in-der-kunsthalle-mannheim-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/13/tanz_eine_ausstellung_ueber_das_genre_in_der_kunsthalle_dlf_20261113_1745_8cf7f799.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:df1fa038-30fa-5127-aec2-3fee0ce36881",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Propaganda - Flooding the Zone with Shit\" - Ausstellung im Kunstverein Frf./M.",
-    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-13T16:39:30.000Z",
-    "url": "https://www.deutschlandfunk.de/propaganda-flooding-the-zone-with-shit-ausstellung-im-kunstverein-frf-m-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/13/propaganda_flooding_the_zone_with_shit_ausstellung_im_dlf_20261113_1739_55f5fe4a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9c008b6c-a01a-5a40-b033-3c8756554d0e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach Protesten - Wiener Aktionismus Museum stellt Ausstellungsbetrieb ein",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-13T16:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-protesten-wiener-aktionismus-museum-stellt-ausstellungsbetrieb-ein-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/13/nach_protesten_wiener_aktionismus_museum_stellt_dlf_20261113_1735_97f169a6.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",
