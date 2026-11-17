@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:08e96499-4b67-5a16-801e-89de7713e03e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 16.11.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-16T16:56:20.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/kulturmeldungen_16112026_dlf_20261116_1756_3b65dc41.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c55402a2-7386-5eae-8b54-3da99436dbed",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Der kleine Prinz\" und \"Prinzen\" - Doppelpremiere in Basel und Zürich",
+    "summary": "Laages. Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-16T16:51:51.000Z",
+    "url": "https://www.deutschlandfunk.de/der-kleine-prinz-und-prinzen-doppelpremiere-in-basel-und-zuerich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/der_kleine_prinz_und_prinzen_doppelpremiere_in_basel_und_dlf_20261116_1751_af68e2d8.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3fbe85b4-f94b-527b-bb9e-a7569436be7d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "MET for free! Neue Oper \"Lincoln in the Bardo\" füllt das New Yorker Opernhaus",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-16T16:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/met-for-free-neue-oper-lincoln-in-the-bardo-fuellt-das-new-yorker-opernhaus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/met_for_free_neue_oper_lincoln_in_the_bardo_fuellt_das_new_dlf_20261116_1747_0b6c17d9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:96b493a5-7f9b-581d-a667-e30e1c9a2add",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Thomas Schütte mit neuen Werken im K21 Düsseldorf",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-16T16:42:21.000Z",
+    "url": "https://www.deutschlandfunk.de/thomas-schuette-mit-neuen-werken-im-k21-duesseldorf-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/thomas_schuette_mit_neuen_werken_im_k21_duesseldorf_dlf_20261116_1742_be6fd59f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:78548df4-033c-570c-ac49-5f61beb1f896",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Form von Kolonialismus? Regisseur Schlöndorff zu Return Hubs in Ruanda",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-16T16:36:22.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-form-von-kolonialismus-regisseur-schloendorff-zu-return-hubs-in-ruanda-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/neue_form_von_kolonialismus_regisseur_schloendorff_zu_return_dlf_20261116_1736_f9725626.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:5e09bd3b-b20d-58cf-8d36-bf2bbb783173",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -114,136 +244,6 @@
     "url": "https://www.deutschlandfunk.de/der-faust-der-deutsche-theaterpreis-ist-in-wiesbaden-vergeben-worden-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/der_faust_der_deutsche_theaterpreis_ist_in_wiesbaden_dlf_20261115_1736_64465169.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:817d55c2-054f-5e7e-a49b-74ec3d78b24a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Honigfalle aus dem Reich des Bösen? China im Fall Huang unter Spionageverdacht",
-    "summary": "Shi, Ming www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-15T16:30:36.000Z",
-    "url": "https://www.deutschlandfunk.de/honigfalle-aus-dem-reich-des-boesen-china-im-fall-huang-unter-spionageverdacht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/honigfalle_aus_dem_reich_des_boesen_china_im_fall_huang_dlf_20261115_1730_3944d33e.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e1ed4e9b-5199-5d92-b09f-aba8e8eaaace",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 14.11.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-14T16:56:25.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/kulturmeldungen_14112026_dlf_20261114_1756_07281d28.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c4d44929-fa17-58af-a240-cdeddb227578",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nachnutzung im Opel-Altwerk - Der neue Bundesverband Industriekultur tagte",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-14T16:51:30.000Z",
-    "url": "https://www.deutschlandfunk.de/nachnutzung-im-opel-altwerk-der-neue-bundesverband-industriekultur-tagte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/nachnutzung_im_opel_altwerk_der_neue_bundesverband_dlf_20261114_1751_c92658d2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:69d6706e-b910-5a04-9c7a-85a90d3c337d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "COP31 und Klimarettung vor gefährdeten Kulturstätten? Felix Pirson, DAI Istanbul",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-14T16:42:30.000Z",
-    "url": "https://www.deutschlandfunk.de/cop31-und-klimarettung-vor-gefaehrdeten-kulturstaetten-felix-pirson-dai-istanbul-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/cop31_und_klimarettung_vor_gefaehrdeten_kulturstaetten_felix_dlf_20261114_1742_3b225c37.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ef02ad47-d25c-58bb-9735-b57cc5ead786",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Zeit für Zirkus\" - Internationales Festival für zeitgenössischen Zirkus in Bonn",
-    "summary": "Luft, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-14T16:37:01.000Z",
-    "url": "https://www.deutschlandfunk.de/zeit-fuer-zirkus-internationales-festival-fuer-zeitgenoessischen-zirkus-in-bonn-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/zeit_fuer_zirkus_internationales_festival_fuer_dlf_20261114_1737_d32032c9.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",

@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:717c7c7c891d74be5a834c24e0116070",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Japans Ninja-Legende: Eine Frau im Kampf gegen Samurai",
+    "summary": "<p>Der Legende nach hat Mochizuki Chiyome im Jahr 1561 einen rein weiblichen Ninja-Clan gegründet - vieles davon ist Spekulation, einiges Erfindung, aber es gibt einen wahren Kern.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Jana Niehoff:</strong><br><ul><li>warum die Geschichte von Mochizuki Chiyome keine klassische Heldenlegende ist, </li><li>welche Bedeutung die Schlacht von 1561 für ihren Mythos hat, </li><li>warum sie eher eine Spionin als eine Kriegerin gewesen sein könnte.</li></ul><br>Ninjas sind leise, schnell, flink, tödlich - und in ihrem Fall weiblich: Die junge Mochizuki Chiyome lebt im Japan des 16. Jahrhunderts, hasst Teezeremonien und will auf keinen Fall heiraten. Heimlich lernt sie zu kämpfen, sich zu tarnen und Informationen vom Feind zu beschaffen: Sie wird die erste weibliche Ninja Japans – und gründet obendrein noch den ersten rein weiblichen Ninja-Clan. <br><br>Ihre Geschichte, über Jahrhunderte überliefert, liefert reichlich Stoff für Abenteuerromane, TV-Serien und Videospiele. Vieles lässt sich historisch nicht belegen und lässt deshalb viel Platz für Fantasie. Trotz aller möglichen Legenden: Mochizuki Chiyome hilft beim Verständnis der Rolle der Frauen in der japanischen Geschichte, die lange übersehen wurden. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Dr. Takuma Melber, Historiker</li><li>Tamaki Richter, Autorin des WDR-Hörspiels \"Mochizuki – Die Legende der ersten Ninja-Kämpferin\"</li><li>Inagaki Shisei: Kosho Nihon shi. Tokio 1984</li></ul><br><strong>Weiterführende Links:<br></strong><ul><li>Hörspiel: <a href=\"https://kurz.ard.de/mochizuki\" rel=\"noopener\" target=\"_blank\">MOCHIZUKI. Die Legende der ersten Kämpferin</a></li><li>Zeitzeichen: 29.11.1890 - <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-erstes-parlament-japan-100.html\" rel=\"noopener\" target=\"_blank\">Japans erstes Parlament wird eröffnet</a></li><li>Zeitzeichen: 09.05.1991 - <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-yokoi-shoichi-102.html\" rel=\"noopener\" target=\"_blank\">Kriegsende verpasst - Japans Kaiser empfängt Yokoi Shoichi</a></li><li>Zeitzeichen: 06.11.1600 - <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-ishida-mitsunari-hinrichtung-100.html\" rel=\"noopener\" target=\"_blank\">Samurai Ishida Mitsunari wird hingerichtet </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Jana Niehoff<br>Redaktion: Frank Zirpins<br>Technik: Joseph Baader",
+    "date": "2026-11-17T05:00:20.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-japans-ninja-legende-eine-frau-im-kampf-gegen-samurai-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-mochizuki-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/12/cbbb1f7d-2ecb-4b38-bb5e-23c45d0fc346/cbbb1f7d-2ecb-4b38-bb5e-23c45d0fc346_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:febf8d077a6b7c1acc07ee799d9765df",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -92,7 +115,7 @@
     "language": "de"
   },
   {
-    "id": "zeitzeichen:70dfb2edbcebc7c9a86aa4cc50586ede",
+    "id": "zeitzeichen:bc52654a7dc31d54f315fadb924fd804",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
@@ -101,7 +124,7 @@
     "date": "2026-11-12T05:00:41.000Z",
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-abbey-roadeine-londoner-adresse-schreibt-musikgeschichte-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-abbey-road-studios-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/04/82e63e09-a57b-41d8-b5cb-74780b74d130/82e63e09-a57b-41d8-b5cb-74780b74d130_MP3-128.mp3",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/17/2d6544dc-893d-431f-b1b5-5839dfd1f1d5/2d6544dc-893d-431f-b1b5-5839dfd1f1d5_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-hingerichtet-weil-sie-sex-mit-einer-frau-hatte-catharina-linck-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-catharina-linck-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/19/9bdacb97-a652-4efc-84b1-9a84a2d78da9/9bdacb97-a652-4efc-84b1-9a84a2d78da9_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:e2362ef1a9224b8a8dfa14f937e572f2",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Rudolf von Gerlach: War er das Vorbild für James Bond?",
-    "summary": "<p>Am 7. 11.1886 wird Rudolf von Gerlach getauft. Später steigt er zum Vertrauten des Papstes auf, heiratet als Priester und gerät in die Welt der Spionage.</p><br><br><p><strong>In diesem Zeitzeichen erzählen Markus Harmann und Joachim Heinz:</strong><br><ul><li>weshalb Papst Benedikt XV. ausgerechnet einem unbekannten Deutschen sein Vertrauen schenkt,</li><li>wie Gerlach während des Ersten Weltkriegs zwischen Rom, Berlin, Wien und Konstantinopel vermittelt,</li><li>warum sein Name in Italien mit Hochverrat und Spionage in Verbindung gebracht wird,</li><li>welche geheimen Briefe aus dem Vatikan ihm später als Druckmittel dienen,</li><li>weshalb einige Historiker in ihm ein mögliches Vorbild für James Bond sehen.</li></ul><br>Rudolf von Gerlach wächst in München auf, verlässt die Schule ohne Abschluss und verfolgt ein Ziel: die päpstliche Diplomatie. Im Vatikan gelingt ihm ein erstaunlicher Aufstieg. Papst Benedikt XV. schickt ihn auf heikle Missionen quer durch Europa. Und Gerlachs Leben verläuft alles andere als geradlinig.<br><br>Zwischen politischen Intrigen, Spionagevorwürfen, Exil und gesellschaftlichen Netzwerken bewegt er sich durch die Umbrüche zweier Weltkriege. Wer ihm begegnet, beschreibt einen charmanten, kontaktfreudigen Mann. Zugleich bleiben zahlreiche Fragen offen. Gerade diese Mischung macht sein Leben bis heute so faszinierend.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hartmut Benz (Historiker)</li><li>Ulrich L. Lehner (Theologieprofessor an der University of Notre Dame)</li><li>Hartmut Benz: Prälat Rudolf von Gerlach. Gewogen – und für zu leicht befunden. In: Römische Quartalschrift für Christliche Altertumskunde und Kirchengeschichte. 2021–2023</li><li>Ulrich L. Lehner: Spion für Papst, Kaiser und British Empire. Das geheimnisvolle Leben des Rudolf von Gerlach. Freiburg 2025</li><li>Benjamin Dürr: Erzberger – Der gehasste Versöhner. Biografie eines Weimarer Politikers. Berlin 2021</li></ul><br><strong>Weiterführender Link:</strong><br><ul><li>Zeitzeichen 22.01.1922: <a href=\"https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-papst-benedikt-xv-todestag--100.html\" rel=\"noopener\" target=\"_blank\">Todestag von Papst Benedikt XV.</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und die Macher hinter diesem Zeitzeichen: </strong><br>Autoren: Markus Harmann und Joachim Heinz<br>Redaktion: Sefa Inci Suvak",
-    "date": "2026-11-07T05:00:15.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-war-er-das-vorbild-fuer-james-bond-rudolf-von-gerlach-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-rudolf-von-gerlach-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/29/3f627439-510e-41f3-8b55-cfb48af886a6/3f627439-510e-41f3-8b55-cfb48af886a6_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
