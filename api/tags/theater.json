@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:f20ec97b-a4b8-5e1c-8053-69362e1c00e1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 17.11.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-17T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-17-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/kulturmeldungen_17112026_dlf_20261117_1756_9f8928eb.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:560b9d3b-58e1-5c0c-8dbc-436083369dae",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Isradrama\" - Theaterfestival der zeitgenössischen Inszenierungen in Tel Aviv",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-17T16:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/isradrama-theaterfestival-der-zeitgenoessischen-inszenierungen-in-tel-aviv-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/isradrama_theaterfestival_der_zeitgenoessischen_dlf_20261117_1750_ba87147d.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:da67675f-b33f-56e2-92f2-098ae25bc4eb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Offenes Geheimnis - Betroffene berichten über Machtmissbrauch im Kulturbetrieb",
+    "summary": "Hoffmann, Jule www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-17T16:44:00.000Z",
+    "url": "https://www.deutschlandfunk.de/offenes-geheimnis-betroffene-berichten-ueber-machtmissbrauch-im-kulturbetrieb-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/offenes_geheimnis_betroffene_berichten_ueber_machtmissbrauch_dlf_20261117_1744_e384f2fd.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bcd5dae6-1d81-576b-bcb5-5819f8d6557f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Bühne frei für Athena\" - Parthenon-Ausstellung in Frankfurt am Main",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-17T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/buehne-frei-fuer-athena-parthenon-ausstellung-in-frankfurt-am-main-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/buehne_frei_fuer_athena_parthenon_ausstellung_in_frankfurt_dlf_20261117_1736_4782b457.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:08e96499-4b67-5a16-801e-89de7713e03e",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/kulturmeldungen_15112026_dlf_20261115_1756_0d4a7563.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0ee9a74f-e055-5019-824f-a05c41fb5660",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Open Mike: 34. Wettbewerb für junge Literatur in Berlin",
-    "summary": "Cornelius Wüllenkemper www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-15T16:50:50.000Z",
-    "url": "https://www.deutschlandfunk.de/open-mike-34-wettbewerb-fuer-junge-literatur-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/open_mike_34_wettbewerb_fuer_junge_literatur_in_berlin_dlf_20261115_1750_16495829.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d18ebd0b-06d2-5b46-90e0-ead4a8099dd1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Unrechtmäßige Versteigerung? Streit um ein Van-Gogh-Gemälde bei Sotheby's",
-    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-15T16:45:21.000Z",
-    "url": "https://www.deutschlandfunk.de/unrechtmaessige-versteigerung-streit-um-ein-van-gogh-gemaelde-bei-sotheby-s-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/unrechtmaessige_versteigerung_streit_um_ein_van_gogh_dlf_20261115_1745_55484904.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:81256ffe-d214-54f1-a86d-8119c3aacdeb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die heilige Johanna der Schlachthöfe\" im Zirkus. Spektakel in der Kokerei Hansa",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-15T16:40:17.000Z",
-    "url": "https://www.deutschlandfunk.de/die-heilige-johanna-der-schlachthoefe-im-zirkus-spektakel-in-der-kokerei-hansa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/die_heilige_johanna_der_schlachthoefe_im_zirkus_spektakel_in_dlf_20261115_1740_fa4740ce.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c014fd03-c903-578f-b1fb-5b2e7f0e0ace",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der FAUST - Der deutsche Theaterpreis ist in Wiesbaden vergeben worden",
-    "summary": "Sojitrawalla, Shirin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-15T16:36:12.000Z",
-    "url": "https://www.deutschlandfunk.de/der-faust-der-deutsche-theaterpreis-ist-in-wiesbaden-vergeben-worden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/15/der_faust_der_deutsche_theaterpreis_ist_in_wiesbaden_dlf_20261115_1736_64465169.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
