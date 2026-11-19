@@ -1,5 +1,32 @@
 [
   {
+    "id": "dlf-der-rest-ist-geschichte:0359b2e4-c228-5144-b19f-7d47f1af678e",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Sozialstaat - Haben wir das verdient?",
+    "summary": "Die Rente am Limit, die Pflegekasse leer, das Elterngeld umstritten: Wie viel Wohlfahrt kann Deutschland sich noch leisten? Der Sozialstaat ist ein Zankapfel mit langer Geschichte. Es geht um Marktwirtschaft und Menschenbilder.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(01:41) Industrialisierung: Arbeiterfamilien ohne staatliche Absicherung<br>(09:54) Deutsche Sozialgesetze seit Otto von Bismarck<br>(20:06) Nationalsozialismus: Staatliche Wohlfahrt als Mittel der Ausgrenzung<br>(23:25) Die Soziale Marktwirtschaft der jungen Bundesrepublik <br>(26:45) DDR: Soziale Sicherung und Klientelpolitik <br>(30:56) 1995: Einführung der Pflegeversicherung - und Entlastung von Frauen <br>(34:47) \"Die Rente ist sicher\" - und die Agenda 2010 mit Hartz IV <br>(40:23) Der Sozialstaat als gefährdetes Versprechen der Demokratie<br><br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li><strong>Nicole Kramer</strong> ist Juniorprofessorin für Zeitgeschichte an der Universität Köln. Sie forscht zur Geschichte von Sozialpolitik und Wohlfahrt.</li></ul><br><ul><li><strong>Lutz Leisering</strong> ist emeritierter Professor für Sozialpolitik und Soziologie an der Universität Bielefeld.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Anja Reinhardt und Robert Hauspurg<br>Faktencheck: Jule Dieterle und Alice Englert<br>Redaktion: Monika Dittrich und Christian Röther <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/geburtenpolitik-bevoelkerung-staat-schlafzimmer-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Geburtenpolitik</li><li><a href=\"https://www.deutschlandfunk.de/preppen-kriege-krisen-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über das Vorsorgen für Krisenzeiten</li><li><a href=\"https://www.deutschlandfunk.de/obdachlosigkeit-geschichte-stigmatisierung-asoziale-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Obdachlosigkeit</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Themenheft (PDF) von <a href=\"https://www.bpb.de/system/files/dokument_pdf/APuZ_2022-20_online.pdf\" rel=\"noopener\" target=\"_blank\">Aus Politik und Zeitgeschichte</a> (APuZ) zur Rente</li><li>Artikel der <a href=\"https://www.bpb.de/shop/zeitschriften/izpb/sozialpolitik-327/214326/geschichte-der-sozialpolitik-normen-und-prinzipien/\" rel=\"noopener\" target=\"_blank\">Bundeszentrale für politische Bildung</a> über die Geschichte der Sozialpolitik</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche:</strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/tech-bro-topia-104.html\" rel=\"noopener\" target=\"_blank\">Tech Bro Topia 2 - KI, Macht und Widerstand</a></li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-11-19T12:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/sozialstaat-wohlfahrt-geschichte-deutschland-100.html",
+    "image": "https://bilder.deutschlandfunk.de/f2/cb/d9/ff/f2cbd9ff-31bb-4fff-be04-c9ca21a88c2f/norbert-bluem-rente-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/sozialpolitik_machtinstrument_und_demokratisches_versprechen_dlf_20261119_1300_723bd8bb.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "44 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-der-rest-ist-geschichte:2ecf1fda-611a-5314-8f61-ea99a874f865",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -227,33 +254,6 @@
     "image": "https://bilder.deutschlandfunk.de/39/52/fd/ad/3952fdad-ec7a-4141-89a5-2df49085c7a1/belgien-deutschland-weltkrieg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/17/deutschland_und_belgien_pragmatische_versoehnung_dlf_20260917_1300_8709407a.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
     "duration": "45 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-09-drig-empfiehlt-das-kalenderblatt-dlf-20260709-1300-df6cc12d-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "DRiG empfiehlt - Hört Euch doch mal das Kalenderblatt an!",
-    "summary": "Euer Geschichtspodcast „Der Rest ist Geschichte“ macht diese Woche Pause. Für die Zwischenzeit empfehlen wir Euch ein anderes Format: Im \"Kalenderblatt\" gibt es jeden Tag ein Stück Geschichte - von Weltkrieg bis Widerstand, von Elvis bis Erfindungen.<br><br><a href=\"https://www.deutschlandfunkkultur.de/kalenderblatt-102.html\" rel=\"noopener\" target=\"_blank\">Das Kalenderblatt</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-09-10T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/drig-empfiehlt-das-kalenderblatt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/78/81/22/22/78812222-6242-4881-a651-902260b6919d/hosts-der-rest-ist-geschichte-tran-biesler-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/drig_empfiehlt_das_kalenderblatt_dlf_20260709_1300_df6cc12d.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "2 Min",
     "tags": [
       "geschichte",
       "zeitgeschichte",

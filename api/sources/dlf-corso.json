@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:9c36db9d-b462-59f4-b4fa-f31ec3a03bd4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: La Bola Negra, Wiener Blues, The Weight",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-11-18T14:15:40.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-la-bola-negra-wiener-blues-the-weight-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/neue_filme_la_bola_negra_wiener_blues_the_weight_dlf_20261118_1515_992a3b54.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:184b846b-7635-543c-bf43-843afb6cddd7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Preview: \"You can see everything\" - warum ist diese Doku so erfolgreich?",
+    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
+    "date": "2026-11-18T14:15:37.000Z",
+    "url": "https://www.deutschlandfunk.de/preview-you-can-see-everything-warum-ist-diese-doku-so-erfolgreich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/preview_you_can_see_everything_warum_ist_diese_doku_so_dlf_20261118_1515_772bfcd2.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:179e448a-e873-5a3e-a148-6c29c0701291",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Podcast: Air Conditioned - Architektur zwischen Behaglichkeit und Klimawandel",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-18T14:02:03.000Z",
+    "url": "https://www.deutschlandfunk.de/podcast-air-conditioned-architektur-zwischen-behaglichkeit-und-klimawandel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/podcast_air_conditioned_architektur_zwischen_behaglichkeit_dlf_20261118_1502_68f3b0c7.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:f6e270f6-0350-5617-a4cc-8dedde154ae4",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/vintage_klamotten_und_neue_volkslieder_die_gewitzte_dlf_20261114_1540_1e9994cd.mp3?refId=corso-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4ceb7d0c-8d8c-5c8d-b92a-147721207356",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Das Chaos schwingt immer mit\" - Düstere neue Songs von Girlwoman",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-11-14T14:22:00.000Z",
-    "url": "https://www.deutschlandfunk.de/das-chaos-schwingt-immer-mit-duestere-neue-songs-von-girlwoman-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/das_chaos_schwingt_immer_mit_duestere_neue_songs_von_dlf_20261114_1522_29979989.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d398f41a-809b-5d94-9b2d-70d263d7ec8f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Carneval De Luz\" von U2 - Vier Männer, 50 Jahre und ein neues Album",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-11-14T14:08:00.000Z",
-    "url": "https://www.deutschlandfunk.de/carneval-de-luz-von-u2-vier-maenner-50-jahre-und-ein-neues-album-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/carneval_de_luz_von_u2_vier_maenner_50_jahre_und_ein_neues_dlf_20261114_1508_4d951836.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:02af514e-deb9-566e-a8df-b8431f70afe7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Orchestre du nouveau monde - der Sound der französischen Protestbewegung",
-    "summary": "Detjen, Stephan www.deutschlandfunk.de, Corso",
-    "date": "2026-11-13T14:15:33.000Z",
-    "url": "https://www.deutschlandfunk.de/orchestre-du-nouveau-monde-der-sound-der-franzoesischen-protestbewegung-104.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/13/orchestre_du_nouveau_monde_der_sound_der_franzoesischen_dlf_20261113_1515_2150798e.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
