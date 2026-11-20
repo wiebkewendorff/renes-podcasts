@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:8082f6457ac1be0c0e701c26504e4787",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Naturschutz: Von Vogelfreunden, Nazis und Windrädern",
+    "summary": "<p>Im November 1871 taucht \"Naturschutz\" erstmals in der deutschen Sprache auf. Erst geht es um schöne Landschaften, später auch um Ideologie: Wie politisch ist Naturschutz?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Marko Rösseler:</strong><br><ul><li>dass der Schutz des Drachenfels im 19. Jahrhundert mehr aus ökonomischen als aus ökologischen Gründen gefordert wird, </li><li>wie die Industrialisierung sich negativ auf die Natur auswirkt,</li><li>warum Nationalsozialisten den \"Naturschutz\" für ihre Ideologie vereinnahmen,</li><li>über den bis heutige sichtbaren Unterschied zwischen Umwelt- und Naturschützern.</li></ul><br>Als der Steinabbau im 19. Jahrhundert das Siebengebirge zwischen Köln und Bonn zunehmend zerkleinert, bangen Bürger um den Drachenfels - ein schon seinerzeit beliebtes Ausflugsziel. Sie protestieren beim preußischen König, der schließlich den Steinabbau verbietet und die Drachenfelsspitze unter Schutz stellt.<br><br>In der Folge gründen sich Vereine, die sich gegen die Zerstörung der Natur durch Steinbrüche rund um den Drachenfels richten. Auch der \"Bund Heimathschutz\" um den Komponisten Ernst Rudorff setzt sich ab 1904 für den Erhalt von Natur und Landschaft ein. Ernst Rudorff gilt daher lange als Erfinder des deutschen Naturschutzes.<br><br>Erst in den letzten Jahren weisen Historiker nach, dass der Tierpräparator und Vogelliebhaber Philipp Leopold Martin schon 1871 in einem Aufsatz den Begriff \"Naturschutz\" verwendet hat.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Jürgen Rosebrock, Historiker, Stiftung Naturschutzgeschichte</li><li>Gerhard Hachmann / Rainer Koch (Hrsg.): Wider die rationelle Bewirtschaftung! Texte und Quellen zur Entstehung des deutschen Naturschutzes. Bundesamt für Naturschutz (BFN) Skripten 417. Bonn 2015</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stiftung Naturschutzgeschichte: <a href=\"https://www.naturschutzgeschichte.de/\" rel=\"noopener\" target=\"_blank\">Naturschutz hat Geschichte</a></li><li>Stichtag: 03.03.1973 -<a href=\"https://www1.wdr.de/stichtag/stichtag-cites-artenschutzabkommen-100.html\" rel=\"noopener\" target=\"_blank\"> Artenschutzabkommen CITES unterzeichnet</a></li><li>Stichtag: 13.04.1776 - <a href=\"https://www1.wdr.de/stichtag/stichtag-naturschutzgebiet-tobago-100.html\" rel=\"noopener\" target=\"_blank\">Regenwald auf Tobago wird Naturschutzgebiet</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Marko Rösseler<br>Redaktion: Matti Hesse<br>Technik: Sarah Fitzek",
+    "date": "2026-11-20T05:00:36.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-naturschutz-von-vogelfreunden-nazis-und-windraedern-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-wort-naturschutz-taucht-in-deutscher-sprache-auf-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/27/ae0a141d-7ab5-471d-9123-9eb0d61118ca/ae0a141d-7ab5-471d-9123-9eb0d61118ca_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-der-rest-ist-geschichte:0359b2e4-c228-5144-b19f-7d47f1af678e",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -248,29 +271,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-route-die-traumstrasse-die-es-so-nie-gegeben-hat-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-highway-sechs-sechs-104~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/20/b42dfcf2-4ebd-4ad2-a54e-1e16e0c80d64/b42dfcf2-4ebd-4ad2-a54e-1e16e0c80d64_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:9f01a73ed1a1d1320e7507168d996008",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Zwischen Kuckucksnest-Ruhm und Hippie-Revolution: Ken Kesey",
-    "summary": "<p>Am 10.11.2001 stirbt der Schriftsteller Ken Kesey, weltberühmt durch seinen Roman \"Einer flog über das Kuckucksnest\". Er hat über Rebellion geschrieben - und sie gelebt.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Irene Geuer:</strong><br><ul><li>wie ein CIA -Drogenexperiment Keseys Blick auf die Welt verändert, </li><li>weshalb ein alter Schulbus namens \" Further \" zur Legende einer ganzen Generation wird,</li><li>wieso Kesey die Verfilmung seines größten Erfolgs kritisch sieht,</li><li>welche Rolle Kesey bei der Entstehung der Hippiebewegung spielt, </li><li>warum sein letzter Roman viele Entwicklungen der 2020er-Jahre erstaunlich präzise vorwegnimmt.</li></ul><br>Ken Kesey wächst im Amerika der 1950er-Jahre auf, einer Zeit der Konformität und gesellschaftlichen Kontrolle. Statt den vorgezeichneten Weg zu gehen, wird er Schriftsteller und stößt bei freiwilligen CIA-Drogentests auf Erfahrungen, die sein Denken nachhaltig prägen. Als Nachtwächter in einer psychiatrischen Klinik beobachtet er Mechanismen von Macht und Ausgrenzung, die zum Stoff seines berühmtesten Romans werden.<br><br>Mit \"Einer flog über das Kuckucksnest\" wird er weltweit bekannt. Später zieht er mit den \" Merry Pranksters \", einer nonkonformistischen Künstlergruppe, in einem kunterbunt bemalten Bus durch die USA und wird zu einer Symbolfigur für Freiheit, Experimentierfreude und gesellschaftliche Kritik. In seinem letzten Roman beschäftigt er sich erneut mit Freiheit, gesellschaftlichen Umbrüchen und den Folgen politischer und ökologischer Krisen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Norbert Finzsch, Amerikahistoriker</li><li>Milena Adam, Literaturübersetzerin</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stichtag 17.09.1935: <a href=\"https://www1.wdr.de/stichtag/stichtag-ken-kesey-100.html\" rel=\"noopener\" target=\"_blank\">Geburtstag des Schriftstellers Ken Kesey</a></li><li>Oregon Encyclopedia: <a href=\"https://www.oregonencyclopedia.org/articles/kesey_ken/\" rel=\"noopener\" target=\"_blank\">Ken Kesey</a></li><li>Zeitzeichen 07.08.1965: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-hippie-bewegung-106.html\" rel=\"noopener\" target=\"_blank\">Hippies kommen in La Honda zusammen</a></li><li>Rockpalast: <a href=\"https://www1.wdr.de/fernsehen/rockpalast/dokumentationen/woodstock/woodstock-hippies-100.html\" rel=\"noopener\" target=\"_blank\">Liebe, Frieden, Harmonie: die Hippie-Ära</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Irene Geuer<br>Redaktion: Christoph Tiegel, Frank Zirpins<br>Technik: Jürgen Beiner",
-    "date": "2026-11-10T05:00:10.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-zwischen-kuckucksnest-ruhm-und-hippie-revolution-ken-kesey-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-ken-kesey-104~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/04/37c8a900-5315-479e-9417-e935f74e4c23/37c8a900-5315-479e-9417-e935f74e4c23_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

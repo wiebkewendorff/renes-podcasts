@@ -1,5 +1,55 @@
 [
   {
+    "id": "dlf-corso:de227956-abe9-57bc-96ec-bfe6b221a0d4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "USA-Satire mit Pophits - Die Rolle der Radios in GTA",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-11-19T14:15:52.000Z",
+    "url": "https://www.deutschlandfunk.de/usa-satire-mit-pophits-die-rolle-der-radios-in-gta-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/usa_satire_mit_pophits_die_rolle_der_radios_in_gta_dlf_20261119_1515_f66c7061.mp3?refId=corso-104",
+    "duration": "17 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f63dbfae-377b-5398-bde1-1e02c437b9d9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "US-Game-Satire GTA 6 - Das größte Kulturprodukt des Jahres",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-19T14:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/us-game-satire-gta-6-das-groesste-kulturprodukt-des-jahres-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/us_game_satire_gta_6_das_groesste_kulturprodukt_des_jahres_dlf_20261119_1508_425be115.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:9c36db9d-b462-59f4-b4fa-f31ec3a03bd4",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/kulisse_der_macht_berlin_als_perfekter_drehort_fuer_die_dlf_20261116_1515_f0cea0ac.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5287ca6e-f0e0-5a49-a0af-29e2a003cf5a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kochen mit Ketchup - Ein Buch feiert den Popstar unter den Saucen",
-    "summary": "Müller, Paulus; Friebe, Holm www.deutschlandfunk.de, Corso",
-    "date": "2026-11-16T14:05:08.000Z",
-    "url": "https://www.deutschlandfunk.de/kochen-mit-ketchup-ein-buch-feiert-den-popstar-unter-den-saucen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/kochen_mit_ketchup_ein_buch_feiert_den_popstar_unter_den_dlf_20261116_1505_7d92c7aa.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:14269004-7774-568e-8b86-721b06212ff8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vintage-Klamotten und neue Volkslieder - die gewitzte Weltmusik von Ladaniva",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-11-14T14:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/vintage-klamotten-und-neue-volkslieder-die-gewitzte-weltmusik-von-ladaniva-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/vintage_klamotten_und_neue_volkslieder_die_gewitzte_dlf_20261114_1540_1e9994cd.mp3?refId=corso-104",
-    "duration": "9 Min",
     "tags": [
       "kultur",
       "pop",

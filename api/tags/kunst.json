@@ -1,5 +1,185 @@
 [
   {
+    "id": "dlf-kultur-heute:19687663-2497-54ba-8a6a-73182531bfd3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 19.11.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/kulturmeldungen_19112026_dlf_20261119_1756_090c79b7.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:33bfc6fe-c6e9-5676-9fef-5f57819a6a93",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Erfindung einer Klassikerin - Eine Marbacher Ausstellung über Susan Sontag",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:51:45.000Z",
+    "url": "https://www.deutschlandfunk.de/erfindung-einer-klassikerin-eine-marbacher-ausstellung-ueber-susan-sontag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/erfindung_einer_klassikerin_eine_marbacher_ausstellung_ueber_dlf_20261119_1751_1a0abe51.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a39b0c50-0ac4-521c-9290-390f027f9f63",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Out of the Box - Gisèle Freund-Ausstellung im Jüdischen Museum Frankfurt",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:46:14.000Z",
+    "url": "https://www.deutschlandfunk.de/out-of-the-box-gis-le-freund-ausstellung-im-juedischen-museum-frankfurt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/out_of_the_box_gisele_freund_ausstellung_im_juedischen_dlf_20261119_1746_a509ca2d.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d25f66fa-091f-5e9a-8636-a0ba202e5fbd",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "La bola negra - Spaniens OSCAR-Favorit von Javier Calvo und Javier Ambrossi",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:40:56.000Z",
+    "url": "https://www.deutschlandfunk.de/la-bola-negra-spaniens-oscar-favorit-von-javier-calvo-und-javier-ambrossi-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/la_bola_negra_spaniens_oscar_favorit_von_javier_calvo_und_dlf_20261119_1740_2408baf0.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:09e1a155-b46e-5a38-8b60-e907a7898c8b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Shenzhen Jalta - Hinkt der historisch Vergleich? Tillmann Bendikowski, Histor.",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:35:32.000Z",
+    "url": "https://www.deutschlandfunk.de/shenzhen-jalta-hinkt-der-historisch-vergleich-tillmann-bendikowski-histor-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/shenzhen_jalta_hinkt_der_historisch_vergleich_tillmann_dlf_20261119_1735_b5075796.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:de227956-abe9-57bc-96ec-bfe6b221a0d4",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "USA-Satire mit Pophits - Die Rolle der Radios in GTA",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-11-19T14:15:52.000Z",
+    "url": "https://www.deutschlandfunk.de/usa-satire-mit-pophits-die-rolle-der-radios-in-gta-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/usa_satire_mit_pophits_die_rolle_der_radios_in_gta_dlf_20261119_1515_f66c7061.mp3?refId=corso-104",
+    "duration": "17 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f63dbfae-377b-5398-bde1-1e02c437b9d9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "US-Game-Satire GTA 6 - Das größte Kulturprodukt des Jahres",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-19T14:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/us-game-satire-gta-6-das-groesste-kulturprodukt-des-jahres-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/us_game_satire_gta_6_das_groesste_kulturprodukt_des_jahres_dlf_20261119_1508_425be115.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:56c2ba24-c412-5ff3-871c-8461b3b0672d",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -205,110 +385,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:f20ec97b-a4b8-5e1c-8053-69362e1c00e1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 17.11.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-17T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-17-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/kulturmeldungen_17112026_dlf_20261117_1756_9f8928eb.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:560b9d3b-58e1-5c0c-8dbc-436083369dae",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Isradrama\" - Theaterfestival der zeitgenössischen Inszenierungen in Tel Aviv",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-17T16:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/isradrama-theaterfestival-der-zeitgenoessischen-inszenierungen-in-tel-aviv-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/isradrama_theaterfestival_der_zeitgenoessischen_dlf_20261117_1750_ba87147d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:da67675f-b33f-56e2-92f2-098ae25bc4eb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Offenes Geheimnis - Betroffene berichten über Machtmissbrauch im Kulturbetrieb",
-    "summary": "Hoffmann, Jule www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-17T16:44:00.000Z",
-    "url": "https://www.deutschlandfunk.de/offenes-geheimnis-betroffene-berichten-ueber-machtmissbrauch-im-kulturbetrieb-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/offenes_geheimnis_betroffene_berichten_ueber_machtmissbrauch_dlf_20261117_1744_e384f2fd.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bcd5dae6-1d81-576b-bcb5-5819f8d6557f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Bühne frei für Athena\" - Parthenon-Ausstellung in Frankfurt am Main",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-17T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/buehne-frei-fuer-athena-parthenon-ausstellung-in-frankfurt-am-main-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/buehne_frei_fuer_athena_parthenon_ausstellung_in_frankfurt_dlf_20261117_1736_4782b457.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:f6e270f6-0350-5617-a4cc-8dedde154ae4",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -410,32 +486,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:08e96499-4b67-5a16-801e-89de7713e03e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 16.11.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-16T16:56:20.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/kulturmeldungen_16112026_dlf_20261116_1756_3b65dc41.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:b417827e-866f-50db-b048-d739da0cdacc",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -472,56 +522,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/kulisse_der_macht_berlin_als_perfekter_drehort_fuer_die_dlf_20261116_1515_f0cea0ac.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5287ca6e-f0e0-5a49-a0af-29e2a003cf5a",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kochen mit Ketchup - Ein Buch feiert den Popstar unter den Saucen",
-    "summary": "Müller, Paulus; Friebe, Holm www.deutschlandfunk.de, Corso",
-    "date": "2026-11-16T14:05:08.000Z",
-    "url": "https://www.deutschlandfunk.de/kochen-mit-ketchup-ein-buch-feiert-den-popstar-unter-den-saucen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/kochen_mit_ketchup_ein_buch_feiert_den_popstar_unter_den_dlf_20261116_1505_7d92c7aa.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:14269004-7774-568e-8b86-721b06212ff8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vintage-Klamotten und neue Volkslieder - die gewitzte Weltmusik von Ladaniva",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-11-14T14:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/vintage-klamotten-und-neue-volkslieder-die-gewitzte-weltmusik-von-ladaniva-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/vintage_klamotten_und_neue_volkslieder_die_gewitzte_dlf_20261114_1540_1e9994cd.mp3?refId=corso-104",
-    "duration": "9 Min",
     "tags": [
       "kultur",
       "pop",

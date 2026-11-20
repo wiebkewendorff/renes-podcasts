@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:19687663-2497-54ba-8a6a-73182531bfd3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 19.11.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/kulturmeldungen_19112026_dlf_20261119_1756_090c79b7.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:33bfc6fe-c6e9-5676-9fef-5f57819a6a93",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Erfindung einer Klassikerin - Eine Marbacher Ausstellung über Susan Sontag",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:51:45.000Z",
+    "url": "https://www.deutschlandfunk.de/erfindung-einer-klassikerin-eine-marbacher-ausstellung-ueber-susan-sontag-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/erfindung_einer_klassikerin_eine_marbacher_ausstellung_ueber_dlf_20261119_1751_1a0abe51.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a39b0c50-0ac4-521c-9290-390f027f9f63",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Out of the Box - Gisèle Freund-Ausstellung im Jüdischen Museum Frankfurt",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:46:14.000Z",
+    "url": "https://www.deutschlandfunk.de/out-of-the-box-gis-le-freund-ausstellung-im-juedischen-museum-frankfurt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/out_of_the_box_gisele_freund_ausstellung_im_juedischen_dlf_20261119_1746_a509ca2d.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d25f66fa-091f-5e9a-8636-a0ba202e5fbd",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "La bola negra - Spaniens OSCAR-Favorit von Javier Calvo und Javier Ambrossi",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:40:56.000Z",
+    "url": "https://www.deutschlandfunk.de/la-bola-negra-spaniens-oscar-favorit-von-javier-calvo-und-javier-ambrossi-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/la_bola_negra_spaniens_oscar_favorit_von_javier_calvo_und_dlf_20261119_1740_2408baf0.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:09e1a155-b46e-5a38-8b60-e907a7898c8b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Shenzhen Jalta - Hinkt der historisch Vergleich? Tillmann Bendikowski, Histor.",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-19T16:35:32.000Z",
+    "url": "https://www.deutschlandfunk.de/shenzhen-jalta-hinkt-der-historisch-vergleich-tillmann-bendikowski-histor-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/shenzhen_jalta_hinkt_der_historisch_vergleich_tillmann_dlf_20261119_1735_b5075796.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:56c2ba24-c412-5ff3-871c-8461b3b0672d",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/denkmal_fuer_die_opfer_des_kommunismus_siegerentwurf_in_dlf_20261118_1735_62bc5673.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f20ec97b-a4b8-5e1c-8053-69362e1c00e1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 17.11.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-17T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-17-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/kulturmeldungen_17112026_dlf_20261117_1756_9f8928eb.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:560b9d3b-58e1-5c0c-8dbc-436083369dae",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Isradrama\" - Theaterfestival der zeitgenössischen Inszenierungen in Tel Aviv",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-17T16:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/isradrama-theaterfestival-der-zeitgenoessischen-inszenierungen-in-tel-aviv-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/isradrama_theaterfestival_der_zeitgenoessischen_dlf_20261117_1750_ba87147d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:da67675f-b33f-56e2-92f2-098ae25bc4eb",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Offenes Geheimnis - Betroffene berichten über Machtmissbrauch im Kulturbetrieb",
-    "summary": "Hoffmann, Jule www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-17T16:44:00.000Z",
-    "url": "https://www.deutschlandfunk.de/offenes-geheimnis-betroffene-berichten-ueber-machtmissbrauch-im-kulturbetrieb-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/offenes_geheimnis_betroffene_berichten_ueber_machtmissbrauch_dlf_20261117_1744_e384f2fd.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bcd5dae6-1d81-576b-bcb5-5819f8d6557f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Bühne frei für Athena\" - Parthenon-Ausstellung in Frankfurt am Main",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-17T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/buehne-frei-fuer-athena-parthenon-ausstellung-in-frankfurt-am-main-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/buehne_frei_fuer_athena_parthenon_ausstellung_in_frankfurt_dlf_20261117_1736_4782b457.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:08e96499-4b67-5a16-801e-89de7713e03e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 16.11.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-16T16:56:20.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-16-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/kulturmeldungen_16112026_dlf_20261116_1756_3b65dc41.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",
