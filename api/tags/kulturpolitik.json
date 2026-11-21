@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:81913bd5-cf94-563d-b7f6-ff26694bed37",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 20.11.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:56:14.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/kulturmeldungen_20112026_dlf_20261120_1756_6c10e8c7.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2a3f575b-109e-5459-ab3b-fb760294f5ed",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Unstable Media\" - Positionen der Medienkunst in Hamburg",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:51:49.000Z",
+    "url": "https://www.deutschlandfunk.de/unstable-media-positionen-der-medienkunst-in-hamburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/unstable_media_positionen_der_medienkunst_in_hamburg_dlf_20261120_1751_3c0e8d65.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6434980a-36e7-522f-8dd4-90d117207642",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"GLA55\" - Uraufführung von Anne Teresa De Keersmaeker in Berlin",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:47:19.000Z",
+    "url": "https://www.deutschlandfunk.de/gla55-urauffuehrung-von-anne-teresa-de-keersmaeker-in-berlin-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/gla55_urauffuehrung_von_anne_teresa_de_keersmaeker_in_berlin_dlf_20261120_1747_c70cd912.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:99f547e2-0422-5a86-b6a4-522b68748596",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aufbruch in die Neuzeit: Jan van Eycks Porträts in London",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:42:10.000Z",
+    "url": "https://www.deutschlandfunk.de/aufbruch-in-die-neuzeit-jan-van-eycks-portraets-in-london-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/aufbruch_in_die_neuzeit_jan_van_eycks_portraets_in_london_dlf_20261120_1742_7c0a8b7f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ccbfd697-1c1c-597e-9256-4c00ea2b4128",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mit Putin verhandeln? Der Osteuropahistoriker Martin Schulze Wessel im Gespräch",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:36:29.000Z",
+    "url": "https://www.deutschlandfunk.de/mit-putin-verhandeln-der-osteuropahistoriker-martin-schulze-wessel-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/mit_putin_verhandeln_der_osteuropahistoriker_martin_schulze_dlf_20261120_1736_fc07e8c3.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:19687663-2497-54ba-8a6a-73182531bfd3",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -114,136 +244,6 @@
     "url": "https://www.deutschlandfunk.de/shenzhen-jalta-hinkt-der-historisch-vergleich-tillmann-bendikowski-histor-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/shenzhen_jalta_hinkt_der_historisch_vergleich_tillmann_dlf_20261119_1735_b5075796.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:56c2ba24-c412-5ff3-871c-8461b3b0672d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 18.11.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:56:24.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/kulturmeldungen_18112026_dlf_20261118_1756_dac132fc.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d4e84296-76b5-536e-ae98-befc692b4534",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wahrlich \"ballenesque\" - Roger Ballen in einer Ausstellung in Berlin",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:50:50.000Z",
-    "url": "https://www.deutschlandfunk.de/wahrlich-ballenesque-roger-ballen-in-einer-ausstellung-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/wahrlich_ballenesque_roger_ballen_in_einer_ausstellung_in_dlf_20261118_1750_eabfc36e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:de6357bd-4319-52c4-a4b6-3726794ae1a2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Who cared? Neues Onlinearchiv erinnert an migrantische Carearbeiterinnen",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:46:05.000Z",
-    "url": "https://www.deutschlandfunk.de/who-cared-neues-onlinearchiv-erinnert-an-migrantische-carearbeiterinnen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/who_cared_neues_onlinearchiv_erinnert_an_migrantische_dlf_20261118_1746_c9be8e00.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:419d70b2-133d-539e-ba97-6e6c5ed7114e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schauspielerin Maren Kroymann zum Tod des Autors Lutz van Dijk",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:40:51.000Z",
-    "url": "https://www.deutschlandfunk.de/schauspielerin-maren-kroymann-zum-tod-des-autors-lutz-van-dijk-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/schauspielerin_maren_kroymann_zum_tod_des_autors_lutz_van_dlf_20261118_1740_8cbd9cd2.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5091e7e0-6044-504d-9621-94327f5bf43b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Denkmal für die Opfer des Kommunismus - Siegerentwurf in Berlin vorgestellt",
-    "summary": "Procyk, Milan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:35:20.000Z",
-    "url": "https://www.deutschlandfunk.de/denkmal-fuer-die-opfer-des-kommunismus-siegerentwurf-in-berlin-vorgestellt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/denkmal_fuer_die_opfer_des_kommunismus_siegerentwurf_in_dlf_20261118_1735_62bc5673.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",

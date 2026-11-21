@@ -26,6 +26,211 @@
     "language": "de"
   },
   {
+    "id": "dlf-kultur-heute:81913bd5-cf94-563d-b7f6-ff26694bed37",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 20.11.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:56:14.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/kulturmeldungen_20112026_dlf_20261120_1756_6c10e8c7.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2a3f575b-109e-5459-ab3b-fb760294f5ed",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Unstable Media\" - Positionen der Medienkunst in Hamburg",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:51:49.000Z",
+    "url": "https://www.deutschlandfunk.de/unstable-media-positionen-der-medienkunst-in-hamburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/unstable_media_positionen_der_medienkunst_in_hamburg_dlf_20261120_1751_3c0e8d65.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6434980a-36e7-522f-8dd4-90d117207642",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"GLA55\" - Uraufführung von Anne Teresa De Keersmaeker in Berlin",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:47:19.000Z",
+    "url": "https://www.deutschlandfunk.de/gla55-urauffuehrung-von-anne-teresa-de-keersmaeker-in-berlin-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/gla55_urauffuehrung_von_anne_teresa_de_keersmaeker_in_berlin_dlf_20261120_1747_c70cd912.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:99f547e2-0422-5a86-b6a4-522b68748596",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aufbruch in die Neuzeit: Jan van Eycks Porträts in London",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:42:10.000Z",
+    "url": "https://www.deutschlandfunk.de/aufbruch-in-die-neuzeit-jan-van-eycks-portraets-in-london-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/aufbruch_in_die_neuzeit_jan_van_eycks_portraets_in_london_dlf_20261120_1742_7c0a8b7f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ccbfd697-1c1c-597e-9256-4c00ea2b4128",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mit Putin verhandeln? Der Osteuropahistoriker Martin Schulze Wessel im Gespräch",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-20T16:36:29.000Z",
+    "url": "https://www.deutschlandfunk.de/mit-putin-verhandeln-der-osteuropahistoriker-martin-schulze-wessel-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/mit_putin_verhandeln_der_osteuropahistoriker_martin_schulze_dlf_20261120_1736_fc07e8c3.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4c2945ad-78c5-5a98-8544-0f881be97c29",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Serie \"Ballz\" - Lachen über Hodenkrebs?",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-11-20T14:15:57.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-serie-ballz-lachen-ueber-hodenkrebs-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/neue_serie_ballz_lachen_ueber_hodenkrebs_dlf_20261120_1515_e77b2065.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a7f275e8-b910-5796-816f-14290e5761be",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Still In A Dream\" - Wird Retromania-Reynolds jetzt selbst nostalgisch?",
+    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
+    "date": "2026-11-20T14:05:15.000Z",
+    "url": "https://www.deutschlandfunk.de/still-in-a-dream-wird-retromania-reynolds-jetzt-selbst-nostalgisch-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/still_in_a_dream_wird_retromania_reynolds_jetzt_selbst_dlf_20261120_1505_2065df30.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1ab9efba-a47b-56e7-8e5d-5f34a3ed4507",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "30 Jahre Space Invader - Streetart zwischen Game und Stadtpolitik",
+    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
+    "date": "2026-11-20T14:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/30-jahre-space-invader-streetart-zwischen-game-und-stadtpolitik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/30_jahre_space_invader_streetart_zwischen_game_und_dlf_20261120_1505_ad5c91fa.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-alles-gesagt:ab140869-3e53-494b-8508-c58e6e4a90bb",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -283,136 +488,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:56c2ba24-c412-5ff3-871c-8461b3b0672d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 18.11.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:56:24.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-18-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/kulturmeldungen_18112026_dlf_20261118_1756_dac132fc.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d4e84296-76b5-536e-ae98-befc692b4534",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wahrlich \"ballenesque\" - Roger Ballen in einer Ausstellung in Berlin",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:50:50.000Z",
-    "url": "https://www.deutschlandfunk.de/wahrlich-ballenesque-roger-ballen-in-einer-ausstellung-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/wahrlich_ballenesque_roger_ballen_in_einer_ausstellung_in_dlf_20261118_1750_eabfc36e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:de6357bd-4319-52c4-a4b6-3726794ae1a2",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Who cared? Neues Onlinearchiv erinnert an migrantische Carearbeiterinnen",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:46:05.000Z",
-    "url": "https://www.deutschlandfunk.de/who-cared-neues-onlinearchiv-erinnert-an-migrantische-carearbeiterinnen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/who_cared_neues_onlinearchiv_erinnert_an_migrantische_dlf_20261118_1746_c9be8e00.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:419d70b2-133d-539e-ba97-6e6c5ed7114e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schauspielerin Maren Kroymann zum Tod des Autors Lutz van Dijk",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:40:51.000Z",
-    "url": "https://www.deutschlandfunk.de/schauspielerin-maren-kroymann-zum-tod-des-autors-lutz-van-dijk-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/schauspielerin_maren_kroymann_zum_tod_des_autors_lutz_van_dlf_20261118_1740_8cbd9cd2.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5091e7e0-6044-504d-9621-94327f5bf43b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Denkmal für die Opfer des Kommunismus - Siegerentwurf in Berlin vorgestellt",
-    "summary": "Procyk, Milan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-18T16:35:20.000Z",
-    "url": "https://www.deutschlandfunk.de/denkmal-fuer-die-opfer-des-kommunismus-siegerentwurf-in-berlin-vorgestellt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/denkmal_fuer_die_opfer_des_kommunismus_siegerentwurf_in_dlf_20261118_1735_62bc5673.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:9c36db9d-b462-59f4-b4fa-f31ec3a03bd4",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -589,31 +664,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:5a2af9b5-df3f-515d-8d7b-0c46d7304526",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Serie über Wiener Kongress: Österreichisches \"Games of Thrones\"?",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-17T14:15:06.000Z",
-    "url": "https://www.deutschlandfunk.de/serie-ueber-wiener-kongress-oesterreichisches-games-of-thrones-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/serie_ueber_wiener_kongress_oesterreichisches_games_of_dlf_20261117_1515_5d00650f.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "10-minuten-wissen-kunst:6afbc1f4039b1d1997270759",
     "source": "10-minuten-wissen-kunst",
     "sourceTitle": "10 Minuten Wissen – Kunst",
@@ -661,56 +711,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b417827e-866f-50db-b048-d739da0cdacc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "1Live vs. KitschKrieg - Was bringt eine Deutsch-Quote bei Musik im Radio?",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-11-16T14:15:46.000Z",
-    "url": "https://www.deutschlandfunk.de/1live-vs-kitschkrieg-was-bringt-eine-deutsch-quote-bei-musik-im-radio-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/1live_vs_kitschkrieg_was_bringt_eine_deutsch_quote_bei_musik_dlf_20261116_1515_abe1802f.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:153e7029-0add-5c32-83e8-df9671d33e14",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulisse der Macht - Berlin als perfekter Drehort für \"Die Tribute von Panem\"",
-    "summary": "Wollner, Anna www.deutschlandfunk.de, Corso",
-    "date": "2026-11-16T14:15:23.000Z",
-    "url": "https://www.deutschlandfunk.de/kulisse-der-macht-berlin-als-perfekter-drehort-fuer-die-tribute-von-panem-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/kulisse_der_macht_berlin_als_perfekter_drehort_fuer_die_dlf_20261116_1515_f0cea0ac.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

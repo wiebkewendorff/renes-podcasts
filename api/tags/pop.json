@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:4c2945ad-78c5-5a98-8544-0f881be97c29",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Serie \"Ballz\" - Lachen über Hodenkrebs?",
+    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
+    "date": "2026-11-20T14:15:57.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-serie-ballz-lachen-ueber-hodenkrebs-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/neue_serie_ballz_lachen_ueber_hodenkrebs_dlf_20261120_1515_e77b2065.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a7f275e8-b910-5796-816f-14290e5761be",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Still In A Dream\" - Wird Retromania-Reynolds jetzt selbst nostalgisch?",
+    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
+    "date": "2026-11-20T14:05:15.000Z",
+    "url": "https://www.deutschlandfunk.de/still-in-a-dream-wird-retromania-reynolds-jetzt-selbst-nostalgisch-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/still_in_a_dream_wird_retromania_reynolds_jetzt_selbst_dlf_20261120_1505_2065df30.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1ab9efba-a47b-56e7-8e5d-5f34a3ed4507",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "30 Jahre Space Invader - Streetart zwischen Game und Stadtpolitik",
+    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
+    "date": "2026-11-20T14:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/30-jahre-space-invader-streetart-zwischen-game-und-stadtpolitik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/30_jahre_space_invader_streetart_zwischen_game_und_dlf_20261120_1505_ad5c91fa.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:de227956-abe9-57bc-96ec-bfe6b221a0d4",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/riecht_nach_zensur_zehra_oemeroglus_comic_ueber_ihr_dlf_20261117_1515_2cfbd468.mp3?refId=corso-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5a2af9b5-df3f-515d-8d7b-0c46d7304526",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Serie über Wiener Kongress: Österreichisches \"Games of Thrones\"?",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-17T14:15:06.000Z",
-    "url": "https://www.deutschlandfunk.de/serie-ueber-wiener-kongress-oesterreichisches-games-of-thrones-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/serie_ueber_wiener_kongress_oesterreichisches_games_of_dlf_20261117_1515_5d00650f.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b417827e-866f-50db-b048-d739da0cdacc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "1Live vs. KitschKrieg - Was bringt eine Deutsch-Quote bei Musik im Radio?",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-11-16T14:15:46.000Z",
-    "url": "https://www.deutschlandfunk.de/1live-vs-kitschkrieg-was-bringt-eine-deutsch-quote-bei-musik-im-radio-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/1live_vs_kitschkrieg_was_bringt_eine_deutsch_quote_bei_musik_dlf_20261116_1515_abe1802f.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:153e7029-0add-5c32-83e8-df9671d33e14",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulisse der Macht - Berlin als perfekter Drehort für \"Die Tribute von Panem\"",
-    "summary": "Wollner, Anna www.deutschlandfunk.de, Corso",
-    "date": "2026-11-16T14:15:23.000Z",
-    "url": "https://www.deutschlandfunk.de/kulisse-der-macht-berlin-als-perfekter-drehort-fuer-die-tribute-von-panem-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/16/kulisse_der_macht_berlin_als_perfekter_drehort_fuer_die_dlf_20261116_1515_f0cea0ac.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
