@@ -26,6 +26,81 @@
     "language": "de"
   },
   {
+    "id": "dlf-corso:49bb33c6-a638-5fe5-80d3-82cd94b0b3a5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Chor B O D I E S von Kat Frankie - Acht Stimmen als kleine Utopie",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-21T14:20:17.000Z",
+    "url": "https://www.deutschlandfunk.de/chor-b-o-d-i-e-s-von-kat-frankie-acht-stimmen-als-kleine-utopie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/chor_b_o_d_i_e_s_von_kat_frankie_acht_stimmen_als_kleine_dlf_20261121_1520_5fa25b6c.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:5cd93d1b-f1b3-51e4-a066-2d32a8ec0ab7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "50 Jahre \"Oxygène\" - Der Soundtrack zu einer Zukunft, die nie kam",
+    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
+    "date": "2026-11-21T14:12:59.000Z",
+    "url": "https://www.deutschlandfunk.de/50-jahre-oxyg-ne-der-soundtrack-zu-einer-zukunft-die-nie-kam-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/50_jahre_oxygene_der_soundtrack_zu_einer_zukunft_die_nie_kam_dlf_20261121_1512_7ea03af5.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:accf45c6-9724-5f7e-968b-7aba60857977",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Masha Qrella: \"Man muss allen Geschichten Platz geben\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-21T14:10:48.000Z",
+    "url": "https://www.deutschlandfunk.de/masha-qrella-man-muss-allen-geschichten-platz-geben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/masha_qrella_man_muss_allen_geschichten_platz_geben_dlf_20261121_1510_e19f0594.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:4c2945ad-78c5-5a98-8544-0f881be97c29",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -375,31 +450,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:179e448a-e873-5a3e-a148-6c29c0701291",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Podcast: Air Conditioned - Architektur zwischen Behaglichkeit und Klimawandel",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-11-18T14:02:03.000Z",
-    "url": "https://www.deutschlandfunk.de/podcast-air-conditioned-architektur-zwischen-behaglichkeit-und-klimawandel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/podcast_air_conditioned_architektur_zwischen_behaglichkeit_dlf_20261118_1502_68f3b0c7.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4096308",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -470,56 +520,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f6e270f6-0350-5617-a4cc-8dedde154ae4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lizenz zum Wandel: Wie männlich muss Bond sein?",
-    "summary": "Zylka, Jenni; Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-11-17T14:15:27.000Z",
-    "url": "https://www.deutschlandfunk.de/lizenz-zum-wandel-wie-maennlich-muss-bond-sein-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/lizenz_zum_wandel_wie_maennlich_muss_bond_sein_dlf_20261117_1515_4701a446.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:af1e73d4-07ad-5803-b98c-3c251579239b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Riecht nach Zensur\" - Zehra Ömeroğlus Comic über ihr Verfahren in der Türkei",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-11-17T14:15:08.000Z",
-    "url": "https://www.deutschlandfunk.de/riecht-nach-zensur-zehra-oemero-lus-comic-ueber-ihr-verfahren-in-der-tuerkei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/riecht_nach_zensur_zehra_oemeroglus_comic_ueber_ihr_dlf_20261117_1515_2cfbd468.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

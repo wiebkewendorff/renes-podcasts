@@ -1,5 +1,236 @@
 [
   {
+    "id": "dlf-kultur-heute:e31d493c-9163-5d55-a596-e5959a505b96",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 21.11.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-21T16:56:09.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-21-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/kulturmeldungen_21112026_dlf_20261121_1756_9131771b.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2512ed81-7118-5002-926a-bf1479886303",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Inklusion im Theater - das No Limits-Festval Berlin",
+    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-21T16:51:48.000Z",
+    "url": "https://www.deutschlandfunk.de/inklusion-im-theater-das-no-limits-festval-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/inklusion_im_theater_das_no_limits_festval_berlin_dlf_20261121_1751_dd2fc5c1.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5c5cdf04-4096-574d-92d2-9de5c0f44e11",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wer hat beim Sehen eigentlich die Macht? Diane Severin Nguyen im Haus der Kunst",
+    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-21T16:46:17.000Z",
+    "url": "https://www.deutschlandfunk.de/wer-hat-beim-sehen-eigentlich-die-macht-diane-severin-nguyen-im-haus-der-kunst-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/wer_hat_beim_sehen_eigentlich_die_macht_diane_severin_nguyen_dlf_20261121_1746_7d2d99c1.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bca8c658-d24d-5540-be79-23c1762cbb7b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Umstrittener Kunstsammler: Friedrich Christian Flick ist tot",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-21T16:41:17.000Z",
+    "url": "https://www.deutschlandfunk.de/umstrittener-kunstsammler-friedrich-christian-flick-ist-tot-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/umstrittener_kunstsammler_friedrich_christian_flick_ist_tot_dlf_20261121_1741_732b421d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8acd6568-5f3b-5138-b562-574c2f428cd7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Lolita young and beautiful\" in Darmstadt",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-21T16:36:02.000Z",
+    "url": "https://www.deutschlandfunk.de/lolita-young-and-beautiful-in-darmstadt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/lolita_young_and_beautiful_in_darmstadt_dlf_20261121_1736_742945a9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2b36f47b-707b-59aa-bc9f-8d020a7b479b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Landstreicher\" - Operette am Münchner Gärtnerplatztheater",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-21T16:31:35.000Z",
+    "url": "https://www.deutschlandfunk.de/die-landstreicher-operette-am-muenchner-gaertnerplatztheater-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/die_landstreicher_operette_am_muenchner_gaertnerplatztheater_dlf_20261121_1731_69273be3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:49bb33c6-a638-5fe5-80d3-82cd94b0b3a5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Chor B O D I E S von Kat Frankie - Acht Stimmen als kleine Utopie",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-21T14:20:17.000Z",
+    "url": "https://www.deutschlandfunk.de/chor-b-o-d-i-e-s-von-kat-frankie-acht-stimmen-als-kleine-utopie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/chor_b_o_d_i_e_s_von_kat_frankie_acht_stimmen_als_kleine_dlf_20261121_1520_5fa25b6c.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:5cd93d1b-f1b3-51e4-a066-2d32a8ec0ab7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "50 Jahre \"Oxygène\" - Der Soundtrack zu einer Zukunft, die nie kam",
+    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
+    "date": "2026-11-21T14:12:59.000Z",
+    "url": "https://www.deutschlandfunk.de/50-jahre-oxyg-ne-der-soundtrack-zu-einer-zukunft-die-nie-kam-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/50_jahre_oxygene_der_soundtrack_zu_einer_zukunft_die_nie_kam_dlf_20261121_1512_7ea03af5.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:accf45c6-9724-5f7e-968b-7aba60857977",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Masha Qrella: \"Man muss allen Geschichten Platz geben\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-21T14:10:48.000Z",
+    "url": "https://www.deutschlandfunk.de/masha-qrella-man-muss-allen-geschichten-platz-geben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/masha_qrella_man_muss_allen_geschichten_platz_geben_dlf_20261121_1510_e19f0594.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:81913bd5-cf94-563d-b7f6-ff26694bed37",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -104,32 +335,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:ccbfd697-1c1c-597e-9256-4c00ea2b4128",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mit Putin verhandeln? Der Osteuropahistoriker Martin Schulze Wessel im Gespräch",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-20T16:36:29.000Z",
-    "url": "https://www.deutschlandfunk.de/mit-putin-verhandeln-der-osteuropahistoriker-martin-schulze-wessel-im-gespraech-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/mit_putin_verhandeln_der_osteuropahistoriker_martin_schulze_dlf_20261120_1736_fc07e8c3.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:4c2945ad-78c5-5a98-8544-0f881be97c29",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -196,136 +401,6 @@
       "pop",
       "kunst",
       "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:19687663-2497-54ba-8a6a-73182531bfd3",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 19.11.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-19T16:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-19-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/kulturmeldungen_19112026_dlf_20261119_1756_090c79b7.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:33bfc6fe-c6e9-5676-9fef-5f57819a6a93",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Erfindung einer Klassikerin - Eine Marbacher Ausstellung über Susan Sontag",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-19T16:51:45.000Z",
-    "url": "https://www.deutschlandfunk.de/erfindung-einer-klassikerin-eine-marbacher-ausstellung-ueber-susan-sontag-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/erfindung_einer_klassikerin_eine_marbacher_ausstellung_ueber_dlf_20261119_1751_1a0abe51.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a39b0c50-0ac4-521c-9290-390f027f9f63",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Out of the Box - Gisèle Freund-Ausstellung im Jüdischen Museum Frankfurt",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-19T16:46:14.000Z",
-    "url": "https://www.deutschlandfunk.de/out-of-the-box-gis-le-freund-ausstellung-im-juedischen-museum-frankfurt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/out_of_the_box_gisele_freund_ausstellung_im_juedischen_dlf_20261119_1746_a509ca2d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d25f66fa-091f-5e9a-8636-a0ba202e5fbd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "La bola negra - Spaniens OSCAR-Favorit von Javier Calvo und Javier Ambrossi",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-19T16:40:56.000Z",
-    "url": "https://www.deutschlandfunk.de/la-bola-negra-spaniens-oscar-favorit-von-javier-calvo-und-javier-ambrossi-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/la_bola_negra_spaniens_oscar_favorit_von_javier_calvo_und_dlf_20261119_1740_2408baf0.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:09e1a155-b46e-5a38-8b60-e907a7898c8b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Shenzhen Jalta - Hinkt der historisch Vergleich? Tillmann Bendikowski, Histor.",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-19T16:35:32.000Z",
-    "url": "https://www.deutschlandfunk.de/shenzhen-jalta-hinkt-der-historisch-vergleich-tillmann-bendikowski-histor-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/shenzhen_jalta_hinkt_der_historisch_vergleich_tillmann_dlf_20261119_1735_b5075796.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
@@ -421,81 +496,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/preview_you_can_see_everything_warum_ist_diese_doku_so_dlf_20261118_1515_772bfcd2.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:179e448a-e873-5a3e-a148-6c29c0701291",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Podcast: Air Conditioned - Architektur zwischen Behaglichkeit und Klimawandel",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
-    "date": "2026-11-18T14:02:03.000Z",
-    "url": "https://www.deutschlandfunk.de/podcast-air-conditioned-architektur-zwischen-behaglichkeit-und-klimawandel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/podcast_air_conditioned_architektur_zwischen_behaglichkeit_dlf_20261118_1502_68f3b0c7.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f6e270f6-0350-5617-a4cc-8dedde154ae4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lizenz zum Wandel: Wie männlich muss Bond sein?",
-    "summary": "Zylka, Jenni; Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-11-17T14:15:27.000Z",
-    "url": "https://www.deutschlandfunk.de/lizenz-zum-wandel-wie-maennlich-muss-bond-sein-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/lizenz_zum_wandel_wie_maennlich_muss_bond_sein_dlf_20261117_1515_4701a446.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:af1e73d4-07ad-5803-b98c-3c251579239b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Riecht nach Zensur\" - Zehra Ömeroğlus Comic über ihr Verfahren in der Türkei",
-    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
-    "date": "2026-11-17T14:15:08.000Z",
-    "url": "https://www.deutschlandfunk.de/riecht-nach-zensur-zehra-oemero-lus-comic-ueber-ihr-verfahren-in-der-tuerkei-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/17/riecht_nach_zensur_zehra_oemeroglus_comic_ueber_ihr_dlf_20261117_1515_2cfbd468.mp3?refId=corso-104",
-    "duration": "8 Min",
     "tags": [
       "kultur",
       "pop",
