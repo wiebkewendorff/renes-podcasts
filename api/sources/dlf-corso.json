@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:1f3da2a4-ce55-55f3-a7f1-b5875ee477e2",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Weltweite Sounds aus London - Zehn Jahre Batov Records",
+    "summary": "Gay, Francis www.deutschlandfunk.de, Corso",
+    "date": "2026-11-23T14:20:32.000Z",
+    "url": "https://www.deutschlandfunk.de/weltweite-sounds-aus-london-zehn-jahre-batov-records-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/weltweite_sounds_aus_london_zehn_jahre_batov_records_dlf_20261123_1520_52cd958b.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0d188e6a-9f23-58c9-b07e-4b09456bdea7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Hype um den Vibe - wie Vibes zur zentralen Kategorie der Popkultur wurden",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-11-23T14:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/der-hype-um-den-vibe-wie-vibes-zur-zentralen-kategorie-der-popkultur-wurden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/der_hype_um_den_vibe_wie_vibes_zur_zentralen_kategorie_der_dlf_20261123_1515_fb9c6074.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0d3179a0-1e07-57d8-b5f3-1d0af1b415d2",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Blade Runner 2099 als Serie - Was macht uns menschlich?",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-23T14:10:46.000Z",
+    "url": "https://www.deutschlandfunk.de/blade-runner-2099-als-serie-was-macht-uns-menschlich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/blade_runner_2099_als_serie_was_macht_uns_menschlich_dlf_20261123_1510_c2bf0747.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:49bb33c6-a638-5fe5-80d3-82cd94b0b3a5",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/usa_satire_mit_pophits_die_rolle_der_radios_in_gta_dlf_20261119_1515_f66c7061.mp3?refId=corso-104",
     "duration": "17 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:f63dbfae-377b-5398-bde1-1e02c437b9d9",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Game-Satire GTA 6 - Das größte Kulturprodukt des Jahres",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-19T14:08:00.000Z",
-    "url": "https://www.deutschlandfunk.de/us-game-satire-gta-6-das-groesste-kulturprodukt-des-jahres-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/us_game_satire_gta_6_das_groesste_kulturprodukt_des_jahres_dlf_20261119_1508_425be115.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9c36db9d-b462-59f4-b4fa-f31ec3a03bd4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: La Bola Negra, Wiener Blues, The Weight",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-11-18T14:15:40.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-la-bola-negra-wiener-blues-the-weight-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/neue_filme_la_bola_negra_wiener_blues_the_weight_dlf_20261118_1515_992a3b54.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:184b846b-7635-543c-bf43-843afb6cddd7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Preview: \"You can see everything\" - warum ist diese Doku so erfolgreich?",
-    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
-    "date": "2026-11-18T14:15:37.000Z",
-    "url": "https://www.deutschlandfunk.de/preview-you-can-see-everything-warum-ist-diese-doku-so-erfolgreich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/preview_you_can_see_everything_warum_ist_diese_doku_so_dlf_20261118_1515_772bfcd2.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",

@@ -1,5 +1,80 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-9463748497572055",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Großstadtrevier-Schauspieler Enrique Fiß",
+    "summary": "Vor sechs Jahren verließ der Schauspieler Enrique Fiß die Bühne, um fortan im ARD \"Großstadtrevier\" seinen Dienst als Zivilermittler des Polizeikommissariats 14 zu versehen. Wir sprechen mit ihm über den 40. Geburtstag der Krimi-Kultserie, die im Januar mit einem neuen Spielfilm gekrönt wird. Außerdem wollen wir wissen, was es mit der ZDF-Sendung \"KRANK Berlin\" auf sich hat, in der er gegenwärtig zu sehen ist.",
+    "date": "2026-11-22T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/grossstadtrevier-schauspieler-enrique-fiss,audio-3611794.html",
+    "image": "https://images.ndr.de/image/449f81a3-f343-4e16-a62d-baa60a50d23a/AAABogRy2uM/AAABnSStX0g/1x1-big/screenshot-265692.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2137-5600.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-11691540664985856",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Schauspielerin Katharina Thalbach im Talk über \"Lieblingsmenschen\"",
+    "summary": "Mit markanter Stimme und ausdruckstarker Mimik besticht Katharina Thalbach seit Jahrzehnten auf der Bühne, im Film und auch im Fernsehen. Das Publikum verehrt die mittlerweile 72-jährige Schauspielerin und Regisseurin. Wie gut Katharina Thalbach das Wechselspiel zwischen Tragischem und Komödiantischem beherrscht, wird in ihrem neuen Kinofilm \"Lieblingsmenschen\" offenbar - der erzählt nach einer wahren Begebenheit die rührende Verbindung zwischen einer 101-Jährigen und einem jungen Geflüchteten.",
+    "date": "2026-11-21T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspielerin-katharina-thalbach-im-talk-ueber-lieblingsmenschen,audio-3611792.html",
+    "image": "https://images.ndr.de/image/46f7ac0e-e8a2-4d43-9382-5441959acaf3/AAABof9VamE/AAABnSStX0g/1x1-big/screenshot-265210.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2137-1600.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-3881460395386608",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Motivationsforscherin Michaela Brohm-Badry über Zuversicht und Sinnhaftigkeit",
+    "summary": "Seit vielen Jahren schon beschäftigt sich Prof. Michaela Brohm-Badry mit der Frage, was Menschen stärkt, motiviert und widerstandsfähig macht. An der Universität Trier unterrichtete sie Lernforschung, war dort auch Dekanin. Inzwischen leitet sie das \"Europäische Forum für Positive Neurowissenschaften\". In ihren Büchern, Vorträgen und wissenschaftlichen Arbeiten zeigt die 64-Jährige, wie Zuversicht und Sinnhaftigkeit unser Leben positiv beeinflussen können.",
+    "date": "2026-11-20T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/motivationsforscherin-michaela-brohm-badry-ueber-zuversicht-und-sinnhaftigkeit,audio-3611790.html",
+    "image": "https://images.ndr.de/image/bf2a265f-77be-414f-9203-6e217f9e88db/AAABofo3WWU/AAABnSStX0g/1x1-big/screenshot-264686.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2136-3400.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-07356380862749157",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -61,81 +136,6 @@
     "image": "https://images.ndr.de/image/ead7e89a-1fb6-4dbf-831a-664e45b92ce8/AAABoerLIOc/AAABnSStX0g/1x1-big/screenshot-262778.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1117/AU-20261117-2049-2800.mp3",
     "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7029655001683041",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Niedersachsens Ministerpräsident Olaf Lies im Talk bei DAS! Rote Sofa",
-    "summary": "Auf dem Roten Sofa wird Olaf Lies exklusiv über Chancen und Risiken bei der Zukunftssicherung von Volkswagen sprechen.",
-    "date": "2026-11-16T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/niedersachsens-ministerpraesident-olaf-lies-im-talk-bei-das-rote-sofa,audio-3600898.html",
-    "image": "https://images.ndr.de/image/e298050c-56b5-4925-91ed-6faf12311646/AAABoeWGZos/AAABnSStX0g/1x1-big/screenshot-262088.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1117/AU-20261117-0744-0500.mp3",
-    "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7621439602603376",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Mit ganzem Herzen Triathlet: \"Tagesschau\"-Sprecher Thorsten Schröder",
-    "summary": "Er ist mit ganzem Herzen Triathlet. Sein Erfahrungsbericht \"Mit kühlem Kopf\" handelt vom \"Norseman Xtreme Triathlon\" in Norwegen.",
-    "date": "2026-11-15T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/mit-ganzem-herzen-triathlet-tagesschau-sprecher-thorsten-schroeder,audio-3598204.html",
-    "image": "https://images.ndr.de/image/5c8cdbcd-8d81-4b3f-aedc-a7349243347a/AAABoeC-8tY/AAABnSStX0g/1x1-big/screenshot-261568.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1115/AU-20261115-2211-0400.mp3",
-    "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7570728952762229",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Filmemacher Emil und Oskar Belton über ihre neue Serie \"Die Friesenjunkies\"",
-    "summary": "Eine Fernsehserie über die kleinen und großen Dramen im Arbeitsalltag einer fiktiven Hamburger Supermarktbelegschaft entzückte vor fünf Jahren das Publikum. \"Die Discounter\" ist im Stil einer Dokumentation gedreht, ausgedacht haben sich das die Zwillingsbrüder Emil und Oskar Belton - damals gerade einmal 21 Jahre alt. Aufs Rote Sofa bringen die Beltons ihr neuestes Projekt fürs Erste mit, das \"Die Friesenjunkies\" heißt und in einer Suchtklinik auf Sylt spielt. Wir sind gespannt, was da kommt.",
-    "date": "2026-11-14T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/filmemacher-emil-und-oskar-belton-ueber-ihre-neue-serie-die-friesenjunkies,audio-3598202.html",
-    "image": "https://images.ndr.de/image/fd7db141-0a5b-486b-8aa4-b092ff366a6f/AAABodty9uk/AAABnSStX0g/1x1-big/screenshot-261242.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1115/AU-20261115-2210-2500.mp3",
-    "duration": "42 Min",
     "tags": [
       "beatles",
       "popgeschichte",

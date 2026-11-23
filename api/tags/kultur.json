@@ -1,5 +1,260 @@
 [
   {
+    "id": "dlf-corso:1f3da2a4-ce55-55f3-a7f1-b5875ee477e2",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Weltweite Sounds aus London - Zehn Jahre Batov Records",
+    "summary": "Gay, Francis www.deutschlandfunk.de, Corso",
+    "date": "2026-11-23T14:20:32.000Z",
+    "url": "https://www.deutschlandfunk.de/weltweite-sounds-aus-london-zehn-jahre-batov-records-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/weltweite_sounds_aus_london_zehn_jahre_batov_records_dlf_20261123_1520_52cd958b.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0d188e6a-9f23-58c9-b07e-4b09456bdea7",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Hype um den Vibe - wie Vibes zur zentralen Kategorie der Popkultur wurden",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-11-23T14:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/der-hype-um-den-vibe-wie-vibes-zur-zentralen-kategorie-der-popkultur-wurden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/der_hype_um_den_vibe_wie_vibes_zur_zentralen_kategorie_der_dlf_20261123_1515_fb9c6074.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0d3179a0-1e07-57d8-b5f3-1d0af1b415d2",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Blade Runner 2099 als Serie - Was macht uns menschlich?",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-23T14:10:46.000Z",
+    "url": "https://www.deutschlandfunk.de/blade-runner-2099-als-serie-was-macht-uns-menschlich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/blade_runner_2099_als_serie_was_macht_uns_menschlich_dlf_20261123_1510_c2bf0747.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-9463748497572055",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Großstadtrevier-Schauspieler Enrique Fiß",
+    "summary": "Vor sechs Jahren verließ der Schauspieler Enrique Fiß die Bühne, um fortan im ARD \"Großstadtrevier\" seinen Dienst als Zivilermittler des Polizeikommissariats 14 zu versehen. Wir sprechen mit ihm über den 40. Geburtstag der Krimi-Kultserie, die im Januar mit einem neuen Spielfilm gekrönt wird. Außerdem wollen wir wissen, was es mit der ZDF-Sendung \"KRANK Berlin\" auf sich hat, in der er gegenwärtig zu sehen ist.",
+    "date": "2026-11-22T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/grossstadtrevier-schauspieler-enrique-fiss,audio-3611794.html",
+    "image": "https://images.ndr.de/image/449f81a3-f343-4e16-a62d-baa60a50d23a/AAABogRy2uM/AAABnSStX0g/1x1-big/screenshot-265692.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2137-5600.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:13f11a7e-9a22-5322-9962-d1b41ba1db58",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturelle Sudan-Hilfe: Roman Luckscheiter, Dt. UNESCO, zur Berliner Konferenz",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturelle-sudan-hilfe-roman-luckscheiter-dt-unesco-zur-berliner-konferenz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/kulturelle_sudan_hilfe_roman_luckscheiter_dt_unesco_zur_dlf_20261122_1752_a94645a8.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:66b25fc2-f5f8-54f5-a4ad-d36c32475848",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Global Antiquity\": Mailänder Ausstellung zu kulturellem Austausch in der Antike",
+    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/global-antiquity-mailaender-ausstellung-zu-kulturellem-austausch-in-der-antike-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/global_antiquity_mailaender_ausstellung_zu_kulturellem_dlf_20261122_1747_8c449043.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9d158ba8-10a2-5d56-9d78-3eba6d51eedc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Star-Architekten bauen Asylbewerber-Unterkünfte in Oisterwijk, Niederlande",
+    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/star-architekten-bauen-asylbewerber-unterkuenfte-in-osterwijk-niederlande-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/star_architekten_bauen_asylbewerber_unterkuenfte_in_dlf_20261122_1742_d8434610.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:157caab2-29ea-5c09-819d-ed07ebb3286a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Publikumspreise statt Jury-Entscheidung - Zum Abschluss der Venedig Biennale",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/publikumspreise-statt-jury-entscheidung-zum-abschluss-der-venedig-biennale-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/publikumspreise_statt_jury_entscheidung_zum_abschluss_der_dlf_20261122_1736_a541917c.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:20168958-8edb-5fdf-a0f3-db02dcf344f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Freie Szene ohne Zukunft? Zur Eröffnung des Theaters im Depot im Carlswerk Köln",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/freie-szene-ohne-zukunft-zur-eroeffnung-des-theaters-im-depot-im-carlswerk-koeln-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/freie_szene_ohne_zukunft_zur_eroeffnung_des_theaters_im_dlf_20261122_1731_223f88ae.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-11691540664985856",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Schauspielerin Katharina Thalbach im Talk über \"Lieblingsmenschen\"",
+    "summary": "Mit markanter Stimme und ausdruckstarker Mimik besticht Katharina Thalbach seit Jahrzehnten auf der Bühne, im Film und auch im Fernsehen. Das Publikum verehrt die mittlerweile 72-jährige Schauspielerin und Regisseurin. Wie gut Katharina Thalbach das Wechselspiel zwischen Tragischem und Komödiantischem beherrscht, wird in ihrem neuen Kinofilm \"Lieblingsmenschen\" offenbar - der erzählt nach einer wahren Begebenheit die rührende Verbindung zwischen einer 101-Jährigen und einem jungen Geflüchteten.",
+    "date": "2026-11-21T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspielerin-katharina-thalbach-im-talk-ueber-lieblingsmenschen,audio-3611792.html",
+    "image": "https://images.ndr.de/image/46f7ac0e-e8a2-4d43-9382-5441959acaf3/AAABof9VamE/AAABnSStX0g/1x1-big/screenshot-265210.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2137-1600.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:5f89f8e5-3be2-5e8f-8892-abb35ae6beb7",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -156,32 +411,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:2b36f47b-707b-59aa-bc9f-8d020a7b479b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Landstreicher\" - Operette am Münchner Gärtnerplatztheater",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-21T16:31:35.000Z",
-    "url": "https://www.deutschlandfunk.de/die-landstreicher-operette-am-muenchner-gaertnerplatztheater-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/die_landstreicher_operette_am_muenchner_gaertnerplatztheater_dlf_20261121_1731_69273be3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:49bb33c6-a638-5fe5-80d3-82cd94b0b3a5",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -257,106 +486,27 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:81913bd5-cf94-563d-b7f6-ff26694bed37",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "id": "ndr-being-the-beatles:rnd0-3881460395386608",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
     "type": "rss",
-    "title": "Kulturmeldungen 20.11.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-20T16:56:14.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/kulturmeldungen_20112026_dlf_20261120_1756_6c10e8c7.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
+    "title": "Motivationsforscherin Michaela Brohm-Badry über Zuversicht und Sinnhaftigkeit",
+    "summary": "Seit vielen Jahren schon beschäftigt sich Prof. Michaela Brohm-Badry mit der Frage, was Menschen stärkt, motiviert und widerstandsfähig macht. An der Universität Trier unterrichtete sie Lernforschung, war dort auch Dekanin. Inzwischen leitet sie das \"Europäische Forum für Positive Neurowissenschaften\". In ihren Büchern, Vorträgen und wissenschaftlichen Arbeiten zeigt die 64-Jährige, wie Zuversicht und Sinnhaftigkeit unser Leben positiv beeinflussen können.",
+    "date": "2026-11-20T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/motivationsforscherin-michaela-brohm-badry-ueber-zuversicht-und-sinnhaftigkeit,audio-3611790.html",
+    "image": "https://images.ndr.de/image/bf2a265f-77be-414f-9203-6e217f9e88db/AAABofo3WWU/AAABnSStX0g/1x1-big/screenshot-264686.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2136-3400.mp3",
+    "duration": "40 Min",
     "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
       "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
+      "60er"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2a3f575b-109e-5459-ab3b-fb760294f5ed",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Unstable Media\" - Positionen der Medienkunst in Hamburg",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-20T16:51:49.000Z",
-    "url": "https://www.deutschlandfunk.de/unstable-media-positionen-der-medienkunst-in-hamburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/unstable_media_positionen_der_medienkunst_in_hamburg_dlf_20261120_1751_3c0e8d65.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6434980a-36e7-522f-8dd4-90d117207642",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"GLA55\" - Uraufführung von Anne Teresa De Keersmaeker in Berlin",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-20T16:47:19.000Z",
-    "url": "https://www.deutschlandfunk.de/gla55-urauffuehrung-von-anne-teresa-de-keersmaeker-in-berlin-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/gla55_urauffuehrung_von_anne_teresa_de_keersmaeker_in_berlin_dlf_20261120_1747_c70cd912.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:99f547e2-0422-5a86-b6a4-522b68748596",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aufbruch in die Neuzeit: Jan van Eycks Porträts in London",
-    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-20T16:42:10.000Z",
-    "url": "https://www.deutschlandfunk.de/aufbruch-in-die-neuzeit-jan-van-eycks-portraets-in-london-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/aufbruch_in_die_neuzeit_jan_van_eycks_portraets_in_london_dlf_20261120_1742_7c0a8b7f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Musik",
+      "Geschichte"
     ],
     "language": "de"
   },
@@ -513,31 +663,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:f63dbfae-377b-5398-bde1-1e02c437b9d9",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Game-Satire GTA 6 - Das größte Kulturprodukt des Jahres",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-19T14:08:00.000Z",
-    "url": "https://www.deutschlandfunk.de/us-game-satire-gta-6-das-groesste-kulturprodukt-des-jahres-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/us_game_satire_gta_6_das_groesste_kulturprodukt_des_jahres_dlf_20261119_1508_425be115.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-7396656774323362",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -559,56 +684,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9c36db9d-b462-59f4-b4fa-f31ec3a03bd4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: La Bola Negra, Wiener Blues, The Weight",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-11-18T14:15:40.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-la-bola-negra-wiener-blues-the-weight-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/neue_filme_la_bola_negra_wiener_blues_the_weight_dlf_20261118_1515_992a3b54.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:184b846b-7635-543c-bf43-843afb6cddd7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Preview: \"You can see everything\" - warum ist diese Doku so erfolgreich?",
-    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
-    "date": "2026-11-18T14:15:37.000Z",
-    "url": "https://www.deutschlandfunk.de/preview-you-can-see-everything-warum-ist-diese-doku-so-erfolgreich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/18/preview_you_can_see_everything_warum_ist_diese_doku_so_dlf_20261118_1515_772bfcd2.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -686,81 +761,6 @@
       "Kunst",
       "Geschichte",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7029655001683041",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Niedersachsens Ministerpräsident Olaf Lies im Talk bei DAS! Rote Sofa",
-    "summary": "Auf dem Roten Sofa wird Olaf Lies exklusiv über Chancen und Risiken bei der Zukunftssicherung von Volkswagen sprechen.",
-    "date": "2026-11-16T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/niedersachsens-ministerpraesident-olaf-lies-im-talk-bei-das-rote-sofa,audio-3600898.html",
-    "image": "https://images.ndr.de/image/e298050c-56b5-4925-91ed-6faf12311646/AAABoeWGZos/AAABnSStX0g/1x1-big/screenshot-262088.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1117/AU-20261117-0744-0500.mp3",
-    "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7621439602603376",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Mit ganzem Herzen Triathlet: \"Tagesschau\"-Sprecher Thorsten Schröder",
-    "summary": "Er ist mit ganzem Herzen Triathlet. Sein Erfahrungsbericht \"Mit kühlem Kopf\" handelt vom \"Norseman Xtreme Triathlon\" in Norwegen.",
-    "date": "2026-11-15T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/mit-ganzem-herzen-triathlet-tagesschau-sprecher-thorsten-schroeder,audio-3598204.html",
-    "image": "https://images.ndr.de/image/5c8cdbcd-8d81-4b3f-aedc-a7349243347a/AAABoeC-8tY/AAABnSStX0g/1x1-big/screenshot-261568.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1115/AU-20261115-2211-0400.mp3",
-    "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7570728952762229",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Filmemacher Emil und Oskar Belton über ihre neue Serie \"Die Friesenjunkies\"",
-    "summary": "Eine Fernsehserie über die kleinen und großen Dramen im Arbeitsalltag einer fiktiven Hamburger Supermarktbelegschaft entzückte vor fünf Jahren das Publikum. \"Die Discounter\" ist im Stil einer Dokumentation gedreht, ausgedacht haben sich das die Zwillingsbrüder Emil und Oskar Belton - damals gerade einmal 21 Jahre alt. Aufs Rote Sofa bringen die Beltons ihr neuestes Projekt fürs Erste mit, das \"Die Friesenjunkies\" heißt und in einer Suchtklinik auf Sylt spielt. Wir sind gespannt, was da kommt.",
-    "date": "2026-11-14T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/filmemacher-emil-und-oskar-belton-ueber-ihre-neue-serie-die-friesenjunkies,audio-3598202.html",
-    "image": "https://images.ndr.de/image/fd7db141-0a5b-486b-8aa4-b092ff366a6f/AAABodty9uk/AAABnSStX0g/1x1-big/screenshot-261242.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1115/AU-20261115-2210-2500.mp3",
-    "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   },
