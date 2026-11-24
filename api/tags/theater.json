@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:b18ffe5e-01dc-5854-bdf6-96efa8cf59c8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 23.11.2026",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-23T16:56:28.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/kulturmeldungen_23112026_dlf_20261123_1756_fb726b2b.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4c9c144d-8f75-5b07-b856-29454edf60b5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nachdenken übers Tun - Das Philosophie-Festival in Berlin",
+    "summary": "Cornelius Wüllenkemper www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-23T16:53:28.000Z",
+    "url": "https://www.deutschlandfunk.de/nachdenken-uebers-tun-das-philosophie-festival-in-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/nachdenken_uebers_tun_das_philosophie_festival_in_berlin_dlf_20261123_1753_e177d04f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f225784e-0adc-59cb-bf08-1dc282a30ef0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Frankreichs ikonischer Kulturminister - Zum 50. Todestag von André Malraux",
+    "summary": "Dylla, Carolin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-23T16:47:22.000Z",
+    "url": "https://www.deutschlandfunk.de/frankreichs-ikonischer-kulturminister-zum-50-todestag-von-andr-malraux-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/frankreichs_ikonischer_kulturminister_zum_50_todestag_von_dlf_20261123_1747_507a52d0.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b649c04a-953b-52da-845f-5486623e4046",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lebenswerk eines Unbekannten: Kunsthalle Augsburg zeigt Maler Heinz Butz",
+    "summary": "Metzdorf, Julie www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-23T16:42:30.000Z",
+    "url": "https://www.deutschlandfunk.de/lebenswerk-eines-unbekannten-kunsthalle-augsburg-zeigt-maler-heinz-butz-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/lebenswerk_eines_unbekannten_kunsthalle_augsburg_zeigt_maler_dlf_20261123_1742_a67d3561.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:13f11a7e-9a22-5322-9962-d1b41ba1db58",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/kulturmeldungen_21112026_dlf_20261121_1756_9131771b.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2512ed81-7118-5002-926a-bf1479886303",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Inklusion im Theater - das No Limits-Festval Berlin",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-21T16:51:48.000Z",
-    "url": "https://www.deutschlandfunk.de/inklusion-im-theater-das-no-limits-festval-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/inklusion_im_theater_das_no_limits_festval_berlin_dlf_20261121_1751_dd2fc5c1.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5c5cdf04-4096-574d-92d2-9de5c0f44e11",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wer hat beim Sehen eigentlich die Macht? Diane Severin Nguyen im Haus der Kunst",
-    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-21T16:46:17.000Z",
-    "url": "https://www.deutschlandfunk.de/wer-hat-beim-sehen-eigentlich-die-macht-diane-severin-nguyen-im-haus-der-kunst-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/wer_hat_beim_sehen_eigentlich_die_macht_diane_severin_nguyen_dlf_20261121_1746_7d2d99c1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bca8c658-d24d-5540-be79-23c1762cbb7b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Umstrittener Kunstsammler: Friedrich Christian Flick ist tot",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-21T16:41:17.000Z",
-    "url": "https://www.deutschlandfunk.de/umstrittener-kunstsammler-friedrich-christian-flick-ist-tot-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/umstrittener_kunstsammler_friedrich_christian_flick_ist_tot_dlf_20261121_1741_732b421d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8acd6568-5f3b-5138-b562-574c2f428cd7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Lolita young and beautiful\" in Darmstadt",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-21T16:36:02.000Z",
-    "url": "https://www.deutschlandfunk.de/lolita-young-and-beautiful-in-darmstadt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/lolita_young_and_beautiful_in_darmstadt_dlf_20261121_1736_742945a9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

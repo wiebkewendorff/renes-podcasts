@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:4332375f-4d07-57ad-b2b3-833eed810f5e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Satiriker Oobah Butler auf HBO Max - Scam in Serie",
+    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
+    "date": "2026-11-24T14:20:41.000Z",
+    "url": "https://www.deutschlandfunk.de/satiriker-oobah-butler-auf-hbo-max-scam-in-serie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/satiriker_oobah_butler_auf_hbo_max_scam_in_serie_dlf_20261124_1520_60f3e0f7.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:6ccaa745-98b7-54c6-b659-fc1abc782cd1",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Monobloc - ein Plastikstuhl als Inspiration für Kunstperformances",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-11-24T14:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/monobloc-ein-plastikstuhl-als-inspiration-fuer-kunstperformances-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/monobloc_ein_plastikstuhl_als_inspiration_fuer_dlf_20261124_1515_4009d262.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:53ecb73d-6af7-54b9-af52-83923cf3982b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deutsche Doku \"Der talentierte Mr. F.\" gewinnt International Emmy Award",
+    "summary": "Ucar, Giselle www.deutschlandfunk.de, Corso",
+    "date": "2026-11-24T14:06:29.000Z",
+    "url": "https://www.deutschlandfunk.de/deutsche-doku-der-talentierte-mr-f-gewinnt-international-emmy-award-106.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/deutsche_doku_der_talentierte_mr_f_gewinnt_international_dlf_20261124_1506_3ee62b60.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:1f3da2a4-ce55-55f3-a7f1-b5875ee477e2",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/neue_serie_ballz_lachen_ueber_hodenkrebs_dlf_20261120_1515_e77b2065.mp3?refId=corso-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a7f275e8-b910-5796-816f-14290e5761be",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Still In A Dream\" - Wird Retromania-Reynolds jetzt selbst nostalgisch?",
-    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
-    "date": "2026-11-20T14:05:15.000Z",
-    "url": "https://www.deutschlandfunk.de/still-in-a-dream-wird-retromania-reynolds-jetzt-selbst-nostalgisch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/still_in_a_dream_wird_retromania_reynolds_jetzt_selbst_dlf_20261120_1505_2065df30.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1ab9efba-a47b-56e7-8e5d-5f34a3ed4507",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "30 Jahre Space Invader - Streetart zwischen Game und Stadtpolitik",
-    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
-    "date": "2026-11-20T14:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/30-jahre-space-invader-streetart-zwischen-game-und-stadtpolitik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/30_jahre_space_invader_streetart_zwischen_game_und_dlf_20261120_1505_ad5c91fa.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:de227956-abe9-57bc-96ec-bfe6b221a0d4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "USA-Satire mit Pophits - Die Rolle der Radios in GTA",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-11-19T14:15:52.000Z",
-    "url": "https://www.deutschlandfunk.de/usa-satire-mit-pophits-die-rolle-der-radios-in-gta-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/19/usa_satire_mit_pophits_die_rolle_der_radios_in_gta_dlf_20261119_1515_f66c7061.mp3?refId=corso-104",
-    "duration": "17 Min",
     "tags": [
       "kultur",
       "pop",

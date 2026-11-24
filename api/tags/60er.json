@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-0709596897906779",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Schauspieler Maximilian Mundt im Talk mit Inka Schneider",
+    "summary": "Die Rolle des schüchternen Schülers, der zum mächtigen Drogenboss aufsteigt, machte Maximilian Mundt über Nacht weltbekannt. Denn die Netflix-Serie \"How to Sell Drugs Online (Fast)\" lief in 190 Ländern und gilt als eine der international erfolgreichsten deutschen Produktionen. Mit 18 gewann er den Deutschen Jugendfotopreis, inzwischen ist er als Regisseur, Drehbuchautor und Filmemacher tätig, ab und an modelt er auch. Auf dem Roten Sofa wird uns Maximilian Mundt vom Aufwachsen in Hamburg und seinem unverhofften Erfolg berichten - aber auch von seiner Leidenschaft fürs Basteln und Bauen.",
+    "date": "2026-11-23T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspieler-maximilian-mundt-im-talk-mit-inka-schneider,audio-3614570.html",
+    "image": "https://images.ndr.de/image/9249bf47-e293-43d6-b292-013594095bf2/AAABogmtgnE/AAABnSStX0g/1x1-big/screenshot-266004.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1124/AU-20261124-0812-5400.mp3",
+    "duration": "39 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-9463748497572055",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/f90b4401-f5a1-476d-9a62-b06d76e159ac/AAABoe_pH4Q/AAABnSStX0g/1x1-big/screenshot-263358.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1118/AU-20261118-2039-0700.mp3",
     "duration": "43 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-5270000575086132",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Er gehört zu den bekanntesten Investoren Deutschlands: Unternehmer Ralf Dümmel",
-    "summary": "Ralf Dümmel gehört zu den bekanntesten Investoren Deutschlands und wurde einem Millionenpublikum durch die TV-Sendung \"Die Höhle der Löwen\" auf \"VOX\" bekannt. Darin präsentieren Gründer, Erfinder und Start-ups ihre Geschäftsideen vor einer Jury. Nun ist er auf \"SAT.1\" in \"Die Millionenidee\" zu sehen. Auf dem Roten Sofa wird uns Ralf Dümmel mehr über dieses Projekt verraten. Wir wollen jedoch auch auf seinen ungewöhnlichen Weg zum Erfolg blicken, der in Bad Segeberg seinen Anfang nahm. Und sind gespannt, auf persönliche Einblicke in ein Leben zwischen Unternehmertum und Fernsehstudio.",
-    "date": "2026-11-17T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/er-gehoert-zu-bekanntesten-investoren-deutschlands-unternehmer-ralf-duemmel,audio-3602720.html",
-    "image": "https://images.ndr.de/image/ead7e89a-1fb6-4dbf-831a-664e45b92ce8/AAABoerLIOc/AAABnSStX0g/1x1-big/screenshot-262778.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1117/AU-20261117-2049-2800.mp3",
-    "duration": "39 Min",
     "tags": [
       "beatles",
       "popgeschichte",

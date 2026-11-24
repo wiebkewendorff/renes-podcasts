@@ -1,5 +1,31 @@
 [
   {
+    "id": "dlf-das-feature:65229a67-c594-5446-a489-874561ae6d1b",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lieschen - Doku über ein Berliner Frauenleben",
+    "summary": "1911 beginnt die junge Berlinerin Lieschen ein Tagebuch, das viel später auf der Straße gefunden wird. Ihr fast hundertjähriges Leben, verheert durch Kriege, geprägt durch Arbeit und die sich ändernde Rolle der Frau, spiegelt das 20. Jahrhundert. <br><br><strong>Das erwartet euch in dieser Folge: </strong><br><br>Auf Streifzügen durchs nächtliche Berlin kommt Lieschen, aus dem Kreuzberger Arbeitermilieu stammend, dem Sohn eines Neuköllner Ladenbesitzers, Willy, näher und hofft, mit ihm zusammen sein zu können. Als es dann soweit ist, schlägt die Realität mit voller Härte zu: Willy wird in den Ersten Weltkrieg einberufen. Lieschen muss sich allein um das gemeinsame Papierwarengeschäft und die mittlerweile geborene Tochter kümmern. <br><br><strong>Mehr zum Thema in der Deutschlandfunk-App:</strong><br><br><a href=\"https://www.hoerspielundfeature.de/feature-alle-menschen-muessen-sterben-100.html\" rel=\"noopener\" target=\"_blank\">Serie der gleichen Autorin mit Langzeitporträts der Jahrhundertwendegeneration </a><br><br>+++++ <br><br>Von Sonya Schönberger, in Zusammenarbeit mit Nele Güntheroth und Anouschka Trocker <br><br>Die Künstlerin Sonya Schönberger sammelt biografische Gespräche und arbeitet mit gefundenen Archiven. 2018 rief sie das „Berliner Zimmer“ ins Leben, ein auf hundert Jahre angelegtes Videoarchiv mit Lebenserzählungen von Menschen in Berlin. <br><br>Anouschka Trocker, geboren in Südtirol/Italien, lebt seit 1989 in Berlin und ist dort als Radiomacherin, Regisseurin und Klangkünstlerin tätig. <br><br>Nele Güntheroth, Erziehungswissenschaftlerin und Historikerin, hat für das Stadtmuseum Berlin zahlreiche stadtgeschichtliche Projekte konzipiert und realisiert. <br><br>+++++<br> <br>Text: Sonya Schönberger <br>Redaktion: Ingo Kottkamp<br>Regie: Anouschka Trocker <br>Recherche: Nele Güntheroth <br>Mit: Fritzi Haberlandt, Thorsten Merten, Lars Rudolph und Sonya Schönberger <br>Ton: Hermann Leppich <br>Deutschlandfunk 2026 <br>Länge: ca. 54'40 <br><br>+++++ <br><br>Unser Podcast-Tipp:<br><a href=\"https://www.deutschlandfunk.de/doku-serie-100.html#abonnieren\" rel=\"noopener\" target=\"_blank\">Dlf Doku Serien</a><br><br>+++++<br>Wenn Euch <a href=\"https://www.deutschlandfunk.de/dlf-doku-100.html\" rel=\"noopener\" target=\"_blank\">Dlf Doku</a> gefällt, abonniert uns und empfehlt uns weiter. Feedback gerne an hoererservice@deutschlandradio.de</a>.<br><br>Noch mehr spannende Podcasts gibt‘s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-11-28T17:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/lieschen-doku-ueber-ein-berliner-frauenleben-100.html",
+    "image": "https://bilder.deutschlandfunk.de/9e/3c/a8/0c/9e3ca80c-e9de-4871-9dca-df8a4dded661/lieschen-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/28/lieschen_drk_20261128_1805_025d8475.mp3?refId=das-feature-104",
+    "duration": "55 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:5f89f8e5-3be2-5e8f-8892-abb35ae6beb7",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/4c/6a/46/a9/4c6a46a9-146c-403d-af21-6ebe86a325dd/bild-feature-lillo-mein-grossvater-italien-faschismus-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/lillo_mein_grossvater_der_faschismus_italien_und_ich_drk_20261017_1140_84717f65.mp3?refId=das-feature-104",
     "duration": "54 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:34f74a63-e09f-59f9-9932-c52ff26ad989",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schon lange kein Frühling - Unser Vater, das Haus in Rumänien und wir",
-    "summary": "Ihr Vater ist 2013 mit 83 Jahren gestorben. Da war Maria 24, Alexandra 21 Jahre alt. Sein Testament endete mit den Worten, dass seine Töchter in seinem Willen weiterleben sollen. Was heißt das? Wie sollen sie leben? Hütete der Vater ein Geheimnis? www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-10-06T05:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/schon-lange-kein-fruehling-100.html",
-    "image": "https://bilder.deutschlandfunk.de/9a/54/bf/cb/9a54bfcb-f249-4566-9146-ae23af9d8562/bild-fuer-scho-lage-kei-fruehling-tata-und-alexandra-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/schon_lange_kein_fruehling_unser_vater_das_haus_in_rumaenien_dlf_20261006_1915_77f44274.mp3?refId=das-feature-104",
-    "duration": "58 Min",
     "tags": [
       "feature",
       "dokumentation",
