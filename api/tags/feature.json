@@ -26,6 +26,32 @@
     "language": "de"
   },
   {
+    "id": "dlf-das-feature:50d887b9-a786-5eef-87c0-dc6ebc1b34c7",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Trailer: Das gebrochene Versprechen der DDR-Kinderkuren",
+    "summary": "Etwa zwei Millionen Kinder, wochenlang mutterseelenallein in Kurheimen der DDR. Über Jahrzehnte ging das so. Im Dienst der Gesundheit. Für viele ein verschüttetes Trauma. Aufarbeitung: Fehlanzeige. Eine Recherche, die weh tut, weil sie es muss. Scheer, Karoline; Hoheisel, Clara",
+    "date": "2026-11-23T23:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/the-kids-are-alright-trailer-doku-100.html",
+    "image": "https://bilder.deutschlandfunk.de/45/f0/21/31/45f02131-48a4-41fe-b1f7-0efe03612b37/the-kids-are-alright-00-trailer-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/30/the_kids_are_alright_trailer_doku_drk_20261130_0005_4f4b0ea2.mp3?refId=das-feature-104",
+    "duration": "3 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:5f89f8e5-3be2-5e8f-8892-abb35ae6beb7",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/5a/86/4c/da/5a864cda-6d1d-419b-8458-23c09b9d4629/fuer-doku-drops-17-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/doku_drops_17_places_drk_20261107_1805_c59f4c3c.mp3?refId=das-feature-104",
     "duration": "28 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:b231b7af-6c30-563e-b9d2-fa962b281a3c",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lillo - Mein Großvater, der Faschismus, Italien und ich",
-    "summary": "Jahrzehntelang engagierte sich mein Großvater für die neofaschistische Partei Italiens. Nach seinem Tod begebe ich mich auf Spurensuche, will seinen Lebensweg und den Aufstieg der Rechten in Italien besser verstehen.<br>„Avere il sole in tasca“ – Die Sonne in der Manteltasche tragen. Diesen Spruch verbinde ich mit meinem Großvater. Die Falten an seinem Hals, seine ruhige Art zu sprechen. Und die Büste des italienischen Diktators Benito Mussolini in seinem Bücherregal. 26 Jahre saß mein Großvater für die neofaschistische Partei Italiens im Parlament. Um die Jahrtausendwende starb er. Jetzt, wo auch meine Großmutter tot ist, tauchen alte Fotos und Erinnerungen auf. Und mir, der Enkelin, stellen sich alte Frage neu: Wie wurde aus meinem Großvater ein überzeugter Faschist? Das Thema sei zu komplex, heißt es in der Familie. Doch dann reden mein Vater und seine Geschwister dennoch: über ihren Vater, die Geschichte Italiens und den Aufstieg der Rechten in Italien.<br><br>+++++<br><br><strong>Es kommt zu Wort:</strong><br>Dr. Lene Faust, Ethnologin<br><br>+++++<br><br><strong>Livia Valensise</strong>, geboren 1989 in Rom, Drehbuchautorin, studierte an der deutschen Film- und Fernsehakademie DFFB. Ihr Hörspiel „Fiktive Gelände“ war für den max15-Preis nominiert. „Lillo“ ist ihr erstes Radio-Feature. Mit zwei weiteren Autorinnen gründete sie das Kollektiv Fieber.<br>Musik: Tim Howard<br>Regie: Stella Luncke mit Livia Valensise<br>Dramaturgie: Julia Illmer<br>Deutschlandfunk 2026<br><br>+++++<br><br>Unser Podcast-Tipp <a href=\"https://www.hoerspielundfeature.de/feature-alle-menschen-muessen-sterben-100.html\" rel=\"noopener\" target=\"_blank\">„Alle Menschen müssen sterben, vielleicht auch ich“</a><br><br>+++++<br><br>Wenn Euch \"Dlf Doku\" gefällt, abonniert uns und empfehlt uns weiter. Feedback gerne an hoererservice@deutschlandfunk.de</a><br>Noch mehr spannende Podcasts gibt‘s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-10-13T09:40:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/lillo-mein-grossvater-der-faschismus-italien-und-ich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/4c/6a/46/a9/4c6a46a9-146c-403d-af21-6ebe86a325dd/bild-feature-lillo-mein-grossvater-italien-faschismus-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/17/lillo_mein_grossvater_der_faschismus_italien_und_ich_drk_20261017_1140_84717f65.mp3?refId=das-feature-104",
-    "duration": "54 Min",
     "tags": [
       "feature",
       "dokumentation",

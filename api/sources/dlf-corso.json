@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:bd819647-3737-5fb8-93c2-6f5d7af07b2a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Shecurity - Weibliche Sicherheitskräfte für bessere Konzerterlebnisse?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-25T14:15:45.000Z",
+    "url": "https://www.deutschlandfunk.de/shecurity-weibliche-sicherheitskraefte-fuer-bessere-konzerterlebnisse-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/shecurity_weibliche_sicherheitskraefte_fuer_bessere_dlf_20261125_1515_6f2f6d28.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ad4ffae0-2076-5b8d-ba9f-5c066cb611fe",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme - \"I play Rocky\", \"Parallele Leben\", \"Inside Out\"",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-11-25T14:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-i-play-rocky-parallele-leben-inside-out-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/neue_filme_i_play_rocky_parallele_leben_inside_out_dlf_20261125_1510_d63cdb7e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0a10de0d-fb5d-5461-ae8d-0461c70c8aab",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Architektur-Star Peter Zumthor - Welchen Einfluss hat er auf junge Architekten?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-25T14:06:02.000Z",
+    "url": "https://www.deutschlandfunk.de/architektur-star-peter-zumthor-welchen-einfluss-hat-er-auf-junge-architekten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/architektur_star_peter_zumthor_welchen_einfluss_hat_er_auf_dlf_20261125_1506_fad60208.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:4332375f-4d07-57ad-b2b3-833eed810f5e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/chor_b_o_d_i_e_s_von_kat_frankie_acht_stimmen_als_kleine_dlf_20261121_1520_5fa25b6c.mp3?refId=corso-104",
     "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5cd93d1b-f1b3-51e4-a066-2d32a8ec0ab7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "50 Jahre \"Oxygène\" - Der Soundtrack zu einer Zukunft, die nie kam",
-    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
-    "date": "2026-11-21T14:12:59.000Z",
-    "url": "https://www.deutschlandfunk.de/50-jahre-oxyg-ne-der-soundtrack-zu-einer-zukunft-die-nie-kam-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/50_jahre_oxygene_der_soundtrack_zu_einer_zukunft_die_nie_kam_dlf_20261121_1512_7ea03af5.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:accf45c6-9724-5f7e-968b-7aba60857977",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Masha Qrella: \"Man muss allen Geschichten Platz geben\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-11-21T14:10:48.000Z",
-    "url": "https://www.deutschlandfunk.de/masha-qrella-man-muss-allen-geschichten-platz-geben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/masha_qrella_man_muss_allen_geschichten_platz_geben_dlf_20261121_1510_e19f0594.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4c2945ad-78c5-5a98-8544-0f881be97c29",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Serie \"Ballz\" - Lachen über Hodenkrebs?",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-11-20T14:15:57.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-serie-ballz-lachen-ueber-hodenkrebs-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/neue_serie_ballz_lachen_ueber_hodenkrebs_dlf_20261120_1515_e77b2065.mp3?refId=corso-104",
-    "duration": "9 Min",
     "tags": [
       "kultur",
       "pop",

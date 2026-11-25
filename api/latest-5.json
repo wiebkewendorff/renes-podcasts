@@ -26,16 +26,41 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:4332375f-4d07-57ad-b2b3-833eed810f5e",
+    "id": "dlf-corso:bd819647-3737-5fb8-93c2-6f5d7af07b2a",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Satiriker Oobah Butler auf HBO Max - Scam in Serie",
-    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
-    "date": "2026-11-24T14:20:41.000Z",
-    "url": "https://www.deutschlandfunk.de/satiriker-oobah-butler-auf-hbo-max-scam-in-serie-100.html",
+    "title": "Shecurity - Weibliche Sicherheitskräfte für bessere Konzerterlebnisse?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-25T14:15:45.000Z",
+    "url": "https://www.deutschlandfunk.de/shecurity-weibliche-sicherheitskraefte-fuer-bessere-konzerterlebnisse-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/satiriker_oobah_butler_auf_hbo_max_scam_in_serie_dlf_20261124_1520_60f3e0f7.mp3?refId=corso-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/shecurity_weibliche_sicherheitskraefte_fuer_bessere_dlf_20261125_1515_6f2f6d28.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ad4ffae0-2076-5b8d-ba9f-5c066cb611fe",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme - \"I play Rocky\", \"Parallele Leben\", \"Inside Out\"",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-11-25T14:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-i-play-rocky-parallele-leben-inside-out-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/neue_filme_i_play_rocky_parallele_leben_inside_out_dlf_20261125_1510_d63cdb7e.mp3?refId=corso-104",
     "duration": "6 Min",
     "tags": [
       "kultur",
@@ -51,17 +76,17 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:6ccaa745-98b7-54c6-b659-fc1abc782cd1",
+    "id": "dlf-corso:0a10de0d-fb5d-5461-ae8d-0461c70c8aab",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Monobloc - ein Plastikstuhl als Inspiration für Kunstperformances",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-11-24T14:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/monobloc-ein-plastikstuhl-als-inspiration-fuer-kunstperformances-100.html",
+    "title": "Architektur-Star Peter Zumthor - Welchen Einfluss hat er auf junge Architekten?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-25T14:06:02.000Z",
+    "url": "https://www.deutschlandfunk.de/architektur-star-peter-zumthor-welchen-einfluss-hat-er-auf-junge-architekten-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/monobloc_ein_plastikstuhl_als_inspiration_fuer_dlf_20261124_1515_4009d262.mp3?refId=corso-104",
-    "duration": "6 Min",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/architektur_star_peter_zumthor_welchen_einfluss_hat_er_auf_dlf_20261125_1506_fad60208.mp3?refId=corso-104",
+    "duration": "8 Min",
     "tags": [
       "kultur",
       "pop",
@@ -76,42 +101,17 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:53ecb73d-6af7-54b9-af52-83923cf3982b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutsche Doku \"Der talentierte Mr. F.\" gewinnt International Emmy Award",
-    "summary": "Ucar, Giselle www.deutschlandfunk.de, Corso",
-    "date": "2026-11-24T14:06:29.000Z",
-    "url": "https://www.deutschlandfunk.de/deutsche-doku-der-talentierte-mr-f-gewinnt-international-emmy-award-106.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/deutsche_doku_der_talentierte_mr_f_gewinnt_international_dlf_20261124_1506_3ee62b60.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:177955834d0f707d2ae080a3d574b7fb",
+    "id": "zeitzeichen:2babbb3c9c17c39f64c77ac433887fe0",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Frieden mit der FARC: Kolumbiens Weg aus der Gewalt",
-    "summary": "<p>Am 24.11.2016 schließt Kolumbien nach mehr als 50 Jahren Krieg Frieden mit der Guerilla. Nur wenige Wochen zuvor ist das Vorhaben fast gescheitert - an der Bevölkerung.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Maik Gleitsmann:</strong><br><ul><li>wie aus einer kleinen bäuerlichen Guerilla eine der mächtigsten bewaffneten Organisationen Lateinamerikas wird, </li><li>warum vier Jahre Friedensverhandlungen beinahe an einer einzigen Abstimmung scheitern,</li><li>und weshalb Frieden zu schließen manchmal leichter ist, als ihn dauerhaft zu sichern.</li></ul><br>Am 2. Oktober 2016 blickt die Welt gespannt nach Kolumbien. Nach mehr als fünf Jahrzehnten bewaffneten Konflikts und vier Jahren Verhandlungen soll ein Friedensabkommen zwischen der Regierung und der sozialrevolutionäre FARC-Guerilla den Weg in eine friedliche Zukunft ebnen. Doch bei einer Volksabstimmung lehnt eine knappe Mehrheit den Vertrag ab.<br><br>Für Präsident Juan Manuel Santos ist das ein schwerer Rückschlag. Doch er gibt nicht auf. Nur wenige Wochen später wird ein überarbeitetes Abkommen unterzeichnet. Tausende Guerillakämpfer legen ihre Waffen nieder und beginnen ein neues Leben.<br><br>Zehn Jahre später zeigt sich: Der Friedensvertrag hat vieles verändert. Doch die Aufarbeitung der Gewalt, die Wiedereingliederung ehemaliger Kämpfer und die anhaltenden Konflikte stellen Kolumbien weiterhin vor große Herausforderungen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Laura Camila Barrios Sabogal (PRIF), kolumbianische Friedenforscherin</li><li>Abelardo Caicedo Colorado, ehemaliger FARC-Kommandant</li><li>Aura Rosa Montero, indigene Kankuamo </li><li>Juan Manuel Santos, Fernsehansprache vom 02.10.2016 und Friedensnobelpreisrede vom 10.12.2016,</li><li>Friedensabkommen zwischen der kolumbianischen Regierung und der FARC vom 24.11.2016</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://www.comisiondelaverdad.co/\" rel=\"noopener\" target=\"_blank\">Kolumbianische Wahrheitskommission, Abschlussbericht 2022 </a></li><li>The Nobel Prize: <a href=\"https://www.nobelprize.org/prizes/peace/2016/santos/lecture/\" rel=\"noopener\" target=\"_blank\">Juan Manuel Santos: \"Peace in Columbia: From the Impossible to the Possible\"</a></li></ul><br><strong>Unser Hörtipp: </strong><br><a href=\"https://1.ard.de/kunstverbrechen-staffel6?cpo-zz\" rel=\"noopener\" target=\"_blank\">„Kunstverbrechen“ – der True-Crime-Podcast der etwas anderen Art von NDR Kultur </a><br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Maik Gleitsmann<br>Redaktion: Carolin Rückl und David Rother",
-    "date": "2026-11-24T05:00:09.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-frieden-mit-der-farc-kolumbiens-weg-aus-der-gewalt-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/friedensvertrag-kolumbien-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/20/11993a0e-6103-4ee0-ac1d-c45e51555604/11993a0e-6103-4ee0-ac1d-c45e51555604_MP3-128.mp3",
-    "duration": "16 Min",
+    "title": "Ein Zar lernt in Europa: Das Auslandssemester von Peter I.",
+    "summary": "<p>Russland muss unabhängiger werden. Zu dieser Erkenntnis kommt Zar Peter I. Ende des 17. Jahrhunderts. Um das zu erreichen, schickt er im November 1696 Adlige zum Studium in den Westen - und fährt selbst dorthin.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Murat Kayı:</strong><br><ul><li>warum Zar Peter I. unter falschem Namen als Schiffszimmermann arbeitet,</li><li>weshalb die \"Große Gesandtschaft\" mehr als 250 Menschen umfasst und ein Vermögen kostet,</li><li>dass Wladimir Putin Peter den Großen bis heute als Vorbild betrachtet.</li></ul><br>Im November 1696 schickt Zar Peter I. zunächst junge Adlige zum Lernen nach Westeuropa und bricht kurz darauf selbst zur \"Großen Gesandtschaft\" auf. Unter falschem Namen reist er durch die Niederlande, England und das Heilige Römische Reich. Er lernt Schiffbau, knüpft diplomatische Kontakte und sucht Experten für sein rückständiges Reich. Dabei sammelt der feierfreudige junge Zar Ideen, die Russland grundlegend verändern sollen.<br><br>Nach seiner Rückkehr reformiert Peter I. Staat, Gesellschaft und Kultur mit großer Härte. Die Reise wird zum Wendepunkt der russischen Geschichte: Sie ebnet den Weg für den Aufstieg Russlands zur europäischen Großmacht und prägt zugleich das Verhältnis des Landes zu Europa für Jahrhunderte.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Martin Aust, Historiker Uni Bonn</li><li>Übersee Museum Bremen: Peter der Große in Westeuropa. Die große Gesandtschaft 1697 - 1698. Bremen 1991</li><li>Reinhold Neumann-Hoditz: Peter der Große. Mit Selbstzeugnissen und Bilddokumenten. Hamburg 1983</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/bernsteinzimmer-100.html\" rel=\"noopener\" target=\"_blank\">06.11.1716 - Bernsteinzimmer für Zar Peter I. </a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-peter-der-grosse-100.html\" rel=\"noopener\" target=\"_blank\">9. Juni 1672 - Der russische Zar Peter der Große wird geboren</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/todestag-katharina-die-grosse-100.html\" rel=\"noopener\" target=\"_blank\">17. November 1796 - Katharina II. stirbt in St. Petersburg</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Murat Kayı<br>Redaktion: Jakob Schiffer und Sefa Inci Suvak",
+    "date": "2026-11-25T05:00:16.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ein-zar-lernt-in-europa-das-auslandssemester-von-peter-i-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-zar-peter-I-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/13/ae079713-16e7-4582-b133-d125e9acb983/ae079713-16e7-4582-b133-d125e9acb983_MP3-128.mp3",
+    "duration": "14 Min",
     "tags": [
       "geschichte",
       "bildung",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-3474783863127713",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Schauspieler Leo Reisinger über die ARD-Komödie \"24 Türchen zu dir\"",
+    "summary": "Das Vorleben des Leo Reisinger umfasst eine Schreinerlehre, ferner Tätigkeiten als Pianist in verschiedenen Bands, Kellner auf dem Oktoberfest, Animateur im Ferienclub und sogar Gemüsehändler. Und als wäre all das noch nicht genug, schoss er vor nicht allzu langer Zeit mit seinem charmant-bayerisch gehaltenen Debütroman \"Bavarese\" auf die \"Spiegel\"-Bestsellerliste. Jahreszeitlich bedingt bringt Leo Reisinger die ARD-Komödie \"24 Türchen zu dir\" mit aufs Rote Sofa. Da wird er dann selbstverständlich erzählen, worum es geht.",
+    "date": "2026-11-24T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspieler-leo-reisinger-ueber-die-ard-komoedie-24-tuerchen-zu-dir,audio-3616308.html",
+    "image": "https://images.ndr.de/image/a6829c04-5bf9-45f9-bfc0-fdb3aac4e123/AAABog8Z98s/AAABnSStX0g/1x1-big/screenshot-266976.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1124/AU-20261124-2046-2300.mp3",
+    "duration": "40 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-0709596897906779",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/4af4882f-ee0a-4c6f-9b58-448cc45dfaf8/AAABofURsjA/AAABnSStX0g/1x1-big/screenshot-263926.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1119/AU-20261119-2227-4600.mp3",
     "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7396656774323362",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Er prägt die zeitgenössische Literatur: Schriftsteller Daniel Kehlmann",
-    "summary": "Daniel Kehlmann prägt die zeitgenössische Literatur wie kaum ein anderer. Auf dem Roten Sofa stellt der Schriftsteller seinen neuen Roman \"Afrika\" vor - eine bitterböse Politsatire über die Berliner Afrikakonferenz von 1884/85. Historische Stoffe faszinieren ihn immer wieder. Neben Romanen verfasst er auch Theaterstücke und Drehbücher. Daniel Kehlmann wuchs in München und Wien in einem Künstlerhaushalt auf, studierte Philosophie und Germanistik und lebt heute hauptsächlich New York - darüber wollen wir uns ebenfalls unterhalten.",
-    "date": "2026-11-18T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/er-praegt-die-zeitgenoessische-literatur-schriftsteller-daniel-kehlmann,audio-3604880.html",
-    "image": "https://images.ndr.de/image/f90b4401-f5a1-476d-9a62-b06d76e159ac/AAABoe_pH4Q/AAABnSStX0g/1x1-big/screenshot-263358.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1118/AU-20261118-2039-0700.mp3",
-    "duration": "43 Min",
     "tags": [
       "beatles",
       "popgeschichte",

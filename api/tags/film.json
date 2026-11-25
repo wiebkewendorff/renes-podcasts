@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:3ff04a69-2540-5986-82e6-5de9ab2db43f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 24.11.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-24T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/kulturmeldungen_24112026_dlf_20261124_1756_7eb8920b.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:850f8628-11f4-5ac8-bf4c-8548a23a4442",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Tschechiens öffentlich-rechtlicher Rundfunk unter Druck - Die Folgen fürs Kino",
+    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-24T16:50:30.000Z",
+    "url": "https://www.deutschlandfunk.de/tschechiens-oeffentlich-rechtlicher-rundfunk-unter-druck-die-folgen-fuers-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/tschechiens_oeffentlich_rechtlicher_rundfunk_unter_druck_die_dlf_20261124_1750_43b752c4.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c94d6166-40f1-592c-88ab-4b63b701b871",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Felix Nussbaum. Maskeraden\" - Ausstellung im Nussbaum-Haus, Osnabrück",
+    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-24T16:44:05.000Z",
+    "url": "https://www.deutschlandfunk.de/felix-nussbaum-maskeraden-ausstellung-im-nussbaum-haus-osnabrueck-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/felix_nussbaum_maskeraden_ausstellung_im_nussbaum_haus_dlf_20261124_1744_5fb6447f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:67162654-14fc-52e0-9643-00a34d170886",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Iran: Auspeitschungen, Todesstrafen und Zensur gegen Künstler",
+    "summary": "Eine Sängerin wurde nach einem Auftritt ohne Kopftuch ausgepeitscht, einem Dichter droht die Hinrichtung. Der deutsch-iranischen Autorin Daniela Sepehri (PEN Berlin) zufolge widersetzen sich dennoch immer mehr Künstlerinnen dem Mullah-Regime. Sepehri, Daniela; Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-24T16:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/mit-dem-ruecken-zur-wand-iranische-kulturschaffende-im-visier-des-regimes-100.html",
+    "image": "https://bilder.deutschlandfunk.de/ce/91/97/0c/ce91970c-afef-4fef-a7ab-dc07c9f883ca/daniela-sepehri-portrait-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/mit_dem_ruecken_zur_wand_iranische_kulturschaffende_im_dlf_20261124_1735_ebb4f157.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:b18ffe5e-01dc-5854-bdf6-96efa8cf59c8",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -141,110 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/global_antiquity_mailaender_ausstellung_zu_kulturellem_dlf_20261122_1747_8c449043.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9d158ba8-10a2-5d56-9d78-3eba6d51eedc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Star-Architekten bauen Asylbewerber-Unterkünfte in Oisterwijk, Niederlande",
-    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-22T16:42:00.000Z",
-    "url": "https://www.deutschlandfunk.de/star-architekten-bauen-asylbewerber-unterkuenfte-in-osterwijk-niederlande-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/star_architekten_bauen_asylbewerber_unterkuenfte_in_dlf_20261122_1742_d8434610.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:157caab2-29ea-5c09-819d-ed07ebb3286a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Publikumspreise statt Jury-Entscheidung - Zum Abschluss der Venedig Biennale",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-22T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/publikumspreise-statt-jury-entscheidung-zum-abschluss-der-venedig-biennale-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/publikumspreise_statt_jury_entscheidung_zum_abschluss_der_dlf_20261122_1736_a541917c.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:20168958-8edb-5fdf-a0f3-db02dcf344f1",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Freie Szene ohne Zukunft? Zur Eröffnung des Theaters im Depot im Carlswerk Köln",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-22T16:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/freie-szene-ohne-zukunft-zur-eroeffnung-des-theaters-im-depot-im-carlswerk-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/freie_szene_ohne_zukunft_zur_eroeffnung_des_theaters_im_dlf_20261122_1731_223f88ae.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e31d493c-9163-5d55-a596-e5959a505b96",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 21.11.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-21T16:56:09.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-21-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/kulturmeldungen_21112026_dlf_20261121_1756_9131771b.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",
