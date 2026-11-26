@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-9087767314664554",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Steht seit über 40 Jahren auf der Bühne: Comedian Michael Mittermeier",
+    "summary": "Der Michael Mittermeier der Neunzigerjahre zwängte sich in eine schwarze Glattlederhose, streifte ein enges T-Shirt über, setzte sich die Basecap verkehrt herum auf und rockte dann den \"Quatsch Comedy Club\". Seit über 40 Jahren steht der Oberbayer auf der Bühne, tourt regelmäßig und spielt immer größere Live-Shows. In der ARD-Satiresendung „extra 3“ ist Mittermeier aktuell als Amerika-Experte zu sehen. Jüngst hat er den Bayerischen Kabarettpreis verliehen bekommen. Auf dem Roten Sofa werden wir von Michael Mittermeier erfahren, wie er in seinen „Lucky Punch Comedy Clubs“ junge Talente fördert.",
+    "date": "2026-11-25T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/steht-seit-ueber-40-jahren-auf-der-buehne-comedian-michael-mittermeier,audio-3618598.html",
+    "image": "https://images.ndr.de/image/8bd81c51-7fa1-4ac4-8862-e829faca8bb0/AAABohPwUN4/AAABnSStX0g/1x1-big/screenshot-267396.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1125/AU-20261125-2001-3600.mp3",
+    "duration": "36 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-3474783863127713",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/bf2a265f-77be-414f-9203-6e217f9e88db/AAABofo3WWU/AAABnSStX0g/1x1-big/screenshot-264686.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2136-3400.mp3",
     "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-07356380862749157",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Hannes Ringlstetter im Sofa-Talk - und auch im Duett mit Jan Plewka",
-    "summary": "In der ARD-Kultserie \"Hubert ohne Staller\" - deren 200. Folge jetzt ansteht - spielt Hannes Ringlstetter den genial-chaotischen Werkstattbesitzer Yazid. Acht Jahre lang lief im BR-Fernsehen seine Late-Night-Show. Die hat er nun beendet, um fortan häufiger als Singer-Songwriter mit handgemachten Stücken vors Publikum treten zu können, ein Studioalbum mit dem Titel \"Bellavista\" ist kürzlich erschienen. Als ganz besonderes Schmankerl bringt Ringlstetter den Gesangskollegen Jan Plewka zur gemeinsamen Einlage ins Studio mit. Auf dem Roten Sofa gibt es also viel zu hören.",
-    "date": "2026-11-19T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/hannes-ringlstetter-im-sofa-talk-und-auch-im-duett-mit-jan-plewka,audio-3607272.html",
-    "image": "https://images.ndr.de/image/4af4882f-ee0a-4c6f-9b58-448cc45dfaf8/AAABofURsjA/AAABnSStX0g/1x1-big/screenshot-263926.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1119/AU-20261119-2227-4600.mp3",
-    "duration": "39 Min",
     "tags": [
       "beatles",
       "popgeschichte",

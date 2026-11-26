@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:18eba531-b0ad-5f50-9ee5-14d2dc80e7fe",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 25.11.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-25T16:57:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-25-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/kulturmeldungen_25112026_dlf_20261125_1757_faba3e4f.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1e24bc7f-0272-5a0e-bfaf-535496e9a355",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Keine Hoffnung auf Veränderung - Israelische Theatermacher zur Lage im Land",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-25T16:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/keine-hoffnung-auf-veraenderung-israelische-theatermacher-zur-lage-im-land-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/keine_hoffnung_auf_veraenderung_israelische_theatermacher_dlf_20261125_1752_16b842ea.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:89c178fd-932a-5a49-9eee-d22717cf177c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Orange Day\" - Machtmissbrauch und sexuelle Gewalt in der Kulturbranche",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-25T16:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/orange-day-machtmissbrauch-und-sexuelle-gewalt-in-der-kulturbranche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/orange_day_machtmissbrauch_und_sexuelle_gewalt_in_der_dlf_20261125_1741_abb48424.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3dcb75dc-62f0-5409-8188-0787da311759",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kanal-Centre Pompidou - Neues Museum für Gegenwartskunst in Brüssel",
+    "summary": "Brockhues, Annabell www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-25T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kanal-centre-pompidou-neues-museum-fuer-gegenwartskunst-in-bruessel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/kanal_centre_pompidou_neues_museum_fuer_gegenwartskunst_in_dlf_20261125_1736_eeb1cb53.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:3ff04a69-2540-5986-82e6-5de9ab2db43f",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -140,110 +244,6 @@
     "url": "https://www.deutschlandfunk.de/nachdenken-uebers-tun-das-philosophie-festival-in-berlin-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/nachdenken_uebers_tun_das_philosophie_festival_in_berlin_dlf_20261123_1753_e177d04f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f225784e-0adc-59cb-bf08-1dc282a30ef0",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Frankreichs ikonischer Kulturminister - Zum 50. Todestag von André Malraux",
-    "summary": "Dylla, Carolin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-23T16:47:22.000Z",
-    "url": "https://www.deutschlandfunk.de/frankreichs-ikonischer-kulturminister-zum-50-todestag-von-andr-malraux-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/frankreichs_ikonischer_kulturminister_zum_50_todestag_von_dlf_20261123_1747_507a52d0.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b649c04a-953b-52da-845f-5486623e4046",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lebenswerk eines Unbekannten: Kunsthalle Augsburg zeigt Maler Heinz Butz",
-    "summary": "Metzdorf, Julie www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-23T16:42:30.000Z",
-    "url": "https://www.deutschlandfunk.de/lebenswerk-eines-unbekannten-kunsthalle-augsburg-zeigt-maler-heinz-butz-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/lebenswerk_eines_unbekannten_kunsthalle_augsburg_zeigt_maler_dlf_20261123_1742_a67d3561.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:13f11a7e-9a22-5322-9962-d1b41ba1db58",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturelle Sudan-Hilfe: Roman Luckscheiter, Dt. UNESCO, zur Berliner Konferenz",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-22T16:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturelle-sudan-hilfe-roman-luckscheiter-dt-unesco-zur-berliner-konferenz-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/kulturelle_sudan_hilfe_roman_luckscheiter_dt_unesco_zur_dlf_20261122_1752_a94645a8.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:66b25fc2-f5f8-54f5-a4ad-d36c32475848",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Global Antiquity\": Mailänder Ausstellung zu kulturellem Austausch in der Antike",
-    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-22T16:47:00.000Z",
-    "url": "https://www.deutschlandfunk.de/global-antiquity-mailaender-ausstellung-zu-kulturellem-austausch-in-der-antike-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/global_antiquity_mailaender_ausstellung_zu_kulturellem_dlf_20261122_1747_8c449043.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
     "tags": [
       "kultur",
