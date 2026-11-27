@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:41d3ae66b4bc7a7085f422e7157bedaa",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Chlodwig I.: Wie ein Frankenkönig Gallien erobert",
+    "summary": "<p>Chlodwig besiegt Rivalen, vereint fränkische Teilreiche und lässt sich taufen. Sein Aufstieg prägt Europa weit über das Ende der Antike hinaus. Er stirbt am 27.11.511.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Claudia Friedrich:</strong><br><ul><li>wie Archäologen auf das Grab von Chlodwigs Vater stoßen,</li><li>warum ein Krieger wegen einer Vase sein Leben verliert,</li><li>welche Rolle Chlodwigs Frau bei seiner Annäherung an das Christentum spielt,</li><li>warum Chlodwig später zum Vorbild französischer Könige wird.</li></ul><br>Chlodwig I. wächst in einer Zeit auf, in der das Weströmische Reich zerfällt und zahlreiche Herrscher um die Macht in Gallien kämpfen. Der Spross der Merowinger-Dynastie setzt sich mit militärischem Geschick, politischen Bündnissen und großer Härte gegen Rivalen und den letzten römischen Machthaber nördlich der Alpen durch und schafft das erste fränkische Großreich.<br><br>Zugleich vollzieht er einen folgenreichen Wandel: Der heidnische Krieger lässt sich taufen und bindet die christliche Kirche eng an seine Herrschaft. Sein Frankenreich wird zum Ausgangspunkt der französischen und deutschen Geschichte und prägt die politische Ordnung des frühen Mittelalters weit über seinen Tod am 27. November 511 hinaus. Chlodwig I. geht daher als Begründer Europas in die Geschichte ein.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Matthias Becher (Autor und Professor für mittelalterliche Geschichte an der Universität Bonn) </li><li>Gregor von Tours: Zehn Bücher Geschichten. Vollständig überarbeitete Übersetzung. Wiesbaden 2021</li><li>Matthias Becher: Chlodwig I. Der Aufstieg der Merowinger und das Ende der antiken Welt. München 2011</li><li>Mischa Meier und Steffen Patzold (Hg.): Chlodwigs Welt. Organisation von Herrschaft um 500 (Reihe: Roma Aeterna). Stuttgart 2014</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-karl-martell-schlacht-tours-poitiers-100.html\" rel=\"noopener\" target=\"_blank\">25. Oktober 732 - Karl Martell und die Schlacht bei Tours und Poitiers</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/koenig-pippin-100.html\" rel=\"noopener\" target=\"_blank\">24.09.0768 - Todestag von König Pippin III.</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Claudia Friedrich<br>Redaktion: Sefa Inci Suvak und Ronald Feisel",
+    "date": "2026-11-27T05:00:14.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-chlodwig-i-wie-ein-frankenkoenig-gallien-erobert-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-chlodwig-I-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/17/57fcf588-a519-4e60-819c-0e639c29d239/57fcf588-a519-4e60-819c-0e639c29d239_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:4453ff7942de3a30dc466d32ba5f071a",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -194,29 +217,6 @@
     "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-die-schlacht-an-der-somme-soldaten-im-industrialisierten-krieg-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-schlacht-an-der-somme-ende-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/10/b144f04a-aca0-47fd-a3e4-24b690396a5d/b144f04a-aca0-47fd-a3e4-24b690396a5d_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:717c7c7c891d74be5a834c24e0116070",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Japans Ninja-Legende: Eine Frau im Kampf gegen Samurai",
-    "summary": "<p>Der Legende nach hat Mochizuki Chiyome im Jahr 1561 einen rein weiblichen Ninja-Clan gegründet - vieles davon ist Spekulation, einiges Erfindung, aber es gibt einen wahren Kern.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Jana Niehoff:</strong><br><ul><li>warum die Geschichte von Mochizuki Chiyome keine klassische Heldenlegende ist, </li><li>welche Bedeutung die Schlacht von 1561 für ihren Mythos hat, </li><li>warum sie eher eine Spionin als eine Kriegerin gewesen sein könnte.</li></ul><br>Ninjas sind leise, schnell, flink, tödlich - und in ihrem Fall weiblich: Die junge Mochizuki Chiyome lebt im Japan des 16. Jahrhunderts, hasst Teezeremonien und will auf keinen Fall heiraten. Heimlich lernt sie zu kämpfen, sich zu tarnen und Informationen vom Feind zu beschaffen: Sie wird die erste weibliche Ninja Japans – und gründet obendrein noch den ersten rein weiblichen Ninja-Clan. <br><br>Ihre Geschichte, über Jahrhunderte überliefert, liefert reichlich Stoff für Abenteuerromane, TV-Serien und Videospiele. Vieles lässt sich historisch nicht belegen und lässt deshalb viel Platz für Fantasie. Trotz aller möglichen Legenden: Mochizuki Chiyome hilft beim Verständnis der Rolle der Frauen in der japanischen Geschichte, die lange übersehen wurden. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Dr. Takuma Melber, Historiker</li><li>Tamaki Richter, Autorin des WDR-Hörspiels \"Mochizuki – Die Legende der ersten Ninja-Kämpferin\"</li><li>Inagaki Shisei: Kosho Nihon shi. Tokio 1984</li></ul><br><strong>Weiterführende Links:<br></strong><ul><li>Hörspiel: <a href=\"https://kurz.ard.de/mochizuki\" rel=\"noopener\" target=\"_blank\">MOCHIZUKI. Die Legende der ersten Kämpferin</a></li><li>Zeitzeichen: 29.11.1890 - <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-erstes-parlament-japan-100.html\" rel=\"noopener\" target=\"_blank\">Japans erstes Parlament wird eröffnet</a></li><li>Zeitzeichen: 09.05.1991 - <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-yokoi-shoichi-102.html\" rel=\"noopener\" target=\"_blank\">Kriegsende verpasst - Japans Kaiser empfängt Yokoi Shoichi</a></li><li>Zeitzeichen: 06.11.1600 - <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-ishida-mitsunari-hinrichtung-100.html\" rel=\"noopener\" target=\"_blank\">Samurai Ishida Mitsunari wird hingerichtet </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Jana Niehoff<br>Redaktion: Frank Zirpins<br>Technik: Joseph Baader",
-    "date": "2026-11-17T05:00:20.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-japans-ninja-legende-eine-frau-im-kampf-gegen-samurai-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-mochizuki-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/12/cbbb1f7d-2ecb-4b38-bb5e-23c45d0fc346/cbbb1f7d-2ecb-4b38-bb5e-23c45d0fc346_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",

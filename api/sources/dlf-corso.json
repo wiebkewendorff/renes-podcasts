@@ -1,14 +1,64 @@
 [
   {
+    "id": "dlf-corso:dbb43439-a7b2-59ce-8e6c-a9d55554923d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Changes - turn and face the strange\" - Wandel im Pop von Bowie bis Beyoncé",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-27T14:09:58.000Z",
+    "url": "https://www.deutschlandfunk.de/changes-turn-and-face-the-strange-wandel-im-pop-von-bowie-bis-beyonc-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/changes_turn_and_face_the_strange_wandel_im_pop_von_bowie_dlf_20261127_1509_cae929a9.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a6ba8c9e-7fac-564e-a103-1a777933ef8f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Krömers letzte Stunde\" - Der langsame Tod der deutschen Fernsehunterhaltung",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-11-26T14:25:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kroemers-letzte-stunde-der-langsame-tod-der-deutschen-fernsehunterhaltung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/kroemers_letzte_stunde_der_langsame_tod_der_deutschen_dlf_20261126_1525_8b517190.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:57aad0f7-d0f1-5fd5-ba7b-b08dd86c6291",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Ein Thema der Popkultur - Autor Axel Schock über \"Aids: Chronik einer Pandemie\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "title": "Wie Aids Gesellschaft und Popkultur verändert hat",
+    "summary": "In seinem Buch \"Aids: Chronik einer Pandemie\" erzählt Axel Schock von einer Zeit, in der Popikonen ihre Homosexualität oder Erkrankung geheim hielten. Und er spürt den Auswirkungen der Krankheit nach - in der Popkultur und im Alltag der Menschen. Reimann, Christoph www.deutschlandfunk.de, Corso",
     "date": "2026-11-26T14:10:00.000Z",
     "url": "https://www.deutschlandfunk.de/ein-thema-der-popkultur-autor-axel-schock-ueber-aids-chronik-einer-pandemie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "image": "https://bilder.deutschlandfunk.de/e9/20/55/a3/e92055a3-743a-49cd-a571-3a7f4c2d74ed/imago0764336608h-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/ein_thema_der_popkultur_autor_axel_schock_ueber_aids_chronik_dlf_20261126_1510_030a0832.mp3?refId=corso-104",
     "duration": "11 Min",
     "tags": [
@@ -186,56 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/deutsche_doku_der_talentierte_mr_f_gewinnt_international_dlf_20261124_1506_3ee62b60.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1f3da2a4-ce55-55f3-a7f1-b5875ee477e2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Weltweite Sounds aus London - Zehn Jahre Batov Records",
-    "summary": "Gay, Francis www.deutschlandfunk.de, Corso",
-    "date": "2026-11-23T14:20:32.000Z",
-    "url": "https://www.deutschlandfunk.de/weltweite-sounds-aus-london-zehn-jahre-batov-records-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/weltweite_sounds_aus_london_zehn_jahre_batov_records_dlf_20261123_1520_52cd958b.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0d188e6a-9f23-58c9-b07e-4b09456bdea7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Hype um den Vibe - wie Vibes zur zentralen Kategorie der Popkultur wurden",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-11-23T14:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-hype-um-den-vibe-wie-vibes-zur-zentralen-kategorie-der-popkultur-wurden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/der_hype_um_den_vibe_wie_vibes_zur_zentralen_kategorie_der_dlf_20261123_1515_fb9c6074.mp3?refId=corso-104",
-    "duration": "7 Min",
     "tags": [
       "kultur",
       "pop",

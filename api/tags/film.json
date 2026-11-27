@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:2978de02-2a28-5130-961f-bac9e973ea88",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 26.11.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:55:58.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/kulturmeldungen_26112026_dlf_20261126_1755_58f01aae.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bca6b1fc-8d70-54ea-a6ff-70cb9893d761",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Alles Glück der Welt\" - Musikalische Komödie nach Thomas Brasch a.d. Volksbühne",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:50:19.000Z",
+    "url": "https://www.deutschlandfunk.de/alles-glueck-der-welt-musikalische-komoedie-nach-thomas-brasch-a-d-volksbuehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/alles_glueck_der_welt_musikalische_komoedie_nach_thomas_dlf_20261126_1750_98ef0f8b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ea43e1c2-5d09-55d0-bdeb-ff910c2b8092",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Carpathia\" - Das Dracula-Ballett von Edward Clug am Bayerischen Staatsballett",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:46:15.000Z",
+    "url": "https://www.deutschlandfunk.de/carpathia-das-dracula-ballett-von-edward-clug-am-bayerischen-staatsballett-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/carpathia_das_dracula_ballett_von_edward_clug_am_bayerischen_dlf_20261126_1746_91edc24f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1d93bc56-849a-5b12-8f4c-117577ec4db8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Venedig 2028 - Hoor Al-Qasimi wird neue Biennale-Kuratorin",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:40:41.000Z",
+    "url": "https://www.deutschlandfunk.de/venedig-2028-hoor-al-qasimi-wird-neue-biennale-kuratorin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/venedig_2028_hoor_al_qasimi_wird_neue_biennale_kuratorin_dlf_20261126_1740_dfeccd16.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bc124ea1-d700-5016-9b78-45a24f2e2ae4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"From inside out\" - Wim Wenders' Film über den Architekten Peter Zumthor",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/from-inside-out-wim-wenders-film-ueber-den-architekten-peter-zumthor-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/from_inside_out_wim_wenders_film_ueber_den_architekten_peter_dlf_20261126_1735_e4ebaae8.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:18eba531-b0ad-5f50-9ee5-14d2dc80e7fe",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/kulturmeldungen_24112026_dlf_20261124_1756_7eb8920b.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:850f8628-11f4-5ac8-bf4c-8548a23a4442",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Tschechiens öffentlich-rechtlicher Rundfunk unter Druck - Die Folgen fürs Kino",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:50:30.000Z",
-    "url": "https://www.deutschlandfunk.de/tschechiens-oeffentlich-rechtlicher-rundfunk-unter-druck-die-folgen-fuers-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/tschechiens_oeffentlich_rechtlicher_rundfunk_unter_druck_die_dlf_20261124_1750_43b752c4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c94d6166-40f1-592c-88ab-4b63b701b871",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Felix Nussbaum. Maskeraden\" - Ausstellung im Nussbaum-Haus, Osnabrück",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:44:05.000Z",
-    "url": "https://www.deutschlandfunk.de/felix-nussbaum-maskeraden-ausstellung-im-nussbaum-haus-osnabrueck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/felix_nussbaum_maskeraden_ausstellung_im_nussbaum_haus_dlf_20261124_1744_5fb6447f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:67162654-14fc-52e0-9643-00a34d170886",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Iran: Auspeitschungen, Todesstrafen und Zensur gegen Künstler",
-    "summary": "Eine Sängerin wurde nach einem Auftritt ohne Kopftuch ausgepeitscht, einem Dichter droht die Hinrichtung. Der deutsch-iranischen Autorin Daniela Sepehri (PEN Berlin) zufolge widersetzen sich dennoch immer mehr Künstlerinnen dem Mullah-Regime. Sepehri, Daniela; Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/mit-dem-ruecken-zur-wand-iranische-kulturschaffende-im-visier-des-regimes-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ce/91/97/0c/ce91970c-afef-4fef-a7ab-dc07c9f883ca/daniela-sepehri-portrait-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/mit_dem_ruecken_zur_wand_iranische_kulturschaffende_im_dlf_20261124_1735_ebb4f157.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b18ffe5e-01dc-5854-bdf6-96efa8cf59c8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 23.11.2026",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-23T16:56:28.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/kulturmeldungen_23112026_dlf_20261123_1756_fb726b2b.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4c9c144d-8f75-5b07-b856-29454edf60b5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nachdenken übers Tun - Das Philosophie-Festival in Berlin",
-    "summary": "Cornelius Wüllenkemper www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-23T16:53:28.000Z",
-    "url": "https://www.deutschlandfunk.de/nachdenken-uebers-tun-das-philosophie-festival-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/nachdenken_uebers_tun_das_philosophie_festival_in_berlin_dlf_20261123_1753_e177d04f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",

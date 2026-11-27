@@ -26,15 +26,249 @@
     "language": "de"
   },
   {
+    "id": "dlf-corso:dbb43439-a7b2-59ce-8e6c-a9d55554923d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Changes - turn and face the strange\" - Wandel im Pop von Bowie bis Beyoncé",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-27T14:09:58.000Z",
+    "url": "https://www.deutschlandfunk.de/changes-turn-and-face-the-strange-wandel-im-pop-von-bowie-bis-beyonc-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/changes_turn_and_face_the_strange_wandel_im_pop_von_bowie_dlf_20261127_1509_cae929a9.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-zeitzeugen-im-gespraech:4feab688-0ada-5abb-b32b-244ff3892503",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dieser Podcast heißt künftig \"Köpfe”",
+    "summary": "Mehr vertiefen, mehr verbinden, mehr verstehen: Dieser Podcast entwickelt sich weiter.<br><br><a href=\"https://www.deutschlandfunk.de/koepfe-100.html\" rel=\"noopener\" target=\"_blank\">“Köpfe”</a> läuft immer am samstags um 11.05 Uhr im Programm vom Deutschlandfunk. Immer dann erscheint auch eine neue Podcast-Folge. <br><br>Alle Infos zum neuen Deutschlandfunk-Programm gibt es hier: <a href=\"https://www.deutschlandfunk.de/mehr-deutschlandfunk-100.html\" rel=\"noopener\" target=\"_blank\">mehr.deutschlandfunk.de</a> <br><br>Bei Fragen zum Programm wenden Sie sich an den Hörerservice: hoererservice@deutschlandradio.de</a> <br>0221 - 345 18 31<br><br>Alle Podcasts und Sendungen vom Deutschlandfunk gibt es in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.",
+    "date": "2026-11-26T19:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/trailer-podcastfeed-umbenannt-zeitzeugen-102.html",
+    "image": "https://bilder.deutschlandfunk.de/a5/5b/41/71/a55b4171-1939-461b-959a-a39f6e415b04/koepfe-cover-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/30/trailer_podcastfeed_umbenannt_zeitzeugen_dlf_20261130_0923_90036224.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "1 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-zeitzeugen-im-gespraech:cad14431-3c45-5873-8efa-a6902d458c80",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zeitzeugen im Gespräch: Die niederländische Autorin Martine Letterie",
+    "summary": "Longerich, Melanie www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-11-26T18:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-die-niederlaendische-autorin-martine-letterie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_0/5a/FILE_05a0ba12a187a952b23a1f5a07672ef2/zeitzeugen-im-gespraech-108-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/zeitzeugen_im_gespraech_die_niederlaendische_autorin_martine_dlf_20261126_1915_0a26f9d9.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2978de02-2a28-5130-961f-bac9e973ea88",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 26.11.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:55:58.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/kulturmeldungen_26112026_dlf_20261126_1755_58f01aae.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bca6b1fc-8d70-54ea-a6ff-70cb9893d761",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Alles Glück der Welt\" - Musikalische Komödie nach Thomas Brasch a.d. Volksbühne",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:50:19.000Z",
+    "url": "https://www.deutschlandfunk.de/alles-glueck-der-welt-musikalische-komoedie-nach-thomas-brasch-a-d-volksbuehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/alles_glueck_der_welt_musikalische_komoedie_nach_thomas_dlf_20261126_1750_98ef0f8b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ea43e1c2-5d09-55d0-bdeb-ff910c2b8092",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Carpathia\" - Das Dracula-Ballett von Edward Clug am Bayerischen Staatsballett",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:46:15.000Z",
+    "url": "https://www.deutschlandfunk.de/carpathia-das-dracula-ballett-von-edward-clug-am-bayerischen-staatsballett-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/carpathia_das_dracula_ballett_von_edward_clug_am_bayerischen_dlf_20261126_1746_91edc24f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1d93bc56-849a-5b12-8f4c-117577ec4db8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Venedig 2028 - Hoor Al-Qasimi wird neue Biennale-Kuratorin",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:40:41.000Z",
+    "url": "https://www.deutschlandfunk.de/venedig-2028-hoor-al-qasimi-wird-neue-biennale-kuratorin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/venedig_2028_hoor_al_qasimi_wird_neue_biennale_kuratorin_dlf_20261126_1740_dfeccd16.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bc124ea1-d700-5016-9b78-45a24f2e2ae4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"From inside out\" - Wim Wenders' Film über den Architekten Peter Zumthor",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/from-inside-out-wim-wenders-film-ueber-den-architekten-peter-zumthor-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/from_inside_out_wim_wenders_film_ueber_den_architekten_peter_dlf_20261126_1735_e4ebaae8.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a6ba8c9e-7fac-564e-a103-1a777933ef8f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Krömers letzte Stunde\" - Der langsame Tod der deutschen Fernsehunterhaltung",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-11-26T14:25:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kroemers-letzte-stunde-der-langsame-tod-der-deutschen-fernsehunterhaltung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/kroemers_letzte_stunde_der_langsame_tod_der_deutschen_dlf_20261126_1525_8b517190.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:57aad0f7-d0f1-5fd5-ba7b-b08dd86c6291",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Ein Thema der Popkultur - Autor Axel Schock über \"Aids: Chronik einer Pandemie\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "title": "Wie Aids Gesellschaft und Popkultur verändert hat",
+    "summary": "In seinem Buch \"Aids: Chronik einer Pandemie\" erzählt Axel Schock von einer Zeit, in der Popikonen ihre Homosexualität oder Erkrankung geheim hielten. Und er spürt den Auswirkungen der Krankheit nach - in der Popkultur und im Alltag der Menschen. Reimann, Christoph www.deutschlandfunk.de, Corso",
     "date": "2026-11-26T14:10:00.000Z",
     "url": "https://www.deutschlandfunk.de/ein-thema-der-popkultur-autor-axel-schock-ueber-aids-chronik-einer-pandemie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "image": "https://bilder.deutschlandfunk.de/e9/20/55/a3/e92055a3-743a-49cd-a571-3a7f4c2d74ed/imago0764336608h-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/ein_thema_der_popkultur_autor_axel_schock_ueber_aids_chronik_dlf_20261126_1510_030a0832.mp3?refId=corso-104",
     "duration": "11 Min",
     "tags": [
@@ -334,84 +568,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:850f8628-11f4-5ac8-bf4c-8548a23a4442",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Tschechiens öffentlich-rechtlicher Rundfunk unter Druck - Die Folgen fürs Kino",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:50:30.000Z",
-    "url": "https://www.deutschlandfunk.de/tschechiens-oeffentlich-rechtlicher-rundfunk-unter-druck-die-folgen-fuers-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/tschechiens_oeffentlich_rechtlicher_rundfunk_unter_druck_die_dlf_20261124_1750_43b752c4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c94d6166-40f1-592c-88ab-4b63b701b871",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Felix Nussbaum. Maskeraden\" - Ausstellung im Nussbaum-Haus, Osnabrück",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:44:05.000Z",
-    "url": "https://www.deutschlandfunk.de/felix-nussbaum-maskeraden-ausstellung-im-nussbaum-haus-osnabrueck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/felix_nussbaum_maskeraden_ausstellung_im_nussbaum_haus_dlf_20261124_1744_5fb6447f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:67162654-14fc-52e0-9643-00a34d170886",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Iran: Auspeitschungen, Todesstrafen und Zensur gegen Künstler",
-    "summary": "Eine Sängerin wurde nach einem Auftritt ohne Kopftuch ausgepeitscht, einem Dichter droht die Hinrichtung. Der deutsch-iranischen Autorin Daniela Sepehri (PEN Berlin) zufolge widersetzen sich dennoch immer mehr Künstlerinnen dem Mullah-Regime. Sepehri, Daniela; Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/mit-dem-ruecken-zur-wand-iranische-kulturschaffende-im-visier-des-regimes-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ce/91/97/0c/ce91970c-afef-4fef-a7ab-dc07c9f883ca/daniela-sepehri-portrait-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/mit_dem_ruecken_zur_wand_iranische_kulturschaffende_im_dlf_20261124_1735_ebb4f157.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:4332375f-4d07-57ad-b2b3-833eed810f5e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -509,108 +665,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b18ffe5e-01dc-5854-bdf6-96efa8cf59c8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 23.11.2026",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-23T16:56:28.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/kulturmeldungen_23112026_dlf_20261123_1756_fb726b2b.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4c9c144d-8f75-5b07-b856-29454edf60b5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nachdenken übers Tun - Das Philosophie-Festival in Berlin",
-    "summary": "Cornelius Wüllenkemper www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-23T16:53:28.000Z",
-    "url": "https://www.deutschlandfunk.de/nachdenken-uebers-tun-das-philosophie-festival-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/nachdenken_uebers_tun_das_philosophie_festival_in_berlin_dlf_20261123_1753_e177d04f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1f3da2a4-ce55-55f3-a7f1-b5875ee477e2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Weltweite Sounds aus London - Zehn Jahre Batov Records",
-    "summary": "Gay, Francis www.deutschlandfunk.de, Corso",
-    "date": "2026-11-23T14:20:32.000Z",
-    "url": "https://www.deutschlandfunk.de/weltweite-sounds-aus-london-zehn-jahre-batov-records-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/weltweite_sounds_aus_london_zehn_jahre_batov_records_dlf_20261123_1520_52cd958b.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0d188e6a-9f23-58c9-b07e-4b09456bdea7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Hype um den Vibe - wie Vibes zur zentralen Kategorie der Popkultur wurden",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-11-23T14:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-hype-um-den-vibe-wie-vibes-zur-zentralen-kategorie-der-popkultur-wurden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/der_hype_um_den_vibe_wie_vibes_zur_zentralen_kategorie_der_dlf_20261123_1515_fb9c6074.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },

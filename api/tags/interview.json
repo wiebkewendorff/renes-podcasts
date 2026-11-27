@@ -1,5 +1,59 @@
 [
   {
+    "id": "dlf-zeitzeugen-im-gespraech:4feab688-0ada-5abb-b32b-244ff3892503",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dieser Podcast heißt künftig \"Köpfe”",
+    "summary": "Mehr vertiefen, mehr verbinden, mehr verstehen: Dieser Podcast entwickelt sich weiter.<br><br><a href=\"https://www.deutschlandfunk.de/koepfe-100.html\" rel=\"noopener\" target=\"_blank\">“Köpfe”</a> läuft immer am samstags um 11.05 Uhr im Programm vom Deutschlandfunk. Immer dann erscheint auch eine neue Podcast-Folge. <br><br>Alle Infos zum neuen Deutschlandfunk-Programm gibt es hier: <a href=\"https://www.deutschlandfunk.de/mehr-deutschlandfunk-100.html\" rel=\"noopener\" target=\"_blank\">mehr.deutschlandfunk.de</a> <br><br>Bei Fragen zum Programm wenden Sie sich an den Hörerservice: hoererservice@deutschlandradio.de</a> <br>0221 - 345 18 31<br><br>Alle Podcasts und Sendungen vom Deutschlandfunk gibt es in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.",
+    "date": "2026-11-26T19:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/trailer-podcastfeed-umbenannt-zeitzeugen-102.html",
+    "image": "https://bilder.deutschlandfunk.de/a5/5b/41/71/a55b4171-1939-461b-959a-a39f6e415b04/koepfe-cover-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/30/trailer_podcastfeed_umbenannt_zeitzeugen_dlf_20261130_0923_90036224.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "1 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-zeitzeugen-im-gespraech:cad14431-3c45-5873-8efa-a6902d458c80",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zeitzeugen im Gespräch: Die niederländische Autorin Martine Letterie",
+    "summary": "Longerich, Melanie www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-11-26T18:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-die-niederlaendische-autorin-martine-letterie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_0/5a/FILE_05a0ba12a187a952b23a1f5a07672ef2/zeitzeugen-im-gespraech-108-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/zeitzeugen_im_gespraech_die_niederlaendische_autorin_martine_dlf_20261126_1915_0a26f9d9.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-alles-gesagt:ab140869-3e53-494b-8508-c58e6e4a90bb",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
