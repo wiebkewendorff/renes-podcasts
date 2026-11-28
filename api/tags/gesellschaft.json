@@ -26,6 +26,31 @@
     "language": "de"
   },
   {
+    "id": "dlf-corso:ee2572ba-f150-5eff-9955-36491919cf8b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "NS - Soldatenlieder als Remixe - Thorsten Hindrichs, Musikwissenschaftler",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-27T14:10:42.000Z",
+    "url": "https://www.deutschlandfunk.de/ns-soldatenlieder-als-remixe-thorsten-hindrichs-musikwissenschaftler-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/ns_soldatenlieder_als_remixe_thorsten_hindrichs_dlf_20261127_1510_0d72e1a9.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:dbb43439-a7b2-59ce-8e6c-a9d55554923d",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -438,31 +463,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/monobloc_ein_plastikstuhl_als_inspiration_fuer_dlf_20261124_1515_4009d262.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:53ecb73d-6af7-54b9-af52-83923cf3982b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutsche Doku \"Der talentierte Mr. F.\" gewinnt International Emmy Award",
-    "summary": "Ucar, Giselle www.deutschlandfunk.de, Corso",
-    "date": "2026-11-24T14:06:29.000Z",
-    "url": "https://www.deutschlandfunk.de/deutsche-doku-der-talentierte-mr-f-gewinnt-international-emmy-award-106.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/deutsche_doku_der_talentierte_mr_f_gewinnt_international_dlf_20261124_1506_3ee62b60.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",

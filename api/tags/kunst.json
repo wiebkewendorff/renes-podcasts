@@ -1,5 +1,134 @@
 [
   {
+    "id": "dlf-kultur-heute:7deb3949-d4cf-5d2b-8692-cf02d88cbcd8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 27.11.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-27T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-27-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/kulturmeldungen_27112026_dlf_20261127_1756_3c127faa.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3be311e1-c1c7-5cdd-bb7d-d48e4ef7c1e1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wiederentdeckung im ZKM Karlsruhe: \"Hidden on Tape - Frühe Videokunst in Europa\"",
+    "summary": "Wetzel, Marie-Dominique www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-27T16:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wiederentdeckung-im-zkm-karlsruhe-hidden-on-tape-fruehe-videokunst-in-europa-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/wiederentdeckung_im_zkm_karlsruhe_hidden_on_tape_fruehe_dlf_20261127_1752_d2153f7f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:75609c04-b72e-508e-814a-b56a127fe333",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Catarina, oder Von der Schönheit, Faschisten zu töten",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-27T16:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/catarina-oder-von-der-schoenheit-faschisten-zu-toeten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/catarina_oder_von_der_schoenheit_faschisten_zu_toeten_dlf_20261127_1747_77149f61.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e6d8f39c-a9c7-5223-a4c3-9c8b31011498",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Freiräume\": Kunstmuseum Bonn zeigt Wandel und weiblichen Widerstand",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-27T16:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/freiraeume-kunstmuseum-bonn-zeigt-wandel-und-weiblichen-widerstand-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/freiraeume_kunstmuseum_bonn_zeigt_wandel_und_weiblichen_dlf_20261127_1741_2813cd0a.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ee2572ba-f150-5eff-9955-36491919cf8b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "NS - Soldatenlieder als Remixe - Thorsten Hindrichs, Musikwissenschaftler",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-27T14:10:42.000Z",
+    "url": "https://www.deutschlandfunk.de/ns-soldatenlieder-als-remixe-thorsten-hindrichs-musikwissenschaftler-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/ns_soldatenlieder_als_remixe_thorsten_hindrichs_dlf_20261127_1510_0d72e1a9.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:dbb43439-a7b2-59ce-8e6c-a9d55554923d",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -282,84 +411,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:1e24bc7f-0272-5a0e-bfaf-535496e9a355",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Keine Hoffnung auf Veränderung - Israelische Theatermacher zur Lage im Land",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-25T16:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/keine-hoffnung-auf-veraenderung-israelische-theatermacher-zur-lage-im-land-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/keine_hoffnung_auf_veraenderung_israelische_theatermacher_dlf_20261125_1752_16b842ea.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:89c178fd-932a-5a49-9eee-d22717cf177c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Orange Day\" - Machtmissbrauch und sexuelle Gewalt in der Kulturbranche",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-25T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/orange-day-machtmissbrauch-und-sexuelle-gewalt-in-der-kulturbranche-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/orange_day_machtmissbrauch_und_sexuelle_gewalt_in_der_dlf_20261125_1741_abb48424.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3dcb75dc-62f0-5409-8188-0787da311759",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kanal-Centre Pompidou - Neues Museum für Gegenwartskunst in Brüssel",
-    "summary": "Brockhues, Annabell www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-25T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kanal-centre-pompidou-neues-museum-fuer-gegenwartskunst-in-bruessel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/25/kanal_centre_pompidou_neues_museum_fuer_gegenwartskunst_in_dlf_20261125_1736_eeb1cb53.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:bd819647-3737-5fb8-93c2-6f5d7af07b2a",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -461,32 +512,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:3ff04a69-2540-5986-82e6-5de9ab2db43f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 24.11.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/kulturmeldungen_24112026_dlf_20261124_1756_7eb8920b.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:4332375f-4d07-57ad-b2b3-833eed810f5e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -523,31 +548,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/monobloc_ein_plastikstuhl_als_inspiration_fuer_dlf_20261124_1515_4009d262.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:53ecb73d-6af7-54b9-af52-83923cf3982b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutsche Doku \"Der talentierte Mr. F.\" gewinnt International Emmy Award",
-    "summary": "Ucar, Giselle www.deutschlandfunk.de, Corso",
-    "date": "2026-11-24T14:06:29.000Z",
-    "url": "https://www.deutschlandfunk.de/deutsche-doku-der-talentierte-mr-f-gewinnt-international-emmy-award-106.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/deutsche_doku_der_talentierte_mr_f_gewinnt_international_dlf_20261124_1506_3ee62b60.mp3?refId=corso-104",
-    "duration": "4 Min",
     "tags": [
       "kultur",
       "pop",
